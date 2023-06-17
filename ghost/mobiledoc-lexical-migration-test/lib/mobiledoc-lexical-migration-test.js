@@ -7,8 +7,6 @@ const fs = require('fs');
 const path = require('path');
 const posts = require('./data/posts.json');
 
-console.log(typeof posts);
-
 // Clear out past results and recreate the results directory
 const resultsPath = path.join(__dirname, 'results');
 if (fs.existsSync(resultsPath)) {
@@ -20,17 +18,20 @@ if (!fs.existsSync(resultsPath)) {
 
 const testPosts = async function () {
     let failures = 0;
-    for (const post in posts) {
-        console.log(post);
-        console.log('Comparing post ' + post.uuid);
-        const mobiledoc = post.mobiledoc;
-        const mobiledocHtml = renderMobiledocToHtml(mobiledoc);
-        const lexicalHtml = renderConvertedMobiledocToHtml(mobiledoc);
-        if (lexicalHtml !== undefined) {
-            const result = await assertHTML(post.uuid, mobiledocHtml, lexicalHtml);
-            if (!result) {
-                failures += 1;
-            }
+    for (let i = 0; i < posts.length; i++) {
+        console.log('Comparing post ' + i + ' id ' + posts[i].uuid);
+        const mobiledoc = posts[i].mobiledoc;
+        const mobiledocHtml = mobiledocLib.mobiledocHtmlRenderer.render(JSON.parse(mobiledoc));
+        let lexical = {};
+        try {
+            lexical = mobiledocToLexical(mobiledoc);
+        } catch (err) {
+            console.log('🚨 Error converting mobiledoc to lexical: ', err);
+        }
+        const lexicalHtml = lexicalLib.render(lexical);
+        const result = await assertHTML(posts[i].uuid, mobiledocHtml, lexicalHtml, mobiledoc, lexical);
+        if (!result) {
+            failures += 1;
         }
     }
     console.log('Total Posts: ' + results.length);
@@ -39,33 +40,3 @@ const testPosts = async function () {
 };
 
 testPosts();
-
-const renderMobiledocToHtml = function (mobiledoc) {
-    return mobiledocLib.mobiledocHtmlRenderer.render(JSON.parse(mobiledoc));
-};
-
-const renderConvertedMobiledocToHtml = function (mobiledoc) {
-    try {
-        const lexical = mobiledocToLexical(mobiledoc);
-        if (lexical) {
-            return lexicalLib.render(lexical);
-        }
-        return undefined;
-    } catch (err) {
-        console.log('🚨 Error converting mobiledoc to lexical: ', err);
-    }
-};
-
-const compareRenderedHtml = function (mobiledoc) {
-    const mobiledocHtml = renderMobiledocToHtml(mobiledoc);
-    const lexicalHtml = renderConvertedMobiledocToHtml(mobiledoc);
-    if (lexicalHtml) {
-        return assertHTML(mobiledocHtml, lexicalHtml);
-    }
-};
-
-module.exports = {
-    renderMobiledocToHtml,
-    renderConvertedMobiledocToHtml,
-    compareRenderedHtml
-};

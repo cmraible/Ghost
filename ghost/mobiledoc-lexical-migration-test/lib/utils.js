@@ -1,6 +1,4 @@
 const jsdom = require('jsdom');
-const prettier = require('prettier');
-const mysql = require('mysql');
 const fs = require('fs');
 const path = require('path');
 let beautify = require('js-beautify').html;
@@ -11,6 +9,8 @@ const assertHTML = async function (
     postId,
     mobiledocHtml,
     lexicalHtml,
+    mobiledoc,
+    lexical,
     {
         ignoreClasses = false,
         ignoreInlineStyles = false,
@@ -23,7 +23,7 @@ const assertHTML = async function (
         ignoreCardCaptionContents = false
     } = {}
 ) {
-    const mobiledoc = await prettifyHTML(mobiledocHtml.replace(/\n/gm, ''), {
+    const mobiledocPrettifiedHtml = await prettifyHTML(mobiledocHtml.replace(/\n/gm, ''), {
         ignoreClasses,
         ignoreInlineStyles,
         ignoreInnerSVG,
@@ -34,7 +34,7 @@ const assertHTML = async function (
         ignoreDataTestId,
         ignoreCardCaptionContents
     });
-    const lexical = await prettifyHTML(lexicalHtml.replace(/\n/gm, ''), {
+    const lexicalPrettifiedHtml = await prettifyHTML(lexicalHtml.replace(/\n/gm, ''), {
         ignoreClasses,
         ignoreInlineStyles,
         ignoreInnerSVG,
@@ -45,16 +45,20 @@ const assertHTML = async function (
         ignoreDataTestId,
         ignoreCardCaptionContents
     });
-    if (mobiledoc === lexical) {
+    if (mobiledocPrettifiedHtml === lexicalPrettifiedHtml) {
         console.log('Post ID: ' + postId + ': ✅');
         return true;
     } else {
         console.log('Post ID: ' + postId + ': ❌');
         fs.mkdirSync(path.join(__dirname, 'results', postId), {recursive: true});
-        const mobiledocPath = path.join(__dirname, 'results', postId, 'mobiledoc.html');
-        const lexicalPath = path.join(__dirname, 'results', postId, 'lexical.html');
-        fs.writeFileSync(mobiledocPath, mobiledoc, {flag: 'w+'});
-        fs.writeFileSync(lexicalPath, lexical, {flag: 'w+'});
+        const mobiledocHtmlPath = path.join(__dirname, 'results', postId, 'mobiledoc.html');
+        const lexicalHtmlPath = path.join(__dirname, 'results', postId, 'lexical.html');
+        const lexicalPath = path.join(__dirname, 'results', postId, 'lexical.json');
+        const mobiledocPath = path.join(__dirname, 'results', postId, 'mobiledoc.json');
+        fs.writeFileSync(mobiledocHtmlPath, mobiledocPrettifiedHtml, {flag: 'w+'});
+        fs.writeFileSync(lexicalHtmlPath, lexicalPrettifiedHtml, {flag: 'w+'});
+        fs.writeFileSync(lexicalPath, JSON.stringify(JSON.parse(lexical), null, 2), {flag: 'w+'});
+        fs.writeFileSync(mobiledocPath, JSON.stringify(JSON.parse(mobiledoc), null, 2), {flag: 'w+'});
         return false;
     }
 };
@@ -151,37 +155,4 @@ const prettifyHTML = async function (string, options = {}) {
     return beautify(output);
 };
 
-const getPosts = async function () {
-    const posts = [];
-    const connection = mysql.createConnection({
-        host: '127.0.0.1',
-        user: 'root',
-        password: 'password',
-        database: 'thelever'
-    });
-    
-    connection.connect(function (err) {
-        if (err) {
-            console.error('error connecting: ' + err.stack);
-            return;
-        }
-      
-        console.log('connected as id ' + connection.threadId);
-    });
-    
-    connection.query('SELECT mobiledoc FROM posts;', function (error, results, fields) {
-        if (error) {
-            throw error;
-        }
-    
-        for (let i = 0; i < results.length; i++) {
-            posts.push(results[i].mobiledoc);
-        }
-    });
-
-    connection.end();
-
-    return posts;
-};
-
-module.exports = {assertHTML, getPosts};
+module.exports = {assertHTML};
