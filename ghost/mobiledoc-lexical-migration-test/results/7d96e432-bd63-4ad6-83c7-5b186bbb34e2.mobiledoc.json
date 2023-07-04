@@ -1,0 +1,384 @@
+{
+  "version": "0.3.1",
+  "atoms": [],
+  "cards": [
+    [
+      "hr",
+      {}
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "html",
+      {
+        "html": "<table id=\"production-numbers-table\">\n<tbody>\n\t<tr>\n\t\t<td>442</td>\n\t\t<td>24,833</td>\n\t</tr>\n\t\t<td><b>Total Production</b></td>\n\t\t<td><b>24,833</b></td>\n\t</tr>\n</tbody>\n</table>"
+      }
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "html",
+      {
+        "html": "<table id=\"performance-specs-table\">\n<tbody>\n\t<tr>\n\t\t<th><b>Engine</b></th>\n\t\t<th><b>Size</b></td>\n\t\t<th><b>Carb.</b></td>\n\t\t<th><b>HP</b></td>\n\t\t<th><b>Torque</b></td>\n\t\t<th><b>0 to 60</b></td>\n\t\t<th><b>Quarter mile</b></td>\n\t</tr>\n\t<tr>\n\t\t<td>W-30</td>\n\t\t<td>400ci</td>\n\t\t<td>1x4bbl</td>\n\t\t<td>360</td>\n\t\t<td>440 lb-ft</td>\n\t\t<td>6.5 sec</td>\n\t\t<td>14.1 sec @ 103 mph</td>\n\t</tr>\n<tr>\n\t\t<td>400 V8</td>\n\t\t<td>4000ci</td>\n\t\t<td>1x4bbl</td>\n\t\t<td>350</td>\n\t\t<td>440 lb-ft</td>\n    \t<td>-</td>\n\t\t<td>-</td>\n\t</tr>\n<tr>\n\t\t<td>L66</td>\n\t\t<td>400ci</td>\n\t\t<td>1x4bbl</td>\n\t\t<td>300</td>\n\t\t<td>425 lb-ft</td>\n    \t<td>-</td>\n\t\t<td>-</td>\n\t</tr>\n</tbody>\n</table>"
+      }
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "html",
+      {
+        "html": "<h4 id='colors-sub-heading'>Exterior</h4>\n<div class=\"colors-row\">\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #000000\"></div>\n        <div class=\"color-name\">Ebony Black</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #687881\"></div>\n        <div class=\"color-name\">Turquoise Frost</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #e1dcc9\"></div>\n        <div class=\"color-name\">Provincial White</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #57708f\"></div>\n        <div class=\"color-name\">Crystal Blue</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #21263c\"></div>\n        <div class=\"color-name\">Midnight Blue</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #3a5a7e\"></div>\n        <div class=\"color-name\">Mimini Blue</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #8d785e\"></div>\n        <div class=\"color-name\">Gold</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #7c8b7a\"></div>\n        <div class=\"color-name\">Aspen Green</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #303d40\"></div>\n        <div class=\"color-name\">Emerald Green</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #648e9a\"></div>\n        <div class=\"color-name\">Aquamarine</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #2e4554\"></div>\n        <div class=\"color-name\">Tahoe Turquoise</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #391d1c\"></div>\n        <div class=\"color-name\">Burgundy Mist</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #9e9683\"></div>\n        <div class=\"color-name\">Pewter</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #962523\"></div>\n        <div class=\"color-name\">Spanish Red</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #a79675\"></div>\n        <div class=\"color-name\">Champagne</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #eae0bc\"></div>\n        <div class=\"color-name\">Cameo Ivory</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #42232e\"></div>\n        <div class=\"color-name\">Dubonnet</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #565553\"></div>\n        <div class=\"color-name\">Antique Pewter</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #a19a82\"></div>\n        <div class=\"color-name\">Sauterne</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #742628\"></div>\n        <div class=\"color-name\">Carnet Red</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #fdeda5\"></div>\n        <div class=\"color-name\">Saffron</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #8b805e\"></div>\n        <div class=\"color-name\">Florentine Gold</div>\n    </div>\n</div>\n\n<h4 id='colors-sub-heading'>Interior</h4>\n<div class=\"colors-row\">\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #000000\"></div>\n        <div class=\"color-name\">Black</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #6d8b9c\"></div>\n        <div class=\"color-name\">Lt. Blue</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #821519\"></div>\n        <div class=\"color-name\">Red</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #c2c3b5\"></div>\n        <div class=\"color-name\">Parchment</div>\n    </div>\n</div>"
+      }
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "gallery",
+      {
+        "images": [
+          {
+            "fileName": "1681_1967_Oldsmobile_442-01_low_res.jpg",
+            "row": 0,
+            "width": 650,
+            "height": 498,
+            "src": "__GHOST_URL__/content/images/2020/06/1681_1967_Oldsmobile_442-01_low_res.jpg"
+          },
+          {
+            "fileName": "1679_1967_Oldsmobile_442-03_low_res.jpg",
+            "row": 0,
+            "width": 600,
+            "height": 458,
+            "src": "__GHOST_URL__/content/images/2020/06/1679_1967_Oldsmobile_442-03_low_res.jpg"
+          },
+          {
+            "fileName": "1680_1967_Oldsmobile_442-02_low_res.jpg",
+            "row": 0,
+            "width": 626,
+            "height": 485,
+            "src": "__GHOST_URL__/content/images/2020/06/1680_1967_Oldsmobile_442-02_low_res.jpg"
+          },
+          {
+            "fileName": "1678_1967_Oldsmobile_442-04_low_res.jpg",
+            "row": 1,
+            "width": 790,
+            "height": 604,
+            "src": "__GHOST_URL__/content/images/2020/06/1678_1967_Oldsmobile_442-04_low_res.jpg"
+          }
+        ],
+        "caption": "1967 Oldsmobile 442 OEM Brochures"
+      }
+    ],
+    [
+      "hr",
+      {}
+    ]
+  ],
+  "markups": [
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/tag/research/"
+      ]
+    ]
+  ],
+  "sections": [
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Overview"
+        ]
+      ]
+    ],
+    [
+      10,
+      0
+    ],
+    [
+      1,
+      "h3",
+      [
+        [
+          0,
+          [],
+          0,
+          "The 442 option was now based on the top-line Cutlass Supreme."
+        ]
+      ]
+    ],
+    [
+      10,
+      1
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "The 1967 442's styling and base engine remained the same, except for an increase in intake valve size. GM also put a ban on the tri-carb setup, but power output remained the same as the previous year with that setup."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "The 3-speed auto Turbo Hydra-Matic became available as a transmission option. They heavy-duty floor-mounted 3-speed manual was now standard with the Muncie M-20 and the M-21 four-speed was optional, all with Hurst shifters."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Front disc brakes were now an option."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "The W-30 package was still available now with red plastic inner fender liners. 502 factory W-30 engines were built to meet NHRA homologation rules."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "The 442 option was now based on the top-line Cutlass Supreme."
+        ]
+      ]
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Production Numbers"
+        ]
+      ]
+    ],
+    [
+      10,
+      2
+    ],
+    [
+      10,
+      3
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Performance Specs"
+        ]
+      ]
+    ],
+    [
+      10,
+      4
+    ],
+    [
+      10,
+      5
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Transmission"
+        ]
+      ]
+    ],
+    [
+      10,
+      6
+    ],
+    [
+      3,
+      "ul",
+      [
+        [
+          [
+            0,
+            [],
+            0,
+            "4-Speed Manual Wide Ratio"
+          ]
+        ],
+        [
+          [
+            0,
+            [],
+            0,
+            "3-Speed Turbo Hydra-Matic"
+          ]
+        ],
+        [
+          [
+            0,
+            [],
+            0,
+            "Heavy-Duty 3-Speed"
+          ]
+        ],
+        [
+          [
+            0,
+            [],
+            0,
+            "4-Speed Manual Close Ratio"
+          ]
+        ]
+      ]
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Paint & Colors"
+        ]
+      ]
+    ],
+    [
+      10,
+      7
+    ],
+    [
+      10,
+      8
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "OEM Brochures"
+        ]
+      ]
+    ],
+    [
+      10,
+      9
+    ],
+    [
+      10,
+      10
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "About the Knowledge Base"
+        ]
+      ]
+    ],
+    [
+      10,
+      11
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "The Motorious Knowledge Base provides a comprehensive vehicle overview for the 1967 Oldsmobile 442 including production numbers, performance specs, factory colors, and OEM brochures. Check out additional model years or related content linked to this article or view other Makes and Models in our "
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "Research"
+        ],
+        [
+          0,
+          [],
+          0,
+          " center."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "If you have any interesting facts about the 1967 Oldsmobile 442 to add, want to tell us how we did covering the Olds 442, or want to tell us about yours, please leave a comment below."
+        ]
+      ]
+    ]
+  ],
+  "ghostVersion": "3.0"
+}

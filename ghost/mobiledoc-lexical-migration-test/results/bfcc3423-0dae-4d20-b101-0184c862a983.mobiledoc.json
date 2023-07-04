@@ -1,0 +1,810 @@
+{
+  "version": "0.3.1",
+  "atoms": [],
+  "cards": [
+    [
+      "hr",
+      {}
+    ],
+    [
+      "image",
+      {
+        "src": "__GHOST_URL__/content/images/2023/01/Tesla-Price-Cuts-Anger-Tesla-Owners.jpg",
+        "width": 1920,
+        "height": 1080
+      }
+    ],
+    [
+      "image",
+      {
+        "src": "__GHOST_URL__/content/images/2023/01/Tesla-Price-Cuts-Anger-Tesla-Owners-3.jpg",
+        "width": 1920,
+        "height": 1080
+      }
+    ],
+    [
+      "embed",
+      {
+        "url": "https://twitter.com/anasalhajji/status/1611985869132673024?s=20&t=pMikJRlqI0LYJq-OQDsE5g",
+        "html": "<blockquote class=\"twitter-tweet\"><p lang=\"en\" dir=\"ltr\">Protesters who bought Teslas stormed a Tesla store in China after price cuts demanding a refund of the price difference. <br><br>Do you think they have the right to be refunded the price difference? Or just those who have not received their cars yet? <a href=\"https://twitter.com/hashtag/Tesla?src=hash&amp;ref_src=twsrc%5Etfw\">#Tesla</a> <a href=\"https://twitter.com/search?q=%24tsla&amp;src=ctag&amp;ref_src=twsrc%5Etfw\">$tsla</a> <a href=\"https://t.co/FzQk3xw263\">pic.twitter.com/FzQk3xw263</a></p>&mdash; Anas Alhajji (@anasalhajji) <a href=\"https://twitter.com/anasalhajji/status/1611985869132673024?ref_src=twsrc%5Etfw\">January 8, 2023</a></blockquote>\n<script async src=\"https://platform.twitter.com/widgets.js\" charset=\"utf-8\"></script>\n",
+        "type": "twitter",
+        "metadata": {
+          "url": "https://twitter.com/anasalhajji/status/1611985869132673024",
+          "author_name": "Anas Alhajji",
+          "author_url": "https://twitter.com/anasalhajji",
+          "width": 550,
+          "height": null,
+          "cache_age": "3153600000",
+          "provider_name": "Twitter",
+          "provider_url": "http://www.twitter.com/",
+          "version": "1.0",
+          "tweet_data": {
+            "entities": {
+              "hashtags": [
+                {
+                  "start": 245,
+                  "end": 251,
+                  "tag": "Tesla"
+                }
+              ],
+              "cashtags": [
+                {
+                  "start": 252,
+                  "end": 257,
+                  "tag": "tsla"
+                }
+              ],
+              "annotations": [
+                {
+                  "start": 22,
+                  "end": 27,
+                  "probability": 0.9468,
+                  "type": "Organization",
+                  "normalized_text": "Teslas"
+                },
+                {
+                  "start": 39,
+                  "end": 43,
+                  "probability": 0.9791,
+                  "type": "Organization",
+                  "normalized_text": "Tesla"
+                },
+                {
+                  "start": 54,
+                  "end": 58,
+                  "probability": 0.9588,
+                  "type": "Place",
+                  "normalized_text": "China"
+                },
+                {
+                  "start": 246,
+                  "end": 250,
+                  "probability": 0.9621,
+                  "type": "Organization",
+                  "normalized_text": "Tesla"
+                },
+                {
+                  "start": 253,
+                  "end": 256,
+                  "probability": 0.9058,
+                  "type": "Organization",
+                  "normalized_text": "tsla"
+                }
+              ],
+              "urls": [
+                {
+                  "start": 258,
+                  "end": 281,
+                  "url": "https://t.co/FzQk3xw263",
+                  "expanded_url": "https://twitter.com/anasalhajji/status/1611985869132673024/video/1",
+                  "display_url": "pic.twitter.com/FzQk3xw263",
+                  "media_key": "7_1611984962491645953"
+                }
+              ]
+            },
+            "author_id": "775175696645623808",
+            "attachments": {
+              "media_keys": [
+                "7_1611984962491645953"
+              ]
+            },
+            "edit_history_tweet_ids": [
+              "1611985869132673024"
+            ],
+            "public_metrics": {
+              "retweet_count": 688,
+              "reply_count": 1737,
+              "like_count": 3556,
+              "quote_count": 290,
+              "impression_count": 3960899
+            },
+            "conversation_id": "1611985869132673024",
+            "lang": "en",
+            "context_annotations": [
+              {
+                "domain": {
+                  "id": "45",
+                  "name": "Brand Vertical",
+                  "description": "Top level entities that describe a Brands industry"
+                },
+                "entity": {
+                  "id": "781974597302226944",
+                  "name": "Transportation"
+                }
+              },
+              {
+                "domain": {
+                  "id": "46",
+                  "name": "Business Taxonomy",
+                  "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+                },
+                "entity": {
+                  "id": "1557696420500541440",
+                  "name": "Automotive, Aircraft & Boat Business",
+                  "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to automobile, spacecraft, aircraft and boat manufacturing"
+                }
+              },
+              {
+                "domain": {
+                  "id": "46",
+                  "name": "Business Taxonomy",
+                  "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+                },
+                "entity": {
+                  "id": "1557696848252391426",
+                  "name": "Financial Services Business",
+                  "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks "
+                }
+              },
+              {
+                "domain": {
+                  "id": "46",
+                  "name": "Business Taxonomy",
+                  "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+                },
+                "entity": {
+                  "id": "1557697333571112960",
+                  "name": "Technology Business",
+                  "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares"
+                }
+              },
+              {
+                "domain": {
+                  "id": "46",
+                  "name": "Business Taxonomy",
+                  "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+                },
+                "entity": {
+                  "id": "1557697439489880065",
+                  "name": "Travel & Transportation Business",
+                  "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to travel as airlines, travel agencies, hotels"
+                }
+              },
+              {
+                "domain": {
+                  "id": "47",
+                  "name": "Brand",
+                  "description": "Brands and Companies"
+                },
+                "entity": {
+                  "id": "10044199219",
+                  "name": "Tesla Motors"
+                }
+              },
+              {
+                "domain": {
+                  "id": "30",
+                  "name": "Entities [Entity Service]",
+                  "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain"
+                },
+                "entity": {
+                  "id": "848920371311001600",
+                  "name": "Technology",
+                  "description": "Technology and computing"
+                }
+              },
+              {
+                "domain": {
+                  "id": "67",
+                  "name": "Interests and Hobbies",
+                  "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks"
+                },
+                "entity": {
+                  "id": "847894852779900928",
+                  "name": "Stocks & indices",
+                  "description": "Stocks"
+                }
+              },
+              {
+                "domain": {
+                  "id": "131",
+                  "name": "Unified Twitter Taxonomy",
+                  "description": "A taxonomy of user interests. "
+                },
+                "entity": {
+                  "id": "10044199219",
+                  "name": "Tesla Motors"
+                }
+              },
+              {
+                "domain": {
+                  "id": "131",
+                  "name": "Unified Twitter Taxonomy",
+                  "description": "A taxonomy of user interests. "
+                },
+                "entity": {
+                  "id": "781974597302226944",
+                  "name": "Transportation"
+                }
+              },
+              {
+                "domain": {
+                  "id": "131",
+                  "name": "Unified Twitter Taxonomy",
+                  "description": "A taxonomy of user interests. "
+                },
+                "entity": {
+                  "id": "839159814991167489",
+                  "name": "Travel",
+                  "description": "Travel"
+                }
+              },
+              {
+                "domain": {
+                  "id": "131",
+                  "name": "Unified Twitter Taxonomy",
+                  "description": "A taxonomy of user interests. "
+                },
+                "entity": {
+                  "id": "847528391163092993",
+                  "name": "Automotive",
+                  "description": "Car culture"
+                }
+              },
+              {
+                "domain": {
+                  "id": "131",
+                  "name": "Unified Twitter Taxonomy",
+                  "description": "A taxonomy of user interests. "
+                },
+                "entity": {
+                  "id": "847894852779900928",
+                  "name": "Stocks & indices",
+                  "description": "Stocks"
+                }
+              },
+              {
+                "domain": {
+                  "id": "131",
+                  "name": "Unified Twitter Taxonomy",
+                  "description": "A taxonomy of user interests. "
+                },
+                "entity": {
+                  "id": "864154902926196737",
+                  "name": "S&P 500",
+                  "description": "S&P 500"
+                }
+              },
+              {
+                "domain": {
+                  "id": "131",
+                  "name": "Unified Twitter Taxonomy",
+                  "description": "A taxonomy of user interests. "
+                },
+                "entity": {
+                  "id": "1301568510271709184",
+                  "name": "$TSLA"
+                }
+              },
+              {
+                "domain": {
+                  "id": "131",
+                  "name": "Unified Twitter Taxonomy",
+                  "description": "A taxonomy of user interests. "
+                },
+                "entity": {
+                  "id": "1362135345043673092",
+                  "name": "Electric vehicles"
+                }
+              },
+              {
+                "domain": {
+                  "id": "165",
+                  "name": "Technology",
+                  "description": "for individual and types of technology, e.g., food technology, 3D printing"
+                },
+                "entity": {
+                  "id": "848920371311001600",
+                  "name": "Technology",
+                  "description": "Technology and computing"
+                }
+              },
+              {
+                "domain": {
+                  "id": "166",
+                  "name": "Stocks",
+                  "description": "for individual and types of stocks, e.g., $TRX, $QQQ"
+                },
+                "entity": {
+                  "id": "1301568510271709184",
+                  "name": "$TSLA"
+                }
+              },
+              {
+                "domain": {
+                  "id": "30",
+                  "name": "Entities [Entity Service]",
+                  "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain"
+                },
+                "entity": {
+                  "id": "781972125179518977",
+                  "name": "Auto Manufacturer - Auto"
+                }
+              },
+              {
+                "domain": {
+                  "id": "47",
+                  "name": "Brand",
+                  "description": "Brands and Companies"
+                },
+                "entity": {
+                  "id": "10044199219",
+                  "name": "Tesla Motors"
+                }
+              },
+              {
+                "domain": {
+                  "id": "65",
+                  "name": "Interests and Hobbies Vertical",
+                  "description": "Top level interests and hobbies groupings, like Food or Travel"
+                },
+                "entity": {
+                  "id": "847528391163092993",
+                  "name": "Automotive",
+                  "description": "Car culture"
+                }
+              },
+              {
+                "domain": {
+                  "id": "66",
+                  "name": "Interests and Hobbies Category",
+                  "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+                },
+                "entity": {
+                  "id": "847528576551337984",
+                  "name": "Hybrid and electric vehicles",
+                  "description": "Hybrid and electric vehicles"
+                }
+              },
+              {
+                "domain": {
+                  "id": "66",
+                  "name": "Interests and Hobbies Category",
+                  "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+                },
+                "entity": {
+                  "id": "847528646185070592",
+                  "name": "Luxury Cars",
+                  "description": "Luxury"
+                }
+              },
+              {
+                "domain": {
+                  "id": "131",
+                  "name": "Unified Twitter Taxonomy",
+                  "description": "A taxonomy of user interests. "
+                },
+                "entity": {
+                  "id": "10044199219",
+                  "name": "Tesla Motors"
+                }
+              },
+              {
+                "domain": {
+                  "id": "131",
+                  "name": "Unified Twitter Taxonomy",
+                  "description": "A taxonomy of user interests. "
+                },
+                "entity": {
+                  "id": "847528391163092993",
+                  "name": "Automotive",
+                  "description": "Car culture"
+                }
+              },
+              {
+                "domain": {
+                  "id": "131",
+                  "name": "Unified Twitter Taxonomy",
+                  "description": "A taxonomy of user interests. "
+                },
+                "entity": {
+                  "id": "1196845866138533888",
+                  "name": "Automobile Brands"
+                }
+              },
+              {
+                "domain": {
+                  "id": "47",
+                  "name": "Brand",
+                  "description": "Brands and Companies"
+                },
+                "entity": {
+                  "id": "10044199219",
+                  "name": "Tesla Motors"
+                }
+              },
+              {
+                "domain": {
+                  "id": "29",
+                  "name": "Events [Entity Service]",
+                  "description": "Real world events. "
+                },
+                "entity": {
+                  "id": "788929372342263808",
+                  "name": "Cheddar",
+                  "description": "Cheddar"
+                }
+              }
+            ],
+            "created_at": "2023-01-08T07:19:15.000Z",
+            "possibly_sensitive": false,
+            "id": "1611985869132673024",
+            "reply_settings": "everyone",
+            "text": "Protesters who bought Teslas stormed a Tesla store in China after price cuts demanding a refund of the price difference. \n\nDo you think they have the right to be refunded the price difference? Or just those who have not received their cars yet? #Tesla $tsla https://t.co/FzQk3xw263",
+            "includes": {
+              "media": [
+                {
+                  "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1611984962491645953/pu/img/vctUt3KGMTwkFxol.jpg",
+                  "width": 1280,
+                  "type": "video",
+                  "media_key": "7_1611984962491645953",
+                  "height": 720,
+                  "public_metrics": {
+                    "view_count": 6823928
+                  },
+                  "duration_ms": 11818
+                }
+              ],
+              "users": [
+                {
+                  "pinned_tweet_id": "1609240546580598785",
+                  "id": "775175696645623808",
+                  "url": "https://t.co/JSCHcuW59q",
+                  "verified": true,
+                  "name": "Anas Alhajji",
+                  "protected": false,
+                  "profile_image_url": "https://pbs.twimg.com/profile_images/1527109253550555136/2BXsveca_normal.jpg",
+                  "public_metrics": {
+                    "followers_count": 141121,
+                    "following_count": 532,
+                    "tweet_count": 152804,
+                    "listed_count": 1838
+                  },
+                  "created_at": "2016-09-12T03:34:22.000Z",
+                  "location": "Dallas, USA",
+                  "entities": {
+                    "url": {
+                      "urls": [
+                        {
+                          "start": 0,
+                          "end": 23,
+                          "url": "https://t.co/JSCHcuW59q",
+                          "expanded_url": "http://www.anasalhajji.com",
+                          "display_url": "anasalhajji.com"
+                        }
+                      ]
+                    },
+                    "description": {
+                      "urls": [
+                        {
+                          "start": 52,
+                          "end": 75,
+                          "url": "https://t.co/LfUHIpXsWu",
+                          "expanded_url": "http://anasalhajjieoa.substack.com",
+                          "display_url": "anasalhajjieoa.substack.com"
+                        },
+                        {
+                          "start": 76,
+                          "end": 99,
+                          "url": "https://t.co/ScsYFu9Ogp",
+                          "expanded_url": "https://clarity.fm/anasalhajji",
+                          "display_url": "clarity.fm/anasalhajji"
+                        },
+                        {
+                          "start": 100,
+                          "end": 123,
+                          "url": "https://t.co/oCC6irfqv5",
+                          "expanded_url": "http://attaqa.net",
+                          "display_url": "attaqa.net"
+                        },
+                        {
+                          "start": 124,
+                          "end": 147,
+                          "url": "https://t.co/PD7dHkdMXt",
+                          "expanded_url": "http://anasalhajji.com",
+                          "display_url": "anasalhajji.com"
+                        }
+                      ],
+                      "hashtags": [
+                        {
+                          "start": 149,
+                          "end": 161,
+                          "tag": "Oil_History"
+                        }
+                      ]
+                    }
+                  },
+                  "description": "Keynote Speaker and Woodworker.  \nEverything Energy\nhttps://t.co/LfUHIpXsWu\nhttps://t.co/ScsYFu9Ogp\nhttps://t.co/oCC6irfqv5\nhttps://t.co/PD7dHkdMXt\n\n#Oil_History",
+                  "username": "anasalhajji"
+                }
+              ]
+            }
+          }
+        }
+      }
+    ],
+    [
+      "image",
+      {
+        "src": "__GHOST_URL__/content/images/2023/01/Tesla-Price-Cuts-Anger-Tesla-Owners-4.jpg",
+        "width": 1920,
+        "height": 1080
+      }
+    ],
+    [
+      "embed",
+      {
+        "url": "https://www.youtube.com/watch?v=y-Jh7Efx3lU",
+        "html": "<iframe width=\"200\" height=\"150\" src=\"https://www.youtube.com/embed/y-Jh7Efx3lU?feature=oembed\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen title=\"Arkansas Cops Continue To Entertain, The HEMI Is Cancelled Some More And The Passing Of Ken Block\"></iframe>",
+        "type": "video",
+        "metadata": {
+          "title": "Arkansas Cops Continue To Entertain, The HEMI Is Cancelled Some More And The Passing Of Ken Block",
+          "author_name": "Motorious",
+          "author_url": "https://www.youtube.com/@Motorious",
+          "height": 150,
+          "width": 200,
+          "version": "1.0",
+          "provider_name": "YouTube",
+          "provider_url": "https://www.youtube.com/",
+          "thumbnail_height": 360,
+          "thumbnail_width": 480,
+          "thumbnail_url": "https://i.ytimg.com/vi/y-Jh7Efx3lU/hqdefault.jpg"
+        }
+      }
+    ]
+  ],
+  "markups": [
+    [
+      "strong"
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/articles/news/guy-installs-generator-tesla/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://driving.ca/auto-news/news/tesla-price-drop-angers-current-owners"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.businessinsider.com/teslas-get-cheaper-because-elon-musk-has-no-choice-2023-1"
+      ]
+    ]
+  ],
+  "sections": [
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Are they right or just entitled?"
+        ]
+      ]
+    ],
+    [
+      10,
+      0
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Certain newer Tesla owners are incredibly mad after shelling out a pretty penny for their electric car, only to find out the American automaker slashed prices on certain models lately. While the company made the move to incentive buyers, allowing more to qualify for a nice $7,500 tax payer-funded credit, something all automakers with qualifying EVs are aggressively pursuing lately, for some recent buyers the move just makes them feel bitter."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [
+            0
+          ],
+          0,
+          "Check out one man’s genius range-extended Tesla "
+        ],
+        [
+          0,
+          [
+            1
+          ],
+          1,
+          "here"
+        ],
+        [
+          0,
+          [],
+          1,
+          "."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Not all Tesla models saw a price slash, and for some versions they were light. However, with certain models the cuts went as high as a 20 percent reduction. That’s significant when you’re talking about a luxury vehicle valued at $70,000-plus."
+        ]
+      ]
+    ],
+    [
+      10,
+      1
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "We’ve probably all been there, seeing a product we bought not that long ago put on sale for far less than what we paid. While that can be frustrating, some Tesla owners are seeing red upon realizing they could have saved thousands. For example, “Tesla fan girl” Marianne Simmons took to Twitter to express her rage. She claims to have paid $72,440 for her Model Y Performance, taking delivery in late September, but now realizes she could have paid $59,630 for the exact same EV had she held off until now."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Another recent Tesla owner told Canadian automotive site "
+        ],
+        [
+          0,
+          [
+            2
+          ],
+          1,
+          "Driving"
+        ],
+        [
+          0,
+          [],
+          0,
+          " he was so furious about the price cuts on the Model Y configuration he took delivery of in December that he couldn’t even look at his EV, choosing to drive a Prius to work instead. He probably also ordered extra whipped cream for his soy chai vanilla latte, but we admittedly are speculating there."
+        ]
+      ]
+    ],
+    [
+      10,
+      2
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Customers in China have taken perhaps the most radical measures to pressure for a refund. A group stormed a Tesla store, waving signs, yelling, and chanting in a chaotic protest that at least didn’t appear to involve any violence. This is how emotional people are about the turn of events."
+        ]
+      ]
+    ],
+    [
+      10,
+      3
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Some analysts think this is the first shot in a coming EV price war. That seems odd considering how niche electric cars are still and how expensive they are to manufacture. However, if Tesla feels it has a manufacturing cost advantage, the strategy could help it stave off competitors which otherwise would threaten its stranglehold on the market. In the process, it’s angering some customers, but perhaps it’s like the old saying about how you have to break a few eggs to make an omelet."
+        ]
+      ]
+    ],
+    [
+      10,
+      4
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "However, many investors aren’t impressed by the move. "
+        ],
+        [
+          0,
+          [
+            3
+          ],
+          1,
+          "Business Insider"
+        ],
+        [
+          0,
+          [],
+          0,
+          " says it shows Elon Musk has been backed into a corner, thanks in part to rising interest rates. That’s an odd observation since the entire automotive industry has been negatively impacted by that, so why is Tesla any different? The publication argues that answer lies in the fact Tesla has been valued on Wall Street in similar fashion to tech stocks. In other words, the shocking reality is Tesla might not be the most valuable automaker in the entire world, something many industry insiders already knew, which was why claims by financial gurus, media outlets, etc. that Tesla was the future of cars elicited laughs, eye rolls, etc."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "But wait, there’s more. Insider also observes what others have pointed out, that demand for Teslas is softening. Chalk it up to everyone who was interested in one already having scooped their Model Y, Model 3, etc. up or the fact everyone and their grandma’s dog is making an EV these days so consumers have more choices. The fact is Tesla is seeing a slowing demand. Cutting prices is viewed by many as a way to help correct that."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Images via Tesla"
+        ]
+      ]
+    ],
+    [
+      10,
+      5
+    ],
+    [
+      1,
+      "p",
+      []
+    ]
+  ],
+  "ghostVersion": "4.0"
+}

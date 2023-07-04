@@ -1,0 +1,970 @@
+{
+  "version": "0.3.1",
+  "atoms": [],
+  "cards": [
+    [
+      "email-cta",
+      {
+        "showButton": true,
+        "showDividers": false,
+        "segment": "status:-free",
+        "alignment": "center",
+        "html": "<p><em><strong>This is You Love To See It — a weekly feature reviewing good news, progress and action steps that’s one of the many features available only to </strong></em><strong>Lever</strong><em><strong> supporting subscribers. Thank you so much for being a supporting subscriber — we couldn’t do this reporting without your support.</strong></em></p>",
+        "buttonText": "Click Here To Comment",
+        "buttonUrl": "__GHOST_URL__/you-love-to-see-it-a-week-of-mass-action/#comments"
+      }
+    ],
+    [
+      "email",
+      {
+        "html": "<p><strong><u><em><a href=\"https://twitter.com/intent/tweet?text=YOU%20LOVE%20TO%20SEE%20IT%3A%20A%20Week%20Of%20Mass%20Action.%20Also%2C%20congressional%20staffers%20push%20forward%20on%20union%20drive%2C%20teachers%20call%20for%20fossil%20fuel%20divestment%2C%20and%20two%20federal%20agencies%20join%20forces%20to%20help%20workers.%20https%3A%2F%2Fwww.levernews.com%2Fyou-love-to-see-it-a-week-of-mass-action%2F%3Futm_source%3Dtwitter%26utm_medium%3Dlink%26utm_campaign%3Dtw-prefill\">Click to share on Twitter</a></em></u></strong></p>"
+      }
+    ],
+    [
+      "email",
+      {
+        "html": "<p><em><strong><a href=\"https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.levernews.com%2Fyou-love-to-see-it-a-week-of-mass-action%2F&amp;amp;src=sdkpreparse\">Click to share on Facebook</a></strong></em></p>"
+      }
+    ],
+    [
+      "paywall",
+      {}
+    ],
+    [
+      "callout",
+      {
+        "calloutEmoji": "👉",
+        "calloutText": "<strong>HELP US GROW, FOLLOW US ON SOCIAL MEDIA:</strong><br>• <a href=\"https://www.twitter.com/LeverNews\"><strong>Twitter</strong></a><br>• <a href=\"https://www.facebook.com/TheLeverNews\"><strong>Facebook</strong></a><br>• <a href=\"https://www.instagram.com/LeverNews\"><strong>Instagram</strong></a><br>• <a href=\"https://www.youtube.com/c/LeverNews\"><strong>YouTube</strong></a>",
+        "backgroundColor": "grey"
+      }
+    ],
+    [
+      "button",
+      {
+        "alignment": "center",
+        "buttonText": "Tip Jar",
+        "buttonUrl": "https://dailyposter.outpost.pub/ghost-integration/60818189ad12f332071054b8/tips"
+      }
+    ],
+    [
+      "button",
+      {
+        "alignment": "center",
+        "buttonText": "Give A Gift Subscription",
+        "buttonUrl": "https://dailyposter.outpost.pub/gift_subscription#/"
+      }
+    ],
+    [
+      "email-cta",
+      {
+        "showButton": true,
+        "showDividers": false,
+        "segment": "status:-free",
+        "alignment": "center",
+        "html": "",
+        "buttonText": "Click Here To Comment",
+        "buttonUrl": "__GHOST_URL__/you-love-to-see-it-a-week-of-mass-action/#comments"
+      }
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "email-cta",
+      {
+        "showButton": true,
+        "showDividers": false,
+        "segment": "status:-free",
+        "alignment": "center",
+        "html": "",
+        "buttonText": "Tip Jar",
+        "buttonUrl": "https://dailyposter.outpost.pub/ghost-integration/60818189ad12f332071054b8/tips"
+      }
+    ],
+    [
+      "email-cta",
+      {
+        "showButton": true,
+        "showDividers": false,
+        "segment": "status:free",
+        "alignment": "center",
+        "html": "",
+        "buttonText": "Upgrade",
+        "buttonUrl": "https://levernews.com/membership/?utm_source=yltsi&utm_medium=link&utm_campaign=upgrade"
+      }
+    ],
+    [
+      "email",
+      {
+        "html": "<p><em><strong>Help us spread the word! </strong>Please forward this email to family and friends.</em></p><p><em><strong>Was this email forwarded to you? </strong><a href=\"https://levernews.com/membership/?utm_source=yltsi&amp;utm_medium=link&amp;utm_campaign=forward-signup\">Sign up for free</a> to receive original reporting like this in your inbox every day.</em></p>"
+      }
+    ]
+  ],
+  "markups": [
+    [
+      "a",
+      [
+        "href",
+        "https://www.nlrb.gov/news-outreach/news-story/first-three-quarters-union-election-petitions-up-56-exceeding-all-fy21"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.ft.com/content/f270c3e2-2731-407e-9ef5-de6a11a085a4"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.ft.com/content/8dac1948-dd32-4603-9ec2-eea9b6c5f7c3"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.theguardian.com/business/2022/jun/30/bt-staff-vote-for-first-national-strike-in-35-years"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.cnn.com/2022/07/12/politics/congress-staffers-climate-letter-pelosi-schumer/index.html"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.congressionalworkersunion.org/press-releases/staff-of-eight-house-offices-celebrate-becoming-first-to-unionize"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://twitter.com/hashtag/AFT?src=hashtag_click"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.aft.org/resolution/divest-fossil-fuels-and-reinvest-workers-and-communities"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.bostonglobe.com/2022/07/19/science/american-federation-teachers-calls-fossil-fuel-divestment/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.nlrb.gov/sites/default/files/attachments/pages/node-7857/ftcnlrb-mou-71922.pdf"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.nlrb.gov/news-outreach/news-story/national-labor-relations-board-and-federal-trade-commission-forge-new?fbclid=IwAR2n5Ze4KcmwyrYNgoRnCiXxaGaWxRq7YyXDyQs0qrfhoUs9p34Oi7ZGTo0"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://labornotes.org/2022/07/viewpoint-nlrb-underfunded-and-understaffed"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.poetryfoundation.org/poems/51769/hesitation-theory"
+      ]
+    ],
+    [
+      "em"
+    ],
+    [
+      "strong"
+    ]
+  ],
+  "sections": [
+    [
+      10,
+      0
+    ],
+    [
+      10,
+      1
+    ],
+    [
+      10,
+      2
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Good things are happening! In the United Kingdom, tens of thousands of workers are striking for better wages and working conditions, as heatwaves and inflation impose ever more challenges. Their efforts come as workers in the United States continue to unionize in "
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "surging numbers"
+        ],
+        [
+          0,
+          [],
+          0,
+          ", marking an immense escalation of labor activism and mass action, and reminding us all that it is people power that can and will improve daily life for everyone. On another front, the American Federation of Teachers, comprised of 1.7 million teachers, has called for their pension fund manager to divest from fossil fuels. Also, congressional staffers leap forward with their union drive, and two federal agencies are partnering to deliver a more holistic approach to protecting worker dignity."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "All this and much more in this week’s edition of You Love To See It, exclusively for supporting subscribers below."
+        ]
+      ]
+    ],
+    [
+      10,
+      3
+    ],
+    [
+      1,
+      "h3",
+      [
+        [
+          0,
+          [],
+          0,
+          "Monumental UK Strike Wave"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "The U.K.’s Communication Workers Union (CWU) "
+        ],
+        [
+          0,
+          [
+            1
+          ],
+          1,
+          "said"
+        ],
+        [
+          0,
+          [],
+          0,
+          " on Tuesday that more than 115,000 British postal workers have voted to strike to dispute poor working conditions and pay. The strikers join engineers and call center staff at BT Group, the U.K.’s largest telecom company, who have also voted to strike in response to pay cuts and inflation. BT’s chief executive, Philip Jansen, enjoyed a 32 percent pay increase in the last year, while frontline worker wages have stagnated."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "These strikes will be some of the largest industrial actions of the summer, with more "
+        ],
+        [
+          0,
+          [
+            2
+          ],
+          1,
+          "unions"
+        ],
+        [
+          0,
+          [],
+          0,
+          " across the U.K. set to escalate their demands in the weeks to come. The CWU represents workers who maintain essential public services like internet and mail, which have been vital lifelines during the pandemic."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "“This is an incredible result that has been achieved despite a real culture of fear imposed by senior BT management,” "
+        ],
+        [
+          0,
+          [
+            3
+          ],
+          1,
+          "said"
+        ],
+        [
+          0,
+          [],
+          0,
+          " Dave Ward, CWU’s general secretary, of the BT workers’ strike. “This proves beyond a shadow of a doubt that no worker in the U.K. is unreachable, that all workers are ready to stand up and fight for higher pay and, in some cases, better conditions.”"
+        ]
+      ]
+    ],
+    [
+      10,
+      4
+    ],
+    [
+      1,
+      "h3",
+      [
+        [
+          0,
+          [],
+          0,
+          "Congressional Staffers Push For Union"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Amid efforts to "
+        ],
+        [
+          0,
+          [
+            4
+          ],
+          1,
+          "demand"
+        ],
+        [
+          0,
+          [],
+          0,
+          " climate action, congressional staffers continue to organize by seeking union elections. The offices of Democratic Reps. Andy Levin (Mich.), Cori Bush (Mo.), Jesús “Chuy” García (Ill.), Ro Khanna (Calif.), Ted Lieu (Calif.), Alexandria Ocasio-Cortez (N.Y.), Ilhan Omar (Minn.), and Melanie Stansbury (N.M.) filed this week."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Staffers are organizing to contest unlivable wages and vast inequity in their workplace. “From Amazon and Starbucks to the halls of Congress to state legislatures across our country, every worker deserves the protected right of freedom of association, joining together with their colleagues in solidarity to organize and bargain collectively for a better workplace,” said the Congressional Workers Union in a recent "
+        ],
+        [
+          0,
+          [
+            5
+          ],
+          1,
+          "statement"
+        ],
+        [
+          0,
+          [],
+          0,
+          "."
+        ]
+      ]
+    ],
+    [
+      1,
+      "h3",
+      [
+        [
+          0,
+          [],
+          0,
+          "Teachers Demand Healthy Future"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "This Tuesday, the American Federation of Teachers (AFT) — which represents 1.7 million teachers, nurses, and public workers — voted to call on the Teachers Insurance and Annuity Association of America (TIAA), the $1.3 trillion retirement fund manager, to divest from fossil fuels."
+        ]
+      ]
+    ],
+    [
+      10,
+      5
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "“With this vote, workers are taking control of their assets,” said David Hughes, one the co-authors of the"
+        ],
+        [
+          0,
+          [
+            6
+          ],
+          1,
+          " "
+        ],
+        [
+          0,
+          [
+            7
+          ],
+          1,
+          "AFT resolution"
+        ],
+        [
+          0,
+          [],
+          0,
+          ". “We’re withdrawing the social license for the likes of ExxonMobil to operate, to destroy our climate and communities.” Hughes "
+        ],
+        [
+          0,
+          [
+            8
+          ],
+          1,
+          "said"
+        ],
+        [
+          0,
+          [],
+          0,
+          " he believes that the resolution will help spur other retirement funds nationwide to divest from fossil fuels."
+        ]
+      ]
+    ],
+    [
+      1,
+      "h3",
+      [
+        [
+          0,
+          [],
+          0,
+          "Federal Agencies Band Together For Worker Rights"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "This week, the National Labor Relations Board (NLRB) and Federal Trade Commission (FTC) forged a new partnership in the form of a "
+        ],
+        [
+          0,
+          [
+            9
+          ],
+          1,
+          "Memorandum of Understanding"
+        ],
+        [
+          0,
+          [],
+          0,
+          " (MOU). The partnership sets out to “better root out practices that harm workers in the ‘gig economy’ and other labor markets, to enhance the enforcement of federal laws and regulations administered by the agencies, and to promote interagency collaboration through information sharing, cross-agency training, and coordinated outreach.”"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "NLRB General Counsel Jennifer Abruzzo "
+        ],
+        [
+          0,
+          [
+            10
+          ],
+          1,
+          "stated"
+        ],
+        [
+          0,
+          [],
+          0,
+          ": “This MOU is critical to advancing a whole-of-government approach to combating unlawful conduct that harms workers.”"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "The NLRB has not had a "
+        ],
+        [
+          0,
+          [
+            11
+          ],
+          1,
+          "funding increase"
+        ],
+        [
+          0,
+          [],
+          0,
+          " since 2014, a problem that needs to be addressed in order to support workers’ rights. This agency’s new partnership with the FTC will help provide important resources and information, as the NLRB waits for much-needed funding."
+        ]
+      ]
+    ],
+    [
+      10,
+      6
+    ],
+    [
+      1,
+      "h3",
+      [
+        [
+          0,
+          [],
+          0,
+          "Finally…"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "After all the news this week, take some time to read Reginald Shepherd’s poem about changes, “"
+        ],
+        [
+          0,
+          [
+            12
+          ],
+          1,
+          "Hesitation Theory"
+        ],
+        [
+          0,
+          [],
+          0,
+          "”:"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [
+            13
+          ],
+          1,
+          "I drift into the sound of wind,"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [
+            13
+          ],
+          1,
+          "how small my life must be"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [
+            13
+          ],
+          1,
+          "to fit into his palm like that, holly"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [
+            13
+          ],
+          1,
+          "leaf, bluejay feather, milkweed fluff,"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [
+            13
+          ],
+          1,
+          "pin straw or sycamore pod, resembling"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [
+            13
+          ],
+          1,
+          "scraps of light. The world"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [
+            13
+          ],
+          1,
+          "slips through these fingers"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [
+            13
+          ],
+          1,
+          "so easily, there’s so much"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [
+            13
+          ],
+          1,
+          "to miss: the sociable bones"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [
+            13
+          ],
+          1,
+          "linked up in supple rows, mineral"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [
+            13
+          ],
+          1,
+          "seams just under the skin. I hold"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [
+            13
+          ],
+          1,
+          "my palm against the sun and don’t see"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [
+            13
+          ],
+          1,
+          "palm or sun, don’t hold anything"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [
+            13
+          ],
+          1,
+          "in either hand. I look up, look"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [
+            13
+          ],
+          1,
+          "away (what’s that?), I trip"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [
+            13
+          ],
+          1,
+          "and stumble (fall"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [
+            13
+          ],
+          1,
+          "again), find myself face down"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [
+            13
+          ],
+          1,
+          "in duff, a foam of fallen live oak"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [
+            13
+          ],
+          1,
+          "leaves, with only"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [
+            13
+          ],
+          1,
+          "this life, mine at times."
+        ]
+      ]
+    ],
+    [
+      10,
+      7
+    ],
+    [
+      10,
+      8
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [
+            13,
+            14
+          ],
+          1,
+          "Our news organization relies on readers pitching in to support our journalism. "
+        ],
+        [
+          0,
+          [
+            13,
+            14
+          ],
+          3,
+          "If you like this story, please support "
+        ],
+        [
+          0,
+          [
+            14,
+            13,
+            14
+          ],
+          3,
+          "our"
+        ],
+        [
+          0,
+          [
+            13,
+            13,
+            14
+          ],
+          3,
+          " work."
+        ]
+      ]
+    ],
+    [
+      10,
+      9
+    ],
+    [
+      10,
+      10
+    ],
+    [
+      10,
+      11
+    ]
+  ],
+  "ghostVersion": "4.0"
+}

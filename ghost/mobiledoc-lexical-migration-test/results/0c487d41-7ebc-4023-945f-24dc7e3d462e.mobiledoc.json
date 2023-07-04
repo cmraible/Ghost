@@ -1,0 +1,1423 @@
+{
+  "version": "0.3.1",
+  "atoms": [],
+  "cards": [
+    [
+      "image",
+      {
+        "src": "__GHOST_URL__/content/images/2023/02/another-google-bard.jpg",
+        "alt": "An attractive female bard, working on Google's search algorithm ",
+        "caption": "A bard hard at work on Google's algorithym…"
+      }
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "image",
+      {
+        "src": "__GHOST_URL__/content/images/2023/02/reach-across-the-ocean.jpg",
+        "alt": "A winged figure carrying news across the ocean",
+        "caption": "Newspapers winging their way across the ocean"
+      }
+    ],
+    [
+      "bookmark",
+      {
+        "version": "1.0",
+        "type": "bookmark",
+        "url": "https://pressgazette.co.uk/the-wire/media-jobs-uk-news/reach-names-launch-editors-for-mirror-and-express-in-us/",
+        "metadata": {
+          "url": "https://pressgazette.co.uk/the-wire/media-jobs-uk-news/reach-names-launch-editors-for-mirror-and-express-in-us/",
+          "title": "Reach names launch editors for Mirror and Express in US",
+          "description": "Reach has named the launch editors for its expansion of the Mirror and Express websites into the US as Alex Wellman and Karl Holbrook.",
+          "author": "Charlotte Tobitt",
+          "publisher": "Press Gazette",
+          "thumbnail": "https://pressgazette.co.uk/wp-content/uploads/sites/7/2023/02/Mirror-Express-US-editors-800x418.jpg?1675781557",
+          "icon": "https://pressgazette.co.uk/wp-content/uploads/sites/7/2022/09/cropped-Press-Gazette_favicon-270x270.jpg"
+        }
+      }
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "embed",
+      {
+        "url": "https://twitter.com/elonmusk/status/1622082025166442505?s=61&t=hjLYF3907sW5BhkRqWR6WQ",
+        "html": "<blockquote class=\"twitter-tweet\"><p lang=\"en\" dir=\"ltr\">Responding to feedback, Twitter will enable a light, write-only API for bots providing good content that is free</p>&mdash; Elon Musk (@elonmusk) <a href=\"https://twitter.com/elonmusk/status/1622082025166442505?ref_src=twsrc%5Etfw\">February 5, 2023</a></blockquote>\n<script async src=\"https://platform.twitter.com/widgets.js\" charset=\"utf-8\"></script>\n",
+        "type": "twitter",
+        "metadata": {
+          "url": "https://twitter.com/elonmusk/status/1622082025166442505",
+          "author_name": "Elon Musk",
+          "author_url": "https://twitter.com/elonmusk",
+          "width": 550,
+          "height": null,
+          "cache_age": "3153600000",
+          "provider_name": "Twitter",
+          "provider_url": "http://www.twitter.com/",
+          "version": "1.0",
+          "tweet_data": {
+            "edit_history_tweet_ids": [
+              "1622082025166442505"
+            ],
+            "text": "@PepitoTheCat @BillyM2k @ericnakagawa Responding to feedback, Twitter will enable a light, write-only API for bots providing good content that is free",
+            "possibly_sensitive": false,
+            "created_at": "2023-02-05T03:57:46.000Z",
+            "id": "1622082025166442505",
+            "lang": "en",
+            "public_metrics": {
+              "retweet_count": 963,
+              "reply_count": 529,
+              "like_count": 5121,
+              "quote_count": 3142,
+              "impression_count": 2134903
+            },
+            "referenced_tweets": [
+              {
+                "type": "replied_to",
+                "id": "1621426702294609921"
+              }
+            ],
+            "reply_settings": "everyone",
+            "in_reply_to_user_id": "44196397",
+            "conversation_id": "1621179889339744256",
+            "context_annotations": [
+              {
+                "domain": {
+                  "id": "46",
+                  "name": "Business Taxonomy",
+                  "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+                },
+                "entity": {
+                  "id": "1557696848252391426",
+                  "name": "Financial Services Business",
+                  "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks "
+                }
+              },
+              {
+                "domain": {
+                  "id": "46",
+                  "name": "Business Taxonomy",
+                  "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+                },
+                "entity": {
+                  "id": "1557697333571112960",
+                  "name": "Technology Business",
+                  "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares"
+                }
+              },
+              {
+                "domain": {
+                  "id": "10",
+                  "name": "Person",
+                  "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                  "id": "808713037230157824",
+                  "name": "Elon Musk",
+                  "description": "Elon Musk"
+                }
+              },
+              {
+                "domain": {
+                  "id": "30",
+                  "name": "Entities [Entity Service]",
+                  "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain"
+                },
+                "entity": {
+                  "id": "781974596752842752",
+                  "name": "Services"
+                }
+              },
+              {
+                "domain": {
+                  "id": "47",
+                  "name": "Brand",
+                  "description": "Brands and Companies"
+                },
+                "entity": {
+                  "id": "10045225402",
+                  "name": "Twitter"
+                }
+              },
+              {
+                "domain": {
+                  "id": "65",
+                  "name": "Interests and Hobbies Vertical",
+                  "description": "Top level interests and hobbies groupings, like Food or Travel"
+                },
+                "entity": {
+                  "id": "781974596148793345",
+                  "name": "Business & finance"
+                }
+              },
+              {
+                "domain": {
+                  "id": "66",
+                  "name": "Interests and Hobbies Category",
+                  "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+                },
+                "entity": {
+                  "id": "857878777191211008",
+                  "name": "Leadership",
+                  "description": "Leadership"
+                }
+              },
+              {
+                "domain": {
+                  "id": "131",
+                  "name": "Unified Twitter Taxonomy",
+                  "description": "A taxonomy of user interests. "
+                },
+                "entity": {
+                  "id": "808713037230157824",
+                  "name": "Elon Musk",
+                  "description": "Elon Musk"
+                }
+              },
+              {
+                "domain": {
+                  "id": "131",
+                  "name": "Unified Twitter Taxonomy",
+                  "description": "A taxonomy of user interests. "
+                },
+                "entity": {
+                  "id": "1091420346660470784",
+                  "name": "Tech personalities",
+                  "description": "Tech Professionals"
+                }
+              },
+              {
+                "domain": {
+                  "id": "131",
+                  "name": "Unified Twitter Taxonomy",
+                  "description": "A taxonomy of user interests. "
+                },
+                "entity": {
+                  "id": "1166406108623163392",
+                  "name": "Business personalities"
+                }
+              }
+            ],
+            "author_id": "44196397",
+            "entities": {
+              "annotations": [
+                {
+                  "start": 62,
+                  "end": 68,
+                  "probability": 0.5078,
+                  "type": "Other",
+                  "normalized_text": "Twitter"
+                },
+                {
+                  "start": 102,
+                  "end": 104,
+                  "probability": 0.4992,
+                  "type": "Other",
+                  "normalized_text": "API"
+                }
+              ],
+              "mentions": [
+                {
+                  "start": 0,
+                  "end": 13,
+                  "username": "PepitoTheCat",
+                  "id": "333923305"
+                },
+                {
+                  "start": 14,
+                  "end": 23,
+                  "username": "BillyM2k",
+                  "id": "30699048"
+                },
+                {
+                  "start": 24,
+                  "end": 37,
+                  "username": "ericnakagawa",
+                  "id": "2349251"
+                }
+              ]
+            },
+            "includes": {
+              "users": [
+                {
+                  "protected": false,
+                  "name": "Elon Musk",
+                  "description": "",
+                  "profile_image_url": "https://pbs.twimg.com/profile_images/1590968738358079488/IY9Gx6Ok_normal.jpg",
+                  "verified": true,
+                  "public_metrics": {
+                    "followers_count": 128286198,
+                    "following_count": 178,
+                    "tweet_count": 22648,
+                    "listed_count": 114129
+                  },
+                  "username": "elonmusk",
+                  "id": "44196397",
+                  "created_at": "2009-06-02T20:12:29.000Z"
+                },
+                {
+                  "protected": false,
+                  "pinned_tweet_id": "1360938844649000966",
+                  "name": "Pépito",
+                  "description": "I'm a cat. #PepitoArtChallenge",
+                  "profile_image_url": "https://pbs.twimg.com/profile_images/909485797438640128/sO-YvCEm_normal.jpg",
+                  "verified": false,
+                  "public_metrics": {
+                    "followers_count": 212610,
+                    "following_count": 14,
+                    "tweet_count": 20740,
+                    "listed_count": 450
+                  },
+                  "location": "France",
+                  "username": "PepitoTheCat",
+                  "url": "https://t.co/MmWpUJAozf",
+                  "entities": {
+                    "url": {
+                      "urls": [
+                        {
+                          "start": 0,
+                          "end": 23,
+                          "url": "https://t.co/MmWpUJAozf",
+                          "expanded_url": "https://www.instagram.com/pepitothecat2007/",
+                          "display_url": "instagram.com/pepitothecat20…"
+                        }
+                      ]
+                    },
+                    "description": {
+                      "hashtags": [
+                        {
+                          "start": 11,
+                          "end": 30,
+                          "tag": "PepitoArtChallenge"
+                        }
+                      ]
+                    }
+                  },
+                  "id": "333923305",
+                  "created_at": "2011-07-12T09:06:50.000Z"
+                },
+                {
+                  "protected": false,
+                  "pinned_tweet_id": "1502021611733626889",
+                  "name": "Shibetoshi Nakamoto",
+                  "description": "a sarcastic cartoon dog wearing glasses | substack: https://t.co/7vvN53C8Ii",
+                  "profile_image_url": "https://pbs.twimg.com/profile_images/1521369379941715968/bg0KgPWm_normal.jpg",
+                  "verified": true,
+                  "public_metrics": {
+                    "followers_count": 2026176,
+                    "following_count": 420,
+                    "tweet_count": 2845,
+                    "listed_count": 3043
+                  },
+                  "location": "Hell",
+                  "username": "BillyM2k",
+                  "url": "https://t.co/qlEC3WEU7a",
+                  "entities": {
+                    "url": {
+                      "urls": [
+                        {
+                          "start": 0,
+                          "end": 23,
+                          "url": "https://t.co/qlEC3WEU7a",
+                          "expanded_url": "https://www.billym2k.net",
+                          "display_url": "billym2k.net"
+                        }
+                      ]
+                    },
+                    "description": {
+                      "urls": [
+                        {
+                          "start": 52,
+                          "end": 75,
+                          "url": "https://t.co/7vvN53C8Ii",
+                          "expanded_url": "http://billym2k.substack.com",
+                          "display_url": "billym2k.substack.com"
+                        }
+                      ]
+                    }
+                  },
+                  "id": "30699048",
+                  "created_at": "2009-04-12T18:54:20.000Z"
+                },
+                {
+                  "protected": false,
+                  "name": "Eric Nakagawa ◘",
+                  "description": "head of dev rel eng @celoorg - a blockchain built for mobile, focused on prosperity for all (tweets are my own)",
+                  "profile_image_url": "https://pbs.twimg.com/profile_images/1616477329689280512/oprBXTYH_normal.jpg",
+                  "verified": true,
+                  "public_metrics": {
+                    "followers_count": 11897,
+                    "following_count": 1672,
+                    "tweet_count": 68559,
+                    "listed_count": 329
+                  },
+                  "location": "San Francisco, CA",
+                  "username": "ericnakagawa",
+                  "entities": {
+                    "description": {
+                      "mentions": [
+                        {
+                          "start": 20,
+                          "end": 28,
+                          "username": "celoorg"
+                        }
+                      ]
+                    }
+                  },
+                  "id": "2349251",
+                  "created_at": "2007-03-26T20:02:27.000Z"
+                }
+              ],
+              "tweets": [
+                {
+                  "edit_history_tweet_ids": [
+                    "1621426702294609921"
+                  ],
+                  "text": "@PepitoTheCat @BillyM2k @ericnakagawa I guess we could give all Verified users access to the API for posts like this",
+                  "possibly_sensitive": false,
+                  "created_at": "2023-02-03T08:33:45.000Z",
+                  "id": "1621426702294609921",
+                  "lang": "en",
+                  "public_metrics": {
+                    "retweet_count": 347,
+                    "reply_count": 518,
+                    "like_count": 5073,
+                    "quote_count": 452,
+                    "impression_count": 916032
+                  },
+                  "referenced_tweets": [
+                    {
+                      "type": "replied_to",
+                      "id": "1621400486820691968"
+                    }
+                  ],
+                  "reply_settings": "everyone",
+                  "in_reply_to_user_id": "333923305",
+                  "conversation_id": "1621179889339744256",
+                  "context_annotations": [
+                    {
+                      "domain": {
+                        "id": "46",
+                        "name": "Business Taxonomy",
+                        "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+                      },
+                      "entity": {
+                        "id": "1557696848252391426",
+                        "name": "Financial Services Business",
+                        "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks "
+                      }
+                    },
+                    {
+                      "domain": {
+                        "id": "46",
+                        "name": "Business Taxonomy",
+                        "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+                      },
+                      "entity": {
+                        "id": "1557697333571112960",
+                        "name": "Technology Business",
+                        "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares"
+                      }
+                    },
+                    {
+                      "domain": {
+                        "id": "10",
+                        "name": "Person",
+                        "description": "Named people in the world like Nelson Mandela"
+                      },
+                      "entity": {
+                        "id": "808713037230157824",
+                        "name": "Elon Musk",
+                        "description": "Elon Musk"
+                      }
+                    },
+                    {
+                      "domain": {
+                        "id": "65",
+                        "name": "Interests and Hobbies Vertical",
+                        "description": "Top level interests and hobbies groupings, like Food or Travel"
+                      },
+                      "entity": {
+                        "id": "781974596148793345",
+                        "name": "Business & finance"
+                      }
+                    },
+                    {
+                      "domain": {
+                        "id": "66",
+                        "name": "Interests and Hobbies Category",
+                        "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+                      },
+                      "entity": {
+                        "id": "857878777191211008",
+                        "name": "Leadership",
+                        "description": "Leadership"
+                      }
+                    },
+                    {
+                      "domain": {
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy",
+                        "description": "A taxonomy of user interests. "
+                      },
+                      "entity": {
+                        "id": "808713037230157824",
+                        "name": "Elon Musk",
+                        "description": "Elon Musk"
+                      }
+                    },
+                    {
+                      "domain": {
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy",
+                        "description": "A taxonomy of user interests. "
+                      },
+                      "entity": {
+                        "id": "1091420346660470784",
+                        "name": "Tech personalities",
+                        "description": "Tech Professionals"
+                      }
+                    },
+                    {
+                      "domain": {
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy",
+                        "description": "A taxonomy of user interests. "
+                      },
+                      "entity": {
+                        "id": "1166406108623163392",
+                        "name": "Business personalities"
+                      }
+                    }
+                  ],
+                  "author_id": "44196397",
+                  "entities": {
+                    "annotations": [
+                      {
+                        "start": 93,
+                        "end": 95,
+                        "probability": 0.5988,
+                        "type": "Other",
+                        "normalized_text": "API"
+                      }
+                    ],
+                    "mentions": [
+                      {
+                        "start": 0,
+                        "end": 13,
+                        "username": "PepitoTheCat",
+                        "id": "333923305"
+                      },
+                      {
+                        "start": 14,
+                        "end": 23,
+                        "username": "BillyM2k",
+                        "id": "30699048"
+                      },
+                      {
+                        "start": 24,
+                        "end": 37,
+                        "username": "ericnakagawa",
+                        "id": "2349251"
+                      }
+                    ]
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    ],
+    [
+      "bookmark",
+      {
+        "version": "1.0",
+        "type": "bookmark",
+        "url": "https://techcrunch.com/2023/02/04/elon-musk-says-twitter-will-provide-a-free-write-only-api-to-bots-providing-good-content/?utm_source=pocket_saves&guccounter=1",
+        "metadata": {
+          "url": "https://techcrunch.com/2023/02/04/elon-musk-says-twitter-will-provide-a-free-write-only-api-to-bots-providing-good-content/",
+          "title": "Elon Musk says Twitter will provide a free write-only API to bots providing ‘good’ content",
+          "description": "Elon Musk said that due to feedback Twitter will provide a write-only API for “bots providing good content that is free.”",
+          "author": "Ivan Mehta",
+          "publisher": "TechCrunch",
+          "thumbnail": "https://techcrunch.com/wp-content/uploads/2022/10/rainbow-twitter-birds-1.jpg?resize=1200,645",
+          "icon": "https://techcrunch.com/wp-content/uploads/2015/02/cropped-cropped-favicon-gradient.png?w=192"
+        }
+      }
+    ],
+    [
+      "embed",
+      {
+        "url": "https://twitter.com/eleanormia/status/1621261327602704384?s=61&t=KHzwPBgZU6ROF-CmAG9AZg",
+        "html": "<blockquote class=\"twitter-tweet\"><p lang=\"en\" dir=\"ltr\">A tip to other journalists - if you&#39;re going to copy someone&#39;s work, fact check it first<br><br>I made the first calendar while still at PH, but put &quot;railway workers&quot; when I meant to put &quot;transport workers&quot; - the blue dot on Feb 2 refers to the Abellio bus strike <a href=\"https://t.co/v1XT5csF80\">pic.twitter.com/v1XT5csF80</a></p>&mdash; Eleanor Langford (@eleanormia) <a href=\"https://twitter.com/eleanormia/status/1621261327602704384?ref_src=twsrc%5Etfw\">February 2, 2023</a></blockquote>\n<script async src=\"https://platform.twitter.com/widgets.js\" charset=\"utf-8\"></script>\n",
+        "type": "twitter",
+        "metadata": {
+          "url": "https://twitter.com/eleanormia/status/1621261327602704384",
+          "author_name": "Eleanor Langford",
+          "author_url": "https://twitter.com/eleanormia",
+          "width": 550,
+          "height": null,
+          "cache_age": "3153600000",
+          "provider_name": "Twitter",
+          "provider_url": "http://www.twitter.com/",
+          "version": "1.0",
+          "tweet_data": {
+            "public_metrics": {
+              "retweet_count": 27,
+              "reply_count": 4,
+              "like_count": 290,
+              "quote_count": 5,
+              "impression_count": 116238
+            },
+            "conversation_id": "1621261327602704384",
+            "created_at": "2023-02-02T21:36:36.000Z",
+            "edit_history_tweet_ids": [
+              "1621261327602704384"
+            ],
+            "author_id": "206696992",
+            "entities": {
+              "urls": [
+                {
+                  "start": 258,
+                  "end": 281,
+                  "url": "https://t.co/v1XT5csF80",
+                  "expanded_url": "https://twitter.com/eleanormia/status/1621261327602704384/photo/1",
+                  "display_url": "pic.twitter.com/v1XT5csF80",
+                  "media_key": "3_1621261321026019329"
+                },
+                {
+                  "start": 258,
+                  "end": 281,
+                  "url": "https://t.co/v1XT5csF80",
+                  "expanded_url": "https://twitter.com/eleanormia/status/1621261327602704384/photo/1",
+                  "display_url": "pic.twitter.com/v1XT5csF80",
+                  "media_key": "3_1621261324838649859"
+                }
+              ],
+              "annotations": [
+                {
+                  "start": 131,
+                  "end": 132,
+                  "probability": 0.3194,
+                  "type": "Place",
+                  "normalized_text": "PH"
+                },
+                {
+                  "start": 239,
+                  "end": 245,
+                  "probability": 0.4046,
+                  "type": "Other",
+                  "normalized_text": "Abellio"
+                }
+              ]
+            },
+            "reply_settings": "everyone",
+            "attachments": {
+              "media_keys": [
+                "3_1621261321026019329",
+                "3_1621261324838649859"
+              ]
+            },
+            "context_annotations": [
+              {
+                "domain": {
+                  "id": "45",
+                  "name": "Brand Vertical",
+                  "description": "Top level entities that describe a Brands industry"
+                },
+                "entity": {
+                  "id": "781974597302226944",
+                  "name": "Transportation"
+                }
+              },
+              {
+                "domain": {
+                  "id": "46",
+                  "name": "Business Taxonomy",
+                  "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+                },
+                "entity": {
+                  "id": "1557696940178935808",
+                  "name": "Gaming Business",
+                  "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers"
+                }
+              },
+              {
+                "domain": {
+                  "id": "46",
+                  "name": "Business Taxonomy",
+                  "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+                },
+                "entity": {
+                  "id": "1557697439489880065",
+                  "name": "Travel & Transportation Business",
+                  "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to travel as airlines, travel agencies, hotels"
+                }
+              },
+              {
+                "domain": {
+                  "id": "66",
+                  "name": "Interests and Hobbies Category",
+                  "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+                },
+                "entity": {
+                  "id": "1206695792582414336",
+                  "name": "Railway transport"
+                }
+              },
+              {
+                "domain": {
+                  "id": "131",
+                  "name": "Unified Twitter Taxonomy",
+                  "description": "A taxonomy of user interests. "
+                },
+                "entity": {
+                  "id": "781974597302226944",
+                  "name": "Transportation"
+                }
+              },
+              {
+                "domain": {
+                  "id": "131",
+                  "name": "Unified Twitter Taxonomy",
+                  "description": "A taxonomy of user interests. "
+                },
+                "entity": {
+                  "id": "839159814991167489",
+                  "name": "Travel",
+                  "description": "Travel"
+                }
+              },
+              {
+                "domain": {
+                  "id": "131",
+                  "name": "Unified Twitter Taxonomy",
+                  "description": "A taxonomy of user interests. "
+                },
+                "entity": {
+                  "id": "1046545033657081857",
+                  "name": "News",
+                  "description": "News"
+                }
+              },
+              {
+                "domain": {
+                  "id": "131",
+                  "name": "Unified Twitter Taxonomy",
+                  "description": "A taxonomy of user interests. "
+                },
+                "entity": {
+                  "id": "1074755369530880001",
+                  "name": "Journalists",
+                  "description": "Journalism"
+                }
+              },
+              {
+                "domain": {
+                  "id": "131",
+                  "name": "Unified Twitter Taxonomy",
+                  "description": "A taxonomy of user interests. "
+                },
+                "entity": {
+                  "id": "1206695792582414336",
+                  "name": "Railway transport"
+                }
+              }
+            ],
+            "lang": "en",
+            "text": "A tip to other journalists - if you're going to copy someone's work, fact check it first\n\nI made the first calendar while still at PH, but put \"railway workers\" when I meant to put \"transport workers\" - the blue dot on Feb 2 refers to the Abellio bus strike https://t.co/v1XT5csF80",
+            "id": "1621261327602704384",
+            "possibly_sensitive": false,
+            "includes": {
+              "media": [
+                {
+                  "type": "photo",
+                  "width": 900,
+                  "media_key": "3_1621261321026019329",
+                  "height": 900,
+                  "url": "https://pbs.twimg.com/media/Fn_glOfWIAEvwOQ.jpg"
+                },
+                {
+                  "type": "photo",
+                  "width": 1073,
+                  "media_key": "3_1621261324838649859",
+                  "height": 1710,
+                  "url": "https://pbs.twimg.com/media/Fn_glcsWQAMY2VB.jpg"
+                }
+              ],
+              "users": [
+                {
+                  "url": "https://t.co/qvs6xtHZCA",
+                  "description": "📰 Political Reporter @theipaper \n👉 Previously @PoliticsHome & @TheHouseMag \n🎙️ Sometimes heard on TV / radio \n📧 DMs open / eleanor.langford@inews.co.uk",
+                  "verified": true,
+                  "protected": false,
+                  "name": "Eleanor Langford",
+                  "id": "206696992",
+                  "entities": {
+                    "url": {
+                      "urls": [
+                        {
+                          "start": 0,
+                          "end": 23,
+                          "url": "https://t.co/qvs6xtHZCA",
+                          "expanded_url": "https://www.politicshome.com",
+                          "display_url": "politicshome.com"
+                        }
+                      ]
+                    },
+                    "description": {
+                      "mentions": [
+                        {
+                          "start": 21,
+                          "end": 31,
+                          "username": "theipaper"
+                        },
+                        {
+                          "start": 46,
+                          "end": 59,
+                          "username": "PoliticsHome"
+                        },
+                        {
+                          "start": 62,
+                          "end": 74,
+                          "username": "TheHouseMag"
+                        }
+                      ]
+                    }
+                  },
+                  "created_at": "2010-10-23T14:29:17.000Z",
+                  "public_metrics": {
+                    "followers_count": 6568,
+                    "following_count": 1365,
+                    "tweet_count": 10617,
+                    "listed_count": 112
+                  },
+                  "profile_image_url": "https://pbs.twimg.com/profile_images/1503997301307715584/863wKvq2_normal.jpg",
+                  "location": "London {she/her}",
+                  "username": "eleanormia"
+                }
+              ]
+            }
+          }
+        }
+      }
+    ]
+  ],
+  "markups": [
+    [
+      "a",
+      [
+        "href",
+        "https://blog.google/technology/ai/bard-google-ai-search-updates/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://lotr.fandom.com/wiki/Bard"
+      ]
+    ],
+    [
+      "em"
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.dndbeyond.com/classes/bard"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.theverge.com/2023/2/6/23574185/microsoft-event-date-time-openai-bing-chatgpt"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/2023/01/four-things-publishers-should-give-up-in-2023/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://ijnet.org/en/story/starting-newsletter-keep-these-5-strategies-mind"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.journalism.co.uk/news/essential-newsletters-for-journalists/s2/a737859/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://mailchi.mp/soundsprofitable/can-spotify-make-streaming-ad-insertion-stick?e=f07ce8802e"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://twitter.com/elonmusk/status/1621259936524300289?s=61&t=KHzwPBgZU6ROF-CmAG9AZg"
+      ]
+    ]
+  ],
+  "sections": [
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Is chat-based generative AI a flash in the pan, or is it a transformative model of how we interact with information? Right now, both Google and Microsoft are betting on the latter — and that could change not just SEO, but how we acquire readers generally."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Hang tight, friends, there are some rough seas ahead. "
+        ]
+      ]
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Google brings a Bard to an AI fight"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Google is moving rapidly to counter the threat of ChatGPT and develop its on AI-based chat interface for search. And it’s "
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "being called Bard"
+        ],
+        [
+          0,
+          [],
+          0,
+          ", which is a nicely Google-esque geeky reference to either "
+        ],
+        [
+          0,
+          [
+            1
+          ],
+          0,
+          "the dragon-slayer from "
+        ],
+        [
+          0,
+          [
+            2
+          ],
+          2,
+          "The Hobbit"
+        ],
+        [
+          0,
+          [],
+          0,
+          " or "
+        ],
+        [
+          0,
+          [
+            3
+          ],
+          1,
+          "the D&D class"
+        ],
+        [
+          0,
+          [],
+          0,
+          "…"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "This could well be one of those pivotal moments where something changes fundamentally. In the 11 years I’ve been training and consulting on SEO, there’s only been one “changes everything” shift, which was the move from keywords to intent. That was subtle enough that few people noticed. This, though, opens the possibility of a whole new paradigm of search, something that’s more akin to a "
+        ],
+        [
+          0,
+          [
+            2
+          ],
+          1,
+          "Star Trek"
+        ],
+        [
+          0,
+          [],
+          0,
+          " character conversing with the computer than what we do now."
+        ]
+      ]
+    ],
+    [
+      1,
+      "h3",
+      [
+        [
+          0,
+          [],
+          0,
+          "The existing AI in search"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Much as "
+        ],
+        [
+          0,
+          [
+            4
+          ],
+          1,
+          "Microsoft is doing with Bing and ChatGPT"
+        ],
+        [
+          0,
+          [],
+          0,
+          ", Google is bringing AI-powered chat and results generation to search. It’s worth noting that there’s already a significant chunk of AI in Google Search, as Google CEO Sundar Pichai points out in the :"
+        ]
+      ]
+    ],
+    [
+      1,
+      "blockquote",
+      [
+        [
+          0,
+          [],
+          0,
+          "We have a long history of using AI to improve Search for billions of people. BERT, one of our first Transformer models, was revolutionary in understanding the intricacies of human language. Two years ago, we introduced MUM, which is 1,000 times more powerful than BERT and has next-level and multilingual understanding of information which can pick out key moments in videos and provide critical information, including crisis support, in more languages."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "This is one of the reasons I "
+        ],
+        [
+          0,
+          [
+            5
+          ],
+          1,
+          "warned against being too keyword-focused"
+        ],
+        [
+          0,
+          [],
+          0,
+          " last month. This, though, is a step change because it’s not just back-end plumping, it actually influences how we use search."
+        ]
+      ]
+    ],
+    [
+      1,
+      "blockquote",
+      [
+        [
+          0,
+          [],
+          0,
+          "Now, our newest AI technologies — like LaMDA, PaLM, Imagen and MusicLM — are building on this, creating entirely new ways to engage with information, from language and images to video and audio. We’re working to bring these latest AI advancements into our products, starting with Search."
+        ]
+      ]
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "The dawn of conversational search"
+        ]
+      ]
+    ],
+    [
+      10,
+      0
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "LaMDA is at the heart of Bard, and is another conversational AI model. I’m just beginning to think we might start to see a bifurcation of search. On one side we’ll have the “I need an answer to this question” intents, which chat interfaces might be better for. On the other, we’ll have the “I require in-depth information” queries, which might suit a more traditional search model. Certainly, Pichai’s description of Bard in search makes it sound like something relevant to certain, challenging searches."
+        ]
+      ]
+    ],
+    [
+      1,
+      "blockquote",
+      [
+        [
+          0,
+          [],
+          0,
+          "AI can be helpful in these moments, synthesizing insights for questions where there’s no one right answer. Soon, you’ll see AI-powered features in Search that distill complex information and multiple perspectives into easy-to-digest formats, so you can quickly understand the big picture and learn more from the web: whether that’s seeking out additional perspectives, like blogs from people who play both piano and guitar, or going deeper on a related topic, like steps to get started as a beginner. These new AI features will begin rolling out on Google Search soon."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "That raises countless interesting questions, not least will Google attribute and link to the sources it’s synthesising from? That’s one of the current weaknesses of ChatGPT – you have no idea of the sources of the information. And that’s why errors in its output are so problematic. A sourcing model will not only increase trust, it might well drive some traffic, too."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Whatever happens, this will be a fascinating (read “challenging”) few years in the SEO universe. This is important enough to Google that it’s the CEO posting about it, not a product manager. If anything, it reminds me of that period in the late 90s, when suddenly the existing tech firms realised they had to integrate the internet into their products. Now it feels like AI has hit the same threshold."
+        ]
+      ]
+    ],
+    [
+      10,
+      1
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "A Global Reach"
+        ]
+      ]
+    ],
+    [
+      10,
+      2
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "This is worth noting in passing: Reach has appointed editors for the US launch of the "
+        ],
+        [
+          0,
+          [
+            2
+          ],
+          1,
+          "Mirror"
+        ],
+        [
+          0,
+          [],
+          0,
+          " and the "
+        ],
+        [
+          0,
+          [
+            2
+          ],
+          1,
+          "Express"
+        ],
+        [
+          0,
+          [],
+          0,
+          ". The days of national newspapers are rapidly drawing to a close and the age of the truly international newspaper, defined by language, is coming."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "That means more competition — and probably more casualties."
+        ]
+      ]
+    ],
+    [
+      10,
+      3
+    ],
+    [
+      10,
+      4
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Quickies"
+        ]
+      ]
+    ],
+    [
+      3,
+      "ul",
+      [
+        [
+          [
+            0,
+            [],
+            0,
+            "📧 A useful list of "
+          ],
+          [
+            0,
+            [
+              6
+            ],
+            1,
+            "six local newsletter strategies"
+          ],
+          [
+            0,
+            [],
+            0,
+            ""
+          ]
+        ],
+        [
+          [
+            0,
+            [],
+            0,
+            "👨🏼‍🏫 journalism.co.uk’s list of "
+          ],
+          [
+            0,
+            [
+              7
+            ],
+            1,
+            "30 newsletters every journalist should be subscribed to"
+          ],
+          [
+            0,
+            [],
+            0,
+            ". Obviously, this newsletter isn’t on there because it’s for the most insightful, talented and wise journalists and creators, not "
+          ],
+          [
+            0,
+            [
+              2
+            ],
+            1,
+            "everyone"
+          ],
+          [
+            0,
+            [],
+            0,
+            ". 😉"
+          ]
+        ],
+        [
+          [
+            0,
+            [],
+            0,
+            "🎙️Some useful thoughts on where Spotify’s going with "
+          ],
+          [
+            0,
+            [
+              8
+            ],
+            1,
+            "its ad insertion tech for podcasts"
+          ],
+          [
+            0,
+            [],
+            0,
+            "."
+          ]
+        ]
+      ]
+    ],
+    [
+      10,
+      5
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Twitter Watch"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "This Thursday was meant to be the day that some services that connect with Twitter stopped working, as the API goes paid. The problem? We don’t even have a price for the new access yet, although "
+        ],
+        [
+          0,
+          [
+            9
+          ],
+          1,
+          "circa $100 per month has been suggested"
+        ],
+        [
+          0,
+          [],
+          0,
+          ". And, just to confuse things further, the Muskrat suddenly tweeted this:"
+        ]
+      ]
+    ],
+    [
+      10,
+      6
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "So, basically, who knows exactly what will happen on Thursday. I’d still put money on some things breaking, but let’s see."
+        ]
+      ]
+    ],
+    [
+      10,
+      7
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Be careful when you “borrow”"
+        ]
+      ]
+    ],
+    [
+      10,
+      8
+    ],
+    [
+      1,
+      "p",
+      []
+    ]
+  ],
+  "ghostVersion": "4.0"
+}

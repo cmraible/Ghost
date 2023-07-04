@@ -1,0 +1,888 @@
+{
+  "version": "0.3.1",
+  "atoms": [],
+  "cards": [
+    [
+      "hr",
+      {}
+    ],
+    [
+      "image",
+      {
+        "src": "__GHOST_URL__/content/images/2020/06/2020-corvette-3.jpeg",
+        "alt": "<img src=\"2020-corvette.jpeg\" alt=\"2020 Corvette Stingray\">",
+        "cardWidth": "wide"
+      }
+    ],
+    [
+      "image",
+      {
+        "alt": "<img src=\"1962-corvette.jpeg\" alt=\"1962 Chevrolet Corvette Roadster Restomod\">",
+        "src": "__GHOST_URL__/content/images/2020/06/1962-corvette.jpeg",
+        "cardWidth": "wide",
+        "caption": "Dream Giveaway"
+      }
+    ],
+    [
+      "gallery",
+      {
+        "images": [
+          {
+            "fileName": "1962-corvette-engine-hood.jpeg",
+            "row": 0,
+            "width": 800,
+            "height": 533,
+            "src": "__GHOST_URL__/content/images/2020/06/1962-corvette-engine-hood.jpeg"
+          },
+          {
+            "fileName": "1962-corvette-grille.jpeg",
+            "row": 0,
+            "width": 800,
+            "height": 533,
+            "src": "__GHOST_URL__/content/images/2020/06/1962-corvette-grille.jpeg"
+          },
+          {
+            "fileName": "1962-corvette-interior.jpeg",
+            "row": 0,
+            "width": 800,
+            "height": 533,
+            "src": "__GHOST_URL__/content/images/2020/06/1962-corvette-interior.jpeg"
+          },
+          {
+            "fileName": "1962-corvette-rear-three.jpeg",
+            "row": 1,
+            "width": 800,
+            "height": 533,
+            "src": "__GHOST_URL__/content/images/2020/06/1962-corvette-rear-three.jpeg"
+          },
+          {
+            "fileName": "1962-corvette.jpeg",
+            "row": 1,
+            "width": 800,
+            "height": 533,
+            "src": "__GHOST_URL__/content/images/2020/06/1962-corvette-1.jpeg"
+          },
+          {
+            "fileName": "2020-corvette-2.jpeg",
+            "row": 1,
+            "width": 1024,
+            "height": 683,
+            "src": "__GHOST_URL__/content/images/2020/06/2020-corvette-2.jpeg"
+          },
+          {
+            "fileName": "2020-corvette-3.jpeg",
+            "row": 2,
+            "width": 1024,
+            "height": 683,
+            "src": "__GHOST_URL__/content/images/2020/06/2020-corvette-3-1.jpeg"
+          },
+          {
+            "fileName": "2020-corvette.jpeg",
+            "row": 2,
+            "width": 1024,
+            "height": 683,
+            "src": "__GHOST_URL__/content/images/2020/06/2020-corvette.jpeg"
+          }
+        ]
+      }
+    ],
+    [
+      "image",
+      {
+        "src": "__GHOST_URL__/content/images/2020/06/charger-profile.jpeg",
+        "alt": "<img src=\"charger-profile.jpeg\" alt=\"2020 Dodge Charger Hellcat WideBody\">",
+        "caption": "Dream Giveaway",
+        "cardWidth": "wide"
+      }
+    ],
+    [
+      "gallery",
+      {
+        "images": [
+          {
+            "fileName": "charger-engine.jpeg",
+            "row": 0,
+            "width": 800,
+            "height": 533,
+            "src": "__GHOST_URL__/content/images/2020/06/charger-engine.jpeg"
+          },
+          {
+            "fileName": "charger-headlight.jpeg",
+            "row": 0,
+            "width": 800,
+            "height": 533,
+            "src": "__GHOST_URL__/content/images/2020/06/charger-headlight.jpeg"
+          },
+          {
+            "fileName": "charger-interior.jpeg",
+            "row": 0,
+            "width": 800,
+            "height": 1067,
+            "src": "__GHOST_URL__/content/images/2020/06/charger-interior.jpeg"
+          },
+          {
+            "fileName": "charger-lights.jpeg",
+            "row": 1,
+            "width": 800,
+            "height": 533,
+            "src": "__GHOST_URL__/content/images/2020/06/charger-lights.jpeg"
+          },
+          {
+            "fileName": "charger-profile.jpeg",
+            "row": 1,
+            "width": 1140,
+            "height": 496,
+            "src": "__GHOST_URL__/content/images/2020/06/charger-profile-1.jpeg"
+          },
+          {
+            "fileName": "charger-seat.jpeg",
+            "row": 1,
+            "width": 800,
+            "height": 533,
+            "src": "__GHOST_URL__/content/images/2020/06/charger-seat.jpeg"
+          },
+          {
+            "fileName": "charger.jpeg",
+            "row": 2,
+            "width": 800,
+            "height": 500,
+            "src": "__GHOST_URL__/content/images/2020/06/charger.jpeg"
+          }
+        ],
+        "caption": "Dream Giveaway"
+      }
+    ],
+    [
+      "image",
+      {
+        "src": "__GHOST_URL__/content/images/2020/06/mach-1.jpeg",
+        "cardWidth": "wide",
+        "alt": "<img src=\"mach-1.jpeg\" alt=\"1969 Ford Mustang Mach 1 Factory Drag Racer\">",
+        "caption": "Dream Giveaway"
+      }
+    ],
+    [
+      "gallery",
+      {
+        "images": [
+          {
+            "fileName": "1969-mach-1-engine.jpeg",
+            "row": 0,
+            "width": 800,
+            "height": 533,
+            "src": "__GHOST_URL__/content/images/2020/06/1969-mach-1-engine.jpeg"
+          },
+          {
+            "fileName": "1969-mach-1-front-three.jpeg",
+            "row": 0,
+            "width": 800,
+            "height": 533,
+            "src": "__GHOST_URL__/content/images/2020/06/1969-mach-1-front-three.jpeg"
+          },
+          {
+            "fileName": "1969-mach-1-interior.jpeg",
+            "row": 0,
+            "width": 800,
+            "height": 533,
+            "src": "__GHOST_URL__/content/images/2020/06/1969-mach-1-interior.jpeg"
+          },
+          {
+            "fileName": "1969-mach-1-profile.jpeg",
+            "row": 1,
+            "width": 800,
+            "height": 533,
+            "src": "__GHOST_URL__/content/images/2020/06/1969-mach-1-profile.jpeg"
+          },
+          {
+            "fileName": "1969-mach-1-rear-three.jpeg",
+            "row": 1,
+            "width": 800,
+            "height": 533,
+            "src": "__GHOST_URL__/content/images/2020/06/1969-mach-1-rear-three.jpeg"
+          },
+          {
+            "fileName": "mach-1-front.jpeg",
+            "row": 1,
+            "width": 800,
+            "height": 600,
+            "src": "__GHOST_URL__/content/images/2020/06/mach-1-front.jpeg"
+          },
+          {
+            "fileName": "mach-1.jpeg",
+            "row": 2,
+            "width": 800,
+            "height": 533,
+            "src": "__GHOST_URL__/content/images/2020/06/mach-1-1.jpeg"
+          }
+        ]
+      }
+    ],
+    [
+      "image",
+      {
+        "src": "__GHOST_URL__/content/images/2020/06/1979-pontiac.jpeg",
+        "cardWidth": "wide",
+        "alt": "<img src=\"1979-pontiac.jpeg\" alt=\"A 1979 Pontiac Trans Am Special Edition\">"
+      }
+    ],
+    [
+      "gallery",
+      {
+        "images": [
+          {
+            "fileName": "1979-pontiac-engine.jpeg",
+            "row": 0,
+            "width": 1024,
+            "height": 683,
+            "src": "__GHOST_URL__/content/images/2020/06/1979-pontiac-engine.jpeg"
+          },
+          {
+            "fileName": "1979-pontiac-front-2.jpeg",
+            "row": 0,
+            "width": 800,
+            "height": 533,
+            "src": "__GHOST_URL__/content/images/2020/06/1979-pontiac-front-2.jpeg"
+          },
+          {
+            "fileName": "1979-pontiac-front.jpeg",
+            "row": 0,
+            "width": 800,
+            "height": 533,
+            "src": "__GHOST_URL__/content/images/2020/06/1979-pontiac-front.jpeg"
+          },
+          {
+            "fileName": "1979-pontiac-profile.jpeg",
+            "row": 1,
+            "width": 800,
+            "height": 533,
+            "src": "__GHOST_URL__/content/images/2020/06/1979-pontiac-profile.jpeg"
+          },
+          {
+            "fileName": "1979-pontiac-rear.jpeg",
+            "row": 1,
+            "width": 800,
+            "height": 485,
+            "src": "__GHOST_URL__/content/images/2020/06/1979-pontiac-rear.jpeg"
+          },
+          {
+            "fileName": "1979-pontiac-shaker.jpeg",
+            "row": 1,
+            "width": 800,
+            "height": 533,
+            "src": "__GHOST_URL__/content/images/2020/06/1979-pontiac-shaker.jpeg"
+          },
+          {
+            "fileName": "1979-pontiac.jpeg",
+            "row": 2,
+            "width": 800,
+            "height": 533,
+            "src": "__GHOST_URL__/content/images/2020/06/1979-pontiac-1.jpeg"
+          }
+        ]
+      }
+    ]
+  ],
+  "markups": [
+    [
+      "a",
+      [
+        "href",
+        "https://www.dreamgiveaway.com/tickets/bandit?promo=MOTORIOUS3"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.dreamgiveaway.com/dg/corvette?promo=MOTORIOUS8"
+      ]
+    ],
+    [
+      "em"
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.dreamgiveaway.com/tickets/hellcat?promo=MOTORIOUS9"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.dreamgiveaway.com/dg/mustang?promo=MOTORIOUS2"
+      ]
+    ],
+    [
+      "strong"
+    ]
+  ],
+  "sections": [
+    [
+      1,
+      "h3",
+      [
+        [
+          0,
+          [],
+          0,
+          "You don't want to miss out on possibly getting one of these incredible vehicles in your dad's driveway."
+        ]
+      ]
+    ],
+    [
+      10,
+      0
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "There are chances to take home the ultimate gift for one of the most important people in your life - dad. Father's day is vastly approaching, and now is the perfect opportunity to give something back to the other half that helped bring you into this world. Dream Giveaway is offering a few incredible vehicles up for grabs - a 2020 Chevy C8 Corvette and 1962 Corvette Roadster Restomod, a 2020 Dodge Charger Wide-body Hellcat, a 1969 Mach 1 Ford Mustang Factory Drag Racer, and a "
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "1979 Pontiac Trans Am Special Edition"
+        ],
+        [
+          0,
+          [],
+          0,
+          "."
+        ]
+      ]
+    ],
+    [
+      1,
+      "h3",
+      [
+        [
+          0,
+          [
+            1
+          ],
+          1,
+          "2020 C8 Corvette / 1962 Corvette Roadster Restomod"
+        ]
+      ]
+    ],
+    [
+      10,
+      1
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "For the first time in the its 68-year history, the brand new Corvette Stingray is a game changing mid-engine machine. Even more, the fastest production comes in the rare high-performance Z51 package. General Motors sold out of every single C8 produced, and this is the perfect chance to snag one for dad. "
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Slathered in a bright Torch Red, this "
+        ],
+        [
+          0,
+          [
+            1
+          ],
+          1,
+          "2020 Chevy Corvette Z51"
+        ],
+        [
+          0,
+          [],
+          0,
+          " was born to stand out. When it comes to power, a mid-mounted 6.2-liter V8 engine is more than ready to let loose. This example comes euipped with the 3LT Equipment Package. And in the famous words of Billy Mays - "
+        ],
+        [
+          0,
+          [
+            2
+          ],
+          1,
+          "but wait, there's more"
+        ],
+        [
+          0,
+          [],
+          0,
+          "!"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Not only is the "
+        ],
+        [
+          0,
+          [
+            1
+          ],
+          1,
+          "2020 Corvette Stingray Z51"
+        ],
+        [
+          0,
+          [],
+          0,
+          " up for grabs. Those who enter through the Corvette Dream Giveaway will also take home a mint "
+        ],
+        [
+          0,
+          [
+            1
+          ],
+          1,
+          "1962 Corvette roadster restomod"
+        ],
+        [
+          0,
+          [],
+          0,
+          "."
+        ]
+      ]
+    ],
+    [
+      10,
+      2
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "You read that right, a two-for-one with brand-spanking new "
+        ],
+        [
+          0,
+          [
+            1
+          ],
+          1,
+          "C8 and a '62 roadster"
+        ],
+        [
+          0,
+          [],
+          0,
+          " that was restored with no expense spared. The beauty is sprayed in a brilliant Salsa Red paint over a matching leather interior in Flame Red. Covering the engine bay is a ZR1-style hood that has a custom insert that shows off the engine. Attached to the front is a custom grille that has been fabricated from the 1957-1958 Corvettes. In fact, this beauty is full of restomod modifications from the inside and out. "
+        ]
+      ]
+    ],
+    [
+      10,
+      3
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "No carburetors to be found with this duo. Tucked inside the '62 roadster is a modern 376-cubic-inch LS3 V8 engine that generates a pavement-stomping 430-horsepower. Shifting power to the rear wheels is 4L65-E automatic transmission. The body sits atop an Art Morrison chassis. Partially hidden behind 17-inch wheels and tires are Wilwood brakes all around. These two gems are being offered by Dream Giveaway, so check it out here and make your donation with "
+        ],
+        [
+          0,
+          [
+            1
+          ],
+          1,
+          "Dream Giveaway"
+        ],
+        [
+          0,
+          [],
+          0,
+          " to be entered to win two incredible cars. "
+        ]
+      ]
+    ],
+    [
+      1,
+      "h3",
+      [
+        [
+          0,
+          [
+            3
+          ],
+          1,
+          "1,000-Horsepower Dodge Charger Hellcat Wide-Body"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "The world's fastest production sedan, the "
+        ],
+        [
+          0,
+          [
+            3
+          ],
+          1,
+          "2020 Dodge Challenger Hellcat Wide-Body "
+        ],
+        [
+          0,
+          [],
+          0,
+          "would also make one of the most amazing gifts for Father's Day. The icing on the cake is that this bad boy is signed by the one and only King of Drag Racing - \"Big Daddy\" Don Garlits. "
+        ]
+      ]
+    ],
+    [
+      10,
+      4
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Equipped with a custom appearance package, this "
+        ],
+        [
+          0,
+          [
+            3
+          ],
+          1,
+          "2020 Dodge Charger Hellcat Wide-body"
+        ],
+        [
+          0,
+          [],
+          0,
+          " looks as mean as it performs. Considering to its power, this bad boy is downright ornery and ready to go. Bumped from 707-horsepower to 1,000 horses, this muscle car is serious street-legal business. This example comes equipped with Forza Tuning’s wild Stage 4R Performance package. Check out Dream Giveaway here for more on this "
+        ],
+        [
+          0,
+          [
+            3
+          ],
+          1,
+          "2020 Dodge Charger Hellcat Wide-Body"
+        ],
+        [
+          0,
+          [],
+          0,
+          " with more than enough power on tap to throw you and dad in your seats."
+        ]
+      ]
+    ],
+    [
+      10,
+      5
+    ],
+    [
+      1,
+      "h3",
+      [
+        [
+          0,
+          [
+            4
+          ],
+          0,
+          "1969 Mach 1 Ford Mustang "
+        ],
+        [
+          0,
+          [
+            5,
+            5
+          ],
+          3,
+          "Factory Drag Racer"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "A first for the 1969 model year Ford Mustang was the introduction Mach 1. Named after a military jet term for the speed of sound, this special "
+        ],
+        [
+          0,
+          [
+            4
+          ],
+          1,
+          "1969 Mach 1 Ford Mustang"
+        ],
+        [
+          0,
+          [],
+          0,
+          " was given sleek sportsroof styling. This muscle car was meant to perform from the factory with a huge V8 engine and a competition suspension."
+        ]
+      ]
+    ],
+    [
+      10,
+      6
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Powering this special-order factory Mach 1 is a 428-cubic-inch Super Cobra Jet, which is backed by a 3-speed automatic transmission. The drivetrain transfers power down through a W-code Traction-Lok rear, that houses with 4.30 gears. Only 49,000 miles have accumulated on this Concours-worthy "
+        ],
+        [
+          0,
+          [
+            4
+          ],
+          1,
+          "Mach 1 Mustang"
+        ],
+        [
+          0,
+          [],
+          0,
+          " over its lifetime."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "This low-mileage, meticulously restored Mach 1 factory drag racer is ready to drive to the car show, sweep up the awards, and drive back home. On the inside sits a new black-knit vinyl deluxe interior."
+        ]
+      ]
+    ],
+    [
+      10,
+      7
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Enter with your generous donation to help veterans and kids’ charities and you’ll be well on your way to putting this extremely low mile, fully restored and rare "
+        ],
+        [
+          0,
+          [
+            4
+          ],
+          1,
+          "1969 Ford Mustang Mach 1"
+        ],
+        [
+          0,
+          [],
+          0,
+          " in your garage."
+        ]
+      ]
+    ],
+    [
+      1,
+      "h3",
+      [
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "1979 Pontiac Trans Am Special Edition \"Bandit\""
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Popular because of the one-and-only iconic "
+        ],
+        [
+          0,
+          [
+            2
+          ],
+          1,
+          "Smokey and the Bandit"
+        ],
+        [
+          0,
+          [],
+          0,
+          ", the "
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "Pontiac Trans Am"
+        ],
+        [
+          0,
+          [],
+          0,
+          " is forever cemented in Hollywood history. To make this edition even better, this one is actually autographed by the late Burt Reynolds. Just imagine yourself behind the wheel of a black-and-gold "
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "1979 Pontiac Trans Am"
+        ],
+        [
+          0,
+          [],
+          0,
+          " hauling down the interstate with \"Smokey\" fast on your heels."
+        ]
+      ]
+    ],
+    [
+      10,
+      8
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Sadly, the world mourned the loss of Burt Reynolds in September 2018 at the age of 82. Reynolds left a legend in the classic Trans Am, especially one slathered in the familiar color scheme of black and gold. This example also features T-tops."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Dream Giveaway Garage teamed up with the Estate of Burt Reynolds to offer this fully restored 1979 Pontiac Trans Am that would make Burt himself proud. Thanks to Ames Performance, this classic icon can be the perfect gift for dad. The car comes with full documentation."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Under the hood of this "
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "Special Edition 1979 Pontiac Trans Am"
+        ],
+        [
+          0,
+          [],
+          0,
+          " is a numbers-matching 6.6-liter V8 engine (403-cubic-inch displacement) mated to an automatic transmission that spins a 2.41 rear axle. Even better, this car only has 37,000 original miles logged on the odometer. The inside is a black vinyl standard interior equipped with air conditioning and an AM/FM radio."
+        ]
+      ]
+    ],
+    [
+      10,
+      9
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "If you would like to know how you can take one of these cars home and get a nice big bow ready for it on Father's Day, make a donation to Dream Giveaway under the car of your choice to be entered into the sweepstakes. Each donation benefits children's and veterans' charities. "
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      []
+    ]
+  ],
+  "ghostVersion": "3.0"
+}

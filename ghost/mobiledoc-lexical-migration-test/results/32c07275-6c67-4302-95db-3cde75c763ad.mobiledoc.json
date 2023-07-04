@@ -1,0 +1,2406 @@
+{
+  "version": "0.3.1",
+  "atoms": [],
+  "cards": [
+    [
+      "email",
+      {
+        "html": "<p>Hello {first_name, \"there\"},</p><p>Well, that was one hell of a week. The first week of teaching at City in my new, enlarged role has kept me busy, alongside my existing slate of training and consultancy. But, because you're worth it, dear readers, rather than knock off early for a glass of whisky and the latest episode of <em>She-Hulk: Attorney-at-Law</em> I'm bringing back a feature of the site that's fallen into neglect.</p>"
+      }
+    ],
+    [
+      "image",
+      {
+        "src": "https://media.tenor.com/8vg8Nat-w9cAAAAC/he-doesnt-mean-that-jennifer-walters.gif",
+        "width": 498,
+        "height": 498,
+        "caption": "",
+        "type": "gif"
+      }
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "embed",
+      {
+        "url": "https://www.youtube.com/watch?v=Ed6g_pJyRJY",
+        "html": "<iframe width=\"200\" height=\"113\" src=\"https://www.youtube.com/embed/Ed6g_pJyRJY?feature=oembed\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen title=\"Trust is Earned | This Is Our BBC\"></iframe>",
+        "type": "video",
+        "metadata": {
+          "title": "Trust is Earned | This Is Our BBC",
+          "author_name": "BBC",
+          "author_url": "https://www.youtube.com/user/BBC",
+          "height": 113,
+          "width": 200,
+          "version": "1.0",
+          "provider_name": "YouTube",
+          "provider_url": "https://www.youtube.com/",
+          "thumbnail_height": 360,
+          "thumbnail_width": 480,
+          "thumbnail_url": "https://i.ytimg.com/vi/Ed6g_pJyRJY/hqdefault.jpg"
+        }
+      }
+    ],
+    [
+      "embed",
+      {
+        "url": "https://twitter.com/horton_official/status/1578291956093898752?s=21&t=C1kOqlBdXcwWeuwti7uxwQ",
+        "html": "<blockquote class=\"twitter-tweet\"><p lang=\"en\" dir=\"ltr\">If you dare to be female while writing about the countryside, this is what you get. A group of men speculating about your pubic hair. Anyway off to do my job - yes, women are allowed to have those nowadays! <a href=\"https://t.co/qYiqzalyXZ\">pic.twitter.com/qYiqzalyXZ</a></p>&mdash; Helena Horton (@horton_official) <a href=\"https://twitter.com/horton_official/status/1578291956093898752?ref_src=twsrc%5Etfw\">October 7, 2022</a></blockquote>\n<script async src=\"https://platform.twitter.com/widgets.js\" charset=\"utf-8\"></script>\n",
+        "type": "twitter",
+        "metadata": {
+          "url": "https://twitter.com/horton_official/status/1578291956093898752",
+          "author_name": "Helena Horton",
+          "author_url": "https://twitter.com/horton_official",
+          "width": 550,
+          "height": null,
+          "cache_age": "3153600000",
+          "provider_name": "Twitter",
+          "provider_url": "http://www.twitter.com/",
+          "version": "1.0",
+          "tweet_data": {
+            "public_metrics": {
+              "retweet_count": 113,
+              "reply_count": 111,
+              "like_count": 779,
+              "quote_count": 16
+            },
+            "entities": {
+              "urls": [
+                {
+                  "start": 207,
+                  "end": 230,
+                  "url": "https://t.co/qYiqzalyXZ",
+                  "expanded_url": "https://twitter.com/horton_official/status/1578291956093898752/photo/1",
+                  "display_url": "pic.twitter.com/qYiqzalyXZ",
+                  "media_key": "3_1578291940939931650"
+                },
+                {
+                  "start": 207,
+                  "end": 230,
+                  "url": "https://t.co/qYiqzalyXZ",
+                  "expanded_url": "https://twitter.com/horton_official/status/1578291956093898752/photo/1",
+                  "display_url": "pic.twitter.com/qYiqzalyXZ",
+                  "media_key": "3_1578291940940038144"
+                }
+              ]
+            },
+            "conversation_id": "1578291956093898752",
+            "created_at": "2022-10-07T07:51:40.000Z",
+            "source": "Twitter for iPhone",
+            "text": "If you dare to be female while writing about the countryside, this is what you get. A group of men speculating about your pubic hair. Anyway off to do my job - yes, women are allowed to have those nowadays! https://t.co/qYiqzalyXZ",
+            "author_id": "467369703",
+            "reply_settings": "everyone",
+            "id": "1578291956093898752",
+            "lang": "en",
+            "possibly_sensitive": false,
+            "edit_history_tweet_ids": [
+              "1578291956093898752"
+            ],
+            "attachments": {
+              "media_keys": [
+                "3_1578291940939931650",
+                "3_1578291940940038144"
+              ]
+            },
+            "includes": {
+              "media": [
+                {
+                  "media_key": "3_1578291940939931650",
+                  "url": "https://pbs.twimg.com/media/Fec4KHuWIAIWIkU.jpg",
+                  "height": 825,
+                  "type": "photo",
+                  "width": 750
+                },
+                {
+                  "media_key": "3_1578291940940038144",
+                  "url": "https://pbs.twimg.com/media/Fec4KHuXwAAqAFA.jpg",
+                  "height": 986,
+                  "type": "photo",
+                  "width": 750
+                }
+              ],
+              "users": [
+                {
+                  "protected": false,
+                  "profile_image_url": "https://pbs.twimg.com/profile_images/905408644367491072/C1EWwFAi_normal.jpg",
+                  "entities": {
+                    "url": {
+                      "urls": [
+                        {
+                          "start": 0,
+                          "end": 23,
+                          "url": "https://t.co/B0f6bvtMgR",
+                          "expanded_url": "https://www.theguardian.com/profile/helena-horton",
+                          "display_url": "theguardian.com/profile/helena…"
+                        }
+                      ]
+                    },
+                    "description": {
+                      "mentions": [
+                        {
+                          "start": 21,
+                          "end": 30,
+                          "username": "guardian"
+                        },
+                        {
+                          "start": 81,
+                          "end": 94,
+                          "username": "andrewlownie"
+                        }
+                      ]
+                    }
+                  },
+                  "verified": true,
+                  "id": "467369703",
+                  "name": "Helena Horton",
+                  "created_at": "2012-01-18T11:51:11.000Z",
+                  "description": "Environment reporter @guardian / Stories to helena.horton@guardian.co.uk / agent @andrewlownie",
+                  "pinned_tweet_id": "1536227801573085185",
+                  "username": "horton_official",
+                  "public_metrics": {
+                    "followers_count": 16384,
+                    "following_count": 997,
+                    "tweet_count": 25881,
+                    "listed_count": 244
+                  },
+                  "url": "https://t.co/B0f6bvtMgR"
+                }
+              ]
+            }
+          }
+        }
+      }
+    ],
+    [
+      "bookmark",
+      {
+        "version": "1.0",
+        "type": "bookmark",
+        "url": "https://www.theatlantic.com/ideas/archive/2022/07/social-media-harm-facebook-meta-response/670975/",
+        "metadata": {
+          "url": "https://www.theatlantic.com/ideas/archive/2022/07/social-media-harm-facebook-meta-response/670975/",
+          "title": "Yes, Social Media Really Is Undermining Democracy",
+          "description": "Despite what Meta has to say.",
+          "author": "Jonathan Haidt",
+          "publisher": "The Atlantic",
+          "thumbnail": "https://cdn.theatlantic.com/thumbor/A-iVixzZ0O0M98pdYpSrgwNXoyY=/0x1196:1999x2237/1200x625/media/img/mt/2022/07/0722_Haidt-5/original.jpg",
+          "icon": "https://cdn.theatlantic.com/_next/static/images/apple-touch-icon-152x152-aafde20dd981a38fcd549b29b2b3b785.png"
+        }
+      }
+    ],
+    [
+      "bookmark",
+      {
+        "version": "1.0",
+        "type": "bookmark",
+        "url": "https://www.niemanlab.org/2022/09/when-tragedy-becomes-banal-why-news-consumers-experience-crisis-fatigue/",
+        "metadata": {
+          "url": "https://www.niemanlab.org/2022/09/when-tragedy-becomes-banal-why-news-consumers-experience-crisis-fatigue/",
+          "title": "When tragedy becomes banal: Why news consumers experience crisis fatigue",
+          "description": "The sensitivity involved in attending to crises can be a double-edged sword.",
+          "author": "Rebecca Rozelle-Stone",
+          "publisher": "Nieman Lab",
+          "thumbnail": "https://www.niemanlab.org/images/jbenton_A_detailed_intricate_watercolor_and_ink_illustration_wi_23b0e06d-8239-484a-bb3d-cba5b4672e5d-copy-700x400.jpg",
+          "icon": "https://www.niemanlab.org/favicon.ico"
+        }
+      }
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "embed",
+      {
+        "url": "https://www.youtube.com/watch?v=XpZ5STahhPE",
+        "html": "<iframe width=\"200\" height=\"113\" src=\"https://www.youtube.com/embed/XpZ5STahhPE?feature=oembed\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen title=\"1994: Are YOU Ready for the INTERNET? | Tomorrow&#39;s World | Retro Tech | BBC Archive\"></iframe>",
+        "type": "video",
+        "metadata": {
+          "title": "1994: Are YOU Ready for the INTERNET? | Tomorrow's World | Retro Tech | BBC Archive",
+          "author_name": "BBC Archive",
+          "author_url": "https://www.youtube.com/c/BBCArchive",
+          "height": 113,
+          "width": 200,
+          "version": "1.0",
+          "provider_name": "YouTube",
+          "provider_url": "https://www.youtube.com/",
+          "thumbnail_height": 360,
+          "thumbnail_width": 480,
+          "thumbnail_url": "https://i.ytimg.com/vi/XpZ5STahhPE/hqdefault.jpg"
+        }
+      }
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "email",
+      {
+        "html": "<p>Thanks for reading, and have a great weekend, folks.</p><p>Adam</p>"
+      }
+    ]
+  ],
+  "markups": [
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/tags/tldr/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://ghost.org/changelog/newsletter-clicks/"
+      ]
+    ],
+    [
+      "em"
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://insidegovuk.blog.gov.uk/2022/08/24/how-were-preparing-for-the-migration-to-google-analytics-4/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.inma.org/blogs/newsroom-initiative/post.cfm/the-economist-moved-from-a-legacy-newsroom-to-a-data-influenced-one"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.inma.org/blogs/smart-data-initiative/post.cfm/3-media-companies-share-3-paths-to-building-data-teams"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.axios.com/2022/07/12/exclusive-the-information-launching-social-network-for-subscribers"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://pressgazette.co.uk/reach-ai-content-recommender/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://variety.com/2022/digital/global/instagram-tiktok-youtube-uk-teen-news-1235321760/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://blog.tjcx.me/p/new-york-times-ab-testing"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.journalism.co.uk/news/how-the-local-sweden-uses-product-thinking-to-remain-useful-to-readers/s2/a968261/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://pressgazette.co.uk/daily-mail-snapchat/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.journalism.co.uk/news/want-to-save-local-news-get-the-locals-involved/s2/a968558/"
+      ]
+    ],
+    [
+      "strong"
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://open.nytimes.com/how-the-new-york-times-uses-machine-learning-to-make-its-paywall-smarter-e5771d5f46f8"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "(https://www.poynter.org/business-work/2022/a-26-year-old-entrepreneur-takes-a-fresh-shot-at-selling-news-one-story-at-a-time/)"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://pressgazette.co.uk/soglos-revolutionise-regional-media-membership-model/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.journalism.co.uk/news/how-coffee-meetings-with-users-brought-reality-checks-and-culture-change-to-sweden-s-public-broadcaster/s2/a947921/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://visitsweden.com/what-to-do/food-drink/swedish-kitchen/all-about-swedish-fika/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://pressgazette.co.uk/print-vs-online-newspapers-magazines/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.cjchilvers.com/personal-publishing-principles/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.rollingstone.com/tv-movies/tv-movie-features/justice-league-the-snyder-cut-bots-fans-1384231/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.niemanlab.org/2022/09/you-dont-know-which-side-is-playing-you-the-authors-of-meme-wars-have-some-advice-for-journalists/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.nytimes.com/2022/09/24/business/linkedin-social-experiments.html"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.vox.com/recode/23289433/newsletters-substack-subscriptions-bari-weiss-semafor-peter-kafka-column"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.niemanlab.org/2022/10/facebook-will-shut-down-bulletin-its-newsletter-service-by-early-2023/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.niemanlab.org/2022/09/what-i-learned-in-my-second-year-on-substack/?ref=refind&utm_campaign=UA-39227834-1&utm_medium=email&utm_source=Revue%20newsletter"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.wired.com/story/best-substack-alternatives/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://whatsnewinpublishing.com/your-email-newsletter-open-rates-havent-really-gone-up-heres-why/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://digiday.com/media/publishers-test-personalizing-newsletters-with-varying-degrees-of-success%EF%BF%BC/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.holdthefrontpage.co.uk/2022/news/jobs-created-as-publisher-launches-dedicated-newsletter-team/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://unsplash.com/blog/contribute-to-unsplash/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.theguardian.com/media/2022/oct/03/guardian-observer-photographer-eamonn-mccabe-dies"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://medium.com/@albertobeta/innovation-in-podcasting-a78c12878a4b"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://blog.james.cridland.net/the-standards-innovation-paradox-is-it-real-a1987188c5e9"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://medium.com/behind-local-news-uk/first-gaming-editor-appointed-at-reach-ahead-of-new-launches-a73e346428c2"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.cjr.org/special_report/internet-online-culture.php"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.formatsunpacked.com/p/formats-unpacked-the-live-blog"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.journalism.co.uk/news/how-facebook-community-reporters-covered-the-queen-s-death/s2/a971155/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.theguardian.com/commentisfree/2022/sep/08/guardian-digital-readers-analysis-news-design"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://techcrunch.com/2022/05/03/instagram-test-full-screen-video-home-feed/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.platformer.news/p/-instagram-walks-back-its-changes"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://taylorlorenz.substack.com/p/you-dont-want-the-old-instagram"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://9to5mac.com/2022/09/05/instagram-400-million-fine-violation-eu-children-privacy/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.wsj.com/articles/instagram-reels-tiktok-meta-facebook-documents-11662991777"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.socialmediatoday.com/news/new-report-highlights-the-decline-of-facebook-and-ig-as-tiktok-becomes-the/631694/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.theverge.com/23277797/mark-zuckerberg-meta-facebook-employees-pressure"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://pxlnv.com/linklog/instagram-walkback/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://whatsnewinpublishing.com/paywalls-impact-on-seo-how-publishers-can-minimize-risk-and-maximize-value/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.buzzfeednews.com/article/emilybakerwhite/tiktok-bytedance-topbuzz-pro-china-content"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.journalism.co.uk/news/should-journalists-be-influencers-and-if-so-how-/s2/a950240/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.ft.com/content/7a85f1a8-9cfb-4f17-9632-cbb46e0b885a"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://pressgazette.co.uk/iain-macwhirter-herald-column-tweet/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.niemanlab.org/2022/07/two-new-bots-can-help-newsrooms-prioritize-accessibility-and-alt-text/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.axios.com/2022/09/13/twitter-publishers-social-media"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://rebeccatoh.co/the-old-internet/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://boingboing.net/2022/09/27/watch-the-bbc-try-to-explain-the-internet-in-1994.html"
+      ]
+    ]
+  ],
+  "sections": [
+    [
+      10,
+      0
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "tl;dr"
+        ],
+        [
+          0,
+          [],
+          0,
+          " was very popular when I started it back in the early part of the year. Then events rather overtook me, and it dropped off my agenda. Well, now it’s back, should be weekly — and with "
+        ],
+        [
+          0,
+          [
+            1
+          ],
+          1,
+          "Ghost’s new analytics"
+        ],
+        [
+          0,
+          [],
+          0,
+          ", it should be a really useful source of information about what my audience really carer about — while also being useful to you."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "This is a bit of a tab-dump issue. There are stories here going back over the last few months — but doing that has drawn out some interesting narratives, not least that Meta’s Facebook and Instagram are clearly losing their way. We’ll get to that towards the end, but for now — enjoy these links. Hopefully, there should be something here for everyone. If not, I recommend whisky and "
+        ],
+        [
+          0,
+          [
+            2
+          ],
+          1,
+          "She-Hulk…"
+        ]
+      ]
+    ],
+    [
+      10,
+      1
+    ],
+    [
+      10,
+      2
+    ],
+    [
+      1,
+      "h3",
+      [
+        [
+          0,
+          [],
+          0,
+          "Analytics"
+        ]
+      ]
+    ],
+    [
+      3,
+      "ul",
+      [
+        [
+          [
+            0,
+            [],
+            0,
+            "☠️ If you’re not aware, the current Google Analytics is going away, to be replaced by GA4. Here’s the Government Digital Service on how "
+          ],
+          [
+            0,
+            [
+              3
+            ],
+            1,
+            "they’re handing the migration"
+          ],
+          [
+            0,
+            [],
+            0,
+            "."
+          ]
+        ],
+        [
+          [
+            0,
+            [],
+            0,
+            "👨‍💻 How "
+          ],
+          [
+            0,
+            [
+              4,
+              2
+            ],
+            1,
+            "The Economist"
+          ],
+          [
+            0,
+            [],
+            1,
+            " became a data-led title"
+          ],
+          [
+            0,
+            [],
+            0,
+            "."
+          ]
+        ],
+        [
+          [
+            0,
+            [],
+            0,
+            "📈 How to "
+          ],
+          [
+            0,
+            [
+              5
+            ],
+            1,
+            "build a data team"
+          ],
+          [
+            0,
+            [],
+            0,
+            " (that’s audience data, not data journalism)"
+          ]
+        ]
+      ]
+    ],
+    [
+      1,
+      "h3",
+      [
+        [
+          0,
+          [],
+          0,
+          "Audience Engagement"
+        ]
+      ]
+    ],
+    [
+      3,
+      "ul",
+      [
+        [
+          [
+            0,
+            [],
+            0,
+            "🗣 "
+          ],
+          [
+            0,
+            [
+              2
+            ],
+            1,
+            "The Information"
+          ],
+          [
+            0,
+            [],
+            0,
+            " is "
+          ],
+          [
+            0,
+            [
+              6
+            ],
+            1,
+            "planning a social network for subscribers"
+          ],
+          [
+            0,
+            [],
+            0,
+            ". Great. Building a community around a subscription product is a great retention move. It does make me want got scream, though, because this is what I was working in "
+          ],
+          [
+            0,
+            [
+              2
+            ],
+            1,
+            "17 years ago"
+          ],
+          [
+            0,
+            [],
+            0,
+            ", for some B2B titles. Before my time, clearly."
+          ]
+        ],
+        [
+          [
+            0,
+            [],
+            0,
+            "🤖 Reach using "
+          ],
+          [
+            0,
+            [
+              7
+            ],
+            1,
+            "AI to create reading recommendations"
+          ],
+          [
+            0,
+            [],
+            0,
+            ". Good idea. Likely to work much better than the standard “related content” picks."
+          ]
+        ],
+        [
+          [
+            0,
+            [],
+            0,
+            "👦🏼 Where do UK teens get their news? Yeah, "
+          ],
+          [
+            0,
+            [
+              8
+            ],
+            1,
+            "video-based social media"
+          ],
+          [
+            0,
+            [],
+            0,
+            "."
+          ]
+        ],
+        [
+          [
+            0,
+            [],
+            0,
+            "🧪 How the "
+          ],
+          [
+            0,
+            [
+              2
+            ],
+            1,
+            "NYT"
+          ],
+          [
+            0,
+            [],
+            0,
+            " "
+          ],
+          [
+            0,
+            [
+              9
+            ],
+            1,
+            "A/B tests headlines"
+          ]
+        ],
+        [
+          [
+            0,
+            [],
+            0,
+            "🧑🏽‍🎨 How "
+          ],
+          [
+            0,
+            [
+              10
+            ],
+            0,
+            "“product thinking” helps "
+          ],
+          [
+            0,
+            [
+              2
+            ],
+            2,
+            "The Local"
+          ],
+          [
+            0,
+            [],
+            0,
+            " in Sweden."
+          ]
+        ],
+        [
+          [
+            0,
+            [],
+            0,
+            "💃 How the "
+          ],
+          [
+            0,
+            [
+              11,
+              2
+            ],
+            1,
+            "Mail"
+          ],
+          [
+            0,
+            [],
+            1,
+            " wins at Snapchat"
+          ],
+          [
+            0,
+            [],
+            0,
+            "."
+          ]
+        ],
+        [
+          [
+            0,
+            [],
+            0,
+            "🏘 Interesting initiative "
+          ],
+          [
+            0,
+            [
+              12
+            ],
+            1,
+            "connecting local journalists with their communities"
+          ],
+          [
+            0,
+            [],
+            0,
+            "."
+          ]
+        ]
+      ]
+    ],
+    [
+      1,
+      "h3",
+      [
+        [
+          0,
+          [],
+          0,
+          "Business Models"
+        ]
+      ]
+    ],
+    [
+      3,
+      "ul",
+      [
+        [
+          [
+            0,
+            [],
+            0,
+            "🤖 "
+          ],
+          [
+            0,
+            [
+              13,
+              14
+            ],
+            0,
+            "How the "
+          ],
+          [
+            0,
+            [
+              2
+            ],
+            1,
+            "New York Times"
+          ],
+          [
+            0,
+            [],
+            1,
+            " uses machine learning for its paywall"
+          ],
+          [
+            0,
+            [],
+            1,
+            "."
+          ],
+          [
+            0,
+            [],
+            0,
+            " Good: better conversion. Uncomfortable: people become aware that different people get different amounts free."
+          ]
+        ],
+        [
+          [
+            0,
+            [],
+            0,
+            "💰 Another business aiming to sell journalism "
+          ],
+          [
+            0,
+            [
+              15
+            ],
+            1,
+            "an article at a time"
+          ],
+          [
+            0,
+            [],
+            0,
+            ". If Apple or Google did this, it might take. I am sceptical that any one business will get the traction."
+          ]
+        ],
+        [
+          [
+            0,
+            [],
+            0,
+            "🎯 "
+          ],
+          [
+            0,
+            [
+              16
+            ],
+            1,
+            "SoGlos has a new model"
+          ],
+          [
+            0,
+            [],
+            0,
+            ", based on targeting readers via expressed preference — thus making them more valuable to advertisers. Their new CMS sounds intriguing, too."
+          ]
+        ],
+        [
+          [
+            0,
+            [],
+            0,
+            "☕️ "
+          ],
+          [
+            0,
+            [
+              17
+            ],
+            1,
+            "Coffee with readers"
+          ],
+          [
+            0,
+            [],
+            0,
+            " FTW. "
+          ],
+          [
+            0,
+            [
+              18
+            ],
+            1,
+            "Fika"
+          ],
+          [
+            0,
+            [],
+            0,
+            " as audience engagement. LOVE IT."
+          ]
+        ],
+        [
+          [
+            0,
+            [],
+            0,
+            "📚 "
+          ],
+          [
+            0,
+            [
+              19
+            ],
+            1,
+            "News is online, magazines are in print"
+          ],
+          [
+            0,
+            [],
+            0,
+            " — research that backs up my experience. I’m reading more print magazines than I was five years ago."
+          ]
+        ]
+      ]
+    ],
+    [
+      1,
+      "h3",
+      [
+        [
+          0,
+          [],
+          0,
+          "Creator Economy"
+        ]
+      ]
+    ],
+    [
+      3,
+      "ul",
+      [
+        [
+          [
+            0,
+            [],
+            0,
+            "🦄 Some great principles for "
+          ],
+          [
+            0,
+            [
+              20
+            ],
+            1,
+            "running your site, newsletter, or blog"
+          ],
+          [
+            0,
+            [],
+            0,
+            "."
+          ]
+        ]
+      ]
+    ],
+    [
+      1,
+      "h3",
+      [
+        [
+          0,
+          [],
+          0,
+          "Internet Culture"
+        ]
+      ]
+    ],
+    [
+      3,
+      "ul",
+      [
+        [
+          [
+            0,
+            [],
+            0,
+            "🦾 Was the “grassroots” campaign for the Snyder cut of "
+          ],
+          [
+            0,
+            [
+              2
+            ],
+            1,
+            "Justice League"
+          ],
+          [
+            0,
+            [],
+            0,
+            " "
+          ],
+          [
+            0,
+            [
+              21
+            ],
+            1,
+            "driven by bots"
+          ],
+          [
+            0,
+            [],
+            0,
+            "?"
+          ]
+        ],
+        [
+          [
+            0,
+            [],
+            0,
+            "🕵️How all sides are "
+          ],
+          [
+            0,
+            [
+              22
+            ],
+            1,
+            "trying to influence journalists"
+          ],
+          [
+            0,
+            [],
+            0,
+            " online."
+          ]
+        ]
+      ]
+    ],
+    [
+      1,
+      "h3",
+      [
+        [
+          0,
+          [],
+          0,
+          "LinkedIn"
+        ]
+      ]
+    ],
+    [
+      3,
+      "ul",
+      [
+        [
+          [
+            0,
+            [],
+            0,
+            "👩🏻‍🔬 Boy, have they "
+          ],
+          [
+            0,
+            [
+              23
+            ],
+            1,
+            "been running experiments on their users"
+          ],
+          [
+            0,
+            [],
+            0,
+            "…"
+          ]
+        ]
+      ]
+    ],
+    [
+      1,
+      "h3",
+      [
+        [
+          0,
+          [],
+          0,
+          "Newsletters"
+        ]
+      ]
+    ],
+    [
+      3,
+      "ul",
+      [
+        [
+          [
+            0,
+            [],
+            0,
+            "📉 Disagree with the headline of this one. The "
+          ],
+          [
+            0,
+            [
+              24
+            ],
+            1,
+            "newsletter boom is not over"
+          ],
+          [
+            0,
+            [],
+            0,
+            " — but the hype is. And that’s a good thing. That’s where productivity starts."
+          ]
+        ],
+        [
+          [
+            0,
+            [],
+            0,
+            "🏘 Who’ll be the hardest hit by Facebook shuttering its newsletter product? "
+          ],
+          [
+            0,
+            [
+              25
+            ],
+            1,
+            "Local journalists"
+          ],
+          [
+            0,
+            [],
+            0,
+            ". Again."
+          ]
+        ],
+        [
+          [
+            0,
+            [],
+            0,
+            "📧 What Casey Newton learnt from "
+          ],
+          [
+            0,
+            [
+              26
+            ],
+            1,
+            "his first two years on Substack"
+          ]
+        ],
+        [
+          [
+            0,
+            [],
+            0,
+            "𝌡 The best "
+          ],
+          [
+            0,
+            [
+              27
+            ],
+            1,
+            "alternatives to Substack"
+          ]
+        ],
+        [
+          [
+            0,
+            [],
+            0,
+            "🤥 "
+          ],
+          [
+            0,
+            [
+              28
+            ],
+            1,
+            "Why your open rates are a lie"
+          ],
+          [
+            0,
+            [],
+            0,
+            "… (I’m coming back to this one.)"
+          ]
+        ],
+        [
+          [
+            0,
+            [],
+            0,
+            "🤓 Should we "
+          ],
+          [
+            0,
+            [
+              29
+            ],
+            1,
+            "personalise newsletter content"
+          ],
+          [
+            0,
+            [],
+            0,
+            "?"
+          ]
+        ],
+        [
+          [
+            0,
+            [],
+            0,
+            "🧑🏼‍🏫 National World "
+          ],
+          [
+            0,
+            [
+              30
+            ],
+            1,
+            "building a newsletter team"
+          ],
+          [
+            0,
+            [],
+            0,
+            "."
+          ]
+        ]
+      ]
+    ],
+    [
+      1,
+      "h3",
+      [
+        [
+          0,
+          [],
+          0,
+          "Photography"
+        ]
+      ]
+    ],
+    [
+      3,
+      "ul",
+      [
+        [
+          [
+            0,
+            [],
+            0,
+            "🤑 Unsplash now has a paid offering — "
+          ],
+          [
+            0,
+            [
+              31
+            ],
+            1,
+            "Unsplash+"
+          ]
+        ],
+        [
+          [
+            0,
+            [],
+            0,
+            "🪦 "
+          ],
+          [
+            0,
+            [
+              32
+            ],
+            1,
+            "Eamonn McCabe dies aged 74"
+          ],
+          [
+            0,
+            [],
+            0,
+            " — I’ve been a fan of his work for about 35 years now. Such a loss."
+          ]
+        ]
+      ]
+    ],
+    [
+      1,
+      "h3",
+      [
+        [
+          0,
+          [],
+          0,
+          "Podcasting"
+        ]
+      ]
+    ],
+    [
+      3,
+      "ul",
+      [
+        [
+          [
+            0,
+            [],
+            0,
+            "👨🏻‍💻 A great, robust defence of "
+          ],
+          [
+            0,
+            [
+              33
+            ],
+            1,
+            "RSS as the basis of podcasting"
+          ],
+          [
+            0,
+            [],
+            0,
+            ". If you work in or around podcasting, you "
+          ],
+          [
+            0,
+            [
+              2
+            ],
+            1,
+            "need"
+          ],
+          [
+            0,
+            [],
+            0,
+            " to understand this."
+          ]
+        ],
+        [
+          [
+            0,
+            [],
+            0,
+            "⛔️ Here’s a good look at the "
+          ],
+          [
+            0,
+            [
+              34
+            ],
+            1,
+            "complex reasons that Spotify might be trying to undermine the standard"
+          ],
+          [
+            0,
+            [],
+            0,
+            "."
+          ]
+        ]
+      ]
+    ],
+    [
+      1,
+      "h3",
+      [
+        [
+          0,
+          [],
+          0,
+          "Journalism"
+        ]
+      ]
+    ],
+    [
+      3,
+      "ul",
+      [
+        [
+          [
+            0,
+            [],
+            0,
+            "👾 Reach has "
+          ],
+          [
+            0,
+            [
+              35
+            ],
+            1,
+            "a gaming editor now"
+          ],
+          [
+            0,
+            [],
+            0,
+            "."
+          ]
+        ],
+        [
+          [
+            0,
+            [],
+            0,
+            "🕸 "
+          ],
+          [
+            0,
+            [
+              36
+            ],
+            1,
+            "Q&A with internet beat journalists"
+          ],
+          [
+            0,
+            [],
+            0,
+            ". I’m not quite sure what it says that at least two of the journos mentioned here are controversial."
+          ]
+        ],
+        [
+          [
+            0,
+            [],
+            0,
+            "👩🏽‍💻 An interesting "
+          ],
+          [
+            0,
+            [
+              37
+            ],
+            1,
+            "breakdown of live-blogging"
+          ],
+          [
+            0,
+            [],
+            0,
+            ". (They’re wrong about when the format was created, though. It dates back to the late 90s.)"
+          ]
+        ],
+        [
+          [
+            0,
+            [],
+            0,
+            "📝 How the "
+          ],
+          [
+            0,
+            [
+              38
+            ],
+            1,
+            "UK’s community reporters covered the Queen’s death"
+          ],
+          [
+            0,
+            [],
+            0,
+            "."
+          ]
+        ],
+        [
+          [
+            0,
+            [],
+            0,
+            "👩🏾‍🎨 How "
+          ],
+          [
+            0,
+            [
+              2
+            ],
+            1,
+            "The Guardian"
+          ],
+          [
+            0,
+            [],
+            0,
+            " "
+          ],
+          [
+            0,
+            [
+              39
+            ],
+            1,
+            "visually differentiates news and analysis"
+          ],
+          [
+            0,
+            [],
+            0,
+            "."
+          ]
+        ]
+      ]
+    ],
+    [
+      1,
+      "h3",
+      [
+        [
+          0,
+          [],
+          0,
+          "Meta problems: the Insta Implosion"
+        ]
+      ]
+    ],
+    [
+      3,
+      "ul",
+      [
+        [
+          [
+            0,
+            [],
+            0,
+            "🆕 Back in July, Instagram announced "
+          ],
+          [
+            0,
+            [
+              40
+            ],
+            1,
+            "a big overhaul of its UI"
+          ],
+          [
+            0,
+            [],
+            0,
+            "."
+          ]
+        ],
+        [
+          [
+            0,
+            [],
+            0,
+            "↩️ "
+          ],
+          [
+            0,
+            [
+              41
+            ],
+            1,
+            "Wait, maybe not."
+          ],
+          [
+            0,
+            [],
+            0,
+            " — this is rare for Meta. Normally, they push forward with changes even if people dislike them. Are they losing sight of what their users will actually tolerate?"
+          ]
+        ],
+        [
+          [
+            0,
+            [],
+            0,
+            "🤦🏽 This piece from Taylor Lorenz has aged "
+          ],
+          [
+            0,
+            [
+              2
+            ],
+            1,
+            "really"
+          ],
+          [
+            0,
+            [],
+            0,
+            " badly: "
+          ],
+          [
+            0,
+            [
+              42
+            ],
+            1,
+            "why you don’t want the old Instagram back"
+          ],
+          [
+            0,
+            [],
+            0,
+            "."
+          ]
+        ],
+        [
+          [
+            0,
+            [],
+            0,
+            "👮🏼‍♀️ Meanwhile, the EU is "
+          ],
+          [
+            0,
+            [
+              43
+            ],
+            1,
+            "fining Instagram big money for privacy violations"
+          ]
+        ],
+        [
+          [
+            0,
+            [],
+            0,
+            "😩 And its push to imitate "
+          ],
+          [
+            0,
+            [
+              44
+            ],
+            1,
+            "TikTok is failing"
+          ]
+        ],
+        [
+          [
+            0,
+            [],
+            0,
+            "😰 In fact, both "
+          ],
+          [
+            0,
+            [
+              45
+            ],
+            1,
+            "Facebook and Insta are stumbling"
+          ]
+        ],
+        [
+          [
+            0,
+            [],
+            0,
+            "☔️ Zuck tells his staff to "
+          ],
+          [
+            0,
+            [
+              46
+            ],
+            1,
+            "brace for stormy weather"
+          ],
+          [
+            0,
+            [],
+            0,
+            " — and suggests that he’s happy for some to go overboard…"
+          ]
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Based on the links above, Meta’s future is looking more uncertain than I can ever recall. As "
+        ],
+        [
+          0,
+          [
+            47
+          ],
+          1,
+          "Nick Heer puts it"
+        ],
+        [
+          0,
+          [],
+          0,
+          ":"
+        ]
+      ]
+    ],
+    [
+      1,
+      "blockquote",
+      [
+        [
+          0,
+          [],
+          0,
+          "But look at the past few weeks of Meta news and it seems like the company has zero idea of what to do or why people use its products. It made drastic unlikable changes to Instagram; its leadership is panicking over TikTok; its latest public demonstration of its metaverse future is embarrassing and its educational value is less justified than the VR headset in a thirty year old Simpsons clip. Do these decisions look like the product of a focused company that has near-term goals for its future and innovative ideas beyond that?"
+        ]
+      ]
+    ],
+    [
+      1,
+      "h3",
+      [
+        [
+          0,
+          [],
+          0,
+          "SEO"
+        ]
+      ]
+    ],
+    [
+      3,
+      "ul",
+      [
+        [
+          [
+            0,
+            [],
+            0,
+            "💰 Some useful details on how "
+          ],
+          [
+            0,
+            [
+              48
+            ],
+            1,
+            "different forms of subscription models impact SEO"
+          ],
+          [
+            0,
+            [],
+            0,
+            "."
+          ]
+        ]
+      ]
+    ],
+    [
+      1,
+      "h3",
+      [
+        [
+          0,
+          [],
+          0,
+          "TikTok"
+        ]
+      ]
+    ],
+    [
+      3,
+      "ul",
+      [
+        [
+          [
+            0,
+            [],
+            0,
+            "🇨🇳 Has TikTok’s owner used other apps to "
+          ],
+          [
+            0,
+            [
+              49
+            ],
+            1,
+            "push Chinese propaganda"
+          ],
+          [
+            0,
+            [],
+            0,
+            "?"
+          ]
+        ],
+        [
+          [
+            0,
+            [],
+            0,
+            "🕺🏽Should we be "
+          ],
+          [
+            0,
+            [
+              50
+            ],
+            1,
+            "creating journo-influencers on TikTok"
+          ],
+          [
+            0,
+            [],
+            0,
+            "? Certainly — if we want to be on TikTok. The question that needs answering first is whether we should trust TikTok, given its ownership…"
+          ]
+        ],
+        [
+          [
+            0,
+            [],
+            0,
+            "📱 How to "
+          ],
+          [
+            0,
+            [
+              51
+            ],
+            1,
+            "train your TikTok algorithm"
+          ],
+          [
+            0,
+            [],
+            0,
+            ". (I "
+          ],
+          [
+            0,
+            [
+              2
+            ],
+            1,
+            "really"
+          ],
+          [
+            0,
+            [],
+            0,
+            " need to do this because it just doesn’t “get” me yet."
+          ]
+        ]
+      ]
+    ],
+    [
+      1,
+      "h3",
+      [
+        [
+          0,
+          [],
+          0,
+          "Trust"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Nice little video from the BBC:"
+        ]
+      ]
+    ],
+    [
+      10,
+      3
+    ],
+    [
+      1,
+      "h3",
+      [
+        [
+          0,
+          [],
+          0,
+          "Twitter"
+        ]
+      ]
+    ],
+    [
+      3,
+      "ul",
+      [
+        [
+          [
+            0,
+            [],
+            0,
+            "🤬 Bad tweet "
+          ],
+          [
+            0,
+            [
+              52
+            ],
+            1,
+            "costs a columnist their job"
+          ],
+          [
+            0,
+            [],
+            0,
+            "."
+          ]
+        ],
+        [
+          [
+            0,
+            [],
+            0,
+            "🤖 Bots that "
+          ],
+          [
+            0,
+            [
+              53
+            ],
+            1,
+            "remind you to do your accessibility"
+          ],
+          [
+            0,
+            [],
+            0,
+            ". Cool."
+          ]
+        ],
+        [
+          [
+            0,
+            [],
+            0,
+            "❤️ Twitter is still where publishers are "
+          ],
+          [
+            0,
+            [
+              54
+            ],
+            1,
+            "getting the largest followings"
+          ],
+          [
+            0,
+            [],
+            0,
+            "."
+          ]
+        ]
+      ]
+    ],
+    [
+      10,
+      4
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "A quote to think on"
+        ]
+      ]
+    ],
+    [
+      1,
+      "blockquote",
+      [
+        [
+          0,
+          [],
+          0,
+          "But the internet is still here and there might come a day when things get decentralised again. I don’t know if that might ever come to pass, but for now, we can take back the internet by going back to creating our own websites and blogs and even newsletters and relying less, far less, on the cursed social networks."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "— "
+        ],
+        [
+          0,
+          [
+            55
+          ],
+          1,
+          "Rebecca Toh"
+        ]
+      ]
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "The Big Read"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "This is, admittedly, a couple of months old, but i finally got around to reading it this week, and it does make some very compelling arguments. Do you agree?"
+        ]
+      ]
+    ],
+    [
+      10,
+      5
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "The Difficult Read"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Journalists love news. It's axomiatic, really. But our readers don't tend to love news as much as us. Our obsession with chronicling every detail of the rolling waves of crises over the past five or six years initially helped drive sales up — but is now becoming a problem."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "We need to address this, but without abandoning our core mission."
+        ]
+      ]
+    ],
+    [
+      10,
+      6
+    ],
+    [
+      10,
+      7
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "And finally…"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "1994's view of the internet…"
+        ]
+      ]
+    ],
+    [
+      10,
+      8
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [
+            56
+          ],
+          1,
+          "via Boing Boing"
+        ]
+      ]
+    ],
+    [
+      10,
+      9
+    ],
+    [
+      10,
+      10
+    ],
+    [
+      1,
+      "p",
+      []
+    ]
+  ],
+  "ghostVersion": "4.0"
+}

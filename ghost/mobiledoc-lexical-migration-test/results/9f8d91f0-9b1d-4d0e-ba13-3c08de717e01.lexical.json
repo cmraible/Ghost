@@ -1,0 +1,960 @@
+{
+  "root": {
+    "children": [
+      {
+        "type": "email",
+        "html": "<p>Hey {first_name, \"there\"},</p><p>After a little time off to recharge my little old grey cells, we're back on the <em>Social &amp; Digital Coffee Break</em> train this week. It doesn't look like I'll get a formal holiday this year, so I'm grabbing downtime days where I can instead. So, expect irregular deliveries of this newsletter until the the second week in September, when my daughters return to school, and I can finally get a routine going here.</p><p>I am <em>desperately</em> looking forward to it. Thanks for bearing with me.&nbsp;</p>"
+      },
+      {
+        "children": [
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": "Apple's big traffic hijack",
+            "type": "text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "heading",
+        "tag": "h2",
+        "version": 1
+      },
+      {
+        "children": [
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": "I've been running the iPadOS 14 beta on my iPad for some weeks now. I like it. It's a big improvement, and it's already pretty stable. And I found myself, without quite realizing it, spending a lot more time in Apple News, and a lot less time bouncing off paywalls. ",
+            "type": "text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "paragraph",
+        "version": 1
+      },
+      {
+        "children": [
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": "Well, ",
+            "type": "text",
+            "version": 1
+          },
+          {
+            "children": [
+              {
+                "detail": 0,
+                "format": 0,
+                "mode": "normal",
+                "style": "",
+                "text": "here's why",
+                "type": "text",
+                "version": 1
+              }
+            ],
+            "direction": "ltr",
+            "format": "",
+            "indent": 0,
+            "type": "link",
+            "rel": null,
+            "target": null,
+            "title": null,
+            "url": "https://techcrunch.com/2020/08/10/apple-news-plus-redirects/",
+            "version": 1
+          },
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": ": ",
+            "type": "text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "paragraph",
+        "version": 1
+      },
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "detail": 0,
+                "format": 1,
+                "mode": "normal",
+                "style": "",
+                "text": "Apple’s ",
+                "type": "text",
+                "version": 1
+              }
+            ],
+            "direction": "ltr",
+            "format": "",
+            "indent": 0,
+            "type": "link",
+            "rel": null,
+            "target": null,
+            "title": null,
+            "url": "https://crunchbase.com/organization/apple",
+            "version": 1
+          },
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": " still-in-beta operating systems will automatically redirect News+ subscribers to the Apple News app when they click on links from a News+ publisher.",
+            "type": "text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "quote",
+        "version": 1
+      },
+      {
+        "children": [
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": "This is a ",
+            "type": "text",
+            "version": 1
+          },
+          {
+            "detail": 0,
+            "format": 2,
+            "mode": "normal",
+            "style": "",
+            "text": "very",
+            "type": "text",
+            "version": 1
+          },
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": " Apple move. For those of us who are Apple News+ subscribers — and I am — it's a pretty fantastic experience. You get access to the articles you have already paid for painlessly and smoothly. From the user point of view, this is a great move.",
+            "type": "text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "paragraph",
+        "version": 1
+      },
+      {
+        "children": [
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": "Publishers are, perhaps not surprisingly, less excited. While we can safely ignore the ",
+            "type": "text",
+            "version": 1
+          },
+          {
+            "children": [
+              {
+                "detail": 0,
+                "format": 0,
+                "mode": "normal",
+                "style": "",
+                "text": "kvetching from competitors",
+                "type": "text",
+                "version": 1
+              }
+            ],
+            "direction": "ltr",
+            "format": "",
+            "indent": 0,
+            "type": "link",
+            "rel": null,
+            "target": null,
+            "title": null,
+            "url": "https://www.pressgazette.co.uk/apple-accused-of-making-aggressive-move-to-intercept-news-publishers-traffic-by-creating-walled-garden/",
+            "version": 1
+          },
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": ", those from publishers do need more consideration. As ",
+            "type": "text",
+            "version": 1
+          },
+          {
+            "children": [
+              {
+                "detail": 0,
+                "format": 0,
+                "mode": "normal",
+                "style": "",
+                "text": "*AdAge* reports",
+                "type": "text",
+                "version": 1
+              }
+            ],
+            "direction": "ltr",
+            "format": "",
+            "indent": 0,
+            "type": "link",
+            "rel": null,
+            "target": null,
+            "title": null,
+            "url": "https://adage.com/article/digital/apples-move-steer-more-traffic-directly-its-news-app-catches-publishers-surprise/2273706",
+            "version": 1
+          },
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": " [£]:",
+            "type": "text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "paragraph",
+        "version": 1
+      },
+      {
+        "children": [
+          {
+            "detail": 0,
+            "format": 2,
+            "mode": "normal",
+            "style": "",
+            "text": "Two of the executives at the publishers told Ad Age they receive decent traffic through their deal with Apple, but are now questioning how it will impact their bottom line, as they each have greater monetization opportunities through their owned properties.",
+            "type": "text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "quote",
+        "version": 1
+      },
+      {
+        "children": [
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": "A few things worth noting: ",
+            "type": "text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "paragraph",
+        "version": 1
+      },
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "detail": 0,
+                "format": 0,
+                "mode": "normal",
+                "style": "",
+                "text": "This change only impacts Apple News+ subscribers, not the general Apple user base. All reports suggest that is not a large group. ",
+                "type": "text",
+                "version": 1
+              }
+            ],
+            "direction": "ltr",
+            "format": "",
+            "indent": 0,
+            "type": "listitem",
+            "value": 1,
+            "version": 1
+          },
+          {
+            "children": [
+              {
+                "detail": 0,
+                "format": 0,
+                "mode": "normal",
+                "style": "",
+                "text": "The only people likely to be negatively impacted by this are publishers who have paywalled content, and who have a significant amount of users who are ",
+                "type": "text",
+                "version": 1
+              },
+              {
+                "detail": 0,
+                "format": 2,
+                "mode": "normal",
+                "style": "",
+                "text": "both",
+                "type": "text",
+                "version": 1
+              },
+              {
+                "detail": 0,
+                "format": 0,
+                "mode": "normal",
+                "style": "",
+                "text": " Apple News+ ",
+                "type": "text",
+                "version": 1
+              },
+              {
+                "detail": 0,
+                "format": 2,
+                "mode": "normal",
+                "style": "",
+                "text": "and",
+                "type": "text",
+                "version": 1
+              },
+              {
+                "detail": 0,
+                "format": 0,
+                "mode": "normal",
+                "style": "",
+                "text": " site subscribers, and who derive revenue from getting people back to their own site. ",
+                "type": "text",
+                "version": 1
+              }
+            ],
+            "direction": "ltr",
+            "format": "",
+            "indent": 0,
+            "type": "listitem",
+            "value": 2,
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "tag": "ul",
+        "type": "list",
+        "listType": "bullet",
+        "start": 1,
+        "version": 1
+      },
+      {
+        "children": [
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": "So, right now, we are talking about a storm in a teacup. The publishers directly affected by this change are not likely to be a huge group, and that's likely to remain the case, unless this helps the Apple News+ user base grow. Right now, it looks more like a retention strategy for Apple — helping existing subscribers make better use of the service that they already pay for, giving them fewer reasons to cancel — then a growth one. ",
+            "type": "text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "paragraph",
+        "version": 1
+      },
+      {
+        "children": [
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": "As as user, I'm all in favour of this. It helps me spend more time reading good journalism that I've paid to access. As an audience engagement professional, I'd see it as an opportunity to:",
+            "type": "text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "paragraph",
+        "version": 1
+      },
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "detail": 0,
+                "format": 0,
+                "mode": "normal",
+                "style": "",
+                "text": "Demonstrate the worth of our journalism to readers",
+                "type": "text",
+                "version": 1
+              }
+            ],
+            "direction": "ltr",
+            "format": "",
+            "indent": 0,
+            "type": "listitem",
+            "value": 1,
+            "version": 1
+          },
+          {
+            "children": [
+              {
+                "detail": 0,
+                "format": 0,
+                "mode": "normal",
+                "style": "",
+                "text": "Use the page furniture with Apple News+ to move people up the passion pathway, and capture more of those readers into owned and operated media, especially newsletters.",
+                "type": "text",
+                "version": 1
+              }
+            ],
+            "direction": "ltr",
+            "format": "",
+            "indent": 0,
+            "type": "listitem",
+            "value": 2,
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "tag": "ol",
+        "type": "list",
+        "listType": "number",
+        "start": 1,
+        "version": 1
+      },
+      {
+        "children": [
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": "That's said it's worth watching where Apple goes with this. As a True Believer in the value of the open web, I'd hate to see Apple hijack all news links into an app. And I'm glad there's a toggle there from the start to turn it off.",
+            "type": "text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "paragraph",
+        "version": 1
+      },
+      {
+        "children": [
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": "I suspect that Apple would be best served by introducing a dialogue the first time a Apple News+ user opens the Apple News app, asking if they'd like to open paywalled links in the app, and then a lot of the controversy would go away. ",
+            "type": "text",
+            "version": 1
+          },
+          {
+            "children": [
+              {
+                "detail": 0,
+                "format": 0,
+                "mode": "normal",
+                "style": "",
+                "text": "Defaults have power",
+                "type": "text",
+                "version": 1
+              }
+            ],
+            "direction": "ltr",
+            "format": "",
+            "indent": 0,
+            "type": "link",
+            "rel": null,
+            "target": null,
+            "title": null,
+            "url": "https://onezero.medium.com/apples-latest-power-move-steals-web-traffic-from-publishers-6c7469c8a38b",
+            "version": 1
+          },
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": ", and so asking seems like the right thing to do. ",
+            "type": "text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "paragraph",
+        "version": 1
+      },
+      {
+        "children": [
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": "The good thing, though, is that we're having this conversation ",
+            "type": "text",
+            "version": 1
+          },
+          {
+            "detail": 0,
+            "format": 2,
+            "mode": "normal",
+            "style": "",
+            "text": "now",
+            "type": "text",
+            "version": 1
+          },
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": ". The last thing we need, as an industry, is another big tech company inserting itself between us and our readers. Apple needs watching, but at the same time, we need to think harder about how to take advantage of Apple News+, if it can be valuable to us.",
+            "type": "text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "paragraph",
+        "version": 1
+      },
+      {
+        "children": [
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": "And let's put that on my ever-growing list of subjects I should get back to…  ",
+            "type": "text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "paragraph",
+        "version": 1
+      },
+      {
+        "children": [
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": "Getting Reels",
+            "type": "text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "heading",
+        "tag": "h2",
+        "version": 1
+      },
+      {
+        "children": [
+          {
+            "detail": 0,
+            "format": 2,
+            "mode": "normal",
+            "style": "",
+            "text": "These two links are presented with a health warning: don't taken anything written in the first months of a platform or feature's life too seriously. Social media takes time to find its footings (or to fail), and things will iterate from here. ",
+            "type": "text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "paragraph",
+        "version": 1
+      },
+      {
+        "children": [
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": "First up: most publishers are not rushing to experiment with Reels, Facebook's attempt to clone TikTok within Instagram. Good. It's an unproven feature, and you shouldn't be spending your scarce time on it, unless you work for a large org, and it's literally your job. There's plenty of scope to watch, learn, and join in if it seems to be successful. ",
+            "type": "text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "paragraph",
+        "version": 1
+      },
+      {
+        "type": "bookmark",
+        "url": "https://digiday.com/media/publishers-instagram-reels/",
+        "metadata": {
+          "url": "http://digiday.com/media/publishers-instagram-reels/",
+          "title": "“No revenue”: Why publishers aren’t prioritizing Instagram Reels",
+          "description": "With no immediate way to make revenue, some publishers don’t want to prioritize original content for Instagram Reels, a new 15-second format.",
+          "author": "Lara O’Reilly",
+          "publisher": "Digiday",
+          "thumbnail": "https://i2.wp.com/digiday.com/wp-content/uploads/2020/08/reels.png?fit=1400%2C876&ssl=1",
+          "icon": "https://digiday.com/wp-content/themes/digiday/static/images/favicons/favicon-196x196.png"
+        }
+      },
+      {
+        "children": [
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": "Secondly, this is a brutal evisceration of the platform. But then, people did the same when Instagram cloned Stories from Snapchat. Facebook is patient and is prepared to invest. Let's see if they can turn this around. ",
+            "type": "text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "paragraph",
+        "version": 1
+      },
+      {
+        "type": "bookmark",
+        "url": "https://www.nytimes.com/2020/08/12/technology/personaltech/tested-facebook-reels-tiktok-clone-dud.html",
+        "metadata": {
+          "url": "https://www.nytimes.com/2020/08/12/technology/personaltech/tested-facebook-reels-tiktok-clone-dud.html",
+          "title": "We Tested Instagram Reels, the TikTok Clone. What a Dud.",
+          "description": "TikTok might not be winning over President Trump, but it sure beats its Instagram copycat for making and sharing short videos.",
+          "author": "Brian X. Chen",
+          "publisher": "NYTimes",
+          "thumbnail": "https://static01.nyt.com/images/2020/08/12/business/12Techfix-illo/12Techfix-illo-facebookJumbo.jpg",
+          "icon": "https://www.nytimes.com/vi-assets/static-assets/apple-touch-icon-319373aaf4524d94d38aa599c56b8655.png"
+        }
+      },
+      {
+        "children": [
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": "Early days. It stills feels like the Zuckercopier has been deployed a little too quickly on this one — but that doesn't mean they won't get there in the end. ",
+            "type": "text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "paragraph",
+        "version": 1
+      },
+      {
+        "children": [
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": "The Influencer Roach Motels",
+            "type": "text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "heading",
+        "tag": "h2",
+        "version": 1
+      },
+      {
+        "children": [
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": "A typically gripping read from Taylor Lorenz, looking at febrile atmosphere inside influencer houses. Who would have thought that a mix of young adults, large amounts of cash, and fast fame might be a tricky brew to manage — and one that's ripe for exploitation by the older and more ruthless?",
+            "type": "text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "paragraph",
+        "version": 1
+      },
+      {
+        "type": "bookmark",
+        "url": "https://www.nytimes.com/2020/08/14/style/influences-tiktok-management-brittany-broski.html",
+        "metadata": {
+          "url": "https://www.nytimes.com/2020/08/14/style/influences-tiktok-management-brittany-broski.html",
+          "title": "Trying to Make It Big Online? Getting Signed Isn’t Everything",
+          "description": "Young people come to Los Angeles in droves with dreams of fame and fortune. Once they’re discovered, it’s not always sunny.",
+          "author": "Taylor Lorenz",
+          "publisher": "NYTimes",
+          "thumbnail": "https://static01.nyt.com/images/2020/08/16/fashion/14INFLUENCES-1/14INFLUENCES-1-facebookJumbo-v2.jpg",
+          "icon": "https://www.nytimes.com/vi-assets/static-assets/apple-touch-icon-319373aaf4524d94d38aa599c56b8655.png"
+        }
+      },
+      {
+        "children": [
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": "Actually, it's about toxicity in gaming journalism",
+            "type": "text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "heading",
+        "tag": "h2",
+        "version": 1
+      },
+      {
+        "children": [
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": "Lest those of us on the journalism side of the fence get all smug about \"influencers\", here's a sobering account of life on the Kotaku team. The industry it reports on — gaming — is having its own toxicity moment. It appears its own media is throwing stones from within a glass house. ",
+            "type": "text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "paragraph",
+        "version": 1
+      },
+      {
+        "type": "bookmark",
+        "url": "https://medium.com/@NatalieDegraffinried/some-thoughts-about-a-website-with-a-fake-japanese-name-bc404335db7e",
+        "metadata": {
+          "url": "https://medium.com/@NatalieDegraffinried/some-thoughts-about-a-website-with-a-fake-japanese-name-bc404335db7e",
+          "title": "Some Thoughts About A Website With A Fake Japanese Name",
+          "description": "Hey folks! After a nightmarish process of trying to get medical leave and being taken off payroll on Juneteenth—the first one we got off as a holiday!—I’ve finally left Kotaku. Kotaku was so…",
+          "author": "Natalie Degraffinried",
+          "publisher": "Medium",
+          "thumbnail": "https://miro.medium.com/proxy/1*3sela1OADrJr7dJk_CXaEQ.png",
+          "icon": "https://cdn-images-1.medium.com/fit/c/152/152/1*8I-HPL0bfoIzGied-dzOvA.png"
+        }
+      },
+      {
+        "children": [
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": "Pluggity Plug Plug",
+            "type": "text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "heading",
+        "tag": "h2",
+        "version": 1
+      },
+      {
+        "children": [
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": "Still about 36 hours to sign up for my online SEO course. It kicks off on Wednesday, and runs in handy, digestible 2 hour sessions over four weeks:",
+            "type": "text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "paragraph",
+        "version": 1
+      },
+      {
+        "type": "bookmark",
+        "url": "https://www.journalism.co.uk/vocational-skills-study/seo-for-media-professionals-a-practical-guide-to-getting-your-work-found2/s43/a733090/",
+        "metadata": {
+          "url": "https://www.journalism.co.uk/vocational-skills-study/seo-for-media-professionals-a-practical-guide-to-getting-your-work-found2/s43/a733090/",
+          "title": "Essential SEO skills for media professionals",
+          "description": "This online course taking place over four 90-minute Zoom sessions will teach you how to use SEO to plan, develop and optimise articles to find readers through Google and other search engines",
+          "author": null,
+          "publisher": "Journalism.co.uk",
+          "thumbnail": "https://www.journalism.co.uk/assets/149/Screen_Shot_2017-06-27_at_16.28.54.png",
+          "icon": "https://www.journalism.co.uk/newsite/images/favicon.png"
+        }
+      },
+      {
+        "children": [
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": "Elsewhere…",
+            "type": "text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "heading",
+        "tag": "h2",
+        "version": 1
+      },
+      {
+        "children": [
+          {
+            "detail": 0,
+            "format": 2,
+            "mode": "normal",
+            "style": "",
+            "text": "Some occasional plugs for things I write elsewhere.",
+            "type": "text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "paragraph",
+        "version": 1
+      },
+      {
+        "children": [
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": "Why I love walking, and also why it's taken me so damn long to figure that out:",
+            "type": "text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "paragraph",
+        "version": 1
+      },
+      {
+        "type": "bookmark",
+        "url": "https://walkingwithdaddy.com/one-man-walking-or-the-accidental-flaneur/",
+        "metadata": {
+          "url": "https://walkingwithdaddy.com/one-man-walking-or-the-accidental-flaneur/",
+          "title": "One Man Walking; or The Accidental Flâneur",
+          "description": "Self-knowledge is the hardest wisdom to acquire, but acting on that knoweldge can be even harder.",
+          "author": "Adam Tinworth",
+          "publisher": "Walking With Daddy",
+          "thumbnail": "https://walkingwithdaddy.com/content/images/2020/08/1989-cairngorms.jpeg",
+          "icon": "https://walkingwithdaddy.com/favicon.png"
+        }
+      },
+      {
+        "children": [
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": "And, while we're on green subjects…",
+            "type": "text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "paragraph",
+        "version": 1
+      },
+      {
+        "type": "bookmark",
+        "url": "https://nextconf.eu/2020/07/green-recovery/",
+        "metadata": {
+          "url": "https://nextconf.eu/2020/07/green-recovery/",
+          "title": "Green recovery: a plan for solving our economic and climate crisis",
+          "description": "Can digital businesses take the lead on building a green recovery from the coronavirus crisis? There’s consumer demand and political will to support you.",
+          "author": "Adam Tinworth",
+          "publisher": "NEXT Conference",
+          "thumbnail": "https://nextconf.eu/wp-content/uploads/2020/07/jp-valery-o2CiM3MQQ_c-unsplash-scaled.jpg",
+          "icon": "https://nextconf.eu/wp-content/uploads/2020/06/cropped-FAVICON_NEXT3-1-192x192.png"
+        }
+      },
+      {
+        "children": [],
+        "direction": null,
+        "format": "",
+        "indent": 0,
+        "type": "paragraph",
+        "version": 1
+      }
+    ],
+    "direction": "ltr",
+    "format": "",
+    "indent": 0,
+    "type": "root",
+    "version": 1
+  }
+}

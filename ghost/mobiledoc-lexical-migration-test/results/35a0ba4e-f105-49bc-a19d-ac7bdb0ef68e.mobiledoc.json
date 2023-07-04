@@ -1,0 +1,604 @@
+{
+  "version": "0.3.1",
+  "atoms": [
+    [
+      "soft-return",
+      "",
+      {}
+    ]
+  ],
+  "cards": [
+    [
+      "html",
+      {
+        "html": "<div class=\"podcast-embed\"><iframe src=\"https://anchor.fm/besttechie/embed/episodes/The-perfect-storm-WallStreetBets-vs-Wall-Street-eppjrj\" height=\"162px\" width=\"400px\" frameborder=\"0\" scrolling=\"no\"></iframe></div>"
+      }
+    ],
+    [
+      "embed",
+      {
+        "url": "https://www.youtube.com/watch?v=Bsk5vFCte74",
+        "html": "<iframe width=\"200\" height=\"113\" src=\"https://www.youtube.com/embed/Bsk5vFCte74?feature=oembed\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+        "type": "video",
+        "metadata": {
+          "title": "WallStreetBets vs Wall Street: Explaining $GME $AMC",
+          "author_name": "Jeff Weisbein",
+          "author_url": "https://www.youtube.com/besttechie",
+          "height": 113,
+          "width": 200,
+          "version": "1.0",
+          "provider_name": "YouTube",
+          "provider_url": "https://www.youtube.com/",
+          "thumbnail_height": 360,
+          "thumbnail_width": 480,
+          "thumbnail_url": "https://i.ytimg.com/vi/Bsk5vFCte74/hqdefault.jpg"
+        }
+      }
+    ],
+    [
+      "embed",
+      {
+        "url": "https://twitter.com/jeffweisbein/status/1354809226409861121?s=21",
+        "html": "<blockquote class=\"twitter-tweet\"><p lang=\"en\" dir=\"ltr\">LOL This is Robinhood’s co-founder. It also happens to be his most recent tweet.<br><br>I love the part about creating a “just and fair society.”<br><br>How about you let us trade then? <a href=\"https://t.co/oq5wCNUohH\">https://t.co/oq5wCNUohH</a></p>&mdash; Jeff Weisbein (@jeffweisbein) <a href=\"https://twitter.com/jeffweisbein/status/1354809226409861121?ref_src=twsrc%5Etfw\">January 28, 2021</a></blockquote>\n<script async src=\"https://platform.twitter.com/widgets.js\" charset=\"utf-8\"></script>\n",
+        "type": "rich",
+        "metadata": {
+          "url": "https://twitter.com/jeffweisbein/status/1354809226409861121",
+          "author_name": "Jeff Weisbein",
+          "author_url": "https://twitter.com/jeffweisbein",
+          "width": 550,
+          "height": null,
+          "cache_age": "3153600000",
+          "provider_name": "Twitter",
+          "provider_url": "http://www.twitter.com/",
+          "version": "1.0"
+        }
+      }
+    ],
+    [
+      "embed",
+      {
+        "url": "https://twitter.com/chriscuomo/status/1354994000294522881?s=21",
+        "html": "<blockquote class=\"twitter-tweet\"><p lang=\"en\" dir=\"ltr\">Robinhood CEO Vlad Tenev defends the company&#39;s decision to limit trading on some symbols following the GameStop stock chaos, saying they must &quot;prudently manage the risk and the deposit requirements.&quot; <a href=\"https://t.co/z2Ar8d9YX1\">pic.twitter.com/z2Ar8d9YX1</a></p>&mdash; Christopher C. Cuomo (@ChrisCuomo) <a href=\"https://twitter.com/ChrisCuomo/status/1354994000294522881?ref_src=twsrc%5Etfw\">January 29, 2021</a></blockquote>\n<script async src=\"https://platform.twitter.com/widgets.js\" charset=\"utf-8\"></script>\n",
+        "type": "rich",
+        "metadata": {
+          "url": "https://twitter.com/ChrisCuomo/status/1354994000294522881",
+          "author_name": "Christopher C. Cuomo",
+          "author_url": "https://twitter.com/ChrisCuomo",
+          "width": 550,
+          "height": null,
+          "cache_age": "3153600000",
+          "provider_name": "Twitter",
+          "provider_url": "http://www.twitter.com/",
+          "version": "1.0"
+        }
+      }
+    ]
+  ],
+  "markups": [
+    [
+      "em"
+    ],
+    [
+      "strong"
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://podcasts.apple.com/us/podcast/techiebytes/id1352142386?mt=2"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://anchor.fm/besttechie"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://play.google.com/music/m/Iggddfgyikir2p3s2rxyd3jrebm?t=TechieBytes"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://overcast.fm/itunes1352142386/techiebytes"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://open.spotify.com/show/1smGCurjTwO59EAFuvb60V?si=cDs7fiD3SD2Hg4cUUFLpjw"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.stitcher.com/podcast/besttechie/techiebytes?refid=stpr",
+        "rel",
+        "noreferrer noopener"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "http://pca.st/0Gc3"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/advertise/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/everything-you-need-to-know-gme-amc/"
+      ]
+    ],
+    [
+      "a"
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://twitter.com/jeffweisbein"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://twitter.com/besttechie"
+      ]
+    ]
+  ],
+  "sections": [
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Welcome to TechieBytes episode 77 titled "
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "The perfect storm: WallStreetBets vs Wall Street "
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Today I’m talking about a topic that’s been on a lot of people’s minds the past week. Hint it involves: WallStreetBets, GameStop, AMC, and Robinhood. I’ll be discussing why this happened now and why what the hedge funds and Robinhood are doing is complete bull. Enjoy!"
+        ]
+      ]
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Audio Episode"
+        ]
+      ]
+    ],
+    [
+      10,
+      0
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [
+            1
+          ],
+          1,
+          "LISTEN & SUBSCRIBE: "
+        ],
+        [
+          0,
+          [],
+          0,
+          "TechieBytes is available on "
+        ],
+        [
+          0,
+          [
+            2
+          ],
+          1,
+          "Apple Podcasts"
+        ],
+        [
+          0,
+          [],
+          0,
+          ", "
+        ],
+        [
+          0,
+          [
+            3
+          ],
+          1,
+          "Anchor.fm"
+        ],
+        [
+          0,
+          [],
+          0,
+          ", "
+        ],
+        [
+          0,
+          [
+            4
+          ],
+          1,
+          "Google Play"
+        ],
+        [
+          0,
+          [],
+          0,
+          ", "
+        ],
+        [
+          0,
+          [
+            5
+          ],
+          1,
+          "Overcast"
+        ],
+        [
+          0,
+          [],
+          0,
+          ", "
+        ],
+        [
+          0,
+          [
+            6
+          ],
+          1,
+          "Spotify"
+        ],
+        [
+          0,
+          [],
+          0,
+          ", "
+        ],
+        [
+          0,
+          [
+            7
+          ],
+          1,
+          "Stitcher"
+        ],
+        [
+          0,
+          [],
+          0,
+          ", and "
+        ],
+        [
+          0,
+          [
+            8
+          ],
+          1,
+          "Pocket Casts"
+        ],
+        [
+          0,
+          [],
+          0,
+          "."
+        ]
+      ]
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Video Episode"
+        ]
+      ]
+    ],
+    [
+      10,
+      1
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          1,
+          [],
+          0,
+          0
+        ],
+        [
+          0,
+          [],
+          0,
+          "We’re looking for new podcast sponsors, if you’re interested in sponsoring TechieBytes, please "
+        ],
+        [
+          0,
+          [
+            9
+          ],
+          1,
+          "get in touch"
+        ],
+        [
+          0,
+          [],
+          0,
+          "."
+        ]
+      ]
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "More info"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Want to know even more about WallStreetBets vs Wall Street hedge funds? We have "
+        ],
+        [
+          0,
+          [
+            10
+          ],
+          1,
+          "some great coverage"
+        ],
+        [
+          0,
+          [],
+          0,
+          ". "
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "We’ve been trapped at home for almost a year now thanks to this ongoing pandemic, people are antsy, people are angry, people are feeling disillusioned."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "I want to start this episode looking back to the financial crisis of 2008 — the big banks royally screwed over the people. Similarly to how they sold subprime mortgages to people who shouldn’t have qualified only then to kick them out of their homes (which apparently is ok, as no one was ever put in jail for this?), the big banks and financial institutions are at it again, attempting to screw the little guy by manipulating the markets even more so than usual."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "They’re stacking the deck against retail investors. Now, as I mentioned earlier, obviously day trading isn’t easy, but this isn’t capitalism or free markets. This is the rich covering their ass and exerting their power to squash the everyman and woman."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "There’s always money to be made out there, you just need to know where to look. What WSB has done is really empowering and I think that empowerment has proven infectious. I’ve seen stories on reddit of people paying off mortgages and cars from these trades. If the everyman isn’t even allowed to play by the same rules as the fat cats — well, then, at what point did I wake up in Russia? Last I checked I’m still in the good ol’ US of A."
+        ]
+      ]
+    ],
+    [
+      10,
+      2
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "This is Robinhood’s co-founder. It also happens to be his most recent tweet."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "“Today we reflect on the life and legacy of Dr. Martin Luther King Jr., all that he accomplished and all the hard work that remains to create a just and fair society in the United States and worldwide.”"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "I love the part about creating a “just and fair society.”"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "How about you let us trade then?"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "I also saw Robinhood’s co-founder, Vlad Tenev, being interviewed by Chris Cuomo last night, it’s a fantastic interview by the way, you should watch it:"
+        ]
+      ]
+    ],
+    [
+      10,
+      3
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "In the interview, Vlad stumbles through his answers, essentially providing no additional insight or answers as to why they actually stopped allowing people to trade those particular stocks. While it’s refreshing to see Chris Cuomo eviscerate Mr. Tenev, it’s frustrating to see that even with his excellent interview skills we’re not any closer to the truth."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "I’ll be keeping an eye on the developments as they unfold. What do you think about this situation? Let me know! Feel free to leave a comment, email me at "
+        ],
+        [
+          0,
+          [
+            11
+          ],
+          1,
+          "jeff@besttechie.com"
+        ],
+        [
+          0,
+          [],
+          0,
+          ", or tweet at me "
+        ],
+        [
+          0,
+          [
+            12
+          ],
+          1,
+          "@jeffweisbein"
+        ],
+        [
+          0,
+          [],
+          0,
+          " or "
+        ],
+        [
+          0,
+          [
+            13
+          ],
+          1,
+          "@besttechie"
+        ],
+        [
+          0,
+          [],
+          0,
+          "."
+        ]
+      ]
+    ]
+  ],
+  "ghostVersion": "3.0"
+}

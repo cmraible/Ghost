@@ -1,0 +1,1807 @@
+{
+  "version": "0.3.1",
+  "atoms": [],
+  "cards": [
+    [
+      "email",
+      {
+        "html": "<p>Hello {first_name, \"lovely people\"}, wherever you are globally. And a particularly warm welcome to the new subscribers from India and the US who’ve joined our little community since I last did one of these.</p>"
+      }
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "image",
+      {
+        "src": "https://media.tenor.com/images/d856e0e0055af0d726ed9e472a3e9737/tenor.gif",
+        "width": 492,
+        "height": 258,
+        "caption": "Twitter using the ban hammer: actual footage",
+        "type": "gif"
+      }
+    ],
+    [
+      "image",
+      {
+        "src": "__GHOST_URL__/content/images/2022/01/rode-videomic-go-II-insitu-girl-yellow.jpg",
+        "alt": "",
+        "title": "",
+        "caption": ""
+      }
+    ],
+    [
+      "paywall",
+      {}
+    ],
+    [
+      "header",
+      {
+        "size": "small",
+        "style": "accent",
+        "buttonEnabled": false,
+        "header": "Subscriber Bonus Links",
+        "subheader": "Not available to just anyone on the web."
+      }
+    ],
+    [
+      "embed",
+      {
+        "url": "https://twitter.com/TheCormacMoore/status/1471146647925231623?s=20",
+        "html": "<blockquote class=\"twitter-tweet\"><p lang=\"en\" dir=\"ltr\">I recently went back to education and got a PhD in Virology from the University of Facebook. <br><br>Delighted to work with them and share my experiences. <a href=\"https://t.co/RQaBl0EGH5\">pic.twitter.com/RQaBl0EGH5</a></p>&mdash; Cormac Moore (@TheCormacMoore) <a href=\"https://twitter.com/TheCormacMoore/status/1471146647925231623?ref_src=twsrc%5Etfw\">December 15, 2021</a></blockquote>\n<script async src=\"https://platform.twitter.com/widgets.js\" charset=\"utf-8\"></script>\n",
+        "type": "twitter",
+        "metadata": {
+          "url": "https://twitter.com/TheCormacMoore/status/1471146647925231623",
+          "author_name": "Cormac Moore",
+          "author_url": "https://twitter.com/TheCormacMoore",
+          "width": 550,
+          "height": null,
+          "cache_age": "3153600000",
+          "provider_name": "Twitter",
+          "provider_url": "http://www.twitter.com/",
+          "version": "1.0",
+          "tweet_data": {
+            "entities": {
+              "annotations": [
+                {
+                  "start": 83,
+                  "end": 90,
+                  "probability": 0.4637,
+                  "type": "Organization",
+                  "normalized_text": "Facebook"
+                }
+              ],
+              "urls": [
+                {
+                  "start": 149,
+                  "end": 172,
+                  "url": "https://t.co/RQaBl0EGH5",
+                  "expanded_url": "https://twitter.com/TheCormacMoore/status/1471146647925231623/video/1",
+                  "display_url": "pic.twitter.com/RQaBl0EGH5"
+                }
+              ]
+            },
+            "lang": "en",
+            "possibly_sensitive": false,
+            "conversation_id": "1471146647925231623",
+            "id": "1471146647925231623",
+            "reply_settings": "everyone",
+            "public_metrics": {
+              "retweet_count": 5947,
+              "reply_count": 449,
+              "like_count": 17629,
+              "quote_count": 1426
+            },
+            "context_annotations": [
+              {
+                "domain": {
+                  "id": "46",
+                  "name": "Brand Category",
+                  "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+                },
+                "entity": {
+                  "id": "781974596752842752",
+                  "name": "Services"
+                }
+              },
+              {
+                "domain": {
+                  "id": "47",
+                  "name": "Brand",
+                  "description": "Brands and Companies"
+                },
+                "entity": {
+                  "id": "10029202045",
+                  "name": "Facebook"
+                }
+              },
+              {
+                "domain": {
+                  "id": "65",
+                  "name": "Interests and Hobbies Vertical",
+                  "description": "Top level interests and hobbies groupings, like Food or Travel"
+                },
+                "entity": {
+                  "id": "854692455005921281",
+                  "name": "Science",
+                  "description": "Science"
+                }
+              },
+              {
+                "domain": {
+                  "id": "30",
+                  "name": "Entities [Entity Service]",
+                  "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain"
+                },
+                "entity": {
+                  "id": "847896837532995585",
+                  "name": "Biology",
+                  "description": "Biology"
+                }
+              },
+              {
+                "domain": {
+                  "id": "65",
+                  "name": "Interests and Hobbies Vertical",
+                  "description": "Top level interests and hobbies groupings, like Food or Travel"
+                },
+                "entity": {
+                  "id": "847546154439000064",
+                  "name": "Education",
+                  "description": "Education through the lens of those passionate about resources and news. This topic excludes Education policy and reform."
+                }
+              },
+              {
+                "domain": {
+                  "id": "66",
+                  "name": "Interests and Hobbies Category",
+                  "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+                },
+                "entity": {
+                  "id": "852247095461371904",
+                  "name": "Graduate school",
+                  "description": "Graduate school"
+                }
+              }
+            ],
+            "source": "Twitter Web App",
+            "created_at": "2021-12-15T15:54:28.000Z",
+            "text": "I recently went back to education and got a PhD in Virology from the University of Facebook. \n\nDelighted to work with them and share my experiences. https://t.co/RQaBl0EGH5",
+            "attachments": {
+              "media_keys": [
+                "7_1471144967624089602"
+              ]
+            },
+            "author_id": "829231518",
+            "includes": {
+              "media": [
+                {
+                  "width": 1920,
+                  "height": 1080,
+                  "duration_ms": 96960,
+                  "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1471144967624089602/pu/img/5cbkkbqOcQSXTblT.jpg",
+                  "media_key": "7_1471144967624089602",
+                  "type": "video",
+                  "public_metrics": {
+                    "view_count": 767323
+                  }
+                }
+              ],
+              "users": [
+                {
+                  "entities": {
+                    "url": {
+                      "urls": [
+                        {
+                          "start": 0,
+                          "end": 23,
+                          "url": "https://t.co/n5UoQj7imp",
+                          "expanded_url": "https://open.spotify.com/track/6ieW72S3PyzC6MEABkiuF0?si=XT84oPaCRWK3T96odqFnsA&utm_source=copy-link",
+                          "display_url": "open.spotify.com/track/6ieW72S3…"
+                        }
+                      ]
+                    }
+                  },
+                  "name": "Cormac Moore",
+                  "public_metrics": {
+                    "followers_count": 10859,
+                    "following_count": 5152,
+                    "tweet_count": 18559,
+                    "listed_count": 56
+                  },
+                  "protected": false,
+                  "description": "Comedian. Christy covers on Spotify link below 👇",
+                  "location": "Dublin",
+                  "verified": false,
+                  "username": "TheCormacMoore",
+                  "url": "https://t.co/n5UoQj7imp",
+                  "pinned_tweet_id": "1471146647925231623",
+                  "created_at": "2012-09-17T15:07:43.000Z",
+                  "profile_image_url": "https://pbs.twimg.com/profile_images/1376544305809068033/VA0Tg3MU_normal.jpg",
+                  "id": "829231518"
+                }
+              ]
+            }
+          }
+        }
+      }
+    ]
+  ],
+  "markups": [
+    [
+      "a",
+      [
+        "href",
+        "https://whatsnewinpublishing.com/the-power-of-community-how-a-small-publisher-hit-50000-paying-members-through-audience-engagement/"
+      ]
+    ],
+    [
+      "em"
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://jacobsmedia.com/the-difference-between-an-audience-and-a-community-and-what-it-means-for-broadcasters/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://wan-ifra.org/2021/12/how-a-data-centric-approach-helps-increase-audience-engagement/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.axios.com/media-ratings-traffic-2021-a6be4d72-ba5f-4f8a-ae3e-0872ecd87677.html"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://wan-ifra.org/2022/01/audience-engagement-at-hybrid-model-digital-media-houses-tips-from-scroll/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.journalism.co.uk/vocational-skills-study/audience-engagement-strategies-/s43/a729370/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://pressgazette.co.uk/metropolis-viz-cyclist-fortean-times/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.ap.org/press-releases/2022/ap-to-launch-nft-marketplace-built-by-xooa"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://theoverspill.blog/2022/01/12/wordle-apps-app-store-copycats-start-up-1712/#cd1279ed45207d44501740a59312e537"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.axios.com/1-local-newspapers-lawsuits-facebook-google-3c3dee3a-cce3-49ef-b0a2-7a98c2e15c91.html"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://i-d.vice.com/en_uk/article/93b3v7/who-unfollowed-me"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://memex.naughtons.org/wednesday-12-january-2022/35312/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://pressgazette.co.uk/platform-profile-can-read-later-app-pocket-help-publishers-reach-more-engaged-readers/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://themarkup.org/news/2022/01/04/why-its-so-hard-to-regulate-algorithms"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://aeon.co/essays/curtailing-anonymity-is-a-first-step-to-reducing-online-abuse"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.vox.com/the-goods/22841564/internet-trends-tiktok-sea-shanties-bama-rush"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://about.instagram.com/blog/announcements/instagram-trends-2022/?utm_source=The%20Audience%20Agency&utm_medium=email&utm_campaign=12913614_Digital%20Snapshot%2011%20Jan%202022&utm_content=Instagram%20Trend%20Report&dm_i=1X0O%2C7OS7I%2C3XQLYE%2CVBZS7%2C1"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.theverge.com/2022/1/5/22868889/new-instagram-chronological-feed-algorithm-tests"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://ijnet.org/en/story/why-horizontal-mentoring-key-freelance-journalists"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://ijnet.org/en/story/trust-me-im-journalist"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://pressgazette.co.uk/survey-people-more-likely-to-trust-local-news-produced-on-patch-pay-average-of-1-30-month/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.nbcnews.com/tech/tech-news/china-based-disinformation-operation-pushed-fake-swiss-scientist-faceb-rcna7255"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://gizmodo.com/science-twitter-got-catfished-by-a-fake-professor-who-d-1844591277"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://podnews.net/press-release/acast-new-year"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://onaudio.mattdeegan.com/p/coping-with-podcastings-bubble"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://on.substack.com/p/new-tools-layout-options?r=2g5j8&utm_campaign=post&utm_medium=email"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.getrevue.co/profile/the_week_in_newsletters/issues/newsletter-predictions-for-the-year-ahead-933775"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.holdthefrontpage.co.uk/2021/news/publisher-launches-new-political-title-after-revealing-newsletters-first-plan/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://pressgazette.co.uk/why-twitter-has-suspended-news-aggregator-politiocs-for-all/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://blogs.lse.ac.uk/polis/2022/01/05/global-journalism-reborn-what-difference-does-it-make/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://ravenmagazine.org/magazine/twitter-the-intimacy-machine/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.poynter.org/fact-checking/2022/an-open-letter-to-youtubes-ceo-from-the-worlds-fact-checkers/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.rode.com/blog/all/introducing-the-videomic-go-ii"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.socialmediatoday.com/news/new-report-finds-social-media-video-now-sees-as-much-consumption-time-as-tr/616657/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://gizmodo.com/tiktok-got-more-traffic-than-freakin-google-in-2021-1848252058"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.spectator.co.uk/article/my-strange-encounter-with-foot-fetishists"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://thefix.media/2022/01/10/ben-smiths-new-venture-and-the-deceptive-appeal-of-cosmopolitan-audiences/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://theap.substack.com/p/announcement-the-ap-alex-pareene"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.news-future.com/p/notes-on-project-coda-and-the-mad"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://news.sky.com/story/britain-from-above-in-2021-a-drone-photographers-view-of-life-this-year-12500578#article"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.theatlantic.com/magazine/archive/2021/04/what-happened-to-jordan-peterson/618082/"
+      ]
+    ]
+  ],
+  "sections": [
+    [
+      10,
+      0
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "A lot’s happened since I last did a tl;dr, so expect a mix of links from over the last six weeks below — and probably for the next couple of weeks as I play catch-up."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Thanks for all the great feedback about this format, by the way. It’s clear many people find it useful, and that gives me an incentive to keep on going."
+        ]
+      ]
+    ],
+    [
+      10,
+      1
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Audience Engagement"
+        ]
+      ]
+    ],
+    [
+      3,
+      "ul",
+      [
+        [
+          [
+            0,
+            [],
+            0,
+            "🤑 The power of "
+          ],
+          [
+            0,
+            [
+              0
+            ],
+            1,
+            "Audience Engagement for small publishers"
+          ],
+          [
+            0,
+            [],
+            0,
+            ""
+          ]
+        ],
+        [
+          [
+            0,
+            [],
+            0,
+            "🗣 An "
+          ],
+          [
+            0,
+            [
+              1
+            ],
+            1,
+            "audience"
+          ],
+          [
+            0,
+            [],
+            0,
+            " and a "
+          ],
+          [
+            0,
+            [
+              1
+            ],
+            1,
+            "community"
+          ],
+          [
+            0,
+            [],
+            0,
+            " "
+          ],
+          [
+            0,
+            [
+              2
+            ],
+            1,
+            "are NOT the same thing"
+          ],
+          [
+            0,
+            [],
+            0,
+            "…"
+          ]
+        ],
+        [
+          [
+            0,
+            [],
+            0,
+            "👩🏽‍💻 A "
+          ],
+          [
+            0,
+            [
+              3
+            ],
+            1,
+            "metrics-centric take"
+          ],
+          [
+            0,
+            [],
+            0,
+            " from Australia."
+          ]
+        ],
+        [
+          [
+            0,
+            [],
+            0,
+            "📉 The Trump Slump — social media engagement with news "
+          ],
+          [
+            0,
+            [
+              4
+            ],
+            1,
+            "fell off a cliff in the US"
+          ],
+          [
+            0,
+            [],
+            0,
+            ". If US titles didn’t take the opportunity to convert drive-by readers into loyal ones in 2020, they’ve missed the boat."
+          ]
+        ],
+        [
+          [
+            0,
+            [],
+            0,
+            "👥 Interesting, "
+          ],
+          [
+            0,
+            [
+              5
+            ],
+            1,
+            "holistic take on audience engagement from Scroll"
+          ],
+          [
+            0,
+            [],
+            0,
+            " in India."
+          ]
+        ],
+        [
+          [
+            0,
+            [],
+            0,
+            "🔌 And we’re running my audience engagement course again soon. "
+          ],
+          [
+            0,
+            [
+              6
+            ],
+            1,
+            "Please sign up!"
+          ]
+        ]
+      ]
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Business"
+        ]
+      ]
+    ],
+    [
+      3,
+      "ul",
+      [
+        [
+          [
+            0,
+            [],
+            0,
+            "🍆 "
+          ],
+          [
+            0,
+            [
+              7
+            ],
+            0,
+            "Why Metropolis bought "
+          ],
+          [
+            0,
+            [
+              1
+            ],
+            2,
+            "Viz"
+          ],
+          [
+            0,
+            [],
+            0,
+            ". Fnar Fnar."
+          ]
+        ],
+        [
+          [
+            0,
+            [],
+            0,
+            "🎞 The AP is about to "
+          ],
+          [
+            0,
+            [
+              8
+            ],
+            1,
+            "start selling NFTs of historic photos"
+          ],
+          [
+            0,
+            [],
+            0,
+            ". I tend to agree with "
+          ],
+          [
+            0,
+            [
+              9
+            ],
+            1,
+            "Charles Arthur’s take on it"
+          ],
+          [
+            0,
+            [],
+            0,
+            "."
+          ]
+        ],
+        [
+          [
+            0,
+            [],
+            0,
+            "🧑🏽‍⚖️ Lots of news outlets are "
+          ],
+          [
+            0,
+            [
+              10
+            ],
+            1,
+            "suing the duopoly"
+          ],
+          [
+            0,
+            [],
+            0,
+            "."
+          ]
+        ]
+      ]
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Digital Culture"
+        ]
+      ]
+    ],
+    [
+      3,
+      "ul",
+      [
+        [
+          [
+            0,
+            [],
+            0,
+            "😢 The quiet masochism of "
+          ],
+          [
+            0,
+            [
+              11
+            ],
+            1,
+            "obsessing over unfollowers"
+          ],
+          [
+            0,
+            [],
+            0,
+            "."
+          ]
+        ],
+        [
+          [
+            0,
+            [],
+            0,
+            "😡 John Naughton’s thoughts about "
+          ],
+          [
+            0,
+            [
+              12
+            ],
+            1,
+            "polarisation online are worth your time"
+          ],
+          [
+            0,
+            [],
+            0,
+            "."
+          ]
+        ],
+        [
+          [
+            0,
+            [],
+            0,
+            "🤓 I’ve been an enthusiastic Pocket user for years. "
+          ],
+          [
+            0,
+            [
+              13
+            ],
+            1,
+            "Here’s what you should know about the app"
+          ],
+          [
+            0,
+            [],
+            0,
+            "."
+          ]
+        ],
+        [
+          [
+            0,
+            [],
+            0,
+            "👮🏻 Why "
+          ],
+          [
+            0,
+            [
+              14
+            ],
+            1,
+            "regulating algorithms is harder"
+          ],
+          [
+            0,
+            [],
+            0,
+            " than many assumed"
+          ]
+        ],
+        [
+          [
+            0,
+            [],
+            0,
+            "🎭 I’m normally sceptical of articles calling for an end to online anonymity — it doesn’t solve the problems people think it will, and creates others — but this is "
+          ],
+          [
+            0,
+            [
+              15
+            ],
+            1,
+            "a good set of suggestions"
+          ],
+          [
+            0,
+            [],
+            0,
+            ", full of nuance. Ending anonymity would be bad — but I think the time might have come to put limits on it."
+          ]
+        ],
+        [
+          [
+            0,
+            [],
+            0,
+            "🦠 Trends are moving "
+          ],
+          [
+            0,
+            [
+              16
+            ],
+            1,
+            "more quickly than they used to online"
+          ],
+          [
+            0,
+            [],
+            0,
+            ". But all your base are still belong to us."
+          ]
+        ]
+      ]
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Instagram"
+        ]
+      ]
+    ],
+    [
+      3,
+      "ul",
+      [
+        [
+          [
+            0,
+            [],
+            0,
+            "💃🏼 The "
+          ],
+          [
+            0,
+            [
+              17
+            ],
+            1,
+            "2022 Instagram Trend Report"
+          ],
+          [
+            0,
+            [],
+            0,
+            " — this makes me feel old. I mean, I "
+          ],
+          [
+            0,
+            [
+              1
+            ],
+            1,
+            "am"
+          ],
+          [
+            0,
+            [],
+            0,
+            " old, but this makes me "
+          ],
+          [
+            0,
+            [
+              1
+            ],
+            1,
+            "feel"
+          ],
+          [
+            0,
+            [],
+            0,
+            " it."
+          ]
+        ],
+        [
+          [
+            0,
+            [],
+            0,
+            "⏰ The return of the chronological feed "
+          ],
+          [
+            0,
+            [
+              18
+            ],
+            1,
+            "is in testing"
+          ],
+          [
+            0,
+            [],
+            0,
+            "."
+          ]
+        ]
+      ]
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Journalism Culture"
+        ]
+      ]
+    ],
+    [
+      3,
+      "ul",
+      [
+        [
+          [
+            0,
+            [],
+            0,
+            "🤝 Some useful thoughts "
+          ],
+          [
+            0,
+            [
+              19
+            ],
+            1,
+            "about peer mentoring"
+          ],
+          [
+            0,
+            [],
+            0,
+            " in an industry so dependent on freelancers."
+          ]
+        ],
+        [
+          [
+            0,
+            [],
+            0,
+            "💏 And some "
+          ],
+          [
+            0,
+            [
+              1
+            ],
+            1,
+            "really"
+          ],
+          [
+            0,
+            [],
+            0,
+            " clear ideas about addressing the "
+          ],
+          [
+            0,
+            [
+              20
+            ],
+            1,
+            "problem of trust in journalism here"
+          ],
+          [
+            0,
+            [],
+            0,
+            "."
+          ]
+        ],
+        [
+          [
+            0,
+            [],
+            0,
+            "🏘 And, surprise, surprise people "
+          ],
+          [
+            0,
+            [
+              21
+            ],
+            1,
+            "trust news produced locally"
+          ],
+          [
+            0,
+            [],
+            0,
+            " to them more than that from untouchable media figures elsewhere…"
+          ]
+        ]
+      ]
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Misinformation"
+        ]
+      ]
+    ],
+    [
+      3,
+      "ul",
+      [
+        [
+          [
+            0,
+            [],
+            0,
+            "👨🏼‍🔬 China made "
+          ],
+          [
+            0,
+            [
+              22
+            ],
+            1,
+            "a fake scientist to spread disinformation"
+          ],
+          [
+            0,
+            [],
+            0,
+            "."
+          ]
+        ],
+        [
+          [
+            0,
+            [],
+            0,
+            "🧑🏽‍🔬 The strange case of a Twitter scientist who died from COVID — "
+          ],
+          [
+            0,
+            [
+              23
+            ],
+            1,
+            "without ever existing in the first place"
+          ]
+        ]
+      ]
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Podcasting"
+        ]
+      ]
+    ],
+    [
+      3,
+      "ul",
+      [
+        [
+          [
+            0,
+            [],
+            0,
+            "🎤 1 in 10 Brits "
+          ],
+          [
+            0,
+            [
+              24
+            ],
+            1,
+            "plans to launch a new podcast this year"
+          ],
+          [
+            0,
+            [],
+            0,
+            ". I am not one of them."
+          ]
+        ],
+        [
+          [
+            0,
+            [],
+            0,
+            "🎈 So, yes, it’s just possible that podcasting is a bubble. "
+          ],
+          [
+            0,
+            [
+              25
+            ],
+            1,
+            "Here’s how to cope"
+          ],
+          [
+            0,
+            [],
+            0,
+            "."
+          ]
+        ]
+      ]
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Newsletters"
+        ]
+      ]
+    ],
+    [
+      3,
+      "ul",
+      [
+        [
+          [
+            0,
+            [],
+            0,
+            "📧 Substack gets a "
+          ],
+          [
+            0,
+            [
+              26
+            ],
+            1,
+            "number of small quality-of-life improvements"
+          ],
+          [
+            0,
+            [],
+            0,
+            ", including what any other platform would call a magazine theme."
+          ]
+        ],
+        [
+          [
+            0,
+            [],
+            0,
+            "🔮 The Revue newsletter gathers up "
+          ],
+          [
+            0,
+            [
+              27
+            ],
+            1,
+            "some predictions for the year ahead"
+          ],
+          [
+            0,
+            [],
+            0,
+            "."
+          ]
+        ],
+        [
+          [
+            0,
+            [],
+            0,
+            "🏘 Reach is doing interesting things with "
+          ],
+          [
+            0,
+            [
+              28
+            ],
+            1,
+            "local newsletters"
+          ],
+          [
+            0,
+            [],
+            0,
+            "."
+          ]
+        ]
+      ]
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Twitter"
+        ]
+      ]
+    ],
+    [
+      10,
+      2
+    ],
+    [
+      3,
+      "ul",
+      [
+        [
+          [
+            0,
+            [],
+            0,
+            "🛑 "
+          ],
+          [
+            0,
+            [
+              29
+            ],
+            1,
+            "Politcs for All is now politics for nobody"
+          ],
+          [
+            0,
+            [],
+            0,
+            ", as Twitter has permanently suspended the account. Sensationalist takes, suspicious levels of follower growth and an "
+          ],
+          [
+            0,
+            [
+              30
+            ],
+            1,
+            "account based on other people’s work"
+          ],
+          [
+            0,
+            [],
+            0,
+            "? Not to be mourned."
+          ]
+        ],
+        [
+          [
+            0,
+            [],
+            0,
+            "🤷🏻‍♀️ This is one of the more "
+          ],
+          [
+            0,
+            [
+              31
+            ],
+            1,
+            "interesting exploration of context collapse on Twitter"
+          ],
+          [
+            0,
+            [],
+            0,
+            " I’ve come across. I should write more about context collapse."
+          ]
+        ]
+      ]
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Video"
+        ]
+      ]
+    ],
+    [
+      10,
+      3
+    ],
+    [
+      3,
+      "ul",
+      [
+        [
+          [
+            0,
+            [],
+            0,
+            "🤥 YouTube has a long way to go on "
+          ],
+          [
+            0,
+            [
+              32
+            ],
+            1,
+            "dealing with misinformation"
+          ],
+          [
+            0,
+            [],
+            0,
+            " — according to professional fact-checkers."
+          ]
+        ],
+        [
+          [
+            0,
+            [],
+            0,
+            "🎙 I am in love with "
+          ],
+          [
+            0,
+            [
+              33
+            ],
+            1,
+            "the look of this microphone"
+          ],
+          [
+            0,
+            [],
+            0,
+            ". Will I buy one and do a review? I will!"
+          ]
+        ],
+        [
+          [
+            0,
+            [],
+            0,
+            "📺 "
+          ],
+          [
+            0,
+            [
+              34
+            ],
+            1,
+            "Social video time"
+          ],
+          [
+            0,
+            [],
+            0,
+            " now equal to TV consumption time. US figures, but the trend is clear."
+          ]
+        ],
+        [
+          [
+            0,
+            [],
+            0,
+            "🕺🏽And "
+          ],
+          [
+            0,
+            [
+              35
+            ],
+            1,
+            "TikTok got more traffic than Google"
+          ],
+          [
+            0,
+            [],
+            0,
+            "."
+          ]
+        ]
+      ]
+    ],
+    [
+      10,
+      4
+    ],
+    [
+      10,
+      5
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "WTF"
+        ]
+      ]
+    ],
+    [
+      3,
+      "ul",
+      [
+        [
+          [
+            0,
+            [],
+            0,
+            "👣 If you’re a prominent woman in media, you might want to "
+          ],
+          [
+            0,
+            [
+              36
+            ],
+            1,
+            "avoid putting photos of your feet on Instagram"
+          ],
+          [
+            0,
+            [],
+            0,
+            "…"
+          ]
+        ]
+      ]
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Satire is not dead"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Two men called Smith are off to "
+        ],
+        [
+          0,
+          [
+            37
+          ],
+          1,
+          "launch a new media venture"
+        ],
+        [
+          0,
+          [],
+          0,
+          ". This isn’t the press release — but it might as well be:"
+        ]
+      ]
+    ],
+    [
+      1,
+      "blockquote",
+      [
+        [
+          0,
+          [],
+          0,
+          "In so many ways, the global news industry is failing its audience. It’s time for a bunch of people currently occupying the highest echelons of that industry to reinvent it from the bottom up."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [
+            38
+          ],
+          1,
+          "Read it all"
+        ],
+        [
+          0,
+          [],
+          0,
+          ". But you might want "
+        ],
+        [
+          0,
+          [
+            39
+          ],
+          1,
+          "to read this first"
+        ],
+        [
+          0,
+          [],
+          0,
+          ", to understand what’s being satirised…"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "And, finally, read "
+        ],
+        [
+          0,
+          [
+            30
+          ],
+          1,
+          "Charlie Beckett’s take on it all"
+        ],
+        [
+          0,
+          [],
+          0,
+          "."
+        ]
+      ]
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Just Enjoy"
+        ]
+      ]
+    ],
+    [
+      3,
+      "ul",
+      [
+        [
+          [
+            0,
+            [],
+            0,
+            "🇬🇧 Lovely "
+          ],
+          [
+            0,
+            [
+              40
+            ],
+            1,
+            "multimedia feature of Britain from above"
+          ],
+          [
+            0,
+            [],
+            0,
+            ""
+          ]
+        ],
+        [
+          [
+            0,
+            [],
+            0,
+            "🦞 Whatever happened to "
+          ],
+          [
+            0,
+            [
+              41
+            ],
+            1,
+            "lobster guy Jordan Peterson"
+          ],
+          [
+            0,
+            [],
+            0,
+            "?"
+          ]
+        ]
+      ]
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "And Finally…"
+        ]
+      ]
+    ],
+    [
+      10,
+      6
+    ],
+    [
+      1,
+      "p",
+      []
+    ]
+  ],
+  "ghostVersion": "4.0"
+}

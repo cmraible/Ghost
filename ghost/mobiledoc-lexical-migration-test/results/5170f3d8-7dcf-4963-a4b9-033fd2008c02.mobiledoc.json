@@ -1,0 +1,793 @@
+{
+  "version": "0.3.1",
+  "atoms": [],
+  "cards": [
+    [
+      "email-cta",
+      {
+        "showButton": true,
+        "showDividers": false,
+        "segment": "status:-free",
+        "alignment": "center",
+        "html": "",
+        "buttonText": "Click Here To Comment",
+        "buttonUrl": "__GHOST_URL__/youre-being-gouged-on-medicine-you-already-paid-for/#comments"
+      }
+    ],
+    [
+      "email-cta",
+      {
+        "showButton": true,
+        "showDividers": false,
+        "segment": "status:free",
+        "alignment": "center",
+        "html": "<p><strong><em>Please <a href=\"__GHOST_URL__/subscribe\">become a paid subscriber</a>. You get exclusive podcasts, <a href=\"__GHOST_URL__/citizens-guide-to-holding-the-powerful-accountable/\">digital publications</a>, and live events – and you support this journalism.</em></strong></p>",
+        "buttonText": "Subscribe ",
+        "buttonUrl": "__GHOST_URL__/subscribe/"
+      }
+    ],
+    [
+      "html",
+      {
+        "html": "<div class=\"fb-share-button\" data-href=\"https://www.dailyposter.com/youre-being-gouged-on-medicine-you-already-paid-for/\" data-layout=\"button\" data-size=\"small\"><a target=\"_blank\" href=\"https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.dailyposter.com%2Fyoure-being-gouged-on-medicine-you-already-paid-for%2F&amp;src=sdkpreparse\" class=\"fb-xfbml-parse-ignore\"><strong><em>Click to share this on Facebook</em></strong></a></div>"
+      }
+    ],
+    [
+      "html",
+      {
+        "html": "<div class=\"outpost-pub-container visible-posts-and-email\" style=\"margin-bottom: 1.5em;\"><div style=\"text-align: center\"><a target=\"_blank\" href=\"https://dailyposter.outpost.pub/public/donate#/donate\" style=\"font-family: Nunito, sans-serif;font-size: 14px;border-collapse: collapse;word-wrap: break-word;box-sizing: border-box;text-decoration: none;display: inline-block;font-weight: 400;text-align: center;vertical-align: middle;user-select: none;border: 1px solid transparent;padding: 0.375rem 0.75rem;line-height: 1.6;border-radius: 0.25rem;transition: color 0.15s ease-in-out, background-color 0.15s ease-in-out, border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;color: #fff;background-color: #3490dc;border-color: #3490dc;cursor: pointer;\">Tip Jar</a></div></div>"
+      }
+    ],
+    [
+      "html",
+      {
+        "html": "<div class=\"outpost-pub-container visible-posts-and-email\" style=\"margin-bottom: 1.5em;\"><div style=\"text-align: center\"><a target=\"_blank\" href=\"https://dailyposter.outpost.pub/public/gift\" style=\"font-family: Nunito, sans-serif;font-size: 14px;border-collapse: collapse;word-wrap: break-word;box-sizing: border-box;text-decoration: none;display: inline-block;font-weight: 400;text-align: center;vertical-align: middle;user-select: none;border: 1px solid transparent;padding: 0.375rem 0.75rem;line-height: 1.6;border-radius: 0.25rem;transition: color 0.15s ease-in-out, background-color 0.15s ease-in-out, border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;color: #fff;background-color: #3490dc;border-color: #3490dc;cursor: pointer;\">Give a Gift Subscription</a></div></div>"
+      }
+    ],
+    [
+      "html",
+      {
+        "html": "<div class=\"outpost-pub-container visible-posts-and-email\" style=\"margin-bottom: 1.5em;\"><div style=\"text-align: center\"><a target=\"_blank\" href=\"https://dailyposter.outpost.pub/public/donate#/donate\" style=\"font-family: Nunito, sans-serif;font-size: 14px;border-collapse: collapse;word-wrap: break-word;box-sizing: border-box;text-decoration: none;display: inline-block;font-weight: 400;text-align: center;vertical-align: middle;user-select: none;border: 1px solid transparent;padding: 0.375rem 0.75rem;line-height: 1.6;border-radius: 0.25rem;transition: color 0.15s ease-in-out, background-color 0.15s ease-in-out, border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;color: #fff;background-color: #3490dc;border-color: #3490dc;cursor: pointer;\">Tip Jar</a></div></div>"
+      }
+    ],
+    [
+      "html",
+      {
+        "html": "<div class=\"outpost-pub-container visible-posts-and-email\" style=\"margin-bottom: 1.5em;\"><div style=\"text-align: center\"><a target=\"_blank\" href=\"https://dailyposter.outpost.pub/public/gift\" style=\"font-family: Nunito, sans-serif;font-size: 14px;border-collapse: collapse;word-wrap: break-word;box-sizing: border-box;text-decoration: none;display: inline-block;font-weight: 400;text-align: center;vertical-align: middle;user-select: none;border: 1px solid transparent;padding: 0.375rem 0.75rem;line-height: 1.6;border-radius: 0.25rem;transition: color 0.15s ease-in-out, background-color 0.15s ease-in-out, border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;color: #fff;background-color: #3490dc;border-color: #3490dc;cursor: pointer;\">Give a Gift Subscription</a></div></div>"
+      }
+    ],
+    [
+      "email-cta",
+      {
+        "showButton": true,
+        "showDividers": false,
+        "segment": "status:-free",
+        "alignment": "center",
+        "html": "",
+        "buttonText": "Click Here To Comment",
+        "buttonUrl": "__GHOST_URL__/youre-being-gouged-on-medicine-you-already-paid-for/#comments"
+      }
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "email-cta",
+      {
+        "showButton": true,
+        "showDividers": false,
+        "segment": "status:-free",
+        "alignment": "center",
+        "html": "",
+        "buttonText": "Tip Jar",
+        "buttonUrl": "https://dailyposter.outpost.pub/ghost-integration/60818189ad12f332071054b8/tips"
+      }
+    ],
+    [
+      "email-cta",
+      {
+        "showButton": true,
+        "showDividers": false,
+        "segment": "status:free",
+        "alignment": "center",
+        "html": "",
+        "buttonText": "Subscribe",
+        "buttonUrl": "__GHOST_URL__/subscribe/"
+      }
+    ],
+    [
+      "html",
+      {
+        "html": "<div class=\"outpost-pub-container\" data-btn-allmembers></div>"
+      }
+    ]
+  ],
+  "markups": [
+    [
+      "a",
+      [
+        "href",
+        "https://theintercept.com/2021/10/05/covid-pill-drug-pricing-merck-ridgeback/"
+      ]
+    ],
+    [
+      "em"
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.citizen.org/news/report-for-17-top-selling-drugs-big-pharma-made-more-from-u-s-sales-than-from-the-rest-of-the-world-combined/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.webmd.com/drug-medication/news/20170803/americans-taking-more-prescription-drugs-than-ever-survey"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://twitter.com/lhfang/status/1445856064100913155"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.cbo.gov/system/files/2021-08/57010-New-Drug-Development.pdf"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.pnas.org/content/115/10/2329"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.ott.nih.gov/sites/default/files/documents/pdfs/NIH-Notice-Rescinding-Reasonable-Pricing-Clause.pdf"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?congress=106&session=2&vote=00168"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://thehill.com/policy/healthcare/272065-hhs-rejects-house-dems-request-for-drug-pricing-step"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.nytimes.com/2000/12/27/us/in-a-turnaround-white-house-kills-drug-import-plan.html"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.fda.gov/drugs/development-approval-process-drugs/frequently-asked-questions-patents-and-exclusivity"
+      ]
+    ],
+    [
+      "strong"
+    ]
+  ],
+  "sections": [
+    [
+      10,
+      0
+    ],
+    [
+      10,
+      1
+    ],
+    [
+      10,
+      2
+    ],
+    [
+      1,
+      "p",
+      []
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Last week, we learned that Merck is planning to "
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "charge"
+        ],
+        [
+          0,
+          [],
+          0,
+          " Americans 40 times its cost for a COVID drug whose development was subsidized by the American government. The situation spotlights two sets of facts that have also gone largely unmentioned in the legislative debate over whether to let Medicare negotiate for lower drug prices."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Fact one: Americans are facing not merely expensive drugs, but prices that are examples of outright profiteering."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Fact two: In many cases, the medicines we are being gouged on are those that we the public already paid for."
+        ]
+      ]
+    ],
+    [
+      10,
+      3
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "These facts show us that pharma-bankrolled Democrats trying to kill drug pricing measures aren’t just bought and paid for in this particular skirmish — they are foot soldiers in the pharmaceutical industry’s larger multi-decade campaign to seal off and rig America’s alleged “free market.”"
+        ]
+      ]
+    ],
+    [
+      1,
+      "h3",
+      [
+        [
+          0,
+          [],
+          0,
+          "From Profits To Profiteering"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "First, there’s the price point of drugs. It’s not merely that Americans are paying the world’s highest prices for pharmaceuticals, it’s that in many cases, we are paying prices that aren’t even "
+        ],
+        [
+          0,
+          [
+            1
+          ],
+          1,
+          "close"
+        ],
+        [
+          0,
+          [],
+          0,
+          " to what consumers in other countries pay."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "A "
+        ],
+        [
+          0,
+          [
+            2
+          ],
+          1,
+          "new Public Citizen analysis"
+        ],
+        [
+          0,
+          [],
+          0,
+          " shows that the top 20-selling medicines generated almost twice as much pharmaceutical industry revenue in the United States as in every other country "
+        ],
+        [
+          0,
+          [
+            1
+          ],
+          1,
+          "combined"
+        ],
+        [
+          0,
+          [],
+          0,
+          ". Sure, as compared to others, Americans may "
+        ],
+        [
+          0,
+          [
+            3
+          ],
+          1,
+          "buy a lot of prescription drugs"
+        ],
+        [
+          0,
+          [],
+          0,
+          ", but this study reflects something much bigger at play: pharma-sculpted public policies that allow drug price levels to go beyond profits and into profiteering."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "That term “profiteering” is important here because drugmakers aren’t losing lots of money in other countries where they sell medicines at lower prices."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Let’s remember: Pharmaceutical companies aren’t altruistic charities that offer their products abroad at a loss. On the contrary, they are "
+        ],
+        [
+          0,
+          [
+            1
+          ],
+          1,
+          "still"
+        ],
+        [
+          0,
+          [],
+          0,
+          " making healthy profits at lower world-market prices — and as "
+        ],
+        [
+          0,
+          [
+            1
+          ],
+          1,
+          "The Intercept"
+        ],
+        [
+          0,
+          [],
+          0,
+          "’s Lee Fang "
+        ],
+        [
+          0,
+          [
+            4
+          ],
+          1,
+          "notes"
+        ],
+        [
+          0,
+          [],
+          0,
+          ", they are making those healthy profits while boasting of innovation and job growth in countries that have allowed their governments to use bulk purchasing power to negotiate lower prices."
+        ]
+      ]
+    ],
+    [
+      10,
+      4
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "The same arrangement could happen in the United States. We could significantly reduce medicine prices, which would save Medicare and individual consumers hundreds of billions of dollars, and in the process we would do little to significantly reduce pharmaceutical innovation. Indeed, a recent Congressional Budget Office "
+        ],
+        [
+          0,
+          [
+            5
+          ],
+          1,
+          "study"
+        ],
+        [
+          0,
+          [],
+          0,
+          " projected that even if profits on top drugs decreased by a whopping 25 percent, it would only result in a 0.5 percent average annual reduction in the number of new drugs entering the market over the next decade."
+        ]
+      ]
+    ],
+    [
+      1,
+      "h3",
+      [
+        [
+          0,
+          [],
+          0,
+          "We Already Paid For The Medicine"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "The reason that reduction in new drugs would be so small gets to the other inconvenient fact being left out of the conversation in Congress right now: For all the pharmaceutical industry’s self-congratulatory rhetoric about its own innovations, the federal government uses your tax dollars to fund a lot of that innovation, research, and development."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "A "
+        ],
+        [
+          0,
+          [
+            6
+          ],
+          1,
+          "study"
+        ],
+        [
+          0,
+          [],
+          0,
+          " from the National Academy of Sciences tells that story: The federal government spent $100 billion to subsidize the research on every single one of the 200-plus drugs approved for sale in the United States between 2010 and 2016."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Because we the public invested early in these medicines, we reduced the R&D costs for pharmaceutical companies. Therefore, on the back end, the public should have received some sort of return in the form of affordable prices. After all, we took the initial risk, and we lowered the overhead costs that the drug companies might need to recoup through higher prices. In business terms, the public is the early venture investor in these products, and we deserve a share of the returns when the product proves valuable."
+        ]
+      ]
+    ],
+    [
+      10,
+      5
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "However, in the mid-1990s, that business axiom was tossed out when drug lobbyists convinced the Clinton administration to "
+        ],
+        [
+          0,
+          [
+            7
+          ],
+          1,
+          "repeal"
+        ],
+        [
+          0,
+          [],
+          0,
+          " rules that allowed federal officials to require government-subsidized drugs to be offered to Americans at a “reasonable price.”"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "A few years later, Congress — with then-Senator Joe Biden’s help — "
+        ],
+        [
+          0,
+          [
+            8
+          ],
+          1,
+          "voted down legislation"
+        ],
+        [
+          0,
+          [],
+          0,
+          " to reinstate these rules, and later the Obama administration "
+        ],
+        [
+          0,
+          [
+            9
+          ],
+          1,
+          "rejected"
+        ],
+        [
+          0,
+          [],
+          0,
+          " House Democrats’ request that federal officials at least provide guidelines to government agencies about how they can exercise their remaining powers to combat drug price gouging."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "The result: We now routinely face immoral situations like last week’s news that pharmaceutical giant Merck is planning to "
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "charge"
+        ],
+        [
+          0,
+          [],
+          0,
+          " Americans $712 for a COVID drug that cost only $17.74 to produce and whose development was subsidized by the American government."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "That’s just the latest example of the absurd paradigm: We take the risk of investing early in the product, but instead of that investment reaping us something valuable like affordable prices, we are rewarded with price gouging by the drugmakers that bankroll the lawmakers who’ve rigged the rules — and aim to keep them rigged."
+        ]
+      ]
+    ],
+    [
+      1,
+      "h3",
+      [
+        [
+          0,
+          [],
+          0,
+          "An Economy Walled Off For Maximum Manipulation"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "All of this underscores how corrupt and insane the current conversation in Congress really is — and in truth, it’s way more corrupt than it even seems on the surface."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "We aren’t merely watching pharma-bankrolled lawmakers try to stop Medicare from negotiating lower prices for drugs — they are trying to stop the government from negotiating lower prices for medicines that the government "
+        ],
+        [
+          0,
+          [
+            1
+          ],
+          1,
+          "already"
+        ],
+        [
+          0,
+          [],
+          0,
+          " paid for, and that we are being charged the world’s highest prices for."
+        ]
+      ]
+    ],
+    [
+      10,
+      6
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "This opposition is just the latest crusade to keep the American market walled off for maximum manipulation. Laws written by drug lobbyists "
+        ],
+        [
+          0,
+          [
+            10
+          ],
+          1,
+          "prohibit"
+        ],
+        [
+          0,
+          [],
+          0,
+          " wholesalers from importing lower-priced medicines from other countries, give drug companies "
+        ],
+        [
+          0,
+          [
+            11
+          ],
+          1,
+          "20-year patents"
+        ],
+        [
+          0,
+          [],
+          0,
+          " on government-subsidized medicine, prevent the government from requiring reasonable prices for drugs the government pays for, and block Medicare from using its bulk purchasing power to negotiate lower prices."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "That’s not a “free market.” It is a top-down command economy perfectly calibrated for price gouging, and the pharmaceutical industry and its puppet politicians want to keep it that way."
+        ]
+      ]
+    ],
+    [
+      10,
+      7
+    ],
+    [
+      10,
+      8
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [
+            1,
+            12
+          ],
+          2,
+          "This newsletter relies on readers pitching in to support our journalism. If you like this story, please support "
+        ],
+        [
+          0,
+          [
+            12
+          ],
+          1,
+          "The Daily Poster"
+        ],
+        [
+          0,
+          [
+            1,
+            12
+          ],
+          2,
+          "'s work."
+        ]
+      ]
+    ],
+    [
+      10,
+      9
+    ],
+    [
+      10,
+      10
+    ],
+    [
+      10,
+      11
+    ]
+  ],
+  "ghostVersion": "4.0"
+}

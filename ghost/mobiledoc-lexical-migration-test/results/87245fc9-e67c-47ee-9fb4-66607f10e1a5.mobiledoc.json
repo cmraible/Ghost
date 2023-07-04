@@ -1,0 +1,370 @@
+{
+  "version": "0.3.1",
+  "atoms": [
+    [
+      "soft-return",
+      "",
+      {}
+    ],
+    [
+      "soft-return",
+      "",
+      {}
+    ]
+  ],
+  "cards": [
+    [
+      "hr",
+      {}
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "html",
+      {
+        "html": "<table id=\"production-numbers-table\">\n<tbody>\n\t<tr>\n\t\t<td>911E Coupe</td>\n\t\t<td>1,304</td>\n\t</tr>\n    <tr>\n\t\t<td>911E K-Coupe</td>\n\t\t<td>667</td>\n\t</tr>\n    <tr>\n\t\t<td>911E Targa</td>\n\t\t<td>933</td>\n\t</tr>\n    <tr>\n\t\t<td>911T Coupe</td>\n\t\t<td>2,418</td>\n\t</tr>\n    <tr>\n\t\t<td>911T K-Coupe</td>\n\t\t<td>4,126</td>\n\t</tr>\n    <tr>\n\t\t<td>911T Targa</td>\n\t\t<td>2,545</td>\n\t</tr>\n\t\t<td><b>Total Production</b></td>\n\t\t<td><b>11,993</b></td>\n\t</tr>\n</tbody>\n</table>"
+      }
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "html",
+      {
+        "html": "<table id=\"performance-specs-table\">\n<tbody>\n\t<tr>\n\t\t<th><b>Engine</b></th>\n\t\t<th><b>Size</b></td>\n\t\t<th><b>Carb.</b></td>\n\t\t<th><b>HP</b></td>\n\t\t<th><b>Torque</b></td>\n\t\t<th><b>0 to 60</b></td>\n\t\t<th><b>Quarter mile</b></td>\n\t</tr>\n\t<tr>\n\t\t<td>911L</td>\n\t\t<td>2.0L</td>\n\t\t<td>2 Weber40 IDA</td>\n\t\t<td>130 at 6100 rpm</td>\n\t\t<td>128 lb-ft at 4600</td>\n\t\t<td>10.0 Sec</td>\n\t\t<td>17.2 Sec</td>\n\t</tr>\n    \n</tbody>\n</table>"
+      }
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "html",
+      {
+        "html": "<h4 id='colors-sub-heading'>Exterior</h4>\n<div class=\"colors-row\">\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #4e544f\"></div>\n        <div class=\"color-name\">Slate Gray</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #631b20\"></div>\n        <div class=\"color-name\">Polo Red</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #1a4fb2\"></div>\n        <div class=\"color-name\">Ossi Blue</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #dadade\"></div>\n        <div class=\"color-name\">Light Ivory</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #c2a326\"></div>\n        <div class=\"color-name\">Bahama Yellow</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #1a5123\"></div>\n        <div class=\"color-name\">Irish Green</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #a88c53\"></div>\n        <div class=\"color-name\">Sand</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #774244\"></div>\n        <div class=\"color-name\">Burgundy Red</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #fa4c02\"></div>\n        <div class=\"color-name\">Tangerine</div>\n    </div>\n</div>\n\n<h4 id='colors-sub-heading'>Interior</h4>\n<div class=\"colors-row\">\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #000000\"></div>\n        <div class=\"color-name\">Black</div>\n    </div>\n</div>"
+      }
+    ],
+    [
+      "gallery",
+      {
+        "images": [
+          {
+            "fileName": "2642_porsche-911-ad_low_res.jpg",
+            "row": 0,
+            "width": 790,
+            "height": 540,
+            "src": "__GHOST_URL__/content/images/2020/06/2642_porsche-911-ad_low_res.jpg"
+          },
+          {
+            "fileName": "2643_69colors2_low_res.jpg",
+            "row": 0,
+            "width": 640,
+            "height": 160,
+            "src": "__GHOST_URL__/content/images/2020/06/2643_69colors2_low_res.jpg"
+          },
+          {
+            "fileName": "2645_FactBook69_low_res.jpeg",
+            "row": 0,
+            "width": 640,
+            "height": 423,
+            "src": "__GHOST_URL__/content/images/2020/06/2645_FactBook69_low_res.jpeg"
+          },
+          {
+            "fileName": "2646_PTD2_low_res.jpg",
+            "row": 1,
+            "width": 640,
+            "height": 278,
+            "src": "__GHOST_URL__/content/images/2020/06/2646_PTD2_low_res.jpg"
+          }
+        ],
+        "caption": "1969 Porsche 911 OEM Brochures"
+      }
+    ],
+    [
+      "hr",
+      {}
+    ]
+  ],
+  "markups": [
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/tag/research/"
+      ]
+    ]
+  ],
+  "sections": [
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Overview"
+        ]
+      ]
+    ],
+    [
+      10,
+      0
+    ],
+    [
+      1,
+      "h3",
+      [
+        [
+          0,
+          [],
+          0,
+          "Fuel Injection arrived for the 911S and for a new middle model, 911E."
+        ]
+      ]
+    ],
+    [
+      10,
+      1
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          1,
+          [],
+          0,
+          0
+        ],
+        [
+          0,
+          [],
+          0,
+          "In 1969 The wheelbase for all 911 and 912 models increased from 87.0 to 89.3 in, this helped the handing of the 911 when drivers would drive at the 911's limit creating more confidence between driver and car."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "The overall length of the car did not increase the rear wheels were relocated for a longer wheelbase and better handling."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Fuel Injection arrived for the 911S and for a new middle model, 911E."
+        ]
+      ]
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Production Numbers"
+        ]
+      ]
+    ],
+    [
+      10,
+      2
+    ],
+    [
+      10,
+      3
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Performance Specs"
+        ]
+      ]
+    ],
+    [
+      10,
+      4
+    ],
+    [
+      10,
+      5
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Transmission"
+        ]
+      ]
+    ],
+    [
+      10,
+      6
+    ],
+    [
+      3,
+      "ul",
+      [
+        [
+          [
+            0,
+            [],
+            0,
+            "5-Speed Manual"
+          ]
+        ],
+        [
+          [
+            0,
+            [],
+            0,
+            "4-Speed Sportmatic"
+          ]
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      []
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Paint & Colors"
+        ]
+      ]
+    ],
+    [
+      10,
+      7
+    ],
+    [
+      10,
+      8
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "OEM Brochures"
+        ]
+      ]
+    ],
+    [
+      10,
+      9
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "About the Knowledge Base"
+        ]
+      ]
+    ],
+    [
+      10,
+      10
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "The Motorious Knowledge Base provides a comprehensive vehicle overview for the 1969 Porsche 911 including production numbers, performance specs, factory colors, and OEM brochures. Check out additional model years or related content linked to this article or view other Makes and Models in our "
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "Research"
+        ],
+        [
+          0,
+          [],
+          0,
+          " center."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "If you have any interesting facts about the 1969 Porsche 911 to add, want to tell us how we did covering the Porsche 911, or want to tell us about yours, please leave a comment below."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          1,
+          [],
+          0,
+          1
+        ]
+      ]
+    ]
+  ],
+  "ghostVersion": "3.0"
+}

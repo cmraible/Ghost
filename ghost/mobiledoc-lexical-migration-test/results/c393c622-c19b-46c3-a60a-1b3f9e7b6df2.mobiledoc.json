@@ -1,0 +1,384 @@
+{
+  "version": "0.3.1",
+  "atoms": [],
+  "cards": [
+    [
+      "hr",
+      {}
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "html",
+      {
+        "html": "<table id=\"production-numbers-table\">\n<tbody>\n\t<tr>\n\t\t<td>2-Dr. Sports Coupe</td>\n\t\t<td>46,776</td>\n\t</tr>\n\t\t<td><b>Total Production</b></td>\n\t\t<td><b>46,776</b></td>\n\t</tr>\n</tbody>\n</table>"
+      }
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "html",
+      {
+        "html": "<table id=\"performance-specs-table\">\n<tbody>\n\t<tr>\n\t\t<th><b>Engine</b></th>\n\t\t<th><b>Size</b></td>\n\t\t<th><b>Carb.</b></td>\n\t\t<th><b>HP</b></td>\n\t\t<th><b>Torque</b></td>\n\t\t<th><b>0 to 60</b></td>\n\t\t<th><b>Quarter mile</b></td>\n\t</tr>\n\t<tr>\n\t\t<td>Base L48</td>\n\t\t<td>350ci</td>\n\t\t<td>1x4bbl</td>\n\t\t<td>185hp</td>\n\t\t<td>280 lb-ft</td>\n\t\t<td>-</td>\n\t\t<td>-</td>\n\t</tr>\n    <tr>\n\t\t<td>RPO L48</td>\n\t\t<td>350ci</td>\n\t\t<td>1x4bbl</td>\n\t\t<td>175hp</td>\n\t\t<td>270 lb-ft</td>\n\t\t<td>-</td>\n\t\t<td>-</td>\n\t</tr>\n    <tr>\n\t\t<td>L82</td>\n\t\t<td>350ci</td>\n\t\t<td>1x4bbl</td>\n\t\t<td>220hp</td>\n\t\t<td>260 lb-ft</td>\n\t\t<td>6.5 sec</td>\n\t\t<td>15.2 sec @ 95 mph</td>\n\t</tr>\n</tbody>\n</table>"
+      }
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "html",
+      {
+        "html": "<h4 id='colors-sub-heading'>Exterior</h4>\n<div class=\"colors-row\">\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #eceddd\"></div>\n        <div class=\"color-name\">Classic White</div>\n    </div>\n     <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #a9b3ba\"></div>\n        <div class=\"color-name\">Silver Metallic</div>\n    </div>\n     <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #8898a8\"></div>\n        <div class=\"color-name\">Silver Anniversary/Indy Silver</div>\n    </div>\n     <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #10080c\"></div>\n        <div class=\"color-name\">Black</div>\n    </div>\n     <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #10080d\"></div>\n        <div class=\"color-name\">Black Silver</div>\n    </div>\n     <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #c4d8df\"></div>\n        <div class=\"color-name\">Corvette Frost Blue</div>\n    </div>\n     <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #eec855\"></div>\n        <div class=\"color-name\">Corvette Yellow</div>\n    </div>\n     <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #f6e5c7\"></div>\n        <div class=\"color-name\">Corvette Frost Beige</div>\n    </div>\n     <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #892426\"></div>\n        <div class=\"color-name\">Corvette Red</div>\n    </div>\n     <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #522220\"></div>\n        <div class=\"color-name\">Corvette Mahogany</div>\n    </div>\n     <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #222a35\"></div>\n        <div class=\"color-name\">Corvette Dark Blue</div>\n    </div>\n     <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #352b24\"></div>\n        <div class=\"color-name\">Corvette Dark Brown</div>\n    </div>\n</div>\n\n<h4 id='colors-sub-heading'>Interior</h4>\n<div class=\"colors-row\">\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #f7f1d1\"></div>\n        <div class=\"color-name\">Oyster</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #a2a19d\"></div>\n        <div class=\"color-name\">Silver</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #000000\"></div>\n        <div class=\"color-name\">Black</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #00293f\"></div>\n        <div class=\"color-name\">Dark Blue</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #9e2529\"></div>\n        <div class=\"color-name\">Red</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #d6c091\"></div>\n        <div class=\"color-name\">Light Beige</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #3e2e1e\"></div>\n        <div class=\"color-name\">Dark Brown</div>\n    </div>\n</div>\n"
+      }
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "gallery",
+      {
+        "images": [
+          {
+            "fileName": "351_1_low_res.jpeg",
+            "row": 0,
+            "width": 660,
+            "height": 850,
+            "src": "__GHOST_URL__/content/images/2020/08/351_1_low_res.jpeg"
+          },
+          {
+            "fileName": "352_2_low_res.jpeg",
+            "row": 0,
+            "width": 645,
+            "height": 843,
+            "src": "__GHOST_URL__/content/images/2020/08/352_2_low_res.jpeg"
+          },
+          {
+            "fileName": "353_3_low_res.jpeg",
+            "row": 0,
+            "width": 650,
+            "height": 847,
+            "src": "__GHOST_URL__/content/images/2020/08/353_3_low_res.jpeg"
+          },
+          {
+            "fileName": "354_4_low_res.jpeg",
+            "row": 1,
+            "width": 790,
+            "height": 341,
+            "src": "__GHOST_URL__/content/images/2020/08/354_4_low_res.jpeg"
+          },
+          {
+            "fileName": "355_5_low_res.jpeg",
+            "row": 1,
+            "width": 790,
+            "height": 681,
+            "src": "__GHOST_URL__/content/images/2020/08/355_5_low_res.jpeg"
+          }
+        ],
+        "caption": "1978 Chevrolet Corvette OEM Brochures"
+      }
+    ],
+    [
+      "hr",
+      {}
+    ]
+  ],
+  "markups": [
+    [
+      "em"
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/tag/research/"
+      ]
+    ]
+  ],
+  "sections": [
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Overview"
+        ]
+      ]
+    ],
+    [
+      10,
+      0
+    ],
+    [
+      1,
+      "h3",
+      [
+        [
+          0,
+          [],
+          0,
+          "The 1978 Corvette celebrated its 25th anniversary with a completely redesigned body that included new “fastback” styling."
+        ]
+      ]
+    ],
+    [
+      10,
+      1
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "The 1978 Corvette celebrated its 25th anniversary with a completely redesigned body that included new “fastback” styling."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "The new wrap-around rear window provided much more space behind the seats but was not a hatchback. All corvettes this year came with special 25th anniversary badging. A special “Anniversary Edition” included a unique Charcoal Silver/Silver Metallic two-tone paint job. This was not a limited edition, and 15,283 Corvettes were eventually sold with this paint option."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "The 1978 Corvette was also the pace car for the Indy 500. Production was limited to one per Chevrolet dealership, amounting to 6,502. This car had Black/Silver two-tone paint with red pinstripe."
+        ]
+      ]
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Production Numbers"
+        ]
+      ]
+    ],
+    [
+      10,
+      2
+    ],
+    [
+      10,
+      3
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Performance Specs"
+        ]
+      ]
+    ],
+    [
+      10,
+      4
+    ],
+    [
+      10,
+      5
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Transmission"
+        ]
+      ]
+    ],
+    [
+      10,
+      6
+    ],
+    [
+      3,
+      "ul",
+      [
+        [
+          [
+            0,
+            [],
+            0,
+            "3-Speed Automatic Turbo Hydra-Matic"
+          ]
+        ],
+        [
+          [
+            0,
+            [],
+            0,
+            "4-Speed Manual"
+          ]
+        ]
+      ]
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Paint & Colors"
+        ]
+      ]
+    ],
+    [
+      10,
+      7
+    ],
+    [
+      10,
+      8
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "OEM Brochures"
+        ]
+      ]
+    ],
+    [
+      10,
+      9
+    ],
+    [
+      10,
+      10
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "About the Knowledge Base"
+        ]
+      ]
+    ],
+    [
+      10,
+      11
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "The Motorious Knowledge Base provides a comprehensive vehicle overview for the 1978 Chevrolet Corvette"
+        ],
+        [
+          0,
+          [
+            0,
+            0
+          ],
+          2,
+          " "
+        ],
+        [
+          0,
+          [],
+          0,
+          "including production numbers, performance specs, factory colors, and OEM brochures. Check out additional model years or related content linked to this article or view other Makes and Models in our "
+        ],
+        [
+          0,
+          [
+            1
+          ],
+          1,
+          "Research"
+        ],
+        [
+          0,
+          [],
+          0,
+          " center."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "If you have any interesting facts about the 1978 Chevrolet Corvette"
+        ],
+        [
+          0,
+          [
+            0,
+            0
+          ],
+          2,
+          " "
+        ],
+        [
+          0,
+          [],
+          0,
+          "to add, want to tell us how we did covering the Corvette, or want to tell us about yours, please leave a comment below."
+        ]
+      ]
+    ]
+  ],
+  "ghostVersion": "3.0"
+}

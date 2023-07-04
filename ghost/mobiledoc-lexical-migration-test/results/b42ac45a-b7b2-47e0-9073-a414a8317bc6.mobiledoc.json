@@ -1,0 +1,374 @@
+{
+  "version": "0.3.1",
+  "atoms": [],
+  "cards": [
+    [
+      "hr",
+      {}
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "html",
+      {
+        "html": "<table id=\"production-numbers-table\">\n<tbody>\n\t<tr>\n\t\t<td>4-DR Sedan</td>\n\t\t<td>561,511</td>\n\t</tr>\n    \t<tr>\n\t\t<td>2-DR Hardtop Sport Coupe</td>\n\t\t<td>399,224</td>\n\t</tr>\n    \t<tr>\n\t\t<td>4-DR Station Wagon</td>\n\t\t<td>198,547</td>\n\t</tr>\n    \t<tr>\n\t\t<td>4-DR Hardtop Sport Sedan</td>\n\t\t<td>194,158</td>\n\t</tr>\n    \t<tr>\n\t\t<td>2-DR Sedan</td>\n\t\t<td>135,636</td>\n\t</tr>\n\t\t<td><b>Total Production</b></td>\n\t\t<td><b>1,489,076</b></td>\n\t</tr>\n</tbody>\n</table>"
+      }
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "html",
+      {
+        "html": "<table id=\"performance-specs-table\">\n<tbody>\n\t<tr>\n\t\t<th><b>Engine</b></th>\n\t\t<th><b>Size</b></td>\n\t\t<th><b>HP</b></td>\n\t</tr>\n\t<tr>\n\t\t<td>I-6</td>\n\t\t<td>230ci</td>\n\t\t<td>140</td>\n\t</tr>\n\t<tr>\n\t\t<td>V8</td>\n\t\t<td>283ci</td>\n\t\t<td>195</td>\n\t</tr>\n\t<tr>\n\t\t<td>V8</td>\n\t\t<td>327ci</td>\n\t\t<td>250-340</td>\n\t</tr>\n\t<tr>\n\t\t<td>V8</td>\n\t\t<td>409ci</td>\n\t\t<td>340-425</td>\n\t</tr>\n</tbody>\n</table>"
+      }
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "html",
+      {
+        "html": "<h4 id='colors-sub-heading'>Exterior</h4>\n<div class=\"colors-row\">\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #000000\"></div>\n        <div class=\"color-name\">Tuxedo Black</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #67786d\"></div>\n        <div class=\"color-name\">Laurel Green</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #2d3837\"></div>\n        <div class=\"color-name\">Ivy Green</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #627389\"></div>\n        <div class=\"color-name\">Silver Blue</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #313f53\"></div>\n        <div class=\"color-name\">Monaco Blue</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #547784\"></div>\n        <div class=\"color-name\">Azure Aqua</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #293946\"></div>\n        <div class=\"color-name\">Marine Aqua</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #989789\"></div>\n        <div class=\"color-name\">Autumn Gold</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #8d2821\"></div>\n        <div class=\"color-name\">Ember Red</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #95816c\"></div>\n        <div class=\"color-name\">Saddle Tan</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #382d28\"></div>\n        <div class=\"color-name\">Cardovan Brown</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #e3deca\"></div>\n        <div class=\"color-name\">Ermine White</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #cfcaae\"></div>\n        <div class=\"color-name\">Adobe Beige</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #889097\"></div>\n        <div class=\"color-name\">Satin Silver</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #602422\"></div>\n        <div class=\"color-name\">Palomar Red</div>\n    </div>\n</div>\n\n<h4 id='colors-sub-heading'>Interior</h4>\n<div class=\"colors-row\">\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #dbd9cd\"></div>\n        <div class=\"color-name\">Ivory</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #858377\"></div>\n        <div class=\"color-name\">Fawn</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #705540\"></div>\n        <div class=\"color-name\">Saddle</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #2a2c46\"></div>\n        <div class=\"color-name\">Blue</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #7b847d\"></div>\n        <div class=\"color-name\">Green</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #6e8590\"></div>\n        <div class=\"color-name\">Aqua</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #7c231d\"></div>\n        <div class=\"color-name\">Red</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #000000\"></div>\n        <div class=\"color-name\">Black</div>\n    </div>\n</div>\n"
+      }
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "gallery",
+      {
+        "images": [
+          {
+            "fileName": "1148_1_low_res.jpg",
+            "row": 0,
+            "width": 790,
+            "height": 785,
+            "src": "__GHOST_URL__/content/images/2020/06/1148_1_low_res.jpg"
+          },
+          {
+            "fileName": "1149_5_low_res.jpg",
+            "row": 0,
+            "width": 790,
+            "height": 391,
+            "src": "__GHOST_URL__/content/images/2020/06/1149_5_low_res.jpg"
+          },
+          {
+            "fileName": "1150_8_low_res.jpg",
+            "row": 0,
+            "width": 790,
+            "height": 396,
+            "src": "__GHOST_URL__/content/images/2020/06/1150_8_low_res.jpg"
+          }
+        ],
+        "caption": "1963 Chevrolet Bel Air OEM Brochures"
+      }
+    ],
+    [
+      "hr",
+      {}
+    ]
+  ],
+  "markups": [
+    [
+      "strong"
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/tag/research/"
+      ]
+    ],
+    [
+      "em"
+    ]
+  ],
+  "sections": [
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Overview"
+        ]
+      ]
+    ],
+    [
+      10,
+      0
+    ],
+    [
+      1,
+      "h3",
+      [
+        [
+          0,
+          [],
+          0,
+          "For 1963, the full-size Bel Air received a new facelift and the overall length increased to 210.4 in. "
+        ]
+      ]
+    ],
+    [
+      10,
+      1
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "For 1963, the full-size Bel Air received a new facelift and the overall length increased to 210.4 in. The 235.5ci I-6 was replaced with a 230ci six-cylinder as standard equipment and increased output to 140 hp."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "The Bel Air continued to be Chevy's mid-line offer, and it noticed a peak in its production this year."
+        ]
+      ]
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Production Numbers"
+        ]
+      ]
+    ],
+    [
+      10,
+      2
+    ],
+    [
+      10,
+      3
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Performance Specs"
+        ]
+      ]
+    ],
+    [
+      10,
+      4
+    ],
+    [
+      10,
+      5
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Transmission"
+        ]
+      ]
+    ],
+    [
+      10,
+      6
+    ],
+    [
+      3,
+      "ul",
+      [
+        [
+          [
+            0,
+            [
+              0,
+              0
+            ],
+            2,
+            "3-Speed Manual"
+          ]
+        ],
+        [
+          [
+            0,
+            [
+              0,
+              0
+            ],
+            2,
+            "Powerglide Auto"
+          ]
+        ],
+        [
+          [
+            0,
+            [
+              0,
+              0
+            ],
+            2,
+            "4-Speed Manual"
+          ]
+        ],
+        [
+          [
+            0,
+            [
+              0,
+              0
+            ],
+            2,
+            "Overdrive"
+          ]
+        ]
+      ]
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Paint & Colors"
+        ]
+      ]
+    ],
+    [
+      10,
+      7
+    ],
+    [
+      10,
+      8
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "OEM Brochures"
+        ]
+      ]
+    ],
+    [
+      10,
+      9
+    ],
+    [
+      10,
+      10
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "About the Knowledge Base"
+        ]
+      ]
+    ],
+    [
+      10,
+      11
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "The Motorious Knowledge Base provides a comprehensive vehicle overview for the 1963 Chevrolet Bel Air including production numbers, performance specs, factory colors, and OEM brochures. Check out additional model years or related content linked to this article or view other Makes and Models in our "
+        ],
+        [
+          0,
+          [
+            1
+          ],
+          1,
+          "Research"
+        ],
+        [
+          0,
+          [],
+          0,
+          " center."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "If you have any interesting facts about the 1963 Chevrolet Bel Air"
+        ],
+        [
+          0,
+          [
+            2,
+            2
+          ],
+          2,
+          " "
+        ],
+        [
+          0,
+          [],
+          0,
+          "to add, want to tell us how we did covering the Bel Air, or want to tell us about yours, please leave a comment below."
+        ]
+      ]
+    ]
+  ],
+  "ghostVersion": "3.0"
+}

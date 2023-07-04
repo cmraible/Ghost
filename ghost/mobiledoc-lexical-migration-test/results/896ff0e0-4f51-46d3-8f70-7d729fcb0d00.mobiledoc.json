@@ -1,0 +1,1134 @@
+{
+  "version": "0.3.1",
+  "atoms": [],
+  "cards": [
+    [
+      "email-cta",
+      {
+        "showButton": true,
+        "showDividers": false,
+        "segment": "status:-free",
+        "alignment": "center",
+        "html": "<p><em><strong>This is Lever Weekly, a supporting subscriber-only feature that reviews our reporting from the past week, plus major must-reads from around the world. If you only read one email from us all week, this one should be it.</strong></em></p>",
+        "buttonText": "Click Here To Comment",
+        "buttonUrl": "__GHOST_URL__/lever-weekly-schmoozing-with-the-enemy/#comments"
+      }
+    ],
+    [
+      "email",
+      {
+        "html": "<p><strong><u><em><a href=\"https://twitter.com/intent/tweet?text=LEVER%20WEEKLY%3A%20%E2%80%9CSchmoozing%20With%20The%20Enemy%E2%80%9D%20--%20Top%20union%20leaders%20and%20Biden%20labor%20officials%20will%20be%20joining%20the%20nation%E2%80%99s%20worst%20union%20busters%20at%20a%20Montana%20resort%20next%20month.%20https%3A%2F%2Fwww.levernews.com%2Flever-weekly-schmoozing-with-the-enemy%2F%3Futm_source%3Dtwitter%26utm_medium%3Dlink%26utm_campaign%3Dtw-prefill\">Click to share on Twitter</a></em></u></strong></p>"
+      }
+    ],
+    [
+      "email",
+      {
+        "html": "<p><em><strong><a href=\"https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.levernews.com%2Flever-weekly-schmoozing-with-the-enemy%2F&amp;amp;src=sdkpreparse\">Click to share on Facebook</a></strong></em></p>"
+      }
+    ],
+    [
+      "paywall",
+      {}
+    ],
+    [
+      "button",
+      {
+        "alignment": "center",
+        "buttonText": "Tip Jar",
+        "buttonUrl": "https://dailyposter.outpost.pub/ghost-integration/60818189ad12f332071054b8/tips"
+      }
+    ],
+    [
+      "embed",
+      {
+        "url": "https://twitter.com/davidsirota/status/1549852961962045440",
+        "html": "<blockquote class=\"twitter-tweet\"><p lang=\"en\" dir=\"ltr\">For those asking me how it feels to see <a href=\"https://twitter.com/hashtag/DontLookUp?src=hash&amp;ref_src=twsrc%5Etfw\">#DontLookUp</a> trending again:<br><br>I’m thrilled the film continues to raise awareness about the climate and media problems, but I’m genuinely depressed that this kind of shit is still happening. I don’t want to live in our movie. <a href=\"https://t.co/p3RexnXnvP\">https://t.co/p3RexnXnvP</a></p>&mdash; David Sirota (@davidsirota) <a href=\"https://twitter.com/davidsirota/status/1549852961962045440?ref_src=twsrc%5Etfw\">July 20, 2022</a></blockquote>\n<script async src=\"https://platform.twitter.com/widgets.js\" charset=\"utf-8\"></script>\n",
+        "type": "twitter",
+        "metadata": {
+          "url": "https://twitter.com/davidsirota/status/1549852961962045440",
+          "author_name": "David Sirota",
+          "author_url": "https://twitter.com/davidsirota",
+          "width": 550,
+          "height": null,
+          "cache_age": "3153600000",
+          "provider_name": "Twitter",
+          "provider_url": "http://www.twitter.com/",
+          "version": "1.0",
+          "tweet_data": {
+            "source": "Twitter for iPhone",
+            "referenced_tweets": [
+              {
+                "type": "quoted",
+                "id": "1549768004233314306"
+              }
+            ],
+            "id": "1549852961962045440",
+            "text": "For those asking me how it feels to see #DontLookUp trending again:\n\nI’m thrilled the film continues to raise awareness about the climate and media problems, but I’m genuinely depressed that this kind of shit is still happening. I don’t want to live in our movie. https://t.co/p3RexnXnvP",
+            "entities": {
+              "urls": [
+                {
+                  "start": 264,
+                  "end": 287,
+                  "url": "https://t.co/p3RexnXnvP",
+                  "expanded_url": "https://twitter.com/benphillips76/status/1549768004233314306",
+                  "display_url": "twitter.com/benphillips76/…"
+                }
+              ],
+              "hashtags": [
+                {
+                  "start": 40,
+                  "end": 51,
+                  "tag": "DontLookUp"
+                }
+              ]
+            },
+            "created_at": "2022-07-20T20:25:15.000Z",
+            "reply_settings": "everyone",
+            "lang": "en",
+            "context_annotations": [
+              {
+                "domain": {
+                  "id": "86",
+                  "name": "Movie",
+                  "description": "A film like Rogue One: A Star Wars Story"
+                },
+                "entity": {
+                  "id": "1461347524858441736",
+                  "name": "Don't Look Up",
+                  "description": "Produced by Hyperobject Industries and Bluegrass Films, the film is set to receive a limited theatrical release on December 10, 2021, prior to streaming on Netflix on December 24, 2021."
+                }
+              },
+              {
+                "domain": {
+                  "id": "86",
+                  "name": "Movie",
+                  "description": "A film like Rogue One: A Star Wars Story"
+                },
+                "entity": {
+                  "id": "1529056359265669121",
+                  "name": "Don"
+                }
+              }
+            ],
+            "public_metrics": {
+              "retweet_count": 157,
+              "reply_count": 11,
+              "like_count": 722,
+              "quote_count": 8
+            },
+            "conversation_id": "1549852961962045440",
+            "possibly_sensitive": false,
+            "author_id": "14855994",
+            "includes": {
+              "users": [
+                {
+                  "pinned_tweet_id": "1537891430403756032",
+                  "location": "Denver, CO",
+                  "username": "davidsirota",
+                  "profile_image_url": "https://pbs.twimg.com/profile_images/1406683775468118016/4gvCfJ-a_normal.jpg",
+                  "protected": false,
+                  "created_at": "2008-05-21T12:59:37.000Z",
+                  "name": "David Sirota",
+                  "url": "https://t.co/Dp4VDU3DYH",
+                  "entities": {
+                    "url": {
+                      "urls": [
+                        {
+                          "start": 0,
+                          "end": 23,
+                          "url": "https://t.co/Dp4VDU3DYH",
+                          "expanded_url": "https://www.davidsirota.com",
+                          "display_url": "davidsirota.com"
+                        }
+                      ]
+                    },
+                    "description": {
+                      "hashtags": [
+                        {
+                          "start": 37,
+                          "end": 43,
+                          "tag": "Oscar"
+                        },
+                        {
+                          "start": 58,
+                          "end": 69,
+                          "tag": "DontLookUp"
+                        },
+                        {
+                          "start": 71,
+                          "end": 80,
+                          "tag": "Meltdown"
+                        }
+                      ],
+                      "mentions": [
+                        {
+                          "start": 25,
+                          "end": 35,
+                          "username": "LeverNews"
+                        },
+                        {
+                          "start": 91,
+                          "end": 99,
+                          "username": "Jacobin"
+                        },
+                        {
+                          "start": 100,
+                          "end": 111,
+                          "username": "GuardianUS"
+                        },
+                        {
+                          "start": 123,
+                          "end": 134,
+                          "username": "EmilyforCO"
+                        }
+                      ]
+                    }
+                  },
+                  "description": "Founder/editor-in-chief, @LeverNews; #Oscar nominated for #DontLookUp; #Meltdown narrator; @Jacobin/@GuardianUS columnist; @EmilyforCO spouse; Denverite.",
+                  "id": "14855994",
+                  "public_metrics": {
+                    "followers_count": 300887,
+                    "following_count": 3318,
+                    "tweet_count": 2135,
+                    "listed_count": 4016
+                  },
+                  "verified": true
+                },
+                {
+                  "pinned_tweet_id": "1515390555018219524",
+                  "location": "Geneva and Rome",
+                  "username": "benphillips76",
+                  "profile_image_url": "https://pbs.twimg.com/profile_images/1500015558011539457/t-6qi9P9_normal.jpg",
+                  "protected": false,
+                  "created_at": "2010-07-29T12:46:34.000Z",
+                  "name": "Ben Phillips",
+                  "url": "https://t.co/OO1TUcURVS",
+                  "entities": {
+                    "url": {
+                      "urls": [
+                        {
+                          "start": 0,
+                          "end": 23,
+                          "url": "https://t.co/OO1TUcURVS",
+                          "expanded_url": "https://tinyurl.com/26jf6ysb",
+                          "display_url": "tinyurl.com/26jf6ysb"
+                        }
+                      ]
+                    }
+                  },
+                  "description": "My new book is How to Fight Inequality. Activist organiser for justice. Now serving the United Nations, “our last best hope.” Change is never given, it is won.",
+                  "id": "172325520",
+                  "public_metrics": {
+                    "followers_count": 33781,
+                    "following_count": 14622,
+                    "tweet_count": 75041,
+                    "listed_count": 561
+                  },
+                  "verified": false
+                }
+              ],
+              "tweets": [
+                {
+                  "source": "Twitter for iPhone",
+                  "attachments": {
+                    "media_keys": [
+                      "7_1549439490590121985"
+                    ]
+                  },
+                  "entities": {
+                    "annotations": [
+                      {
+                        "start": 12,
+                        "end": 24,
+                        "probability": 0.516,
+                        "type": "Other",
+                        "normalized_text": "Don’t Look Up"
+                      }
+                    ],
+                    "urls": [
+                      {
+                        "start": 75,
+                        "end": 98,
+                        "url": "https://t.co/CokQ5eb3sO",
+                        "expanded_url": "https://twitter.com/Lidotajs/status/1549439524354269186/video/1",
+                        "display_url": "pic.twitter.com/CokQ5eb3sO",
+                        "media_key": "7_1549439490590121985"
+                      }
+                    ]
+                  },
+                  "id": "1549768004233314306",
+                  "text": "A clip from Don’t Look Up, and then a real TV interview that just happened https://t.co/CokQ5eb3sO",
+                  "created_at": "2022-07-20T14:47:40.000Z",
+                  "reply_settings": "everyone",
+                  "lang": "en",
+                  "public_metrics": {
+                    "retweet_count": 223724,
+                    "reply_count": 7070,
+                    "like_count": 891638,
+                    "quote_count": 24281
+                  },
+                  "conversation_id": "1549768004233314306",
+                  "possibly_sensitive": false,
+                  "author_id": "172325520"
+                }
+              ]
+            }
+          }
+        }
+      }
+    ],
+    [
+      "button",
+      {
+        "alignment": "center",
+        "buttonText": "Give A Gift Subscription",
+        "buttonUrl": "https://dailyposter.outpost.pub/gift_subscription#/"
+      }
+    ],
+    [
+      "email-cta",
+      {
+        "showButton": true,
+        "showDividers": false,
+        "segment": "status:-free",
+        "alignment": "center",
+        "html": "",
+        "buttonText": "Click Here To Comment",
+        "buttonUrl": "__GHOST_URL__/lever-weekly-schmoozing-with-the-enemy/#comments"
+      }
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "email",
+      {
+        "html": "<p><em><strong>Help us spread the word! </strong>Please forward this email to family and friends.</em></p><p><em><strong>Was this email forwarded to you? </strong><a href=\"https://levernews.com/membership/?utm_source=weekly&amp;utm_medium=link&amp;utm_campaign=forward-signup\">Sign up for free</a> to receive original reporting like this in your inbox every day.</em></p>"
+      }
+    ]
+  ],
+  "markups": [
+    [
+      "em"
+    ],
+    [
+      "strong"
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/the-manchin-aide-turned-corporate-shill/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/amazon-joins-the-medicare-privatization-spree/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/intel-begs-for-a-bailout/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/cheat-sheet-the-housing-crisis/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/lever-approved-podcasts/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/you-love-to-see-it-a-week-of-mass-action/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.callin.com/episode/who-to-blame-for-inflation-yYcYngfMUj"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.thenation.com/article/activism/liz-shuler-labor-employment-conference/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://theintercept.com/2022/07/18/joe-gayle-manchin-condo-climate-canaan-valley/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://prospect.org/politics/david-segal-populist-coalition-builder-runs-for-congress-in-/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://thebaffler.com/latest/going-beyond-the-law-del-valle"
+      ]
+    ]
+  ],
+  "sections": [
+    [
+      10,
+      0
+    ],
+    [
+      10,
+      1
+    ],
+    [
+      10,
+      2
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Unions and union busters have — by definition — diametrically opposed interests."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "And yet, corporate America’s big business lobby is teaming up with the nation’s largest federation of labor unions at a Montana resort next month to kick off a conference on labor and employment, sponsored by none other than the man who brought us the most anti-worker court decision of the Obama years."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "As we highlight below, "
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "The Nation"
+        ],
+        [
+          0,
+          [],
+          0,
+          " has the scoop on the conference, where top union leaders and Biden administration labor officials will be schmoozing with the enemy."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Read all about it in this week’s "
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "Lever Weekly"
+        ],
+        [
+          0,
+          [],
+          0,
+          ", exclusively for supporting subscribers below."
+        ]
+      ]
+    ],
+    [
+      10,
+      3
+    ],
+    [
+      1,
+      "h3",
+      [
+        [
+          0,
+          [],
+          0,
+          "Stuff The Lever Reported This Week:"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [
+            1
+          ],
+          1,
+          "• "
+        ],
+        [
+          0,
+          [
+            2,
+            1
+          ],
+          2,
+          "The Manchin Aide Turned Corporate Shill"
+        ],
+        [
+          0,
+          [
+            1
+          ],
+          1,
+          " — "
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "“Jonathan Kott went from working as Manchin’s senior advisor to leading a well-funded dark money group that spent millions to crush Sen. Bernie Sanders’ (Ind.-Vt.) 2020 presidential bid, and then back to Capitol Hill. Now, Kott is a corporate lobbyist for health insurers, drug companies, the fossil fuel industry, and Fox News, while the media calls on the so-called ‘Manchin whisperer-for-hire’ to offer commentary about what has motivated his former boss to repeatedly obstruct his party’s agenda.”"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [
+            1
+          ],
+          1,
+          "• "
+        ],
+        [
+          0,
+          [
+            3,
+            1
+          ],
+          2,
+          "Amazon Joins The Medicare Privatization Spree"
+        ],
+        [
+          0,
+          [
+            1
+          ],
+          1,
+          " "
+        ],
+        [
+          0,
+          [],
+          0,
+          "— "
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "“While Amazon’s profits from its core consumer retail business are dwindling, in part because of heightened competition from brick-and-mortar retailers that were shut down at the beginning of the COVID-19 pandemic, the corporation’s cloud computing division, Amazon Web Services, continues to enjoy robust profits thanks in part to generous government contracts. Now Amazon could be attempting to build on that federal largesse by seeking to milk revenue from Medicare, the national health insurance program for seniors and people with disabilities.”"
+        ]
+      ]
+    ],
+    [
+      10,
+      4
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [
+            1
+          ],
+          1,
+          "• "
+        ],
+        [
+          0,
+          [
+            4,
+            1
+          ],
+          2,
+          "Intel Begs For A Bailout"
+        ],
+        [
+          0,
+          [
+            1
+          ],
+          1,
+          " "
+        ],
+        [
+          0,
+          [],
+          0,
+          "— "
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "“Intel CEO Pat Gelsinger tried to strong-arm Congress last week, telling CNBC that the semiconductor industry needs $52 billion in subsidies to remain competitive, or else major microchip companies won’t invest resources in the United States. But at the same time, Gelsinger’s company and its well-connected lobbyists are pushing Congress to allow it to potentially use the subsidies to put more money into its factories outside of the country.”"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [
+            1
+          ],
+          1,
+          "• "
+        ],
+        [
+          0,
+          [
+            5,
+            1
+          ],
+          2,
+          "CHEAT SHEET: The Housing Crisis"
+        ],
+        [
+          0,
+          [
+            1
+          ],
+          1,
+          " "
+        ],
+        [
+          0,
+          [],
+          0,
+          "— "
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "“Since mid-March of 2020, there have been just over one million evictions, with 6,613 in the past week alone. There were already half a million people experiencing homelessness nationwide in January 2020, and inflation and the pandemic have only exacerbated the problem.”"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [
+            1
+          ],
+          1,
+          "• "
+        ],
+        [
+          0,
+          [
+            6,
+            1
+          ],
+          2,
+          "Lever-Approved Podcasts"
+        ],
+        [
+          0,
+          [
+            1
+          ],
+          1,
+          " "
+        ],
+        [
+          0,
+          [],
+          0,
+          "— "
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "“Lever Time, our weekly podcast, is on summer hiatus this week. To tide you over in the meantime, here are some wonderful podcasts recommended by "
+        ],
+        [
+          0,
+          [],
+          0,
+          "The Lever"
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "’s staff. All these shows are guaranteed to illuminate, motivate, inspire, soothe, and/or entertain you!”"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [
+            1
+          ],
+          1,
+          "• "
+        ],
+        [
+          0,
+          [
+            7,
+            1
+          ],
+          2,
+          "YOU LOVE TO SEE IT: A Week Of Mass Action"
+        ],
+        [
+          0,
+          [
+            1
+          ],
+          1,
+          " "
+        ],
+        [
+          0,
+          [],
+          0,
+          "— "
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "“Good things are happening! In the United Kingdom, tens of thousands of workers are striking for better wages and working conditions, as heatwaves and inflation impose ever more challenges... On another front, the American Federation of Teachers, comprised of 1.7 million teachers, has called for their pension fund manager to divest from fossil fuels. Also, congressional staffers leap forward with their union drive, and two federal agencies are partnering to deliver a more holistic approach to protecting worker dignity.”"
+        ]
+      ]
+    ],
+    [
+      1,
+      "h3",
+      [
+        [
+          0,
+          [],
+          0,
+          "Stuff To Watch & Listen To:"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [
+            1
+          ],
+          1,
+          "• "
+        ],
+        [
+          0,
+          [
+            8,
+            1
+          ],
+          2,
+          "LEVER LIVE: Who Is To Blame For Inflation?"
+        ],
+        [
+          0,
+          [
+            1
+          ],
+          1,
+          " "
+        ],
+        [
+          0,
+          [],
+          0,
+          "—"
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          " On this episode of Lever Live, David is joined by "
+        ],
+        [
+          0,
+          [],
+          0,
+          "New York Times"
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          " global economy correspondent, Peter S. Goodman, to get to the bottom of the ongoing inflation problems. Is it the Fed’s fault? Is it the supply chain? Is it corporate profiteering?"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [
+            1
+          ],
+          1,
+          "• "
+        ],
+        [
+          0,
+          [
+            0,
+            1
+          ],
+          2,
+          "Don’t Look Up"
+        ],
+        [
+          0,
+          [
+            1
+          ],
+          1,
+          " Turns Real:"
+        ]
+      ]
+    ],
+    [
+      10,
+      5
+    ],
+    [
+      10,
+      6
+    ],
+    [
+      1,
+      "h3",
+      [
+        [
+          0,
+          [],
+          0,
+          "Stuff We’re Reading:"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [
+            1
+          ],
+          1,
+          "• "
+        ],
+        [
+          0,
+          [
+            9,
+            1
+          ],
+          2,
+          "Why Is This Union Leader Schmoozing With The Enemy?"
+        ],
+        [
+          0,
+          [],
+          0,
+          " (The Nation) — "
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "“The conference is the brainchild of Roger King, a retired senior attorney from the Jones Day firm. King played a leading role in "
+        ],
+        [
+          0,
+          [],
+          0,
+          "NLRB vs. Noel Canning"
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          ", the most devastating court decision for workers and labor law enforcement of the Obama era. And for some reason, the president of the AFL–CIO, Liz Shuler, has agreed to open the conference alongside the Chamber of Commerce’s executive vice president.”"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [
+            1
+          ],
+          1,
+          "• "
+        ],
+        [
+          0,
+          [
+            10,
+            1
+          ],
+          2,
+          "Sen. Joe Manchin And His Wife Directed Millions To The Wildlife Area Surrounding Vacation Condo"
+        ],
+        [
+          0,
+          [
+            1
+          ],
+          1,
+          " "
+        ],
+        [
+          0,
+          [],
+          0,
+          "(The Intercept) — "
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "“But while Manchin has sabotaged federal efforts at combating climate change, he has used federal dollars to preserve his own corner of the world. Public records reviewed by "
+        ],
+        [
+          0,
+          [],
+          0,
+          "The Intercept"
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          " show that even after Manchin’s decades-long efforts to upend environmental policy that would undercut the fossil fuel companies funding his political campaigns (and the waste coal industry generating his personal fortune), he and his wife, Gayle Manchin, have directed millions of federal dollars to a small, pristine valley in West Virginia where the couple owns a condo.”"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [
+            1
+          ],
+          1,
+          "• "
+        ],
+        [
+          0,
+          [
+            11,
+            1
+          ],
+          2,
+          "David Segal, Populist Coalition Builder, Runs for Congress in Rhode Island"
+        ],
+        [
+          0,
+          [],
+          0,
+          " (The American Prospect) — "
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "“In several interviews over the past few months, Segal has told me about an unusually eclectic mix of priorities (for congressional candidates, anyway): constraining the runaway military budget; using international mechanisms like the IMF to fund poor and developing countries through special drawing rights; taking on concentration in agriculture, energy, and baby formula markets; responding to inflation through crackdowns on price gouging (like an excess profits tax, with the proceeds returned to the public); improving supply chain functionality; plus filibuster reform, climate policy, and much more.”"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [
+            1,
+            1
+          ],
+          1,
+          "• "
+        ],
+        [
+          0,
+          [
+            12,
+            1
+          ],
+          2,
+          "Going Beyond The Law"
+        ],
+        [
+          0,
+          [
+            1
+          ],
+          2,
+          " "
+        ],
+        [
+          0,
+          [],
+          0,
+          "(The Baffler) —"
+        ],
+        [
+          0,
+          [
+            1
+          ],
+          1,
+          " "
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "“Institutional actors’ utter failure to preempt or prevent "
+        ],
+        [
+          0,
+          [],
+          0,
+          "Roe"
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "’s demise is disappointing if not surprising; it’s also an opportunity. Their negligence makes it clearer than ever that relying on politicians and national reproductive rights organizations to save us has led nowhere. The mainstream pro-abortion movement should become more militant, not less. It’s time to look to — and support — those who have been preparing for this moment for years: pro-abortion feminists in Latin America and Europe, and the abortion underground in the United States.”"
+        ]
+      ]
+    ],
+    [
+      10,
+      7
+    ],
+    [
+      10,
+      8
+    ],
+    [
+      10,
+      9
+    ]
+  ],
+  "ghostVersion": "4.0"
+}

@@ -1,0 +1,466 @@
+{
+  "version": "0.3.1",
+  "atoms": [
+    [
+      "soft-return",
+      "",
+      {}
+    ],
+    [
+      "soft-return",
+      "",
+      {}
+    ],
+    [
+      "soft-return",
+      "",
+      {}
+    ]
+  ],
+  "cards": [
+    [
+      "hr",
+      {}
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "html",
+      {
+        "html": "<table id=\"production-numbers-table\">\n<tbody>\n\t<tr>\n\t\t<td>SS</td>\n\t\t<td>20,966</td>\n\t</tr>\n    <tr>\n\t\t<td>4-Dr. Wagon</td>\n\t\t<td>51,585</td>\n\t</tr>\n\t\t<td><b>Total Production</b></td>\n\t\t<td><b>72,551</b></td>\n\t</tr>\n</tbody>\n</table>"
+      }
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "html",
+      {
+        "html": "<table id=\"performance-specs-table\">\n<tbody>\n\t<tr>\n\t\t<th><b>Engine</b></th>\n\t\t<th><b>Size</b></td>\n\t\t<th><b>Carb.</b></td>\n\t\t<th><b>HP</b></td>\n\t\t<th><b>Torque</b></td>\n\t\t<th><b>0 to 60</b></td>\n\t\t<th><b>Quarter mile</b></td>\n\t</tr>\n\t<tr>\n\t\t<td>Hi-Thrift 194</td>\n\t\t<td>194ci</td>\n\t\t<td>1x1bbl</td>\n\t\t<td>120hp</td>\n\t\t<td>-</td>\n\t\t<td>-</td>\n\t\t<td>-</td>\n\t</tr>\n<tr>\n\t\t<td>Turbo-Thrift 230</td>\n\t\t<td>230ci</td>\n\t\t<td>-</td>\n\t\t<td>140hp</td>\n\t\t<td>-</td>\n\t\t<td>-</td>\n\t\t<td>-</td>\n\t</tr>\n<tr>\n\t\t<td>Turbo-Fire 283</td>\n\t\t<td>283ci</td>\n\t\t<td>-</td>\n\t\t<td>195hp</td>\n\t\t<td>-</td>\n\t\t<td>-</td>\n\t\t<td>-</td>\n\t</tr>\n<tr>\n\t\t<td>Turbo-Fire 327</td>\n\t\t<td>327ci</td>\n\t\t<td>-</td>\n\t\t<td>275hp</td>\n\t\t<td>-</td>\n\t\t<td>-</td>\n\t\t<td>-</td>\n\t</tr>\n<tr>\n\t\t<td>Turbo-Fire 327</td>\n\t\t<td>327ci</td>\n\t\t<td>-</td>\n\t\t<td>350hp</td>\n\t\t<td>-</td>\n\t\t<td>7.2 sec</td>\n\t\t<td>15.1 sec @ 93 mph</td>\n\t</tr>\n</tbody>\n</table>"
+      }
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "html",
+      {
+        "html": "<h4 id='colors-sub-heading'>Exterior</h4>\n<div class=\"colors-row\">\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #000000\"></div>\n        <div class=\"color-name\">Tuxedo Black</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #e1dcc9\"></div>\n        <div class=\"color-name\">Ermine White</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #5f7594\"></div>\n        <div class=\"color-name\">Mist Blue</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #1e2045\"></div>\n        <div class=\"color-name\">Danube Blue</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #788580\"></div>\n        <div class=\"color-name\">Willow Green</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #467aa7\"></div>\n        <div class=\"color-name\">Marina Blue</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #689097\"></div>\n        <div class=\"color-name\">Artesian Turquoise</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #243e4e\"></div>\n        <div class=\"color-name\">Tropic Turquoise</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #4a2429\"></div>\n        <div class=\"color-name\">Madeira Maroon</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #792723\"></div>\n        <div class=\"color-name\">Aztec Bronze</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #832422\"></div>\n        <div class=\"color-name\">Regal Red</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #927f60\"></div>\n        <div class=\"color-name\">SandalwoodTan</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #beb498\"></div>\n        <div class=\"color-name\">Cameo Beige</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #9ca09e\"></div>\n        <div class=\"color-name\">Chateau Slate</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #ede2aa\"></div>\n        <div class=\"color-name\">Lemonwood Yellow</div>\n    </div>\n</div>\n\n<h4 id='colors-sub-heading'>Interior</h4>\n<div class=\"colors-row\">\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #000000\"></div>\n        <div class=\"color-name\">Black</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #947d63\"></div>\n        <div class=\"color-name\">Med. Saddle</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #beb498\"></div>\n        <div class=\"color-name\">Lt. Fawn</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #223743\"></div>\n        <div class=\"color-name\">Med. Blue</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #689097\"></div>\n        <div class=\"color-name\">Med. Turquoise</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #832422\"></div>\n        <div class=\"color-name\">Med. Red</div>\n    </div>\n</div>\n"
+      }
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "gallery",
+      {
+        "images": [
+          {
+            "fileName": "1531_1966_Chevrolet_Chevy_II-01-12_low_res.jpg",
+            "row": 0,
+            "width": 790,
+            "height": 542,
+            "src": "__GHOST_URL__/content/images/2020/07/1531_1966_Chevrolet_Chevy_II-01-12_low_res.jpg"
+          },
+          {
+            "fileName": "1532_1966_Chevrolet_Chevy_II-01_low_res.jpg",
+            "row": 0,
+            "width": 744,
+            "height": 1024,
+            "src": "__GHOST_URL__/content/images/2020/07/1532_1966_Chevrolet_Chevy_II-01_low_res.jpg"
+          },
+          {
+            "fileName": "1533_1966_Chevrolet_Chevy_II-02-03_low_res.jpg",
+            "row": 0,
+            "width": 790,
+            "height": 543,
+            "src": "__GHOST_URL__/content/images/2020/07/1533_1966_Chevrolet_Chevy_II-02-03_low_res.jpg"
+          },
+          {
+            "fileName": "1534_1966_Chevrolet_Chevy_II-04-05_low_res.jpg",
+            "row": 1,
+            "width": 790,
+            "height": 544,
+            "src": "__GHOST_URL__/content/images/2020/07/1534_1966_Chevrolet_Chevy_II-04-05_low_res.jpg"
+          },
+          {
+            "fileName": "1535_1966_Chevrolet_Chevy_II-06_low_res.jpg",
+            "row": 1,
+            "width": 752,
+            "height": 1024,
+            "src": "__GHOST_URL__/content/images/2020/07/1535_1966_Chevrolet_Chevy_II-06_low_res.jpg"
+          },
+          {
+            "fileName": "1536_1966_Chevrolet_Chevy_II-07_low_res.jpg",
+            "row": 1,
+            "width": 732,
+            "height": 1024,
+            "src": "__GHOST_URL__/content/images/2020/07/1536_1966_Chevrolet_Chevy_II-07_low_res.jpg"
+          },
+          {
+            "fileName": "1537_1966_Chevrolet_Chevy_II-08_low_res.jpg",
+            "row": 2,
+            "width": 739,
+            "height": 1024,
+            "src": "__GHOST_URL__/content/images/2020/07/1537_1966_Chevrolet_Chevy_II-08_low_res.jpg"
+          },
+          {
+            "fileName": "1538_1966_Chevrolet_Chevy_II-09_low_res.jpg",
+            "row": 2,
+            "width": 736,
+            "height": 1024,
+            "src": "__GHOST_URL__/content/images/2020/07/1538_1966_Chevrolet_Chevy_II-09_low_res.jpg"
+          },
+          {
+            "fileName": "1539_1966_Chevrolet_Chevy_II-10-11_low_res.jpg",
+            "row": 2,
+            "width": 790,
+            "height": 549,
+            "src": "__GHOST_URL__/content/images/2020/07/1539_1966_Chevrolet_Chevy_II-10-11_low_res.jpg"
+          }
+        ],
+        "caption": "1966 Chevrolet Nova OEM Brochures"
+      }
+    ],
+    [
+      "hr",
+      {}
+    ]
+  ],
+  "markups": [
+    [
+      "em"
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/tag/research/"
+      ]
+    ]
+  ],
+  "sections": [
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Overview"
+        ]
+      ]
+    ],
+    [
+      10,
+      0
+    ],
+    [
+      1,
+      "h3",
+      [
+        [
+          0,
+          [],
+          0,
+          "The 1966 Nova introduced the second-generation with a sharp-edged restyle based in part on the Super Nova concept car."
+        ]
+      ]
+    ],
+    [
+      10,
+      1
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "The 1966 Nova introduced the second-generation with a sharp-edged restyle based in part on the Super Nova concept car. To sum it up, dimensions were squared up a bit, but features changed little."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "The SS was still available as a sport coupe, and was the top-of-the-line model. The 194ci was standard, but any engine could be optioned in (except the 4-cylinder). It was visually distinguished with wide rocker panels, and a bright aluminum deck lid cove."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Both versions of the optional 327ci saw a power increase to 275 and 350 hp."
+        ]
+      ]
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Production Numbers"
+        ]
+      ]
+    ],
+    [
+      10,
+      2
+    ],
+    [
+      10,
+      3
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Performance Specs"
+        ]
+      ]
+    ],
+    [
+      10,
+      4
+    ],
+    [
+      10,
+      5
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Transmission"
+        ]
+      ]
+    ],
+    [
+      10,
+      6
+    ],
+    [
+      3,
+      "ul",
+      [
+        [
+          [
+            0,
+            [],
+            0,
+            "Powerglide"
+          ]
+        ],
+        [
+          [
+            0,
+            [],
+            0,
+            "4-Speed Manual"
+          ]
+        ],
+        [
+          [
+            0,
+            [],
+            0,
+            "3-Speed (fully synch)"
+          ]
+        ]
+      ]
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Paint & Colors"
+        ]
+      ]
+    ],
+    [
+      10,
+      7
+    ],
+    [
+      10,
+      8
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          1,
+          [],
+          0,
+          0
+        ]
+      ]
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "OEM Brochures"
+        ]
+      ]
+    ],
+    [
+      10,
+      9
+    ],
+    [
+      10,
+      10
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "About the Knowledge Base"
+        ]
+      ]
+    ],
+    [
+      10,
+      11
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "The Motorious Knowledge Base provides a comprehensive vehicle overview for the 1966 Chevrolet Nova"
+        ],
+        [
+          0,
+          [
+            0,
+            0
+          ],
+          2,
+          " "
+        ],
+        [
+          0,
+          [],
+          0,
+          "including production numbers, performance specs, factory colors, and OEM brochures. Check out additional model years or related content linked to this article or view other Makes and Models in our "
+        ],
+        [
+          0,
+          [
+            1
+          ],
+          1,
+          "Research"
+        ],
+        [
+          0,
+          [],
+          0,
+          " center."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "If you have any interesting facts about the 1966 Chevrolet Nova"
+        ],
+        [
+          0,
+          [
+            0,
+            0
+          ],
+          2,
+          " "
+        ],
+        [
+          0,
+          [],
+          0,
+          "to add, want to tell us how we did covering the Nova, or want to tell us about yours, please leave a comment below."
+        ],
+        [
+          1,
+          [],
+          0,
+          1
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          1,
+          [],
+          0,
+          2
+        ]
+      ]
+    ]
+  ],
+  "ghostVersion": "3.0"
+}

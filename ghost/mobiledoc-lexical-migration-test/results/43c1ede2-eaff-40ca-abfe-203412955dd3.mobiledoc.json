@@ -1,0 +1,1444 @@
+{
+  "version": "0.3.1",
+  "atoms": [],
+  "cards": [
+    [
+      "email-cta",
+      {
+        "showButton": true,
+        "showDividers": false,
+        "segment": "status:-free",
+        "alignment": "center",
+        "html": "",
+        "buttonText": "Click Here To Comment",
+        "buttonUrl": "__GHOST_URL__/worker-protection-bill-blocked-before-tornado-disaster/#comments"
+      }
+    ],
+    [
+      "email-cta",
+      {
+        "showButton": true,
+        "showDividers": false,
+        "segment": "status:free",
+        "alignment": "center",
+        "html": "<p><strong><em>Please <a href=\"__GHOST_URL__/subscribe\">become a paid subscriber</a>. You get exclusive podcasts, <a href=\"__GHOST_URL__/citizens-guide-to-holding-the-powerful-accountable/\">digital publications</a>, and live events – and you support this journalism.</em></strong></p>",
+        "buttonText": "Subscribe ",
+        "buttonUrl": "__GHOST_URL__/subscribe/"
+      }
+    ],
+    [
+      "html",
+      {
+        "html": "<div class=\"fb-share-button\" data-href=\"https://www.dailyposter.com/worker-protection-bill-blocked-before-tornado-disaster/\" data-layout=\"button\" data-size=\"small\"><a target=\"_blank\" href=\"https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.dailyposter.com%2Fworker-protection-bill-blocked-before-tornado-disaster%2F&amp;src=sdkpreparse\" class=\"fb-xfbml-parse-ignore\"><strong><em>Click to share this on Facebook</em></strong></a></div>"
+      }
+    ],
+    [
+      "button",
+      {
+        "alignment": "center",
+        "buttonText": "Need A Holiday Gift? Give A Gift Subscription!",
+        "buttonUrl": "https://dailyposter.outpost.pub/gift_subscription#/"
+      }
+    ],
+    [
+      "embed",
+      {
+        "url": "https://twitter.com/MorePerfectUS/status/1470513075489054720",
+        "html": "<blockquote class=\"twitter-tweet\"><p lang=\"en\" dir=\"ltr\">Horrifying details are emerging about the tornado disaster at Amazon&#39;s warehouse in Illinois, where at least 6 workers were killed on the job.<br><br>Before he died, Larry Virden reportedly texted his girlfriend: &quot;Amazon won’t let us leave.&quot; He leaves behind four children. <a href=\"https://t.co/3ZRLik9VIs\">pic.twitter.com/3ZRLik9VIs</a></p>&mdash; More Perfect Union (@MorePerfectUS) <a href=\"https://twitter.com/MorePerfectUS/status/1470513075489054720?ref_src=twsrc%5Etfw\">December 13, 2021</a></blockquote>\n<script async src=\"https://platform.twitter.com/widgets.js\" charset=\"utf-8\"></script>\n",
+        "type": "twitter",
+        "metadata": {
+          "url": "https://twitter.com/MorePerfectUS/status/1470513075489054720",
+          "author_name": "More Perfect Union",
+          "author_url": "https://twitter.com/MorePerfectUS",
+          "width": 550,
+          "height": null,
+          "cache_age": "3153600000",
+          "provider_name": "Twitter",
+          "provider_url": "http://www.twitter.com/",
+          "version": "1.0",
+          "tweet_data": {
+            "reply_settings": "everyone",
+            "context_annotations": [
+              {
+                "domain": {
+                  "id": "45",
+                  "name": "Brand Vertical",
+                  "description": "Top level entities that describe a Brands industry"
+                },
+                "entity": {
+                  "id": "781974596706635776",
+                  "name": "Retail"
+                }
+              },
+              {
+                "domain": {
+                  "id": "46",
+                  "name": "Brand Category",
+                  "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+                },
+                "entity": {
+                  "id": "783335558466506752",
+                  "name": "Online"
+                }
+              },
+              {
+                "domain": {
+                  "id": "47",
+                  "name": "Brand",
+                  "description": "Brands and Companies"
+                },
+                "entity": {
+                  "id": "10026792024",
+                  "name": "Amazon"
+                }
+              }
+            ],
+            "public_metrics": {
+              "retweet_count": 15210,
+              "reply_count": 377,
+              "like_count": 38706,
+              "quote_count": 2424
+            },
+            "attachments": {
+              "media_keys": [
+                "3_1470512583966969856"
+              ]
+            },
+            "created_at": "2021-12-13T21:56:52.000Z",
+            "entities": {
+              "annotations": [
+                {
+                  "start": 62,
+                  "end": 67,
+                  "probability": 0.9316,
+                  "type": "Organization",
+                  "normalized_text": "Amazon"
+                },
+                {
+                  "start": 84,
+                  "end": 91,
+                  "probability": 0.9836,
+                  "type": "Place",
+                  "normalized_text": "Illinois"
+                },
+                {
+                  "start": 160,
+                  "end": 171,
+                  "probability": 0.9238,
+                  "type": "Person",
+                  "normalized_text": "Larry Virden"
+                },
+                {
+                  "start": 208,
+                  "end": 213,
+                  "probability": 0.8808,
+                  "type": "Organization",
+                  "normalized_text": "Amazon"
+                }
+              ],
+              "urls": [
+                {
+                  "start": 268,
+                  "end": 291,
+                  "url": "https://t.co/3ZRLik9VIs",
+                  "expanded_url": "https://twitter.com/MorePerfectUS/status/1470513075489054720/photo/1",
+                  "display_url": "pic.twitter.com/3ZRLik9VIs"
+                }
+              ]
+            },
+            "id": "1470513075489054720",
+            "conversation_id": "1470513075489054720",
+            "source": "Twitter Web App",
+            "author_id": "1321935792416149505",
+            "possibly_sensitive": false,
+            "lang": "en",
+            "text": "Horrifying details are emerging about the tornado disaster at Amazon's warehouse in Illinois, where at least 6 workers were killed on the job.\n\nBefore he died, Larry Virden reportedly texted his girlfriend: \"Amazon won’t let us leave.\" He leaves behind four children. https://t.co/3ZRLik9VIs",
+            "includes": {
+              "media": [
+                {
+                  "type": "photo",
+                  "media_key": "3_1470512583966969856",
+                  "height": 657,
+                  "width": 455,
+                  "url": "https://pbs.twimg.com/media/FGhPZ20X0AAgImK.png"
+                }
+              ],
+              "users": [
+                {
+                  "url": "https://t.co/qXeIEnlD1H",
+                  "profile_image_url": "https://pbs.twimg.com/profile_images/1356276091795734533/6fDJO-jl_normal.jpg",
+                  "entities": {
+                    "url": {
+                      "urls": [
+                        {
+                          "start": 0,
+                          "end": 23,
+                          "url": "https://t.co/qXeIEnlD1H",
+                          "expanded_url": "http://perfectunion.us",
+                          "display_url": "perfectunion.us"
+                        }
+                      ]
+                    }
+                  },
+                  "verified": true,
+                  "description": "Media that builds power for working people. \n\nSend us stories/pitches: stories@perfectunion.us \nVoicemail/text: 202-505-4556\nWork with us: jobs@perfectunion.us",
+                  "protected": false,
+                  "pinned_tweet_id": "1468714351469252619",
+                  "id": "1321935792416149505",
+                  "public_metrics": {
+                    "followers_count": 73434,
+                    "following_count": 1081,
+                    "tweet_count": 2996,
+                    "listed_count": 418
+                  },
+                  "username": "MorePerfectUS",
+                  "created_at": "2020-10-29T22:04:04.000Z",
+                  "name": "More Perfect Union"
+                }
+              ]
+            }
+          }
+        }
+      }
+    ],
+    [
+      "button",
+      {
+        "alignment": "center",
+        "buttonText": "Tip Jar",
+        "buttonUrl": "https://dailyposter.outpost.pub/public/donate#/donate"
+      }
+    ],
+    [
+      "button",
+      {
+        "alignment": "center",
+        "buttonText": "Need A Holiday Gift? Give A Gift Subscription!",
+        "buttonUrl": "https://dailyposter.outpost.pub/gift_subscription#/"
+      }
+    ],
+    [
+      "email-cta",
+      {
+        "showButton": true,
+        "showDividers": false,
+        "segment": "status:-free",
+        "alignment": "center",
+        "html": "",
+        "buttonText": "Click Here To Comment",
+        "buttonUrl": "__GHOST_URL__/worker-protection-bill-blocked-before-tornado-disaster/#comments"
+      }
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "email-cta",
+      {
+        "showButton": true,
+        "showDividers": false,
+        "segment": "status:-free",
+        "alignment": "center",
+        "html": "",
+        "buttonText": "Tip Jar",
+        "buttonUrl": "https://dailyposter.outpost.pub/ghost-integration/60818189ad12f332071054b8/tips"
+      }
+    ],
+    [
+      "email-cta",
+      {
+        "showButton": true,
+        "showDividers": false,
+        "segment": "status:free",
+        "alignment": "center",
+        "html": "",
+        "buttonText": "Subscribe",
+        "buttonUrl": "__GHOST_URL__/subscribe/"
+      }
+    ],
+    [
+      "html",
+      {
+        "html": "<div class=\"outpost-pub-container\" data-btn-allmembers></div>"
+      }
+    ]
+  ],
+  "markups": [
+    [
+      "a",
+      [
+        "href",
+        "https://nypost.com/2021/12/12/amazon-worker-texted-girlfriend-he-wasnt-allowed-to-leave-warehouse/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.thedailybeast.com/larry-virden-tornado-victim-who-died-in-amazon-warehouse-wasnt-allowed-to-leave-girlfriend-says"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://twitter.com/MorePerfectUS/status/1470513075489054720?s=20"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.nbcnews.com/news/us-news/kentucky-tornado-factory-workers-threatened-firing-left-tornado-employ-rcna8581"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://theintercept.com/2021/12/13/amazon-illinois-tornado-safety-protocols/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.theguardian.com/us-news/2021/dec/13/kentucky-tornadoes-hopes-rise-that-candle-factory-death-toll-could-be-lower-than-feared"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.nytimes.com/2021/12/12/technology/amazon-tornado-edwardsville.html"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.engadget.com/amazon-tornado-edwardsville-illinois-deaths-climate-220437155.html"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.natlawreview.com/article/employment-will-comes-many-exceptions-kentucky"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.ilga.gov/legislation/BillStatus.asp?DocNum=3530&GAID=16&DocTypeID=HB&SessionID=110&GA=102"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.ilga.gov/legislation/BillStatus.asp?DocNum=2332&GAID=16&DocTypeID=SB&SessionID=110&GA=102"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://chicago.suntimes.com/business/2021/3/31/22360796/labor-allies-target-at-will-employment-rules-secure-jobs-act"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.nelp.org/publication/secure-jobs-safe-workplaces-stable-communities-ending-will-employment-illinois/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.ilga.gov/legislation/fulltext.asp?DocName=&SessionId=110&GA=102&DocTypeId=SB&DocNum=2332&GAID=16&LegID=&SpecSess=&Session="
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.ncsl.org/research/labor-and-employment/at-will-employment-overview.aspx"
+      ]
+    ],
+    [
+      "em"
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://ilchamber.org/Resources/c872df17-a3d1-4205-ba8e-84551d3dc59e/2021%20Key%20Bills.pdf"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.facebook.com/IL.Chamber.of.Commerce/posts/4594633787225951"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.chicagolandchamber.org/board-of-directors/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://s2.q4cdn.com/299287126/files/doc_downloads/2021/04/2020-Political-Engagement-Statement.pdf"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.ilga.gov/legislation/Witnessslip.asp?LegDocId=166094&DocNum=3530&DocTypeID=HB&LegID=&GAID=16&SessionID=110&GA=102&SpecSess=&Session=&WSType=OPP"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://d3n8a8pro7vhmx.cloudfront.net/raisethefloor/pages/1278/attachments/original/1617209168/Secure_Jobs__Safe_Workplaces__and_Stable_Communities.pdf?1617209168"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://lensa.com/amazon-seasonal-warehouse-team-member-edwardsville-il-jobs/edwardsville/jd/bfac2fe7639d21b12c1d1eb1807aef08"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.indeed.com/cmp/Integrity-Staffing-Solutions/reviews?fcountry=US&floc=Edwardsville%2C+IL"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://americanstaffing.net/members-directory/integrity-staffing-solutions-780111/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://twitter.com/davehclark/status/1469767353760202755"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://edition.cnn.com/videos/business/2021/12/11/michael-strahan-blue-origin-space-flight-nr-vpx.cnn"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.nytimes.com/2021/03/16/technology/amazon-unions-virginia.html"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://library.municode.com/fl/miami_-_dade_county/codes/code_of_ordinances?nodeId=PTIIICOOR_CH8BEMMA_S8B-11.1UNREAGEMDUEMDI"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.inquirer.com/news/just-cause-firing-bill-philadelphia-parking-lot-workers-seiu-32bj-20190516.html"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://prospect.org/labor/firing-workers-on-the-boss-whim-new-york-just-cause-law/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://s27147.pcdn.co/wp-content/uploads/Just-Cause-Job-Protections-2021.pdf"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.laborandemploymentlawcounsel.com/2021/03/an-end-to-at-will-employment-in-illinois-newly-introduced-legislation-seeks-to-do-just-that/'"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.whitehouse.gov/briefing-room/presidential-actions/2021/11/18/executive-order-on-nondisplacement-of-qualified-workers-under-service-contracts/"
+      ]
+    ],
+    [
+      "strong"
+    ]
+  ],
+  "sections": [
+    [
+      10,
+      0
+    ],
+    [
+      10,
+      1
+    ],
+    [
+      10,
+      2
+    ],
+    [
+      1,
+      "p",
+      []
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "In the months before "
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "workers"
+        ],
+        [
+          0,
+          [],
+          0,
+          " "
+        ],
+        [
+          0,
+          [
+            1
+          ],
+          1,
+          "were"
+        ],
+        [
+          0,
+          [],
+          0,
+          " reportedly "
+        ],
+        [
+          0,
+          [
+            2
+          ],
+          1,
+          "barred"
+        ],
+        [
+          0,
+          [],
+          0,
+          " from abandoning their job site or "
+        ],
+        [
+          0,
+          [
+            3
+          ],
+          1,
+          "threatened"
+        ],
+        [
+          0,
+          [],
+          0,
+          " with termination if they fled this weekend’s deadly tornadoes, corporate lobbying groups were fighting legislation to prohibit retribution against employees who seek to leave work out of fear for their safety. Amazon — which owns a warehouse where several workers were killed — and its staffing firm have links to corporate lobbying groups that have been opposing the legislation, which remains stalled."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "NBC News "
+        ],
+        [
+          0,
+          [
+            3
+          ],
+          1,
+          "reported Monday"
+        ],
+        [
+          0,
+          [],
+          0,
+          " that workers at a Kentucky candle factory were told by superiors that they could be fired if they fled their workplace as a powerful storm approached. In Illinois, one Amazon worker who died "
+        ],
+        [
+          0,
+          [
+            4
+          ],
+          1,
+          "reportedly texted"
+        ],
+        [
+          0,
+          [],
+          0,
+          " his girlfriend beforehand: “Amazon won’t let us leave.”"
+        ]
+      ]
+    ],
+    [
+      10,
+      3
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [
+            5
+          ],
+          1,
+          "At least eight workers"
+        ],
+        [
+          0,
+          [],
+          0,
+          " were subsequently killed at the Mayfield Consumer Products candle factory in Kentucky, while "
+        ],
+        [
+          0,
+          [
+            6
+          ],
+          1,
+          "six workers"
+        ],
+        [
+          0,
+          [],
+          0,
+          " were killed in the Illinois disaster at Amazon, whose warehouses have been "
+        ],
+        [
+          0,
+          [
+            7
+          ],
+          1,
+          "plagued by deadly cataclysms"
+        ],
+        [
+          0,
+          [],
+          0,
+          " and allegations of hazardous conditions."
+        ]
+      ]
+    ],
+    [
+      10,
+      4
+    ],
+    [
+      1,
+      "h3",
+      [
+        [
+          0,
+          [],
+          0,
+          "“The Urgent Need For Protection Against Unfair Firings”"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "As in most other states, corporate interests have preserved “at will” employment laws in both "
+        ],
+        [
+          0,
+          [
+            8
+          ],
+          1,
+          "Kentucky"
+        ],
+        [
+          0,
+          [],
+          0,
+          " and Illinois that allow employers to fire workers for no cause. But earlier this year, "
+        ],
+        [
+          0,
+          [
+            9
+          ],
+          1,
+          "Illinois"
+        ],
+        [
+          0,
+          [],
+          0,
+          " "
+        ],
+        [
+          0,
+          [
+            10
+          ],
+          1,
+          "lawmakers"
+        ],
+        [
+          0,
+          [],
+          0,
+          " introduced "
+        ],
+        [
+          0,
+          [
+            11
+          ],
+          1,
+          "legislation"
+        ],
+        [
+          0,
+          [],
+          0,
+          " to "
+        ],
+        [
+          0,
+          [
+            12
+          ],
+          1,
+          "protect workers"
+        ],
+        [
+          0,
+          [],
+          0,
+          " from such firings unless an employer had “just cause” for a termination."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "The Illinois "
+        ],
+        [
+          0,
+          [
+            13
+          ],
+          1,
+          "bill"
+        ],
+        [
+          0,
+          [],
+          0,
+          ", called the ​​Illinois Employee Security Act, explicitly states that a “just cause” for firing does not include “an employee's refusal to work under conditions that the employee reasonably believes would expose him or her, other employees, or the public to an unreasonable health or safety risk.”"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "The legislation, which has 15 sponsors, would join Illinois with "
+        ],
+        [
+          0,
+          [
+            14
+          ],
+          1,
+          "Montana"
+        ],
+        [
+          0,
+          [],
+          0,
+          " as the only two states with a “just cause” law. However, the bill was criticized by the powerful "
+        ],
+        [
+          0,
+          [
+            11
+          ],
+          1,
+          "Chicagoland Chamber of Commerce"
+        ],
+        [
+          0,
+          [],
+          0,
+          ", according to the "
+        ],
+        [
+          0,
+          [
+            15
+          ],
+          1,
+          "Chicago Sun-Time"
+        ],
+        [
+          0,
+          [],
+          0,
+          "s, and it was formally opposed by the "
+        ],
+        [
+          0,
+          [
+            16
+          ],
+          1,
+          "Illinois Chamber of Commerce"
+        ],
+        [
+          0,
+          [],
+          0,
+          ". "
+        ],
+        [
+          0,
+          [
+            17
+          ],
+          1,
+          "Both"
+        ],
+        [
+          0,
+          [],
+          0,
+          " "
+        ],
+        [
+          0,
+          [
+            18
+          ],
+          1,
+          "organizations"
+        ],
+        [
+          0,
+          [],
+          0,
+          " list Amazon as a member."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Amazon also "
+        ],
+        [
+          0,
+          [
+            19
+          ],
+          1,
+          "disclosed"
+        ],
+        [
+          0,
+          [],
+          0,
+          " donating last year to the Illinois Retail Merchants Association, another organization "
+        ],
+        [
+          0,
+          [
+            20
+          ],
+          1,
+          "opposing"
+        ],
+        [
+          0,
+          [],
+          0,
+          " the measure, according to state records."
+        ]
+      ]
+    ],
+    [
+      10,
+      5
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Since being introduced in February, the bill has been bottled up in Illinois’ Democratic-controlled legislature, despite a "
+        ],
+        [
+          0,
+          [
+            21
+          ],
+          1,
+          "survey"
+        ],
+        [
+          0,
+          [],
+          0,
+          " from the National Employment Law Project (NELP) showing that a third of Illinois workers “say that fear of being fired or disciplined would prevent them from raising workplace health and safety concerns to their employer.”"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "The disaster “shows the urgent need for protection against unfair firings — like the [Illinois Employee Security Act], which is now under consideration in the state legislature,” said Paul Sonn, state policy program director for NELP. “Retaliation against workers who refuse to work under dangerous conditions is not just inhumane — it endangers all of us by silencing workers from sounding the alarm about dangers on the job.”"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Integrity Staffing Solutions, a temporary staffing firm which has "
+        ],
+        [
+          0,
+          [
+            22
+          ],
+          1,
+          "listed"
+        ],
+        [
+          0,
+          [],
+          0,
+          " "
+        ],
+        [
+          0,
+          [
+            23
+          ],
+          1,
+          "jobs"
+        ],
+        [
+          0,
+          [],
+          0,
+          " at the Edwardsville Amazon warehouse, is a "
+        ],
+        [
+          0,
+          [
+            24
+          ],
+          1,
+          "member"
+        ],
+        [
+          0,
+          [],
+          0,
+          " of the American Staffing Association, a group that’s "
+        ],
+        [
+          0,
+          [
+            20
+          ],
+          1,
+          "employed"
+        ],
+        [
+          0,
+          [],
+          0,
+          " dozens of lobbyists to fight the Illinois Employee Security Act, likely because the bill would also extend protections to temp workers."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "“Temporary labor is a vastly expanding sector in the workforce, and that has workers living day-to-day — even more precarious paycheck-to-paycheck — and limits access to basic workplace protections and rights,” said Kara Rodriguez of the Raise The Floor Alliance, which has been pushing the legislation. “In October, Amazon announced they will hire 150,000 temp workers to prepare for the seasonal boost in sales. The American Staffing Association was quick to oppose the [“just cause” legislation] because it includes temp workers under just cause protections.”"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "According to "
+        ],
+        [
+          0,
+          [
+            4
+          ],
+          0,
+          "reporting by "
+        ],
+        [
+          0,
+          [
+            15
+          ],
+          2,
+          "The Intercept"
+        ],
+        [
+          0,
+          [],
+          0,
+          ", some longtime Amazon workers say they've never been part of any kind of tornado safety or fire drill during their time working for the company."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "For Amazon’s part, Dave Clark, the CEO of the company’s retail business, "
+        ],
+        [
+          0,
+          [
+            25
+          ],
+          1,
+          "tweeted"
+        ],
+        [
+          0,
+          [],
+          0,
+          " on Saturday: “We’re deeply saddened by the news that members of our Amazon family passed away as a result of the storm in Edwardsville, Illinois. Our thoughts and prayers are with the victims, their loved ones, and everyone who has been impacted by the storm’s path across the U.S.”"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Meanwhile, Amazon founder Jeff Bezos "
+        ],
+        [
+          0,
+          [
+            26
+          ],
+          1,
+          "celebrated"
+        ],
+        [
+          0,
+          [],
+          0,
+          " sending a former professional football player into space."
+        ]
+      ]
+    ],
+    [
+      1,
+      "h3",
+      [
+        [
+          0,
+          [],
+          0,
+          "A National Campaign For Just Cause"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "The Illinois bill was part of a larger campaign by progressive groups to pass “just cause” legislation in states and cities throughout the country. Those standards are included in some employment and union contracts. However, they are not codified in most federal, state, or local laws, leaving most workers without such protections when "
+        ],
+        [
+          0,
+          [
+            27
+          ],
+          1,
+          "Amazon"
+        ],
+        [
+          0,
+          [],
+          0,
+          " and other companies fight off union drives."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "NELP has for years pressed federal, state and local lawmakers to change employment standards to require those protections — and the effort has notched recent victories."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "For instance, Miami-Dade County also "
+        ],
+        [
+          0,
+          [
+            28
+          ],
+          1,
+          "passed"
+        ],
+        [
+          0,
+          [],
+          0,
+          " an ordinance protecting workers from employer retaliation if they comply with evacuation orders during a hurricane. In 2019, the Philadelphia City Council "
+        ],
+        [
+          0,
+          [
+            29
+          ],
+          1,
+          "passed a bill"
+        ],
+        [
+          0,
+          [],
+          0,
+          " prohibiting employers from firing workers in the parking industry without cause. The following year, New York’s City Council "
+        ],
+        [
+          0,
+          [
+            30
+          ],
+          1,
+          "enacted a law"
+        ],
+        [
+          0,
+          [],
+          0,
+          " extending just cause protections to the city’s New York’s 67,000 fast-food workers."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Proponents of “just cause” legislation argue that “the lack of protection against unfair termination of workers stymies enforcement of workplace laws by chilling workers from blowing the whistle on employer violations of their rights — such as the right to a minimum wage, to a healthy and safe workplace, and to be free from discrimination and harassment,” as one NELP "
+        ],
+        [
+          0,
+          [
+            31
+          ],
+          1,
+          "report"
+        ],
+        [
+          0,
+          [],
+          0,
+          " put it."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "That argument has proven broadly popular: "
+        ],
+        [
+          0,
+          [
+            31
+          ],
+          1,
+          "NELP’s February poll"
+        ],
+        [
+          0,
+          [],
+          0,
+          " found “71 percent of voters in battleground congressional districts — including 67 percent of Republican voters — supported the adoption of just- cause laws.”"
+        ]
+      ]
+    ],
+    [
+      10,
+      6
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Business groups have opposed the legislation because they say it “imposes mandates on an employer’s discipline system and interferes with personnel management,” as the Illinois Chamber "
+        ],
+        [
+          0,
+          [
+            16
+          ],
+          1,
+          "wrote"
+        ],
+        [
+          0,
+          [],
+          0,
+          "."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "“Employers who feel strongly opposed to this bill may wish to consult with a lobbyist or their state legislative representative regarding their concerns,” the employment law firm Seyfarth Shaw LLP advised its Illinois clients in "
+        ],
+        [
+          0,
+          [
+            32
+          ],
+          1,
+          "March"
+        ],
+        [
+          0,
+          [],
+          0,
+          ". “Should this bill become law, Illinois employers need to be prepared to review and revise their termination practices.”"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "President Joe Biden has been under pressure to sign an executive order requiring federal contractors to extend such protections to their workers. In November, he signed an "
+        ],
+        [
+          0,
+          [
+            33
+          ],
+          1,
+          "order"
+        ],
+        [
+          0,
+          [],
+          0,
+          " with some limited language."
+        ]
+      ]
+    ],
+    [
+      10,
+      7
+    ],
+    [
+      10,
+      8
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [
+            15,
+            34
+          ],
+          2,
+          "This newsletter relies on readers pitching in to support our journalism. If you like this story, please support "
+        ],
+        [
+          0,
+          [
+            34
+          ],
+          1,
+          "The Daily Poster"
+        ],
+        [
+          0,
+          [
+            15,
+            34
+          ],
+          2,
+          "'s work."
+        ]
+      ]
+    ],
+    [
+      10,
+      9
+    ],
+    [
+      10,
+      10
+    ],
+    [
+      10,
+      11
+    ]
+  ],
+  "ghostVersion": "4.0"
+}

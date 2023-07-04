@@ -1,0 +1,474 @@
+{
+  "version": "0.3.1",
+  "atoms": [],
+  "cards": [
+    [
+      "hr",
+      {}
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "html",
+      {
+        "html": "<table id=\"production-numbers-table\">\n<tbody>\n\t<tr>\n\t\t<td>Fastback Coupe</td>\n\t\t<td>277,409</td>\n\t</tr>\n    \t<tr>\n\t\t<td>360 Fastback Coupe</td>\n\t\t<td>3,969</td>\n\t</tr>\n\t\t<td><b>Total Production</b></td>\n\t\t<td><b>281,378</b></td>\n\t</tr>\n</tbody>\n</table>"
+      }
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "html",
+      {
+        "html": "<table id=\"performance-specs-table\">\n<tbody>\n\t<tr>\n\t\t<th><b>Engine</b></th>\n\t\t<th><b>Size</b></td>\n\t\t<th><b>Carb.</b></td>\n\t\t<th><b>HP</b></td>\n\t\t<th><b>Torque</b></td>\n\t\t<th><b>0 to 60</b></td>\n\t\t<th><b>Quarter mile</b></td>\n\t</tr>\n\t<tr>\n\t\t<td>Slant 6</td>\n\t\t<td>198ci</td>\n\t\t<td>1x1bbl</td>\n\t\t<td>95 at 4400</td>\n\t\t<td>150 lb-ft at 1600</td>\n\t\t<td>-</td>\n\t\t<td>-</td>\n\t</tr>\n\t<tr>\n\t\t<td>Slant 6</td>\n\t\t<td>225ci</td>\n\t\t<td>1x1bbl</td>\n\t\t<td>105 at 4000</td>\n\t\t<td>185 lb-ft at 1600</td>\n\t\t<td>-</td>\n\t\t<td>-</td>\n\t</tr>\n\t<tr>\n\t\t<td>LA V8</td>\n\t\t<td>318ci</td>\n\t\t<td>1x2bbl</td>\n\t\t<td>150 at 4000</td>\n\t\t<td>265 lb-ft at 2000</td>\n\t\t<td>-</td>\n\t\t<td>-</td>\n\t</tr>\n\t<tr>\n\t\t<td>LA V8</td>\n\t\t<td>360ci</td>\n\t\t<td>1x4bbl</td>\n\t\t<td>245</td>\n\t\t<td>-</td>\n\t\t<td>6.6 sec</td>\n\t\t<td>15.2 sec at 88 mph</td>\n\t</tr>\n</tbody>\n</table>"
+      }
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "html",
+      {
+        "html": "<h4 id='colors-sub-heading'>Exterior</h4>\n<div class=\"colors-row\">\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #535c53\"></div>\n        <div class=\"color-name\">Powder Blue</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #a3cbfc\"></div>\n        <div class=\"color-name\">Lucerne Blue</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #1462ab\"></div>\n        <div class=\"color-name\">Rallye Red</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #193379\"></div>\n        <div class=\"color-name\">Burnished Red</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #c81114\"></div>\n        <div class=\"color-name\">Frosty Green</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #82b454\"></div>\n        <div class=\"color-name\">Deep Sherwood</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #466416\"></div>\n        <div class=\"color-name\">Avocado Gold</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #222d11\"></div>\n        <div class=\"color-name\">Sahara Beige</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #511801\"></div>\n        <div class=\"color-name\">Dark Moonstone</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #b8a873\"></div>\n        <div class=\"color-name\">Sienna</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #fed800\"></div>\n        <div class=\"color-name\">Spinnaker White</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #c8a65c\"></div>\n        <div class=\"color-name\">Formal Black</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #b25001\"></div>\n        <div class=\"color-name\">Golden Fawn</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #5f3d19\"></div>\n        <div class=\"color-name\">Yellow Blaze</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #f0f4ea\"></div>\n        <div class=\"color-name\">Golden Haze</div>\n    </div>\n</div>\n\n<h4 id='colors-sub-heading'>Interior</h4>\n<div class=\"colors-row\">\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #e8e1c7\"></div>\n        <div class=\"color-name\">White</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #5b453d\"></div>\n        <div class=\"color-name\">Dark Chestnut</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #354761\"></div>\n        <div class=\"color-name\">Dark Blue</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #3c514a\"></div>\n        <div class=\"color-name\">Dark Green</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #bcb196\"></div>\n        <div class=\"color-name\">Light Parchment</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #ad9966\"></div>\n        <div class=\"color-name\">Light Gold</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #353e35\"></div>\n        <div class=\"color-name\">Dark Green</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #000000\"></div>\n        <div class=\"color-name\">Black</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #766a5a\"></div>\n        <div class=\"color-name\">Dark Parchment</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #7a6746\"></div>\n        <div class=\"color-name\">Dark Gold</div>\n    </div>\n</div>\n"
+      }
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "gallery",
+      {
+        "images": [
+          {
+            "fileName": "2732_1_low_res.jpg",
+            "row": 0,
+            "width": 779,
+            "height": 992,
+            "src": "__GHOST_URL__/content/images/2020/08/2732_1_low_res.jpg"
+          },
+          {
+            "fileName": "2733_2_low_res.jpg",
+            "row": 0,
+            "width": 758,
+            "height": 992,
+            "src": "__GHOST_URL__/content/images/2020/08/2733_2_low_res.jpg"
+          },
+          {
+            "fileName": "2734_3_low_res.jpg",
+            "row": 0,
+            "width": 777,
+            "height": 992,
+            "src": "__GHOST_URL__/content/images/2020/08/2734_3_low_res.jpg"
+          },
+          {
+            "fileName": "2735_8_low_res.jpg",
+            "row": 1,
+            "width": 765,
+            "height": 992,
+            "src": "__GHOST_URL__/content/images/2020/08/2735_8_low_res.jpg"
+          },
+          {
+            "fileName": "2736_9_low_res.jpg",
+            "row": 1,
+            "width": 785,
+            "height": 992,
+            "src": "__GHOST_URL__/content/images/2020/08/2736_9_low_res.jpg"
+          },
+          {
+            "fileName": "2737_10_low_res.jpg",
+            "row": 1,
+            "width": 765,
+            "height": 992,
+            "src": "__GHOST_URL__/content/images/2020/08/2737_10_low_res.jpg"
+          },
+          {
+            "fileName": "2738_11_low_res.jpg",
+            "row": 2,
+            "width": 782,
+            "height": 992,
+            "src": "__GHOST_URL__/content/images/2020/08/2738_11_low_res.jpg"
+          },
+          {
+            "fileName": "2739_12_low_res.jpg",
+            "row": 2,
+            "width": 774,
+            "height": 992,
+            "src": "__GHOST_URL__/content/images/2020/08/2739_12_low_res.jpg"
+          },
+          {
+            "fileName": "2740_74dodu_low_res.jpg",
+            "row": 2,
+            "width": 400,
+            "height": 595,
+            "src": "__GHOST_URL__/content/images/2020/08/2740_74dodu_low_res.jpg"
+          }
+        ],
+        "caption": "1974 Plymouth Duster OEM Brochures"
+      }
+    ],
+    [
+      "hr",
+      {}
+    ]
+  ],
+  "markups": [
+    [
+      "strong"
+    ],
+    [
+      "em"
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/tag/research/"
+      ]
+    ]
+  ],
+  "sections": [
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Overview"
+        ]
+      ]
+    ],
+    [
+      10,
+      0
+    ],
+    [
+      1,
+      "h3",
+      [
+        [
+          0,
+          [],
+          0,
+          "For 1974, Plymouth replaced the 340 with a 360 cu in (5.9 L) version of the corporate LA-series V8, with lower performance due to U.S. government-imposed emissions regulations. The 1974 \"E58\" 360 engine produced 245 hp (183 kW)."
+        ]
+      ]
+    ],
+    [
+      10,
+      1
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "For 1974, Plymouth replaced the 340 with a 360 cu in (5.9 L) version of the corporate LA-series V8, with lower performance due to U.S. government-imposed emissions regulations. The 1974 \"E58\" 360 engine produced 245 hp (183 kW). New retractable front seat belts were added. In the midst of the first oil crisis, 1974 would be the Duster's best sales year, with a total of 281,378 Duster-bodied cars produced."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "In 1974 there was a separate model called the Duster 360. Standard equipment included the 360 engine, dual exhaust, power disc brakes, full side tape stripe, rear tape stripe, heavier suspension, shocks, added sway bar, and 8 1/4\" rear end. Duster 360 only options included Goodyear E70 biased ply raised white letter tires on rally wheels."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Per the original sales brochure, there was a special package called Gold Duster. In addition to all the Duster's features you got wall-to-wall carpeting, pleated, all-vinyl seats, white-walls, wheel covers, a deluxe insulation package and special exterior trim. To complete the package, there was also a canopy vinyl roof."
+        ]
+      ]
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Production Numbers"
+        ]
+      ]
+    ],
+    [
+      10,
+      2
+    ],
+    [
+      10,
+      3
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Performance Specs"
+        ]
+      ]
+    ],
+    [
+      10,
+      4
+    ],
+    [
+      10,
+      5
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Transmission"
+        ]
+      ]
+    ],
+    [
+      10,
+      6
+    ],
+    [
+      3,
+      "ul",
+      [
+        [
+          [
+            0,
+            [
+              0,
+              0
+            ],
+            1,
+            "3-speed "
+          ],
+          [
+            0,
+            [],
+            0,
+            "M"
+          ],
+          [
+            0,
+            [
+              0
+            ],
+            2,
+            "anual"
+          ]
+        ],
+        [
+          [
+            0,
+            [
+              0,
+              0
+            ],
+            1,
+            "4-speed "
+          ],
+          [
+            0,
+            [],
+            0,
+            "M"
+          ],
+          [
+            0,
+            [
+              0
+            ],
+            2,
+            "anual"
+          ]
+        ],
+        [
+          [
+            0,
+            [
+              0,
+              0
+            ],
+            1,
+            "3-speed TorqueFlite "
+          ],
+          [
+            0,
+            [],
+            0,
+            "A"
+          ],
+          [
+            0,
+            [
+              0
+            ],
+            2,
+            "uto"
+          ]
+        ]
+      ]
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Paint & Colors"
+        ]
+      ]
+    ],
+    [
+      10,
+      7
+    ],
+    [
+      10,
+      8
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "OEM Brochures"
+        ]
+      ]
+    ],
+    [
+      10,
+      9
+    ],
+    [
+      10,
+      10
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "About the Knowledge Base"
+        ]
+      ]
+    ],
+    [
+      10,
+      11
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "The Motorious Knowledge Base provides a comprehensive vehicle overview for the 1974 Plymouth Duster"
+        ],
+        [
+          0,
+          [
+            1,
+            1
+          ],
+          2,
+          " "
+        ],
+        [
+          0,
+          [],
+          0,
+          "including production numbers, performance specs, factory colors, and OEM brochures. Check out additional model years or related content linked to this article or view other Makes and Models in our "
+        ],
+        [
+          0,
+          [
+            2
+          ],
+          1,
+          "Research"
+        ],
+        [
+          0,
+          [],
+          0,
+          " center."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "If you have any interesting facts about the 1974 Plymouth Duster"
+        ],
+        [
+          0,
+          [
+            1,
+            1
+          ],
+          2,
+          " "
+        ],
+        [
+          0,
+          [],
+          0,
+          "to add, want to tell us how we did covering the Duster, or want to tell us about yours, please leave a comment below."
+        ]
+      ]
+    ]
+  ],
+  "ghostVersion": "3.0"
+}

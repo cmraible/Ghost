@@ -1,0 +1,426 @@
+{
+  "version": "0.3.1",
+  "atoms": [
+    [
+      "soft-return",
+      "",
+      {}
+    ]
+  ],
+  "cards": [
+    [
+      "hr",
+      {}
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "html",
+      {
+        "html": "<table id=\"production-numbers-table\">\n<tbody>\n\t<tr>\n\t\t<td>4-DR Wagon</td>\n\t\t<td>4,226</td>\n\t</tr>\n    \t<tr>\n\t\t<td>4-DR Wagon 3S</td>\n\t\t<td>4,669</td>\n\t</tr>\n    \t<tr>\n\t\t<td>Coupe</td>\n\t\t<td>4,195</td>\n\t</tr>\n    \t<tr>\n\t\t<td>Hardtop Coupe</td>\n\t\t<td>4,549</td>\n\t</tr>\n    \t<tr>\n\t\t<td>Convertible Coupe</td>\n\t\t<td>1,181</td>\n\t</tr>\n    \t<tr>\n\t\t<td>4-DR Sedan (44369)</td>\n\t\t<td>3,385</td>\n\t</tr>\n    \t<tr>\n\t\t<td>CUS WGN 4D</td>\n\t\t<td>8,300</td>\n\t</tr>\n    \t<tr>\n\t\t<td>CUS WGN 3S</td>\n\t\t<td>11,166</td>\n\t</tr>\n    \t<tr>\n\t\t<td>SDN 4D (44469)</td>\n\t\t<td>22,335</td>\n\t</tr>\n\t\t<td><b>Total Production</b></td>\n\t\t<td><b>64,006</b></td>\n\t</tr>\n</tbody>\n</table>"
+      }
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "html",
+      {
+        "html": "<table id=\"performance-specs-table\">\n<tbody>\n\t<tr>\n\t\t<th><b>Engine</b></th>\n\t\t<th><b>Size</b></td>\n\t\t<th><b>Carb.</b></td>\n\t\t<th><b>HP</b></td>\n\t\t<th><b>Torque</b></td>\n\t\t<th><b>0 to 60</b></td>\n\t\t<th><b>Quarter mile</b></td>\n\t</tr>\n\t<tr>\n\t\t<td>Fireball 225 V6</td>\n\t\t<td>225ci</td>\n\t\t<td>1x1bbl</td>\n\t\t<td>155</td>\n\t\t<td>225 lb-ft</td>\n\t\t<td>-</td>\n\t\t<td>-</td>\n\t</tr>\n\t<tr>\n\t\t<td>Wildcat 310</td>\n\t\t<td>300ci</td>\n\t\t<td>1x2bbl</td>\n\t\t<td>210</td>\n\t\t<td>310 lb-ft</td>\n\t\t<td>-</td>\n\t\t<td>-</td>\n\t</tr>\n\t<tr>\n\t\t<td>Wildcat 355</td>\n\t\t<td>300ci</td>\n\t\t<td>1x4bbl</td>\n\t\t<td>250</td>\n\t\t<td>335 lb-ft</td>\n\t\t<td>7.6 sec</td>\n\t\t<td>16.1 sec</td>\n\t</tr>\n</tbody>\n</table>"
+      }
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "html",
+      {
+        "html": "<h4 id='colors-sub-heading'>Exterior</h4>\n<div class=\"colors-row\">\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #000000\"></div>\n        <div class=\"color-name\">Regal Black</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #e3deca\"></div>\n        <div class=\"color-name\">Arctic White</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #5f7594\"></div>\n        <div class=\"color-name\">Astro Blue</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #788580\"></div>\n        <div class=\"color-name\">Seafoam Green</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #2f3e45\"></div>\n        <div class=\"color-name\">Verde Green</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #689097\"></div>\n        <div class=\"color-name\">Turquoise Mist</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #223743\"></div>\n        <div class=\"color-name\">Midnight Aqua</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #4a2429\"></div>\n        <div class=\"color-name\">Burgundy Mist</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #832422\"></div>\n        <div class=\"color-name\">Flame Red</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #947d63\"></div>\n        <div class=\"color-name\">Sahara Mist</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #9f9886\"></div>\n        <div class=\"color-name\">Champagne Mist</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #beb498\"></div>\n        <div class=\"color-name\">Shell Beige</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #fdeda5\"></div>\n        <div class=\"color-name\">Bamboo Cream</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #889097\"></div>\n        <div class=\"color-name\">Silver Cloud</div>\n    </div>\n</div>\n\n<h4 id='colors-sub-heading'>Interior</h4>\n<div class=\"colors-row\">\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #000000\"></div>\n        <div class=\"color-name\">Black</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #627389\"></div>\n        <div class=\"color-name\">Blue</div>\n    </div>    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #95816c\"></div>\n        <div class=\"color-name\">Fawn</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #1a470b\"></div>\n        <div class=\"color-name\">Green</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #8d2821\"></div>\n        <div class=\"color-name\">Red</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #cabda7\"></div>\n        <div class=\"color-name\">Saddle</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #689097\"></div>\n        <div class=\"color-name\">Aqua</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #889097\"></div>\n        <div class=\"color-name\">Silver</div>\n    </div>\n</div>"
+      }
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "gallery",
+      {
+        "images": [
+          {
+            "fileName": "2501_1_low_res.jpg",
+            "row": 0,
+            "width": 769,
+            "height": 1024,
+            "src": "__GHOST_URL__/content/images/2020/06/2501_1_low_res.jpg"
+          },
+          {
+            "fileName": "2502_2_low_res.jpg",
+            "row": 0,
+            "width": 774,
+            "height": 1024,
+            "src": "__GHOST_URL__/content/images/2020/06/2502_2_low_res.jpg"
+          },
+          {
+            "fileName": "2503_19_low_res.jpg",
+            "row": 0,
+            "width": 790,
+            "height": 526,
+            "src": "__GHOST_URL__/content/images/2020/06/2503_19_low_res.jpg"
+          },
+          {
+            "fileName": "2504_22_low_res.jpg",
+            "row": 1,
+            "width": 790,
+            "height": 525,
+            "src": "__GHOST_URL__/content/images/2020/06/2504_22_low_res.jpg"
+          },
+          {
+            "fileName": "2505_24_low_res.jpg",
+            "row": 1,
+            "width": 762,
+            "height": 1024,
+            "src": "__GHOST_URL__/content/images/2020/06/2505_24_low_res.jpg"
+          },
+          {
+            "fileName": "2506_x19_low_res.jpg",
+            "row": 1,
+            "width": 790,
+            "height": 516,
+            "src": "__GHOST_URL__/content/images/2020/06/2506_x19_low_res.jpg"
+          }
+        ],
+        "caption": "1965 Buick Skylark OEM Brochures"
+      }
+    ],
+    [
+      "hr",
+      {}
+    ]
+  ],
+  "markups": [
+    [
+      "strong"
+    ],
+    [
+      "em"
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/tag/research/"
+      ]
+    ]
+  ],
+  "sections": [
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Overview"
+        ]
+      ]
+    ],
+    [
+      10,
+      0
+    ],
+    [
+      1,
+      "h3",
+      [
+        [
+          0,
+          [],
+          0,
+          "The 1965 Skylark saw the introduction of the Gran Sport option, which eventually became its own model, the Buick GS. Meanwhile, the \"base\" Skylark continued with engines ranging up to the High Performance 300 cid V8."
+        ]
+      ]
+    ],
+    [
+      10,
+      1
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "The 1965 Skylark saw the introduction of the Gran Sport option, which eventually became its own model, the Buick GS. Meanwhile, the \"base\" Skylark continued with engines ranging up to the High Performance 300 cid V8."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "The Skylark in 1964-1965 were available in a pillar-less coupe (Hardtop) two-door version, as the Specials and Special Deluxes only came in pillared coupe versions. Beginning with the 1964 model year, a two-door sedan (pillared coupe) was added to the Skylark lineup. Inspired in no small part by the sales success of the 1964 Pontiac Tempest, LeMans, and GTO, the Gran Sport option became available in mid 1965 offered as a coupe, hardtop or convertible.[11] The Gran Sport featured Buick’s 401 cubic-inch-displacement V8 engine using a Carter 4-barrel carburetor that produced 325 hp (242 kW) at 4400 rpm[11] (it was listed as 400 cubic inches in sales literature, supposedly to escape a General Motors mandate that engines larger than 400 cubic inches should not be used in intermediate-sized cars). Other Gran Sport features were unique Gran Sport badging, a heavy-duty radiator, and dual exhaust."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Few changes distinguish 1965 models from a 1964, but one of the more obvious has to be the elimination of the body side molding and the revamping of the rear panel to a \"clear-across\" taillamp. Two other features should also be noted: the introduction of curved side glass in 1964, and the use of larger 14-inch wheels, rather than the 13-inch of the previous years."
+        ]
+      ]
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Production Numbers"
+        ]
+      ]
+    ],
+    [
+      10,
+      2
+    ],
+    [
+      10,
+      3
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Performance Specs"
+        ]
+      ]
+    ],
+    [
+      10,
+      4
+    ],
+    [
+      10,
+      5
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Transmission"
+        ]
+      ]
+    ],
+    [
+      10,
+      6
+    ],
+    [
+      3,
+      "ul",
+      [
+        [
+          [
+            0,
+            [
+              0,
+              0
+            ],
+            2,
+            "3-Speed"
+          ]
+        ],
+        [
+          [
+            0,
+            [
+              0,
+              0
+            ],
+            2,
+            "4-speed"
+          ]
+        ],
+        [
+          [
+            0,
+            [
+              0,
+              0
+            ],
+            2,
+            "2-speed auto"
+          ]
+        ]
+      ]
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Paint & Colors"
+        ]
+      ]
+    ],
+    [
+      10,
+      7
+    ],
+    [
+      10,
+      8
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "OEM Brochures"
+        ]
+      ]
+    ],
+    [
+      10,
+      9
+    ],
+    [
+      10,
+      10
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "About the Knowledge Base"
+        ]
+      ]
+    ],
+    [
+      10,
+      11
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "The Motorious Knowledge Base provides a comprehensive vehicle overview for the 1965 Buick Skylark"
+        ],
+        [
+          0,
+          [
+            1
+          ],
+          1,
+          " "
+        ],
+        [
+          0,
+          [],
+          0,
+          "including production numbers, performance specs, factory colors, and OEM brochures. Check out additional model years or related content linked to this article or view other Makes and Models in our "
+        ],
+        [
+          0,
+          [
+            2
+          ],
+          1,
+          "Research"
+        ],
+        [
+          0,
+          [],
+          0,
+          " center."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "If you have any interesting facts about the 1965 Buick Skylark"
+        ],
+        [
+          0,
+          [
+            1
+          ],
+          1,
+          " "
+        ],
+        [
+          0,
+          [],
+          0,
+          "to add, want to tell us how we did covering the Skylark, or want to tell us about yours, please leave a comment below."
+        ],
+        [
+          1,
+          [],
+          0,
+          0
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      []
+    ]
+  ],
+  "ghostVersion": "3.0"
+}

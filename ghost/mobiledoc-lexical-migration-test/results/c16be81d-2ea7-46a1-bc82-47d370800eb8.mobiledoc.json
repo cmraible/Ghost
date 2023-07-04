@@ -1,0 +1,444 @@
+{
+  "version": "0.3.1",
+  "atoms": [
+    [
+      "soft-return",
+      "",
+      {}
+    ]
+  ],
+  "cards": [
+    [
+      "hr",
+      {}
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "html",
+      {
+        "html": "<table id=\"production-numbers-table\">\n<tbody>\n\t<tr>\n\t\t<td>GT 350</td>\n\t\t<td>1,368</td>\n\t</tr>\n    <tr>\n\t\t<td>GT 350H</td>\n\t\t<td>1,001</td>\n\t</tr>\n    <tr>\n\t\t<td>GT 350 Drag Cars</td>\n\t\t<td>4</td>\n\t</tr>\n    <tr>\n\t\t<td>GT 350 Convertible</td>\n\t\t<td>4</td>\n\t</tr>\n\t\t<td><b>Total Production</b></td>\n\t\t<td><b>2,377</b></td>\n\t</tr>\n</tbody>\n</table>"
+      }
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "html",
+      {
+        "html": "<table id=\"performance-specs-table\">\n<tbody>\n\t<tr>\n\t\t<th><b>Engine</b></th>\n\t\t<th><b>Size</b></td>\n\t\t<th><b>Carb.</b></td>\n\t\t<th><b>HP</b></td>\n\t\t<th><b>Torque</b></td>\n\t\t<th><b>0 to 60</b></td>\n\t\t<th><b>Quarter mile</b></td>\n\t</tr>\n\t<tr>\n\t\t<td>289ci V8</td>\n\t\t<td>289ci</td>\n\t\t<td>1x4bbl</td>\n\t\t<td>306 at 6000 rpm</td>\n\t\t<td>329 lb-ft at 4200</td>\n\t\t<td>5.7 sec</td>\n\t\t<td>14.5 sec at 98 mph</td>\n\t</tr>\n</tbody>\n</table>"
+      }
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "html",
+      {
+        "html": "<h4 id='colors-sub-heading'>Exterior</h4>\n<div class=\"colors-row\">\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #ffffe8\"></div>\n        <div class=\"color-name\">Wimbledon White</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #236695\"></div>\n        <div class=\"color-name\">Saphire Blue</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #000000\"></div>\n        <div class=\"color-name\">Raven Black</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #9d1915\"></div>\n        <div class=\"color-name\">Candy Apple Red</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #003300\"></div>\n        <div class=\"color-name\">Ivy Green</div>\n    </div>\n</div>\n\n<h4 id='colors-sub-heading'>Interior</h4>\n<div class=\"colors-row\">\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #000000\"></div>\n        <div class=\"color-name\">Black</div>\n    </div>\n</div>"
+      }
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "gallery",
+      {
+        "images": [
+          {
+            "fileName": "1158_1966_Mustang_Shelby_GT_350-01_low_res.jpg",
+            "row": 0,
+            "width": 790,
+            "height": 628,
+            "src": "__GHOST_URL__/content/images/2020/06/1158_1966_Mustang_Shelby_GT_350-01_low_res.jpg"
+          },
+          {
+            "fileName": "1159_1966_Mustang_Shelby_GT_350-02-03_low_res.jpg",
+            "row": 0,
+            "width": 790,
+            "height": 308,
+            "src": "__GHOST_URL__/content/images/2020/06/1159_1966_Mustang_Shelby_GT_350-02-03_low_res.jpg"
+          },
+          {
+            "fileName": "1160_1966_Mustang_Shelby_GT_350-04-05_low_res.jpg",
+            "row": 0,
+            "width": 790,
+            "height": 308,
+            "src": "__GHOST_URL__/content/images/2020/06/1160_1966_Mustang_Shelby_GT_350-04-05_low_res.jpg"
+          },
+          {
+            "fileName": "1164_1966_00134_01_low_res.jpg",
+            "row": 1,
+            "width": 415,
+            "height": 1024,
+            "src": "__GHOST_URL__/content/images/2020/06/1164_1966_00134_01_low_res.jpg"
+          },
+          {
+            "fileName": "1165_1966_00134_02_low_res.jpg",
+            "row": 1,
+            "width": 790,
+            "height": 898,
+            "src": "__GHOST_URL__/content/images/2020/06/1165_1966_00134_02_low_res.jpg"
+          },
+          {
+            "fileName": "1166_1966_00134_03_low_res.jpg",
+            "row": 1,
+            "width": 790,
+            "height": 922,
+            "src": "__GHOST_URL__/content/images/2020/06/1166_1966_00134_03_low_res.jpg"
+          },
+          {
+            "fileName": "1167_1966_00134_04_low_res.jpg",
+            "row": 2,
+            "width": 790,
+            "height": 954,
+            "src": "__GHOST_URL__/content/images/2020/06/1167_1966_00134_04_low_res.jpg"
+          },
+          {
+            "fileName": "1168_1966_00134_05_low_res.jpg",
+            "row": 2,
+            "width": 404,
+            "height": 1024,
+            "src": "__GHOST_URL__/content/images/2020/06/1168_1966_00134_05_low_res.jpg"
+          },
+          {
+            "fileName": "1157_1966_Mustang_Shelby_GT_350_Spec_Sheet-01_low_res.jpg",
+            "row": 2,
+            "width": 565,
+            "height": 720,
+            "src": "__GHOST_URL__/content/images/2020/06/1157_1966_Mustang_Shelby_GT_350_Spec_Sheet-01_low_res.jpg"
+          }
+        ],
+        "caption": "1966 Shelby Mustang OEM Brochures"
+      }
+    ],
+    [
+      "hr",
+      {}
+    ]
+  ],
+  "markups": [
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/tag/research/"
+      ]
+    ]
+  ],
+  "sections": [
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Overview"
+        ]
+      ]
+    ],
+    [
+      10,
+      0
+    ],
+    [
+      1,
+      "h3",
+      [
+        [
+          0,
+          [],
+          0,
+          "Hertz exclusively owned 1,000 GT 350Hs and they came with gold stripes, except for early white Hertz cars which were produced with blue stripes. They came standard with chrome Magnum 500 wheels and the majority of them had the auto transmission."
+        ]
+      ]
+    ],
+    [
+      10,
+      1
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Functional rear quarter-panel scoops were added to the '66 Shelby, and the stock Mustang air extractor louvers were now replaced with windows."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Hertz exclusively owned 1,000 GT 350Hs and they came with gold stripes, except for early white Hertz cars which were produced with blue stripes. They came standard with chrome Magnum 500 wheels and the majority of them had the auto transmission."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Only some of the '66 Shelbys came with completely steel hoods instead of the previous year's fiberglass/steel support hoods. The stock Mustang gas cap from '65 was replaced with a GT 350 cap."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Rear exiting exhaust systems were now employed replacing the side-exit exhausts from '65. The cars produced with the 3-speed auto came with a Ford 600 cfm carb, replacing the Holley 715."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Added to the options list were Koni shocks, Detroit Locker diff, as well as wood-rimmed steering wheel. More wheels were also available. Standard wheels on the later cars were silver painted 14in Magnum 500s, but the Hertz cars came with chrome versions."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Only six convertibles were produced, but none were offered to the public. All came with auto transmissions and air conditioning. The side scoops, however, were not functional."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "In April of '66, the Paxton supercharger was listed as an option."
+        ],
+        [
+          1,
+          [],
+          0,
+          0
+        ]
+      ]
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Production Numbers"
+        ]
+      ]
+    ],
+    [
+      10,
+      2
+    ],
+    [
+      10,
+      3
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Performance Specs"
+        ]
+      ]
+    ],
+    [
+      10,
+      4
+    ],
+    [
+      10,
+      5
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Transmission"
+        ]
+      ]
+    ],
+    [
+      10,
+      6
+    ],
+    [
+      3,
+      "ul",
+      [
+        [
+          [
+            0,
+            [],
+            0,
+            "4-Speed Manual"
+          ]
+        ],
+        [
+          [
+            0,
+            [],
+            0,
+            "3-Speed Automatic (H)"
+          ]
+        ]
+      ]
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Paint & Colors"
+        ]
+      ]
+    ],
+    [
+      10,
+      7
+    ],
+    [
+      10,
+      8
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "OEM Brochures"
+        ]
+      ]
+    ],
+    [
+      10,
+      9
+    ],
+    [
+      10,
+      10
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "About the Knowledge Base"
+        ]
+      ]
+    ],
+    [
+      10,
+      11
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "The Motorious Knowledge Base provides a comprehensive vehicle overview for the 1966 Shelby Mustang including production numbers, performance specs, factory colors, and OEM brochures. Check out additional model years or related content linked to this article or view other Makes and Models in our "
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "Research"
+        ],
+        [
+          0,
+          [],
+          0,
+          " center."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "If you have any interesting facts about the 1966 Shelby Mustang to add, want to tell us how we did covering the Shelby Mustang, or want to tell us about yours, please leave a comment below."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      []
+    ]
+  ],
+  "ghostVersion": "3.0"
+}

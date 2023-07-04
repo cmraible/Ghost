@@ -1,0 +1,182 @@
+{
+  "version": "0.3.1",
+  "atoms": [],
+  "cards": [
+    [
+      "email-cta",
+      {
+        "showButton": true,
+        "showDividers": false,
+        "segment": "status:free",
+        "alignment": "center",
+        "html": "<p><strong><em>Please <a href=\"__GHOST_URL__/subscribe\">become a paid subscriber</a>. You get exclusive podcasts, <a href=\"__GHOST_URL__/citizens-guide-to-holding-the-powerful-accountable/\">digital publications</a>, and live events – and you support this journalism.</em></strong></p>",
+        "buttonText": "Click Here To Subscribe",
+        "buttonUrl": "__GHOST_URL__/subscribe"
+      }
+    ],
+    [
+      "email-cta",
+      {
+        "showButton": true,
+        "showDividers": false,
+        "segment": "status:free",
+        "alignment": "center",
+        "html": "<p><em><strong>This is a short excerpt of </strong></em><strong>The Daily Poster</strong><em><strong>’s Weekend Reading List, which is <a href=\"__GHOST_URL__/weekend-reader-fixing-the-supply-chain-debacle\">available to supporting subscribers here</a>. You can </strong></em><a href=\"__GHOST_URL__/subscribe\"><em><strong>click here</strong></em></a><em><strong> to become a </strong></em><strong>Daily Poster</strong><em><strong> supporting subscriber for $8 a month or $70 a year. When you subscribe, you are helping us do this reporting and hire more journalists.</strong></em></p>",
+        "buttonText": "Click Here To Subscribe",
+        "buttonUrl": "__GHOST_URL__/subscribe"
+      }
+    ]
+  ],
+  "markups": [
+    [
+      "em"
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/weekend-reader-fixing-the-supply-chain-debacle"
+      ]
+    ],
+    [
+      "strong"
+    ]
+  ],
+  "sections": [
+    [
+      10,
+      0
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "The supply-chain crisis likely isn’t going away anytime soon. Even as the Omicron surge subsides, easing labor shortages and lockdowns, the policy and logistical flaws that led to transportation bottlenecks, supply shortages, and rising shipping costs will likely cause more problems in the future — especially as global warming-fueled natural disasters wreak ever more havoc around the world. As we note in this edition of Weekend Reader, "
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "The American Prospect"
+        ],
+        [
+          0,
+          [],
+          0,
+          " just released a special issue devoted to the crisis, and we can work together to solve it."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Read all about it in "
+        ],
+        [
+          0,
+          [
+            1
+          ],
+          1,
+          "this edition of Weekend Reader"
+        ],
+        [
+          0,
+          [],
+          0,
+          ", exclusively for paying subscribers."
+        ]
+      ]
+    ],
+    [
+      1,
+      "h3",
+      [
+        [
+          0,
+          [
+            2
+          ],
+          0,
+          "Also In "
+        ],
+        [
+          0,
+          [
+            1
+          ],
+          1,
+          "Today’s Weekend Reader"
+        ],
+        [
+          0,
+          [],
+          1,
+          ":"
+        ]
+      ]
+    ],
+    [
+      3,
+      "ul",
+      [
+        [
+          [
+            0,
+            [],
+            0,
+            "Taking to the road to explore the country’s truck driver shortage."
+          ]
+        ],
+        [
+          [
+            0,
+            [],
+            0,
+            "Biden’s abominable decision on Afghanistan."
+          ]
+        ],
+        [
+          [
+            0,
+            [],
+            0,
+            "How private equity came to dominate the country’s multifamily apartment market."
+          ]
+        ],
+        [
+          [
+            0,
+            [],
+            0,
+            "The race to free a killer whale."
+          ]
+        ],
+        [
+          [
+            0,
+            [],
+            0,
+            "Searching for underwater relics of the slave trade."
+          ]
+        ]
+      ]
+    ],
+    [
+      10,
+      1
+    ]
+  ],
+  "ghostVersion": "4.0"
+}

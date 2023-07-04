@@ -1,0 +1,855 @@
+{
+  "version": "0.3.1",
+  "atoms": [],
+  "cards": [
+    [
+      "hr",
+      {}
+    ],
+    [
+      "image",
+      {
+        "src": "__GHOST_URL__/content/images/2020/09/chris-pratt.jpg",
+        "width": 740,
+        "height": 493,
+        "cardWidth": "wide",
+        "alt": "<img src=\"chrispratt.jpg\" alt=\"Chris Pratt and his Volkswagen Beetle\">"
+      }
+    ],
+    [
+      "image",
+      {
+        "src": "__GHOST_URL__/content/images/2020/09/jaguar-1.jpg",
+        "width": 740,
+        "height": 473,
+        "alt": "<img src=\"jaguar.jpg\" alt=\"Tom Hiddleston drives a Jaguar\">"
+      }
+    ],
+    [
+      "image",
+      {
+        "src": "__GHOST_URL__/content/images/2020/09/elizabetholsen.jpg",
+        "width": 740,
+        "height": 1110,
+        "cardWidth": "wide",
+        "alt": "<img src=\"elizabetholsen.jpg\" alt=\"Elizabeth Olsen drives a Toyota Prius\">"
+      }
+    ],
+    [
+      "image",
+      {
+        "src": "__GHOST_URL__/content/images/2020/09/volvo.jpg",
+        "width": 740,
+        "height": 555,
+        "cardWidth": "wide",
+        "alt": "<img src=\"volvo.jpg\" alt=\"Mark Ruffalo drives a Volvo wagon\">"
+      }
+    ],
+    [
+      "image",
+      {
+        "src": "__GHOST_URL__/content/images/2020/09/ma.jpg",
+        "width": 1024,
+        "height": 683,
+        "cardWidth": "wide",
+        "alt": "<img src=\"ma.jpg\" alt=\"Mark Ruffalo\">"
+      }
+    ],
+    [
+      "image",
+      {
+        "src": "__GHOST_URL__/content/images/2020/09/mackie.jpg",
+        "width": 740,
+        "height": 367,
+        "cardWidth": "wide",
+        "alt": "<img src=\"mackie.jpg\" alt=\"Anthony Mackie\">"
+      }
+    ],
+    [
+      "image",
+      {
+        "src": "__GHOST_URL__/content/images/2020/09/challenger.jpg",
+        "width": 740,
+        "height": 416,
+        "cardWidth": "wide",
+        "alt": "<img src=\"challenger.jpg\" alt=\"Dodge Challenger\">"
+      }
+    ],
+    [
+      "image",
+      {
+        "src": "__GHOST_URL__/content/images/2020/09/audi-1.jpg",
+        "width": 740,
+        "height": 468,
+        "cardWidth": "wide",
+        "alt": "<img src=\"audi.jpg\" alt=\"Chris Hemsworth Audi Q7\">"
+      }
+    ],
+    [
+      "image",
+      {
+        "src": "__GHOST_URL__/content/images/2020/09/boseman.jpg",
+        "width": 740,
+        "height": 427,
+        "cardWidth": "wide",
+        "alt": "<img src=\"boseman.jpg\" alt=\"Black Panther Chad Boseman drives a Lexus LC 500h\">"
+      }
+    ],
+    [
+      "image",
+      {
+        "src": "__GHOST_URL__/content/images/2020/09/scarlett.jpg",
+        "width": 740,
+        "height": 1110,
+        "alt": "<img src=\"scarlett.jpg\" alt=\"Scarlett Johansson cleans her Mercedes-Benz GLE 350\">",
+        "cardWidth": "wide"
+      }
+    ],
+    [
+      "image",
+      {
+        "src": "__GHOST_URL__/content/images/2020/09/evans.jpg",
+        "width": 740,
+        "height": 432,
+        "cardWidth": "wide",
+        "alt": "<img src=\"evans.jpg\" alt=\"Chris Evans 1967 Chevrolet Camaro\">"
+      }
+    ],
+    [
+      "image",
+      {
+        "src": "__GHOST_URL__/content/images/2020/09/ironman.jpg",
+        "width": 740,
+        "height": 733,
+        "cardWidth": "wide",
+        "alt": "<img src=\"ironman.jpg\" alt=\"Robert Downey, Jr., and his blue Ferrari California T\">"
+      }
+    ]
+  ],
+  "markups": [
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/articles/news/batmobile-history/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://digitalconcours.com/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/articles/handpicked/1955-vw-beetle-auction/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/articles/news/steve-coogan-jaguar-e-type/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/articles/handpicked/1992-winnebago-warrior-toyota/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://buy.motorious.com/articles/features/393933/volvo-amazon-custom-jeff-allen"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/p/e1e9c77b-beae-4c26-b0e6-e04d9b375fa1/motorious.com/articles/news/first-gen-tesla-roadsters/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/articles/news/baywatch-dodge-challenger/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/articles/news/1100-hp-audi-rs3-catches-fire/"
+      ]
+    ],
+    [
+      "strong"
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://buy.motorious.com/articles/news/393635/one-of-a-kind-2021-lexus-lc-500-vert-sells-for-2-million"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/articles/news/michael-jordans-mercedes-s600/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/articles/research/1967-chevrolet-camaro/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://buy.motorious.com/articles/news/300251/1967-chevrolet-camaro-ss-convertible"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/articles/news/robert-downey-jr-c2-corvette/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/articles/news/shaq-ferrari-f355-seized-for-sale/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/articles/news/hennessey-audi-r8-hpe900-exotic/"
+      ]
+    ]
+  ],
+  "sections": [
+    [
+      1,
+      "h3",
+      [
+        [
+          0,
+          [],
+          0,
+          "Raking in the dough from these comic book based-movies, some actors roll lavishly while others are incredibly modest."
+        ]
+      ]
+    ],
+    [
+      10,
+      0
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "The Marvel Cinematic Universe (MCU) has been releasing movies since 2008. Since then, the comic book-based movies have been ever-popular with the along with the actors/actresses. Onscreen, there have been some iconic Marvel vehicles some topped with superchargers that would give the "
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "Batmobile"
+        ],
+        [
+          0,
+          [],
+          0,
+          " a run for its money. So, what do the MCU stars "
+        ],
+        [
+          0,
+          [
+            1
+          ],
+          1,
+          "drive"
+        ],
+        [
+          0,
+          [],
+          0,
+          " when they're not on camera? "
+        ]
+      ]
+    ],
+    [
+      1,
+      "h3",
+      [
+        [
+          0,
+          [],
+          0,
+          "10. Chris Pratt - Volkswagen Beetle"
+        ]
+      ]
+    ],
+    [
+      10,
+      1
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Chris Pratt, who plays Peter Quill/Star-Lord in the movies, keeps it simple with a "
+        ],
+        [
+          0,
+          [
+            2
+          ],
+          1,
+          "Volkswagen Beetle"
+        ],
+        [
+          0,
+          [],
+          0,
+          ". Earlier this year, Pratt was seen washing the vintage Bug. "
+        ]
+      ]
+    ],
+    [
+      1,
+      "h3",
+      [
+        [
+          0,
+          [],
+          0,
+          "9. Tom Hiddleston - Jaguar F-Type"
+        ]
+      ]
+    ],
+    [
+      10,
+      2
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Hiddleston played the character Loki in the Marvel franchise. He purchased a Peugeot 106 1.1 after getting his big break in Hollywood and drove the car for years. The actor began making appearances in "
+        ],
+        [
+          0,
+          [
+            3
+          ],
+          1,
+          "Jaguar"
+        ],
+        [
+          0,
+          [],
+          0,
+          " commercials, so soon he upgraded to a Jaguar F-Type that he \"temporarily owns\". "
+        ]
+      ]
+    ],
+    [
+      1,
+      "h3",
+      [
+        [
+          0,
+          [],
+          0,
+          "8. Elizabeth Olsen - Toyota Prius"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Olsen, who plays Scarlet Witch/Wanda Maximoff in the Marvel films, likes to keep her carbon footprint minimal in a "
+        ],
+        [
+          0,
+          [
+            4,
+            4
+          ],
+          1,
+          "Toyot"
+        ],
+        [
+          0,
+          [],
+          1,
+          "a"
+        ],
+        [
+          0,
+          [],
+          0,
+          " Prius. While the car is very \"earth-friendly\", many would describe it as boring. Sorry, Elizabeth."
+        ]
+      ]
+    ],
+    [
+      10,
+      3
+    ],
+    [
+      1,
+      "h3",
+      [
+        [
+          0,
+          [],
+          0,
+          "7. Mark Ruffalo - Volvo Station Wagon"
+        ]
+      ]
+    ],
+    [
+      10,
+      4
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Ruffalo, also known as MCU's Bruce Banner, drives a "
+        ],
+        [
+          0,
+          [
+            5
+          ],
+          1,
+          "Volvo"
+        ],
+        [
+          0,
+          [],
+          0,
+          " station wagon as his daily driver. It's unclear whether this is a V60 or a V90. Although, Ruffalo did admit that he was number 6,345 on the list for a "
+        ],
+        [
+          0,
+          [
+            6
+          ],
+          1,
+          "Tesla Coupe S"
+        ],
+        [
+          0,
+          [],
+          0,
+          "."
+        ]
+      ]
+    ],
+    [
+      10,
+      5
+    ],
+    [
+      1,
+      "h3",
+      [
+        [
+          0,
+          [],
+          0,
+          "6. Anthony Mackie - Dodge Challenger"
+        ]
+      ]
+    ],
+    [
+      10,
+      6
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Mackie, the actor behind Falcon, drives a 2010 "
+        ],
+        [
+          0,
+          [
+            7
+          ],
+          1,
+          "Dodge Challenger"
+        ],
+        [
+          0,
+          [],
+          0,
+          ". Unfortunately, he was arrested after driving this same car in 2013 after he appeared to be driving intoxicated. "
+        ]
+      ]
+    ],
+    [
+      10,
+      7
+    ],
+    [
+      1,
+      "h3",
+      [
+        [
+          0,
+          [],
+          0,
+          "5. Chris Hemsworth - Audi Q7"
+        ]
+      ]
+    ],
+    [
+      10,
+      8
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Chris Hemsworth plays the one-and-only Thor. A family man, him and wife Elsa Pataky own an "
+        ],
+        [
+          0,
+          [
+            8
+          ],
+          1,
+          "Audi"
+        ],
+        [
+          0,
+          [],
+          0,
+          " Q7. This also makes sense because Hemsworth is a brand ambassador for Audi Australia."
+        ]
+      ]
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [
+            9
+          ],
+          0,
+          "4. "
+        ],
+        [
+          0,
+          [
+            9
+          ],
+          1,
+          "Chadwick Boseman"
+        ],
+        [
+          0,
+          [],
+          0,
+          " -"
+        ],
+        [
+          0,
+          [
+            9
+          ],
+          2,
+          " Lexus LC 500h"
+        ]
+      ]
+    ],
+    [
+      10,
+      9
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Chadwick Boseman's stardom began when he was cast as the Black Panther in the MCU film. When he received his first paycheck, he purchased a "
+        ],
+        [
+          0,
+          [
+            10
+          ],
+          1,
+          "Lexus LC 500h "
+        ],
+        [
+          0,
+          [],
+          0,
+          "that reportedly cost about $150,000."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Sadly, Boseman passed away just recently after a silent four-year battle with cancer. "
+        ]
+      ]
+    ],
+    [
+      1,
+      "h3",
+      [
+        [
+          0,
+          [],
+          0,
+          "3. Scarlett Johansson - Mercedes-Benz GLE 350"
+        ]
+      ]
+    ],
+    [
+      10,
+      10
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Scarlett Johansson also keeps it practical considering she is a parent. Her daily driver is a "
+        ],
+        [
+          0,
+          [
+            11
+          ],
+          1,
+          "Mercedes-Benz"
+        ],
+        [
+          0,
+          [],
+          0,
+          " GLE 350. Back in June, she was spotted in The Hamptons cleaning the vehicle. The new 2020 GLE 350 starts out at $54,250 and is powered by a 2.0-liter four-cylinder with an output of 255-horsepower and 273 lb/ft of torque."
+        ]
+      ]
+    ],
+    [
+      1,
+      "h3",
+      [
+        [
+          0,
+          [],
+          0,
+          "2. Chris Evans - 1967 Chevy Camaro"
+        ]
+      ]
+    ],
+    [
+      10,
+      11
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Chris Evans, who plays Captain America, has worked closely with Robert Downey Jr., who plays Iron Man, and the two have developed a close friendship. Robert Downey Jr. gifted Evans this "
+        ],
+        [
+          0,
+          [
+            12
+          ],
+          1,
+          "'67 Chevy Camaro"
+        ],
+        [
+          0,
+          [],
+          0,
+          " said to be worth about $275,000, and it features the iconic shield of Captain America on the steering wheel. Even better, the "
+        ],
+        [
+          0,
+          [
+            13
+          ],
+          1,
+          "Camaro"
+        ],
+        [
+          0,
+          [],
+          0,
+          " was also modified by SpeedKore, a carbon fiber company."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "According to an Edmunds spokesperson, the cost of the wheels, suspension, engine, seats, supercharger, and gauges by themselves would total about $33,000."
+        ]
+      ]
+    ],
+    [
+      1,
+      "h3",
+      [
+        [
+          0,
+          [],
+          0,
+          "Robert Downey, Jr. - Ferrari California T"
+        ]
+      ]
+    ],
+    [
+      10,
+      12
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [
+            14
+          ],
+          1,
+          "Robert Downey, Jr."
+        ],
+        [
+          0,
+          [],
+          0,
+          ", or Iron Man, has an extensive car collection. Within, he owns a blue "
+        ],
+        [
+          0,
+          [
+            15
+          ],
+          1,
+          "Ferrari"
+        ],
+        [
+          0,
+          [],
+          0,
+          " California T that is a two-door convertible powered by a twin-turbocharged 3.8-liter engine good for 553-brake-horsepower."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Downey admitted that its way more fun than Tony Stark's "
+        ],
+        [
+          0,
+          [
+            16
+          ],
+          1,
+          "Audi R8"
+        ],
+        [
+          0,
+          [],
+          0,
+          " in the movie. We just recently wrote about the SpeedKore-modified 1970 BMW 3.0 CS built for Robert Downey, Jr."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      []
+    ]
+  ],
+  "ghostVersion": "3.0"
+}

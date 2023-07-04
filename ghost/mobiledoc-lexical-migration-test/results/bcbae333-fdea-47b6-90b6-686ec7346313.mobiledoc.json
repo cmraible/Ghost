@@ -1,0 +1,401 @@
+{
+  "version": "0.3.1",
+  "atoms": [],
+  "cards": [
+    [
+      "hr",
+      {}
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "html",
+      {
+        "html": "<table id=\"production-numbers-table\">\n<tbody>\n\t<tr>\n\t\t<td>Coupe DeVille</td>\n\t\t<td>21,924</td>\n\t</tr>\n    \t<tr>\n\t\t<td>Sedan DeVille 6-Window</td>\n\t\t<td>19,158</td>\n\t</tr>\n    \t<tr>\n\t\t<td>Sedan DeVille 4-Window</td>\n\t\t<td>12,308</td>\n\t</tr>\n\t\t<td><b>Total Production</b></td>\n\t\t<td><b>53,390</b></td>\n\t</tr>\n</tbody>\n</table>"
+      }
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "html",
+      {
+        "html": "<table id=\"performance-specs-table\">\n<tbody>\n\t<tr>\n\t\t<th><b>Engine</b></th>\n\t\t<th><b>Size</b></td>\n\t\t<th><b>Carb.</b></td>\n\t\t<th><b>HP</b></td>\n\t\t<th><b>Torque</b></td>\n\t\t<th><b>0 to 60</b></td>\n\t\t<th><b>Quarter mile</b></td>\n\t</tr>\n\t<tr>\n\t\t<td>OHV V8</td>\n\t\t<td>390ci</td>\n\t\t<td>1x4bbl</td>\n\t\t<td>325</td>\n\t\t<td>430 lb-ft</td>\n\t\t<td>10.5 sec</td>\n\t\t<td>17.7 sec</td>\n\t</tr>\n</tbody>\n</table>"
+      }
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "html",
+      {
+        "html": "<h4 id='colors-sub-heading'>Exterior</h4>\n<div class=\"colors-row\">\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #000000\"></div>\n        <div class=\"color-name\">Ebony Black</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #a0a4a6\"></div>\n        <div class=\"color-name\">Argent Silver</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #5e7488\"></div>\n        <div class=\"color-name\">Argyle Blue</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #d4c0a2\"></div>\n        <div class=\"color-name\">Beaumont Beige</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #a1bab3\"></div>\n        <div class=\"color-name\">Breton Blue</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #fcffec\"></div>\n        <div class=\"color-name\">Dover White</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #1c1f2d\"></div>\n        <div class=\"color-name\">Dunstan Blue</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #485d76\"></div>\n        <div class=\"color-name\">Georgian Blue</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #e0c37a\"></div>\n        <div class=\"color-name\">Gotham Gold</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #587171\"></div>\n        <div class=\"color-name\">Hampton Green</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #608580\"></div>\n        <div class=\"color-name\">Inverness Green</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #223240\"></div>\n        <div class=\"color-name\">Kensington Green</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #393b3c\"></div>\n        <div class=\"color-name\">London Gray</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #f5ebd5\"></div>\n        <div class=\"color-name\">Olympic White</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #9c7a70\"></div>\n        <div class=\"color-name\">Persian Sand</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #acdfbe\"></div>\n        <div class=\"color-name\">Pinehurst Green</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #9c1914\"></div>\n        <div class=\"color-name\">Seminole Red</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #81878b\"></div>\n        <div class=\"color-name\">Silver</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #5e8994\"></div>\n        <div class=\"color-name\">Vegas Turquoise</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #b49189\"></div>\n        <div class=\"color-name\">Wood Rose</div>\n    </div>\n</div>\n\n<h4 id='colors-sub-heading'>Interior</h4>\n<div class=\"colors-row\">\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #000000\"></div>\n        <div class=\"color-name\">Black</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #4d6f81\"></div>\n        <div class=\"color-name\">Blue</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #c64442\"></div>\n        <div class=\"color-name\">Red</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #2f2618\"></div>\n        <div class=\"color-name\">Brown</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #182824\"></div>\n        <div class=\"color-name\">Blue Green</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #9c7a70\"></div>\n        <div class=\"color-name\">Rose Beige</div>\n    </div>\n</div>\n"
+      }
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "gallery",
+      {
+        "images": [
+          {
+            "fileName": "2240_2_low_res.jpg",
+            "row": 0,
+            "width": 790,
+            "height": 666,
+            "src": "__GHOST_URL__/content/images/2020/07/2240_2_low_res.jpg"
+          },
+          {
+            "fileName": "2241_1_low_res.jpg",
+            "row": 0,
+            "width": 790,
+            "height": 669,
+            "src": "__GHOST_URL__/content/images/2020/07/2241_1_low_res.jpg"
+          },
+          {
+            "fileName": "2236_15_low_res.jpg",
+            "row": 0,
+            "width": 790,
+            "height": 672,
+            "src": "__GHOST_URL__/content/images/2020/07/2236_15_low_res.jpg"
+          },
+          {
+            "fileName": "2237_10_low_res.jpg",
+            "row": 1,
+            "width": 790,
+            "height": 676,
+            "src": "__GHOST_URL__/content/images/2020/07/2237_10_low_res.jpg"
+          },
+          {
+            "fileName": "2238_9_low_res.jpg",
+            "row": 1,
+            "width": 790,
+            "height": 665,
+            "src": "__GHOST_URL__/content/images/2020/07/2238_9_low_res.jpg"
+          },
+          {
+            "fileName": "2239_7_low_res.jpg",
+            "row": 1,
+            "width": 790,
+            "height": 662,
+            "src": "__GHOST_URL__/content/images/2020/07/2239_7_low_res.jpg"
+          }
+        ],
+        "caption": "1959 Cadillac DeVille OEM Brochures"
+      }
+    ],
+    [
+      "hr",
+      {}
+    ]
+  ],
+  "markups": [
+    [
+      "strong"
+    ],
+    [
+      "em"
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/tag/research/"
+      ]
+    ]
+  ],
+  "sections": [
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Overview"
+        ]
+      ]
+    ],
+    [
+      10,
+      0
+    ],
+    [
+      1,
+      "h3",
+      [
+        [
+          0,
+          [],
+          0,
+          "The 1959 DeVille saw the most extreme design to date with large tail fins and a rear that resembled jet engine afterburners, not surprising as the styling was inspired by P-38s. "
+        ]
+      ]
+    ],
+    [
+      10,
+      1
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "The 1959 DeVille saw the most extreme design to date with large tail fins and a rear that resembled jet engine afterburners, not surprising as the styling was inspired by P-38s. This extreme styling was met with a \"love it or leave\" attitude by the public and critics."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "The extravagant styling worked as production was up yet again."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "The engine was bored to 390ci and power was increased to 325 hp. The rear ends even got an upgrade, mainly to quiet them."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "The Sedan DeVille was offered with the option of two different rooflines. One that was straight and came to a point, the other was more traditional and featured a smooth, wraparound decline."
+        ]
+      ]
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Production Numbers"
+        ]
+      ]
+    ],
+    [
+      10,
+      2
+    ],
+    [
+      10,
+      3
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Performance Specs"
+        ]
+      ]
+    ],
+    [
+      10,
+      4
+    ],
+    [
+      10,
+      5
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Transmission"
+        ]
+      ]
+    ],
+    [
+      10,
+      6
+    ],
+    [
+      3,
+      "ul",
+      [
+        [
+          [
+            0,
+            [
+              0,
+              0
+            ],
+            2,
+            "Hydra-Matic Auto"
+          ]
+        ]
+      ]
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Paint & Colors"
+        ]
+      ]
+    ],
+    [
+      10,
+      7
+    ],
+    [
+      10,
+      8
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "OEM Brochures"
+        ]
+      ]
+    ],
+    [
+      10,
+      9
+    ],
+    [
+      10,
+      10
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "About the Knowledge Base"
+        ]
+      ]
+    ],
+    [
+      10,
+      11
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "The Motorious Knowledge Base provides a comprehensive vehicle overview for the 1959 Cadillac DeVille"
+        ],
+        [
+          0,
+          [
+            1,
+            1
+          ],
+          2,
+          " "
+        ],
+        [
+          0,
+          [],
+          0,
+          "including production numbers, performance specs, factory colors, and OEM brochures. Check out additional model years or related content linked to this article or view other Makes and Models in our "
+        ],
+        [
+          0,
+          [
+            2
+          ],
+          1,
+          "Research"
+        ],
+        [
+          0,
+          [],
+          0,
+          " center."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "If you have any interesting facts about the 1959 Cadillac DeVille"
+        ],
+        [
+          0,
+          [
+            1,
+            1
+          ],
+          2,
+          " "
+        ],
+        [
+          0,
+          [],
+          0,
+          "to add, want to tell us how we did covering the DeVille, or want to tell us about yours, please leave a comment below."
+        ]
+      ]
+    ]
+  ],
+  "ghostVersion": "3.0"
+}

@@ -1,0 +1,1100 @@
+{
+  "version": "0.3.1",
+  "atoms": [],
+  "cards": [
+    [
+      "email",
+      {
+        "html": "<p>Friends:</p>"
+      }
+    ],
+    [
+      "email-cta",
+      {
+        "showButton": true,
+        "showDividers": false,
+        "segment": "status:free",
+        "alignment": "left",
+        "html": "<p><strong>The original column is usually available only to paying subscribers, but we are making this week's open to all</strong>.</p><p>If you're not a paying subscriber, we hope you'll consider <a href=\"__GHOST_URL__/membership/?utm_source=newsletter-email&amp;utm_medium=link&amp;utm_campaign=newsletter-upgrade\">clicking here</a> to become one. We are a non-corporate reader-supported news outlet, which means we need our readers to pitch in to fund our investigative journalism that holds the powerful accountable.</p>",
+        "buttonText": "Subscribe To The Lever",
+        "buttonUrl": "__GHOST_URL__/membership/?utm_source=newsletter-email&utm_medium=link&utm_campaign=newsletter-upgrade"
+      }
+    ],
+    [
+      "email-cta",
+      {
+        "showButton": true,
+        "showDividers": false,
+        "segment": "status:-free",
+        "alignment": "left",
+        "html": "<p>Thanks for being a paying subscriber. If you are willing to pitch in more to help fund our investigative journalism, please consider clicking below to give us a tip or become a Lever Leader.</p>",
+        "buttonText": "Tip Jar",
+        "buttonUrl": "https://dailyposter.outpost.pub/ghost-integration/60818189ad12f332071054b8/tips"
+      }
+    ],
+    [
+      "email-cta",
+      {
+        "showButton": true,
+        "showDividers": false,
+        "segment": "status:-free",
+        "alignment": "left",
+        "buttonText": "Become A Lever Leader",
+        "buttonUrl": "https://levernews.com/#/portal/account/plans"
+      }
+    ],
+    [
+      "callout",
+      {
+        "calloutEmoji": "🎁",
+        "calloutText": "<strong>Need A Holiday Gift? <a href=\"https://dailyposter.outpost.pub/gift_subscription#/\">Give A Gift Subscription!</a></strong>",
+        "backgroundColor": "green"
+      }
+    ],
+    [
+      "button",
+      {
+        "alignment": "center",
+        "buttonText": "Tip Jar",
+        "buttonUrl": "https://dailyposter.outpost.pub/ghost-integration/60818189ad12f332071054b8/tips"
+      }
+    ],
+    [
+      "callout",
+      {
+        "calloutEmoji": "💡",
+        "calloutText": "Follow us on <a href=\"https://apple.news/TeRci1RtoQfWCNA5h7NTBlg\">Apple News</a> and <a href=\"https://news.google.com/publications/CAAqBwgKMPvKngswktW2Aw\">Google News</a> to make sure you see our stories first, and to help make sure others see our breaking news as well.",
+        "backgroundColor": "grey"
+      }
+    ],
+    [
+      "email-cta",
+      {
+        "showButton": true,
+        "showDividers": false,
+        "segment": "status:-free",
+        "alignment": "center",
+        "html": "",
+        "buttonText": "Click Here To Comment",
+        "buttonUrl": "__GHOST_URL__/lever-weekly-all-they-had-to-do-was-nothing/#comments"
+      }
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "email",
+      {
+        "html": "<p><em><strong>Help us spread the word! </strong>Please forward this email to family and friends.</em></p><p><em><strong>Was this email forwarded to you? </strong><a href=\"https://levernews.com/membership/\">Sign up for free</a> to receive original reporting like this in your inbox every day.</em></p>"
+      }
+    ]
+  ],
+  "markups": [
+    [
+      "strong"
+    ],
+    [
+      "em"
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/lever-weekly-all-they-had-to-do-was-nothing/?utm_source=newsletter-email&utm_medium=link&utm_campaign=newsletter-article"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/biden-is-breaking-his-sick-leave-promise-to-crush-rail-workers/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/senators-help-donors-derail-paid-sick-days/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/you-love-to-see-it-a-labor-revolution-arrives-in-the-south/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/how-to-be-funny-in-2022-w-david-cross/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/how-the-fossil-fuel-industry-lied-for-decades/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.callin.com/episode/biden-abandons-railroad-workers-PcsLcqfQKT"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://theinsurgents.substack.com/p/ep-129-crazy-train-ft-matthew-cunningham?utm_source=substack&utm_medium=email#details"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/author/david-sirota/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.vice.com/en/article/qjkz4q/us-on-verge-of-economic-disaster-because-freight-rail-workers-cant-get-sick-time"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://twitter.com/chrisforpa/status/1598065255489622023?s=46&t=DITggKL-siTAgmtgVI3IIA"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.opensecrets.org/industries/totals.php?cycle=2022&ind=m04"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://lda.senate.gov/filings/public/filing/955a5828-2c3b-4d34-8c6d-3291a3caa23f/print/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://s3.documentcloud.org/documents/23324376/aar-public-inspection-copy-990-calendar-year-2021.pdf"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.politico.com/story/2015/09/elmendorf-ryan-home-front-communications-213832"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/railroad-ceos-were-paid-over-200-million-as-workers-suffered/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.politico.com/story/2015/09/labor-sick-leave-executive-order-obama-213379"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://clerk.house.gov/Votes/2022491?Page=2"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.senate.gov/legislative/LIS/roll_call_votes/vote1172/vote_117_2_00371.htm"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://clerk.house.gov/Votes/2022490?Page=3"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.senate.gov/legislative/LIS/roll_call_votes/vote1172/vote_117_2_00372.htm"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://twitter.com/BCAppelbaum/status/1598426691302412288?s=20&t=2I8DLMA1GnKXRoEKlk5_Ew"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://twitter.com/CNNThisMorning/status/1598684213514903553"
+      ]
+    ]
+  ],
+  "sections": [
+    [
+      10,
+      0
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "This is Lever Weekly, a recap of our work from the past week – "
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "including all of our reporting on the railroad crisis"
+        ],
+        [
+          0,
+          [],
+          0,
+          ". If you only read one email from each week, this should be it, because it includes all of our reporting, podcasts, videos, and live events from the past week. "
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Below that recap, Lever Weekly also includes an original column by a member of "
+        ],
+        [
+          0,
+          [
+            1
+          ],
+          1,
+          "The Lever"
+        ],
+        [
+          0,
+          [],
+          0,
+          " – and "
+        ],
+        [
+          0,
+          [
+            2,
+            0
+          ],
+          2,
+          "this week's column"
+        ],
+        [
+          0,
+          [],
+          0,
+          " is a must-read from David Sirota about the most important dynamic that is being ignored in the rail crisis."
+        ]
+      ]
+    ],
+    [
+      10,
+      1
+    ],
+    [
+      10,
+      2
+    ],
+    [
+      10,
+      3
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Rock the boat,"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "The Lever Team"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      []
+    ],
+    [
+      1,
+      "h3",
+      [
+        [
+          0,
+          [],
+          0,
+          "Stuff The Lever Reported This Week:"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "• "
+        ],
+        [
+          0,
+          [
+            3,
+            0
+          ],
+          2,
+          "Biden Is Breaking His Sick Leave Promise To Crush Rail Workers"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "• "
+        ],
+        [
+          0,
+          [
+            4,
+            0
+          ],
+          2,
+          "Senators Help Donors Derail Paid Sick Days"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "• "
+        ],
+        [
+          0,
+          [
+            5,
+            0
+          ],
+          2,
+          "A Labor Revolution Arrives In The South"
+        ]
+      ]
+    ],
+    [
+      1,
+      "h3",
+      [
+        [
+          0,
+          [],
+          0,
+          "Stuff To Watch & Listen To:"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "•"
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          " "
+        ],
+        [
+          0,
+          [
+            6,
+            0
+          ],
+          2,
+          "LEVER TIME: David Cross On How To Be Funny In 2022"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "• "
+        ],
+        [
+          0,
+          [
+            7,
+            0
+          ],
+          2,
+          "LEVER TIME PREMIUM: Inside The Fossil Fuel Industry's Lies"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "•"
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          " "
+        ],
+        [
+          0,
+          [
+            8,
+            0
+          ],
+          2,
+          "LEVER LIVE: A Q&A About The Railroad Crisis"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "•"
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          " "
+        ],
+        [
+          0,
+          [
+            9,
+            0
+          ],
+          2,
+          "The Insurgents Pod: Matthew Cunningham-Cook On The Rail Battle"
+        ]
+      ]
+    ],
+    [
+      10,
+      4
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "All They Had To Do Was Nothing"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "By "
+        ],
+        [
+          0,
+          [
+            10
+          ],
+          1,
+          "David Sirota"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "In most political battles against abusive corporations, workers need politicians to take action. But in this week’s skirmish over the nation’s rail system, workers merely needed Democrats to perform the one task they’re usually best at: doing absolutely nothing."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "But the party’s Washington lawmakers are so owned they refused to even do that."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Lost in the congressional machinations, the corporate punditry, and the partisan cheerleading was a simple fact: Railroad executives — not rail workers — were the ones desperate for congressional legislation. To prevent a work stoppage, preserve their "
+        ],
+        [
+          0,
+          [
+            4
+          ],
+          1,
+          "skyrocketing profits"
+        ],
+        [
+          0,
+          [],
+          0,
+          ", and protect their inhumane "
+        ],
+        [
+          0,
+          [
+            11
+          ],
+          1,
+          "“precision-scheduled”"
+        ],
+        [
+          0,
+          [],
+          0,
+          " business model, those executives needed President Joe Biden and congressional lawmakers to affirmatively invoke an ancient strike-busting law that would force workers to toil without appropriate paid sick leave."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Because it was capital — not labor — that needed government action, the Democrats who control the government had all the leverage to secure a rare win for the union workers who they purport to represent."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "They could have held a single up-or-down vote on a rail agreement that included the paid sick time the workers demanded — and they could have declined to hold a separate vote on a rail agreement without those sick days. They could have explained their position with the simple declaration that incoming Democratic congressman Chris Deluzio "
+        ],
+        [
+          0,
+          [
+            12
+          ],
+          1,
+          "tweeted"
+        ],
+        [
+          0,
+          [],
+          0,
+          ": “Don’t ever expect me to vote to break a strike unless it’s to impose the workers’ terms on greedy corporations.”"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "In that scenario, both outcomes would protect workers’ rights — either the government would pass legislation securing the workers’ right to paid sick days, or Democrats doing nothing would at least force rail executives to decide between the negotiating table and a strike that could both reduce their profits and get them blamed for tanking the economy."
+        ]
+      ]
+    ],
+    [
+      10,
+      5
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "But instead of engineering that scenario to help workers, Democrats did the opposite: The party so often defined by slow-walking, lethargy, and inertia suddenly found its can-do spirit and sprung into action to protect its rail industry donors. Rather than helping workers by doing nothing, Democrats rammed the strike-breaking bill through Congress and Biden quickly signed it with the kind of discipline, purpose, and alacrity the party has never mustered for long-promised-but-still-languishing initiatives such as a $15 minimum wage or the party’s union rights legislation, known as the PRO Act."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "The big winners were the railroad companies, whose donors have funneled "
+        ],
+        [
+          0,
+          [
+            13
+          ],
+          1,
+          "nearly $20 million"
+        ],
+        [
+          0,
+          [],
+          0,
+          " to Democratic candidates and committees in the last decade, and their army of congressional aides-turned lobbyists and consultants at "
+        ],
+        [
+          0,
+          [
+            14
+          ],
+          1,
+          "Forbes Tate Partners"
+        ],
+        [
+          0,
+          [],
+          0,
+          " and "
+        ],
+        [
+          0,
+          [
+            15
+          ],
+          1,
+          "Subject"
+        ],
+        [
+          0,
+          [],
+          0,
+          " "
+        ],
+        [
+          0,
+          [
+            16
+          ],
+          1,
+          "Matter"
+        ],
+        [
+          0,
+          [],
+          0,
+          ". That money and lobbying power delivered a government-enforced agreement letting railroad executives who "
+        ],
+        [
+          0,
+          [
+            17
+          ],
+          1,
+          "recently paid themselves $200 million"
+        ],
+        [
+          0,
+          [],
+          0,
+          " now avoid financing meaningful paid sick time, and avoid changing their just-in-time business model that relies on staffing shortages."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "To know the Democrats’ fix was in against workers from the start, you simply need to look at how the Biden administration "
+        ],
+        [
+          0,
+          [
+            4
+          ],
+          1,
+          "threw cold water"
+        ],
+        [
+          0,
+          [],
+          0,
+          " on legislative efforts to add paid sick days into a final agreement — and refused to commit to using "
+        ],
+        [
+          0,
+          [
+            18
+          ],
+          1,
+          "existing executive authority"
+        ],
+        [
+          0,
+          [],
+          0,
+          " to require those sick days."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "You can also look at the congressional roll call votes. While most of the Democrats were willing to cast performative "
+        ],
+        [
+          0,
+          [
+            19
+          ],
+          1,
+          "yes"
+        ],
+        [
+          0,
+          [],
+          0,
+          " "
+        ],
+        [
+          0,
+          [
+            20
+          ],
+          1,
+          "votes"
+        ],
+        [
+          0,
+          [],
+          0,
+          " on doomed-to-fail legislation purporting to support paid sick days, the opposite was true on the votes that really mattered: On those, just "
+        ],
+        [
+          0,
+          [
+            21
+          ],
+          1,
+          "eight House Democrats"
+        ],
+        [
+          0,
+          [],
+          0,
+          " and "
+        ],
+        [
+          0,
+          [
+            22
+          ],
+          1,
+          "five Senate Democrats"
+        ],
+        [
+          0,
+          [],
+          0,
+          " were ultimately willing to vote against imposing a strike-breaking agreement stripped of those sick days."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Put another way, just five percent of Democrats in Congress were willing to honor the old “first do no harm” axiom and help workers by at least voting to do nothing to help the rail barons crush their employees."
+        ]
+      ]
+    ],
+    [
+      10,
+      6
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Had workers’ demands been unreasonable, perhaps the #TeamBlue crowd could defend their party’s betrayal on policy grounds. But as "
+        ],
+        [
+          0,
+          [
+            1
+          ],
+          1,
+          "The Lever"
+        ],
+        [
+          0,
+          [],
+          0,
+          " reported, rail workers were ultimately asking for the same amount of paid sick days that Joe Biden "
+        ],
+        [
+          0,
+          [
+            3
+          ],
+          1,
+          "pledged"
+        ],
+        [
+          0,
+          [],
+          0,
+          " to support for all Americans during his 2020 presidential campaign. Indeed, providing seven sick days for 125,000 workers would have cost rail companies "
+        ],
+        [
+          0,
+          [
+            4
+          ],
+          1,
+          "just four days worth of the profits"
+        ],
+        [
+          0,
+          [],
+          0,
+          " they reaped in the most recent financial quarter."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Stripped of any substantive defense, Democratic partisans have resorted to trying to deflect blame onto Republicans, who certainly weren’t helpful in passing paid sick leave legislation, but who also weren’t the driving force in the matter. The GOP isn’t in control of Congress yet, which means they weren’t the ones separating the bills and scheduling the votes."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "“Sorry but ‘blame Republicans’ doesn’t fly this time,” "
+        ],
+        [
+          0,
+          [
+            23
+          ],
+          1,
+          "noted"
+        ],
+        [
+          0,
+          [],
+          0,
+          " "
+        ],
+        [
+          0,
+          [
+            1
+          ],
+          1,
+          "New York Times"
+        ],
+        [
+          0,
+          [],
+          0,
+          " columnist Binyamin Appelbaum. “Dems chose to intervene. Dems chose to offer a ‘no sick leave’ option. And Dems just put it through both houses.”"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Democrats’ refusal to do nothing — their insistence on helping rail barons block a work stoppage — was aptly summarized by the rail worker who "
+        ],
+        [
+          0,
+          [
+            24
+          ],
+          1,
+          "told"
+        ],
+        [
+          0,
+          [],
+          0,
+          " CNN: \"Joe Biden forced a contract on our unionized workers who voted against it. And listen: We don't want to strike, but the only way we can get a fair contract is to strike — it's our only leverage. The rail carriers do not negotiate in good faith.\""
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "As this week showed, neither do most Democrats in Washington."
+        ]
+      ]
+    ],
+    [
+      10,
+      7
+    ],
+    [
+      10,
+      8
+    ],
+    [
+      10,
+      9
+    ]
+  ],
+  "ghostVersion": "4.0"
+}

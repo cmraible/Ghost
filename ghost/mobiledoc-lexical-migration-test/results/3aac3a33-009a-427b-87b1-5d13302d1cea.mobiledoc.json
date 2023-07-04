@@ -1,0 +1,764 @@
+{
+  "version": "0.3.1",
+  "atoms": [],
+  "cards": [
+    [
+      "callout",
+      {
+        "calloutEmoji": "🐦",
+        "calloutText": "This post started life <a href=\"https://twitter.com/adders/status/1582322752026857472?s=61&amp;t=v53ImYRhfizyLv5VhCByAA\">as a Twitter thread</a>, recreated and expanded here for posterity.&nbsp;",
+        "backgroundColor": "green"
+      }
+    ],
+    [
+      "bookmark",
+      {
+        "version": "1.0",
+        "type": "bookmark",
+        "url": "__GHOST_URL__/2009/10/the_day_twitter_destroyed_a_gagging_orde/",
+        "metadata": {
+          "url": "__GHOST_URL__/2009/10/the_day_twitter_destroyed_a_gagging_orde/",
+          "title": "The Day Twitter Destroyed a Gagging Order",
+          "description": "A gagging order designed to target mainstream news titles has been undone by the concerted efforts of Twitter users.",
+          "author": "Adam Tinworth",
+          "publisher": "One Man & His Blog",
+          "thumbnail": "__GHOST_URL__/content/images/2021/03/adam-tinworth-cover-2.jpg",
+          "icon": "__GHOST_URL__/content/images/size/w256h256/2021/05/COV-1638-3865.png"
+        }
+      }
+    ],
+    [
+      "image",
+      {
+        "src": "__GHOST_URL__/content/images/2022/10/an-angry-mob.jpg",
+        "caption": ""
+      }
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "bookmark",
+      {
+        "version": "1.0",
+        "type": "bookmark",
+        "url": "https://socialwarming.substack.com/p/graham-norton-jk-rowling-and-the",
+        "metadata": {
+          "url": "https://socialwarming.substack.com/p/graham-norton-jk-rowling-and-the",
+          "title": "Graham Norton, JK Rowling and the standing mob rules",
+          "description": "Alternatively, you could vote to be ruled by an AI in Denmark?",
+          "author": "Charles Arthur",
+          "publisher": "Social Warming by Charles Arthur",
+          "thumbnail": "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F0d0a8d4a-5b4a-410a-9333-5dffd8e5dddc_640x384.png",
+          "icon": "https://substackcdn.com/icons/substack/apple-touch-icon-1024x1024.png"
+        }
+      }
+    ],
+    [
+      "embed",
+      {
+        "url": "https://twitter.com/suw/status/1582324050197479425?s=61&t=v53ImYRhfizyLv5VhCByAA",
+        "html": "<blockquote class=\"twitter-tweet\"><p lang=\"en\" dir=\"ltr\">The platforms don&#39;t care, and indeed, their use of trending topics rather indicates that they want to whip up the furore because it means more clicks and engagement. The whole foundation of their business model is rotten and will always lead to rotten outcomes.</p>&mdash; Suw (@Suw) <a href=\"https://twitter.com/Suw/status/1582324050197479425?ref_src=twsrc%5Etfw\">October 18, 2022</a></blockquote>\n<script async src=\"https://platform.twitter.com/widgets.js\" charset=\"utf-8\"></script>\n",
+        "type": "twitter",
+        "metadata": {
+          "url": "https://twitter.com/Suw/status/1582324050197479425",
+          "author_name": "Suw",
+          "author_url": "https://twitter.com/Suw",
+          "width": 550,
+          "height": null,
+          "cache_age": "3153600000",
+          "provider_name": "Twitter",
+          "provider_url": "http://www.twitter.com/",
+          "version": "1.0",
+          "tweet_data": {
+            "possibly_sensitive": false,
+            "created_at": "2022-10-18T10:53:46.000Z",
+            "text": "@adders The platforms don't care, and indeed, their use of trending topics rather indicates that they want to whip up the furore because it means more clicks and engagement. The whole foundation of their business model is rotten and will always lead to rotten outcomes.",
+            "reply_settings": "following",
+            "lang": "en",
+            "public_metrics": {
+              "retweet_count": 0,
+              "reply_count": 1,
+              "like_count": 1,
+              "quote_count": 0
+            },
+            "edit_history_tweet_ids": [
+              "1582324050197479425"
+            ],
+            "entities": {
+              "mentions": [
+                {
+                  "start": 0,
+                  "end": 7,
+                  "username": "adders",
+                  "id": "40523"
+                }
+              ]
+            },
+            "context_annotations": [
+              {
+                "domain": {
+                  "id": "10",
+                  "name": "Person",
+                  "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                  "id": "1070710937563291648",
+                  "name": "Suw Charman-Anderson",
+                  "description": "British journalist, consultant and blogger"
+                }
+              },
+              {
+                "domain": {
+                  "id": "94",
+                  "name": "Journalist",
+                  "description": "A journalist like 'Anderson Cooper'"
+                },
+                "entity": {
+                  "id": "1070710937563291648",
+                  "name": "Suw Charman-Anderson",
+                  "description": "British journalist, consultant and blogger"
+                }
+              },
+              {
+                "domain": {
+                  "id": "131",
+                  "name": "Unified Twitter Taxonomy",
+                  "description": "A taxonomy of user interests. "
+                },
+                "entity": {
+                  "id": "1046545033657081857",
+                  "name": "News",
+                  "description": "News"
+                }
+              },
+              {
+                "domain": {
+                  "id": "131",
+                  "name": "Unified Twitter Taxonomy",
+                  "description": "A taxonomy of user interests. "
+                },
+                "entity": {
+                  "id": "1070710937563291648",
+                  "name": "Suw Charman-Anderson",
+                  "description": "British journalist, consultant and blogger"
+                }
+              },
+              {
+                "domain": {
+                  "id": "131",
+                  "name": "Unified Twitter Taxonomy",
+                  "description": "A taxonomy of user interests. "
+                },
+                "entity": {
+                  "id": "1074755369530880001",
+                  "name": "Journalists",
+                  "description": "Journalism"
+                }
+              }
+            ],
+            "id": "1582324050197479425",
+            "author_id": "73843",
+            "referenced_tweets": [
+              {
+                "type": "replied_to",
+                "id": "1582323651621576704"
+              }
+            ],
+            "in_reply_to_user_id": "73843",
+            "source": "Twitter Web App",
+            "conversation_id": "1582322752026857472",
+            "includes": {
+              "users": [
+                {
+                  "username": "Suw",
+                  "description": "Bubbling enthusiasm for $arbitrary_topic. Publishes awesome newsletter about writing. Owned by @Grabbity & @Copurrrnicus. Founded Ada Lovelace Day. FRSA",
+                  "profile_image_url": "https://pbs.twimg.com/profile_images/479378290437025793/TmPvQOng_normal.jpeg",
+                  "created_at": "2006-12-16T15:33:24.000Z",
+                  "name": "Suw",
+                  "id": "73843",
+                  "entities": {
+                    "url": {
+                      "urls": [
+                        {
+                          "start": 0,
+                          "end": 23,
+                          "url": "https://t.co/pDsa9Y38IX",
+                          "expanded_url": "https://chocolateandvodka.com/newsletter/",
+                          "display_url": "chocolateandvodka.com/newsletter/"
+                        }
+                      ]
+                    },
+                    "description": {
+                      "mentions": [
+                        {
+                          "start": 95,
+                          "end": 104,
+                          "username": "Grabbity"
+                        },
+                        {
+                          "start": 107,
+                          "end": 120,
+                          "username": "Copurrrnicus"
+                        }
+                      ]
+                    }
+                  },
+                  "pinned_tweet_id": "1584847307538718721",
+                  "public_metrics": {
+                    "followers_count": 7163,
+                    "following_count": 859,
+                    "tweet_count": 126745,
+                    "listed_count": 559
+                  },
+                  "verified": false,
+                  "url": "https://t.co/pDsa9Y38IX",
+                  "location": "UK",
+                  "protected": false
+                },
+                {
+                  "username": "adders",
+                  "description": "Digital journalism strategy & training. Feeling old, but trying not to act it. Lecturer in audience strategy @cityjournalism. A good egg, mostly. #FRSA",
+                  "profile_image_url": "https://pbs.twimg.com/profile_images/1524716597235138560/0_Ukt3gM_normal.jpg",
+                  "created_at": "2006-12-04T14:51:52.000Z",
+                  "name": "Adam Tinworth",
+                  "id": "40523",
+                  "entities": {
+                    "url": {
+                      "urls": [
+                        {
+                          "start": 0,
+                          "end": 23,
+                          "url": "https://t.co/bEUwGTL0wk",
+                          "expanded_url": "https://onemanandhisblog.com",
+                          "display_url": "onemanandhisblog.com"
+                        }
+                      ]
+                    },
+                    "description": {
+                      "hashtags": [
+                        {
+                          "start": 146,
+                          "end": 151,
+                          "tag": "FRSA"
+                        }
+                      ],
+                      "mentions": [
+                        {
+                          "start": 109,
+                          "end": 124,
+                          "username": "cityjournalism"
+                        }
+                      ]
+                    }
+                  },
+                  "pinned_tweet_id": "1440315071138131974",
+                  "public_metrics": {
+                    "followers_count": 8959,
+                    "following_count": 4044,
+                    "tweet_count": 44560,
+                    "listed_count": 782
+                  },
+                  "verified": false,
+                  "url": "https://t.co/bEUwGTL0wk",
+                  "location": "Shoreham-by-Sea",
+                  "protected": false
+                }
+              ],
+              "tweets": [
+                {
+                  "possibly_sensitive": false,
+                  "created_at": "2022-10-18T10:52:11.000Z",
+                  "text": "@adders There are so many taboo subjects now that simply cannot be discussed in public because the backlashes are too much. At some point, people came to believe that it's ok to harass and threaten strangers, and so the bad money drives out the good again, and smart people stay quiet.",
+                  "reply_settings": "following",
+                  "lang": "en",
+                  "public_metrics": {
+                    "retweet_count": 0,
+                    "reply_count": 2,
+                    "like_count": 0,
+                    "quote_count": 0
+                  },
+                  "edit_history_tweet_ids": [
+                    "1582323651621576704"
+                  ],
+                  "entities": {
+                    "mentions": [
+                      {
+                        "start": 0,
+                        "end": 7,
+                        "username": "adders",
+                        "id": "40523"
+                      }
+                    ]
+                  },
+                  "context_annotations": [
+                    {
+                      "domain": {
+                        "id": "10",
+                        "name": "Person",
+                        "description": "Named people in the world like Nelson Mandela"
+                      },
+                      "entity": {
+                        "id": "1070710937563291648",
+                        "name": "Suw Charman-Anderson",
+                        "description": "British journalist, consultant and blogger"
+                      }
+                    },
+                    {
+                      "domain": {
+                        "id": "94",
+                        "name": "Journalist",
+                        "description": "A journalist like 'Anderson Cooper'"
+                      },
+                      "entity": {
+                        "id": "1070710937563291648",
+                        "name": "Suw Charman-Anderson",
+                        "description": "British journalist, consultant and blogger"
+                      }
+                    },
+                    {
+                      "domain": {
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy",
+                        "description": "A taxonomy of user interests. "
+                      },
+                      "entity": {
+                        "id": "1046545033657081857",
+                        "name": "News",
+                        "description": "News"
+                      }
+                    },
+                    {
+                      "domain": {
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy",
+                        "description": "A taxonomy of user interests. "
+                      },
+                      "entity": {
+                        "id": "1070710937563291648",
+                        "name": "Suw Charman-Anderson",
+                        "description": "British journalist, consultant and blogger"
+                      }
+                    },
+                    {
+                      "domain": {
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy",
+                        "description": "A taxonomy of user interests. "
+                      },
+                      "entity": {
+                        "id": "1074755369530880001",
+                        "name": "Journalists",
+                        "description": "Journalism"
+                      }
+                    }
+                  ],
+                  "id": "1582323651621576704",
+                  "author_id": "73843",
+                  "referenced_tweets": [
+                    {
+                      "type": "replied_to",
+                      "id": "1582322777549602816"
+                    }
+                  ],
+                  "in_reply_to_user_id": "40523",
+                  "source": "Twitter Web App",
+                  "conversation_id": "1582322752026857472"
+                }
+              ]
+            }
+          }
+        }
+      }
+    ]
+  ],
+  "markups": [
+    [
+      "a",
+      [
+        "href",
+        "https://metro.co.uk/2022/10/17/graham-norton-deletes-twitter-account-after-cancel-culture-comments-17579187/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.merriam-webster.com/words-at-play/sealioning-internet-trolling"
+      ]
+    ],
+    [
+      "em"
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.npr.org/2022/10/12/1128522569/alex-jones-ordered-to-pay-nearly-1-billion-to-sandy-hook-families"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.bbc.co.uk/news/uk-england-nottinghamshire-63349036"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.prnewsonline.com/twitter-canoe-update",
+        "rel",
+        ""
+      ]
+    ]
+  ],
+  "sections": [
+    [
+      10,
+      0
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "It’s depressing to see another "
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "public figure driven from Twitter"
+        ],
+        [
+          0,
+          [],
+          0,
+          " for the crime of trying to find a tactful answer to the impossible “CC” question. There is no answer to that question that does not get at least one group of highly online, highly ideological people angry at you."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "It’s becoming a totemic issue to the degree that I’m not even using the phrase in my thread because I know from experience that there are people searching for the term, who will happily "
+        ],
+        [
+          0,
+          [
+            1
+          ],
+          1,
+          "sealion"
+        ],
+        [
+          0,
+          [],
+          0,
+          " into the conversation."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "The reality, of course, is that it’s all about power."
+        ]
+      ]
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "The power of the highly organised, highly political online"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Public social media, like Twitter, like Facebook, delivered highly organised ideological groups extreme power to make other people’s lives difficult. Occasionally, this is good. Often, this is bad. It’s not new, though. It dates back to "
+        ],
+        [
+          0,
+          [
+            2
+          ],
+          1,
+          "at least"
+        ],
+        [
+          0,
+          [],
+          0,
+          " 2009:"
+        ]
+      ]
+    ],
+    [
+      10,
+      1
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "At some level, though, we have to acknowledge there’s a good reason that we don’t use angry mobs as a system of justice in most civilised parts of the world. It doesn’t seem like a great idea to make it a routine form of justice in the online world."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "This is not a politically partisan point: once a gun is invented, it can be used to shoot anyone, both those we detest and those we admire. Online power does not respect politics, it only respects numbers and commitment."
+        ]
+      ]
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "This is a discussion about use — and abuse — of power"
+        ]
+      ]
+    ],
+    [
+      10,
+      2
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "We’re on a dark path, and our discussions about it are woefully trivial right now."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Perhaps the only bit of good news that is that "
+        ],
+        [
+          0,
+          [
+            2
+          ],
+          1,
+          "finally"
+        ],
+        [
+          0,
+          [],
+          0,
+          " our traditional systems of justice are beginning to work on online abuses. Alex Jones is on "
+        ],
+        [
+          0,
+          [
+            3
+          ],
+          1,
+          "the verge of bankruptcy"
+        ],
+        [
+          0,
+          [],
+          0,
+          ". "
+        ],
+        [
+          0,
+          [
+            4
+          ],
+          1,
+          "Alex Belfield is in prison"
+        ],
+        [
+          0,
+          [],
+          0,
+          "."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "(Probably some people not called Alex, too. But Alexes of the internet — you’re on notice… 😉)"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "But meanwhile, online, people continue to find new ways to exercise their new power. And we really, badly, need to have a conversation about how to manage that. And I have zero faith that the current — or aspirational— social media platform owners are up to that."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "How do we preserve social media’s ability to give voice and power to the powerless and the oppressed, while also curtailing the power of online mobs to ruin lives? That’s a much more interesting discussion than the highly loaded impossible question."
+        ]
+      ]
+    ],
+    [
+      10,
+      3
+    ],
+    [
+      1,
+      "h3",
+      [
+        [
+          0,
+          [],
+          0,
+          "Reactions"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Charles Arthur wrote a long piece following up on these ideas on his Substack:"
+        ]
+      ]
+    ],
+    [
+      1,
+      "blockquote",
+      [
+        [
+          0,
+          [],
+          0,
+          "However, this isn’t how Twitter functions. The prevalence of Angry Mobs essentially keyword-surfing to find things to be angry about is a serious problem. What makes it worse is that this sort of activity rewards obsessive people with too much time on their hands who REALLY WANT YOU TO KNOW THEIR OPINION, and why yours is wrong, as this is usually their reason for engaging with you. I’m sure you know what I mean: the tedious sealion who just won’t stop, who once you mute or block them, and take a look at their tweets, you find has moved on to the next person or "
+        ],
+        [
+          0,
+          [
+            5
+          ],
+          1,
+          "Twitter canoe"
+        ],
+        [
+          0,
+          [],
+          0,
+          " in order to air their views."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "The whole thing is worth a read (and a subscribe!):"
+        ]
+      ]
+    ],
+    [
+      10,
+      4
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Suw had this to say on Twitter:"
+        ]
+      ]
+    ],
+    [
+      10,
+      5
+    ],
+    [
+      1,
+      "p",
+      []
+    ]
+  ],
+  "ghostVersion": "4.0"
+}

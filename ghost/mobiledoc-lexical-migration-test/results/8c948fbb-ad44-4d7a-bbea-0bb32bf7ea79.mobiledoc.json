@@ -1,0 +1,372 @@
+{
+  "version": "0.3.1",
+  "atoms": [],
+  "cards": [
+    [
+      "hr",
+      {}
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "html",
+      {
+        "html": "<table id=\"production-numbers-table\">\n<tbody>\n\t<tr>\n\t\t<td>2-Dr. Sports Coupe</td>\n\t\t<td>9,936</td>\n\t</tr>\n    <tr>\n\t\t<td>2-Dr. Convertible</td>\n\t\t<td>18,630</td>\n\t</tr>\n\t\t<td><b>Total Production</b></td>\n\t\t<td><b>28,566</b></td>\n\t</tr>\n</tbody>\n</table>"
+      }
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "html",
+      {
+        "html": "<table id=\"performance-specs-table\">\n<tbody>\n\t<tr>\n\t\t<th><b>Engine</b></th>\n\t\t<th><b>Size</b></td>\n\t\t<th><b>Carb.</b></td>\n\t\t<th><b>HP</b></td>\n\t\t<th><b>Torque</b></td>\n\t\t<th><b>0 to 60</b></td>\n\t\t<th><b>Quarter mile</b></td>\n\t</tr>\n\t<tr>\n\t\t<td>Standard V8</td>\n\t\t<td>327ci</td>\n\t\t<td>1x4bbl</td>\n\t\t<td>300hp @ 5000</td>\n\t\t<td>360 lb-ft @3400</td>\n\t\t<td>-</td>\n\t\t<td>-</td>\n\t</tr>\n    <tr>\n\t\t<td>Turbo Fire V8</td>\n\t\t<td>327ci</td>\n\t\t<td>1x4bbl</td>\n\t\t<td>350hp @ 5800</td>\n\t\t<td>360 lb-ft @ 3000</td>\n\t\t<td>-</td>\n\t\t<td>-</td>\n\t</tr>\n    <tr>\n\t\t<td>Turbo Jet V8</td>\n\t\t<td>427ci</td>\n\t\t<td>1x4bbl</td>\n\t\t<td>390hp @ 5400</td>\n\t\t<td>460 lb-ft @ 3600</td>\n\t\t<td>-</td>\n\t\t<td>-</td>\n\t</tr>\n    <tr>\n\t\t<td>Turbo Jet 427</td>\n\t\t<td>427ci</td>\n\t\t<td>3x2bbl</td>\n\t\t<td>400hp @ 5400</td>\n\t\t<td>460 lb-ft @ 3600</td>\n\t\t<td>-</td>\n\t\t<td>-</td>\n\t</tr>\n    <tr>\n\t\t<td>Turbo Jet V8</td>\n\t\t<td>427ci</td>\n\t\t<td>3x2bbl</td>\n\t\t<td>435hp @ 5800</td>\n\t\t<td>460 lb-ft @ 4000</td>\n\t\t<td>6.5 sec</td>\n\t\t<td>13.4 sec @ 109.5 mph</td>\n\t</tr>\n</tbody>\n</table>"
+      }
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "html",
+      {
+        "html": "<h4 id='colors-sub-heading'>Exterior</h4>\n<div class=\"colors-row\">\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #010101\"></div>\n        <div class=\"color-name\">Tuxedo Black</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #090e22\"></div>\n        <div class=\"color-name\">International Blue</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #5c525b\"></div>\n        <div class=\"color-name\">Silverstone Silver</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #000100\"></div>\n        <div class=\"color-name\">Cordovan Maroon</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #010703\"></div>\n        <div class=\"color-name\">British Green</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #ffffff\"></div>\n        <div class=\"color-name\">Polar White</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #9a1d23\"></div>\n        <div class=\"color-name\">Rally Red</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #fdeb83\"></div>\n        <div class=\"color-name\">Safari Yellow</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #31587f\"></div>\n        <div class=\"color-name\">Le Mans Blue</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #be2e33\"></div>\n        <div class=\"color-name\">Corvette Bronze</div>\n    </div>\n</div>\n\n<h4 id='colors-sub-heading'>Interior</h4>\n<div class=\"colors-row\">\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #000000\"></div>\n        <div class=\"color-name\">Black</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #d92c2f\"></div>\n        <div class=\"color-name\">Red</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #59b9df\"></div>\n        <div class=\"color-name\">Medium Blue</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #537da7\"></div>\n        <div class=\"color-name\">Dark Blue</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #c36462\"></div>\n        <div class=\"color-name\">Dark Orange</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #645540\"></div>\n        <div class=\"color-name\">Tobacco</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #7d7d7f\"></div>\n        <div class=\"color-name\">Gunmetal</div>\n    </div>\n</div>\n"
+      }
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "gallery",
+      {
+        "images": [
+          {
+            "fileName": "264_1_low_res.jpeg",
+            "row": 0,
+            "width": 773,
+            "height": 1024,
+            "src": "__GHOST_URL__/content/images/2020/08/264_1_low_res.jpeg"
+          },
+          {
+            "fileName": "265_2_low_res.jpeg",
+            "row": 0,
+            "width": 790,
+            "height": 517,
+            "src": "__GHOST_URL__/content/images/2020/08/265_2_low_res.jpeg"
+          },
+          {
+            "fileName": "267_4_low_res.jpeg",
+            "row": 0,
+            "width": 790,
+            "height": 517,
+            "src": "__GHOST_URL__/content/images/2020/08/267_4_low_res.jpeg"
+          },
+          {
+            "fileName": "268_5_low_res.jpeg",
+            "row": 1,
+            "width": 790,
+            "height": 517,
+            "src": "__GHOST_URL__/content/images/2020/08/268_5_low_res.jpeg"
+          },
+          {
+            "fileName": "269_6_low_res.jpeg",
+            "row": 1,
+            "width": 790,
+            "height": 517,
+            "src": "__GHOST_URL__/content/images/2020/08/269_6_low_res.jpeg"
+          },
+          {
+            "fileName": "270_7_low_res.jpeg",
+            "row": 1,
+            "width": 785,
+            "height": 1024,
+            "src": "__GHOST_URL__/content/images/2020/08/270_7_low_res.jpeg"
+          }
+        ],
+        "caption": "1968 Chevrolet Corvette OEM Brochures"
+      }
+    ],
+    [
+      "hr",
+      {}
+    ]
+  ],
+  "markups": [
+    [
+      "em"
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/tag/research/"
+      ]
+    ]
+  ],
+  "sections": [
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Overview"
+        ]
+      ]
+    ],
+    [
+      10,
+      0
+    ],
+    [
+      1,
+      "h3",
+      [
+        [
+          0,
+          [],
+          0,
+          "The 1968 Corvette sported all-new styling and was based on the Mako Shark II concept car."
+        ]
+      ]
+    ],
+    [
+      10,
+      1
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "The 1968 Corvette sported all-new styling and was based on the Mako Shark II concept car. The design was bold, but it seemed most Americans approved as production was up from the previous year. The new ‘Vette introduced hidden windshield wipers and removable T-Tops on the Coupe models and a new 3-speed automatic replaced the old 2-speed. Wheels were one inch wider and the rear roll center was lower allowing the car to corner and hug the roads with more ease."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Under the hood, the Corvette gained several new engine options, and the rare L88 was still available with just 115 being sold."
+        ]
+      ]
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Production Numbers"
+        ]
+      ]
+    ],
+    [
+      10,
+      2
+    ],
+    [
+      10,
+      3
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Performance Specs"
+        ]
+      ]
+    ],
+    [
+      10,
+      4
+    ],
+    [
+      10,
+      5
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Transmission"
+        ]
+      ]
+    ],
+    [
+      10,
+      6
+    ],
+    [
+      3,
+      "ul",
+      [
+        [
+          [
+            0,
+            [],
+            0,
+            "3-Speed Turbo Hydra-Matic"
+          ]
+        ],
+        [
+          [
+            0,
+            [],
+            0,
+            "3-Speed Manual"
+          ]
+        ],
+        [
+          [
+            0,
+            [],
+            0,
+            "4-Speed Manual"
+          ]
+        ]
+      ]
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Paint & Colors"
+        ]
+      ]
+    ],
+    [
+      10,
+      7
+    ],
+    [
+      10,
+      8
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "OEM Brochures"
+        ]
+      ]
+    ],
+    [
+      10,
+      9
+    ],
+    [
+      10,
+      10
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "About the Knowledge Base"
+        ]
+      ]
+    ],
+    [
+      10,
+      11
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "The Motorious Knowledge Base provides a comprehensive vehicle overview for the 1968 Chevrolet Corvette"
+        ],
+        [
+          0,
+          [
+            0,
+            0
+          ],
+          2,
+          " "
+        ],
+        [
+          0,
+          [],
+          0,
+          "including production numbers, performance specs, factory colors, and OEM brochures. Check out additional model years or related content linked to this article or view other Makes and Models in our "
+        ],
+        [
+          0,
+          [
+            1
+          ],
+          1,
+          "Research"
+        ],
+        [
+          0,
+          [],
+          0,
+          " center."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "If you have any interesting facts about the 1968 Chevrolet Corvette to add, want to tell us how we did covering the Corvette, or want to tell us about yours, please leave a comment below."
+        ]
+      ]
+    ]
+  ],
+  "ghostVersion": "3.0"
+}

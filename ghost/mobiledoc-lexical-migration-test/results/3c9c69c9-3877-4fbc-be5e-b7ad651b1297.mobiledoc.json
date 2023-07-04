@@ -1,0 +1,245 @@
+{
+  "version": "0.3.1",
+  "atoms": [],
+  "cards": [
+    [
+      "email-cta",
+      {
+        "showButton": true,
+        "showDividers": false,
+        "segment": "status:free",
+        "alignment": "center",
+        "html": "<p><strong><em>Please <a href=\"__GHOST_URL__/subscribe\">become a paid subscriber</a>. You get exclusive podcasts, <a href=\"__GHOST_URL__/citizens-guide-to-holding-the-powerful-accountable/\">digital publications</a>, and live events – and you support this journalism.</em></strong></p>",
+        "buttonText": "Click Here To Subscribe",
+        "buttonUrl": "__GHOST_URL__/subscribe"
+      }
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "email-cta",
+      {
+        "showButton": true,
+        "showDividers": false,
+        "segment": "status:free",
+        "alignment": "center",
+        "html": "",
+        "buttonText": "Click Here To Subscribe",
+        "buttonUrl": "__GHOST_URL__/subscribe"
+      }
+    ]
+  ],
+  "markups": [
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/midday-poster-manchins-child-tax-credit-lies/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/subscribe/"
+      ]
+    ],
+    [
+      "em"
+    ],
+    [
+      "strong"
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/new-the-citizens-guide-to-holding/"
+      ]
+    ]
+  ],
+  "sections": [
+    [
+      10,
+      0
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "A new study finds that the expanded Child Tax Credit — implemented last year as a key part of President Biden’s American Rescue Plan — did not negatively impact employment among adults with children."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "The findings completely disprove West Virginia Democratic Sen. Joe Manchin’s rationale for opposing the cash payments."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Find out how and much more in "
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "today’s Midday Poster"
+        ],
+        [
+          0,
+          [],
+          0,
+          ", exclusively for supporting subscribers."
+        ]
+      ]
+    ],
+    [
+      1,
+      "h3",
+      [
+        [
+          0,
+          [],
+          0,
+          "ADDITIONALLY FOR SUPPORTING SUBSCRIBERS ("
+        ],
+        [
+          0,
+          [
+            1
+          ],
+          1,
+          "click here to subscribe"
+        ],
+        [
+          0,
+          [],
+          0,
+          "):"
+        ]
+      ]
+    ],
+    [
+      3,
+      "ul",
+      [
+        [
+          [
+            0,
+            [],
+            0,
+            "The IRS is auditing poor Americans at much higher rates than everyone else."
+          ]
+        ],
+        [
+          [
+            0,
+            [],
+            0,
+            "MTG is trying to capitalize on Russia’s invasion of Ukraine."
+          ]
+        ],
+        [
+          [
+            0,
+            [],
+            0,
+            "Patients and doctors aren’t reaping the benefits of corporate physician management."
+          ]
+        ]
+      ]
+    ],
+    [
+      10,
+      1
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [
+            2,
+            3
+          ],
+          0,
+          "If you’d like to "
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "read the full report"
+        ],
+        [
+          0,
+          [],
+          0,
+          ", please "
+        ],
+        [
+          0,
+          [
+            1
+          ],
+          1,
+          "click here"
+        ],
+        [
+          0,
+          [],
+          2,
+          " to become an $8-a-month or $70-a-year supporting subscriber. When you become a supporting subscriber, you get this kind of exclusive content, you get access to our live events, you get our new "
+        ],
+        [
+          0,
+          [
+            3,
+            4
+          ],
+          2,
+          "Citizens' Guide To Holding The Powerful Accountable"
+        ],
+        [
+          0,
+          [
+            2,
+            3
+          ],
+          2,
+          " – and you are helping us hire more journalists."
+        ]
+      ]
+    ],
+    [
+      10,
+      2
+    ]
+  ],
+  "ghostVersion": "4.0"
+}

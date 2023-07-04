@@ -1,0 +1,1295 @@
+{
+  "version": "0.3.1",
+  "atoms": [],
+  "cards": [
+    [
+      "email-cta",
+      {
+        "showButton": true,
+        "showDividers": true,
+        "segment": "status:free",
+        "alignment": "left",
+        "html": "<p>Read a preview of this supporting subscriber newsletter below.</p><p>To read the whole thing, become a paid subscriber to <em>The Lever</em> at a major <a href=\"__GHOST_URL__/rwu-fundraiser-discount\"><strong>50% discount</strong></a>. This is the LAST DAY of our special deal – all of this week’s proceeds from your new subscription will be donated to Railroad Workers United. So not only do you support independent investigative news and get great membership perks, like this newsletter, but you'll also directly support railroad workers fighting for their rights.</p>",
+        "buttonText": "LAST DAY: Get 50% Off + Support Rail Workers",
+        "buttonUrl": "__GHOST_URL__/rwu-fundraiser-discount"
+      }
+    ],
+    [
+      "email-cta",
+      {
+        "showButton": false,
+        "showDividers": true,
+        "segment": "status:-free",
+        "alignment": "left",
+        "html": "<p><strong>SPREAD THE WORD: </strong>Share this article on <u><a href=\"https://twitter.com/intent/tweet?text=The%20labor%20story%20nobody%E2%80%99s%20talking%20about%3A%20A%20storied%20union%E2%80%99s%20new%20leadership%20has%20big%20plans%20to%20transform%20their%20organizing%20strategies.%20%0Ahttps%3A%2F%2Fwww.levernews.com%2Flever-weekly-state-of-the-unions%2F%3Futm_source%3Dtwitter%26utm_medium%3Dlink%26utm_campaign%3Dtw-prefill\">Twitter</a></u> and forward this email<em> </em>to encourage others <a href=\"https://levernews.com/membership/?utm_source=daily&amp;utm_medium=link&amp;utm_campaign=forward-signup\">to subscribe to <em>The Lever</em></a>.</p>",
+        "buttonText": "",
+        "buttonUrl": ""
+      }
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "email-cta",
+      {
+        "showButton": false,
+        "showDividers": false,
+        "segment": "status:free",
+        "alignment": "left",
+        "html": "<p>The second development received much less coverage — but it’s equally if not more momentous. The entrenched....</p>"
+      }
+    ],
+    [
+      "paywall",
+      {}
+    ],
+    [
+      "email-cta",
+      {
+        "showButton": true,
+        "showDividers": false,
+        "segment": "status:-free",
+        "alignment": "center",
+        "html": "",
+        "buttonText": "Click Here To Comment",
+        "buttonUrl": "__GHOST_URL__/lever-weekly-state-of-the-unions/#comments"
+      }
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "email",
+      {
+        "html": "<p><em><strong>Help us spread the word! </strong>Please forward this email to family and friends.</em></p><p><em><strong>Was this email forwarded to you? </strong><a href=\"https://levernews.com/membership/\">Sign up for free</a> to receive original reporting like this in your inbox every day.</em></p>"
+      }
+    ]
+  ],
+  "markups": [
+    [
+      "em"
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/how-biden-and-buttigieg-could-deliver-sick-leave-to-rail-workers/"
+      ]
+    ],
+    [
+      "strong"
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/our-life-only-functions-around-the-railroad/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/the-private-equity-black-box-pours-new-york-pensions-touting-divestment-into-fossil-fuels/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/manchins-pipeline-campaign-continues/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/you-love-to-see-it-a-fossil-fuel-free-future-for-la/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/coming-monday-the-audit-season-two-featuring-nina-turner"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/why-biden-betrayed-railroad-workers/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.callin.com/episode/the-levers-reporters-on-the-railroad-contract-pSbnJmOocM"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/in-defense-of-elitism-w-joel-stein/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/railroad-ceos-were-paid-over-200-million-as-workers-suffered/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/biden-is-breaking-his-sick-leave-promise-to-crush-rail-workers/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/senators-help-donors-derail-paid-sick-days/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://uawd.org"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://olmsapps.dol.gov/query/orgReport.do?rptId=813113&rptForm=LM2Form"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.freep.com/story/money/business/2015/03/31/uaw-membership-growth-department-of-labor-organizing-automotive/70715458/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.americanautomakers.org/us-economic-contributions"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.nytimes.com/2022/07/31/business/uaw-autoworkers-union-corruption.html"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/the-modern-day-captains-of-industry-linked-to-the-nazis/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.npr.org/2013/10/21/236983306/volkswagen-union-opposed-by-tennessee-republican-officials"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://labornotes.org/2017/08/why-did-nissan-workers-vote-no"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.labornotes.org/blogs/2019/10/gm-strike-anthems-rap-tracks-picket-lines"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.fra.dot.gov/statelaws/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://labornotes.org/2022/07/2022-labor-notes-special-moment-labor-movement"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://theintercept.com/2021/05/11/ups-union-teamsters-president-election/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.railroadworkersunited.org"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://twitter.com/davidsirota/status/1600550111318134784?cxt=HHwWgMCi5ZP2pbYsAAAA"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://whogetsthebird.substack.com/p/weekly84"
+      ]
+    ]
+  ],
+  "sections": [
+    [
+      10,
+      0
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "This is Lever Weekly, a recap of our work from the past week. If you only read one email from us all week, this should be it."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Below you will find a breakdown of our reporting, podcasts, videos, and live events — a feature now open to all subscribers. Following that, we are providing paid subscribers with an original column, written by a member of "
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "The Lever"
+        ],
+        [
+          0,
+          [],
+          0,
+          ", connecting the dots on our coverage to deliver important takeaways."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "In this week’s column, exclusively for paid subscribers, Matthew Cunningham-Cook analyzes how a new form of voting shook up recent union elections, with monumental implications for organized labor across the country."
+        ]
+      ]
+    ],
+    [
+      10,
+      1
+    ],
+    [
+      1,
+      "h3",
+      [
+        [
+          0,
+          [],
+          0,
+          "Stuff The Lever Reported This Week:"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "• "
+        ],
+        [
+          0,
+          [
+            1,
+            2
+          ],
+          2,
+          "How Biden and Buttigieg Could Deliver Sick Leave To Rail Workers"
+        ],
+        [
+          0,
+          [],
+          0,
+          " — “"
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "When he forced a contract on rail workers, the president pledged to continue the fight to provide them paid sick leave — here is how he could do it."
+        ],
+        [
+          0,
+          [],
+          0,
+          "”"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "• "
+        ],
+        [
+          0,
+          [
+            3
+          ],
+          0,
+          "“"
+        ],
+        [
+          0,
+          [
+            2
+          ],
+          2,
+          "Our Life Only Functions Around The Railroad”"
+        ],
+        [
+          0,
+          [
+            2
+          ],
+          1,
+          " "
+        ],
+        [
+          0,
+          [],
+          0,
+          "— “"
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "After Congress imposed a labor agreement on railroad workers, a longtime BNSF conductor explains why he feels betrayed — and how his job has gotten worse."
+        ],
+        [
+          0,
+          [],
+          0,
+          "”"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "• "
+        ],
+        [
+          0,
+          [
+            4,
+            2
+          ],
+          2,
+          "How Retirees End Up Funding The Climate Crisis"
+        ],
+        [
+          0,
+          [],
+          0,
+          " — "
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "“Routing $500 million through a Blackstone fund, the New York State Common Retirement Fund is among the largest investors in a notorious Ohio coal plant.”"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "•"
+        ],
+        [
+          0,
+          [
+            2
+          ],
+          1,
+          " "
+        ],
+        [
+          0,
+          [
+            5,
+            2
+          ],
+          2,
+          "Manchin’s Pipeline Campaign Continues"
+        ],
+        [
+          0,
+          [],
+          0,
+          " —"
+        ],
+        [
+          0,
+          [
+            2
+          ],
+          1,
+          " "
+        ],
+        [
+          0,
+          [],
+          0,
+          "“"
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "The coal baron senator and his fossil fuel allies are still pushing to fast-track the construction of dirty pipelines as a matter of national security."
+        ],
+        [
+          0,
+          [],
+          0,
+          "”"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "• "
+        ],
+        [
+          0,
+          [
+            2,
+            6
+          ],
+          1,
+          "YOU LOVE TO SEE IT: A Fossil Fuel-Free Future For LA"
+        ],
+        [
+          0,
+          [],
+          1,
+          " —"
+        ],
+        [
+          0,
+          [
+            0,
+            2
+          ],
+          1,
+          " \""
+        ],
+        [
+          0,
+          [],
+          1,
+          "In Los Angeles, grassroots organizers made history by banning projects that have long harmed the health of millions of residents.\""
+        ]
+      ]
+    ],
+    [
+      1,
+      "h3",
+      [
+        [
+          0,
+          [],
+          0,
+          "Stuff To Watch & Listen To:"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "•  "
+        ],
+        [
+          0,
+          [
+            7,
+            2
+          ],
+          2,
+          "The Audit Season Two, Featuring Nina Turner!"
+        ],
+        [
+          0,
+          [
+            2
+          ],
+          1,
+          " —"
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          " Dave Anthony and Josh Olson will be joined by a new study buddy: the one-and-only Senator Nina Turner."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "• "
+        ],
+        [
+          0,
+          [
+            8,
+            2
+          ],
+          2,
+          "LEVER TIME: Why Biden Betrayed Railroad Workers"
+        ],
+        [
+          0,
+          [],
+          0,
+          " — "
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "We explore why the Democrats sided with railroad barons; dig into a new documentary on the student debt crisis; and engage with a humorous defense of elitism."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "• "
+        ],
+        [
+          0,
+          [
+            9,
+            2
+          ],
+          2,
+          "LEVER LIVE: The Railroad Contract & Georgia Runoff Election"
+        ],
+        [
+          0,
+          [
+            2
+          ],
+          1,
+          " —"
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          " David Sirota and "
+        ],
+        [
+          0,
+          [],
+          0,
+          "The Lever"
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "’s reporters discuss how the Democrats betrayed railroad workers and the implications of the Georgia runoff election."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "• "
+        ],
+        [
+          0,
+          [
+            10,
+            2
+          ],
+          2,
+          "LEVER TIME PREMIUM: In Defense Of Elitism (w/ Joel Stein)"
+        ],
+        [
+          0,
+          [
+            0,
+            2
+          ],
+          2,
+          " "
+        ],
+        [
+          0,
+          [
+            2
+          ],
+          1,
+          "— "
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "Joel Warner interviews journalist and author Joel Stein about his recent book, a humorous and self-deprecating defense of intellectual elitism."
+        ]
+      ]
+    ],
+    [
+      10,
+      2
+    ],
+    [
+      1,
+      "h3",
+      [
+        [
+          0,
+          [],
+          0,
+          "State Of The Unions"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Two monumental labor developments occurred in recent weeks — and both could have long-lasting implications for the state of the country’s unions."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "The first development was that the Democratic Congress failed to pass a paltry seven days of paid sick leave as part of its legislative efforts crushing a proposed strike. This happened after railroad CEOs raked in more than "
+        ],
+        [
+          0,
+          [
+            11
+          ],
+          1,
+          "$200 million"
+        ],
+        [
+          0,
+          [],
+          0,
+          " over the past few years, after President Joe Biden had "
+        ],
+        [
+          0,
+          [
+            12
+          ],
+          1,
+          "pledged"
+        ],
+        [
+          0,
+          [],
+          0,
+          " to support paid sick leave for all American workers, and after paid sick leave would "
+        ],
+        [
+          0,
+          [
+            13
+          ],
+          1,
+          "cost"
+        ],
+        [
+          0,
+          [],
+          0,
+          " the railroads at most four days of recent profits."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "(By the way, Biden and his administration "
+        ],
+        [
+          0,
+          [
+            1
+          ],
+          1,
+          "could"
+        ],
+        [
+          0,
+          [],
+          0,
+          " still give rail workers relief if he wanted to.)"
+        ]
+      ]
+    ],
+    [
+      10,
+      3
+    ],
+    [
+      10,
+      4
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "The second development received much less coverage — but it’s equally if not more momentous. The entrenched “Administration Caucus” of the storied United Auto Workers (UAW), which has controlled the union for more than 75 years, fell to defeat during the union’s first-ever “One Member, One Vote” elections, as opposed to past indirect elections, in which delegates were far more likely to be supportive of the establishment candidates."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "In a landslide, upstart reformers aligned with the "
+        ],
+        [
+          0,
+          [
+            14
+          ],
+          1,
+          "Unite All Workers for Democracy"
+        ],
+        [
+          0,
+          [],
+          0,
+          " movement won the union’s second-most powerful role, the Secretary-Treasurer’s office. Reformers also won two out of three vice president positions, and scored two key regional director jobs, including the director of the all-important Detroit region, where the auto industry remains centralized."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "The most important job in the union, the UAW presidency, is now headed to a runoff election in January and/or February, in which reformers are heavily favored to win, due to the fact that the incumbent president garnered less than 40 percent of the votes during the recent election. In total, reformers are set to have a majority on the union’s executive board next year."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "It’s difficult to overstate the importance of this development. The UAW is the classic definition of a sleeping giant. Down to slightly more than "
+        ],
+        [
+          0,
+          [
+            15
+          ],
+          1,
+          "370,000"
+        ],
+        [
+          0,
+          [],
+          0,
+          " active members from a high of "
+        ],
+        [
+          0,
+          [
+            16
+          ],
+          1,
+          "1.5 million"
+        ],
+        [
+          0,
+          [],
+          0,
+          " in 1979, the UAW still occupies a central role in the country’s economy as the primary union in the auto industry, which is responsible for "
+        ],
+        [
+          0,
+          [
+            17
+          ],
+          1,
+          "3 percent"
+        ],
+        [
+          0,
+          [],
+          0,
+          " of the country’s gross domestic product. But the union’s current leaders — in addition to being immersed in a "
+        ],
+        [
+          0,
+          [
+            18
+          ],
+          1,
+          "far-reaching corruption scandal"
+        ],
+        [
+          0,
+          [],
+          0,
+          " that has sent two former UAW presidents to prison — have been unable to organize the new foreign-owned auto plants in the South over the past two decades."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "The UAW even failed in its efforts to organize a Tennessee Volkswagen plant in 2014, even though the "
+        ],
+        [
+          0,
+          [
+            19
+          ],
+          1,
+          "German company"
+        ],
+        [
+          0,
+          [],
+          0,
+          " stayed neutral instead of launching a typical anti-union campaign, "
+        ],
+        [
+          0,
+          [
+            20
+          ],
+          1,
+          "relegating such union-busting efforts"
+        ],
+        [
+          0,
+          [],
+          0,
+          " to powerful Republicans in the state."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "The UAW’s failure to organize the South is incredibly dangerous for an increasingly unequal country. More and more auto manufacturing is being done in fiercely right-to-work states; Nissan is in Mississippi, Volkswagen is in Tennessee, BMW is in South Carolina, and Hyundai is in Alabama. For the UAW to survive, it must make gains in these plants — as well as organize Tesla workers in California and Nevada."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "What explains the UAW’s inability to organize in the South? A big reason is the quality of the UAW’s contracts. While many unions will accede to management demands for higher-benefit tiers to more senior members related to matters like pension and retiree health benefits, most labor organizations don’t agree to wage tiers. That’s because such wage tiers are utterly destructive to the principle of solidarity, and limit a union’s ability to mobilize its greatest resource, its membership, when organizing new workers."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "But in 2007, the UAW began to agree to the wage tiers demanded by auto corporations — meaning tens of thousands of workers are now doing the same work as their more senior peers without ever being able to make as much as them. And since wage tiers have long been a "
+        ],
+        [
+          0,
+          [
+            21
+          ],
+          1,
+          "source of discontent"
+        ],
+        [
+          0,
+          [],
+          0,
+          " among non-union auto employees, that means UAW had less to offer them as incentives to organize."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "But under new UAW leadership, the sky could be the limit. Negotiations with the Big Three Automakers — GM, Ford, and Stellantis (a merger of Fiat Chrysler and Peugeot), — are scheduled for 2023, and the UAW candidates have pledged to end wage tiers, even if it requires a mammoth strike. And judging from the near-universal "
+        ],
+        [
+          0,
+          [
+            22
+          ],
+          1,
+          "participation"
+        ],
+        [
+          0,
+          [],
+          0,
+          " of workers in the 2019 GM strike, auto workers are ready to fight."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "A reformed UAW doesn’t just have the potential to revive a famous union and transform the lives of auto workers. The development could have far-reaching impacts on our national politics. Very few unions have been willing to launch the types of comprehensive strategic campaigns that utilize union members, community allies, and strategic research to take on entrenched non-union employers. The UAW, with more than "
+        ],
+        [
+          0,
+          [
+            15
+          ],
+          1,
+          "$1 billion"
+        ],
+        [
+          0,
+          [],
+          0,
+          " in assets, can do so. This money simply needs to be put to work."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "The success of reformers in the UAW also has very clear implications for the country’s 115,000 railroad workers, who garnered headlines for their toils over the past few weeks. Divided between seven different international unions, railroad workers are currently far too fractured to offer up a coherent voice in Washington, in "
+        ],
+        [
+          0,
+          [
+            23
+          ],
+          1,
+          "state capitals"
+        ],
+        [
+          0,
+          [],
+          0,
+          ", or in the viciously anti-union corporate media."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Like their dissident colleagues in the UAW, railroad workers need to unify and get organized, ideally under the new, "
+        ],
+        [
+          0,
+          [
+            24
+          ],
+          1,
+          "progressive leadership"
+        ],
+        [
+          0,
+          [],
+          0,
+          " of Teamsters President "
+        ],
+        [
+          0,
+          [
+            25
+          ],
+          1,
+          "Sean O’Brien"
+        ],
+        [
+          0,
+          [],
+          0,
+          ". The "
+        ],
+        [
+          0,
+          [
+            26
+          ],
+          1,
+          "Railroad Workers United"
+        ],
+        [
+          0,
+          [],
+          0,
+          " (RWU) group, a cross-union organization, has been doing yeoman’s work to bring railroad workers together across different unions and crafts in order to fight with a common voice, That’s why "
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "The Lever "
+        ],
+        [
+          0,
+          [
+            27
+          ],
+          1,
+          "pledged"
+        ],
+        [
+          0,
+          [],
+          0,
+          " that the revenue from new subscriptions this past week would go to RWU. Change is in the air, and it seems like now is the time to seize the moment. As friend of "
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "The Lever"
+        ],
+        [
+          0,
+          [],
+          0,
+          " Jonah Furman "
+        ],
+        [
+          0,
+          [
+            28
+          ],
+          1,
+          "wrote"
+        ],
+        [
+          0,
+          [],
+          0,
+          " in his excellent"
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          " Who Gets the Bird?"
+        ],
+        [
+          0,
+          [],
+          0,
+          " blog, “democratic elections with new, fighting leadership at the top of the UAW has been a dream of the left labor movement for literally generations.” Now that has finally started to happen — and we will be keeping a close eye on what comes next."
+        ]
+      ]
+    ],
+    [
+      10,
+      5
+    ],
+    [
+      10,
+      6
+    ],
+    [
+      10,
+      7
+    ],
+    [
+      1,
+      "p",
+      []
+    ]
+  ],
+  "ghostVersion": "4.0"
+}

@@ -1,0 +1,948 @@
+{
+  "version": "0.3.1",
+  "atoms": [
+    [
+      "soft-return",
+      "",
+      {}
+    ],
+    [
+      "soft-return",
+      "",
+      {}
+    ],
+    [
+      "soft-return",
+      "",
+      {}
+    ],
+    [
+      "soft-return",
+      "",
+      {}
+    ],
+    [
+      "soft-return",
+      "",
+      {}
+    ],
+    [
+      "soft-return",
+      "",
+      {}
+    ]
+  ],
+  "cards": [
+    [
+      "email-cta",
+      {
+        "showButton": true,
+        "showDividers": false,
+        "segment": "status:-free",
+        "alignment": "center",
+        "html": "<p><em><strong>This is our regular Weekend Reading List, a supporting subscriber-only feature that reviews some major must-reads of the week. If you only read one email from us all week, this one should be it, because it reviews everything we’ve done all week.</strong></em></p>",
+        "buttonText": "Click Here To Comment",
+        "buttonUrl": "__GHOST_URL__/weekend-reader-for-eric-adams-cruelty-is-the-point/#comments"
+      }
+    ],
+    [
+      "email",
+      {
+        "html": "<p><em><strong><a href=\"https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.levernews.com%2Fweekend-reader-for-eric-adams-cruelty-is-the-point%2F&amp;amp;src=sdkpreparse\">Click to share on Facebook</a></strong></em></p>"
+      }
+    ],
+    [
+      "paywall",
+      {}
+    ],
+    [
+      "embed",
+      {
+        "url": "https://www.youtube.com/watch?v=ZgKgd4QlVBg&list=PLLri3HDD8DQvwGrEDEee3nAwPRihFUHwk&index=7",
+        "html": "<iframe width=\"200\" height=\"113\" src=\"https://www.youtube.com/embed/ZgKgd4QlVBg?list=PLLri3HDD8DQvwGrEDEee3nAwPRihFUHwk\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+        "type": "video",
+        "metadata": {
+          "title": "MSM HIDES Defense Contractor-Ties Of War Hungry Ukraine Commentators: Report",
+          "author_name": "The Hill",
+          "author_url": "https://www.youtube.com/c/thehill",
+          "height": 113,
+          "width": 200,
+          "version": "1.0",
+          "provider_name": "YouTube",
+          "provider_url": "https://www.youtube.com/",
+          "thumbnail_height": 360,
+          "thumbnail_width": 480,
+          "thumbnail_url": "https://i.ytimg.com/vi/ZgKgd4QlVBg/hqdefault.jpg"
+        }
+      }
+    ],
+    [
+      "email-cta",
+      {
+        "showButton": true,
+        "showDividers": false,
+        "segment": "status:-free",
+        "alignment": "center",
+        "html": "",
+        "buttonText": "Click Here To Comment",
+        "buttonUrl": "__GHOST_URL__/weekend-reader-for-eric-adams-cruelty-is-the-point/#comments"
+      }
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "email-cta",
+      {
+        "showButton": true,
+        "showDividers": false,
+        "segment": "status:-free",
+        "alignment": "center",
+        "html": "",
+        "buttonText": "Tip Jar",
+        "buttonUrl": "https://dailyposter.outpost.pub/ghost-integration/60818189ad12f332071054b8/tips"
+      }
+    ],
+    [
+      "email",
+      {
+        "html": "<p><em><strong>Help us spread the word! </strong>Please forward this email to family and friends.</em></p><p><em><strong>Was this email forwarded to you? </strong><a href=\"https://levernews.com/membership/\">Sign up for free</a> to receive original reporting like this in your inbox every day.</em></p>"
+      }
+    ]
+  ],
+  "markups": [
+    [
+      "a",
+      [
+        "href",
+        "https://www.jacobinmag.com/2022/03/nyc-mayor-eric-adams-anti-lgbt-gay-marriage-pastors-appointments"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://nypost.com/2022/01/13/mayor-eric-adams-dodges-questions-about-brother-bernards-six-figure-nypd-gig/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://gothamist.com/news/adams-appoints-philip-banks-deputy-mayor-public-safety"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://jacobinmag.com/2022/03/nyc-eric-adams-media-profiles-police-homelessness"
+      ]
+    ],
+    [
+      "em"
+    ],
+    [
+      "strong"
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/you-love-to-see-it-tuckers-audience-gets-a-pro-union-message/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/watch-now-why-biden-isnt-really-going-after-amazon/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/how-union-workers-money-funds-a-union-buster/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/cheat-sheet-the-truth-about-student-debt/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/so-this-is-pramila-jayapals-strategy/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/amazons-union-buster-has-major-labor-clients/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/the-defense-industrys-ukraine-pundits/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/watch-now-the-secret-medicare-scheme/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/democrats-bail-on-promise-to-shed-light-on-corporate-political-spending/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://jacobinmag.com/2022/04/eric-adams-nyc-homeless-encampment-sweeps-shelters"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://theintercept.com/2022/04/15/crypto-campaign-donations/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.newyorker.com/books/under-review/the-forgotten-movement-to-reclaim-africas-stolen-art"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.nytimes.com/2022/04/07/magazine/billionaires.html"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.huffpost.com/entry/nyc-hydro-quebec_n_6256d08ae4b06c2ea3259aac?2iv"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.newyorker.com/magazine/2022/04/11/the-unravelling-of-an-expert-on-serial-killers"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.youtube.com/watch?v=ZgKgd4QlVBg&list=PLLri3HDD8DQvwGrEDEee3nAwPRihFUHwk&index=7"
+      ]
+    ]
+  ],
+  "sections": [
+    [
+      10,
+      0
+    ],
+    [
+      10,
+      1
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "In his early months as mayor of New York City, Eric Adams has managed to make headlines for all the wrong reasons. He "
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "appointed anti-LGBTQ pastors"
+        ],
+        [
+          0,
+          [],
+          0,
+          " to his administration, tried to "
+        ],
+        [
+          0,
+          [
+            1
+          ],
+          1,
+          "hire his brother"
+        ],
+        [
+          0,
+          [],
+          0,
+          " for a lucrative police department gig, and even installed a deputy mayor for public safety who was "
+        ],
+        [
+          0,
+          [
+            2
+          ],
+          1,
+          "caught up in a corruption scandal"
+        ],
+        [
+          0,
+          [],
+          0,
+          "."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Most notably, Adams has made it his personal mission to prioritize law and order at the cost of the city’s most vulnerable residents — a scheme "
+        ],
+        [
+          0,
+          [
+            3
+          ],
+          1,
+          "corporate media has helped move along"
+        ],
+        [
+          0,
+          [],
+          0,
+          ". But such an approach, which has included ramped-up homeless encampment sweeps, “is a theater of cruelty: a waste of resources that does nothing to address homeless New Yorkers’ need for housing,” as noted in a "
+        ],
+        [
+          0,
+          [
+            4
+          ],
+          1,
+          "Jacobin "
+        ],
+        [
+          0,
+          [],
+          0,
+          "story that we highlight below."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Read all about it in this week’s Weekend Reader, exclusively for supporting subscribers below."
+        ]
+      ]
+    ],
+    [
+      10,
+      2
+    ],
+    [
+      1,
+      "h3",
+      [
+        [
+          0,
+          [
+            5
+          ],
+          1,
+          "Stuff "
+        ],
+        [
+          0,
+          [
+            4,
+            5
+          ],
+          2,
+          "The Lever"
+        ],
+        [
+          0,
+          [
+            5
+          ],
+          1,
+          " Reported This Week:"
+        ]
+      ]
+    ],
+    [
+      3,
+      "ul",
+      [
+        [
+          [
+            0,
+            [
+              5,
+              5,
+              6,
+              5
+            ],
+            1,
+            "YOU LOVE TO SEE IT:"
+          ],
+          [
+            0,
+            [],
+            0,
+            " "
+          ],
+          [
+            0,
+            [
+              5
+            ],
+            4,
+            "Tucker’s Audience Gets A Pro-Union Message"
+          ]
+        ],
+        [
+          [
+            0,
+            [
+              5,
+              5,
+              7,
+              5
+            ],
+            4,
+            "WATCH NOW: Why Biden Isn’t Really Going After Amazon"
+          ]
+        ],
+        [
+          [
+            0,
+            [
+              5,
+              5,
+              8,
+              5
+            ],
+            4,
+            "How Union Workers’ Money Funds A Union Buster"
+          ]
+        ],
+        [
+          [
+            0,
+            [
+              5,
+              5,
+              9,
+              5
+            ],
+            4,
+            "CHEAT SHEET: The Truth About Student Debt"
+          ]
+        ],
+        [
+          [
+            0,
+            [
+              5,
+              5,
+              10,
+              5
+            ],
+            4,
+            "So This Is Pramila Jayapal’s Strategy"
+          ]
+        ],
+        [
+          [
+            0,
+            [
+              5,
+              5,
+              11,
+              5
+            ],
+            4,
+            "Amazon’s Union Buster Has Major Labor Clients"
+          ]
+        ],
+        [
+          [
+            0,
+            [
+              5,
+              5,
+              12,
+              5
+            ],
+            4,
+            "The Defense Industry’s Ukraine Pundits"
+          ]
+        ],
+        [
+          [
+            0,
+            [
+              5,
+              5,
+              13,
+              5
+            ],
+            4,
+            "WATCH NOW: The Secret Medicare Scheme"
+          ]
+        ],
+        [
+          [
+            0,
+            [
+              5,
+              5,
+              14,
+              5
+            ],
+            4,
+            "Democrats Bail On Promise To Shed Light On Corporate Political Spending"
+          ],
+          [
+            1,
+            [],
+            0,
+            0
+          ]
+        ]
+      ]
+    ],
+    [
+      1,
+      "h3",
+      [
+        [
+          0,
+          [],
+          0,
+          "Stuff We’re Reading:"
+        ]
+      ]
+    ],
+    [
+      3,
+      "ul",
+      [
+        [
+          [
+            0,
+            [
+              15,
+              5
+            ],
+            2,
+            "On Homelessness, Eric Adams Has Made Sadism New York’s Official Policy"
+          ],
+          [
+            0,
+            [
+              5
+            ],
+            1,
+            " "
+          ],
+          [
+            0,
+            [],
+            0,
+            "(Jacobin) — "
+          ],
+          [
+            0,
+            [
+              4
+            ],
+            1,
+            "“Encampment sweeps are not new: similar efforts provoked a riot in Tompkins Square Park in 1988 and proceeded apace under Rudy Giuliani in the 1990s. Under Bill de Blasio, nearly 10,000 sweeps were conducted by the Department of Sanitation, Department of Homeless Services, and the NYPD between 2016 and 2021, with sweeps even ramping up during the pandemic; De Blasio himself personally called in some of those sweeps, according to recently unearthed emails. But Eric Adams has made the policy an especially public priority.”"
+          ],
+          [
+            1,
+            [],
+            0,
+            1
+          ]
+        ],
+        [
+          [
+            0,
+            [
+              16,
+              5
+            ],
+            2,
+            "Crypto PAC Throws In $1 Million To Back Ohio Rep. Shontel Brown Over Nina Turner"
+          ],
+          [
+            0,
+            [
+              5
+            ],
+            1,
+            " "
+          ],
+          [
+            0,
+            [],
+            0,
+            "(The Intercept)"
+          ],
+          [
+            0,
+            [
+              4,
+              4
+            ],
+            0,
+            " — "
+          ],
+          [
+            0,
+            [
+              4
+            ],
+            3,
+            "“Progressive congressional candidates are waking up to a new variable that is upending the electoral calculus of races across the country: cryptocurrency. Some candidates are finding it advantageous to take crypto-sympathetic positions, while others are facing an onslaught of crypto spending that is reshaping their primaries. In a 2021 special election, former state Sen. Nina Turner faced more than $2 million in outside spending by the super PAC Democratic Majority for Israel, swinging the race for Shontel Brown in the closing weeks. In her rematch, Turner faces a new obstacle. A super PAC bankrolled by crypto billionaire Sam Bankman-Fried, Protect Our Future, has already spent more than $1 million backing Brown, according to Federal Election Commission reports. And this week, the Congressional Progressive Caucus PAC endorsed Brown after having backed Turner last year.”"
+          ],
+          [
+            1,
+            [],
+            0,
+            2
+          ]
+        ],
+        [
+          [
+            0,
+            [
+              17,
+              5
+            ],
+            2,
+            "The Forgotten Movement To Reclaim Africa’s Stolen Art"
+          ],
+          [
+            0,
+            [
+              5
+            ],
+            1,
+            " "
+          ],
+          [
+            0,
+            [],
+            0,
+            "(The New Yorker) — "
+          ],
+          [
+            0,
+            [
+              4
+            ],
+            1,
+            "“Away from the bright lights of political assemblies, in the quiet offices of Europe’s ethnographic collections, museum professionals mounted a white-gloved resistance. Publicly, this involved a rhetoric of universalism, the exaggerated spectre of vacant museums, and diversionary offers of developmental assistance. Privately, it extended to sabotaging international committees, ostracizing dissenters, and denigrating African claimants as unfit to conserve their heritage.”"
+          ],
+          [
+            1,
+            [],
+            0,
+            3
+          ]
+        ],
+        [
+          [
+            0,
+            [
+              18,
+              5
+            ],
+            2,
+            "How Many Billionaires Are There, Anyway?"
+          ],
+          [
+            0,
+            [],
+            0,
+            " (The New York Times) — "
+          ],
+          [
+            0,
+            [
+              4
+            ],
+            1,
+            "“Nothing special happens when you become a billionaire. There isn’t a little red light that flips on at I.R.S. headquarters. At the low end, it’s not even a stable status; market fluctuations push people in and out of billionairedom every day. What’s incredible is how little information we have a right to know about them, these 735 Americans who have amassed, at minimum, the G.D.P. of a small island nation. We can know only what they share — or can’t hide — from journalists. And certainly some are better at hiding than others.”"
+          ],
+          [
+            1,
+            [],
+            0,
+            4
+          ]
+        ],
+        [
+          [
+            0,
+            [
+              19,
+              5
+            ],
+            2,
+            "NYC’s Big Clean-Energy Project Poses A Major Climate Test For The Country"
+          ],
+          [
+            0,
+            [
+              5
+            ],
+            1,
+            " "
+          ],
+          [
+            0,
+            [],
+            0,
+            "(HuffPost) — "
+          ],
+          [
+            0,
+            [
+              4
+            ],
+            1,
+            "“On Thursday, state regulators will decide the fate of a long-fought proposal to run a transmission line down the Hudson River from hydropower dams in Québec to the New York City neighborhood of Astoria. The project, called the Champlain Hudson Power Express, would replace half of the capacity lost when Indian Point’s reactors stopped running and provide the kind of fast, reliable electricity that weather-dependent renewables like wind and solar struggle to produce on their own… Yet as the state Public Service Commission weighs whether the lucrative contract to build and operate the project is in New Yorkers’ interest, a small but vocal alliance of gas companies, environmental groups and Indigenous tribes has formed to persuade regulators to kill the transmission line.”"
+          ]
+        ],
+        [
+          [
+            0,
+            [
+              20,
+              5
+            ],
+            2,
+            "The Unraveling Of An Expert On Serial Killers"
+          ],
+          [
+            0,
+            [
+              5
+            ],
+            1,
+            " "
+          ],
+          [
+            0,
+            [],
+            0,
+            "(The New Yorker) — "
+          ],
+          [
+            0,
+            [
+              4
+            ],
+            1,
+            "“Bourgoin knew the power of fandom, having spent decades stoking the public’s emotional investment in true crime. But he underestimated the intelligence of the audience. After years of watching TV specials, attending talks, reading books, and replaying DVD boxed sets about necrophilia, satanism, bestiality, torture, infanticide, matricide, patricide, and the like, followers of the genre had learned not to count on anybody’s better angels, or to underestimate humankind’s capacity for deceit. They were connoisseurs of the self-valorizing lie, having been trained by authors like the ‘master of noir’ himself.”"
+          ],
+          [
+            1,
+            [],
+            0,
+            5
+          ]
+        ]
+      ]
+    ],
+    [
+      1,
+      "h3",
+      [
+        [
+          0,
+          [],
+          0,
+          "Stuff To Watch & Listen To:"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [
+            21,
+            5
+          ],
+          2,
+          "MSM Hides Defense Contractor Ties Of War-Hungry Ukraine Commentators"
+        ],
+        [
+          0,
+          [
+            4
+          ],
+          1,
+          " "
+        ],
+        [
+          0,
+          [],
+          0,
+          "(The Hill) — The Lever"
+        ],
+        [
+          0,
+          [
+            4
+          ],
+          1,
+          "’s Andrew Perez joins "
+        ],
+        [
+          0,
+          [],
+          0,
+          "The Hill"
+        ],
+        [
+          0,
+          [
+            4
+          ],
+          1,
+          " to discuss "
+        ],
+        [
+          0,
+          [
+            12,
+            4
+          ],
+          2,
+          "new reporting"
+        ],
+        [
+          0,
+          [
+            4
+          ],
+          1,
+          " on cables news’ long parade of military officials-turned-defense contractors invited on to endorse increased U.S. involvement in the Ukraine war — while failing to disclose these analysts’ financial ties to defense companies."
+        ]
+      ]
+    ],
+    [
+      10,
+      3
+    ],
+    [
+      10,
+      4
+    ],
+    [
+      10,
+      5
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [
+            4,
+            5
+          ],
+          1,
+          "Our news organization relies on readers pitching in to support our journalism. "
+        ],
+        [
+          0,
+          [
+            4,
+            5
+          ],
+          3,
+          "If you like this story, please support "
+        ],
+        [
+          0,
+          [
+            5,
+            4,
+            5
+          ],
+          3,
+          "our"
+        ],
+        [
+          0,
+          [
+            4,
+            4,
+            5
+          ],
+          3,
+          " work."
+        ]
+      ]
+    ],
+    [
+      10,
+      6
+    ],
+    [
+      10,
+      7
+    ]
+  ],
+  "ghostVersion": "4.0"
+}

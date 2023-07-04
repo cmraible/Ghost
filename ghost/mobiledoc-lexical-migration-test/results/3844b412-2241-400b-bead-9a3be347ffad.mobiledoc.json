@@ -1,0 +1,337 @@
+{
+  "version": "0.3.1",
+  "atoms": [],
+  "cards": [
+    [
+      "hr",
+      {}
+    ],
+    [
+      "embed",
+      {
+        "url": "https://twitter.com/journohelen/status/1103268341911826436",
+        "html": "<blockquote class=\"twitter-tweet\"><p lang=\"en\" dir=\"ltr\">Stories up to 500 words are ‘snackable’ and very shareable whole those over 800 words are for ‘lean-back’ moments but less shareable <a href=\"https://twitter.com/hashtag/newsrw?src=hash&amp;ref_src=twsrc%5Etfw\">#newsrw</a></p>&mdash; Helen Johnston (@journohelen) <a href=\"https://twitter.com/journohelen/status/1103268341911826436?ref_src=twsrc%5Etfw\">March 6, 2019</a></blockquote>\n<script async src=\"https://platform.twitter.com/widgets.js\" charset=\"utf-8\"></script>\n",
+        "type": "rich"
+      }
+    ],
+    [
+      "embed",
+      {
+        "url": "https://twitter.com/johncthompson/status/1103267290383110149",
+        "html": "<blockquote class=\"twitter-tweet\"><p lang=\"en\" dir=\"ltr\">.<a href=\"https://twitter.com/JGjortz?ref_src=twsrc%5Etfw\">@JGjortz</a> One better model is to use linear visual storytelling. Images are there as narrative statements, an engine for the story <a href=\"https://twitter.com/hashtag/newsrw?src=hash&amp;ref_src=twsrc%5Etfw\">#newsrw</a></p>&mdash; John Thompson (@johncthompson) <a href=\"https://twitter.com/johncthompson/status/1103267290383110149?ref_src=twsrc%5Etfw\">March 6, 2019</a></blockquote>\n<script async src=\"https://platform.twitter.com/widgets.js\" charset=\"utf-8\"></script>\n",
+        "type": "rich"
+      }
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "embed",
+      {
+        "url": "https://www.youtube.com/watch?v=Jka-jlyd6O0",
+        "html": "<iframe width=\"480\" height=\"270\" src=\"https://www.youtube.com/embed/Jka-jlyd6O0?feature=oembed\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+        "type": "video"
+      }
+    ]
+  ],
+  "markups": [
+    [
+      "em"
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.journalism.co.uk/news/-smartden-why-quartz-does-not-publish-500-to-800-word-articles/s2/a554444/"
+      ]
+    ],
+    [
+      "strong"
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.ampproject.org/stories/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.bbc.co.uk/rd/blog/2018-07-prototyping-news-story-article-format-journalism"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.cuepublishing.com"
+      ]
+    ]
+  ],
+  "sections": [
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "Jacob Gjørtz, VP marketing at CCI Europe, gave a talk at news:rewired in March 2019, discussing the shift to a mobile-dominant world, and addressing the challenges it brings for our story format. These are my liveblogged notes. "
+        ]
+      ]
+    ],
+    [
+      10,
+      0
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "52% of internet traffic is now on mobile. The average adult spends over two hours on their devices. News consumers “snack” - they spend about 12 minutes per session. How do we get them to spend longer on our stories?"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "One problem is that we’re still using a story format designed for an older device — paper. Pictures are there only as illustrations. It’s a format still focused on the words to tell the story."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [
+            0,
+            0
+          ],
+          2,
+          "Quartz"
+        ],
+        [
+          0,
+          [],
+          0,
+          " looked at that format, and came up with the "
+        ],
+        [
+          0,
+          [
+            1
+          ],
+          1,
+          "Quartz Curve"
+        ],
+        [
+          0,
+          [],
+          0,
+          " - the split between stackable, shareable content, and the longer reads. The middle ground (500 to 800 words for "
+        ],
+        [
+          0,
+          [
+            0,
+            0
+          ],
+          1,
+          "Quartz"
+        ],
+        [
+          0,
+          [],
+          1,
+          " "
+        ],
+        [
+          0,
+          [],
+          0,
+          "- not the same everywhere) doesn’t engage the readers."
+        ]
+      ]
+    ],
+    [
+      10,
+      1
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Linear Visual Story Formats"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "So how about linear visual storytelling? It’s a swipe and scroll native format. It allows them to engage with the story in a much more natural way. Images are no longer illustrations, they’re narrative elements. They’re an engine of the story. There are various formats in this space:"
+        ]
+      ]
+    ],
+    [
+      3,
+      "ul",
+      [
+        [
+          [
+            0,
+            [
+              2,
+              3
+            ],
+            2,
+            "AMP Stories"
+          ],
+          [
+            0,
+            [],
+            0,
+            ": a format invented by Google, designed for a good mobile experience. Lots of images, less text, scroll through it at will."
+          ]
+        ],
+        [
+          [
+            0,
+            [
+              2
+            ],
+            1,
+            "Timelines"
+          ],
+          [
+            0,
+            [],
+            0,
+            ": a visual format with more of a balance between images and text, over a time-based scrollable format."
+          ]
+        ],
+        [
+          [
+            0,
+            [
+              2,
+              4
+            ],
+            2,
+            "Expanders"
+          ],
+          [
+            0,
+            [],
+            0,
+            ":  developed by the BBC - they are less image heavy, but allow users to \"snack\" on a short story or expand into further content."
+          ]
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Traditionally, we create stories in fields, especially when working in a CMS. Could we break that down to small atomic elements: paragraphs, photos, embeds, etc? "
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Then you can take those elements and rebuild new stories in new formats out of them."
+        ]
+      ]
+    ],
+    [
+      10,
+      2
+    ],
+    [
+      10,
+      3
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [
+            0
+          ],
+          0,
+          "Jacob"
+        ],
+        [
+          0,
+          [
+            2
+          ],
+          1,
+          " "
+        ],
+        [
+          0,
+          [],
+          0,
+          "works for CCI which offers a product — "
+        ],
+        [
+          0,
+          [
+            5
+          ],
+          1,
+          "Cue"
+        ],
+        [
+          0,
+          [],
+          1,
+          " — which tries to address the problem set out above. Here's a video which explains it:"
+        ]
+      ]
+    ],
+    [
+      10,
+      4
+    ]
+  ],
+  "ghostVersion": "3.0"
+}

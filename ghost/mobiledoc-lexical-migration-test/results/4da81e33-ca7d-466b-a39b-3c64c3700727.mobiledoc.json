@@ -1,0 +1,429 @@
+{
+  "version": "0.3.1",
+  "atoms": [],
+  "cards": [
+    [
+      "hr",
+      {}
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "html",
+      {
+        "html": "<table id=\"production-numbers-table\">\n<tbody>\n\t<tr>\n\t\t<td>Coupe DeVille</td>\n\t\t<td>112,201</td>\n\t</tr>\n    \t<tr>\n\t\t<td>4-DR Sedan</td>\n\t\t<td>60,419</td>\n\t</tr>\n\t\t<td><b>Total Production</b></td>\n\t\t<td><b>172,620</b></td>\n\t</tr>\n</tbody>\n</table>"
+      }
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "html",
+      {
+        "html": "<table id=\"performance-specs-table\">\n<tbody>\n\t<tr>\n\t\t<th><b>Engine</b></th>\n\t\t<th><b>Size</b></td>\n\t\t<th><b>Carb.</b></td>\n\t\t<th><b>HP</b></td>\n\t\t<th><b>Torque</b></td>\n\t\t<th><b>0 to 60</b></td>\n\t\t<th><b>Quarter mile</b></td>\n\t</tr>\n\t<tr>\n\t\t<td>OHV V8</td>\n\t\t<td>472ci</td>\n\t\t<td>1x4bbl</td>\n\t\t<td>205</td>\n\t\t<td>365 lb-ft</td>\n\t\t<td>11.2 sec</td>\n\t\t<td>18.2 sec</td>\n\t</tr>\n</tbody>\n</table>"
+      }
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "html",
+      {
+        "html": "<h4 id='colors-sub-heading'>Exterior</h4>\n<div class=\"colors-row\">\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #ece4d3\"></div>\n        <div class=\"color-name\">Cotillion White</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #858990\"></div>\n        <div class=\"color-name\">Georgian Silver</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #3d3e45\"></div>\n        <div class=\"color-name\">Deauville Gray</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #4c6a8c\"></div>\n        <div class=\"color-name\">Antiqua Blue</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #283340\"></div>\n        <div class=\"color-name\">Diplomat Blue</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #8c9c84\"></div>\n        <div class=\"color-name\">Lido Green</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #b34734\"></div>\n        <div class=\"color-name\">Mandarin Orange</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #a28264\"></div>\n        <div class=\"color-name\">Pueblo Beige</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #859869\"></div>\n        <div class=\"color-name\">Jasper Green</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #404d3f\"></div>\n        <div class=\"color-name\">Pinehurst Green</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #978659\"></div>\n        <div class=\"color-name\">Promenade Gold</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #f6e576\"></div>\n        <div class=\"color-name\">Apollo Yellow</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #684731\"></div>\n        <div class=\"color-name\">Canyon Amber</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #b78a5a\"></div>\n        <div class=\"color-name\">Conestoga Tan</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #352b24\"></div>\n        <div class=\"color-name\">Chesterfield Brown</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #934131\"></div>\n        <div class=\"color-name\">Andes Copper</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #9e2422\"></div>\n        <div class=\"color-name\">Dynasty Red</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #213464\"></div>\n        <div class=\"color-name\">Regal Blue Firemist</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #97582f\"></div>\n        <div class=\"color-name\">Victorian Amber Firemist</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #ad8b64\"></div>\n        <div class=\"color-name\">Pharaoh Gold Firemist</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #687f48\"></div>\n        <div class=\"color-name\">Persian Lime Firemist</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #882d28\"></div>\n        <div class=\"color-name\">Terra Cotta Firemist</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #5e1e27\"></div>\n        <div class=\"color-name\">Cranberry Firemist</div>\n    </div>\n</div>\n\n<h4 id='colors-sub-heading'>Interior</h4>\n<div class=\"colors-row\">\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #000000\"></div>\n        <div class=\"color-name\">Black</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #212c3e\"></div>\n        <div class=\"color-name\">Antique Dark Blue</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #524438\"></div>\n        <div class=\"color-name\">Medium Saddle</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #ebba48\"></div>\n        <div class=\"color-name\">Antique Medium Maize</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #b1a084\"></div>\n        <div class=\"color-name\">Antique Light Sandalwood</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #9e2422\"></div>\n        <div class=\"color-name\">Medium Red</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #404d3f\"></div>\n        <div class=\"color-name\">Antique Medium Green</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #882d28\"></div>\n        <div class=\"color-name\">Antique Terra Cotta</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #b0632c\"></div>\n        <div class=\"color-name\">Medium Amber</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #b34734\"></div>\n        <div class=\"color-name\">Medium Mandarin</div>\n    </div>\n</div>\n"
+      }
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "gallery",
+      {
+        "images": [
+          {
+            "fileName": "2410_14_low_res.jpg",
+            "row": 0,
+            "width": 790,
+            "height": 773,
+            "src": "__GHOST_URL__/content/images/2020/07/2410_14_low_res.jpg"
+          },
+          {
+            "fileName": "2411_15_low_res.jpg",
+            "row": 0,
+            "width": 790,
+            "height": 757,
+            "src": "__GHOST_URL__/content/images/2020/07/2411_15_low_res.jpg"
+          },
+          {
+            "fileName": "2412_16_low_res.jpg",
+            "row": 0,
+            "width": 790,
+            "height": 766,
+            "src": "__GHOST_URL__/content/images/2020/07/2412_16_low_res.jpg"
+          },
+          {
+            "fileName": "2413_17_low_res.jpg",
+            "row": 1,
+            "width": 790,
+            "height": 760,
+            "src": "__GHOST_URL__/content/images/2020/07/2413_17_low_res.jpg"
+          },
+          {
+            "fileName": "2414_18_low_res.jpg",
+            "row": 1,
+            "width": 790,
+            "height": 770,
+            "src": "__GHOST_URL__/content/images/2020/07/2414_18_low_res.jpg"
+          },
+          {
+            "fileName": "2415_19_low_res.jpg",
+            "row": 1,
+            "width": 790,
+            "height": 764,
+            "src": "__GHOST_URL__/content/images/2020/07/2415_19_low_res.jpg"
+          },
+          {
+            "fileName": "2416_20_low_res.jpg",
+            "row": 2,
+            "width": 790,
+            "height": 774,
+            "src": "__GHOST_URL__/content/images/2020/07/2416_20_low_res.jpg"
+          },
+          {
+            "fileName": "2408_1_low_res.jpg",
+            "row": 2,
+            "width": 790,
+            "height": 762,
+            "src": "__GHOST_URL__/content/images/2020/07/2408_1_low_res.jpg"
+          },
+          {
+            "fileName": "2409_2_low_res.jpg",
+            "row": 2,
+            "width": 790,
+            "height": 768,
+            "src": "__GHOST_URL__/content/images/2020/07/2409_2_low_res.jpg"
+          }
+        ],
+        "caption": "1974 Cadillac DeVille OEM Brochures"
+      }
+    ],
+    [
+      "gallery",
+      {
+        "images": [
+          {
+            "fileName": "2418_24_low_res.jpg",
+            "row": 0,
+            "width": 790,
+            "height": 753,
+            "src": "__GHOST_URL__/content/images/2020/07/2418_24_low_res.jpg"
+          },
+          {
+            "fileName": "2419_25_low_res.jpg",
+            "row": 0,
+            "width": 790,
+            "height": 760,
+            "src": "__GHOST_URL__/content/images/2020/07/2419_25_low_res.jpg"
+          },
+          {
+            "fileName": "2420_26_low_res.jpg",
+            "row": 0,
+            "width": 790,
+            "height": 760,
+            "src": "__GHOST_URL__/content/images/2020/07/2420_26_low_res.jpg"
+          },
+          {
+            "fileName": "2417_23_low_res.jpg",
+            "row": 1,
+            "width": 790,
+            "height": 761,
+            "src": "__GHOST_URL__/content/images/2020/07/2417_23_low_res.jpg"
+          }
+        ],
+        "caption": "1974 Cadillac DeVille OEM Brochures"
+      }
+    ],
+    [
+      "hr",
+      {}
+    ]
+  ],
+  "markups": [
+    [
+      "strong"
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/tag/research/"
+      ]
+    ]
+  ],
+  "sections": [
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Overview"
+        ]
+      ]
+    ],
+    [
+      10,
+      0
+    ],
+    [
+      1,
+      "h3",
+      [
+        [
+          0,
+          [],
+          0,
+          "The 1974 DeVille received a wide eggcrate with dual round headlamps mounted close together in square bezels. Rear fendersides were flatter without the elliptical bulge. The rear end had vertical bumper ends with the taillight built in."
+        ]
+      ]
+    ],
+    [
+      10,
+      1
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "The 1974 DeVille received a wide eggcrate with dual round headlamps mounted close together in square bezels. Rear fendersides were flatter without the elliptical bulge. The rear end had vertical bumper ends with the taillight built in."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Coupe DeVilles were no longer hardtops, instead sporting large wide \"coach\" windows giving a thick center pillar look."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "A special edition DeVille was available for both Coupe and Sedan, the D'Elegance. A \"see-through\" standup crest for the hood immediately identified the car from other DeVilles. The cars received special \"d'Elegance\" script that appeared on the sail panel behind the quarter window. Inside, the cars were treated with two-toned Mardi Gras - available with matching leather. Other features included deluxe door pads trimmed in Mardi Gras, storage pockets, and deep-pile carpeting."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Output saw a drop in power to a now SAE rated 205 hp."
+        ]
+      ]
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Production Numbers"
+        ]
+      ]
+    ],
+    [
+      10,
+      2
+    ],
+    [
+      10,
+      3
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Performance Specs"
+        ]
+      ]
+    ],
+    [
+      10,
+      4
+    ],
+    [
+      10,
+      5
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Transmission"
+        ]
+      ]
+    ],
+    [
+      10,
+      6
+    ],
+    [
+      3,
+      "ul",
+      [
+        [
+          [
+            0,
+            [
+              0,
+              0
+            ],
+            2,
+            "Turbo Hydra-Matic Auto"
+          ]
+        ]
+      ]
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Paint & Colors"
+        ]
+      ]
+    ],
+    [
+      10,
+      7
+    ],
+    [
+      10,
+      8
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "OEM Brochures"
+        ]
+      ]
+    ],
+    [
+      10,
+      9
+    ],
+    [
+      10,
+      10
+    ],
+    [
+      10,
+      11
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "About the Knowledge Base"
+        ]
+      ]
+    ],
+    [
+      10,
+      12
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "The Motorious Knowledge Base provides a comprehensive vehicle overview for the 1974 Cadillac DeVille including production numbers, performance specs, factory colors, and OEM brochures. Check out additional model years or related content linked to this article or view other Makes and Models in our "
+        ],
+        [
+          0,
+          [
+            1
+          ],
+          1,
+          "Research"
+        ],
+        [
+          0,
+          [],
+          0,
+          " center."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "If you have any interesting facts about the 1974 Cadillac DeVille to add, want to tell us how we did covering the DeVille, or want to tell us about yours, please leave a comment below."
+        ]
+      ]
+    ]
+  ],
+  "ghostVersion": "3.0"
+}

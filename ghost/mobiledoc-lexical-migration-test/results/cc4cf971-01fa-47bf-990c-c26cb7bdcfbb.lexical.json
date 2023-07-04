@@ -1,0 +1,1518 @@
+{
+  "root": {
+    "children": [
+      {
+        "type": "email-cta",
+        "showButton": true,
+        "showDividers": true,
+        "segment": "status:free",
+        "alignment": "left",
+        "buttonText": "Upgrade Now",
+        "buttonUrl": "__GHOST_URL__/membership/?utm_source=newsletter-email&utm_medium=link&utm_campaign=newsletter-upgrade",
+        "html": "<p>Today, we’re back with more critical reporting on Leonard Leo in partnership with our friends at <em>ProPublica</em>. This sort of investigative journalism takes a great amount of time, money, knowledge, and persistence to execute. We need more free subscribers to become paid supporters to be able to continue doing journalism like this, that directly holds the powerful accountable and sheds light on corruption. <a href=\"__GHOST_URL__/membership/?utm_source=newsletter-email&amp;utm_medium=link&amp;utm_campaign=newsletter-upgrade\">Click here</a> to become a supporting subscriber to <em>The Lever</em> today.</p>"
+      },
+      {
+        "type": "email-cta",
+        "showButton": false,
+        "showDividers": true,
+        "segment": "status:-free",
+        "alignment": "left",
+        "html": "<p>Today, we’re back with more critical reporting on Leonard Leo in partnership with our friends at <em>ProPublica</em>. Your supporting subscription to <em>The Lever</em> makes this kind of deep investigative journalism possible. If you want to go a step further, forward this email to friends and family who you think would benefit from this knowledge and tell them to <a href=\"__GHOST_URL__/membership/?utm_source=newsletter-email&amp;utm_medium=link&amp;utm_campaign=newsletter-upgrade\">subscribe to<em> The Lever</em></a>.</p>"
+      },
+      {
+        "type": "image",
+        "src": "__GHOST_URL__/content/images/2022/12/Leonard-Leo-DonorsTrust-1.png",
+        "width": 1600,
+        "height": 900,
+        "caption": "Leonard Leo speaks at the 2017 National Lawyers Convention. <em>(AP Photo/Sait Serkan Gurbuz)</em>",
+        "href": "https://www.levernews.com/leonard-leos-latest-supreme-court-play/?utm_source=newsletter-email&utm_medium=link&utm_campaign=newsletter-article"
+      },
+      {
+        "type": "callout",
+        "calloutEmoji": "👉",
+        "calloutText": "<strong><em>Share this article on <u><a href=\"https://twitter.com/intent/tweet?text=The%20conservative%20activist%E2%80%99s%20dark%20money%20network%20is%20bankrolling%20groups%20pressing%20the%20high%20court%20to%20gut%20election%2C%20affirmative%20action%2C%20and%20discrimination%20laws.%20https%3A%2F%2Fwww.levernews.com%2Fleonard-leos-latest-supreme-court-play%2F%3Futm_source%3Dtwitter%26utm_medium%3Dlink%26utm_campaign%3Dtw-prefill\">Twitter</a></u></em></strong>.",
+        "backgroundColor": "grey"
+      },
+      {
+        "children": [
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": "By ",
+            "type": "text",
+            "version": 1
+          },
+          {
+            "children": [
+              {
+                "detail": 0,
+                "format": 0,
+                "mode": "normal",
+                "style": "",
+                "text": "Andy Kroll",
+                "type": "text",
+                "version": 1
+              }
+            ],
+            "direction": "ltr",
+            "format": "",
+            "indent": 0,
+            "type": "link",
+            "rel": null,
+            "target": null,
+            "title": null,
+            "url": "__GHOST_URL__/author/andy/",
+            "version": 1
+          },
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": ", ",
+            "type": "text",
+            "version": 1
+          },
+          {
+            "children": [
+              {
+                "detail": 0,
+                "format": 0,
+                "mode": "normal",
+                "style": "",
+                "text": "Andrew Perez",
+                "type": "text",
+                "version": 1
+              }
+            ],
+            "direction": "ltr",
+            "format": "",
+            "indent": 0,
+            "type": "link",
+            "rel": null,
+            "target": null,
+            "title": null,
+            "url": "__GHOST_URL__/author/andrew-perez/",
+            "version": 1
+          },
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": " & ",
+            "type": "text",
+            "version": 1
+          },
+          {
+            "children": [
+              {
+                "detail": 0,
+                "format": 0,
+                "mode": "normal",
+                "style": "",
+                "text": "Aditi Ramaswami",
+                "type": "text",
+                "version": 1
+              }
+            ],
+            "direction": "ltr",
+            "format": "",
+            "indent": 0,
+            "type": "link",
+            "rel": null,
+            "target": null,
+            "title": null,
+            "url": "__GHOST_URL__/author/aditi/",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "paragraph",
+        "version": 1
+      },
+      {
+        "children": [
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": "[",
+            "type": "text",
+            "version": 1
+          },
+          {
+            "children": [
+              {
+                "detail": 0,
+                "format": 2,
+                "mode": "normal",
+                "style": "",
+                "text": "View in browser",
+                "type": "text",
+                "version": 1
+              }
+            ],
+            "direction": "ltr",
+            "format": "",
+            "indent": 0,
+            "type": "link",
+            "rel": null,
+            "target": null,
+            "title": null,
+            "url": "__GHOST_URL__/leonard-leos-latest-supreme-court-play/?utm_source=newsletter-email&utm_medium=link&utm_campaign=newsletter-article",
+            "version": 1
+          },
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": "]",
+            "type": "text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "paragraph",
+        "version": 1
+      },
+      {
+        "children": [
+          {
+            "detail": 0,
+            "format": 2,
+            "mode": "normal",
+            "style": "",
+            "text": "This story was reported in partnership between ",
+            "type": "text",
+            "version": 1
+          },
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": "The Lever",
+            "type": "text",
+            "version": 1
+          },
+          {
+            "detail": 0,
+            "format": 2,
+            "mode": "normal",
+            "style": "",
+            "text": " and ",
+            "type": "text",
+            "version": 1
+          },
+          {
+            "children": [
+              {
+                "detail": 0,
+                "format": 0,
+                "mode": "normal",
+                "style": "",
+                "text": "ProPublica",
+                "type": "text",
+                "version": 1
+              }
+            ],
+            "direction": "ltr",
+            "format": "",
+            "indent": 0,
+            "type": "link",
+            "rel": null,
+            "target": null,
+            "title": null,
+            "url": "https://www.propublica.org/",
+            "version": 1
+          },
+          {
+            "detail": 0,
+            "format": 2,
+            "mode": "normal",
+            "style": "",
+            "text": ", a nonprofit newsroom that investigates abuses of power.",
+            "type": "text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "paragraph",
+        "version": 1
+      },
+      {
+        "children": [
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": "Flush with money after receiving the ",
+            "type": "text",
+            "version": 1
+          },
+          {
+            "children": [
+              {
+                "detail": 0,
+                "format": 0,
+                "mode": "normal",
+                "style": "",
+                "text": "largest-known political advocacy donation",
+                "type": "text",
+                "version": 1
+              }
+            ],
+            "direction": "ltr",
+            "format": "",
+            "indent": 0,
+            "type": "link",
+            "rel": null,
+            "target": null,
+            "title": null,
+            "url": "https://www.propublica.org/article/dark-money-leonard-leo-barre-seid",
+            "version": 1
+          },
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": " in U.S. history, conservative activist Leonard Leo and his associates are spending millions of dollars to influence some of the Supreme Court’s most consequential recent cases, newly released ",
+            "type": "text",
+            "version": 1
+          },
+          {
+            "children": [
+              {
+                "detail": 0,
+                "format": 0,
+                "mode": "normal",
+                "style": "",
+                "text": "tax documents",
+                "type": "text",
+                "version": 1
+              }
+            ],
+            "direction": "ltr",
+            "format": "",
+            "indent": 0,
+            "type": "link",
+            "rel": null,
+            "target": null,
+            "title": null,
+            "url": "https://www.documentcloud.org/documents/23437428-85-fund-990-for-2021",
+            "version": 1
+          },
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": " ",
+            "type": "text",
+            "version": 1
+          },
+          {
+            "children": [
+              {
+                "detail": 0,
+                "format": 0,
+                "mode": "normal",
+                "style": "",
+                "text": "obtained",
+                "type": "text",
+                "version": 1
+              }
+            ],
+            "direction": "ltr",
+            "format": "",
+            "indent": 0,
+            "type": "link",
+            "rel": null,
+            "target": null,
+            "title": null,
+            "url": "https://www.documentcloud.org/documents/23438325-rule-of-law-trust-990-2021",
+            "version": 1
+          },
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": " by ",
+            "type": "text",
+            "version": 1
+          },
+          {
+            "detail": 0,
+            "format": 2,
+            "mode": "normal",
+            "style": "",
+            "text": "ProPublica",
+            "type": "text",
+            "version": 1
+          },
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": " and ",
+            "type": "text",
+            "version": 1
+          },
+          {
+            "detail": 0,
+            "format": 2,
+            "mode": "normal",
+            "style": "",
+            "text": "The Lever",
+            "type": "text",
+            "version": 1
+          },
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": " show.",
+            "type": "text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "paragraph",
+        "version": 1
+      },
+      {
+        "children": [
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": "The documents detail how Leo, who helped build the Supreme Court’s conservative majority as an adviser to President Donald Trump, has used a sprawling network of opaque nonprofits to fund groups advocating for ending affirmative action, rolling back anti-discrimination protections and allowing state legislatures unreviewable oversight of federal elections.",
+            "type": "text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "paragraph",
+        "version": 1
+      },
+      {
+        "children": [
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": "The records also show that the Leo-aligned nonprofits paid millions of dollars to for-profit entities connected to Leo.",
+            "type": "text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "paragraph",
+        "version": 1
+      },
+      {
+        "children": [
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": "Leo and one of his top associates did not respond to requests for comment.",
+            "type": "text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "paragraph",
+        "version": 1
+      },
+      {
+        "type": "image",
+        "src": "__GHOST_URL__/content/images/2022/12/Gift5.jpg",
+        "width": 4998,
+        "height": 2244,
+        "cardWidth": "wide",
+        "href": "https://dailyposter.outpost.pub/gift_subscription#/"
+      },
+      {
+        "children": [
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": "The money flowed through mostly so-called dark money groups, which don’t have to disclose their donors. They are required to reveal the recipients of their spending in their annual tax returns, which are released to the public, but often those are also dark money groups or other entities that have minimal disclosure rules.",
+            "type": "text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "paragraph",
+        "version": 1
+      },
+      {
+        "children": [
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": "As ",
+            "type": "text",
+            "version": 1
+          },
+          {
+            "detail": 0,
+            "format": 2,
+            "mode": "normal",
+            "style": "",
+            "text": "ProPublica",
+            "type": "text",
+            "version": 1
+          },
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": " and ",
+            "type": "text",
+            "version": 1
+          },
+          {
+            "detail": 0,
+            "format": 2,
+            "mode": "normal",
+            "style": "",
+            "text": "The Lever",
+            "type": "text",
+            "version": 1
+          },
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": " ",
+            "type": "text",
+            "version": 1
+          },
+          {
+            "children": [
+              {
+                "detail": 0,
+                "format": 0,
+                "mode": "normal",
+                "style": "",
+                "text": "detailed",
+                "type": "text",
+                "version": 1
+              }
+            ],
+            "direction": "ltr",
+            "format": "",
+            "indent": 0,
+            "type": "link",
+            "rel": null,
+            "target": null,
+            "title": null,
+            "url": "https://www.propublica.org/article/dark-money-leonard-leo-barre-seid",
+            "version": 1
+          },
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": " in August, Leo was gifted a $1.6 billion fortune last year by a reclusive manufacturing magnate, Barre Seid. The newly revealed tax documents cover last year, just as Leo was in the process of receiving that enormous donation.",
+            "type": "text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "paragraph",
+        "version": 1
+      },
+      {
+        "children": [
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": "The Supreme Court case involving a Colorado-based website designer who refuses to work for same-sex couples provides a window into Leo’s strategy.",
+            "type": "text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "paragraph",
+        "version": 1
+      },
+      {
+        "children": [
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": "At least six groups funded by ",
+            "type": "text",
+            "version": 1
+          },
+          {
+            "children": [
+              {
+                "detail": 0,
+                "format": 0,
+                "mode": "normal",
+                "style": "",
+                "text": "Leo’s network",
+                "type": "text",
+                "version": 1
+              }
+            ],
+            "direction": "ltr",
+            "format": "",
+            "indent": 0,
+            "type": "link",
+            "rel": null,
+            "target": null,
+            "title": null,
+            "url": "https://www.nytimes.com/2022/10/12/us/politics/leonard-leo-network.html",
+            "version": 1
+          },
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": " have filed briefs supporting the suit, which seeks to overturn Colorado’s anti-discrimination law. The Ethics and Public Policy Center, which records show received $1.9 million from Leo’s network, submitted a ",
+            "type": "text",
+            "version": 1
+          },
+          {
+            "children": [
+              {
+                "detail": 0,
+                "format": 0,
+                "mode": "normal",
+                "style": "",
+                "text": "brief",
+                "type": "text",
+                "version": 1
+              }
+            ],
+            "direction": "ltr",
+            "format": "",
+            "indent": 0,
+            "type": "link",
+            "rel": null,
+            "target": null,
+            "title": null,
+            "url": "https://www.supremecourt.gov/DocketPDF/21/21-476/226980/20220602145556427_1.%20Amicus%20Brief.pdf",
+            "version": 1
+          },
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": " supporting the web designer. So ",
+            "type": "text",
+            "version": 1
+          },
+          {
+            "children": [
+              {
+                "detail": 0,
+                "format": 0,
+                "mode": "normal",
+                "style": "",
+                "text": "did",
+                "type": "text",
+                "version": 1
+              }
+            ],
+            "direction": "ltr",
+            "format": "",
+            "indent": 0,
+            "type": "link",
+            "rel": null,
+            "target": null,
+            "title": null,
+            "url": "http://www.supremecourt.gov/DocketPDF/21/21-476/226603/20220531123150697_21-476%20Amicus%20Br%20Concerned%20Women%20for%20America.pdf",
+            "version": 1
+          },
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": " Concerned Women for America, which has received at least $565,000 over the past two years from the Leo network, as well as an ",
+            "type": "text",
+            "version": 1
+          },
+          {
+            "children": [
+              {
+                "detail": 0,
+                "format": 0,
+                "mode": "normal",
+                "style": "",
+                "text": "organization",
+                "type": "text",
+                "version": 1
+              }
+            ],
+            "direction": "ltr",
+            "format": "",
+            "indent": 0,
+            "type": "link",
+            "rel": null,
+            "target": null,
+            "title": null,
+            "url": "http://www.supremecourt.gov/DocketPDF/21/21-476/226967/20220602143119696_303%20Creative%20Amicus%20Brief%20FINAL.pdf",
+            "version": 1
+          },
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": " called the Becket Fund, which got $550,000 from a Leo group.",
+            "type": "text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "paragraph",
+        "version": 1
+      },
+      {
+        "children": [
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": "Leo’s network has also been the top funder of the Republican Attorneys General Association (RAGA), which spends money to elect GOP attorneys general and serves as a policy hub for the state officials. Twenty Republican attorneys general have also ",
+            "type": "text",
+            "version": 1
+          },
+          {
+            "children": [
+              {
+                "detail": 0,
+                "format": 0,
+                "mode": "normal",
+                "style": "",
+                "text": "filed",
+                "type": "text",
+                "version": 1
+              }
+            ],
+            "direction": "ltr",
+            "format": "",
+            "indent": 0,
+            "type": "link",
+            "rel": null,
+            "target": null,
+            "title": null,
+            "url": "https://www.supremecourt.gov/DocketPDF/21/21-476/227004/20220602160021452_21-476%20Brief%20States%20303%20Creative.pdf",
+            "version": 1
+          },
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": " a brief in support of the case. One Leo group ",
+            "type": "text",
+            "version": 1
+          },
+          {
+            "children": [
+              {
+                "detail": 0,
+                "format": 0,
+                "mode": "normal",
+                "style": "",
+                "text": "donated",
+                "type": "text",
+                "version": 1
+              }
+            ],
+            "direction": "ltr",
+            "format": "",
+            "indent": 0,
+            "type": "link",
+            "rel": null,
+            "target": null,
+            "title": null,
+            "url": "https://forms.irs.gov/app/pod/basicSearch/downloadFile?formId=137328&formType=e8872",
+            "version": 1
+          },
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": " ",
+            "type": "text",
+            "version": 1
+          },
+          {
+            "children": [
+              {
+                "detail": 0,
+                "format": 0,
+                "mode": "normal",
+                "style": "",
+                "text": "$6.5 million",
+                "type": "text",
+                "version": 1
+              }
+            ],
+            "direction": "ltr",
+            "format": "",
+            "indent": 0,
+            "type": "link",
+            "rel": null,
+            "target": null,
+            "title": null,
+            "url": "https://forms.irs.gov/app/pod/basicSearch/downloadFile?formId=125954&formType=e8872",
+            "version": 1
+          },
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": " to RAGA during the 2022 election cycle, according to the association’s federal filings.",
+            "type": "text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "paragraph",
+        "version": 1
+      },
+      {
+        "children": [
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": "The largest donation by Leo’s network was $71 million given to DonorsTrust, a so-called donor-advised fund that pools money from numerous funders and gives it out to largely conservative and libertarian groups. Past reports ",
+            "type": "text",
+            "version": 1
+          },
+          {
+            "children": [
+              {
+                "detail": 0,
+                "format": 0,
+                "mode": "normal",
+                "style": "",
+                "text": "have",
+                "type": "text",
+                "version": 1
+              }
+            ],
+            "direction": "ltr",
+            "format": "",
+            "indent": 0,
+            "type": "link",
+            "rel": null,
+            "target": null,
+            "title": null,
+            "url": "https://www.motherjones.com/politics/2013/02/donors-trust-donor-capital-fund-dark-money-koch-bradley-devos/",
+            "version": 1
+          },
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": " ",
+            "type": "text",
+            "version": 1
+          },
+          {
+            "children": [
+              {
+                "detail": 0,
+                "format": 0,
+                "mode": "normal",
+                "style": "",
+                "text": "described",
+                "type": "text",
+                "version": 1
+              }
+            ],
+            "direction": "ltr",
+            "format": "",
+            "indent": 0,
+            "type": "link",
+            "rel": null,
+            "target": null,
+            "title": null,
+            "url": "https://www.thedailybeast.com/the-gop-dark-money-group-donors-trust-giving-big-to-vdare-white-supremacists",
+            "version": 1
+          },
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": " DonorsTrust as a “dark-money ATM” of the conservative movement.",
+            "type": "text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "paragraph",
+        "version": 1
+      },
+      {
+        "children": [
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": "Another case that Leo groups have sought to influence is ",
+            "type": "text",
+            "version": 1
+          },
+          {
+            "children": [
+              {
+                "detail": 0,
+                "format": 2,
+                "mode": "normal",
+                "style": "",
+                "text": "Moore v. Harper",
+                "type": "text",
+                "version": 1
+              }
+            ],
+            "direction": "ltr",
+            "format": "",
+            "indent": 0,
+            "type": "link",
+            "rel": null,
+            "target": null,
+            "title": null,
+            "url": "https://www.propublica.org/article/moore-v-harper-explained-scotus-elections",
+            "version": 1
+          },
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": ", which could have sweeping implications for American democracy. The question posed in the case is whether the Constitution affords state legislatures the power to create rules for federal elections without state court oversight or intervention.",
+            "type": "text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "paragraph",
+        "version": 1
+      },
+      {
+        "children": [
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": "The Honest Elections Project, an initiative within another key Leo organization, the 85 Fund, has backed the plaintiff’s case with an amicus ",
+            "type": "text",
+            "version": 1
+          },
+          {
+            "children": [
+              {
+                "detail": 0,
+                "format": 0,
+                "mode": "normal",
+                "style": "",
+                "text": "brief",
+                "type": "text",
+                "version": 1
+              }
+            ],
+            "direction": "ltr",
+            "format": "",
+            "indent": 0,
+            "type": "link",
+            "rel": null,
+            "target": null,
+            "title": null,
+            "url": "http://www.supremecourt.gov/DocketPDF/21/21-1271/237126/20220906144631896_21-1271%20tsac%20HEP%20Final.pdf",
+            "version": 1
+          },
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": ". The tax documents show that the 85 Fund also donated $400,000 in 2020 to the Public Interest Legal Foundation, an Indianapolis-based conservative legal group that ",
+            "type": "text",
+            "version": 1
+          },
+          {
+            "children": [
+              {
+                "detail": 0,
+                "format": 0,
+                "mode": "normal",
+                "style": "",
+                "text": "filed",
+                "type": "text",
+                "version": 1
+              }
+            ],
+            "direction": "ltr",
+            "format": "",
+            "indent": 0,
+            "type": "link",
+            "rel": null,
+            "target": null,
+            "title": null,
+            "url": "http://www.supremecourt.gov/DocketPDF/21/21-1271/237176/20220906165220602_21-1271%20tsac%20Public%20Interest%20Legal%20Foundation.pdf",
+            "version": 1
+          },
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": " a supportive brief in the case.",
+            "type": "text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "paragraph",
+        "version": 1
+      },
+      {
+        "children": [
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": "Thirteen Republican attorneys general filed a ",
+            "type": "text",
+            "version": 1
+          },
+          {
+            "children": [
+              {
+                "detail": 0,
+                "format": 0,
+                "mode": "normal",
+                "style": "",
+                "text": "brief",
+                "type": "text",
+                "version": 1
+              }
+            ],
+            "direction": "ltr",
+            "format": "",
+            "indent": 0,
+            "type": "link",
+            "rel": null,
+            "target": null,
+            "title": null,
+            "url": "https://www.supremecourt.gov/DocketPDF/21/21-1271/237115/20220906135259528_21-1271%20tsac%20States%20Final.pdf",
+            "version": 1
+          },
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": " backing the suit as well.",
+            "type": "text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "paragraph",
+        "version": 1
+      },
+      {
+        "type": "product",
+        "productButtonEnabled": true,
+        "productRatingEnabled": true,
+        "productStarRating": 5,
+        "productImageSrc": "__GHOST_URL__/content/images/2022/07/John_Roberts_Revolution_Image-11.png",
+        "productTitle": "<strong>OUR NEWEST E-BOOK: John Roberts’ Revolution</strong>",
+        "productDescription": "<p>In our 135-page publication exclusively for supporting subscribers, we reveal point by point how a court led by a celebrated “moderate” like John Roberts has become the most extreme in a century — and what can be done to stop it.</p>",
+        "productButton": "CLICK HERE TO GET YOUR COPY",
+        "productUrl": "__GHOST_URL__/new-lever-e-book-john-roberts-revolution-2/"
+      },
+      {
+        "children": [
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": "The Supreme Court is also hearing two cases this term brought by the conservative group Students for Fair Admissions that are challenging universities’ affirmative action policies. The group ",
+            "type": "text",
+            "version": 1
+          },
+          {
+            "children": [
+              {
+                "detail": 0,
+                "format": 0,
+                "mode": "normal",
+                "style": "",
+                "text": "received",
+                "type": "text",
+                "version": 1
+              }
+            ],
+            "direction": "ltr",
+            "format": "",
+            "indent": 0,
+            "type": "link",
+            "rel": null,
+            "target": null,
+            "title": null,
+            "url": "__GHOST_URL__/content/files/2021/12/the-85-fund-2020-990.pdf",
+            "version": 1
+          },
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": " $250,000 from the 85 Fund in 2020, the tax records show, more than a third of the total it ",
+            "type": "text",
+            "version": 1
+          },
+          {
+            "children": [
+              {
+                "detail": 0,
+                "format": 0,
+                "mode": "normal",
+                "style": "",
+                "text": "raised",
+                "type": "text",
+                "version": 1
+              }
+            ],
+            "direction": "ltr",
+            "format": "",
+            "indent": 0,
+            "type": "link",
+            "rel": null,
+            "target": null,
+            "title": null,
+            "url": "https://projects.propublica.org/nonprofits/organizations/471689810/202142819349300404/full",
+            "version": 1
+          },
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": " that year.",
+            "type": "text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "paragraph",
+        "version": 1
+      },
+      {
+        "children": [
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": "Speech First, which the records show received $700,000 in 2020-21 from the 85 Fund, ",
+            "type": "text",
+            "version": 1
+          },
+          {
+            "children": [
+              {
+                "detail": 0,
+                "format": 0,
+                "mode": "normal",
+                "style": "",
+                "text": "filed",
+                "type": "text",
+                "version": 1
+              }
+            ],
+            "direction": "ltr",
+            "format": "",
+            "indent": 0,
+            "type": "link",
+            "rel": null,
+            "target": null,
+            "title": null,
+            "url": "https://www.scotusblog.com/case-files/cases/students-for-fair-admissions-inc-v-president-fellows-of-harvard-college/",
+            "version": 1
+          },
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": " ",
+            "type": "text",
+            "version": 1
+          },
+          {
+            "children": [
+              {
+                "detail": 0,
+                "format": 0,
+                "mode": "normal",
+                "style": "",
+                "text": "briefs",
+                "type": "text",
+                "version": 1
+              }
+            ],
+            "direction": "ltr",
+            "format": "",
+            "indent": 0,
+            "type": "link",
+            "rel": null,
+            "target": null,
+            "title": null,
+            "url": "https://www.scotusblog.com/case-files/cases/students-for-fair-admissions-inc-v-university-of-north-carolina/",
+            "version": 1
+          },
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": " backing Students for Fair Admissions in both cases. Republican attorneys general, backed by Leo’s network, ",
+            "type": "text",
+            "version": 1
+          },
+          {
+            "children": [
+              {
+                "detail": 0,
+                "format": 0,
+                "mode": "normal",
+                "style": "",
+                "text": "submitted",
+                "type": "text",
+                "version": 1
+              }
+            ],
+            "direction": "ltr",
+            "format": "",
+            "indent": 0,
+            "type": "link",
+            "rel": null,
+            "target": null,
+            "title": null,
+            "url": "https://www.scotusblog.com/case-files/cases/students-for-fair-admissions-inc-v-president-fellows-of-harvard-college/",
+            "version": 1
+          },
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": " ",
+            "type": "text",
+            "version": 1
+          },
+          {
+            "children": [
+              {
+                "detail": 0,
+                "format": 0,
+                "mode": "normal",
+                "style": "",
+                "text": "briefs",
+                "type": "text",
+                "version": 1
+              }
+            ],
+            "direction": "ltr",
+            "format": "",
+            "indent": 0,
+            "type": "link",
+            "rel": null,
+            "target": null,
+            "title": null,
+            "url": "https://www.scotusblog.com/case-files/cases/students-for-fair-admissions-inc-v-university-of-north-carolina/",
+            "version": 1
+          },
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": ", too.",
+            "type": "text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "paragraph",
+        "version": 1
+      },
+      {
+        "children": [
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": "The other theme to emerge from the new tax records is the large amount of expenditures going to for-profit entities run by or connected to Leo. The 85 Fund’s largest outside vendor for 2021 was CRC Advisors, a for-profit consulting firm ",
+            "type": "text",
+            "version": 1
+          },
+          {
+            "children": [
+              {
+                "detail": 0,
+                "format": 0,
+                "mode": "normal",
+                "style": "",
+                "text": "chaired",
+                "type": "text",
+                "version": 1
+              }
+            ],
+            "direction": "ltr",
+            "format": "",
+            "indent": 0,
+            "type": "link",
+            "rel": null,
+            "target": null,
+            "title": null,
+            "url": "https://irp.cdn-website.com/681250a9/files/uploaded/CNP-Membership-Directory-September-2020.pdf",
+            "version": 1
+          },
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": " by Leo. The 85 Fund paid CRC Advisors $22 million last year, tax records show.",
+            "type": "text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "paragraph",
+        "version": 1
+      },
+      {
+        "children": [
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": "The largest outside vendor to the Concord Fund, another hub in Leo’s network, was also CRC Advisors, which received nearly $8 million over the course of a year. Concord also paid $500,000 to BH Group, another for-profit firm ",
+            "type": "text",
+            "version": 1
+          },
+          {
+            "children": [
+              {
+                "detail": 0,
+                "format": 0,
+                "mode": "normal",
+                "style": "",
+                "text": "led by Leo",
+                "type": "text",
+                "version": 1
+              }
+            ],
+            "direction": "ltr",
+            "format": "",
+            "indent": 0,
+            "type": "link",
+            "rel": null,
+            "target": null,
+            "title": null,
+            "url": "https://www.opensecrets.org/news/2018/05/mystery-gift-to-trump-inauguration-from-conservative-activists/",
+            "version": 1
+          },
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": ".",
+            "type": "text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "paragraph",
+        "version": 1
+      },
+      {
+        "children": [
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": "There is no prohibition on nonprofits sending business to companies they have connections to, but any deals must be made at a fair market value.",
+            "type": "text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "paragraph",
+        "version": 1
+      },
+      {
+        "children": [
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": "The companies did not immediately respond to questions about the payments.",
+            "type": "text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "paragraph",
+        "version": 1
+      },
+      {
+        "type": "email-cta",
+        "showButton": true,
+        "showDividers": false,
+        "segment": "status:-free",
+        "alignment": "center",
+        "html": "",
+        "buttonText": "Click Here To Comment",
+        "buttonUrl": "__GHOST_URL__/leonard-leos-latest-supreme-court-play/#comments"
+      },
+      {
+        "type": "horizontalrule"
+      },
+      {
+        "type": "email",
+        "html": "<p><em><strong>Help us spread the word! </strong>Please forward this email to family and friends.</em></p><p><em><strong>Was this email forwarded to you? </strong><a href=\"https://levernews.com/membership/\">Sign up for free</a> to receive original reporting like this in your inbox every day.</em></p>"
+      },
+      {
+        "children": [],
+        "direction": null,
+        "format": "",
+        "indent": 0,
+        "type": "paragraph",
+        "version": 1
+      },
+      {
+        "children": [],
+        "direction": null,
+        "format": "",
+        "indent": 0,
+        "type": "paragraph",
+        "version": 1
+      },
+      {
+        "children": [],
+        "direction": null,
+        "format": "",
+        "indent": 0,
+        "type": "paragraph",
+        "version": 1
+      },
+      {
+        "children": [],
+        "direction": null,
+        "format": "",
+        "indent": 0,
+        "type": "paragraph",
+        "version": 1
+      }
+    ],
+    "direction": "ltr",
+    "format": "",
+    "indent": 0,
+    "type": "root",
+    "version": 1
+  }
+}

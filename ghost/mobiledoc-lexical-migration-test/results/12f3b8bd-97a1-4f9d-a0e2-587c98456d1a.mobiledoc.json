@@ -1,0 +1,450 @@
+{
+  "version": "0.3.1",
+  "atoms": [],
+  "cards": [
+    [
+      "hr",
+      {}
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "html",
+      {
+        "html": "<table id=\"production-numbers-table\">\n<tbody>\n\t<tr>\n\t\t<td>Duster</td>\n\t\t<td>212,331</td>\n\t</tr>\n    \t<tr>\n\t\t<td>Duster 340</td>\n\t\t<td>15,681</td>\n\t</tr>\n\t\t<td><b>Total Production</b></td>\n\t\t<td><b>228,012</b></td>\n\t</tr>\n</tbody>\n</table>"
+      }
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "html",
+      {
+        "html": "<table id=\"performance-specs-table\">\n<tbody>\n\t<tr>\n\t\t<th><b>Engine</b></th>\n\t\t<th><b>Size</b></td>\n\t\t<th><b>Carb.</b></td>\n\t\t<th><b>HP</b></td>\n\t\t<th><b>Torque</b></td>\n\t\t<th><b>0 to 60</b></td>\n\t\t<th><b>Quarter mile</b></td>\n\t</tr>\n\t<tr>\n\t\t<td>Slant 6</td>\n\t\t<td>198ci</td>\n\t\t<td>1x1bbl</td>\n\t\t<td>100</td>\n\t\t<td>-</td>\n\t\t<td>-</td>\n\t\t<td>-</td>\n\t</tr>\n\t<tr>\n\t\t<td>Slant 6</td>\n\t\t<td>225ci</td>\n\t\t<td>1x1bbl</td>\n\t\t<td>110</td>\n\t\t<td>-</td>\n\t\t<td>-</td>\n\t\t<td>-</td>\n\t</tr>\n\t<tr>\n\t\t<td>LA V8</td>\n\t\t<td>318ci</td>\n\t\t<td>1x2bbl</td>\n\t\t<td>150</td>\n\t\t<td>-</td>\n\t\t<td>-</td>\n\t\t<td>-</td>\n\t</tr>\n\t<tr>\n\t\t<td>LA V8</td>\n\t\t<td>340ci</td>\n\t\t<td>1x4bbl</td>\n\t\t<td>240</td>\n\t\t<td>290 lb-ft</td>\n\t\t<td>6.6 sec</td>\n\t\t<td>14.9 sec at 90 mph</td>\n\t</tr>\n</tbody>\n</table>"
+      }
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "html",
+      {
+        "html": "<h4 id='colors-sub-heading'>Exterior</h4>\n<div class=\"colors-row\">\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #599190\"></div>\n        <div class=\"color-name\">Winchester Gray</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #404542\"></div>\n        <div class=\"color-name\">Charcoal</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #b5cdf9\"></div>\n        <div class=\"color-name\">Blue Sky</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #2179d8\"></div>\n        <div class=\"color-name\">Basin Street Blue</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #143989\"></div>\n        <div class=\"color-name\">True Blue</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #0a275a\"></div>\n        <div class=\"color-name\">Evening Blue</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #c51d03\"></div>\n        <div class=\"color-name\">Rallye Red</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #6b873d\"></div>\n        <div class=\"color-name\">Amber Sherwood</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #233f15\"></div>\n        <div class=\"color-name\">Sherwood Green</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #d3bf8c\"></div>\n        <div class=\"color-name\">Sahara Beige</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #185878\"></div>\n        <div class=\"color-name\">Coral Turquoise</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #9b7730\"></div>\n        <div class=\"color-name\">Mojave Tan</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #492b11\"></div>\n        <div class=\"color-name\">Chestnut</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #ee3d02\"></div>\n        <div class=\"color-name\">Tor Red</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #feffd5\"></div>\n        <div class=\"color-name\">Spinnaker White</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #fefb46\"></div>\n        <div class=\"color-name\">Lemon Twist</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #ffff80\"></div>\n        <div class=\"color-name\">Sun Fire Yellow</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #c8bd68\"></div>\n        <div class=\"color-name\">Honeydew</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #99801d\"></div>\n        <div class=\"color-name\">Gold Leaf</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #2b2f10\"></div>\n        <div class=\"color-name\">Tawny Gold</div>\n    </div>\n        </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #000000\"></div>\n        <div class=\"color-name\">Formal Black</div>\n    </div>\n</div>\n\n<h4 id='colors-sub-heading'>Interior</h4>\n<div class=\"colors-row\">\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #58738c\"></div>\n        <div class=\"color-name\">Brite Blue</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #505c6d\"></div>\n        <div class=\"color-name\">Dark Blue</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #585850\"></div>\n        <div class=\"color-name\">Dark Green</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #917d6e\"></div>\n        <div class=\"color-name\">Dark Gold</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #cbbaa6\"></div>\n        <div class=\"color-name\">Light Parchment</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #7b7069\"></div>\n        <div class=\"color-name\">Dark Parchment</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #84685b\"></div>\n        <div class=\"color-name\">Medium Tan</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #e2d7ca\"></div>\n        <div class=\"color-name\">White</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #000000\"></div>\n        <div class=\"color-name\">Black</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #aa9579\"></div>\n        <div class=\"color-name\">Light Gold</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #b09880\"></div>\n        <div class=\"color-name\">Medium Gold</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #4f6275\"></div>\n        <div class=\"color-name\">Medium Blue</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #535f59\"></div>\n        <div class=\"color-name\">Medium Dark Green</div>\n    </div>\n</div>\n"
+      }
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "gallery",
+      {
+        "images": [
+          {
+            "fileName": "2710_4_low_res.jpg",
+            "row": 0,
+            "width": 790,
+            "height": 483,
+            "src": "__GHOST_URL__/content/images/2020/08/2710_4_low_res.jpg"
+          },
+          {
+            "fileName": "2711_7_low_res.jpg",
+            "row": 0,
+            "width": 763,
+            "height": 992,
+            "src": "__GHOST_URL__/content/images/2020/08/2711_7_low_res.jpg"
+          },
+          {
+            "fileName": "2712_9_low_res.jpg",
+            "row": 0,
+            "width": 749,
+            "height": 992,
+            "src": "__GHOST_URL__/content/images/2020/08/2712_9_low_res.jpg"
+          },
+          {
+            "fileName": "2713_10_low_res.jpg",
+            "row": 1,
+            "width": 775,
+            "height": 992,
+            "src": "__GHOST_URL__/content/images/2020/08/2713_10_low_res.jpg"
+          },
+          {
+            "fileName": "2714_11_low_res.jpg",
+            "row": 1,
+            "width": 754,
+            "height": 992,
+            "src": "__GHOST_URL__/content/images/2020/08/2714_11_low_res.jpg"
+          },
+          {
+            "fileName": "2709_3__1__low_res.jpg",
+            "row": 1,
+            "width": 723,
+            "height": 992,
+            "src": "__GHOST_URL__/content/images/2020/08/2709_3__1__low_res.jpg"
+          }
+        ],
+        "caption": "1972 Plymouth Duster OEM Brochures"
+      }
+    ],
+    [
+      "hr",
+      {}
+    ]
+  ],
+  "markups": [
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/articles/news/barn-find-plymouth-superbird-rescued/"
+      ]
+    ],
+    [
+      "strong"
+    ],
+    [
+      "em"
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/tag/research/"
+      ]
+    ]
+  ],
+  "sections": [
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Overview"
+        ]
+      ]
+    ],
+    [
+      10,
+      0
+    ],
+    [
+      1,
+      "h3",
+      [
+        [
+          0,
+          [],
+          0,
+          "The Duster was not changed significantly for 1972. New surface-mount side marker lights replaced the previous flush-mount items, the tail lamps became larger, one-piece units."
+        ]
+      ]
+    ],
+    [
+      10,
+      1
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "The "
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "Plymouth"
+        ],
+        [
+          0,
+          [],
+          0,
+          " Duster was not changed significantly for 1972. New surface-mount side marker lights replaced the previous flush-mount items, the tail lamps became larger, one-piece units. The power rating of the 340 V8 was reduced from 275 hp to 245 hp due in part to a reduction in compression ratio from 10.2:1 to 8.5:1, as well as changing the intake valves from 2.02 in to 1.88 in. All horsepower rating numbers, even on unchanged engines, decreased for 1972 due to a new rating system. Chrysler's electronic ignition became standard on the 340 models in 1972."
+        ]
+      ]
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Production Numbers"
+        ]
+      ]
+    ],
+    [
+      10,
+      2
+    ],
+    [
+      10,
+      3
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Performance Specs"
+        ]
+      ]
+    ],
+    [
+      10,
+      4
+    ],
+    [
+      10,
+      5
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Transmission"
+        ]
+      ]
+    ],
+    [
+      10,
+      6
+    ],
+    [
+      3,
+      "ul",
+      [
+        [
+          [
+            0,
+            [
+              1,
+              1
+            ],
+            1,
+            "3-speed "
+          ],
+          [
+            0,
+            [],
+            0,
+            "M"
+          ],
+          [
+            0,
+            [
+              1
+            ],
+            2,
+            "anual"
+          ]
+        ],
+        [
+          [
+            0,
+            [
+              1,
+              1
+            ],
+            1,
+            "4-speed "
+          ],
+          [
+            0,
+            [],
+            0,
+            "M"
+          ],
+          [
+            0,
+            [
+              1
+            ],
+            2,
+            "anual"
+          ]
+        ],
+        [
+          [
+            0,
+            [
+              1,
+              1
+            ],
+            1,
+            "3-speed TorqueFlite "
+          ],
+          [
+            0,
+            [],
+            0,
+            "A"
+          ],
+          [
+            0,
+            [
+              1
+            ],
+            2,
+            "uto"
+          ]
+        ]
+      ]
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Paint & Colors"
+        ]
+      ]
+    ],
+    [
+      10,
+      7
+    ],
+    [
+      10,
+      8
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "OEM Brochures"
+        ]
+      ]
+    ],
+    [
+      10,
+      9
+    ],
+    [
+      10,
+      10
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "About the Knowledge Base"
+        ]
+      ]
+    ],
+    [
+      10,
+      11
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "The Motorious Knowledge Base provides a comprehensive vehicle overview for the 1972 Plymouth Duster"
+        ],
+        [
+          0,
+          [
+            2,
+            2
+          ],
+          2,
+          " "
+        ],
+        [
+          0,
+          [],
+          0,
+          "including production numbers, performance specs, factory colors, and OEM brochures. Check out additional model years or related content linked to this article or view other Makes and Models in our "
+        ],
+        [
+          0,
+          [
+            3
+          ],
+          1,
+          "Research"
+        ],
+        [
+          0,
+          [],
+          0,
+          " center."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "If you have any interesting facts about the 1972 Plymouth Duster"
+        ],
+        [
+          0,
+          [
+            2,
+            2
+          ],
+          2,
+          " "
+        ],
+        [
+          0,
+          [],
+          0,
+          "to add, want to tell us how we did covering the Duster, or want to tell us about yours, please leave a comment below."
+        ]
+      ]
+    ]
+  ],
+  "ghostVersion": "3.0"
+}

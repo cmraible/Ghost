@@ -1,0 +1,387 @@
+{
+  "version": "0.3.1",
+  "atoms": [],
+  "cards": [
+    [
+      "hr",
+      {}
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "html",
+      {
+        "html": "<table id=\"production-numbers-table\">\n<tbody>\n\t<tr>\n\t\t<td>2-DR Fastback</td>\n\t\t<td>15,788</td>\n\t</tr>\n\t\t<td><b>Total Production</b></td>\n\t\t<td><b>15,788</b></td>\n\t</tr>\n</tbody>\n</table>"
+      }
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "html",
+      {
+        "html": "<table id=\"performance-specs-table\">\n<tbody>\n\t<tr>\n\t\t<th><b>Engine</b></th>\n\t\t<th><b>Size</b></td>\n\t\t<th><b>Carb.</b></td>\n\t\t<th><b>HP</b></td>\n\t\t<th><b>Torque</b></td>\n\t\t<th><b>0 to 60</b></td>\n\t\t<th><b>Quarter mile</b></td>\n\t</tr>\n\t<tr>\n\t\t<td>Standard V8</td>\n\t\t<td>318ci</td>\n\t\t<td>1x2bbl</td>\n\t\t<td>230</td>\n\t\t<td>340 lb-ft</td>\n\t\t<td>-</td>\n\t\t<td>-</td>\n\t</tr>\n\t<tr>\n\t\t<td>V8</td>\n\t\t<td>383ci</td>\n\t\t<td>1x4bbl</td>\n\t\t<td>325</td>\n\t\t<td>425 lb-ft</td>\n\t\t<td>-</td>\n\t\t<td>-</td>\n\t</tr>\n\t<tr>\n\t\t<td>V8</td>\n\t\t<td>383ci</td>\n\t\t<td>1x4bbl</td>\n\t\t<td>375</td>\n\t\t<td>480 lb-ft</td>\n\t\t<td>7.8 sec</td>\n\t\t<td>16.2 sec</td>\n\t</tr>\n\t<tr>\n\t\t<td>HEMI</td>\n\t\t<td>426ci</td>\n\t\t<td>2x4bbl</td>\n\t\t<td>425</td>\n\t\t<td>490 lb-ft</td>\n\t\t<td>6.4 sec</td>\n\t\t<td>14.2 sec</td>\n\t</tr>\n</tbody>\n</table>"
+      }
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "html",
+      {
+        "html": "<h4 id='colors-sub-heading'>Exterior</h4>\n<div class=\"colors-row\">\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #a2a7a5\"></div>\n        <div class=\"color-name\">Silver</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #000000\"></div>\n        <div class=\"color-name\">Black</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #39526d\"></div>\n        <div class=\"color-name\">Medium Blue</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #7d92a7\"></div>\n        <div class=\"color-name\">Light Blue</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #19213a\"></div>\n        <div class=\"color-name\">Dark Blue</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #8a968d\"></div>\n        <div class=\"color-name\">Light Green</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #36423b\"></div>\n        <div class=\"color-name\">Dark Green</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #412b2a\"></div>\n        <div class=\"color-name\">Dark Copper</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #3e2e24\"></div>\n        <div class=\"color-name\">Chestnut</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #618389\"></div>\n        <div class=\"color-name\">Medium Turquoise</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #35525e\"></div>\n        <div class=\"color-name\">Dark Turquoise</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #9c4a25\"></div>\n        <div class=\"color-name\">Bronze</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #801f1d\"></div>\n        <div class=\"color-name\">Bright Red</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #54211c\"></div>\n        <div class=\"color-name\">Dark Red</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #fdff99\"></div>\n        <div class=\"color-name\">Yellow</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #ebdbaa\"></div>\n        <div class=\"color-name\">Cream</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #8b6357\"></div>\n        <div class=\"color-name\">Medium Copper</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #e8e3d5\"></div>\n        <div class=\"color-name\">White</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #cbbca2\"></div>\n        <div class=\"color-name\">Light Tan</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #978576\"></div>\n        <div class=\"color-name\">Medium Tan</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #8f7e62\"></div>\n        <div class=\"color-name\">Gold</div>\n    </div>\n        </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #9a8c8c\"></div>\n        <div class=\"color-name\">Mauve</div>\n    </div>    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #314c75\"></div>\n        <div class=\"color-name\">Bright Blue</div>\n    </div>\n</div>"
+      }
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "gallery",
+      {
+        "images": [
+          {
+            "fileName": "772_4_low_res.jpeg",
+            "row": 0,
+            "width": 790,
+            "height": 386,
+            "src": "__GHOST_URL__/content/images/2020/06/772_4_low_res.jpeg"
+          },
+          {
+            "fileName": "773_5_low_res.jpeg",
+            "row": 0,
+            "width": 790,
+            "height": 802,
+            "src": "__GHOST_URL__/content/images/2020/06/773_5_low_res.jpeg"
+          },
+          {
+            "fileName": "774_6_low_res.jpeg",
+            "row": 0,
+            "width": 790,
+            "height": 793,
+            "src": "__GHOST_URL__/content/images/2020/06/774_6_low_res.jpeg"
+          },
+          {
+            "fileName": "769_1_low_res.jpeg",
+            "row": 1,
+            "width": 790,
+            "height": 790,
+            "src": "__GHOST_URL__/content/images/2020/06/769_1_low_res.jpeg"
+          },
+          {
+            "fileName": "770_2_low_res.jpeg",
+            "row": 1,
+            "width": 790,
+            "height": 796,
+            "src": "__GHOST_URL__/content/images/2020/06/770_2_low_res.jpeg"
+          },
+          {
+            "fileName": "771_3_low_res.jpeg",
+            "row": 1,
+            "width": 790,
+            "height": 809,
+            "src": "__GHOST_URL__/content/images/2020/06/771_3_low_res.jpeg"
+          }
+        ],
+        "caption": "1967 Dodge Charger OEM Brochures"
+      }
+    ],
+    [
+      "hr",
+      {}
+    ]
+  ],
+  "markups": [
+    [
+      "strong"
+    ],
+    [
+      "em"
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/tag/research/"
+      ]
+    ]
+  ],
+  "sections": [
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Overview"
+        ]
+      ]
+    ],
+    [
+      10,
+      0
+    ],
+    [
+      1,
+      "h3",
+      [
+        [
+          0,
+          [],
+          0,
+          "The 1967 Charger remained mostly the same because of good sales the previous year. Production slowed little this year, but was boosted again in ’68 with the introduction of the second generation."
+        ]
+      ]
+    ],
+    [
+      10,
+      1
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "The 1967 Charger remained mostly the same because of good sales the previous year. Production slowed little this year, but was boosted again in ’68 with the introduction of the second generation. The 440 Magnum was introduced this year offering 375 hp. The only visual change to the Charger was fender-mounted turn signals, and a vinyl roof was now optional. Aimed for drivers who wanted a sporty ride with luxurious creature comforts, the Charger also found its way to the NASCAR track."
+        ]
+      ]
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Production Numbers"
+        ]
+      ]
+    ],
+    [
+      10,
+      2
+    ],
+    [
+      10,
+      3
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Performance Specs"
+        ]
+      ]
+    ],
+    [
+      10,
+      4
+    ],
+    [
+      10,
+      5
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Transmission"
+        ]
+      ]
+    ],
+    [
+      10,
+      6
+    ],
+    [
+      3,
+      "ul",
+      [
+        [
+          [
+            0,
+            [
+              0,
+              0
+            ],
+            2,
+            "3-Speed Manual"
+          ]
+        ],
+        [
+          [
+            0,
+            [
+              0,
+              0
+            ],
+            2,
+            "4-Speed Manual"
+          ]
+        ],
+        [
+          [
+            0,
+            [
+              0,
+              0
+            ],
+            2,
+            "Torqueflite Auto"
+          ]
+        ]
+      ]
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Paint & Colors"
+        ]
+      ]
+    ],
+    [
+      10,
+      7
+    ],
+    [
+      10,
+      8
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "OEM Brochures"
+        ]
+      ]
+    ],
+    [
+      10,
+      9
+    ],
+    [
+      10,
+      10
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "About the Knowledge Base"
+        ]
+      ]
+    ],
+    [
+      10,
+      11
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "The Motorious Knowledge Base provides a comprehensive vehicle overview for the 1967 Dodge Charger"
+        ],
+        [
+          0,
+          [
+            1,
+            1
+          ],
+          2,
+          " "
+        ],
+        [
+          0,
+          [],
+          0,
+          "including production numbers, performance specs, factory colors, and OEM brochures. Check out additional model years or related content linked to this article or view other Makes and Models in our "
+        ],
+        [
+          0,
+          [
+            2
+          ],
+          1,
+          "Research"
+        ],
+        [
+          0,
+          [],
+          0,
+          " center."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "If you have any interesting facts about the 1967 Dodge Charger"
+        ],
+        [
+          0,
+          [
+            1,
+            1
+          ],
+          2,
+          " "
+        ],
+        [
+          0,
+          [],
+          0,
+          "to add, want to tell us how we did covering the Charger, or want to tell us about yours, please leave a comment below."
+        ]
+      ]
+    ]
+  ],
+  "ghostVersion": "3.0"
+}

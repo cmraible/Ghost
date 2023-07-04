@@ -1,0 +1,959 @@
+{
+  "version": "0.3.1",
+  "atoms": [],
+  "cards": [
+    [
+      "email",
+      {
+        "html": "<p>Hello {first_name, \"there\"},‌‌‌‌</p><p>I'm deep in a long piece about analytics use and the newsroom, triggered by recent discussions about Reach and their analytics use. It's going to be <em>great</em>, he says immodestly. But it's not getting done today, so here's a quick look at three things that have crossed my radar in recent days that show a little of how the world if evolving around social platform use.</p><p>I hope you find it thought-provoking…</p>"
+      }
+    ],
+    [
+      "bookmark",
+      {
+        "url": "https://www.cjr.org/business_of_news/for-journalists-ukraine-is-a-whatsapp-war.php",
+        "metadata": {
+          "url": "https://www.cjr.org/business_of_news/for-journalists-ukraine-is-a-whatsapp-war.php",
+          "title": "For journalists, Ukraine is a WhatsApp War",
+          "description": "<p>Lindsey Hilsum, a correspondent for Britain’s Channel 4 News, is one the most experienced conflict reporters covering the Ukraine war. But she never heads out without an electronic tracking device that allows editors to monitor her every move. She is in constant and nearly instantaneous contact w…",
+          "author": "Joel Simon",
+          "publisher": "Columbia Journalism Review",
+          "thumbnail": "https://www.cjr.org/wp-content/uploads/2022/03/AP_22060425612766-800x419.jpg?122376",
+          "icon": "https://www.cjr.org/wp-content/themes/cjr2017/_resources2015/img/favicon-152.png"
+        }
+      }
+    ],
+    [
+      "markdown",
+      {
+        "markdown": "> So how can we regain authenticity? What if you want to know what a genuine real life human being thinks about the latest Lenovo laptop?\n> You append “reddit\" to your query (or hacker news, or stack overflow, or some other community you trust).\n> Google is dead.\n> Long live Google + “site:reddit.com”."
+      }
+    ],
+    [
+      "bookmark",
+      {
+        "url": "https://www.adweek.com/media/reddit-continues-the-process-of-refining-its-search-results/",
+        "metadata": {
+          "url": "https://www.adweek.com/media/reddit-continues-the-process-of-refining-its-search-results/",
+          "title": "Reddit Continues the Process of Refining Its Search Results",
+          "description": "The first iteration of its new mod notes feature was released.",
+          "author": "David Cohen",
+          "publisher": "Adweek",
+          "thumbnail": "https://www.adweek.com/wp-content/uploads/2022/03/RedditModNotes-600x315.jpg",
+          "icon": "https://www.adweek.com/wp-content/uploads/2020/08/246x0w.png"
+        }
+      }
+    ],
+    [
+      "embed",
+      {
+        "url": "https://twitter.com/paulockenden/status/1506604435136561154?s=21",
+        "html": "<blockquote class=\"twitter-tweet\"><p lang=\"en\" dir=\"ltr\">GIF is a *very* inefficient file format for video.</p>&mdash; Paul Ockenden (@PaulOckenden) <a href=\"https://twitter.com/PaulOckenden/status/1506604435136561154?ref_src=twsrc%5Etfw\">March 23, 2022</a></blockquote>\n<script async src=\"https://platform.twitter.com/widgets.js\" charset=\"utf-8\"></script>\n",
+        "type": "twitter",
+        "metadata": {
+          "url": "https://twitter.com/PaulOckenden/status/1506604435136561154",
+          "author_name": "Paul Ockenden",
+          "author_url": "https://twitter.com/PaulOckenden",
+          "width": 550,
+          "height": null,
+          "cache_age": "3153600000",
+          "provider_name": "Twitter",
+          "provider_url": "http://www.twitter.com/",
+          "version": "1.0",
+          "tweet_data": {
+            "referenced_tweets": [
+              {
+                "type": "replied_to",
+                "id": "1506601747090972675"
+              }
+            ],
+            "lang": "en",
+            "text": "@adders @Interhacktives GIF is a *very* inefficient file format for video.",
+            "possibly_sensitive": false,
+            "conversation_id": "1506601747090972675",
+            "created_at": "2022-03-23T12:11:03.000Z",
+            "public_metrics": {
+              "retweet_count": 0,
+              "reply_count": 1,
+              "like_count": 0,
+              "quote_count": 0
+            },
+            "entities": {
+              "mentions": [
+                {
+                  "start": 0,
+                  "end": 7,
+                  "username": "adders",
+                  "id": "40523"
+                },
+                {
+                  "start": 8,
+                  "end": 23,
+                  "username": "Interhacktives",
+                  "id": "385375018"
+                }
+              ]
+            },
+            "in_reply_to_user_id": "40523",
+            "reply_settings": "everyone",
+            "source": "Twitter for iPad",
+            "id": "1506604435136561154",
+            "author_id": "18074860",
+            "includes": {
+              "users": [
+                {
+                  "id": "18074860",
+                  "description": "Regular real world columnist for PC Pro magazine since the 1990s. And I also do other stuff.",
+                  "name": "Paul Ockenden",
+                  "protected": false,
+                  "public_metrics": {
+                    "followers_count": 1784,
+                    "following_count": 318,
+                    "tweet_count": 20548,
+                    "listed_count": 77
+                  },
+                  "created_at": "2008-12-12T12:05:32.000Z",
+                  "username": "PaulOckenden",
+                  "pinned_tweet_id": "890673830611386368",
+                  "entities": {
+                    "url": {
+                      "urls": [
+                        {
+                          "start": 0,
+                          "end": 23,
+                          "url": "https://t.co/h2oJemtMxe",
+                          "expanded_url": "https://subscribe.pcpro.co.uk/meettheteam",
+                          "display_url": "subscribe.pcpro.co.uk/meettheteam"
+                        }
+                      ]
+                    }
+                  },
+                  "url": "https://t.co/h2oJemtMxe",
+                  "verified": false,
+                  "location": "Shoreham-by-Sea, UK",
+                  "profile_image_url": "https://pbs.twimg.com/profile_images/1060902013117063170/y7iG3FfO_normal.jpg"
+                },
+                {
+                  "id": "40523",
+                  "description": "Digital journalism strategy & training since 2006. Feeling old, but trying not to act it. Visiting lecturer @cityjournalism. A good egg, mostly. #FRSA",
+                  "name": "Adam Tinworth",
+                  "protected": false,
+                  "public_metrics": {
+                    "followers_count": 8877,
+                    "following_count": 3957,
+                    "tweet_count": 43612,
+                    "listed_count": 796
+                  },
+                  "created_at": "2006-12-04T14:51:52.000Z",
+                  "username": "adders",
+                  "pinned_tweet_id": "1440315071138131974",
+                  "entities": {
+                    "url": {
+                      "urls": [
+                        {
+                          "start": 0,
+                          "end": 23,
+                          "url": "https://t.co/wXkjogpnoN",
+                          "expanded_url": "https://onemanandhisblog.com",
+                          "display_url": "onemanandhisblog.com"
+                        }
+                      ]
+                    },
+                    "description": {
+                      "hashtags": [
+                        {
+                          "start": 145,
+                          "end": 150,
+                          "tag": "FRSA"
+                        }
+                      ],
+                      "mentions": [
+                        {
+                          "start": 108,
+                          "end": 123,
+                          "username": "cityjournalism"
+                        }
+                      ]
+                    }
+                  },
+                  "url": "https://t.co/wXkjogpnoN",
+                  "verified": false,
+                  "location": "Shoreham-by-Sea",
+                  "profile_image_url": "https://pbs.twimg.com/profile_images/1339587374892740608/0qT6MvxO_normal.jpg"
+                },
+                {
+                  "id": "385375018",
+                  "description": "Digital journalism by tomorrow's digital journalists. The latest digital, social & data driven journalism news from @cityjournalism's MA Interactive Journalists",
+                  "name": "Interhacktives",
+                  "protected": false,
+                  "public_metrics": {
+                    "followers_count": 1595,
+                    "following_count": 776,
+                    "tweet_count": 2840,
+                    "listed_count": 159
+                  },
+                  "created_at": "2011-10-05T11:45:40.000Z",
+                  "username": "Interhacktives",
+                  "pinned_tweet_id": "1497977391179776004",
+                  "entities": {
+                    "url": {
+                      "urls": [
+                        {
+                          "start": 0,
+                          "end": 23,
+                          "url": "https://t.co/q6UnyatBKN",
+                          "expanded_url": "http://www.interhacktives.com",
+                          "display_url": "interhacktives.com"
+                        }
+                      ]
+                    },
+                    "description": {
+                      "mentions": [
+                        {
+                          "start": 116,
+                          "end": 131,
+                          "username": "cityjournalism"
+                        }
+                      ]
+                    }
+                  },
+                  "url": "https://t.co/q6UnyatBKN",
+                  "verified": false,
+                  "location": "London, UK",
+                  "profile_image_url": "https://pbs.twimg.com/profile_images/1094176847481524224/uIQysv4O_normal.jpg"
+                }
+              ],
+              "tweets": [
+                {
+                  "referenced_tweets": [
+                    {
+                      "type": "quoted",
+                      "id": "1506346203310612490"
+                    }
+                  ],
+                  "context_annotations": [
+                    {
+                      "domain": {
+                        "id": "47",
+                        "name": "Brand",
+                        "description": "Brands and Companies"
+                      },
+                      "entity": {
+                        "id": "10026364281",
+                        "name": "Apple"
+                      }
+                    },
+                    {
+                      "domain": {
+                        "id": "47",
+                        "name": "Brand",
+                        "description": "Brands and Companies"
+                      },
+                      "entity": {
+                        "id": "10026364281",
+                        "name": "Apple"
+                      }
+                    },
+                    {
+                      "domain": {
+                        "id": "48",
+                        "name": "Product",
+                        "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone."
+                      },
+                      "entity": {
+                        "id": "10044903039",
+                        "name": "Apple - iOS"
+                      }
+                    }
+                  ],
+                  "lang": "en",
+                  "text": "Bet you could do something interesting with this @Interhacktives https://t.co/DLIUSgv5HZ",
+                  "possibly_sensitive": false,
+                  "conversation_id": "1506601747090972675",
+                  "created_at": "2022-03-23T12:00:22.000Z",
+                  "public_metrics": {
+                    "retweet_count": 0,
+                    "reply_count": 2,
+                    "like_count": 1,
+                    "quote_count": 0
+                  },
+                  "entities": {
+                    "urls": [
+                      {
+                        "start": 65,
+                        "end": 88,
+                        "url": "https://t.co/DLIUSgv5HZ",
+                        "expanded_url": "https://twitter.com/twittersupport/status/1506346203310612490",
+                        "display_url": "twitter.com/twittersupport…"
+                      }
+                    ],
+                    "mentions": [
+                      {
+                        "start": 49,
+                        "end": 64,
+                        "username": "Interhacktives",
+                        "id": "385375018"
+                      }
+                    ]
+                  },
+                  "reply_settings": "everyone",
+                  "source": "Twitter for Mac",
+                  "id": "1506601747090972675",
+                  "author_id": "40523"
+                }
+              ]
+            }
+          }
+        }
+      }
+    ],
+    [
+      "embed",
+      {
+        "url": "https://twitter.com/twittersupport/status/1506346203310612490?s=21",
+        "html": "<blockquote class=\"twitter-tweet\"><p lang=\"en\" dir=\"ltr\">Ok GIFs aren’t new but what *is new* is the option to capture your own using the in-app camera on iOS. <a href=\"https://t.co/3Hl6q78e6s\">pic.twitter.com/3Hl6q78e6s</a></p>&mdash; Twitter Support (@TwitterSupport) <a href=\"https://twitter.com/TwitterSupport/status/1506346203310612490?ref_src=twsrc%5Etfw\">March 22, 2022</a></blockquote>\n<script async src=\"https://platform.twitter.com/widgets.js\" charset=\"utf-8\"></script>\n",
+        "type": "twitter",
+        "metadata": {
+          "url": "https://twitter.com/TwitterSupport/status/1506346203310612490",
+          "author_name": "Twitter Support",
+          "author_url": "https://twitter.com/TwitterSupport",
+          "width": 550,
+          "height": null,
+          "cache_age": "3153600000",
+          "provider_name": "Twitter",
+          "provider_url": "http://www.twitter.com/",
+          "version": "1.0",
+          "tweet_data": {
+            "id": "1506346203310612490",
+            "entities": {
+              "annotations": [
+                {
+                  "start": 98,
+                  "end": 100,
+                  "probability": 0.9485,
+                  "type": "Product",
+                  "normalized_text": "iOS"
+                }
+              ],
+              "urls": [
+                {
+                  "start": 103,
+                  "end": 126,
+                  "url": "https://t.co/3Hl6q78e6s",
+                  "expanded_url": "https://twitter.com/TwitterSupport/status/1506346203310612490/photo/1",
+                  "display_url": "pic.twitter.com/3Hl6q78e6s"
+                }
+              ]
+            },
+            "possibly_sensitive": false,
+            "attachments": {
+              "media_keys": [
+                "16_1506346149061578757"
+              ]
+            },
+            "text": "Ok GIFs aren’t new but what *is new* is the option to capture your own using the in-app camera on iOS. https://t.co/3Hl6q78e6s",
+            "source": "Sprinklr",
+            "conversation_id": "1506346203310612490",
+            "public_metrics": {
+              "retweet_count": 309,
+              "reply_count": 199,
+              "like_count": 854,
+              "quote_count": 166
+            },
+            "reply_settings": "everyone",
+            "author_id": "17874544",
+            "created_at": "2022-03-22T19:04:56.000Z",
+            "context_annotations": [
+              {
+                "domain": {
+                  "id": "47",
+                  "name": "Brand",
+                  "description": "Brands and Companies"
+                },
+                "entity": {
+                  "id": "10026364281",
+                  "name": "Apple"
+                }
+              },
+              {
+                "domain": {
+                  "id": "47",
+                  "name": "Brand",
+                  "description": "Brands and Companies"
+                },
+                "entity": {
+                  "id": "10026364281",
+                  "name": "Apple"
+                }
+              },
+              {
+                "domain": {
+                  "id": "48",
+                  "name": "Product",
+                  "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone."
+                },
+                "entity": {
+                  "id": "10044903039",
+                  "name": "Apple - iOS"
+                }
+              },
+              {
+                "domain": {
+                  "id": "47",
+                  "name": "Brand",
+                  "description": "Brands and Companies"
+                },
+                "entity": {
+                  "id": "10045225402",
+                  "name": "Twitter"
+                }
+              }
+            ],
+            "lang": "en",
+            "includes": {
+              "media": [
+                {
+                  "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/FOed13OX0AUIgvk.jpg",
+                  "media_key": "16_1506346149061578757",
+                  "width": 600,
+                  "type": "animated_gif",
+                  "height": 600
+                }
+              ],
+              "users": [
+                {
+                  "public_metrics": {
+                    "followers_count": 6996196,
+                    "following_count": 22,
+                    "tweet_count": 63600,
+                    "listed_count": 15320
+                  },
+                  "id": "17874544",
+                  "description": "Here to help. 💙",
+                  "name": "Twitter Support",
+                  "verified": true,
+                  "url": "https://t.co/heEvRrl4yN",
+                  "created_at": "2008-12-04T18:51:57.000Z",
+                  "entities": {
+                    "url": {
+                      "urls": [
+                        {
+                          "start": 0,
+                          "end": 23,
+                          "url": "https://t.co/heEvRrl4yN",
+                          "expanded_url": "https://help.twitter.com",
+                          "display_url": "help.twitter.com"
+                        }
+                      ]
+                    }
+                  },
+                  "location": "Twitter HQ",
+                  "username": "TwitterSupport",
+                  "profile_image_url": "https://pbs.twimg.com/profile_images/1354479896072884225/AaUbc7ao_normal.jpg",
+                  "protected": false
+                }
+              ]
+            }
+          }
+        }
+      }
+    ],
+    [
+      "embed",
+      {
+        "url": "https://twitter.com/adders/status/1506609260540608517?s=21",
+        "html": "<blockquote class=\"twitter-tweet\"><p lang=\"en\" dir=\"ltr\">adamreaction.gif <a href=\"https://t.co/mvCyKkB43X\">pic.twitter.com/mvCyKkB43X</a></p>&mdash; Adam Tinworth (@adders) <a href=\"https://twitter.com/adders/status/1506609260540608517?ref_src=twsrc%5Etfw\">March 23, 2022</a></blockquote>\n<script async src=\"https://platform.twitter.com/widgets.js\" charset=\"utf-8\"></script>\n",
+        "type": "twitter",
+        "metadata": {
+          "url": "https://twitter.com/adders/status/1506609260540608517",
+          "author_name": "Adam Tinworth",
+          "author_url": "https://twitter.com/adders",
+          "width": 550,
+          "height": null,
+          "cache_age": "3153600000",
+          "provider_name": "Twitter",
+          "provider_url": "http://www.twitter.com/",
+          "version": "1.0",
+          "tweet_data": {
+            "source": "Twitter for iPhone",
+            "attachments": {
+              "media_keys": [
+                "16_1506609233898479622"
+              ]
+            },
+            "id": "1506609260540608517",
+            "conversation_id": "1506609260540608517",
+            "entities": {
+              "urls": [
+                {
+                  "start": 17,
+                  "end": 40,
+                  "url": "https://t.co/mvCyKkB43X",
+                  "expanded_url": "https://twitter.com/adders/status/1506609260540608517/photo/1",
+                  "display_url": "pic.twitter.com/mvCyKkB43X"
+                }
+              ]
+            },
+            "author_id": "40523",
+            "public_metrics": {
+              "retweet_count": 0,
+              "reply_count": 0,
+              "like_count": 0,
+              "quote_count": 0
+            },
+            "lang": "en",
+            "text": "adamreaction.gif https://t.co/mvCyKkB43X",
+            "reply_settings": "everyone",
+            "possibly_sensitive": false,
+            "created_at": "2022-03-23T12:30:13.000Z",
+            "includes": {
+              "media": [
+                {
+                  "type": "animated_gif",
+                  "media_key": "16_1506609233898479622",
+                  "width": 640,
+                  "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/FOiNHanXoAYT7OC.jpg",
+                  "height": 854
+                }
+              ],
+              "users": [
+                {
+                  "verified": false,
+                  "public_metrics": {
+                    "followers_count": 8877,
+                    "following_count": 3957,
+                    "tweet_count": 43613,
+                    "listed_count": 796
+                  },
+                  "id": "40523",
+                  "name": "Adam Tinworth",
+                  "url": "https://t.co/wXkjogpnoN",
+                  "pinned_tweet_id": "1440315071138131974",
+                  "description": "Digital journalism strategy & training since 2006. Feeling old, but trying not to act it. Visiting lecturer @cityjournalism. A good egg, mostly. #FRSA",
+                  "location": "Shoreham-by-Sea",
+                  "profile_image_url": "https://pbs.twimg.com/profile_images/1339587374892740608/0qT6MvxO_normal.jpg",
+                  "entities": {
+                    "url": {
+                      "urls": [
+                        {
+                          "start": 0,
+                          "end": 23,
+                          "url": "https://t.co/wXkjogpnoN",
+                          "expanded_url": "https://onemanandhisblog.com",
+                          "display_url": "onemanandhisblog.com"
+                        }
+                      ]
+                    },
+                    "description": {
+                      "hashtags": [
+                        {
+                          "start": 145,
+                          "end": 150,
+                          "tag": "FRSA"
+                        }
+                      ],
+                      "mentions": [
+                        {
+                          "start": 108,
+                          "end": 123,
+                          "username": "cityjournalism"
+                        }
+                      ]
+                    }
+                  },
+                  "created_at": "2006-12-04T14:51:52.000Z",
+                  "protected": false,
+                  "username": "adders"
+                }
+              ]
+            }
+          }
+        }
+      }
+    ]
+  ],
+  "markups": [
+    [
+      "a",
+      [
+        "href",
+        "https://www.theguardian.com/technology/2022/mar/19/tiktok-ukraine-russia-war-disinformation"
+      ]
+    ],
+    [
+      "em"
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://dkb.io/post/google-search-is-dying?utm_source=tldrnewsletter"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.vice.com/en/article/z3nzb4/gifs-are-for-boomers-now"
+      ]
+    ]
+  ],
+  "sections": [
+    [
+      10,
+      0
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "1.  Messaging apps are becoming a critical part of our reporting infrastructure"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "There's been plenty of discussion of the Ukraine as the "
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "first major TikTok conflict"
+        ],
+        [
+          0,
+          [],
+          0,
+          " but, as Joel Simon writes for "
+        ],
+        [
+          0,
+          [
+            1
+          ],
+          1,
+          "Columbia Journalism Review, "
+        ],
+        [
+          0,
+          [],
+          0,
+          "for journalists it's all about the messaging apps:"
+        ]
+      ]
+    ],
+    [
+      1,
+      "blockquote",
+      [
+        [
+          0,
+          [],
+          0,
+          "What’s changed, says Cameron Barr, Senior Managing Editor at "
+        ],
+        [
+          0,
+          [
+            1
+          ],
+          1,
+          "The Washington Post"
+        ],
+        [
+          0,
+          [],
+          0,
+          ", is both the “scale and severity” of the Ukraine conflict. The "
+        ],
+        [
+          0,
+          [
+            1
+          ],
+          1,
+          "Post"
+        ],
+        [
+          0,
+          [],
+          0,
+          " relies on a WhatsApp group with about two dozen reporters, editors, and security consultants to manage the reporting teams on the ground."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "WhatsApp, Signal and Telegram are all becoming essential tools in the journalism toolbox when you're trying to co-ordinate with journalists in the field. If your newsroom doesn't already have a security-conscious policy on this, it's time to get one. "
+        ]
+      ]
+    ],
+    [
+      10,
+      1
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "It's also worth remembering, that you can evaluate any digital tool against three main roles:"
+        ]
+      ]
+    ],
+    [
+      3,
+      "ul",
+      [
+        [
+          [
+            0,
+            [],
+            0,
+            "Content promotion"
+          ]
+        ],
+        [
+          [
+            0,
+            [],
+            0,
+            "Story-finding and research"
+          ]
+        ],
+        [
+          [
+            0,
+            [],
+            0,
+            "Networking and communications"
+          ]
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "While some interesting work is being done with messaging apps and the first of those (promotion), it's for the latter two that they really shine. "
+        ]
+      ]
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "2. Reddit: your new SEO challenge"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Have you given any thought to your Reddit search strategy? Any at all? No? Well, you might need to. The site we once called a “social bookmarking” service, but which is probably better regarded as a platform for niche communities, is becoming "
+        ],
+        [
+          0,
+          [
+            2
+          ],
+          1,
+          "a star for certain searches"
+        ],
+        [
+          0,
+          [],
+          0,
+          ": "
+        ]
+      ]
+    ],
+    [
+      10,
+      2
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "While that's more about the weakness of Google (and the outsize success of search marketers on certain query categories), Reddit certainly seems to be leaning into the idea:"
+        ]
+      ]
+    ],
+    [
+      10,
+      3
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "I suspect Reddit is due a serious re-evaluation in audience strategy circles. "
+        ]
+      ]
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "3. GIFs. GIFs everywhere."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Let's face it: GIFs are a prehistoric format. Those of us who remember the 1990s web will recall when they were the "
+        ],
+        [
+          0,
+          [
+            1
+          ],
+          1,
+          "only"
+        ],
+        [
+          0,
+          [],
+          0,
+          " viable way of putting any video or animation on your homepage. They are old, clunky and bandwidth hogs:"
+        ]
+      ]
+    ],
+    [
+      10,
+      4
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "And yet, they're still a central part of the way we communicate online (for a certain subset of “we” at least. "
+        ],
+        [
+          0,
+          [
+            3
+          ],
+          0,
+          "Apparently they're "
+        ],
+        [
+          0,
+          [
+            1
+          ],
+          1,
+          "passé"
+        ],
+        [
+          0,
+          [],
+          1,
+          " amongst Gen Z"
+        ],
+        [
+          0,
+          [],
+          0,
+          ".) And so, Twitter, which has long supported really modern video formats, now allows you to create them within the app:"
+        ]
+      ]
+    ],
+    [
+      10,
+      5
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Why would you do this, rather than just create a short video clip? Well, you might experiment with it for the reusability and viral potential of the GIF. But, as always, the true potential of new functionality only becomes clear when people start playing with it. It'll be interesting to see if they unleashes another wave of viral creativity on Twitter, or quickly becomes another forgotten piece of functionality buried in the app. "
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "I image you can come up with better than this:"
+        ]
+      ]
+    ],
+    [
+      10,
+      6
+    ],
+    [
+      1,
+      "p",
+      []
+    ]
+  ],
+  "ghostVersion": "4.0"
+}

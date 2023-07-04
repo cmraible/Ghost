@@ -1,0 +1,1243 @@
+{
+  "version": "0.3.1",
+  "atoms": [],
+  "cards": [
+    [
+      "email-cta",
+      {
+        "showButton": true,
+        "showDividers": false,
+        "segment": "status:free",
+        "alignment": "left",
+        "html": "<p>In a world filled with crypto Ponzi schemes, you might not be sure what investments are the right ones to make right now. One small investment you can make that is guaranteed to provide a good return is to become a supporting subscriber to <em>The Lever</em>. <a href=\"__GHOST_URL__/membership/?utm_source=newsletter-email&amp;utm_medium=link&amp;utm_campaign=newsletter-upgrade\">Click here to upgrade now</a>. Not only will you be directly financing independent investigative news that holds the powerful accountable, but you’ll get great membership perks in return.</p>",
+        "buttonText": "Upgrade Now",
+        "buttonUrl": "__GHOST_URL__/membership/?utm_source=newsletter-email&utm_medium=link&utm_campaign=newsletter-upgrade"
+      }
+    ],
+    [
+      "email-cta",
+      {
+        "showButton": false,
+        "showDividers": false,
+        "segment": "status:free",
+        "alignment": "left",
+        "html": "<p>If the cost of a subscription is prohibitive to you, please reach out to us at <a href=\"mailto:support@levernews.com\">support@levernews.com</a> and we’ll create a plan that works for you.</p>"
+      }
+    ],
+    [
+      "email-cta",
+      {
+        "showButton": false,
+        "showDividers": false,
+        "segment": "status:-free",
+        "alignment": "left",
+        "html": "<p>Spread the word: Forward this email to encourage others <a href=\"https://levernews.com/membership/?utm_source=daily&amp;utm_medium=link&amp;utm_campaign=forward-signup\">to subscribe to <em>The Lever</em></a>.</p>"
+      }
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "image",
+      {
+        "src": "__GHOST_URL__/content/images/2022/12/crypto-401k-1.jpg",
+        "width": 1600,
+        "height": 900,
+        "caption": "<em>(AP Photo/Kin Cheung)</em>"
+      }
+    ],
+    [
+      "callout",
+      {
+        "calloutEmoji": "👉",
+        "calloutText": "<strong><em>Share this article on <u><a href=\"https://twitter.com/intent/tweet?text=Despite%20FTX%E2%80%99s%20collapse%2C%20a%20lawsuit%20linked%20to%20the%20exchange%E2%80%99s%20investor%20is%20trying%20to%20force%20regulators%20to%20allow%20crypto%20into%20the%20retirement%20market.%0Ahttps%3A%2F%2Fwww.levernews.com%2Fsam-bankman-fried-wants-your-401-k%2F%3Futm_source%3Dtwitter%26utm_medium%3Dlink%26utm_campaign%3Dtw-prefill\">Twitter</a></u></em></strong>.",
+        "backgroundColor": "grey"
+      }
+    ],
+    [
+      "product",
+      {
+        "productButtonEnabled": true,
+        "productRatingEnabled": false,
+        "productStarRating": 5,
+        "productTitle": "The Audit Season Two, Featuring Nina Turner!",
+        "productDescription": "<p>Dave, Josh, and Senator Turner dig into David Axelrod and Karl Rove's MasterClass on campaign strategy and messaging. Yes, we’re also very upset by this.</p><p>Listen now in your podcast player of choice.</p>",
+        "productImageSrc": "__GHOST_URL__/content/images/2022/12/Axelrod-Rove-Cover-Art-2-1-1.png",
+        "productImageWidth": 2000,
+        "productImageHeight": 2000,
+        "productButton": "Learn More About The Audit",
+        "productUrl": "https://the.levernews.com/podcasts/#the-audit"
+      }
+    ],
+    [
+      "button",
+      {
+        "alignment": "center",
+        "buttonText": "Tip Jar",
+        "buttonUrl": "https://dailyposter.outpost.pub/ghost-integration/60818189ad12f332071054b8/tips"
+      }
+    ],
+    [
+      "callout",
+      {
+        "calloutEmoji": "👉",
+        "calloutText": "<strong>HELP US GROW, FOLLOW US ON SOCIAL MEDIA:</strong><br>• <a href=\"https://www.twitter.com/LeverNews\"><strong>Twitter</strong></a><br>• <a href=\"https://www.facebook.com/TheLeverNews\"><strong>Facebook</strong></a><br>• <a href=\"https://www.instagram.com/LeverNews\"><strong>Instagram</strong></a><br>• <a href=\"https://www.youtube.com/c/LeverNews\"><strong>YouTube</strong></a>",
+        "backgroundColor": "grey"
+      }
+    ],
+    [
+      "callout",
+      {
+        "calloutEmoji": "🎁",
+        "calloutText": "<strong>Need A Holiday Gift? <a href=\"https://dailyposter.outpost.pub/gift_subscription#/\">Give A Gift Subscription!</a></strong>",
+        "backgroundColor": "green"
+      }
+    ],
+    [
+      "email-cta",
+      {
+        "showButton": true,
+        "showDividers": false,
+        "segment": "status:-free",
+        "alignment": "center",
+        "html": "",
+        "buttonText": "Click Here To Comment",
+        "buttonUrl": "__GHOST_URL__/sam-bankman-fried-wants-your-401-k/#comments"
+      }
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "email",
+      {
+        "html": "<p><em><strong>Help us spread the word! </strong>Please forward this email to family and friends.</em></p><p><em><strong>Was this email forwarded to you? </strong><a href=\"https://levernews.com/membership/\">Sign up for free</a> to receive original reporting like this in your inbox every day.</em></p>"
+      }
+    ]
+  ],
+  "markups": [
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/author/matthew-cunningham-cook/"
+      ]
+    ],
+    [
+      "em"
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/sam-bankman-fried-wants-your-401-k/?utm_source=newsletter-email&utm_medium=link&utm_campaign=newsletter-article"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.dol.gov/agencies/ebsa/employers-and-advisers/plan-administration-and-compliance/compliance-assistance-releases/2022-01"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.cnbc.com/2022/11/04/fidelity-forusall-offering-401k-investors-access-to-cryptocurrency.html"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.ici.org/statistical-report/ret_22_q2"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/news-trump-just-fulfilled-his-billionaire/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.plansponsor.com/dol-clarifies-stance-private-equity-investments-dc-plans/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://twitter.com/LeverNews/status/1592177577413615617?s=20&t=Fd7J8AnI3aoOwGXV10UYWQ"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/washingtons-32-billion-crypto-scam/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.bloomberg.com/news/articles/2022-04-25/odd-lots-full-transcript-sam-bankman-fried-and-matt-levine-on-crypto?leadSource=uverify%20wall"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://news.bloomberglaw.com/daily-labor-report/forusall-launches-first-crypto-guidance-lawsuit-against-dol"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.planadviser.com/forusall-will-drop-dol-crypto-suit-court-confirms-prior-guidance-non-binding/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.planadviser.com/dol-rejects-forusalls-tactical-retreat-crypto-retirement-case/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://si-interactive.s3.amazonaws.com/prod/planadviser-com/wp-content/uploads/2022/11/15153726/DOL_ForUsAll_11_15_22.pdf"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.businessinsider.com/senator-cynthia-lummis-crypto-queen-bill-regulation-2022-6"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://twitter.com/LeverNews/status/1592177577413615617"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.coindesk.com/consensus-magazine/2022/12/05/cynthia-lummis-kirsten-gillibrand-most-influential-2022/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.gillibrand.senate.gov/news/press/release/-lummis-gillibrand-introduce-landmark-legislation-to-create-regulatory-framework-for-digital-assets"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.opensecrets.org/members-of-congress/cynthia-lummis/contributors?cid=N00029788&cycle=2022&type=I"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.opensecrets.org/donor-lookup/results?name=bankman+fried%2C+samuel&cycle=&state=&zip=&employ=&occupation=&jurisdiction=&cand=gillibrand&type="
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.opensecrets.org/donor-lookup/results?name=bankman+fried%2C+samuel&cycle=&state=&zip=&employ=&occupation=&jurisdiction=&cand=off+the+sidelines&type="
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.opensecrets.org/members-of-congress/kirsten-gillibrand/contributors?cid=N00027658&cycle=2022"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://beincrypto.com/new-york-senator-receives-over-150000-from-crypto-execs/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://eresearch.fidelity.com/eresearch/markets_sectors/news/story.jhtml?storyid=202207191246BENZINGAFULLNGTH28107594&provider=BENZINGA&product=FULLNGTH&category=sectorNews&sourcePage=article&gic=402030"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.durbin.senate.gov/imo/media/doc/letter_to_fidelity_investments_ceo.pdf"
+      ]
+    ]
+  ],
+  "sections": [
+    [
+      10,
+      0
+    ],
+    [
+      10,
+      1
+    ],
+    [
+      10,
+      2
+    ],
+    [
+      10,
+      3
+    ],
+    [
+      10,
+      4
+    ],
+    [
+      10,
+      5
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "By "
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "Matthew Cunningham-Cook"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "["
+        ],
+        [
+          0,
+          [
+            1,
+            2
+          ],
+          2,
+          "View in browser"
+        ],
+        [
+          0,
+          [],
+          0,
+          "]"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "An investment firm tied to the collapsed crypto trading platform FTX is also backing a company whose court battle could help funnel Americans’ retirement nest eggs into digital currencies, a "
+        ],
+        [
+          0,
+          [
+            1
+          ],
+          1,
+          "Lever "
+        ],
+        [
+          0,
+          [],
+          0,
+          "review has found. The legal campaign coincides with a push by crypto-bankrolled lawmakers’ to try to clear the way for retirement savings to be invested in the crypto market."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "At issue is the Labor Department’s "
+        ],
+        [
+          0,
+          [
+            3
+          ],
+          1,
+          "March"
+        ],
+        [
+          0,
+          [],
+          0,
+          " guidance warning retirement plan administrators to “exercise extreme care before they consider adding a cryptocurrency option to a 401(k) plan” because the investments are so volatile. The agency promised a deeper investigation into crypto, and warned administrators that they “should expect to be questioned” if they helped direct retiree assets into the currencies."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Though nonbinding, that federal guidance is now the target of a lawsuit brought by an investment company "
+        ],
+        [
+          0,
+          [
+            4
+          ],
+          1,
+          "offering"
+        ],
+        [
+          0,
+          [],
+          0,
+          " crypto to its 401(k) clients. The firm is also backed by an investor in FTX. The suit aims to force regulators to retract the guidance, arguing that the government is acting as an “armchair financial adviser” in issuing such warnings."
+        ]
+      ]
+    ],
+    [
+      10,
+      6
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "The skirmish is the latest effort by peddlers of exotic and opaque investments to chip away at laws shielding the "
+        ],
+        [
+          0,
+          [
+            5
+          ],
+          1,
+          "$6.4 trillion"
+        ],
+        [
+          0,
+          [],
+          0,
+          " 401(k) retirement market from extreme risk. Two years ago, Wall Street firms successfully "
+        ],
+        [
+          0,
+          [
+            6
+          ],
+          1,
+          "pressed"
+        ],
+        [
+          0,
+          [],
+          0,
+          " the Trump administration to bless 401(k) investments in speculative high-fee private equity, hedge funds, and real estate assets, a decision the Biden administration "
+        ],
+        [
+          0,
+          [
+            7
+          ],
+          1,
+          "walked back"
+        ],
+        [
+          0,
+          [],
+          0,
+          " in December 2021, but did not fully revoke."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Now comes the push by the financial industry and crypto’s political allies."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Amid a regulatory vacuum, one of the country’s largest 401(k) recordkeepers, Fidelity Investments, with $1.4 trillion in 401(k) assets, began "
+        ],
+        [
+          0,
+          [
+            4
+          ],
+          1,
+          "offering"
+        ],
+        [
+          0,
+          [],
+          0,
+          " a crypto option for workers this fall. Just before that two senators bankrolled by the crypto industry "
+        ],
+        [
+          0,
+          [
+            8
+          ],
+          1,
+          "encouraged"
+        ],
+        [
+          0,
+          [],
+          0,
+          " a national television audience to invest their retirement nest eggs in the currency."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "The lawsuit represents an escalation: It could block regulators from issuing warnings about these financial instruments, even as they implode."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Since January 1, both Bitcoin and the other main cryptocurrency, Ethereum, have lost more than 60 percent of their value, soaking ordinary investors. Meanwhile, more than $1 billion worth of customer assets have gone missing in the "
+        ],
+        [
+          0,
+          [
+            9
+          ],
+          1,
+          "FTX collapse"
+        ],
+        [
+          0,
+          [],
+          0,
+          "."
+        ]
+      ]
+    ],
+    [
+      10,
+      7
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "So far, losses from cryptocurrency have not caused a widespread crisis for retirees, because pension funds and 401(k) plans’ investments in crypto have been limited. The lawsuit could change that — even though many financial experts say the inherently speculative nature of crypto means it has no place in workers’ retirement plans."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "“We’ve seen extreme volatility in crypto asset markets, with significant losses in a short amount of time. It’s difficult to separate fact from hype — you can’t tell what’s real or imagined,” said Micah Hauptman, director of investor protection at the Consumer Federation of America and former attorney with the federal Securities and Exchange Commission. “To the extent that fiduciaries are including these assets in plans, it’s hard to make a dispassionate analysis that this is in the sole interest of plan participants.”"
+        ]
+      ]
+    ],
+    [
+      1,
+      "h3",
+      [
+        [
+          0,
+          [],
+          0,
+          "Crypto Speculators Take Aim At The 401(k) Market"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Former FTX CEO Samuel Bankman-Fried, whose company sent crypto markets into a tailspin by declaring bankruptcy on November 11, has repeatedly hinted at the Ponzi scheme-like nature of cryptocurrencies, suggesting that their asset values aren’t tied to underlying assets like stocks and bonds, but instead fueled by inflows of new capital from unsophisticated investors."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "As Bankman-Fried, known as SBF, "
+        ],
+        [
+          0,
+          [
+            10
+          ],
+          1,
+          "told"
+        ],
+        [
+          0,
+          [],
+          0,
+          " "
+        ],
+        [
+          0,
+          [
+            1
+          ],
+          1,
+          "Bloomberg "
+        ],
+        [
+          0,
+          [],
+          0,
+          "in April: “I do think this is the thing that makes me the [most] bullish about like crypto asset pricing is just the amount of money that isn’t able to access it today… but directly could be, and very well might start doing so over the next few years.”"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Because of decades-old laws protecting retiree investments, crypto speculators have not been able to fully access one of the largest reserves of capital: the $6.4 trillion 401(k) market. That pool of capital is full of unsophisticated investors who would not even know where to find a securities filing, much less read one — which makes them excellent targets for the volatile crypto market."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "This is likely why not long after regulators issued their warning against 401(k) plans investing in crypto, business interests with ties to crypto began attacking the guidance."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "In June, the 401(k) management firm ForUsAll "
+        ],
+        [
+          0,
+          [
+            11
+          ],
+          1,
+          "sued"
+        ],
+        [
+          0,
+          [],
+          0,
+          " the Labor Department to demand that they retract the guidance. That firm, like FTX, is owned in part by Ribbit Capital, a crypto venture capital firm based in Palo Alto, California. In September, ForUsAll began "
+        ],
+        [
+          0,
+          [
+            4
+          ],
+          1,
+          "offering"
+        ],
+        [
+          0,
+          [],
+          0,
+          " crypto in its 401(k) plans."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "ForUsAll pledged to drop its lawsuit on November 1 — just "
+        ],
+        [
+          0,
+          [
+            12
+          ],
+          1,
+          "one day"
+        ],
+        [
+          0,
+          [],
+          0,
+          " before FTX’s collapse — but only if the court agreed to confirm that the Labor Department guidance did not “carry the force of law,” and that regulators would back off the guidance’s promise to investigate crypto investments."
+        ]
+      ]
+    ],
+    [
+      10,
+      8
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "The Labor Department "
+        ],
+        [
+          0,
+          [
+            13
+          ],
+          1,
+          "dismissed"
+        ],
+        [
+          0,
+          [],
+          0,
+          " ForUsAll’s backpedaling, "
+        ],
+        [
+          0,
+          [
+            14
+          ],
+          1,
+          "urging"
+        ],
+        [
+          0,
+          [],
+          0,
+          " the federal D.C. District Court on November 14 to “reject ForUsAll’s effort at a tactical retreat.”"
+        ]
+      ]
+    ],
+    [
+      1,
+      "h3",
+      [
+        [
+          0,
+          [],
+          0,
+          "“I Think The Labor Department Is Wrong”"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "The stakes are high: The fate of the lawsuit could determine the crypto industry’s ability to tap into the savings of "
+        ],
+        [
+          0,
+          [
+            5
+          ],
+          1,
+          "the 60 million-plus"
+        ],
+        [
+          0,
+          [],
+          0,
+          " Americans who currently have 401(k)s."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "At the same time, prominent crypto allies in the Senate began pushing back against the Labor Department guidance."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "In June, "
+        ],
+        [
+          0,
+          [
+            15
+          ],
+          1,
+          "crypto champion"
+        ],
+        [
+          0,
+          [],
+          0,
+          " Sen. Cynthia Lummis (R-Wyo.), "
+        ],
+        [
+          0,
+          [
+            16
+          ],
+          1,
+          "told"
+        ],
+        [
+          0,
+          [],
+          0,
+          " "
+        ],
+        [
+          0,
+          [
+            1
+          ],
+          1,
+          "CNBC"
+        ],
+        [
+          0,
+          [],
+          0,
+          ": “I think the Labor Department is wrong. I think [401(k) investments in crypto are] a wonderful idea. It should be part of a diversified asset allocation… you want some assets that are just a store of value. I think that’s where bitcoin really shines. It’s some of the hardest money that’s ever been created in the world, and for that reason it belongs as a slice of a diversified asset allocation for retirement funds.” Sen. Kirsten Gillibrand (D-N.Y.), also a "
+        ],
+        [
+          0,
+          [
+            17
+          ],
+          1,
+          "crypto advocate"
+        ],
+        [
+          0,
+          [],
+          0,
+          ", echoed Lummis, saying “I agree,” before launching a technical exposition of her and Lummis’ "
+        ],
+        [
+          0,
+          [
+            18
+          ],
+          1,
+          "proposed legislation"
+        ],
+        [
+          0,
+          [],
+          0,
+          "."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Lummis, whose office did not respond to a request for comment by press time, has insisted she has only received a single donation from a Bankman-Fried associate."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "“I’m a Republican, so Sam Bankman-Fried did not contribute to my campaign — breathing a sigh of relief there. I think we did find a contribution from someone affiliated with FTX in one of our campaign accounts that we returned because we don’t want to create an appearance that he’s had more influence on our efforts than anyone else has,” Lummis told Forbes Digital Assets on December 5."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "But Lummis’ top source of cash this past election cycle was the crypto VC firm Multicoin Capital, which is currently unable to access roughly 16 percent of its capital because it is held by the bankrupt FTX. Multicoin Capital employees have donated $26,100 to Lummis’ campaigns and an additional $9,000 to her leadership PAC, according to data collected by "
+        ],
+        [
+          0,
+          [
+            19
+          ],
+          1,
+          "OpenSecrets"
+        ],
+        [
+          0,
+          [],
+          0,
+          "."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Gillibrand’s campaign and leadership PAC, meanwhile, received $10,800 "
+        ],
+        [
+          0,
+          [
+            20
+          ],
+          1,
+          "in"
+        ],
+        [
+          0,
+          [],
+          0,
+          " "
+        ],
+        [
+          0,
+          [
+            21
+          ],
+          1,
+          "total"
+        ],
+        [
+          0,
+          [],
+          0,
+          " from Bankman-Fried, as well as another "
+        ],
+        [
+          0,
+          [
+            22
+          ],
+          1,
+          "$19,400"
+        ],
+        [
+          0,
+          [],
+          0,
+          " from Multicoin Capital employees."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "In total, Gillibrand has received "
+        ],
+        [
+          0,
+          [
+            23
+          ],
+          1,
+          "$150,000"
+        ],
+        [
+          0,
+          [],
+          0,
+          " in campaign contributions in recent years from the crypto industry, while Lummis has received "
+        ],
+        [
+          0,
+          [
+            24
+          ],
+          1,
+          "$119,000"
+        ],
+        [
+          0,
+          [],
+          0,
+          "."
+        ]
+      ]
+    ],
+    [
+      1,
+      "h3",
+      [
+        [
+          0,
+          [],
+          0,
+          "“We Really Don’t Know How Far The Depravity Goes”"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Bart Naylor, a financial policy advocate at the government watchdog group Public Citizen, believes federal regulators have every right to weigh in on the risks of 401(k) plans offering crypto investments."
+        ]
+      ]
+    ],
+    [
+      10,
+      9
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "“The Labor Department has a fairly wide ability to declare what category of stuff is safe,” Naylor told "
+        ],
+        [
+          0,
+          [
+            1
+          ],
+          1,
+          "The Lever"
+        ],
+        [
+          0,
+          [],
+          0,
+          ". “Crypto has no more inherent value than a burnt-out lightbulb. We’ve been skeptical of SBF for quite some time. In the height of my skepticism, I didn’t imagine wholesale theft of customer accounts… we really don’t know how far the depravity goes.”"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "In November, Senate Majority Whip Dick Durbin (D-Ill.), Sen. Elizabeth Warren (D-Mass.), and Sen. Tina Smith (D-Minn.) "
+        ],
+        [
+          0,
+          [
+            25
+          ],
+          1,
+          "wrote"
+        ],
+        [
+          0,
+          [],
+          0,
+          " to Fidelity to urge it to cease offering crypto investments as part of its retirement plan menu."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "“In light of these risks and continuous warning signs, we again strongly urge Fidelity Investments to do what is best for plan sponsors and plan participants — seriously reconsider its decision to allow plan sponsors to offer Bitcoin exposure to plan participants,” they argued."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "The letter added: “By many measures, we are already in a retirement security crisis, and it should not be made worse by exposing retirement savings to unnecessary risk.”"
+        ]
+      ]
+    ],
+    [
+      10,
+      10
+    ],
+    [
+      10,
+      11
+    ],
+    [
+      10,
+      12
+    ],
+    [
+      1,
+      "p",
+      []
+    ],
+    [
+      1,
+      "p",
+      []
+    ],
+    [
+      1,
+      "p",
+      []
+    ],
+    [
+      1,
+      "p",
+      []
+    ],
+    [
+      1,
+      "p",
+      []
+    ]
+  ],
+  "ghostVersion": "4.0"
+}

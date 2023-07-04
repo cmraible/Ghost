@@ -1,0 +1,398 @@
+{
+  "version": "0.3.1",
+  "atoms": [],
+  "cards": [
+    [
+      "hr",
+      {}
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "html",
+      {
+        "html": "<table id=\"production-numbers-table\">\n<tbody>\n\t<tr>\n\t\t<td>Coupe DeVille</td>\n\t\t<td>25,086</td>\n\t</tr>\n    \t<tr>\n\t\t<td>Sedan DeVille</td>\n\t\t<td>41,732</td>\n\t</tr>\n\t\t<td><b>Total Production</b></td>\n\t\t<td><b>66,818</b></td>\n\t</tr>\n</tbody>\n</table>"
+      }
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "html",
+      {
+        "html": "<table id=\"performance-specs-table\">\n<tbody>\n\t<tr>\n\t\t<th><b>Engine</b></th>\n\t\t<th><b>Size</b></td>\n\t\t<th><b>Carb.</b></td>\n\t\t<th><b>HP</b></td>\n\t\t<th><b>Torque</b></td>\n\t\t<th><b>0 to 60</b></td>\n\t\t<th><b>Quarter mile</b></td>\n\t</tr>\n\t<tr>\n\t\t<td>OHV V8</td>\n\t\t<td>365ci</td>\n\t\t<td>1x4bbl</td>\n\t\t<td>285</td>\n\t\t<td>400 lb-ft</td>\n\t\t<td>11.1 sec</td>\n\t\t<td>18 sec</td>\n\t</tr>\n</tbody>\n</table>"
+      }
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "html",
+      {
+        "html": "<h4 id='colors-sub-heading'>Exterior</h4>\n<div class=\"colors-row\">\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #000000\"></div>\n        <div class=\"color-name\">Black</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #e7e5ca\"></div>\n        <div class=\"color-name\">Canyon Gray</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #bac7ce\"></div>\n        <div class=\"color-name\">Cascade Gray</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #cabdc7\"></div>\n        <div class=\"color-name\">Dawn Gray</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #44464f\"></div>\n        <div class=\"color-name\">Camelot Gray</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #aec6d2\"></div>\n        <div class=\"color-name\">Sonic Blue</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #56739a\"></div>\n        <div class=\"color-name\">Tahoe Blue</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #38375c\"></div>\n        <div class=\"color-name\">Cobalt Blue</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #d9e4c4\"></div>\n        <div class=\"color-name\">Duchess Green</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #739a7e\"></div>\n        <div class=\"color-name\">Princess Green</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #94d0c7\"></div>\n        <div class=\"color-name\">Persian Green</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #517472\"></div>\n        <div class=\"color-name\">Arlington Green</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #f2e2a6\"></div>\n        <div class=\"color-name\">Cape Ivory</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #cfbb7f\"></div>\n        <div class=\"color-name\">Goddess Gold</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #e9c8a5\"></div>\n        <div class=\"color-name\">Pecos Beige</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #e38aae\"></div>\n        <div class=\"color-name\">Mountain Laurel</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #9b6b5d\"></div>\n        <div class=\"color-name\">Taupe</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #9c2523\"></div>\n        <div class=\"color-name\">Mandan Red</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #532a2c\"></div>\n        <div class=\"color-name\">Chantilly</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #fffaeb\"></div>\n        <div class=\"color-name\">Alpine White</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #96999f\"></div>\n        <div class=\"color-name\">Starlight</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #355e94\"></div>\n        <div class=\"color-name\">Bahama Blue</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #659287\"></div>\n        <div class=\"color-name\">Emerald Green</div>\n    </div>\n</div>\n\n<h4 id='colors-sub-heading'>Interior</h4>\n<div class=\"colors-row\">\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #000000\"></div>\n        <div class=\"color-name\">Black</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #86bddf\"></div>\n        <div class=\"color-name\">Blue</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #c64442\"></div>\n        <div class=\"color-name\">Red</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #604934\"></div>\n        <div class=\"color-name\">Tan</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #bec0ae\"></div>\n        <div class=\"color-name\">Gray</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #547357\"></div>\n        <div class=\"color-name\">Green</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #fffaeb\"></div>\n        <div class=\"color-name\">White</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #7a4e3d\"></div>\n        <div class=\"color-name\">Copper</div>\n    </div>\n</div>\n"
+      }
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "gallery",
+      {
+        "images": [
+          {
+            "fileName": "2221_1_low_res.jpg",
+            "row": 0,
+            "width": 790,
+            "height": 774,
+            "src": "__GHOST_URL__/content/images/2020/07/2221_1_low_res.jpg"
+          },
+          {
+            "fileName": "2222_1cad562_low_res.jpg",
+            "row": 0,
+            "width": 790,
+            "height": 1024,
+            "src": "__GHOST_URL__/content/images/2020/07/2222_1cad562_low_res.jpg"
+          },
+          {
+            "fileName": "2223_1cad561_low_res.jpg",
+            "row": 0,
+            "width": 783,
+            "height": 1024,
+            "src": "__GHOST_URL__/content/images/2020/07/2223_1cad561_low_res.jpg"
+          },
+          {
+            "fileName": "2218_7_low_res.jpg",
+            "row": 1,
+            "width": 790,
+            "height": 772,
+            "src": "__GHOST_URL__/content/images/2020/07/2218_7_low_res.jpg"
+          },
+          {
+            "fileName": "2219_6_low_res.jpg",
+            "row": 1,
+            "width": 790,
+            "height": 382,
+            "src": "__GHOST_URL__/content/images/2020/07/2219_6_low_res.jpg"
+          },
+          {
+            "fileName": "2220_2_low_res.jpg",
+            "row": 1,
+            "width": 790,
+            "height": 387,
+            "src": "__GHOST_URL__/content/images/2020/07/2220_2_low_res.jpg"
+          }
+        ],
+        "caption": "1956 Cadillac DeVille OEM Brochures"
+      }
+    ],
+    [
+      "hr",
+      {}
+    ]
+  ],
+  "markups": [
+    [
+      "strong"
+    ],
+    [
+      "em"
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/tag/research/"
+      ]
+    ]
+  ],
+  "sections": [
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Overview"
+        ]
+      ]
+    ],
+    [
+      10,
+      0
+    ],
+    [
+      1,
+      "h3",
+      [
+        [
+          0,
+          [],
+          0,
+          "The big news for 1956 was the introduction of Cadillac's first four-door hardtop Sedan DeVille, which immediately scored almost as many sales as the Coupe DeVille and standard 62 hardtop combined."
+        ]
+      ]
+    ],
+    [
+      10,
+      1
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "The big news for 1956 was the introduction of Cadillac's first four-door hardtop Sedan DeVille, which immediately scored almost as many sales as the Coupe DeVille and standard 62 hardtop combined."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "A new grille with a finer textured insert was installed that included repositioned parking lights in the bumper below the wing guards. The DeVille had a model nameplate and Cadillac crest on the sides of the front fenders."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Power output was increased yet again, although this time due to a stroke of an even 4-inches to deliver 285 hp."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "A $35M development by GM made the 1956 Hydra-Matic the largest and best shifting of their automatic tranmsissions, yet."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "The Sedan DeVille cannibalized approx. 8K of the Coupes, but still increased overall production of the DeVille to over 67,000."
+        ]
+      ]
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Production Numbers"
+        ]
+      ]
+    ],
+    [
+      10,
+      2
+    ],
+    [
+      10,
+      3
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Performance Specs"
+        ]
+      ]
+    ],
+    [
+      10,
+      4
+    ],
+    [
+      10,
+      5
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Transmission"
+        ]
+      ]
+    ],
+    [
+      10,
+      6
+    ],
+    [
+      3,
+      "ul",
+      [
+        [
+          [
+            0,
+            [
+              0,
+              0
+            ],
+            2,
+            "Hydra-Matic Auto"
+          ]
+        ]
+      ]
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Paint & Colors"
+        ]
+      ]
+    ],
+    [
+      10,
+      7
+    ],
+    [
+      10,
+      8
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "OEM Brochures"
+        ]
+      ]
+    ],
+    [
+      10,
+      9
+    ],
+    [
+      10,
+      10
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "About the Knowledge Base"
+        ]
+      ]
+    ],
+    [
+      10,
+      11
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "The Motorious Knowledge Base provides a comprehensive vehicle overview for the 1956 Cadillac DeVille"
+        ],
+        [
+          0,
+          [
+            1,
+            1
+          ],
+          2,
+          " "
+        ],
+        [
+          0,
+          [],
+          0,
+          "including production numbers, performance specs, factory colors, and OEM brochures. Check out additional model years or related content linked to this article or view other Makes and Models in our "
+        ],
+        [
+          0,
+          [
+            2
+          ],
+          1,
+          "Research"
+        ],
+        [
+          0,
+          [],
+          0,
+          " center."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "If you have any interesting facts about the 1956 Cadillac DeVille to add, want to tell us how we did covering the DeVille, or want to tell us about yours, please leave a comment below."
+        ]
+      ]
+    ]
+  ],
+  "ghostVersion": "3.0"
+}

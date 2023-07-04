@@ -1,0 +1,19 @@
+<!--kg-card-begin: html-->
+<p>If you own an Android phone or tablet, there’s a very good chance that it shipped with some bloatware. And, as you probably know, it can be rather challenging to remove software that has been installed by the manufacturer as the typical uninstall methods will not work. Luckily, there is a way to remove the preloaded software, it just takes a little bit of work. This tutorial assumes that you have <a href="http://www.howtogeek.com/115297/how-to-root-your-android-why-you-might-want-to/" target="_blank">root privileges</a> on your Android Device and that you know how to connect to the device using the <a href="http://developer.android.com/tools/help/adb.html" target="_blank">Android Debug Bridge</a>.</p>
+<p>Be very careful with these instructions. Every Android device is different and when you start messing around with low-level system files, you always run the risk of accidentally bricking your device. Also make sure you are not violating and Terms of Use with your device manufacturer or carrier.</p>
+<p><!--more-->1. Connect to your Android device and launch the ADB shell<br /><code>adb shell</code></p>
+<p>2. You may need to gain root privileges<br /><code>su</code></p>
+<p>3. Navigate to your system app directory<br /><code>cd /system/app</code><br />If that doesn’t work, you may need to mount the system directory first<br /><code>mount -o remount,rw -t rfs /dev/stl5 /system</code></p>
+<p>4. Delete the .apk from the system app director<br /><code>rm -r [ApplcationName].apk</code></p>
+<p>5. Navigate to your Application data directory<br /><code>cd /data/data</code></p>
+<p>6. Delete the Application data directory<br /><code>rm -r [ApplicationPackage]</code></p>
+<p>7. Return to your local shell and pull the application list from the device<br /><code>adb pull /data/system/packages.xml</code></p>
+<p>8. Open the local packages.xml in a text editor and locate the <strong>
+        <package>
+    </strong> tag for the application</p>
+<p>9. Delete everything between the <strong>
+        <package></package>
+    </strong> tags (inclusive) for the application</p>
+<p>10. Push the modified application list back onto the device<br /><code>adb push packages.xml /data/system</code></p>
+<p>11. Reboot the device</p>
+<p>After that, the application should be gone from your device.</p><!--kg-card-end: html-->

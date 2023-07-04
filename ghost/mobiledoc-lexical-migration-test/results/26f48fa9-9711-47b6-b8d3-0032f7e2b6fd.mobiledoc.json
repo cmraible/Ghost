@@ -1,0 +1,225 @@
+{
+  "version": "0.3.1",
+  "atoms": [],
+  "cards": [
+    [
+      "email-cta",
+      {
+        "showButton": true,
+        "showDividers": false,
+        "segment": "status:free",
+        "alignment": "center",
+        "html": "<p><strong><em>Please <a href=\"__GHOST_URL__/subscribe\">become a paid subscriber</a>. You get exclusive podcasts, <a href=\"__GHOST_URL__/citizens-guide-to-holding-the-powerful-accountable/\">digital publications</a>, and live events – and you support this journalism.</em></strong></p>",
+        "buttonText": "Click Here To Subscribe",
+        "buttonUrl": "__GHOST_URL__/subscribe"
+      }
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "email-cta",
+      {
+        "showButton": true,
+        "showDividers": false,
+        "segment": "status:free",
+        "alignment": "center",
+        "html": "<p><em><strong>This newsletter relies on readers pitching in to support our journalism. If you like this story, please support </strong></em><strong>The Daily Poster</strong><em><strong>'s work.</strong></em></p>",
+        "buttonText": "Click Here To Subscribe",
+        "buttonUrl": "__GHOST_URL__/subscribe"
+      }
+    ]
+  ],
+  "markups": [
+    [
+      "em"
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.youtube.com/watch?v=FvU0sE9jznQ&t=2s"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/opioid-billionaire-demand-sweeping-immunity/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.washingtonpost.com/business/2019/10/10/purdues-choice-ny-bankruptcy-court-part-common-forum-shopping-strategy-experts-say/"
+      ]
+    ],
+    [
+      "strong"
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.newsweek.com/sackler-family-wants-immunity-opioid-crisis-heres-whos-helping-them-1635397"
+      ]
+    ]
+  ],
+  "sections": [
+    [
+      10,
+      0
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "Editor’s note: "
+        ],
+        [
+          0,
+          [
+            1,
+            0
+          ],
+          2,
+          "Watch"
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          " "
+        ],
+        [
+          0,
+          [],
+          0,
+          "The Daily Poster’"
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "s David Sirota’s recent discussion of the Sackler case on "
+        ],
+        [
+          0,
+          [],
+          0,
+          "The Hill"
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "’s “Rising.”"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "As a coalition of lawmakers tries to hold the billionaire Sackler family accountable for its role in the opioid crisis, Washington’s most powerful business lobby group has now jumped into the intensifying battle over whether courts can grant sweeping legal immunity to those accused of corporate crime."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "At issue is a feature of bankruptcy law known as a non-debtor release, which the Sackler family — owners of opioid maker Purdue Pharma — is trying to use to "
+        ],
+        [
+          0,
+          [
+            2
+          ],
+          1,
+          "shield its entire corporate empire"
+        ],
+        [
+          0,
+          [],
+          0,
+          " from current and future litigation. Facing a barrage of lawsuits over its role in the opioid epidemic, Connecticut-based Purdue declared bankruptcy in "
+        ],
+        [
+          0,
+          [
+            3
+          ],
+          1,
+          "a New York court"
+        ],
+        [
+          0,
+          [],
+          0,
+          " known for being friendly to corporate litigants."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [
+            4,
+            5
+          ],
+          0,
+          "Click here to read the full Daily Poster article in "
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "Newsweek"
+        ],
+        [
+          0,
+          [],
+          2,
+          "..."
+        ]
+      ]
+    ],
+    [
+      10,
+      1
+    ],
+    [
+      10,
+      2
+    ]
+  ],
+  "ghostVersion": "4.0"
+}

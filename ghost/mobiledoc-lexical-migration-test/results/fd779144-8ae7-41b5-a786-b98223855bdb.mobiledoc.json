@@ -1,0 +1,471 @@
+{
+  "version": "0.3.1",
+  "atoms": [],
+  "cards": [
+    [
+      "email-cta",
+      {
+        "showButton": true,
+        "showDividers": false,
+        "segment": "status:free",
+        "alignment": "center",
+        "html": "<p><strong><em>Please <a href=\"https://levernews.com/membership/?utm_source=daily&amp;utm_medium=link&amp;utm_campaign=upgrade\">become a supporting subscriber</a>. You get exclusive podcasts, <a href=\"__GHOST_URL__/citizens-guide/?utm_source=daily&amp;utm_medium=link&amp;utm_campaign=citizens-guide\">digital publications</a>, and live events </em></strong>—<strong><em> and you support this journalism.</em></strong></p>",
+        "buttonText": "Upgrade",
+        "buttonUrl": "https://levernews.com/membership/?utm_source=daily&utm_medium=link&utm_campaign=upgrade"
+      }
+    ],
+    [
+      "email",
+      {
+        "html": "<p><em><strong><a href=\"https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.levernews.com%2Fannouncement-were-launching-a-live-audio-show-on-monday%2F&amp;amp;src=sdkpreparse\">Click to share on Facebook</a></strong></em></p>"
+      }
+    ],
+    [
+      "callout",
+      {
+        "calloutEmoji": "💡",
+        "calloutText": "<strong>Additionally,</strong> <strong>paid subscribers will have access to an exclusive once-a-month bonus episode of </strong><em><strong>Lever Live</strong></em><strong> to chat with our editorial staff. </strong><a href=\"__GHOST_URL__/4-99monthly\"><strong>Click here</strong></a><strong> for a limited-time discount to become a paying subscriber.</strong>",
+        "backgroundColor": "yellow"
+      }
+    ],
+    [
+      "button",
+      {
+        "alignment": "center",
+        "buttonText": "CLICK FOR THE DISCOUNT",
+        "buttonUrl": "__GHOST_URL__/4-99monthly"
+      }
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "email-cta",
+      {
+        "showButton": true,
+        "showDividers": false,
+        "segment": "status:free",
+        "alignment": "center",
+        "html": "",
+        "buttonText": "Upgrade",
+        "buttonUrl": "https://levernews.com/membership/?utm_source=daily&utm_medium=link&utm_campaign=upgrade"
+      }
+    ],
+    [
+      "email",
+      {
+        "html": "<p><em><strong>Help us spread the word! </strong>Please forward this email to family and friends.</em></p><p><em><strong>Was this email forwarded to you? </strong><a href=\"https://levernews.com/membership/?utm_source=daily&amp;utm_medium=link&amp;utm_campaign=forward-signup\">Sign up for free</a> to receive original reporting like this in your inbox every day.</em></p>"
+      }
+    ]
+  ],
+  "markups": [
+    [
+      "em"
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/leverlive/"
+      ]
+    ],
+    [
+      "strong"
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.callin.com/show/lever-live-LcswzmQmIX"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.callin.com"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://apps.apple.com/us/app/callin-social-podcasting/id1568011211"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://play.google.com/store/apps/details?id=com.callin.project&hl=en_US&gl=US"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "http://levernews.com/leverlive"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/podcasts/"
+      ]
+    ]
+  ],
+  "sections": [
+    [
+      10,
+      0
+    ],
+    [
+      10,
+      1
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "We’ve got another exciting announcement: In addition to our new recorded podcast, on Monday June 6th, "
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "The Lever"
+        ],
+        [
+          0,
+          [],
+          0,
+          " is launching a new weekly "
+        ],
+        [
+          0,
+          [
+            1
+          ],
+          0,
+          "live audio show called "
+        ],
+        [
+          0,
+          [
+            0,
+            2
+          ],
+          3,
+          "Lever Live"
+        ],
+        [
+          0,
+          [],
+          0,
+          ", hosted by David Sirota. "
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "This show will air live on Mondays at 7pm ET (4pm PT). Anyone can listen to it "
+        ],
+        [
+          0,
+          [
+            3
+          ],
+          1,
+          "here"
+        ],
+        [
+          0,
+          [],
+          0,
+          " or on an app on their mobile device. You will be able to ask questions in real time on the show. You will also be able to replay all previous shows on "
+        ],
+        [
+          0,
+          [
+            3
+          ],
+          1,
+          "this page"
+        ],
+        [
+          0,
+          [],
+          0,
+          "."
+        ]
+      ]
+    ],
+    [
+      10,
+      2
+    ],
+    [
+      10,
+      3
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [
+            2
+          ],
+          1,
+          "HOW TO ACCESS LEVER LIVE: "
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "Lever Live "
+        ],
+        [
+          0,
+          [],
+          0,
+          "is hosted on"
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          " "
+        ],
+        [
+          0,
+          [
+            2,
+            4
+          ],
+          2,
+          "Callin"
+        ],
+        [
+          0,
+          [],
+          0,
+          ", a website and mobile app that allows audience members to “call-in” during a live recording and ask the hosts questions in real time."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "You can download the Callin app on your mobile device and listen there (For Apple/iOS devices, "
+        ],
+        [
+          0,
+          [
+            5
+          ],
+          1,
+          "click here"
+        ],
+        [
+          0,
+          [],
+          0,
+          "; for Android devices, "
+        ],
+        [
+          0,
+          [
+            6
+          ],
+          1,
+          "click here"
+        ],
+        [
+          0,
+          [],
+          0,
+          "). "
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "For further instructions, go "
+        ],
+        [
+          0,
+          [
+            7
+          ],
+          1,
+          "here"
+        ],
+        [
+          0,
+          [],
+          0,
+          "."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "This new live show is part of our larger expansion that also includes our new weekly podcast "
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "Lever Time"
+        ],
+        [
+          0,
+          [],
+          0,
+          ", which you can "
+        ],
+        [
+          0,
+          [
+            8
+          ],
+          1,
+          "access here"
+        ],
+        [
+          0,
+          [],
+          0,
+          "."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "All of this is possible because of our paying subscribers, who are funding a new kind of reader-supported media that holds the powerful accountable. We hope you’ll consider becoming a paid subscriber — and hope you’ll tune into our first "
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "Lever Live"
+        ],
+        [
+          0,
+          [],
+          0,
+          " on Monday!"
+        ]
+      ]
+    ],
+    [
+      10,
+      4
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [
+            0,
+            2
+          ],
+          1,
+          "Our news organization relies on readers pitching in to support our journalism. "
+        ],
+        [
+          0,
+          [
+            0,
+            2
+          ],
+          3,
+          "If you like this story, please support "
+        ],
+        [
+          0,
+          [
+            2,
+            0,
+            2
+          ],
+          3,
+          "our"
+        ],
+        [
+          0,
+          [
+            0,
+            0,
+            2
+          ],
+          3,
+          " work."
+        ]
+      ]
+    ],
+    [
+      10,
+      5
+    ],
+    [
+      10,
+      6
+    ],
+    [
+      1,
+      "p",
+      []
+    ]
+  ],
+  "ghostVersion": "4.0"
+}

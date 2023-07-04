@@ -1,0 +1,922 @@
+{
+  "version": "0.3.1",
+  "atoms": [],
+  "cards": [
+    [
+      "paywall",
+      {}
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "image",
+      {
+        "src": "__GHOST_URL__/content/images/2021/04/livin4wheel-BHQrJv34sw4-unsplash.jpg",
+        "width": 4042,
+        "height": 2498,
+        "caption": "Photo by <a href=\"https://unsplash.com/@livin4wheel?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText\">Livin4wheel</a> on <a href=\"https://unsplash.com/s/photos/ram?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText\">Unsplash</a>",
+        "cardWidth": "wide"
+      }
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "embed",
+      {
+        "url": "https://twitter.com/johnlewisretail/status/1387132537747673089?s=21",
+        "html": "<blockquote class=\"twitter-tweet\"><p lang=\"en\" dir=\"ltr\">Phew, the John Lewis social team have just finished an all day brainstorming session to find ways for people to talk about us on Twitter..... Have we missed anything? 👀</p>&mdash; John Lewis &amp; Partners (@JohnLewisRetail) <a href=\"https://twitter.com/JohnLewisRetail/status/1387132537747673089?ref_src=twsrc%5Etfw\">April 27, 2021</a></blockquote>\n<script async src=\"https://platform.twitter.com/widgets.js\" charset=\"utf-8\"></script>\n",
+        "type": "rich",
+        "metadata": {
+          "url": "https://twitter.com/JohnLewisRetail/status/1387132537747673089",
+          "author_name": "John Lewis & Partners",
+          "author_url": "https://twitter.com/JohnLewisRetail",
+          "width": 550,
+          "height": null,
+          "cache_age": "3153600000",
+          "provider_name": "Twitter",
+          "provider_url": "http://www.twitter.com/",
+          "version": "1.0"
+        }
+      }
+    ]
+  ],
+  "markups": [
+    [
+      "a",
+      [
+        "href",
+        "https://slate.com/business/2021/04/substack-media-new-york-times-subscriptions-poaching.html"
+      ]
+    ],
+    [
+      "em"
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://ghost.org"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://buttondown.email"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.getrevue.co"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/2021/04/six-thoughts-about-the-substack-local-initiative/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.nytimes.com/2021/04/26/opinion/nyt-opinion-oped-redesign.html"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://zombiejournalism.com/2021/04/losing-writers-to-substack-isnt-so-bad/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://threader.app/thread/1370735851882299393"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.pressgazette.co.uk/telegraph-results-2020-nick-hugh-interview/?utm_campaign=UA-39227834-1&utm_medium=email&utm_source=Revue%20newsletter"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.microsoft.com/en-us/worklab/work-trend-index/brain-research"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://newworldsamehumans.substack.com/p/new-week-same-humans-33?=omandhb"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://therebooting.substack.com/p/the-unbundling-of-publishing-1x"
+      ]
+    ],
+    [
+      "strong"
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://therebooting.substack.com/p/the-unbundling-of-publishing-2x?r=2hwy&utm_campaign=post&utm_medium=email&utm_source=copy"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/2021/04/performative-power-versus-persuasive-dialogue-on-social-media/"
+      ]
+    ]
+  ],
+  "sections": [
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "If you watch the media world for long enough, you'll see a clear cycle: everything will first save and then kill journalism. Newsletters will be the saviour of journalism! No, they will be its destroyer!"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "We're in the latter phase of that cycle right now, with one piece predicting that Substack pulling away the big name writers will undermine the business models of many newspapers. Personality columnists "
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "sell subscriptions by making the publication distinct"
+        ],
+        [
+          0,
+          [],
+          0,
+          ", argues Will Oremus for "
+        ],
+        [
+          0,
+          [
+            1
+          ],
+          1,
+          "Slate"
+        ],
+        [
+          0,
+          [],
+          0,
+          ":"
+        ]
+      ]
+    ],
+    [
+      1,
+      "blockquote",
+      [
+        [
+          0,
+          [],
+          0,
+          "It’s those personalities that Substack is going after and poaching. By definition, the people thriving on Substack are the very sort whose work gets readers to pull out their credit cards and subscribe. The threat it poses to news, then, is best understood as an economic one. And that leaves media companies with two choices: find ways to compete with Substack or rethink what it is that they offer that Substack can’t or won’t."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "That's a possibility, for sure. But there are two things we should consider before we go down that line of thinking:"
+        ]
+      ]
+    ],
+    [
+      3,
+      "ul",
+      [
+        [
+          [
+            0,
+            [],
+            0,
+            "Is this really how things will play out?"
+          ]
+        ],
+        [
+          [
+            0,
+            [],
+            0,
+            "Is it a bad thing if they do go that way?"
+          ]
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Let's explore those. "
+        ]
+      ]
+    ],
+    [
+      1,
+      "h3",
+      [
+        [
+          0,
+          [],
+          0,
+          "We're very early in this game."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "At the moment, the game for Substack is to get its name out there, and define itself as "
+        ],
+        [
+          0,
+          [
+            1
+          ],
+          1,
+          "the"
+        ],
+        [
+          0,
+          [],
+          0,
+          " place to start a newsletter. Its technology is not particularly unique, not hard to replicate. You can do what it offers with "
+        ],
+        [
+          0,
+          [
+            2
+          ],
+          1,
+          "Ghost"
+        ],
+        [
+          0,
+          [],
+          0,
+          ", or "
+        ],
+        [
+          0,
+          [
+            3
+          ],
+          1,
+          "Buttondown"
+        ],
+        [
+          0,
+          [],
+          0,
+          ", or "
+        ],
+        [
+          0,
+          [
+            4
+          ],
+          1,
+          "Revue"
+        ],
+        [
+          0,
+          [],
+          0,
+          "."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "So, how is it spending its VC cash? To bring in big name writers that deliver huge publicity for them, and which have captured the newsletter mindshare for the Substack brand. Why do they need that mindshare? For their model to work, they're going to need a good number of big successes, and a bigger number of middling successes. And to get those, they're going to need a huge number of newsletters that never become profitable, or generate significant revenue. The more bets on the table, the more that will be winners. "
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Yes, it's a funnel model: encourage more and more people in the top end of the funnel by making a big fuss of the successes at the bottom of it. It's worked for YouTube, where there are tens of thousands of creators desperately trying to get the success they see a handful achieving. Substack is accelerating that process by priming their model with people who have existing audiences likely to pay. "
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "So, yes, right now it's pundit-a-palooza. But that "
+        ],
+        [
+          0,
+          [
+            1
+          ],
+          1,
+          "should"
+        ],
+        [
+          0,
+          [],
+          0,
+          " shift over time, as people take the model and use it for more traditional journalism. For "
+        ],
+        [
+          0,
+          [
+            5
+          ],
+          1,
+          "all my reservations"
+        ],
+        [
+          0,
+          [],
+          0,
+          " about their Substack Local initiative, it's clearly a move in the right direction. Newsletters are a great way of delivering journalism straight to paying subscribers at a low technical and audience development overhead. If it's all pundits, all the time, Substack and its competitors will have failed. "
+        ]
+      ]
+    ],
+    [
+      1,
+      "h3",
+      [
+        [
+          0,
+          [],
+          0,
+          "Is this a bad thing?"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Even if Substack does end up top-slicing the best pundits — does that really matter? The blurring of reporting and opinion has not been a healthy one for trust in newspapers. The atomising effect of the web means that people no longer see opinion pieces in the context of a newspaper, they see them as individual web pages, with the news brand's name at the top. "
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "That erodes both the separation of news and opinion, and the sense of a diversity of views under one news umbrella. One well-shared piece all too easily becomes the newspaper's fixed view on a matter in some people's minds. This problem seems to be at least partially behind the "
+        ],
+        [
+          0,
+          [
+            1
+          ],
+          1,
+          "New York Times"
+        ],
+        [
+          0,
+          [],
+          0,
+          "'s "
+        ],
+        [
+          0,
+          [
+            6
+          ],
+          1,
+          "move away from the term “op-ed”"
+        ],
+        [
+          0,
+          [],
+          0,
+          ":"
+        ]
+      ]
+    ],
+    [
+      1,
+      "blockquote",
+      [
+        [
+          0,
+          [],
+          0,
+          "Editorials will still be called editorials, but the articles written by outside writers will be known as “Guest Essays,” a title that will appear prominently above the headline."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "That makes it much clearer what you're reading is not the view of the "
+        ],
+        [
+          0,
+          [
+            1
+          ],
+          1,
+          "NYT"
+        ],
+        [
+          0,
+          [],
+          0,
+          ". Could the same changes be coming to some of their columnists? "
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Is punditry the sort of content that will keep growing your subscriber base? I've seen research that suggests not. So, perhaps this unbundling is a two-fold opportunity:"
+        ]
+      ]
+    ],
+    [
+      3,
+      "ul",
+      [
+        [
+          [
+            0,
+            [],
+            0,
+            "Step away from punditry as the defining characteristic of journalism"
+          ]
+        ],
+        [
+          [
+            0,
+            [],
+            0,
+            "Free up money to convert casual readers into paying subscribers."
+          ]
+        ]
+      ]
+    ],
+    [
+      1,
+      "h3",
+      [
+        [
+          0,
+          [],
+          0,
+          "Filling the talent pipeline"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "And, for that matter, it might open up some room at the top for some new and emerging voices. As "
+        ],
+        [
+          0,
+          [
+            7
+          ],
+          1,
+          "Mandy Jenkins puts it"
+        ],
+        [
+          0,
+          [],
+          0,
+          " : "
+        ]
+      ]
+    ],
+    [
+      1,
+      "blockquote",
+      [
+        [
+          0,
+          [],
+          0,
+          "This might be a crazy thought, but what if this is a good thing? I’m sure these folks’ columns masquerading as reporting get good pageviews, or else they wouldn’t have gone independent. But so what? I would bet that every newsroom that has lost some superstar white dude has many more talented writers and interesting personalities in its ranks that could become big stars."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Time to invest in your talent pipeline. "
+        ]
+      ]
+    ],
+    [
+      10,
+      0
+    ],
+    [
+      10,
+      1
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Quick Links"
+        ]
+      ]
+    ],
+    [
+      3,
+      "ul",
+      [
+        [
+          [
+            0,
+            [],
+            0,
+            "🍿 A great thread showing how Facebook's "
+          ],
+          [
+            0,
+            [
+              8
+            ],
+            1,
+            "PR tried to shut down a story"
+          ],
+          [
+            0,
+            [],
+            0,
+            ". "
+          ]
+        ],
+        [
+          [
+            0,
+            [],
+            0,
+            "💷 "
+          ],
+          [
+            0,
+            [
+              9
+            ],
+            1,
+            "Interview with "
+          ],
+          [
+            0,
+            [
+              1,
+              9
+            ],
+            2,
+            "The Telegraph"
+          ],
+          [
+            0,
+            [
+              9
+            ],
+            1,
+            "'s CEO"
+          ],
+          [
+            0,
+            [],
+            0,
+            " about their results and the subscriber numbers mentioned yesterday."
+          ]
+        ],
+        [
+          [
+            0,
+            [],
+            0,
+            "👩🏽‍💻 Yes, back-to-back Zoom calls are pretty terrible for you, "
+          ],
+          [
+            0,
+            [
+              10
+            ],
+            1,
+            "research suggests"
+          ],
+          [
+            0,
+            [],
+            0,
+            ". (via David Mattin's excellent "
+          ],
+          [
+            0,
+            [
+              11,
+              1
+            ],
+            2,
+            "New Week, Same Humans"
+          ],
+          [
+            0,
+            [],
+            0,
+            ")"
+          ]
+        ]
+      ]
+    ],
+    [
+      10,
+      2
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Quote of the Day"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [
+            12
+          ],
+          1,
+          "Brian Morrissey"
+        ],
+        [
+          0,
+          [],
+          0,
+          ":"
+        ]
+      ]
+    ],
+    [
+      1,
+      "blockquote",
+      [
+        [
+          0,
+          [
+            13
+          ],
+          1,
+          "Publishers are not all alike."
+        ],
+        [
+          0,
+          [],
+          0,
+          " Different products require different distribution and business models. Ignore anyone who treats anything as an all-or-nothing proposition. They’re either trying to sell you something, lunatics or amiable dunces."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Brian's been doing a series about the unbundling of publishing. Part one is linked above, and "
+        ],
+        [
+          0,
+          [
+            14
+          ],
+          1,
+          "part two came out yesterday"
+        ],
+        [
+          0,
+          [],
+          0,
+          ". It's a fascinating read in the light of the issues we discussed above. "
+        ]
+      ]
+    ],
+    [
+      10,
+      3
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "An Apology"
+        ]
+      ]
+    ],
+    [
+      10,
+      4
+    ],
+    [
+      3,
+      "ul",
+      [
+        [
+          [
+            0,
+            [],
+            0,
+            "A “wether” is a castrated ram."
+          ]
+        ],
+        [
+          [
+            0,
+            [],
+            0,
+            "“whether” is a word I actually use."
+          ]
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "I keep getting them confused. My apologies for the error in "
+        ],
+        [
+          0,
+          [
+            15
+          ],
+          1,
+          "yesterday's post"
+        ],
+        [
+          0,
+          [],
+          0,
+          "."
+        ]
+      ]
+    ],
+    [
+      10,
+      5
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "And Finally…"
+        ]
+      ]
+    ],
+    [
+      10,
+      6
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "(To the non-Brits: just be glad you don't understand this.)"
+        ]
+      ]
+    ]
+  ],
+  "ghostVersion": "4.0"
+}

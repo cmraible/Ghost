@@ -1,0 +1,621 @@
+{
+  "version": "0.3.1",
+  "atoms": [],
+  "cards": [
+    [
+      "product",
+      {
+        "productButtonEnabled": true,
+        "productRatingEnabled": false,
+        "productStarRating": 5,
+        "productImageSrc": "__GHOST_URL__/content/images/2022/06/About-Page-Logo-1.png",
+        "productTitle": "Help Us Do More Stories Like This",
+        "productDescription": "<p>We're building a reader-supported investigative news outlet that holds accountable the people and corporations manipulating the levers of power. Join our fight by becoming a free subscriber today.</p>",
+        "productButton": "Subscribe Now",
+        "productUrl": "__GHOST_URL__/membership/"
+      }
+    ],
+    [
+      "callout",
+      {
+        "calloutEmoji": "👉",
+        "calloutText": "<strong>HELP US GROW, FOLLOW US ON SOCIAL MEDIA:</strong><br>• <a href=\"https://www.twitter.com/LeverNews\"><strong>Twitter</strong></a><br>• <a href=\"https://www.facebook.com/TheLeverNews\"><strong>Facebook</strong></a><br>• <a href=\"https://www.instagram.com/LeverNews\"><strong>Instagram</strong></a><br>• <a href=\"https://www.youtube.com/c/LeverNews\"><strong>YouTube</strong></a>",
+        "backgroundColor": "grey"
+      }
+    ]
+  ],
+  "markups": [
+    [
+      "a",
+      [
+        "href",
+        "https://www.washingtonpost.com/technology/2022/11/14/twitter-fake-eli-lilly/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.tipranks.com/news/tandem-diabetes-nasdaqtndm-stock-tanks-on-dismal-q3-results-weak-outlook"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.marketwatch.com/story/this-insulin-pump-companys-stock-is-plunging-and-executives-say-its-because-diabetics-in-u-s-cant-afford-the-technology-11667429498"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://seekingalpha.com/article/4552285-tandem-diabetes-care-inc-tndm-q3-2022-earnings-call-transcript"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.kff.org/health-costs/issue-brief/americans-challenges-with-health-care-costs/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.cdc.gov/diabetes/basics/diabetes.html#:~:text=Diabetes%20is%20the%20seventh%20leading,limb%20amputations%2C%20and%20adult%20blindness."
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.usnews.com/news/health-news/articles/2022-10-18/over-a-million-americans-are-rationing-insulin-due-to-high-cost"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://investor.tandemdiabetes.com/news-releases/news-release-details/tandem-diabetes-care-study-demonstrates-improvements-all"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.fiercebiotech.com/medtech/tandems-glucose-predicting-tech-improves-time-range-15-people-type-2-diabetes-study"
+      ]
+    ],
+    [
+      "em"
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.medtechdive.com/news/unitedhealthcare-adds-coverage-of-tandem-insulin-pumps/580831/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.hrw.org/report/2022/04/12/if-im-out-insulin-im-going-die/united-states-lack-regulation-fuels-crisis#"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.charityrx.com/blog/the-financial-burden-of-u-s-insulin-pricing-on-the-american-diabetic-community%EF%BF%BC#:~:text=When%20comparing%20the%20U.S.%20to%20countries%20around%20the%20world%2C%20the%20cost%20of%20insulin%20in%20the%20U.S.%20is%208%20times%20higher%20than%20the%20combined%20average%20of%20other%20high%2Dincome%20nations."
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.rand.org/pubs/research_reports/RRA788-1.html"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.charityrx.com/blog/the-financial-burden-of-u-s-insulin-pricing-on-the-american-diabetic-community%EF%BF%BC#:~:text=%249K%20is%20the%20average%20amount%20of%20debt%20people%20have%20taken%20on%20to%20cover%20insulin%20costs"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.npr.org/sections/health-shots/2018/09/01/641615877/insulins-high-cost-leads-to-lethal-rationing"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.charityrx.com/blog/the-financial-burden-of-u-s-insulin-pricing-on-the-american-diabetic-community%EF%BF%BC#:~:text=even%20rent/mortgage%20(29%25)"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.kff.org/medicare/issue-brief/explaining-the-prescription-drug-provisions-in-the-inflation-reduction-act/#bullet04"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://oversight.house.gov/sites/democrats.oversight.house.gov/files/DRUG%20PRICING%20REPORT%20WITH%20APPENDIX%20v3.pdf"
+      ]
+    ]
+  ],
+  "sections": [
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Eli Lilly, one of the three main insulin manufacturers in the United States, made headlines last week after a Twitter user took advantage of Elon Musk’s bungling management of the microblogging platform to claim insulin was now free — causing Eli Lilly’s stock to drop about four percent and triggering a social media firestorm over the high price of insulin. In retaliation, Eli Lilly "
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "halted all advertising"
+        ],
+        [
+          0,
+          [],
+          0,
+          " on Twitter, delivering another blow to the platform that is already coping with an advertiser exodus. "
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "In truth, Eli Lilly will be fine. However, there’s one important, struggling insulin-related company that didn’t get as much attention last week — but whose troubles might have much wider implications for diabetes patients living in the U.S. Insulin pump manufacturer Tandem Diabetes Care saw its stock plummet "
+        ],
+        [
+          0,
+          [
+            1
+          ],
+          1,
+          "more than 20 percent this month"
+        ],
+        [
+          0,
+          [],
+          0,
+          " — five times the drop suffered by Eli Lilly — after a dismal quarterly earnings report. Overall, the company’s stock is "
+        ],
+        [
+          0,
+          [
+            2
+          ],
+          1,
+          "down 66 percent this year"
+        ],
+        [
+          0,
+          [],
+          0,
+          "."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "What makes this development so interesting is the company’s executives are expressly blaming its poor sales on the "
+        ],
+        [
+          0,
+          [
+            3
+          ],
+          1,
+          "lack of universal health care"
+        ],
+        [
+          0,
+          [],
+          0,
+          " in this country."
+        ]
+      ]
+    ],
+    [
+      10,
+      0
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "In August, Tandem CEO John Sheridan said the “evolving economic environment, including inflation and the threat of recession,” is specifically hurting its business in the U.S. “This is primarily a factor in the U.S. as outside the United States, it’s mitigated by predominance of government health care plans,” he said."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Sheridan made similar comments earlier this month, explaining “the impact of the economic environment on customer purchasing behavior is primarily a U.S. phenomenon.”"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "His comments highlight how bad medical conditions continue to get for the poor and working class in this country. But the lack of universal coverage in the United States — not just for insulin delivery, but for all health conditions — means people often forgo medical treatment due to cost. Nearly "
+        ],
+        [
+          0,
+          [
+            4
+          ],
+          1,
+          "half of American adults"
+        ],
+        [
+          0,
+          [],
+          0,
+          " struggle to afford medical care and a quarter have skipped getting care or filling prescriptions."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Diabetes is the "
+        ],
+        [
+          0,
+          [
+            5
+          ],
+          1,
+          "seventh leading cause of death"
+        ],
+        [
+          0,
+          [],
+          0,
+          " in the U.S. Skipping or even rationing insulin doses can lead to serious health complications including ketoacidosis, kidney failure, or death. More than "
+        ],
+        [
+          0,
+          [
+            6
+          ],
+          1,
+          "one million diabetics"
+        ],
+        [
+          0,
+          [],
+          0,
+          " are estimated to be rationing insulin due to its high cost."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Tandem’s struggles may be bad news for diabetics: A "
+        ],
+        [
+          0,
+          [
+            7
+          ],
+          1,
+          "recent study"
+        ],
+        [
+          0,
+          [],
+          0,
+          " found that people who used Tandem’s continuous glucose monitors and associated technology “improved the participants’ time spent in an ideal blood sugar range by an average of 15 percent, regardless of the methods they’d previously used to manage their insulin delivery,” "
+        ],
+        [
+          0,
+          [
+            8
+          ],
+          0,
+          "according to "
+        ],
+        [
+          0,
+          [
+            9
+          ],
+          2,
+          "Fierce Biotech"
+        ],
+        [
+          0,
+          [],
+          0,
+          "."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "While the nation’s biggest health insurer, UnitedHealthcare, "
+        ],
+        [
+          0,
+          [
+            10
+          ],
+          1,
+          "started covering"
+        ],
+        [
+          0,
+          [],
+          0,
+          " Tandem insulin pumps in 2020, health insurance plans in the U.S. generally expose patients to significant out-of-pocket costs that act as barriers to care."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "The insulin affordability crisis is so bad in the United States that it recently prompted "
+        ],
+        [
+          0,
+          [
+            11
+          ],
+          1,
+          "a report from Human Rights Watch"
+        ],
+        [
+          0,
+          [],
+          0,
+          ". A recent CharityRX study found that “when comparing the U.S. to countries around the world, "
+        ],
+        [
+          0,
+          [
+            12
+          ],
+          1,
+          "the cost of insulin in the U.S. is eight times higher"
+        ],
+        [
+          0,
+          [],
+          0,
+          " than the combined average of other high-income nations.” Among OECD countries, the U.S. is "
+        ],
+        [
+          0,
+          [
+            13
+          ],
+          1,
+          "a total outlier"
+        ],
+        [
+          0,
+          [],
+          0,
+          "."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "The CharityRX study found that 79 percent of diabetics in the United States who rely on insulin said price increases have created financial difficulties. Four in five people report taking on credit card debt to cover the cost, with "
+        ],
+        [
+          0,
+          [
+            14
+          ],
+          1,
+          "an average debt of $9,000"
+        ],
+        [
+          0,
+          [],
+          0,
+          "."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Of the group who said they’ve taken on debt, 83 percent had to worry about covering other expenses to afford their medication. Not only that, but 63 percent have felt the need to sell prized possessions to pay for insulin while half feared cutting back on food, and 62 percent reported rationing or skipping doses — an "
+        ],
+        [
+          0,
+          [
+            15
+          ],
+          1,
+          "extremely dangerous"
+        ],
+        [
+          0,
+          [],
+          0,
+          " cost-cutting measure. What’s more, 29 percent have even had insulin prices impact their "
+        ],
+        [
+          0,
+          [
+            16
+          ],
+          1,
+          "ability to pay their rent or mortgage"
+        ],
+        [
+          0,
+          [],
+          0,
+          "."
+        ]
+      ]
+    ],
+    [
+      10,
+      1
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "The reason why the cost of insulin and other drugs are so disproportionately high in the U.S. is because politicians have for years crafted policy to allow pharmaceutical companies to maximally gouge American patients."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Two decades ago, Congress banned Medicare from negotiating drug prices as most other countries do. The Inflation Reduction Act passed by Democrats this summer will eventually allow Medicare to begin negotiating prices on a small number of drugs — and "
+        ],
+        [
+          0,
+          [
+            17
+          ],
+          1,
+          "cap the price"
+        ],
+        [
+          0,
+          [],
+          0,
+          " of insulin at $35 per month for patients with Medicare prescription drug plans — but the damage has already been done."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "According to a "
+        ],
+        [
+          0,
+          [
+            18
+          ],
+          1,
+          "report"
+        ],
+        [
+          0,
+          [],
+          0,
+          " from House Democrats last year, the ban on price negotiation is largely why “the pharmaceutical industry has targeted the United States for price increases for many years, while maintaining or cutting prices in the rest of the world.”"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "The report adds that “insulin companies have engaged in strategies to maintain monopoly pricing and defend against competition from biosimilars. These strategies include manipulating the patent system and the marketing exclusivities granted by the Food and Drug Administration (FDA), pursuing tactics to switch patients to new formulations of their products before losing exclusivity, and engaging in ‘shadow pricing’ — raising prices in lockstep with competitors — which keeps prices high.”"
+        ]
+      ]
+    ]
+  ],
+  "ghostVersion": "4.0"
+}

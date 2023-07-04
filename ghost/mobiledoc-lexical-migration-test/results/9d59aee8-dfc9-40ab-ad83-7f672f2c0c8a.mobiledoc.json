@@ -1,0 +1,372 @@
+{
+  "version": "0.3.1",
+  "atoms": [],
+  "cards": [
+    [
+      "hr",
+      {}
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "html",
+      {
+        "html": "<table id=\"production-numbers-table\">\n<tbody>\n\t<tr>\n\t\t<td>2-DR Hardtop</td>\n\t\t<td>24,716</td>\n\t</tr>\n    \t<tr>\n\t\t<td>SE Hardtop</td>\n\t\t<td>30,957</td>\n\t</tr>\n\t\t<td><b>Total Production</b></td>\n\t\t<td><b>55,673</b></td>\n\t</tr>\n</tbody>\n</table>"
+      }
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "html",
+      {
+        "html": "<table id=\"performance-specs-table\">\n<tbody>\n\t<tr>\n\t\t<th><b>Engine</b></th>\n\t\t<th><b>Size</b></td>\n\t\t<th><b>Carb.</b></td>\n\t\t<th><b>HP</b></td>\n\t\t<th><b>Torque</b></td>\n\t\t<th><b>0 to 60</b></td>\n\t\t<th><b>Quarter mile</b></td>\n\t</tr>\n\t<tr>\n\t\t<td>I6</td>\n\t\t<td>225ci</td>\n\t\t<td>1x1bbl</td>\n\t\t<td>105</td>\n\t\t<td>185 lb-ft</td>\n\t\t<td>-</td>\n\t\t<td>-</td>\n\t</tr>\n\t<tr>\n\t\t<td>V8</td>\n\t\t<td>318ci</td>\n\t\t<td>1x2bbl</td>\n\t\t<td>150</td>\n\t\t<td>265 lb-ft</td>\n\t\t<td>-</td>\n\t\t<td>-</td>\n\t</tr>\n\t<tr>\n\t\t<td>V8</td>\n\t\t<td>360ci</td>\n\t\t<td>1x2bbl</td>\n\t\t<td>200</td>\n\t\t<td>290 lb-ft</td>\n\t\t<td>-</td>\n\t\t<td>-</td>\n\t</tr>\n\t<tr>\n\t\t<td>V8</td>\n\t\t<td>360ci</td>\n\t\t<td>1x4bbl</td>\n\t\t<td>245</td>\n\t\t<td>320 lb-ft</td>\n\t\t<td>-</td>\n\t\t<td>-</td>\n\t</tr>\n\t<tr>\n\t\t<td>V8</td>\n\t\t<td>400ci</td>\n\t\t<td>1x2bbl</td>\n\t\t<td>205</td>\n\t\t<td>310 lb-ft</td>\n\t\t<td>-</td>\n\t\t<td>-</td>\n\t</tr>\n\t<tr>\n\t\t<td>V8</td>\n\t\t<td>400ci</td>\n\t\t<td>1x4bbl</td>\n\t\t<td>250</td>\n\t\t<td>340 lb-ft</td>\n\t\t<td>-</td>\n\t\t<td>-</td>\n\t</tr>\n\t<tr>\n\t\t<td>V8</td>\n\t\t<td>440ci</td>\n\t\t<td>1x4bbl</td>\n\t\t<td>275</td>\n\t\t<td>340 lb-ft</td>\n\t\t<td>7.4 sec</td>\n\t\t<td>15.2 sec</td>\n\t</tr>\n</tbody>\n</table>"
+      }
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "html",
+      {
+        "html": "<h4 id='colors-sub-heading'>Exterior</h4>\n<div class=\"colors-row\">\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #b4c0cb\"></div>\n        <div class=\"color-name\">Powder Blue</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #1c5e76\"></div>\n        <div class=\"color-name\">Lucerne Blue</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #610203\"></div>\n        <div class=\"color-name\">Bright Red</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #d3bd5d\"></div>\n        <div class=\"color-name\">Yellow Blaze</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #a69b64\"></div>\n        <div class=\"color-name\">Golden Fawn</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #a1802d\"></div>\n        <div class=\"color-name\">Gold Metallic</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #100b01\"></div>\n        <div class=\"color-name\">Dark Gold Metallic</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #53540f\"></div>\n        <div class=\"color-name\">Avocado Gold Metallic</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #83a872\"></div>\n        <div class=\"color-name\">Frosty Green Metallic</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #011101\"></div>\n        <div class=\"color-name\">Dark Sherwood Metallic</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #030b02\"></div>\n        <div class=\"color-name\">Dark Moonstone Metallic</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #5f3108\"></div>\n        <div class=\"color-name\">Sienna Metallic</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #b5ad86\"></div>\n        <div class=\"color-name\">Parchment</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #727479\"></div>\n        <div class=\"color-name\">Dark Silver Metallic</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #9f6e1f\"></div>\n        <div class=\"color-name\">Aztec Gold Metallic</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #e0ddd6\"></div>\n        <div class=\"color-name\">Eggshell White</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #000000\"></div>\n        <div class=\"color-name\">Black</div>\n    </div>\n</div>\n\n<h4 id='colors-sub-heading'>Interior</h4>\n<div class=\"colors-row\">\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #020067\"></div>\n        <div class=\"color-name\">Dark Blue</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #fedd91\"></div>\n        <div class=\"color-name\">Light Parchment</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #582d1d\"></div>\n        <div class=\"color-name\">Dark Chestnut</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #262a1b\"></div>\n        <div class=\"color-name\">Dark Green Poly</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #e3dcc9\"></div>\n        <div class=\"color-name\">White</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #000000\"></div>\n        <div class=\"color-name\">Black</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #97762e\"></div>\n        <div class=\"color-name\">Dark Gold</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #8e8a7a\"></div>\n        <div class=\"color-name\">Dark Parchment</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #e1c38f\"></div>\n        <div class=\"color-name\">Light Gold</div>\n    </div>\n</div>"
+      }
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "gallery",
+      {
+        "images": [
+          {
+            "fileName": "816_7_low_res.jpeg",
+            "row": 0,
+            "width": 790,
+            "height": 307,
+            "src": "__GHOST_URL__/content/images/2020/06/816_7_low_res.jpeg"
+          },
+          {
+            "fileName": "817_8_low_res.jpeg",
+            "row": 0,
+            "width": 790,
+            "height": 306,
+            "src": "__GHOST_URL__/content/images/2020/06/817_8_low_res.jpeg"
+          },
+          {
+            "fileName": "818_9_low_res.jpeg",
+            "row": 0,
+            "width": 790,
+            "height": 307,
+            "src": "__GHOST_URL__/content/images/2020/06/818_9_low_res.jpeg"
+          },
+          {
+            "fileName": "819_19_low_res.jpeg",
+            "row": 1,
+            "width": 790,
+            "height": 308,
+            "src": "__GHOST_URL__/content/images/2020/06/819_19_low_res.jpeg"
+          },
+          {
+            "fileName": "820_20_low_res.jpeg",
+            "row": 1,
+            "width": 790,
+            "height": 305,
+            "src": "__GHOST_URL__/content/images/2020/06/820_20_low_res.jpeg"
+          },
+          {
+            "fileName": "821_21_low_res.jpeg",
+            "row": 1,
+            "width": 790,
+            "height": 619,
+            "src": "__GHOST_URL__/content/images/2020/06/821_21_low_res.jpeg"
+          }
+        ],
+        "caption": "1974 Dodge Charger OEM Brochures"
+      }
+    ],
+    [
+      "hr",
+      {}
+    ]
+  ],
+  "markups": [
+    [
+      "strong"
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/tag/research/"
+      ]
+    ],
+    [
+      "em"
+    ]
+  ],
+  "sections": [
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Overview"
+        ]
+      ]
+    ],
+    [
+      10,
+      0
+    ],
+    [
+      1,
+      "h3",
+      [
+        [
+          0,
+          [],
+          0,
+          "Very little changed for the 1974 Charger from the previous year. A revised grille, larger rubber bumpers, and taillights summed up the changes."
+        ]
+      ]
+    ],
+    [
+      10,
+      1
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Very little changed for the 1974 Charger from the previous year. A revised grille, larger rubber bumpers, and taillights summed up the changes. The Charger Rallye was still an option and included all the standard Charger features plus front and rear sway bars, power bulge hood, Rallye instrument cluster, body tape stripes, hood pins, and special exterior badging. The Charger SE was still the top trim level. This year would be the last year of the third-generation Charger, and they would continue on their way to being a luxury car as the muscle car era had faded."
+        ]
+      ]
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Production Numbers"
+        ]
+      ]
+    ],
+    [
+      10,
+      2
+    ],
+    [
+      10,
+      3
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Performance Specs"
+        ]
+      ]
+    ],
+    [
+      10,
+      4
+    ],
+    [
+      10,
+      5
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Transmission"
+        ]
+      ]
+    ],
+    [
+      10,
+      6
+    ],
+    [
+      3,
+      "ul",
+      [
+        [
+          [
+            0,
+            [
+              0,
+              0
+            ],
+            2,
+            "3-Speed Manual"
+          ]
+        ],
+        [
+          [
+            0,
+            [
+              0,
+              0
+            ],
+            2,
+            "4-Speed Manual"
+          ]
+        ],
+        [
+          [
+            0,
+            [
+              0,
+              0
+            ],
+            2,
+            "Torqueflite Auto"
+          ]
+        ]
+      ]
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Paint & Colors"
+        ]
+      ]
+    ],
+    [
+      10,
+      7
+    ],
+    [
+      10,
+      8
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "OEM Brochures"
+        ]
+      ]
+    ],
+    [
+      10,
+      9
+    ],
+    [
+      10,
+      10
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "About the Knowledge Base"
+        ]
+      ]
+    ],
+    [
+      10,
+      11
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "The Motorious Knowledge Base provides a comprehensive vehicle overview for the 1974 Dodge Charger including production numbers, performance specs, factory colors, and OEM brochures. Check out additional model years or related content linked to this article or view other Makes and Models in our "
+        ],
+        [
+          0,
+          [
+            1
+          ],
+          1,
+          "Research"
+        ],
+        [
+          0,
+          [],
+          0,
+          " center."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "If you have any interesting facts about the 1974 Dodge Charger"
+        ],
+        [
+          0,
+          [
+            2,
+            2
+          ],
+          2,
+          " "
+        ],
+        [
+          0,
+          [],
+          0,
+          "to add, want to tell us how we did covering the Charger, or want to tell us about yours, please leave a comment below."
+        ]
+      ]
+    ]
+  ],
+  "ghostVersion": "3.0"
+}

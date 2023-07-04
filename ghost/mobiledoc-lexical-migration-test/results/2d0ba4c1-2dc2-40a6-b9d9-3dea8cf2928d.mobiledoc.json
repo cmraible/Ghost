@@ -1,0 +1,1453 @@
+{
+  "version": "0.3.1",
+  "atoms": [],
+  "cards": [
+    [
+      "email-cta",
+      {
+        "showButton": true,
+        "showDividers": false,
+        "segment": "status:-free",
+        "alignment": "center",
+        "html": "",
+        "buttonText": "Click Here To Comment",
+        "buttonUrl": "__GHOST_URL__/midday-poster-a-dishonest-drug-pricing-advocate/#comments"
+      }
+    ],
+    [
+      "html",
+      {
+        "html": "<div class=\"fb-share-button\" data-href=\"https://www.dailyposter.com/midday-poster-a-dishonest-drug-pricing-advocate/\" data-layout=\"button\" data-size=\"small\"><a target=\"_blank\" href=\"https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.dailyposter.com%2Fmidday-poster-a-dishonest-drug-pricing-advocate%2F&amp;src=sdkpreparse\" class=\"fb-xfbml-parse-ignore\"><strong><em>Click to share this on Facebook</em></strong></a></div>"
+      }
+    ],
+    [
+      "paywall",
+      {}
+    ],
+    [
+      "button",
+      {
+        "alignment": "center",
+        "buttonText": "Tip Jar",
+        "buttonUrl": "https://dailyposter.outpost.pub/public/donate#/donate"
+      }
+    ],
+    [
+      "button",
+      {
+        "alignment": "center",
+        "buttonText": "Give A Gift Subscription",
+        "buttonUrl": "https://dailyposter.outpost.pub/gift_subscription#/"
+      }
+    ],
+    [
+      "embed",
+      {
+        "url": "https://twitter.com/JStein_WaPo/status/1480559583500410884",
+        "html": "<blockquote class=\"twitter-tweet\"><p lang=\"en\" dir=\"ltr\">This story really has not broken through but, again, ****23 million of 39 million**** Afghans already do not have enough food to eat, per aid groups<br><br>The US has choked off much international aid while effectively seizing the country&#39;s government assets<a href=\"https://t.co/qoo7eeVoGS\">https://t.co/qoo7eeVoGS</a></p>&mdash; Jeff Stein (@JStein_WaPo) <a href=\"https://twitter.com/JStein_WaPo/status/1480559583500410884?ref_src=twsrc%5Etfw\">January 10, 2022</a></blockquote>\n<script async src=\"https://platform.twitter.com/widgets.js\" charset=\"utf-8\"></script>\n",
+        "type": "twitter",
+        "metadata": {
+          "url": "https://twitter.com/JStein_WaPo/status/1480559583500410884",
+          "author_name": "Jeff Stein",
+          "author_url": "https://twitter.com/JStein_WaPo",
+          "width": 550,
+          "height": null,
+          "cache_age": "3153600000",
+          "provider_name": "Twitter",
+          "provider_url": "http://www.twitter.com/",
+          "version": "1.0",
+          "tweet_data": {
+            "possibly_sensitive": false,
+            "created_at": "2022-01-10T15:18:06.000Z",
+            "entities": {
+              "annotations": [
+                {
+                  "start": 154,
+                  "end": 155,
+                  "probability": 0.9126,
+                  "type": "Place",
+                  "normalized_text": "US"
+                }
+              ],
+              "urls": [
+                {
+                  "start": 254,
+                  "end": 277,
+                  "url": "https://t.co/qoo7eeVoGS",
+                  "expanded_url": "https://www.washingtonpost.com/world/2022/01/08/afghanistan-winter-crisis/",
+                  "display_url": "washingtonpost.com/world/2022/01/…",
+                  "images": [
+                    {
+                      "url": "https://pbs.twimg.com/news_img/1479532564750626819/gmO2TjeT?format=jpg&name=orig",
+                      "width": 1440,
+                      "height": 960
+                    },
+                    {
+                      "url": "https://pbs.twimg.com/news_img/1479532564750626819/gmO2TjeT?format=jpg&name=150x150",
+                      "width": 150,
+                      "height": 150
+                    }
+                  ],
+                  "status": 200,
+                  "title": "As Afghanistan’s harsh winter sets in, many are forced to choose between food and warmth",
+                  "description": "The Taliban, cut off from most international aid, has scant resources to protect millions of vulnerable people from a full-fledged humanitarian disaster.",
+                  "unwound_url": "https://www.washingtonpost.com/world/2022/01/08/afghanistan-winter-crisis/"
+                }
+              ]
+            },
+            "source": "Twitter Web App",
+            "context_annotations": [
+              {
+                "domain": {
+                  "id": "65",
+                  "name": "Interests and Hobbies Vertical",
+                  "description": "Top level interests and hobbies groupings, like Food or Travel"
+                },
+                "entity": {
+                  "id": "825047692124442624",
+                  "name": "Food",
+                  "description": "Food"
+                }
+              },
+              {
+                "domain": {
+                  "id": "67",
+                  "name": "Interests and Hobbies",
+                  "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks"
+                },
+                "entity": {
+                  "id": "1006277774384828416",
+                  "name": "Food experience",
+                  "description": "Conversation about eating"
+                }
+              }
+            ],
+            "conversation_id": "1480559583500410884",
+            "text": "This story really has not broken through but, again, ****23 million of 39 million**** Afghans already do not have enough food to eat, per aid groups\n\nThe US has choked off much international aid while effectively seizing the country's government assets\n\nhttps://t.co/qoo7eeVoGS",
+            "public_metrics": {
+              "retweet_count": 3185,
+              "reply_count": 236,
+              "like_count": 7623,
+              "quote_count": 404
+            },
+            "lang": "en",
+            "reply_settings": "everyone",
+            "id": "1480559583500410884",
+            "author_id": "334385278",
+            "includes": {
+              "users": [
+                {
+                  "username": "JStein_WaPo",
+                  "location": "Washington, DC",
+                  "entities": {
+                    "url": {
+                      "urls": [
+                        {
+                          "start": 0,
+                          "end": 23,
+                          "url": "https://t.co/3gBOKYiWw2",
+                          "expanded_url": "https://www.washingtonpost.com/people/jeff-stein/",
+                          "display_url": "washingtonpost.com/people/jeff-st…"
+                        }
+                      ]
+                    },
+                    "description": {
+                      "mentions": [
+                        {
+                          "start": 67,
+                          "end": 79,
+                          "username": "IthacaVoice"
+                        }
+                      ]
+                    }
+                  },
+                  "description": "White House economics reporter for The Washington Post. Founder of @IthacaVoice. NYR fan.  Jeffrey.stein@washpost.com, Signal: 9178872891.",
+                  "id": "334385278",
+                  "public_metrics": {
+                    "followers_count": 130366,
+                    "following_count": 1694,
+                    "tweet_count": 21122,
+                    "listed_count": 2040
+                  },
+                  "protected": false,
+                  "profile_image_url": "https://pbs.twimg.com/profile_images/1277938786576498688/NyiNN3x8_normal.jpg",
+                  "pinned_tweet_id": "1288904306205261827",
+                  "verified": true,
+                  "created_at": "2011-07-13T00:54:04.000Z",
+                  "name": "Jeff Stein",
+                  "url": "https://t.co/3gBOKYiWw2"
+                }
+              ]
+            }
+          }
+        },
+        "caption": ""
+      }
+    ],
+    [
+      "button",
+      {
+        "alignment": "center",
+        "buttonText": "Tip Jar",
+        "buttonUrl": "https://dailyposter.outpost.pub/public/donate#/donate"
+      }
+    ],
+    [
+      "button",
+      {
+        "alignment": "center",
+        "buttonText": "Give A Gift Subscription",
+        "buttonUrl": "https://dailyposter.outpost.pub/gift_subscription#/"
+      }
+    ],
+    [
+      "embed",
+      {
+        "url": "https://twitter.com/DRBoguslaw/status/1480565498303688707?t=ckNqe9x1Fx_ijxu0fIQbgw&s=19",
+        "html": "<blockquote class=\"twitter-tweet\"><p lang=\"en\" dir=\"ltr\">Great gig for someone looking to meet lobbyists IRL and learn first hand just how easy it is to buy favorable coverage <a href=\"https://t.co/tWAooC04V0\">https://t.co/tWAooC04V0</a></p>&mdash; Daniel Boguslaw (@DRBoguslaw) <a href=\"https://twitter.com/DRBoguslaw/status/1480565498303688707?ref_src=twsrc%5Etfw\">January 10, 2022</a></blockquote>\n<script async src=\"https://platform.twitter.com/widgets.js\" charset=\"utf-8\"></script>\n",
+        "type": "twitter",
+        "metadata": {
+          "url": "https://twitter.com/DRBoguslaw/status/1480565498303688707",
+          "author_name": "Daniel Boguslaw",
+          "author_url": "https://twitter.com/DRBoguslaw",
+          "width": 550,
+          "height": null,
+          "cache_age": "3153600000",
+          "provider_name": "Twitter",
+          "provider_url": "http://www.twitter.com/",
+          "version": "1.0",
+          "tweet_data": {
+            "text": "Great gig for someone looking to meet lobbyists IRL and learn first hand just how easy it is to buy favorable coverage https://t.co/tWAooC04V0",
+            "id": "1480565498303688707",
+            "created_at": "2022-01-10T15:41:37.000Z",
+            "referenced_tweets": [
+              {
+                "type": "quoted",
+                "id": "1480564361156608013"
+              }
+            ],
+            "lang": "en",
+            "author_id": "1066777591045111808",
+            "entities": {
+              "urls": [
+                {
+                  "start": 119,
+                  "end": 142,
+                  "url": "https://t.co/tWAooC04V0",
+                  "expanded_url": "https://twitter.com/JakeSherman/status/1480564361156608013",
+                  "display_url": "twitter.com/JakeSherman/st…"
+                }
+              ]
+            },
+            "public_metrics": {
+              "retweet_count": 0,
+              "reply_count": 1,
+              "like_count": 10,
+              "quote_count": 0
+            },
+            "source": "Twitter Web App",
+            "possibly_sensitive": false,
+            "reply_settings": "everyone",
+            "conversation_id": "1480565498303688707",
+            "includes": {
+              "users": [
+                {
+                  "entities": {
+                    "url": {
+                      "urls": [
+                        {
+                          "start": 0,
+                          "end": 23,
+                          "url": "https://t.co/a7sCMbNXiL",
+                          "expanded_url": "http://dboguslaw.com",
+                          "display_url": "dboguslaw.com"
+                        }
+                      ]
+                    },
+                    "description": {
+                      "mentions": [
+                        {
+                          "start": 10,
+                          "end": 26,
+                          "username": "revolvingdoordc"
+                        },
+                        {
+                          "start": 44,
+                          "end": 56,
+                          "username": "newrepublic"
+                        },
+                        {
+                          "start": 57,
+                          "end": 70,
+                          "username": "theintercept"
+                        },
+                        {
+                          "start": 71,
+                          "end": 83,
+                          "username": "theprospect"
+                        },
+                        {
+                          "start": 87,
+                          "end": 92,
+                          "username": "vice"
+                        },
+                        {
+                          "start": 93,
+                          "end": 103,
+                          "username": "thenation"
+                        },
+                        {
+                          "start": 104,
+                          "end": 111,
+                          "username": "sludge"
+                        },
+                        {
+                          "start": 112,
+                          "end": 126,
+                          "username": "thebafflermag"
+                        },
+                        {
+                          "start": 141,
+                          "end": 157,
+                          "username": "rathausboguslaw"
+                        }
+                      ]
+                    }
+                  },
+                  "protected": false,
+                  "username": "DRBoguslaw",
+                  "created_at": "2018-11-25T19:36:12.000Z",
+                  "description": "Research\n|@revolvingdoordc|\nInvestigations\n|@newrepublic|@theintercept|@theprospect| \n|@vice|@thenation|@sludge|@thebafflermag|\nComing Soon\n|@rathausboguslaw|",
+                  "url": "https://t.co/a7sCMbNXiL",
+                  "name": "Daniel Boguslaw",
+                  "pinned_tweet_id": "1451932451635273730",
+                  "id": "1066777591045111808",
+                  "verified": true,
+                  "public_metrics": {
+                    "followers_count": 3259,
+                    "following_count": 1432,
+                    "tweet_count": 1323,
+                    "listed_count": 24
+                  },
+                  "profile_image_url": "https://pbs.twimg.com/profile_images/1427595754663825419/f7cyahvI_normal.jpg"
+                },
+                {
+                  "entities": {
+                    "url": {
+                      "urls": [
+                        {
+                          "start": 0,
+                          "end": 23,
+                          "url": "https://t.co/gLn9pdpYUe",
+                          "expanded_url": "http://punchbowl.news",
+                          "display_url": "punchbowl.news"
+                        }
+                      ]
+                    },
+                    "description": {
+                      "mentions": [
+                        {
+                          "start": 11,
+                          "end": 25,
+                          "username": "punchbowlnews"
+                        },
+                        {
+                          "start": 27,
+                          "end": 35,
+                          "username": "nbcnews"
+                        },
+                        {
+                          "start": 36,
+                          "end": 42,
+                          "username": "msnbc"
+                        }
+                      ]
+                    }
+                  },
+                  "protected": false,
+                  "location": "Washington",
+                  "username": "JakeSherman",
+                  "created_at": "2009-02-18T23:01:53.000Z",
+                  "description": "Founder of @punchbowlnews. @nbcnews/@msnbc. Phish/Dead fan. Author of NYT best seller, “The Hill To Die On”.",
+                  "url": "https://t.co/gLn9pdpYUe",
+                  "name": "Jake Sherman",
+                  "id": "21252618",
+                  "verified": true,
+                  "public_metrics": {
+                    "followers_count": 345432,
+                    "following_count": 3736,
+                    "tweet_count": 76937,
+                    "listed_count": 5287
+                  },
+                  "profile_image_url": "https://pbs.twimg.com/profile_images/1471636921176801282/4J1MH9WE_normal.jpg"
+                }
+              ],
+              "tweets": [
+                {
+                  "text": "ALERT: @PunchbowlNews\nis hiring someone to take the helm of our burgeoning event biz. \n\nPlease check it out and drop me a line if you're interested. \n\n(our events rock)\n\nhttps://t.co/nBdaC6y1Mk",
+                  "id": "1480564361156608013",
+                  "created_at": "2022-01-10T15:37:05.000Z",
+                  "context_annotations": [
+                    {
+                      "domain": {
+                        "id": "10",
+                        "name": "Person",
+                        "description": "Named people in the world like Nelson Mandela"
+                      },
+                      "entity": {
+                        "id": "1053758939622330373",
+                        "name": "Jake Sherman",
+                        "description": "Jake Sherman"
+                      }
+                    },
+                    {
+                      "domain": {
+                        "id": "94",
+                        "name": "Journalist",
+                        "description": "A journalist like 'Anderson Cooper'"
+                      },
+                      "entity": {
+                        "id": "1053758939622330373",
+                        "name": "Jake Sherman",
+                        "description": "Jake Sherman"
+                      }
+                    }
+                  ],
+                  "entities": {
+                    "mentions": [
+                      {
+                        "start": 7,
+                        "end": 21,
+                        "username": "PunchbowlNews",
+                        "id": "1322868572113297410"
+                      }
+                    ],
+                    "urls": [
+                      {
+                        "start": 170,
+                        "end": 193,
+                        "url": "https://t.co/nBdaC6y1Mk",
+                        "expanded_url": "https://bit.ly/3r2ynsO",
+                        "display_url": "bit.ly/3r2ynsO",
+                        "status": 200,
+                        "title": "Punchbowl News hiring Events Producer in Washington DC-Baltimore Area | LinkedIn",
+                        "description": "Posted 2:30:47 PM. Punchbowl News is a news content company founded by Anna Palmer, Jake Sherman, John Bresnahan and…See this and similar jobs on LinkedIn.",
+                        "unwound_url": "https://www.linkedin.com/jobs/view/2828334519/"
+                      }
+                    ]
+                  },
+                  "lang": "en",
+                  "author_id": "21252618",
+                  "public_metrics": {
+                    "retweet_count": 7,
+                    "reply_count": 3,
+                    "like_count": 9,
+                    "quote_count": 2
+                  },
+                  "source": "TweetDeck",
+                  "possibly_sensitive": false,
+                  "reply_settings": "everyone",
+                  "conversation_id": "1480564361156608013"
+                }
+              ]
+            }
+          }
+        }
+      }
+    ],
+    [
+      "email-cta",
+      {
+        "showButton": true,
+        "showDividers": false,
+        "segment": "status:-free",
+        "alignment": "center",
+        "html": "",
+        "buttonText": "Click Here To Comment",
+        "buttonUrl": "__GHOST_URL__/midday-poster-a-dishonest-drug-pricing-advocate/#comments"
+      }
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "email-cta",
+      {
+        "showButton": true,
+        "showDividers": false,
+        "segment": "status:-free",
+        "alignment": "center",
+        "html": "",
+        "buttonText": "Tip Jar",
+        "buttonUrl": "https://dailyposter.outpost.pub/ghost-integration/60818189ad12f332071054b8/tips"
+      }
+    ],
+    [
+      "html",
+      {
+        "html": "<div class=\"outpost-pub-container\" data-btn-allmembers></div>"
+      }
+    ]
+  ],
+  "markups": [
+    [
+      "a",
+      [
+        "href",
+        "https://www.rollingstone.com/politics/politics-news/covid-cdc-disability-comorbidity-anger-1282759/"
+      ]
+    ],
+    [
+      "strong"
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.vice.com/en/article/v7d7j9/google-had-secret-project-to-convince-employees-that-unions-suck"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.washingtonpost.com/business/2022/01/08/omicron-working-parents-schools/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.buzzfeednews.com/article/albertsamaha/kroger-essential-workers-two-years-pandemic"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://popular.info/p/red-lobster-workers-say-they-are"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.latimes.com/business/story/2021-12-21/lazarus-column-dead-bank-customer"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.realclearpolicy.com/articles/2021/12/14/democrats_drug_proposal_cuts_patient_costs__but_restricts_access_807755.html"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.realclearhealth.com/articles/2021/10/21/why_democrats_must_drop_drug_price_controls_111259.html"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.ibtimes.com/we-can-save-world-our-vaccines-without-surrendering-our-ip-china-3242212"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://projects.propublica.org/nonprofits/organizations/842460457/202033219349318688/IRS990"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.gene-therapies.org/advisory-councils"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.cnbc.com/2021/07/19/first-guantanamo-prisoner-under-biden-released-fewer-than-40-remain-at-terror-jail.html"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://watson.brown.edu/costsofwar/papers/2022/DetentionandTorture"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://apnews.com/article/joe-biden-cuba-prisons-congress-01da0f22b22c0a56b91c146ba2d2f4fc"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://theintercept.com/2022/01/11/bronx-fire-code-violations-camber-property-group/?utm_campaign=theintercept&utm_source=twitter&utm_medium=social"
+      ]
+    ],
+    [
+      "em"
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://data.cityofnewyork.us/Housing-Development/Housing-Maintenance-Code-Violations/wvxf-dwi5"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://whoownswhat.justfix.nyc/en/address/BRONX/333/EAST%20181%20STREET/timeline"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.dailymail.co.uk/news/article-10387441/Owner-Bronx-building-include-member-Eric-Adams-transition-team.html"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.aljazeera.com/economy/2022/1/11/us-judge-dismisses-facebooks-request-to-throw-out-monopoly-case"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.newyorker.com/magazine/2021/12/06/lina-khans-battle-to-rein-in-big-tech"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://unusualwhales.com/i_am_the_senate/full"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://nypost.com/2022/01/08/jon-ossoff-could-snub-nancy-pelosi-with-ban-on-congress-stock-trades/?utm_medium=SocialFlow&utm_source=NYPTwitter&utm_campaign=SocialFlow"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.commondreams.org/news/2022/01/10/absolute-disgrace-maines-democratic-gov-kills-bill-allow-farmworkers-unionize"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://twitter.com/Taniel/status/1480017146465947650"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://twitter.com/jacobin/status/1480747544497967105?t=9evxhJk-fXS2PHQTT6I-DQ&s=19"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.citizen.org/article/us-chamber-penalties-violations-ftc-report/"
+      ]
+    ]
+  ],
+  "sections": [
+    [
+      10,
+      0
+    ],
+    [
+      10,
+      1
+    ],
+    [
+      1,
+      "p",
+      []
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Former Rep. Erik Paulsen (R-Minn.) has spent the better part of a year penning columns slamming Democrats for including a provision in the Build Back Better Act that would allow Medicare to negotiate lower drug prices. His columns argue that the key reform in President Biden’s climate, health care, and anti-poverty package would “handcuff an industry in the business of inventing life-saving medical technologies.” While Paulsen has been vocal in his criticism of Democrat’s prescription drug pricing plan, he’s been silent on one of the real reasons why he may be opposing it."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Find out about that and much more in today’s Midday Poster below, exclusively for subscribers."
+        ]
+      ]
+    ],
+    [
+      10,
+      2
+    ],
+    [
+      1,
+      "h3",
+      [
+        [
+          0,
+          [],
+          0,
+          "TODAY’S QUOTE:"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "“In order to make an end of this housing shortage there is only one means: to abolish altogether the exploitation and oppression of the working class by the ruling class.\" — Friedrich Engels, “The Housing Question,” 1872."
+        ]
+      ]
+    ],
+    [
+      1,
+      "h3",
+      [
+        [
+          0,
+          [],
+          0,
+          "TODAY’S READS:"
+        ]
+      ]
+    ],
+    [
+      3,
+      "ol",
+      [
+        [
+          [
+            0,
+            [
+              0,
+              1
+            ],
+            2,
+            "Disabled Americans Feel Abandoned By CDC"
+          ]
+        ],
+        [
+          [
+            0,
+            [
+              2,
+              1
+            ],
+            2,
+            "Google Had Secret Project To ‘Convince’ Employees ‘That Unions Suck’"
+          ]
+        ],
+        [
+          [
+            0,
+            [
+              1,
+              1,
+              3,
+              1
+            ],
+            4,
+            "Exhausted Parents Face Another Wave Of School Shutdowns"
+          ]
+        ],
+        [
+          [
+            0,
+            [
+              1,
+              1,
+              4,
+              1
+            ],
+            4,
+            "They Fed America During Lockdown. Now Grocery Workers Can’t Make Ends Meet."
+          ]
+        ],
+        [
+          [
+            0,
+            [
+              1,
+              1,
+              5,
+              1
+            ],
+            4,
+            "Red Lobster Workers Say They Are Forced To Work Sick"
+          ]
+        ],
+        [
+          [
+            0,
+            [
+              1,
+              1,
+              6,
+              1
+            ],
+            4,
+            "Sorry Your Dad’s Dead. Mind If We Hang On To His Money?"
+          ]
+        ]
+      ]
+    ],
+    [
+      10,
+      3
+    ],
+    [
+      1,
+      "h3",
+      [
+        [
+          0,
+          [],
+          0,
+          "TODAY’S SCOOP:"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "In recent months, one-time Republican Minnesota Congressman Erik Paulsen has had a lot to say about Democrats' proposal to allow Medicare to use its bulk purchasing power to negotiate lower drug prices — none of it positive. As he "
+        ],
+        [
+          0,
+          [
+            7
+          ],
+          1,
+          "wrote"
+        ],
+        [
+          0,
+          [],
+          0,
+          " for RealClearPolicy in December, “let’s hope for the sake of patients that legislators drop these worrisome provisions, and instead focus on policies that will make drugs more affordable.”"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "And in October, he penned a "
+        ],
+        [
+          0,
+          [
+            8
+          ],
+          1,
+          "column"
+        ],
+        [
+          0,
+          [],
+          0,
+          " for RealClearHealth warning that the legislation would stifle pharmaceutical innovation. “This is no time to handcuff an industry in the business of inventing life-saving medical technologies — including the vaccines that are saving the world from the COVID-19 pandemic,” Paulsen wrote."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Interesting he should mention vaccines that are “saving the world.” Just last summer, Paulsen "
+        ],
+        [
+          0,
+          [
+            9
+          ],
+          1,
+          "scoffed at"
+        ],
+        [
+          0,
+          [],
+          0,
+          " President Joe Biden’s support for a World Trade Organization waiver to force American COVID-19 vaccine manufacturers to share intellectual property rights for the life-saving vaccines with the global community, arguing such a move would “accelerate the timeline for ‘Made in China 2025.’”"
+        ]
+      ]
+    ],
+    [
+      10,
+      4
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "But what Paulsen has conveniently failed to mention in any of his columns is the fact that he also serves as the chairman of the Institute for Gene Therapies, a "
+        ],
+        [
+          0,
+          [
+            10
+          ],
+          1,
+          "dark money group"
+        ],
+        [
+          0,
+          [],
+          0,
+          " whose corporate advisory council members "
+        ],
+        [
+          0,
+          [
+            11
+          ],
+          1,
+          "include"
+        ],
+        [
+          0,
+          [],
+          0,
+          " COVID-19 vaccine makers Pfizer and Johnson & Johnson, as well as other pharmaceutical heavy-hitters like Astellas Pharma and Vertex Pharmaceuticals."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "And for all Big Pharma’s talk of opposing prescription drug pricing reform on the basis of wanting greater innovation and patient access, we know the real reason they are battling a government payer’s ability to negotiate lower prices is because they hope to continue profiting off a business scheme that price-gouges patients for life-saving medication."
+        ]
+      ]
+    ],
+    [
+      1,
+      "h3",
+      [
+        [
+          0,
+          [],
+          0,
+          "TODAY’S STAT:"
+        ]
+      ]
+    ],
+    [
+      10,
+      5
+    ],
+    [
+      1,
+      "h3",
+      [
+        [
+          0,
+          [],
+          0,
+          "TODAY’S FLASHBACK:"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Last July, Biden "
+        ],
+        [
+          0,
+          [
+            12
+          ],
+          1,
+          "released"
+        ],
+        [
+          0,
+          [],
+          0,
+          " Moroccan citizen Abdullatif Nasser from Guantanamo Bay and back to his home country. The move, the first such release since Biden took office, was coupled with a vow from the president to shut down the "
+        ],
+        [
+          0,
+          [
+            13
+          ],
+          1,
+          "costly"
+        ],
+        [
+          0,
+          [],
+          0,
+          " torture facility, which opened on the U.S. base in Cuba in the wake of the terrorist attacks on September 11, 2001."
+        ]
+      ]
+    ],
+    [
+      10,
+      6
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Now, a year into Biden’s presidency and on the 20th anniversary of the first prisoners’ arrival there, Guantanamo Bay still holds 39 people — "
+        ],
+        [
+          0,
+          [
+            14
+          ],
+          1,
+          "frustrating advocates"
+        ],
+        [
+          0,
+          [],
+          0,
+          " who were hopeful Biden would follow through and now fear he may repeat former president Barack Obama’s broken promise to shut it down."
+        ]
+      ]
+    ],
+    [
+      1,
+      "h3",
+      [
+        [
+          0,
+          [],
+          0,
+          "TODAY’S CLICKS:"
+        ]
+      ]
+    ],
+    [
+      3,
+      "ul",
+      [
+        [
+          [
+            0,
+            [
+              1
+            ],
+            1,
+            "BRONX BUILDING RECEIVED CODE VIOLATION NOTICES BEFORE FIRE: "
+          ],
+          [
+            0,
+            [],
+            0,
+            "New "
+          ],
+          [
+            0,
+            [
+              15
+            ],
+            1,
+            "reporting"
+          ],
+          [
+            0,
+            [],
+            0,
+            " from "
+          ],
+          [
+            0,
+            [
+              16
+            ],
+            1,
+            "The Intercept"
+          ],
+          [
+            0,
+            [],
+            0,
+            " shows the Bronx apartment building that caught fire and killed at least 17 people on Sunday ”was the subject of at least two maintenance code violations last year related to broken or defective fire retardant material in its walls.” The violation notices "
+          ],
+          [
+            0,
+            [
+              17
+            ],
+            1,
+            "were issued"
+          ],
+          [
+            0,
+            [],
+            0,
+            " last April and October by the New York City Department of Housing Preservation and Development. In the last decade, the building has received at least "
+          ],
+          [
+            0,
+            [
+              18
+            ],
+            1,
+            "169 violation notices"
+          ],
+          [
+            0,
+            [],
+            0,
+            ". “It’s no coincidence that the owners of this building were also deeply politically connected despite hundreds of maintenance and safety complaints,” said New York Assembly Member Yuh Line Niou, who represents the 65th district covering lower Manhattan. One of the building owners is a "
+          ],
+          [
+            0,
+            [
+              19
+            ],
+            1,
+            "member"
+          ],
+          [
+            0,
+            [],
+            0,
+            " of new Mayor Eric Adams’ transition team."
+          ]
+        ],
+        [
+          [
+            0,
+            [
+              1
+            ],
+            1,
+            "A SMALL VICTORY IN THE FACEBOOK MONOPOLY FIGHT: "
+          ],
+          [
+            0,
+            [],
+            0,
+            "Yesterday, a judge "
+          ],
+          [
+            0,
+            [
+              20
+            ],
+            1,
+            "ruled against"
+          ],
+          [
+            0,
+            [],
+            0,
+            " Facebook’s request to throw out a monopoly lawsuit the U.S. government filed in December 2020 targeting the tech giant. The Federal Trade Commission’s antitrust complaint, which was refiled in August after being dismissed by a judge last June, will move forward after U.S. District Judge James Boasberg denied Facebook’s motion to scrap the case. “The agency has also explained that Facebook not only possesses monopoly power, but that it has willfully maintained that power through anticompetitive conduct,” Boasberg wrote of the revised complaint. The case is the latest in an ongoing effort by the Biden Administration and FTC Chair Lina Khan to "
+          ],
+          [
+            0,
+            [
+              21
+            ],
+            1,
+            "rein in Big Tech"
+          ],
+          [
+            0,
+            [],
+            0,
+            "."
+          ]
+        ]
+      ]
+    ],
+    [
+      10,
+      7
+    ],
+    [
+      3,
+      "ul",
+      [
+        [
+          [
+            0,
+            [
+              1
+            ],
+            1,
+            "“IN 2021, CONGRESS BEAT THE MARKET!”: "
+          ],
+          [
+            0,
+            [],
+            0,
+            "A new "
+          ],
+          [
+            0,
+            [
+              22
+            ],
+            1,
+            "report"
+          ],
+          [
+            0,
+            [],
+            0,
+            " from UnusualWhales.com reveals that in the past year alone, U.S. lawmakers traded stocks, options, and other financial assets more than ever, with hundreds of millions of dollars exchanged and huge gains delivered to legislators and their families. The trading report, which summarizes all financial disclosures from Dec. 1, 2020 to Dec. 22, 2021, shows that members timed their 2021 trading around notable legislative events like Senate passage of the bipartisan infrastructure bill — along the way making millions in sectors affected by the legislation. Some of the busiest traders included House Reps. Josh Gottheimer (D-N.J.), Marie Newman (D-Ill.), Susie Lee (D-Nev.) and Zoe Lofgren (D-Calif.), as well as Sens. John Boozman (R-Ark.) and Tommy Tuberville (R-Ala.). “Our politicians traded in huge volumes and amounts while being privy to closed-door meetings and negotiations on committees in the House and Senate,” the report noted. Sen. Jon Ossoff (D-Ga.) is "
+          ],
+          [
+            0,
+            [
+              23
+            ],
+            1,
+            "expected to"
+          ],
+          [
+            0,
+            [],
+            0,
+            " introduce legislation that would ban members of Congress from trading stocks while in office."
+          ]
+        ],
+        [
+          [
+            0,
+            [
+              1
+            ],
+            1,
+            "MAINE GOVERNOR DASHES FARMWORKERS’ HOPES OF UNIONIZING: "
+          ],
+          [
+            0,
+            [],
+            0,
+            "Last week, Maine’s Democratic Gov. Janet Mills "
+          ],
+          [
+            0,
+            [
+              24
+            ],
+            1,
+            "vetoed legislation"
+          ],
+          [
+            0,
+            [],
+            0,
+            " that would have given agricultural workers in her state the right to unionize, pinning her decision on farmers’ supposed inability to understand the bill’s complexity. Gov. Mills’ veto makes her the "
+          ],
+          [
+            0,
+            [
+              25
+            ],
+            1,
+            "second Democratic governor"
+          ],
+          [
+            0,
+            [],
+            0,
+            " after California’s Gavin Newsom to nix legislation that would have carved a pathway for farmworkers to organize and collectively bargain for better wages and working conditions. As "
+          ],
+          [
+            0,
+            [
+              16
+            ],
+            1,
+            "Jacobin "
+          ],
+          [
+            0,
+            [
+              26
+            ],
+            1,
+            "noted"
+          ],
+          [
+            0,
+            [],
+            0,
+            ", Mills’ “recent veto of basic rights for farmworkers is a reminder that plenty of opposition to workers' rights comes from the country’s most powerful liberal representatives.”"
+          ]
+        ],
+        [
+          [
+            0,
+            [
+              1
+            ],
+            1,
+            "CHAMBER OF COMMERCE MEMBERS GUILTY OF MASSIVE WRONGDOING:"
+          ],
+          [
+            0,
+            [],
+            0,
+            " Over 100 members of the U.S. Chamber of Commerce — the nation’s largest business lobby — violated the law nearly 16,000 times and paid a whopping $154 billion in penalties since 2000, according to a new "
+          ],
+          [
+            0,
+            [
+              27
+            ],
+            1,
+            "analysis"
+          ],
+          [
+            0,
+            [],
+            0,
+            " from consumer watchdog group Public Citizen. The report, which looks at data from the Corporate Research Project of Good Jobs First’s Violation Tracker, found that megabanks JPMorgan Chase, Citigroup, and Wells Fargo account for more than half of the total owed in penalties. Johnson & Johnson, Occidental Petroleum, and Facebook were also among the companies that paid sizable penalties for misdeeds from state and federal authorities."
+          ]
+        ]
+      ]
+    ],
+    [
+      1,
+      "h3",
+      [
+        [
+          0,
+          [],
+          0,
+          "TODAY’S OWN:"
+        ]
+      ]
+    ],
+    [
+      10,
+      8
+    ],
+    [
+      10,
+      9
+    ],
+    [
+      10,
+      10
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [
+            16,
+            1
+          ],
+          2,
+          "This newsletter relies on readers pitching in to support our journalism. If you like this story, please support "
+        ],
+        [
+          0,
+          [
+            1
+          ],
+          1,
+          "The Daily Poster"
+        ],
+        [
+          0,
+          [
+            16,
+            1
+          ],
+          2,
+          "'s work."
+        ]
+      ]
+    ],
+    [
+      10,
+      11
+    ],
+    [
+      10,
+      12
+    ]
+  ],
+  "ghostVersion": "4.0"
+}

@@ -1,0 +1,373 @@
+<!--kg-card-begin: html-->
+<p>Just two weeks after <a title="New iOS 7 beta 2 now compatible with iPad, iPad mini" href="__GHOST_URL__/2013/06/24/new-ios-7-beta-2-now-compatible-with-ipad-ipad-mini/" target="_blank">seeding iOS 7 beta 2</a> to developers, Apple has just released iOS 7 beta 3 and it includes several bug fixes and cosmetic changes.  You can download iOS 7 beta 3 from the <a href="https://developer.apple.com/devcenter/ios/index.action" target="_blank">Developer Center</a> [requires iOS developer account] or if you already have iOS 7 beta 2 on your device, you can upgrade via Settings > General > Software Update.</p>
+<p>The most notable cosmetic changes include, a larger status bar on the lock screen, more transparent folders, several small cosmetic and font tweaks in the Notification Center, the Calendar app now shows which days you have events on, new fonts in the Weather app, Mail has tweaked search bar, a new font in the Settings app, newly designed music controls, and more.  You can find the complete release notes for iOS 7 beta 3 below:</p>
+<h2>Release Notes</h2>
+<h2>Introduction</h2>
+<p>iOS SDK 7.0 provides support for developing iOS apps, and it includes the complete set of Xcode tools, compilers, and frameworks for creating apps for iOS and OS X. These tools include the Xcode IDE and the Instruments analysis tool, among many others.</p>
+<p>With this software you can develop apps for iPhone, iPad, or iPod touch running iOS 7. You can also test your apps using the included iOS Simulator, which supports iOS 7. iOS SDK 7.0 requires a Mac computer running OS X v10.8.4 (Mountain Lion) or later.</p>
+<p>This version of iOS is intended for installation only on devices registered with the Apple Developer Program. Attempting to install this version of iOS in an unauthorized manner could put your device in an unusable state.</p>
+<p>For more information and additional support resources, visit <a href="http://developer.apple.com/programs/ios/">http://developer.apple.com/programs/ios/</a>.</p>
+<section>
+    <h2>Bug Reporting</h2>
+    <p>To report any bugs not mentioned in the <a href="https://developer.apple.com/library/prerelease/ios/releasenotes/General/RN-iOSSDK-7.0/index.html#//apple_ref/doc/uid/TP40013202-CH1-SW4" data-id="//apple_ref/doc/uid/TP40013202-CH1-SW4">Notes and Known Issues</a> section, use the Apple Bug Reporter on the Apple Developer website (<a href="http://developer.apple.com/bugreporter/">http://developer.apple.com/bugreporter/</a>). Additionally, you may discuss these issues and iOS SDK 7.0 in the Apple Developer Forums: <a href="http://devforums.apple.com/">http://devforums.apple.com</a>. To get more information about iCloud for Developers, go to <a href="http://developer.apple.com/icloud">http://developer.apple.com/icloud</a>.</p>
+</section>
+<section>
+    <h2>Notes and Known Issues</h2>
+    <p>The following issues relate to using iOS SDK 7.0 to develop code.</p>
+    <section>
+        <h2>AirDrop</h2>
+        <section>
+            <h2>Notes</h2>
+            <ul>
+                <li>AirDrop in iOS 7 Seed 2 or later is not compatible with AirDrop in iOS 7 Seed 1.</li>
+                <li>Contacts Only support requires that:<ul>
+                        <li>You are logged in to iCloud.</li>
+                        <li>The sender and receiver have each other’s Apple ID email addresses in Contacts on their devices.</li>
+                    </ul>
+                </li>
+            </ul>
+        </section>
+        <section>
+            <h2>Known Issues</h2>
+            <ul>
+                <li>Contact Only currently requires that you have an active Internet connection.</li>
+                <li>The App Store should support the ability to find an app capable of opening a received document based on the document’s Uniform Type Identifier (UTI). Currently, just a blank screen is displayed.</li>
+            </ul>
+        </section>
+    </section>
+    <section>
+        <h2>AirPlay</h2>
+        <section>
+            <h2>Fixed in Seed 3</h2>
+            <ul>
+                <li>When sending music to an Apple TV, advancing to the next track may fail.</li>
+                <li>Audio volume may increase dramatically and unexpectedly during AirPlay.</li>
+            </ul>
+        </section>
+    </section>
+    <section>
+        <h2>AV Foundation</h2>
+        <section>
+            <h2>Notes</h2>
+            <p><code><a href="https://developer.apple.com/library/prerelease/ios/documentation/AVFoundation/Reference/AVCaptureSession_Class/Reference/Reference.html#//apple_ref/occ/cl/AVCaptureSession">AVCaptureSession</a></code> now uses your app’s <code><a href="https://developer.apple.com/library/prerelease/ios/documentation/AVFoundation/Reference/AVAudioSession_ClassReference/Reference/Reference.html#//apple_ref/occ/cl/AVAudioSession">AVAudioSession</a></code> by default.</p>
+        </section>
+    </section>
+    <section>
+        <h2>Calendar</h2>
+        <section>
+            <h2>Known Issuse</h2>
+            <ul>
+                <li>iCloud calendars or reminders may be duplicated after adding new events.Workaround: Hide the duplicated calendar from view and things will continue to sync normally.</li>
+                <li>iCloud calendar events may not sync through fetch, push, or manual refresh as expected.Workaround: Create a new event or edit an existing event to trigger the sync.</li>
+            </ul>
+        </section>
+    </section>
+    <section>
+        <h2>Car Display</h2>
+        <section>
+            <h2>Known Issues</h2>
+            <p>Support for Car Display will be provided once compatible systems are available.</p>
+        </section>
+    </section>
+    <section>
+        <h2>Contacts</h2>
+        <section>
+            <h2>Known Issues</h2>
+            <p>Some high-resolution photos will not sync (via iCloud and other services) when set as a Contact’s Caller ID photo.</p>
+            <p>Workaround: Use a lower-resolution photo.</p>
+        </section>
+    </section>
+    <section>
+        <h2>Core Animation</h2>
+        <section>
+            <h2>Notes</h2>
+            <p>When the <code><a href="https://developer.apple.com/library/prerelease/ios/documentation/General/Reference/InfoPlistKeyReference/Articles/iPhoneOSKeys.html#//apple_ref/doc/plist/info/UIViewGroupOpacity">UIViewGroupOpacity</a></code> key is not present, the default value is now YES. The default was previously NO.</p>
+            <p>This means that subviews of a transparent view will first be composited onto that transparent view, then the precomposited subtree will be drawn as a whole onto the background. A NO setting results in less expensive, but also less accurate, compositing: each view in the transparent subtree is composited onto what’s underneath it, according to the parent’s opacity, in the normal painter’s algorithm order.</p>
+        </section>
+    </section>
+    <section>
+        <h2>iCloud</h2>
+        <section>
+            <h2>Notes</h2>
+            <ul>
+                <li>iCloud Keychain in iOS 7 Seed 3 is not backward compatible with iOS 7 Seed 2 and OS X Mavericks Seed 2.If you had iCloud Keychain and/or Keychain Restore enabled from iOS 7 Seed 2, both features are disabled upon updating to iOS 7 Seed 3.After updating to iOS 7 Seed 3, go to Settings > iCloud > Keychain and reenable iCloud Keychain on your devices.See <em>OS X v10.9 Release Notes</em> for more details.</li>
+                <li>Activation Lock, a new feature of Find My iPhone, is turned on automatically when Find My iPhone is enabled on any device running iOS 7. Activation Lock requires users to enter their Apple ID and password to turn off Find My iPhone, sign out of iCloud, erase the device, or reactivate the device after an erase. It’s important to do one of the following before transferring a device to a new user:<ul>
+                        <li>Sign out of iCloud.</li>
+                        <li>Turn off Activation Lock in Settings > iCloud > Find My iPhone.</li>
+                    </ul>
+                </li>
+            </ul>
+        </section>
+        <section>
+            <h2>Fixed in Seed 3</h2>
+            <ul>
+                <li>The keyboard is not present in the iCloud Keychain approval dialog after screen unlock.Workaround: Tap on either Don’t Allow or Allow. The keyboard will be presented the next time.</li>
+                <li>If you change the country associated with a phone number in Settings > iCloud ><em>Account Name</em> > Keychain, you will not be able to view the changed country name/code.Workaround: Turn off Keychain Restore, and then turn it back on.</li>
+                <li>If you have “Reset All Contents and Settings” on a device (Settings > General > Reset) that:<ul>
+                        <li>Has an iCloud account set up</li>
+                        <li>Has Find My iPhone Activation Lock enabled</li>
+                        <li>Has not previously navigated to Settings > iCloud</li>
+                    </ul>
+                    <p>you won’t be asked to enter your iCloud credentials to disable Activation Lock prior to erasing. After the device is erased, your device will be activation locked.</p>
+                    <p>Workaround: Delete the iCloud account prior to erasing the device. If in this state, enter your iCloud account credentials to unlock the device.
+                </li>
+                <li>iCloud Keychain users who set up an additional device will receive an approval request to the other devices with iCloud Keychain turned on. The approval request will not be displayed if their screens are off and the devices are idle.Workaround: Wake up any peer device to accept the approval request.</li>
+                <li>In iOS 7, Find My iPhone and Bookmarks toggles are no longer supported on secondary iCloud accounts. When you update your device with either of these options enabled on a secondary iCloud account, they will be turned off with no user notification.Workaround: Set up the primary iCloud account via Settings/iCloud and then enable Find My iPhone or Bookmarks.</li>
+                <li>On rare occasions, users might experience difficulties setting up iCloud Keychain on some of their devices.Workaround: A temporary Reset iCloud Keychain button is available in iCloud Settings > Account > Account Security.</li>
+            </ul>
+        </section>
+        <section>
+            <h2>Known Issues</h2>
+            <ul>
+                <li>Sometimes when you disable iCloud Keychain, you may not be able to reenable it.Workaround: Disable the Keychain on all enabled devices, then reenable.</li>
+                <li>Keychains are not synced among devices when they are on a wireless network with WEP security.</li>
+                <li>When setting up iCloud Keychain in Setup Assistant on iPhone 4 and iPhone 4s, the keyboard covers the iCloud Security Code entry field and the Advanced Options link.Workaround: Scroll down to see the hidden entries.</li>
+                <li>Users in Switzerland, France, Spain, Germany, Poland, Finland, and possibly some other countries, will be unable to restore their keychains using phone number validation.Workaround: Use Random Security Code.</li>
+                <li>Credit cards deleted in Safari Settings > AutoFill are removed from the device but not from other devices.Workaround: Making another local change (like adding a credit card) will force the sync.</li>
+                <li>Users signing out of iCloud by deleting their iCloud account, erasing all contents and settings, or erasing the device via Find My iPhone and signing back in will not be presented with the correct iCloud Keychain setup screens.Workaround: Turn on iCloud Keychain, then approve with iCloud Security Code > Forgot Security Code > Reset iCloud Keychain.</li>
+                <li>Users who have a single device with iCloud Keychain on will not be presented with the correct iCloud Keychain setup screens after restoring from a backup.Workaround: Turn on iCloud Keychain, then approve with iCloud Security Code > Forgot Security Code > Reset iCloud Keychain.</li>
+                <li>Nonpurchased ePubs and PDFs will not be restored when iCloud-restoring an iOS 7 device with a pre-iOS 7 backup. Purchased content will be restored without issue.Workaround: Use iTunes sync.</li>
+            </ul>
+        </section>
+    </section>
+    <section>
+        <h2>MapKit</h2>
+        <section>
+            <h2>Notes</h2>
+            <p>If the calls to <code>renderInContext</code> on the layer backing an <code><a href="https://developer.apple.com/library/prerelease/ios/documentation/MapKit/Reference/MKMapView_Class/MKMapView/MKMapView.html#//apple_ref/occ/cl/MKMapView">MKMapView</a></code> are made off the main thread, they should be eliminated or moved to the main thread. Failure to do so can cause an app crash. Instead of using<code>renderInContext</code>, use the new <code><a href="https://developer.apple.com/library/prerelease/ios/documentation/MapKit/Reference/MKMapSnapshotter_class/Reference/Reference.html#//apple_ref/occ/cl/MKMapSnapshotter">MKMapSnapshotter</a></code> APIs.</p>
+        </section>
+    </section>
+    <section>
+        <h2>Messages</h2>
+        <section>
+            <h2>Fixed in Seed 3</h2>
+            <ul>
+                <li>On a clean install, launching Messages presents an empty message list instead of a new compose window.</li>
+                <li>The existing Messages database may be deleted after a restore or upgrade if:<ul>
+                        <li>You do not sign in to iCloud during the Setup Assistant.</li>
+                        <li>The iMessage and iCloud accounts use different IDs.</li>
+                    </ul>
+                </li>
+                <li>Messages app crashes after viewing any attachments on two separate threads.Workaround: The attachments are viewable after relaunching Messages.</li>
+            </ul>
+        </section>
+    </section>
+    <section>
+        <h2>Multipeer Connectivity</h2>
+        <section>
+            <h2>Notes</h2>
+            <p>Many updates to the <code><a href="https://developer.apple.com/library/prerelease/ios/documentation/MultipeerConnectivity/Reference/MCSessionClassRef/Reference/Reference.html#//apple_ref/occ/cl/MCSession">MCSession</a></code> APIs are included in this seed. The APIs now function as they were presented at WWDC. Major changes and enhancements include:</p>
+            <ul>
+                <li>The following new method on <code><a href="https://developer.apple.com/library/prerelease/ios/documentation/MultipeerConnectivity/Reference/MCSessionClassRef/Reference/Reference.html#//apple_ref/occ/cl/MCSession">MCSession</a></code> has been implemented: <code>- (NSOutputStream *)startStreamWithName:(NSString *)streamName toPeer:(MCPeerID *)peerID error:(NSError **)error</code>This delegate method has been implemented: <code>- (void)session:(MCSession *)session didReceiveStream:(NSInputStream *)stream withName:(NSString *)streamName fromPeer:(MCPeerID *)peerID</code></li>
+                <li>The following new method on <code><a href="https://developer.apple.com/library/prerelease/ios/documentation/MultipeerConnectivity/Reference/MCSessionClassRef/Reference/Reference.html#//apple_ref/occ/cl/MCSession">MCSession</a></code> has been implemented: <code>- (NSProgress *)sendResourceAtURL:(NSURL *)resourceURL withName:(NSString *)resourceName toPeer:(MCPeerID *)peerID withCompletionHandler:(void(^)(NSError *error))completionHandler</code>The delegate method to start receiving a resource from remote peer has been implemented as: <code>- (void)session:(MCSession *)session didStartReceivingResourceWithName:(NSString *)resourceName fromPeer:(MCPeerID *)peerID withProgress:(NSProgress *)progress</code>The delegate method to finish receiving a resource from remote peer and save the content in a temporary location is implemented as: <code>- (void)session:(MCSession *)session didFinishReceivingResourceWithName:(NSString *)resourceName fromPeer:(MCPeerID *)peerID atURL:(NSURL *)localURL withError:(NSError *)error</code>
+                    <div>
+                        <aside>Note: The app is responsible for moving the file to a permanent location within its sandbox.</aside>
+                    </div>
+                </li>
+                <li><code><a href="https://developer.apple.com/library/prerelease/ios/documentation/MultipeerConnectivity/Reference/MCAdvertiserAssistant_class/Reference/Reference.html#//apple_ref/occ/cl/MCAdvertiserAssistant">MCAdvertiserAssistant</a></code> is a new class. It is a convenience class for implementing an Advertiser, which handles invitations and connections to an <code><a href="https://developer.apple.com/library/prerelease/ios/documentation/MultipeerConnectivity/Reference/MCSessionClassRef/Reference/Reference.html#//apple_ref/occ/cl/MCSession">MCSession</a></code>.</li>
+                <li><code><a href="https://developer.apple.com/library/prerelease/ios/documentation/MultipeerConnectivity/Reference/MCSessionClassRef/Reference/Reference.html#//apple_ref/occ/cl/MCSession">MCSession</a></code> has a new <code><a href="https://developer.apple.com/library/prerelease/ios/documentation/MultipeerConnectivity/Reference/MCSessionClassRef/Reference/Reference.html#//apple_ref/occ/instm/MCSession/initWithPeer:">initWithPeer:</a></code> method.</li>
+                <li><code>sendResource</code> has added “with” to the <code>completionHandler</code>.</li>
+                <li>The timeout has been removed from <code>connectPeer:withNearbyConnectionData</code>.</li>
+            </ul>
+            <p>See “WWDC Session 701: Multipeer Connectivity” for more information on these APIs.</p>
+        </section>
+    </section>
+    <section>
+        <h2>Music Player</h2>
+        <section>
+            <h2>Fixed in Seed 3</h2>
+            <p><code><a href="https://developer.apple.com/library/prerelease/ios/documentation/MediaPlayer/Reference/MPMediaPickerController_ClassReference/Reference/Reference.html#//apple_ref/occ/cl/MPMediaPickerController">MPMediaPickerController</a></code> has been disabled for this seed. It will immediately return as if the user canceled the selection.</p>
+        </section>
+    </section>
+    <section>
+        <h2>Networking</h2>
+        <section>
+            <h2>Notes</h2>
+            <ul>
+                <li>Cellular fallback is a technology that will attempt to connect over the cellular interface when a connection over the Wi-Fi interface does not succeed. There are a number of cases where connection failures may occur over Wi-Fi, such as a cable modem in need of a reboot or a firewall that blocks access to certain resources.If your app restricts network operations over the cellular network, verify that your code is using the proper API to implement that policy.For example, if your app watches <code>SCNetworkReachability</code> for the <code><a href="https://developer.apple.com/library/prerelease/ios/documentation/SystemConfiguration/Reference/SCNetworkReachabilityRef/Reference/reference.html#//apple_ref/c/econst/kSCNetworkReachabilityFlagsIsWWAN">kSCNetworkReachabilityFlagsIsWWAN</a></code> to monitor when Wi-Fi is available, it may not behave correctly under cellular fallback.If an app uses this method and then attempts to connect, thinking it will get a connection over Wi-Fi, the app may inadvertently end up with a connection over the cellular network. The lack of the<code><a href="https://developer.apple.com/library/prerelease/ios/documentation/SystemConfiguration/Reference/SCNetworkReachabilityRef/Reference/reference.html#//apple_ref/c/econst/kSCNetworkReachabilityFlagsIsWWAN">kSCNetworkReachabilityFlagsIsWWAN</a></code> is not a guarantee that your connection will not go over cellular. If your code needs to enforce that a connection not go over cellular, it needs to specify that when making a networking request.Instead, for <code>CFNetwork</code> code using <code>CFSocketStream</code>, <code>CFHTTPStream</code>, or similar APIs, set the <code><a href="https://developer.apple.com/library/prerelease/ios/documentation/CoreFoundation/Reference/CFSocketStreamRef/Reference/reference.html#//apple_ref/c/data/kCFStreamPropertyNoCellular">kCFStreamPropertyNoCellular</a></code> property to true on the CF object before connecting.For <code>NSURLRequests</code>, call <code>[request setAllowsCellularAccess: false]</code>.In addition to making sure your code will never be connected over cellular because of cellular fallback, this call ensures that your code will never be connected over cellular because of the VPN or convoluted routing problems (connecting to IPv6 over cellular because only IPv4 is available over Wi-Fi, etc.).To verify that your app is behaving properly, you should test against a broken Wi-Fi network. The easiest way to set up a broken Wi-Fi network is to set up an Apple AirPort Base Station or other Wi-Fi access point to hand out a DHCP address and leave the access point disconnected from the Internet. Another simple way of testing is to unplug the cable or DSL line from your cable or DLS modem.</li>
+                <li>Two low-level networking APIs that used to return a MAC address now return the fixed value <em>02:00:00:00:00:00</em>. The APIs in question are <code>sysctl (NET_RT_IFLIST)</code> and <code>ioctl (SIOCGIFCONF)</code>. Developers using the value of the MAC address should migrate to identifiers such as <code>-[UIDevice identifierForVendor]</code>. This change affects all apps running on iOS 7.</li>
+                <li>All <code>NSURL</code> session tasks now start suspended rather than running. This allows you to set up up their state before the task is started.</li>
+            </ul>
+        </section>
+    </section>
+    <section>
+        <h2>Newsstand</h2>
+        <section>
+            <h2>Fixed in Seed 3</h2>
+            <p>Newsstand background downloads that use HTTP basic or digest authentication will prompt the user with authorization alerts (<code><a href="https://developer.apple.com/library/prerelease/ios/documentation/Foundation/Reference/NSURLConnectionDelegate_Protocol/Reference/Reference.html#//apple_ref/occ/intf/NSURLConnectionDelegate">NSURLConnectionDelegate Protocol</a></code> callbacks for <code>connectionShouldUseCredentialStorage</code>and <code>willSendRequestForAuthenticationChallenge</code> are not called correctly).</p>
+        </section>
+    </section>
+    <section>
+        <h2>Objective-C Runtime</h2>
+        <section>
+            <h2>Notes</h2>
+            <p>Due to changes in how the <code>isa</code> field is implemented, <code>*self</code> may change during enumeration (for example, if the container is retained).</p>
+            <p>Workaround: When implementing <code>countByEnumeratingWithState</code>, do not set <code>state->mutationsPtr = self</code>.</p>
+        </section>
+    </section>
+    <section>
+        <h2>Passbook</h2>
+        <section>
+            <h2>Notes</h2>
+            <ul>
+                <li>In previous versions of the iOS SDK, Passbook did not validate the back fields on passes completely. This has been corrected, but it means that some passes added on iOS 6.0, 6.1, and iOS 7.0 Seed 1, will be invalid on iOS 7 Seed 2 and later. The validation rules have not changed, it was just a a bug in validation in previous implementations. If you have a pass that you were previously able to add to Passbook, but no longer can, watch the console log for more than one field that has the key NAME. Field keys need to be unique.</li>
+                <li>As of iOS 7 Seed 3, <code><a href="https://developer.apple.com/library/prerelease/ios/documentation/PassKit/Reference/PKPassLibrary_Ref/PKPassLibrary.html#//apple_ref/c/econst/PKPassLibraryDidCancelAddPasses">PKPassLibraryDidCancelAddPasses</a></code> is a new status code in the <code><a href="https://developer.apple.com/library/prerelease/ios/documentation/PassKit/Reference/PKPassLibrary_Ref/PKPassLibrary.html#//apple_ref/c/tdef/PKPassLibraryAddPassesStatus">PKPassLibraryAddPassesStatus</a></code> enum. It signifies that the user tapped Cancel in an add-passes alert.</li>
+            </ul>
+        </section>
+    </section>
+    <section>
+        <h2>Safari</h2>
+        <section>
+            <h2>Known Issues</h2>
+            <ul>
+                <li>Upgrading to iOS may reset Safari’s settings to their default values.</li>
+                <li>Safari website credentials do not always autofill between mobile and desktop versions.Workaround: Use the desktop version if the site offers it.</li>
+            </ul>
+        </section>
+    </section>
+    <section>
+        <h2>Security</h2>
+        <section>
+            <h2>Notes</h2>
+            <ul>
+                <li><code>-[UIDevice uniqueIdentifier]</code> is no longer accepted in submissions to the App Store. In iOS 7, apps that are already on the store or on users’ devices that call this removed API will no longer be returned the UDID. Instead,<code>-[UIDevice uniqueIdentifier]</code> will return a 40-character string starting with <em>FFFFFFFF</em>, followed by the hex value of <code>-[UIDevice identifierForVendor]</code>. It is important to consider how this will affect existing apps. Consider submitting updates that no longer access the UDID.</li>
+                <li>iOS now requests user consent for apps to use audio input on all iOS 7 devices. For devices sold in China, iOS will also request user consent for apps to use the camera hardware. The operating system will present the consent alert when you set the category of the instantiated <code>AVAudioSesison</code>. The <code>AVAudioSessionCategories</code> that will present the alert are <code><a href="https://developer.apple.com/library/prerelease/ios/documentation/AVFoundation/Reference/AVAudioSession_ClassReference/Reference/Reference.html#//apple_ref/c/data/AVAudioSessionCategoryRecord">AVAudioSessionCategoryRecord</a></code> and <code><a href="https://developer.apple.com/library/prerelease/ios/documentation/AVFoundation/Reference/AVAudioSession_ClassReference/Reference/Reference.html#//apple_ref/c/data/AVAudioSessionCategoryPlayAndRecord">AVAudioSessionCategoryPlayAndRecord</a></code>.If the user doesn’t allow access, the audio session data will be all zeros (silence). For devices where camera access is requested and denied by the user, the video capture session is a black screen.</li>
+                <li>The API <code>gethostuuid()</code> has been removed and will not be accepted for submission to the store, regardless of the targeted OS. For existing apps running on iOS 7, the function will return a <em>uuid_t</em> representation of the vendor identifier (<code>-[UIDevice identifierForVendor]</code>).</li>
+            </ul>
+        </section>
+    </section>
+    <section>
+        <h2>Settings</h2>
+        <section>
+            <h2>Fixed in Seed 3</h2>
+            <p>In General > Background App Refresh, the per-app settings are not honored.</p>
+        </section>
+    </section>
+    <section>
+        <h2>Setup</h2>
+        <section>
+            <h2>Fixed in Seed 3</h2>
+            <p>After erasing the device from Settings > General > Reset > Erase All Content & Settings, CrashReporter logs will no longer be copied from the device to the computer.</p>
+            <p>Workaround: Restore the device from an IPSW instead of using Erase All Content & Settings on the device.</p>
+        </section>
+    </section>
+    <section>
+        <h2>Siri</h2>
+        <section>
+            <h2>Notes</h2>
+            <p>This seed includes development versions of new male and female Siri voices for U.S. English and French, and a male voice for German.</p>
+        </section>
+    </section>
+    <section>
+        <h2>Social</h2>
+        <section>
+            <h2>Notes</h2>
+            <p>Up through iOS 6, when using <code><a href="https://developer.apple.com/library/prerelease/ios/documentation/Twitter/Reference/TWTweetSheetViewControllerClassRef/Reference/Reference.html#//apple_ref/occ/cl/TWTweetComposeViewController">TWTweetComposeViewController</a></code> and <code><a href="https://developer.apple.com/library/prerelease/ios/documentation/NetworkingInternet/Reference/SLComposeViewController_Class/Reference/Reference.html#//apple_ref/occ/cl/SLComposeViewController">SLComposeViewController</a></code> (the latter only for Twitter and Weibo, but not Facebook), if the caller supplies a <code>completionHandler</code>, the supplied<code>completionHandler</code> is responsible for dismissing the view controller. As of iOS 7, if the app links against the iOS 7 SDK, the view controller will dismiss itself even if the caller supplies a <code>completionHandler</code>. To avoid this, the caller’s <code>completionHandler</code> should not dismiss the view controller.</p>
+        </section>
+        <section>
+            <h2>Known Issues</h2>
+            <p>When using the iOS 6.1 SDK on OS X v10.8 Mountain Lion, if you use the iOS 5.0 or iOS 5.1 Legacy SDK in iOS Simulator, you will not be able to use Twitter features: attempting to sign in to Twitter via the Settings pane will fail, and <code>Twitter.framework</code> will not work correctly. If you need to test Twitter features, you will need to choose either an iOS 6.1 or iOS 6.0 Simulator run destination, or you can test with iOS 5.x on a device.</p>
+        </section>
+    </section>
+    <section>
+        <h2>Springboard</h2>
+        <section>
+            <h2>Notes</h2>
+            <ul>
+                <li>Active touches are no longer canceled when the user takes a screenshot.</li>
+                <li>Dynamic wallpaper is not available on iPhone 4.</li>
+            </ul>
+        </section>
+        <section>
+            <h2>Fixed in Seed 3</h2>
+            <ul>
+                <li>Passcode Lock and Auto-lock time settings are not always respected. Sometimes the device does not require a passcode when the settings indicate it should.</li>
+                <li>Some apps may receive duplicate push notifications or no notification.</li>
+                <li>The app switcher does not show all of the suspended apps.</li>
+            </ul>
+        </section>
+        <section>
+            <h2>Known Issues</h2>
+            <ul>
+                <li>Passwords with diacritical marks are not supported in this seed. If you have diacritical marks in your password, change it before upgrading to Seed 3 as you will be unable to unlock your device.</li>
+                <li>Springboard crashes when accessing some web clips in the App Switcher.</li>
+                <li>When restoring from an iCloud backup on a device with hundreds of apps, Springboard may crash repeatedly.</li>
+            </ul>
+        </section>
+    </section>
+    <section>
+        <h2>Sprite Kit</h2>
+        <section>
+            <h2>Known Issues</h2>
+            <p><code>+[AVPlayer playerWithPlayerItem:]</code> returns an <code><a href="https://developer.apple.com/library/prerelease/ios/documentation/AVFoundation/Reference/AVPlayer_Class/Reference/Reference.html#//apple_ref/occ/cl/AVPlayer">AVPlayer</a></code> object, but the current item will return nil if the player was created on another thread.</p>
+        </section>
+    </section>
+    <section>
+        <h2>Sync</h2>
+        <section>
+            <h2>Known Issues</h2>
+            <p>The Wi-Fi sync option in iTunes is checked, but Wi-Fi devices do not appear in iTunes.</p>
+            <p>Workaround: On OS X, install the iOS 7.0 SDK after installing iTunes. Wi-Fi sync is not supported on Windows.</p>
+        </section>
+    </section>
+    <section>
+        <h2>UIKit</h2>
+        <section>
+            <h2>Notes</h2>
+            <ul>
+                <li><code>+[UIPasteboard pasteboardWithName:create:]</code> and <code>+[UIPasteboard pasteboardWithUniqueName]</code> now unique the given name to allow only those apps in the same application group to access the pasteboard. If the developer attempts to create a pasteboard with a name that already exists and they are not part of the same app suite, they will get their own unique and private pasteboard. Note that this does not affect the system provided pasteboards, general, and find.</li>
+                <li>Starting with Seed 2, apps default to using the new view controller-based status bar management system. To opt out of this, add a value of NO for the <code>UIViewControllerBasedStatusBarAppearance</code> key to your Info.plist.</li>
+                <li>When using Auto Layout to position a <code><a href="https://developer.apple.com/library/prerelease/ios/documentation/UIKit/Reference/UIButton_Class/UIButton/UIButton.html#//apple_ref/occ/cl/UIButton">UIButton</a></code>, if you set the content compression resistance or content hugging priority to minimum, the button will have ambiguous layout.Workaround: Don’t use a content compression resistance or content hugging priority of less than 2 for <code><a href="https://developer.apple.com/library/prerelease/ios/documentation/UIKit/Reference/UIButton_Class/UIButton/UIButton.html#//apple_ref/occ/cl/UIButton">UIButton</a></code>.</li>
+                <li><code>UIScenEdgePanGestureRecognizer</code> allows you to perform actions in response to swipes over the edge of the screen using the same heuristics that the system uses for its own gestures. Use this if you have a navigation semantic of your own that doesn’t use <code>UINavigationController</code> but should include this gesture (e.g., Safari).This gesture recognizer has a property that describes the edges on which it’s active. <code>UIRectEdge</code> is a new enum type that this property and <code>-[UIViewController edgesForExtendedLayout]</code> can share. <code>UIRectEdge</code> replaces<code>UIExtendedEdge</code>, which will be removed. The members of both have the same values. Use Xcode to replace all instances of “UIExtendedEdge” in your project with “UIRectEdge”.</li>
+                <li>Blurred layers are not available on iPhone 4.</li>
+                <li>Parallax is not available on iPhone 4.</li>
+                <li>Letterpress text is not available on iPhone 4.</li>
+            </ul>
+        </section>
+        <section>
+            <h2>Fixed in Seed 3</h2>
+            <ul>
+                <li>When a device without a passcode is connected to an untrusted computer, iTunes will tell the user to approve on the phone, yet the phone never asks the user to approve. The phone is trusted anyway, so there is no functional impact, but the UI is missing.</li>
+                <li><code><a href="https://developer.apple.com/library/prerelease/ios/documentation/UIKit/Reference/UISwitch_Class/Reference/Reference.html#//apple_ref/occ/cl/UISwitch">UISwitch</a></code><code>onTintColors</code> is always green irrespective of what it’s set to.</li>
+            </ul>
+        </section>
+        <section>
+            <h2>Known Issues</h2>
+            <ul>
+                <li>IB support for <code>-topLayoutGuide</code> and <code>-bottomLayoutGuide</code> is not functional in this seed.</li>
+                <li><code><a href="https://developer.apple.com/library/prerelease/ios/documentation/UIKit/Reference/UIPickerView_Class/Reference/UIPickerView.html#//apple_ref/occ/cl/UIPickerView">UIPickerView</a></code> with custom views doesn’t show the views in the selection indicator.</li>
+                <li><code><a href="https://developer.apple.com/library/prerelease/ios/documentation/UIKit/Reference/UIRefreshControl_class/Reference/Reference.html#//apple_ref/occ/cl/UIRefreshControl">UIRefreshControl</a></code> and the associated table view are hidden under the navigation bar when <code>setTranslucent:</code> is NO.</li>
+                <li><code><a href="https://developer.apple.com/library/prerelease/ios/documentation/UIKit/Reference/UIButton_Class/UIButton/UIButton.html#//apple_ref/c/econst/UIButtonTypeInfoLight">UIButtonTypeInfoLight</a></code>, <code><a href="https://developer.apple.com/library/prerelease/ios/documentation/UIKit/Reference/UIButton_Class/UIButton/UIButton.html#//apple_ref/c/econst/UIButtonTypeInfoDark">UIButtonTypeInfoDark</a></code>, and <code><a href="https://developer.apple.com/library/prerelease/ios/documentation/UIKit/Reference/UIButton_Class/UIButton/UIButton.html#//apple_ref/c/econst/UIButtonTypeDetailDisclosure">UIButtonTypeDetailDisclosure</a></code> buttons all look the same.</li>
+                <li>The <code><a href="https://developer.apple.com/library/prerelease/ios/documentation/UIKit/Reference/UIImagePickerController_Class/UIImagePickerController/UIImagePickerController.html#//apple_ref/occ/cl/UIImagePickerController">UIImagePickerController</a></code> does not show a live preview when using custom overlays.</li>
+                <li>The title of the <code><a href="https://developer.apple.com/library/prerelease/ios/documentation/UIKit/Reference/UIRefreshControl_class/Reference/Reference.html#//apple_ref/occ/cl/UIRefreshControl">UIRefreshControl</a></code> appears below the navigation bar.</li>
+            </ul>
+        </section>
+    </section>
+    <section>
+        <h2>VoiceOver</h2>
+        <section>
+            <h2>Fixed in Seed 3</h2>
+            <p>Reminders does not work with VoiceOver.</p>
+        </section>
+    </section>
+    <section>
+        <h2>Weather</h2>
+        <section>
+            <h2>Notes</h2>
+            <p>Weather conditions are not animated on iPhone 4.</p>
+        </section>
+    </section>
+    <section>
+        <h2>WebKit</h2>
+        <section>
+            <h2>Notes</h2>
+            <ul>
+                <li>Previously, when the viewport parameters were modified, the old parameters were never discarded. This caused the viewport parameters to be additive.For example, if you started with <em>width=device-width</em> and then changed it to <em>initial-scale=1.0</em>, you ended up with a computed viewport of <em>width=device-width, initial-scale=1.0</em>.In iOS 7, this has been addressed. Now you end up with with a computed viewport of <em>initial-scale=1.0</em>.</li>
+                <li>Previously, when using <em>
+                        <meta name=”viewport” content=”initial-scale=1.0, user-scalable=1″>
+                    </em>, the scale could be incorrect after rotation.Now, if a user has not scaled the page explicitly, the page is restored to its initial scale. Also, the current scale is now correctly restricted within the <code>min-scale</code>, <code>max-scale</code> bounds.</li>
+                <li>Some images for Retina display devices appear at twice the size that they should instead of being scaled down 50%. This issue can also occur with any image to be scaled that is larger than its container and that uses either the<code>background-size</code> property or the <code>-webkit-background-size</code> property. This issue affects both native apps that display web content and web pages viewed in Safari for iPhone.The <code>background</code> CSS shorthand property now resets the value of the <code>background-size</code> property to <code>auto</code> when background size is not specified. This new behavior is per the CSS spec, and the old behavior is available only for apps linked to an SDK prior to iOS 7.0 when running on iOS 7 or later.Workaround: Specify the <code>background-size</code> property or the <code>-webkit-background-size</code> property after the <code>background</code> shorthand property in the CSS stylesheet for the web content being displayed.</li>
+            </ul>
+        </section>
+    </section>
+</section><!--kg-card-end: html-->

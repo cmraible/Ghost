@@ -1,0 +1,80 @@
+{
+  "root": {
+    "children": [
+      {
+        "type": "markdown",
+        "markdown": "##Rouven Leuener\n###Group head of digital product at Neue Zürcher Zeitung\n\n*Warning: Liveblogging. Prone to error, inaccuracy, and howling crimes against syntax and grammar. Post will be polished up over the next 24 hours*\n\nThe Cambrian explosion in the planet’s pre-history led to a dramatic growth in species and biology. This isn’t a biology lesson - but at NZZ we achieved things, and created a sort of Cambrian Explosion. \n\nThe advantage of the digital age is that you can be customer-focused and data-informed. Take advantage of that to build something that works, because you nee the right model. There is plenty to admire about the *New York Times*  for example, but I don’t think it’s a good example of paywall. In Switzerland, we have fewer people to stuff the end of the funnel with - so that’s we came up with the dynamic paygate model.\n\nThe site gains about 10,000 registrations per month - and has increased conversion five-fold over the past the last few years.  Here’s how.\n\n##Iterating the paygate\n\nBetween 2012-14 the paygate was IT managed and inflexible, and changes took weeks to make. The conversation rate during this period was 0.5% - they were converting fans.\n\nFrom 2015-17 they moved to a flexible metered paygate, taking into account a range of factors, including the number of pages viewed per user, the sorts of stories read , the source of the traffic and so on. That brought conversion up to 1.2%. \n\nFrom that data, they build some hypotheses, and used machine learning to identify patterns - and then iterated again and again from there. That got them up to a 2.5% conversion rate. For example, they changed personal greetings based on the source of the traffic. They showed different groups different pricing periods (week, month, year) based on their modelled likely interest. \n\nBy 2018 they moved to propensity modelling - for every user they calculate their propensity to convert every night. Again, they’re using as much data as they can. If a user is not into the top 20% of the propensity score, they see the standard rules set. That top 20% is split into A/B testing between the standard ruleset and a specialised rule set. \n\nThey’re now in phase 5, the Omnigate, where they’re aiming for a conversation rate of >5% based on a mix of retention and conversion models.\n\n##Learnings\n\n1. You don’t sell on Saturdays\n2. Mornings: a lower price on a previously seen offer converts better\n3. At lunchtimes, economic and local content reforms better\n4. Accounts between 18 months and 2 years old have the greatest chance of converting\n\n###Personalisation\n\nThey decided to build their own personalisation system, because the systems they saw out there were unsatisfactory in many ways. They wanted a system that was both algorithmically and rule-based. Their aim was to allow people to ind relevant content ore easily NOT increase page view per session. \n\nThey use a mix of an editorial score, a crowd score and the user’s interest history to generate recommendations. The editorial score helps counter the filter-bubble effect. It’s important to use hybrid modelling to balance all these elements. \n\nThey create a personalised list from the articles since your lats visit - in three, time-dependent forms. \n\n###Audio\n\nThey built a text-to-speech engine because there was a clear desire from the readers for alternative ways of consuming articles.  The audio articles count towards the paywall. \n\n###An Agile Organisation\n\nThe company uses agile approaches to interstate prototypes rapidly and ship them facts. They use co-creation with users. They use [scrum](https://blog.trello.com/beginners-guide-scrum-and-agile-project-management) for development, and work in multi-disciplinary teams in design sprints - including editorial. \n\n[OKR](https://medium.com/startup-tools/okrs-5afdc298bc28) is the goal-setting tool they use. It manages priority setting, communication and accountability. \n\n##Key Advice?\n\n1. Generate velocity\n2. Focus and adaptive strategy\n3. Pushing Flexibility"
+      },
+      {
+        "type": "horizontalrule"
+      },
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "detail": 0,
+                "format": 1,
+                "mode": "normal",
+                "style": "",
+                "text": "Francesco Zaffarano",
+                "type": "text",
+                "version": 1
+              },
+              {
+                "detail": 0,
+                "format": 0,
+                "mode": "normal",
+                "style": "",
+                "text": " has ",
+                "type": "text",
+                "version": 1
+              },
+              {
+                "children": [
+                  {
+                    "detail": 0,
+                    "format": 0,
+                    "mode": "normal",
+                    "style": "",
+                    "text": "written up the session on journalism.co.uk",
+                    "type": "text",
+                    "version": 1
+                  }
+                ],
+                "direction": "ltr",
+                "format": "",
+                "indent": 0,
+                "type": "link",
+                "rel": null,
+                "target": null,
+                "title": null,
+                "url": "https://www.newsrewired.com/2019/03/06/how-nzz-increased-its-conversion-rate-up-to-five-times-with-dynamic-paygates/",
+                "version": 1
+              }
+            ],
+            "direction": "ltr",
+            "format": "",
+            "indent": 0,
+            "type": "listitem",
+            "value": 1,
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "tag": "ul",
+        "type": "list",
+        "listType": "bullet",
+        "start": 1,
+        "version": 1
+      }
+    ],
+    "direction": "ltr",
+    "format": "",
+    "indent": 0,
+    "type": "root",
+    "version": 1
+  }
+}

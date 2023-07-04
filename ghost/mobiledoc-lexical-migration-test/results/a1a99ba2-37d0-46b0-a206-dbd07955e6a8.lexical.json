@@ -1,0 +1,332 @@
+{
+  "root": {
+    "children": [
+      {
+        "children": [
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": "Week 1",
+            "type": "text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "heading",
+        "tag": "h3",
+        "version": 1
+      },
+      {
+        "type": "embed",
+        "url": "https://vimeo.com/417795121",
+        "html": "<iframe src=\"https://player.vimeo.com/video/417795121?app_id=122963\" width=\"1280\" height=\"960\" frameborder=\"0\" allow=\"autoplay; fullscreen\" allowfullscreen></iframe>",
+        "metadata": {
+          "version": "1.0",
+          "provider_name": "Vimeo",
+          "provider_url": "https://vimeo.com/",
+          "width": 1280,
+          "height": 960,
+          "domain_status_code": 403,
+          "video_id": 417795121,
+          "uri": "/videos/417795121"
+        },
+        "caption": "Password: google1t",
+        "embedType": "video"
+      },
+      {
+        "children": [
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": "Week 2",
+            "type": "text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "heading",
+        "tag": "h3",
+        "version": 1
+      },
+      {
+        "type": "embed",
+        "url": "https://vimeo.com/418843223",
+        "html": "<iframe src=\"https://player.vimeo.com/video/418843223?app_id=122963\" width=\"1280\" height=\"720\" frameborder=\"0\" allow=\"autoplay; fullscreen\" allowfullscreen></iframe>",
+        "metadata": {
+          "version": "1.0",
+          "provider_name": "Vimeo",
+          "provider_url": "https://vimeo.com/",
+          "width": 1280,
+          "height": 720,
+          "domain_status_code": 403,
+          "video_id": 418843223,
+          "uri": "/videos/418843223"
+        },
+        "caption": "Password: metr2cs",
+        "embedType": "video"
+      },
+      {
+        "children": [
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": "Week 3",
+            "type": "text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "heading",
+        "tag": "h3",
+        "version": 1
+      },
+      {
+        "type": "embed",
+        "url": "https://vimeo.com/420861873",
+        "html": "<iframe src=\"https://player.vimeo.com/video/420861873?app_id=122963\" width=\"1280\" height=\"720\" frameborder=\"0\" allow=\"autoplay; fullscreen\" allowfullscreen></iframe>",
+        "metadata": {
+          "version": "1.0",
+          "provider_name": "Vimeo",
+          "provider_url": "https://vimeo.com/",
+          "width": 1280,
+          "height": 720,
+          "domain_status_code": 403,
+          "video_id": 420861873,
+          "uri": "/videos/420861873"
+        },
+        "caption": "Password: b1ngB1ng",
+        "embedType": "video"
+      },
+      {
+        "type": "horizontalrule"
+      },
+      {
+        "children": [
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": "Read More:",
+            "type": "text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "heading",
+        "tag": "h3",
+        "version": 1
+      },
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "detail": 0,
+                    "format": 0,
+                    "mode": "normal",
+                    "style": "",
+                    "text": "The Basics",
+                    "type": "text",
+                    "version": 1
+                  }
+                ],
+                "direction": "ltr",
+                "format": "",
+                "indent": 0,
+                "type": "link",
+                "rel": null,
+                "target": null,
+                "title": null,
+                "url": "__GHOST_URL__/seo-notes/",
+                "version": 1
+              }
+            ],
+            "direction": "ltr",
+            "format": "",
+            "indent": 0,
+            "type": "listitem",
+            "value": 1,
+            "version": 1
+          },
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "detail": 0,
+                    "format": 0,
+                    "mode": "normal",
+                    "style": "",
+                    "text": "On Page Optimisation",
+                    "type": "text",
+                    "version": 1
+                  }
+                ],
+                "direction": "ltr",
+                "format": "",
+                "indent": 0,
+                "type": "link",
+                "rel": null,
+                "target": null,
+                "title": null,
+                "url": "__GHOST_URL__/seo-on-page-optimisation/",
+                "version": 1
+              }
+            ],
+            "direction": "ltr",
+            "format": "",
+            "indent": 0,
+            "type": "listitem",
+            "value": 2,
+            "version": 1
+          },
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "detail": 0,
+                    "format": 0,
+                    "mode": "normal",
+                    "style": "",
+                    "text": "Links and Linking",
+                    "type": "text",
+                    "version": 1
+                  }
+                ],
+                "direction": "ltr",
+                "format": "",
+                "indent": 0,
+                "type": "link",
+                "rel": null,
+                "target": null,
+                "title": null,
+                "url": "__GHOST_URL__/seo-links-and-linking/",
+                "version": 1
+              }
+            ],
+            "direction": "ltr",
+            "format": "",
+            "indent": 0,
+            "type": "listitem",
+            "value": 3,
+            "version": 1
+          },
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "detail": 0,
+                    "format": 0,
+                    "mode": "normal",
+                    "style": "",
+                    "text": "Helps and Hindrances",
+                    "type": "text",
+                    "version": 1
+                  }
+                ],
+                "direction": "ltr",
+                "format": "",
+                "indent": 0,
+                "type": "link",
+                "rel": null,
+                "target": null,
+                "title": null,
+                "url": "__GHOST_URL__/seo-helps-hinderences/",
+                "version": 1
+              }
+            ],
+            "direction": "ltr",
+            "format": "",
+            "indent": 0,
+            "type": "listitem",
+            "value": 4,
+            "version": 1
+          },
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "detail": 0,
+                    "format": 0,
+                    "mode": "normal",
+                    "style": "",
+                    "text": "SEO & Paywalls",
+                    "type": "text",
+                    "version": 1
+                  }
+                ],
+                "direction": "ltr",
+                "format": "",
+                "indent": 0,
+                "type": "link",
+                "rel": null,
+                "target": null,
+                "title": null,
+                "url": "__GHOST_URL__/seo-paywalls/",
+                "version": 1
+              }
+            ],
+            "direction": "ltr",
+            "format": "",
+            "indent": 0,
+            "type": "listitem",
+            "value": 5,
+            "version": 1
+          },
+          {
+            "children": [
+              {
+                "detail": 0,
+                "format": 0,
+                "mode": "normal",
+                "style": "",
+                "text": "SEO with WordPress & Ghost",
+                "type": "text",
+                "version": 1
+              }
+            ],
+            "direction": "ltr",
+            "format": "",
+            "indent": 0,
+            "type": "listitem",
+            "value": 6,
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "tag": "ul",
+        "type": "list",
+        "listType": "bullet",
+        "start": 1,
+        "version": 1
+      }
+    ],
+    "direction": "ltr",
+    "format": "",
+    "indent": 0,
+    "type": "root",
+    "version": 1
+  }
+}

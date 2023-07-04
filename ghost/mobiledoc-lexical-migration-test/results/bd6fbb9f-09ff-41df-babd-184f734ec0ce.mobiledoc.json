@@ -1,0 +1,401 @@
+{
+  "version": "0.3.1",
+  "atoms": [],
+  "cards": [
+    [
+      "hr",
+      {}
+    ],
+    [
+      "image",
+      {
+        "src": "__GHOST_URL__/content/images/2020/08/Motorious---4--9.jpg",
+        "width": 1920,
+        "height": 1080,
+        "caption": "image credit: Instagram"
+      }
+    ],
+    [
+      "image",
+      {
+        "src": "__GHOST_URL__/content/images/2020/08/Motorious--28.jpg",
+        "width": 1920,
+        "height": 1080,
+        "caption": "image credit: Instagram"
+      }
+    ],
+    [
+      "image",
+      {
+        "src": "__GHOST_URL__/content/images/2020/08/Motorious---3--12.jpg",
+        "width": 1920,
+        "height": 1080,
+        "caption": "image credit: Instagram"
+      }
+    ],
+    [
+      "image",
+      {
+        "caption": "image credit: Instagram",
+        "src": "__GHOST_URL__/content/images/2020/08/Motorious---2--16.jpg",
+        "width": 1920,
+        "height": 1080
+      }
+    ],
+    [
+      "embed",
+      {
+        "url": "https://www.instagram.com/p/CC6KmAOHMwU/?utm_source=ig_embed",
+        "html": "<blockquote class=\"instagram-media\" data-instgrm-captioned data-instgrm-permalink=\"https://www.instagram.com/p/CC6KmAOHMwU/?utm_source=ig_embed&amp;utm_campaign=loading\" data-instgrm-version=\"12\" style=\" background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:658px; min-width:326px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);\"><div style=\"padding:16px;\"> <a href=\"https://www.instagram.com/p/CC6KmAOHMwU/?utm_source=ig_embed&amp;utm_campaign=loading\" style=\" background:#FFFFFF; line-height:0; padding:0 0; text-align:center; text-decoration:none; width:100%;\" target=\"_blank\"> <div style=\" display: flex; flex-direction: row; align-items: center;\"> <div style=\"background-color: #F4F4F4; border-radius: 50%; flex-grow: 0; height: 40px; margin-right: 14px; width: 40px;\"></div> <div style=\"display: flex; flex-direction: column; flex-grow: 1; justify-content: center;\"> <div style=\" background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; margin-bottom: 6px; width: 100px;\"></div> <div style=\" background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; width: 60px;\"></div></div></div><div style=\"padding: 19% 0;\"></div> <div style=\"display:block; height:50px; margin:0 auto 12px; width:50px;\"><svg width=\"50px\" height=\"50px\" viewBox=\"0 0 60 60\" version=\"1.1\" xmlns=\"https://www.w3.org/2000/svg\" xmlns:xlink=\"https://www.w3.org/1999/xlink\"><g stroke=\"none\" stroke-width=\"1\" fill=\"none\" fill-rule=\"evenodd\"><g transform=\"translate(-511.000000, -20.000000)\" fill=\"#000000\"><g><path d=\"M556.869,30.41 C554.814,30.41 553.148,32.076 553.148,34.131 C553.148,36.186 554.814,37.852 556.869,37.852 C558.924,37.852 560.59,36.186 560.59,34.131 C560.59,32.076 558.924,30.41 556.869,30.41 M541,60.657 C535.114,60.657 530.342,55.887 530.342,50 C530.342,44.114 535.114,39.342 541,39.342 C546.887,39.342 551.658,44.114 551.658,50 C551.658,55.887 546.887,60.657 541,60.657 M541,33.886 C532.1,33.886 524.886,41.1 524.886,50 C524.886,58.899 532.1,66.113 541,66.113 C549.9,66.113 557.115,58.899 557.115,50 C557.115,41.1 549.9,33.886 541,33.886 M565.378,62.101 C565.244,65.022 564.756,66.606 564.346,67.663 C563.803,69.06 563.154,70.057 562.106,71.106 C561.058,72.155 560.06,72.803 558.662,73.347 C557.607,73.757 556.021,74.244 553.102,74.378 C549.944,74.521 548.997,74.552 541,74.552 C533.003,74.552 532.056,74.521 528.898,74.378 C525.979,74.244 524.393,73.757 523.338,73.347 C521.94,72.803 520.942,72.155 519.894,71.106 C518.846,70.057 518.197,69.06 517.654,67.663 C517.244,66.606 516.755,65.022 516.623,62.101 C516.479,58.943 516.448,57.996 516.448,50 C516.448,42.003 516.479,41.056 516.623,37.899 C516.755,34.978 517.244,33.391 517.654,32.338 C518.197,30.938 518.846,29.942 519.894,28.894 C520.942,27.846 521.94,27.196 523.338,26.654 C524.393,26.244 525.979,25.756 528.898,25.623 C532.057,25.479 533.004,25.448 541,25.448 C548.997,25.448 549.943,25.479 553.102,25.623 C556.021,25.756 557.607,26.244 558.662,26.654 C560.06,27.196 561.058,27.846 562.106,28.894 C563.154,29.942 563.803,30.938 564.346,32.338 C564.756,33.391 565.244,34.978 565.378,37.899 C565.522,41.056 565.552,42.003 565.552,50 C565.552,57.996 565.522,58.943 565.378,62.101 M570.82,37.631 C570.674,34.438 570.167,32.258 569.425,30.349 C568.659,28.377 567.633,26.702 565.965,25.035 C564.297,23.368 562.623,22.342 560.652,21.575 C558.743,20.834 556.562,20.326 553.369,20.18 C550.169,20.033 549.148,20 541,20 C532.853,20 531.831,20.033 528.631,20.18 C525.438,20.326 523.257,20.834 521.349,21.575 C519.376,22.342 517.703,23.368 516.035,25.035 C514.368,26.702 513.342,28.377 512.574,30.349 C511.834,32.258 511.326,34.438 511.181,37.631 C511.035,40.831 511,41.851 511,50 C511,58.147 511.035,59.17 511.181,62.369 C511.326,65.562 511.834,67.743 512.574,69.651 C513.342,71.625 514.368,73.296 516.035,74.965 C517.703,76.634 519.376,77.658 521.349,78.425 C523.257,79.167 525.438,79.673 528.631,79.82 C531.831,79.965 532.853,80.001 541,80.001 C549.148,80.001 550.169,79.965 553.369,79.82 C556.562,79.673 558.743,79.167 560.652,78.425 C562.623,77.658 564.297,76.634 565.965,74.965 C567.633,73.296 568.659,71.625 569.425,69.651 C570.167,67.743 570.674,65.562 570.82,62.369 C570.966,59.17 571,58.147 571,50 C571,41.851 570.966,40.831 570.82,37.631\"></path></g></g></g></svg></div><div style=\"padding-top: 8px;\"> <div style=\" color:#3897f0; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:550; line-height:18px;\"> View this post on Instagram</div></div><div style=\"padding: 12.5% 0;\"></div> <div style=\"display: flex; flex-direction: row; margin-bottom: 14px; align-items: center;\"><div> <div style=\"background-color: #F4F4F4; border-radius: 50%; height: 12.5px; width: 12.5px; transform: translateX(0px) translateY(7px);\"></div> <div style=\"background-color: #F4F4F4; height: 12.5px; transform: rotate(-45deg) translateX(3px) translateY(1px); width: 12.5px; flex-grow: 0; margin-right: 14px; margin-left: 2px;\"></div> <div style=\"background-color: #F4F4F4; border-radius: 50%; height: 12.5px; width: 12.5px; transform: translateX(9px) translateY(-18px);\"></div></div><div style=\"margin-left: 8px;\"> <div style=\" background-color: #F4F4F4; border-radius: 50%; flex-grow: 0; height: 20px; width: 20px;\"></div> <div style=\" width: 0; height: 0; border-top: 2px solid transparent; border-left: 6px solid #f4f4f4; border-bottom: 2px solid transparent; transform: translateX(16px) translateY(-4px) rotate(30deg)\"></div></div><div style=\"margin-left: auto;\"> <div style=\" width: 0px; border-top: 8px solid #F4F4F4; border-right: 8px solid transparent; transform: translateY(16px);\"></div> <div style=\" background-color: #F4F4F4; flex-grow: 0; height: 12px; width: 16px; transform: translateY(-4px);\"></div> <div style=\" width: 0; height: 0; border-top: 8px solid #F4F4F4; border-left: 8px solid transparent; transform: translateY(-4px) translateX(8px);\"></div></div></div></a> <p style=\" margin:8px 0 0 0; padding:0 4px;\"> <a href=\"https://www.instagram.com/p/CC6KmAOHMwU/?utm_source=ig_embed&amp;utm_campaign=loading\" style=\" color:#000; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px; text-decoration:none; word-wrap:break-word;\" target=\"_blank\">Here’s something I’ve been working on that I am really excited to show off: The Corv8.  A 1965 Chevrolet Corvair with the engine and transaxle of a Corvette C8, a custom pushrod suspension, and a custom carbon-fiber intake. Not too long ago the amazing team over at @overkillracingandchassis reached out to me to do some concepts, and after seeing the incredible work they do, I was really itching to try and do something more “technical” than usual. Everything starts off with the Corvette’s LT2 paired to the dual-clutch transaxle, it sits on a custom cradle loosely based on a Porsche 550 Spyder structure. The pushrod suspension borrows geometry from a Koenigsegg One to One, and there’s big brakes on the end of it to keep it all “safe at any speed” 😝. The exhaust loops around the cradle in between the suspension and all the way to the end. Under that, there’s a carbon-fiber diffuser, and on top of the engine, a custom designed air intake is connected to the rear quarter windows in Singer 911 fashion (which to be honest, I’m not sure it would work 100%, but I like how it looks 🤣). All that is wrapped around a relatively stock looking ‘65 Corvair body, slightly wider fenders were needed to accommodate the new guts and some carbon fiber bits up front as well. To keep things controlled, part of the deck lid is now an air brake which in my mind deploys under heavy braking, although the shape of the panel might disturb the air a little too much.  Color was hard to choose, but this blue won my heart.  What do you think? Would you like to see more stuff like this with detailed internals? Let me know what you think!  . . . . . . . . #chevrolet #corvair #corvette #corveight #corv8 #custom #midengine #hotrod #air #intake #cradle #blue #dualclutch #supercar #fast #3d #render</a></p> <p style=\" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; line-height:17px; margin-bottom:0; margin-top:8px; overflow:hidden; padding:8px 0 7px; text-align:center; text-overflow:ellipsis; white-space:nowrap;\">A post shared by <a href=\"https://www.instagram.com/abimelecdesign/?utm_source=ig_embed&amp;utm_campaign=loading\" style=\" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px;\" target=\"_blank\"> Abimelec Arellano</a> (@abimelecdesign) on <time style=\" font-family:Arial,sans-serif; font-size:14px; line-height:17px;\" datetime=\"2020-07-21T15:16:47+00:00\">Jul 21, 2020 at 8:16am PDT</time></p></div></blockquote>\n<script async src=\"//www.instagram.com/embed.js\"></script>",
+        "type": "rich",
+        "metadata": {
+          "version": "1.0",
+          "title": "Here’s something I’ve been working on that I am really excited to show off: The Corv8. \n\nA 1965 Chevrolet Corvair with the engine and transaxle of a Corvette C8, a custom pushrod suspension, and a custom carbon-fiber intake. Not too long ago the amazing team over at @overkillracingandchassis reached out to me to do some concepts, and after seeing the incredible work they do, I was really itching to try and do something more “technical” than usual. Everything starts off with the Corvette’s LT2 paired to the dual-clutch transaxle, it sits on a custom cradle loosely based on a Porsche 550 Spyder structure. The pushrod suspension borrows geometry from a Koenigsegg One to One, and there’s big brakes on the end of it to keep it all “safe at any speed” 😝. The exhaust loops around the cradle in between the suspension and all the way to the end. Under that, there’s a carbon-fiber diffuser, and on top of the engine, a custom designed air intake is connected to the rear quarter windows in Singer 911 fashion (which to be honest, I’m not sure it would work 100%, but I like how it looks 🤣). All that is wrapped around a relatively stock looking ‘65 Corvair body, slightly wider fenders were needed to accommodate the new guts and some carbon fiber bits up front as well. To keep things controlled, part of the deck lid is now an air brake which in my mind deploys under heavy braking, although the shape of the panel might disturb the air a little too much. \nColor was hard to choose, but this blue won my heart. \nWhat do you think? Would you like to see more stuff like this with detailed internals? Let me know what you think! \n.\n.\n.\n.\n.\n.\n.\n.\n#chevrolet #corvair #corvette #corveight #corv8 #custom #midengine #hotrod #air #intake #cradle #blue #dualclutch #supercar #fast #3d #render",
+          "author_name": "abimelecdesign",
+          "author_url": "https://www.instagram.com/abimelecdesign",
+          "author_id": 2904457828,
+          "media_id": "2358243946923871252_2904457828",
+          "provider_name": "Instagram",
+          "provider_url": "https://instagram.com",
+          "width": 658,
+          "height": null,
+          "thumbnail_url": "https://scontent.cdninstagram.com/v/t51.2885-15/e35/s480x480/109287090_294586861886653_2226734982816655866_n.jpg?_nc_ht=scontent.cdninstagram.com&_nc_cat=101&_nc_ohc=oqAy4TXaRTIAX9bhWbe&oh=90b58e14db5b4c6060caca99da5131ed&oe=5F5DEFC2",
+          "thumbnail_width": 480,
+          "thumbnail_height": 359
+        }
+      }
+    ]
+  ],
+  "markups": [
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/articles/news/corvette-c8-c7-race/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/articles/news/c8-corvette-shelby-gt500-drag-race/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/articles/news/tuned-c8-corvette-race-stock-lamborghini/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/articles/news/wrecked-c8-corvette-junkyard-auction/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/articles/news/totaled-2020-c8-corvette/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/articles/news/corvair-vindication-day-is-coming/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/articles/news/brief-history-of-the-now-classic-corvair/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/articles/handpicked/1963-chevrolet-corvair-greenbrier/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/articles/news/priciest-porsches-auction/"
+      ]
+    ],
+    [
+      "em"
+    ]
+  ],
+  "sections": [
+    [
+      1,
+      "h3",
+      [
+        [
+          0,
+          [],
+          0,
+          "To be, this is a rendering, but maybe someone will make it reality."
+        ]
+      ]
+    ],
+    [
+      10,
+      0
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Now that the "
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "C8 Corvette is out"
+        ],
+        [
+          0,
+          [],
+          0,
+          " and has "
+        ],
+        [
+          0,
+          [
+            1
+          ],
+          1,
+          "shown its mettle"
+        ],
+        [
+          0,
+          [],
+          0,
+          ", everyone knows "
+        ],
+        [
+          0,
+          [
+            2
+          ],
+          1,
+          "it’s the real deal"
+        ],
+        [
+          0,
+          [],
+          0,
+          ". That has led to "
+        ],
+        [
+          0,
+          [
+            3
+          ],
+          1,
+          "much fantasizing"
+        ],
+        [
+          0,
+          [],
+          0,
+          " about what could be done with the hardware on "
+        ],
+        [
+          0,
+          [
+            4
+          ],
+          1,
+          "C8s which have and will be wrecked"
+        ],
+        [
+          0,
+          [],
+          0,
+          ". Perhaps that was behind the inspiration of this "
+        ],
+        [
+          0,
+          [
+            5
+          ],
+          1,
+          "Chevrolet Corvair"
+        ],
+        [
+          0,
+          [],
+          0,
+          " rendering where it has the C8 engine stuffed in mid-ship."
+        ]
+      ]
+    ],
+    [
+      10,
+      1
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "If you immediately are thinking the "
+        ],
+        [
+          0,
+          [
+            6
+          ],
+          1,
+          "Corvair"
+        ],
+        [
+          0,
+          [],
+          0,
+          " had a rear engine layout, you’d be correct. In this Frankenstein digital project car, the C8 powerplant has been located ahead of the rear axle instead of behind, so it does sit in the middle. The dual-clutch transaxle from the C8 ‘Vette is also present."
+        ]
+      ]
+    ],
+    [
+      10,
+      2
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Obviously, the structure of the "
+        ],
+        [
+          0,
+          [
+            7
+          ],
+          1,
+          "Corvair"
+        ],
+        [
+          0,
+          [],
+          0,
+          " wouldn’t accommodate such a setup, so the artist added a custom cradle modeled after what you find in a "
+        ],
+        [
+          0,
+          [
+            8
+          ],
+          1,
+          "Porsche 550 Spyder"
+        ],
+        [
+          0,
+          [],
+          0,
+          ". A custom pushrod suspension uses the same geometry found on the Koenigsegg One to One. The artist even included bigger brakes in the rear to ensure the car is “safe at any speed.”"
+        ]
+      ]
+    ],
+    [
+      10,
+      3
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "A rear diffuser helps with aerodynamics, while there’s a custom air intake connected to the rear quarter windows to keep the LT2 properly fed. Overall, the look of the Corvair hasn’t been altered that much considering, but keep in mind this is a fantasy project and not reality. Were someone to actually do this with a Corvair some of the design might not actually work, but it does look cool."
+        ]
+      ]
+    ],
+    [
+      10,
+      4
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "There are a lot of mixed feelings about the Chevrolet Corvair. On one hand it was demonized by the likes of Ralph Nader, "
+        ],
+        [
+          0,
+          [
+            5
+          ],
+          0,
+          "who wrote the book "
+        ],
+        [
+          0,
+          [
+            9
+          ],
+          2,
+          "Unsafe at Any Speed"
+        ],
+        [
+          0,
+          [],
+          0,
+          " in 1965. The Corvair had become a symbol of unsafe automotive design, despite the fact there had been many European cars with similar designs for some time. On the other hand, there are diehard fans of the car who today try to buy and preserve the Corvairs which are left."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Is this Chevy Corvair with a C8 engine a cool idea or something you’d rather not see built ever?"
+        ]
+      ]
+    ],
+    [
+      10,
+      5
+    ],
+    [
+      1,
+      "p",
+      []
+    ]
+  ],
+  "ghostVersion": "3.0"
+}

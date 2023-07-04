@@ -1,0 +1,457 @@
+{
+  "version": "0.3.1",
+  "atoms": [],
+  "cards": [
+    [
+      "hr",
+      {}
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "html",
+      {
+        "html": "<table id=\"production-numbers-table\">\n<tbody>\n\t<tr>\n\t\t<td>2-Dr. Sports Coupe</td>\n\t\t<td>25,521</td>\n\t</tr>\n    <tr>\n\t\t<td>2-Dr. Convertible</td>\n\t\t<td>4,943</td>\n\t</tr>\n\t\t<td><b>Total Production</b></td>\n\t\t<td><b>30,464</b></td>\n\t</tr>\n</tbody>\n</table>"
+      }
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "html",
+      {
+        "html": "<table id=\"performance-specs-table\">\n<tbody>\n\t<tr>\n\t\t<th><b>Engine</b></th>\n\t\t<th><b>Size</b></td>\n\t\t<th><b>Carb.</b></td>\n\t\t<th><b>HP</b></td>\n\t\t<th><b>Torque</b></td>\n\t\t<th><b>0 to 60</b></td>\n\t\t<th><b>Quarter mile</b></td>\n\t</tr>\n\t<tr>\n\t\t<td>ZQ3</td>\n\t\t<td>350ci</td>\n\t\t<td>1x4bbl</td>\n\t\t<td>190hp</td>\n\t\t<td>300 lb-ft</td>\n\t\t<td>-</td>\n\t\t<td>-</td>\n\t</tr>\n    <tr>\n\t\t<td>LS4</td>\n\t\t<td>454ci</td>\n\t\t<td>1x4bbl</td>\n\t\t<td>275hp</td>\n\t\t<td>390 lb-ft</td>\n\t\t<td>7.2 sec</td>\n\t\t<td>15.5 sec @ 94 mph</td>\n\t</tr>\n    <tr>\n\t\t<td>LT82</td>\n\t\t<td>350ci</td>\n\t\t<td>1x4bbl</td>\n\t\t<td>250hp</td>\n\t\t<td>285 lb-ft</td>\n\t\t<td>-</td>\n\t\t<td>-</td>\n\t</tr>\n</tbody>\n</table>"
+      }
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "html",
+      {
+        "html": "<h4 id='colors-sub-heading'>Exterior</h4>\n<div class=\"colors-row\">\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #2b4d73\"></div>\n        <div class=\"color-name\">Corvette Medium Blue Metallic</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #1a2346\"></div>\n        <div class=\"color-name\">Corvette Dark Blue Metalic</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #2d493e\"></div>\n        <div class=\"color-name\">Corvette Blue/Green Metallic</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #c35d35\"></div>\n        <div class=\"color-name\">Corvette Orange Metallic</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #8d9193\"></div>\n        <div class=\"color-name\">Corvette Silver Metallic</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #ffc340\"></div>\n        <div class=\"color-name\">Corvette Yellow</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: ##a9873e\"></div>\n        <div class=\"color-name\">Corvette Yellow Metallic</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #d22e28\"></div>\n        <div class=\"color-name\">Mille Miglia Red</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #415435\"></div>\n        <div class=\"color-name\">Elkhart Green</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #eceddd\"></div>\n        <div class=\"color-name\">Classic White</div>\n    </div>\n</div>\n\n<h4 id='colors-sub-heading'>Interior</h4>\n<div class=\"colors-row\">\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #000000\"></div>\n        <div class=\"color-name\">Black</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #752929\"></div>\n        <div class=\"color-name\">Dark Red</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #0b253f\"></div>\n        <div class=\"color-name\">Midnight Blue</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #9d7051\"></div>\n        <div class=\"color-name\">Medium Saddle</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #64523c\"></div>\n        <div class=\"color-name\">>Dark saddle</div>\n    </div>\n</div>\n"
+      }
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "gallery",
+      {
+        "images": [
+          {
+            "fileName": "315_1_low_res.jpeg",
+            "row": 0,
+            "width": 698,
+            "height": 907,
+            "src": "__GHOST_URL__/content/images/2020/08/315_1_low_res.jpeg"
+          },
+          {
+            "fileName": "316_2_low_res.jpeg",
+            "row": 0,
+            "width": 790,
+            "height": 508,
+            "src": "__GHOST_URL__/content/images/2020/08/316_2_low_res.jpeg"
+          },
+          {
+            "fileName": "317_3_low_res.jpeg",
+            "row": 0,
+            "width": 790,
+            "height": 503,
+            "src": "__GHOST_URL__/content/images/2020/08/317_3_low_res.jpeg"
+          },
+          {
+            "fileName": "318_4_low_res.jpeg",
+            "row": 1,
+            "width": 759,
+            "height": 992,
+            "src": "__GHOST_URL__/content/images/2020/08/318_4_low_res.jpeg"
+          },
+          {
+            "fileName": "319_5_low_res.jpeg",
+            "row": 1,
+            "width": 750,
+            "height": 992,
+            "src": "__GHOST_URL__/content/images/2020/08/319_5_low_res.jpeg"
+          },
+          {
+            "fileName": "320_6_low_res.jpeg",
+            "row": 1,
+            "width": 757,
+            "height": 992,
+            "src": "__GHOST_URL__/content/images/2020/08/320_6_low_res.jpeg"
+          }
+        ],
+        "caption": "1973 Chevrolet Corvette OEM Brochures"
+      }
+    ],
+    [
+      "hr",
+      {}
+    ]
+  ],
+  "markups": [
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/articles/news/custom-show-corvette-spends-57-years/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/articles/news/corvette-callaway-sledgehammer/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/articles/handpicked/1967-427-corvette-beautifully/"
+      ]
+    ],
+    [
+      "em"
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/tag/research/"
+      ]
+    ]
+  ],
+  "sections": [
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Overview"
+        ]
+      ]
+    ],
+    [
+      10,
+      0
+    ],
+    [
+      1,
+      "h3",
+      [
+        [
+          0,
+          [],
+          0,
+          "The 1973 Corvette was the first to receive a significant restyle since the third-generation Corvettes were introduced in 1968, mainly due to the ever-increasing federal regulations."
+        ]
+      ]
+    ],
+    [
+      10,
+      1
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "The 1973 "
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "Corvette"
+        ],
+        [
+          0,
+          [],
+          0,
+          " was the first to receive a significant restyle since the third-generation "
+        ],
+        [
+          0,
+          [
+            1
+          ],
+          1,
+          "Corvettes"
+        ],
+        [
+          0,
+          [],
+          0,
+          " were introduced in 1968, mainly due to the ever-increasing federal regulations. The front bumper was replaced with a federally mandated 5 mph bumper that made the car 35 lbs heavier. That means the "
+        ],
+        [
+          0,
+          [
+            2
+          ],
+          1,
+          "Corvette"
+        ],
+        [
+          0,
+          [],
+          0,
+          " had a rubber front bumper and chrome rear bumper."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Radial tires were introduced as well as a new coolant recycling system."
+        ]
+      ]
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Production Numbers"
+        ]
+      ]
+    ],
+    [
+      10,
+      2
+    ],
+    [
+      10,
+      3
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Performance Specs"
+        ]
+      ]
+    ],
+    [
+      10,
+      4
+    ],
+    [
+      10,
+      5
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Transmission"
+        ]
+      ]
+    ],
+    [
+      10,
+      6
+    ],
+    [
+      3,
+      "ul",
+      [
+        [
+          [
+            0,
+            [],
+            0,
+            "3-Speed Automatic Turbo Hydra-Matic"
+          ]
+        ],
+        [
+          [
+            0,
+            [],
+            0,
+            "4-Speed Manual"
+          ]
+        ]
+      ]
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Paint & Colors"
+        ]
+      ]
+    ],
+    [
+      10,
+      7
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [
+            3,
+            3
+          ],
+          2,
+          "Insert Table (embed HTML)"
+        ]
+      ]
+    ],
+    [
+      10,
+      8
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "OEM Brochures"
+        ]
+      ]
+    ],
+    [
+      10,
+      9
+    ],
+    [
+      10,
+      10
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "About the Knowledge Base"
+        ]
+      ]
+    ],
+    [
+      10,
+      11
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "The Motorious Knowledge Base provides a comprehensive vehicle overview for the 1973 Chevrolet Corvette"
+        ],
+        [
+          0,
+          [
+            3,
+            3
+          ],
+          2,
+          " "
+        ],
+        [
+          0,
+          [],
+          0,
+          "including production numbers, performance specs, factory colors, and OEM brochures. Check out additional model years or related content linked to this article or view other Makes and Models in our "
+        ],
+        [
+          0,
+          [
+            4
+          ],
+          1,
+          "Research"
+        ],
+        [
+          0,
+          [],
+          0,
+          " center."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "If you have any interesting facts about the1973 Chevrolet Corvette"
+        ],
+        [
+          0,
+          [
+            3,
+            3
+          ],
+          2,
+          " "
+        ],
+        [
+          0,
+          [],
+          0,
+          "to add, want to tell us how we did covering the Corvette, or want to tell us about yours, please leave a comment below."
+        ]
+      ]
+    ]
+  ],
+  "ghostVersion": "3.0"
+}

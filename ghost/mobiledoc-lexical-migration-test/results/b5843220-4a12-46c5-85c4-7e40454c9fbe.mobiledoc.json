@@ -1,0 +1,456 @@
+{
+  "version": "0.3.1",
+  "atoms": [],
+  "cards": [
+    [
+      "hr",
+      {}
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "html",
+      {
+        "html": "<table id=\"production-numbers-table\">\n<tbody>\n\t<tr>\n\t\t<td>Fastback Coupe</td>\n\t\t<td>79,384</td>\n\t</tr>\n    \t<tr>\n\t\t<td>Custom Fastback Coupe</td>\n\t\t<td>38,826</td>\n\t</tr>\n    \t<tr>\n\t\t<td>Duster 360</td>\n\t\t<td>1,421</td>\n\t</tr>\n\t\t<td><b>Total Production</b></td>\n\t\t<td><b>119,631</b></td>\n\t</tr>\n</tbody>\n</table>"
+      }
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "html",
+      {
+        "html": "<table id=\"performance-specs-table\">\n<tbody>\n\t<tr>\n\t\t<th><b>Engine</b></th>\n\t\t<th><b>Size</b></td>\n\t\t<th><b>Carb.</b></td>\n\t\t<th><b>HP</b></td>\n\t\t<th><b>0 to 60</b></td>\n\t\t<th><b>Quarter mile</b></td>\n\t</tr>\n\t<tr>\n\t\t<td>Slant 6</td>\n\t\t<td>225ci</td>\n\t\t<td>1x1bbl</td>\n\t\t<td>90</td>\n\t\t<td>-</td>\n\t\t<td>-</td>\n\t</tr>\n\t<tr>\n\t\t<td>LA V8</td>\n\t\t<td>318ci</td>\n\t\t<td>1x2bbl</td>\n\t\t<td>135</td>\n\t\t<td>-</td>\n\t\t<td>-</td>\n\t</tr>\n\t<tr>\n\t\t<td>LA V8</td>\n\t\t<td>360ci</td>\n\t\t<td>1x4bbl</td>\n\t\t<td>230</td>\n\t\t<td>6.9 sec</td>\n\t\t<td>15.4 sec at 86 mph</td>\n\t</tr>\n</tbody>\n</table>"
+      }
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "html",
+      {
+        "html": "<h4 id='colors-sub-heading'>Exterior</h4>\n<div class=\"colors-row\">\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #a9adae\"></div>\n        <div class=\"color-name\">Silver Cloud</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #72302c\"></div>\n        <div class=\"color-name\">Vintage Red</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #c7b99c\"></div>\n        <div class=\"color-name\">Sahara Beige</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #f8f2dc\"></div>\n        <div class=\"color-name\">Spinnaker White</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #96bbcb\"></div>\n        <div class=\"color-name\">Powder Blue</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #8aa087\"></div>\n        <div class=\"color-name\">Frosty Green</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #76684c\"></div>\n        <div class=\"color-name\">Moondust</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #b39e67\"></div>\n        <div class=\"color-name\">Golden Fawn</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #6a93b6\"></div>\n        <div class=\"color-name\">Astral Blue</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #2f4432\"></div>\n        <div class=\"color-name\">Deep Sherwood</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #885f22\"></div>\n        <div class=\"color-name\">Aztec Gold</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #fbdf78\"></div>\n        <div class=\"color-name\">Yellow Blaze</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #3e6592\"></div>\n        <div class=\"color-name\">Lucerne Blue</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #aea894\"></div>\n        <div class=\"color-name\">Platinum</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #602609\"></div>\n        <div class=\"color-name\">Cinnamon</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #b59c63\"></div>\n        <div class=\"color-name\">Inca Gold</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #3d4861\"></div>\n        <div class=\"color-name\">Starlight Blue</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #787739\"></div>\n        <div class=\"color-name\">Avocado Gold</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #ab6646\"></div>\n        <div class=\"color-name\">Sienna</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #8a6a40\"></div>\n        <div class=\"color-name\">Spanish Gold</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #c02424\"></div>\n        <div class=\"color-name\">Rallye Red</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #b06358\"></div>\n        <div class=\"color-name\">Bittersweet</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #51360b\"></div>\n        <div class=\"color-name\">Dark Chestnut</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #000000\"></div>\n        <div class=\"color-name\">Formal Black</div>\n    </div>\n</div>\n\n<h4 id='colors-sub-heading'>Interior</h4>\n<div class=\"colors-row\">\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #e8e1c7\"></div>\n        <div class=\"color-name\">White</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #584f4a\"></div>\n        <div class=\"color-name\">Dark Parchment</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #7b6845\"></div>\n        <div class=\"color-name\">Dark Gold</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #3c5067\"></div>\n        <div class=\"color-name\">Dark Blue</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #bcb296\"></div>\n        <div class=\"color-name\">Light Parchment</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #5b4035\"></div>\n        <div class=\"color-name\">Dark Chestnut</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #35413d\"></div>\n        <div class=\"color-name\">Dark Green</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #553738\"></div>\n        <div class=\"color-name\">Dark Red</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #ac9966\"></div>\n        <div class=\"color-name\">Light Gold</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #42574f\"></div>\n        <div class=\"color-name\">Dark Green</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #000000\"></div>\n        <div class=\"color-name\">Black</div>\n    </div>\n</div>\n"
+      }
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "gallery",
+      {
+        "images": [
+          {
+            "fileName": "2746_1_low_res.jpg",
+            "row": 0,
+            "width": 790,
+            "height": 642,
+            "src": "__GHOST_URL__/content/images/2020/08/2746_1_low_res.jpg"
+          },
+          {
+            "fileName": "2747_2_low_res.jpg",
+            "row": 0,
+            "width": 790,
+            "height": 649,
+            "src": "__GHOST_URL__/content/images/2020/08/2747_2_low_res.jpg"
+          },
+          {
+            "fileName": "2748_3_low_res.jpg",
+            "row": 0,
+            "width": 790,
+            "height": 652,
+            "src": "__GHOST_URL__/content/images/2020/08/2748_3_low_res.jpg"
+          },
+          {
+            "fileName": "2749_4_low_res.jpg",
+            "row": 1,
+            "width": 790,
+            "height": 646,
+            "src": "__GHOST_URL__/content/images/2020/08/2749_4_low_res.jpg"
+          },
+          {
+            "fileName": "2750_5_low_res.jpg",
+            "row": 1,
+            "width": 790,
+            "height": 633,
+            "src": "__GHOST_URL__/content/images/2020/08/2750_5_low_res.jpg"
+          },
+          {
+            "fileName": "2751_29_low_res.jpg",
+            "row": 1,
+            "width": 790,
+            "height": 652,
+            "src": "__GHOST_URL__/content/images/2020/08/2751_29_low_res.jpg"
+          },
+          {
+            "fileName": "2752_30_low_res.jpg",
+            "row": 2,
+            "width": 790,
+            "height": 650,
+            "src": "__GHOST_URL__/content/images/2020/08/2752_30_low_res.jpg"
+          },
+          {
+            "fileName": "2753_31_low_res.jpg",
+            "row": 2,
+            "width": 790,
+            "height": 658,
+            "src": "__GHOST_URL__/content/images/2020/08/2753_31_low_res.jpg"
+          },
+          {
+            "fileName": "2754_32_low_res.jpg",
+            "row": 2,
+            "width": 790,
+            "height": 655,
+            "src": "__GHOST_URL__/content/images/2020/08/2754_32_low_res.jpg"
+          }
+        ],
+        "caption": "1975 Plymouth Duster OEM Brochures"
+      }
+    ],
+    [
+      "hr",
+      {}
+    ]
+  ],
+  "markups": [
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/articles/research/1965-plymouth-barracuda/"
+      ]
+    ],
+    [
+      "strong"
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/tag/research/"
+      ]
+    ],
+    [
+      "em"
+    ]
+  ],
+  "sections": [
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Overview"
+        ]
+      ]
+    ],
+    [
+      10,
+      0
+    ],
+    [
+      1,
+      "h3",
+      [
+        [
+          0,
+          [],
+          0,
+          "The 1975 models were mostly unchanged from the previous two years, with some exceptions. "
+        ]
+      ]
+    ],
+    [
+      10,
+      1
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "The 1975 models were mostly unchanged from the previous two years, with some exceptions: a new grille with a return of the "
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "Plymouth"
+        ],
+        [
+          0,
+          [],
+          0,
+          " 3-pointed-'spear' affixed to the grille's center; catalytic converters were added to 225 Slant Six and 318 V8 models (the 360 was not equipped with a converter and its power was now 230 hp (175 kW), due to the addition of a secondary air injection system, commonly referred to as a \"smog pump\"."
+        ]
+      ]
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Production Numbers"
+        ]
+      ]
+    ],
+    [
+      10,
+      2
+    ],
+    [
+      10,
+      3
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Performance Specs"
+        ]
+      ]
+    ],
+    [
+      10,
+      4
+    ],
+    [
+      10,
+      5
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Transmission"
+        ]
+      ]
+    ],
+    [
+      10,
+      6
+    ],
+    [
+      3,
+      "ul",
+      [
+        [
+          [
+            0,
+            [
+              1,
+              1
+            ],
+            1,
+            "3-speed "
+          ],
+          [
+            0,
+            [],
+            0,
+            "M"
+          ],
+          [
+            0,
+            [
+              1
+            ],
+            2,
+            "anual"
+          ]
+        ],
+        [
+          [
+            0,
+            [
+              1,
+              1
+            ],
+            1,
+            "4-speed "
+          ],
+          [
+            0,
+            [],
+            0,
+            "M"
+          ],
+          [
+            0,
+            [
+              1
+            ],
+            2,
+            "anual"
+          ]
+        ],
+        [
+          [
+            0,
+            [
+              1,
+              1
+            ],
+            1,
+            "3-speed TorqueFlite "
+          ],
+          [
+            0,
+            [],
+            0,
+            "A"
+          ],
+          [
+            0,
+            [
+              1
+            ],
+            2,
+            "uto"
+          ]
+        ]
+      ]
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Paint & Colors"
+        ]
+      ]
+    ],
+    [
+      10,
+      7
+    ],
+    [
+      10,
+      8
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "OEM Brochures"
+        ]
+      ]
+    ],
+    [
+      10,
+      9
+    ],
+    [
+      10,
+      10
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "About the Knowledge Base"
+        ]
+      ]
+    ],
+    [
+      10,
+      11
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "The Motorious Knowledge Base provides a comprehensive vehicle overview for the 1975 Plymouth Duster including production numbers, performance specs, factory colors, and OEM brochures. Check out additional model years or related content linked to this article or view other Makes and Models in our "
+        ],
+        [
+          0,
+          [
+            2
+          ],
+          1,
+          "Research"
+        ],
+        [
+          0,
+          [],
+          0,
+          " center."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "If you have any interesting facts about the 1975 Plymouth Duster"
+        ],
+        [
+          0,
+          [
+            3,
+            3
+          ],
+          2,
+          " "
+        ],
+        [
+          0,
+          [],
+          0,
+          "to add, want to tell us how we did covering the Duster, or want to tell us about yours, please leave a comment below."
+        ]
+      ]
+    ]
+  ],
+  "ghostVersion": "3.0"
+}

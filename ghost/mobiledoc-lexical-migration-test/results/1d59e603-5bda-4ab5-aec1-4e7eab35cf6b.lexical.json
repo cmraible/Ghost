@@ -1,0 +1,584 @@
+{
+  "root": {
+    "children": [
+      {
+        "children": [
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": "Overview",
+            "type": "text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "heading",
+        "tag": "h3",
+        "version": 1
+      },
+      {
+        "type": "horizontalrule"
+      },
+      {
+        "children": [
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": "1970 marked the second-generation of the Firebird. ",
+            "type": "text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "heading",
+        "tag": "h3",
+        "version": 1
+      },
+      {
+        "type": "horizontalrule"
+      },
+      {
+        "children": [
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": "It got off to a late start because of engineering problems, and production didn’t begin until early 1970 leading to a commonly used term of 1970 ½.",
+            "type": "text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "paragraph",
+        "version": 1
+      },
+      {
+        "children": [
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": "The drastic styling made up for the late entry. Edmunds.com said the new striking car was “a muscle car with styling that looked as if it had been designed in Italy.” It now sported the Endura bumper and was the same color as the car giving it a unique, bumper less looking front.",
+            "type": "text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "paragraph",
+        "version": 1
+      },
+      {
+        "children": [
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": "Production Numbers",
+            "type": "text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "heading",
+        "tag": "h2",
+        "version": 1
+      },
+      {
+        "type": "horizontalrule"
+      },
+      {
+        "type": "html",
+        "html": "<table id=\"production-numbers-table\">\n    <tbody>\n      <tr><td>Coupe</td><td>18,874</td></tr>\n      <tr><td>Esprit</td><td>18,961</td></tr>\n       <tr><td>Formula 400</td><td>7,708</td></tr>\n      <tr><td>Trans Am</td><td>3,196</td></tr>\n      <td><b>Total Production</b></td><td><b>48,739</b></td></tr>\n</tbody>\n</table>"
+      },
+      {
+        "children": [
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": "Performance Specs",
+            "type": "text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "heading",
+        "tag": "h2",
+        "version": 1
+      },
+      {
+        "type": "horizontalrule"
+      },
+      {
+        "type": "html",
+        "html": "<table id=\"performance-specs-table\">\n<tbody>\n\t<tr>\n\t\t<th><b>Engine</b></th>\n\t\t<th><b>Size</b></td>\n\t\t<th><b>Carb.</b></td>\n\t\t<th><b>HP</b></td>\n\t\t<th><b>Torque</b></td>\n\t\t<th><b>0 to 60</b></td>\n\t\t<th><b>Quarter mile</b></td>\n\t</tr>\n\t<tr>\n\t\t<td>I6</td>\n\t\t<td>250ci</td>\n\t\t<td>1x1bbl</td>\n\t\t<td>155 hp</td>\n\t\t<td>235 lb-ft</td>\n\t\t<td>-</td>\n\t\t<td>-</td>\n\t</tr>\n<tr>\n\t\t<td>V8</td>\n\t\t<td>350ci</td>\n\t\t<td>1x2bbl</td>\n\t\t<td>255 hp</td>\n\t\t<td>355 lb-ft</td>\n\t\t<td>-</td>\n\t\t<td>-</td>\n\t</tr>\n<tr>\n\t\t<td>V8</td>\n\t\t<td>400ci</td>\n\t\t<td>1x4bbl</td>\n\t\t<td>330 hp</td>\n\t\t<td>430 lb-ft</td>\n\t\t<td>-</td>\n\t\t<td>-</td>\n\t</tr>\n<tr>\n\t\t<td>Ram Air III</td>\n\t\t<td>400 ci</td>\n\t\t<td>1x4bbl</td>\n\t\t<td>335 hp</td>\n\t\t<td>430 lb-ft</td>\n\t\t<td>-</td>\n\t\t<td>-</td>\n\t</tr>\n<tr>\n\t\t<td>Ram Air IV</td>\n\t\t<td>400ci</td>\n\t\t<td>1x4bbl</td>\n\t\t<td>345 hp</td>\n\t\t<td>430 lb-ft</td>\n\t\t<td>-</td>\n\t\t<td>-</td>\n\t</tr>\n<tr>\n\t\t<td>V8</td>\n\t\t<td>400ci</td>\n\t\t<td>1x2bbl</td>\n\t\t<td>265 hp</td>\n\t\t<td>397 lb-ft</td>\n\t\t<td>-</td>\n\t\t<td>-</td>\n\t</tr>\n</tbody>\n</table>"
+      },
+      {
+        "children": [
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": "Transmission",
+            "type": "text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "heading",
+        "tag": "h2",
+        "version": 1
+      },
+      {
+        "type": "horizontalrule"
+      },
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "detail": 0,
+                "format": 0,
+                "mode": "normal",
+                "style": "",
+                "text": "3-Speed Column",
+                "type": "text",
+                "version": 1
+              }
+            ],
+            "direction": "ltr",
+            "format": "",
+            "indent": 0,
+            "type": "listitem",
+            "value": 1,
+            "version": 1
+          },
+          {
+            "children": [
+              {
+                "detail": 0,
+                "format": 0,
+                "mode": "normal",
+                "style": "",
+                "text": "3-Speed Manual",
+                "type": "text",
+                "version": 1
+              }
+            ],
+            "direction": "ltr",
+            "format": "",
+            "indent": 0,
+            "type": "listitem",
+            "value": 2,
+            "version": 1
+          },
+          {
+            "children": [
+              {
+                "detail": 0,
+                "format": 0,
+                "mode": "normal",
+                "style": "",
+                "text": "4-Speed Close Ratio",
+                "type": "text",
+                "version": 1
+              }
+            ],
+            "direction": "ltr",
+            "format": "",
+            "indent": 0,
+            "type": "listitem",
+            "value": 3,
+            "version": 1
+          },
+          {
+            "children": [
+              {
+                "detail": 0,
+                "format": 0,
+                "mode": "normal",
+                "style": "",
+                "text": "4-Speed Wide Ratio",
+                "type": "text",
+                "version": 1
+              }
+            ],
+            "direction": "ltr",
+            "format": "",
+            "indent": 0,
+            "type": "listitem",
+            "value": 4,
+            "version": 1
+          },
+          {
+            "children": [
+              {
+                "detail": 0,
+                "format": 0,
+                "mode": "normal",
+                "style": "",
+                "text": "Turbo Hydra-Matic 350",
+                "type": "text",
+                "version": 1
+              }
+            ],
+            "direction": "ltr",
+            "format": "",
+            "indent": 0,
+            "type": "listitem",
+            "value": 5,
+            "version": 1
+          },
+          {
+            "children": [
+              {
+                "detail": 0,
+                "format": 0,
+                "mode": "normal",
+                "style": "",
+                "text": "Turbo Hydra-Matic 400",
+                "type": "text",
+                "version": 1
+              }
+            ],
+            "direction": "ltr",
+            "format": "",
+            "indent": 0,
+            "type": "listitem",
+            "value": 6,
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "tag": "ul",
+        "type": "list",
+        "listType": "bullet",
+        "start": 1,
+        "version": 1
+      },
+      {
+        "children": [
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": "Paint & Colors",
+            "type": "text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "heading",
+        "tag": "h2",
+        "version": 1
+      },
+      {
+        "type": "horizontalrule"
+      },
+      {
+        "type": "html",
+        "html": "<h4 id='colors-sub-heading'>Exterior</h4>\n<div class=\"colors-row\">\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #eceddd\"></div>\n        <div class=\"color-name\">Polar White</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #4f6b8d\"></div>\n        <div class=\"color-name\">Bermuda Blue</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #1f2c43\"></div>\n        <div class=\"color-name\">Atoll Blue</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #6f8068\"></div>\n        <div class=\"color-name\">Palisade Green</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #fdf142\"></div>\n        <div class=\"color-name\">Goldenrod Yellow</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #746747\"></div>\n        <div class=\"color-name\">Granada Gold</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #c73e22\"></div>\n        <div class=\"color-name\">Carousel Red</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #a12a2c\"></div>\n        <div class=\"color-name\">Cardinal Red</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #747b80\"></div>\n        <div class=\"color-name\">Palladium Silver</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #2b4d73\"></div>\n        <div class=\"color-name\">Lucerne Blue</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #62693a\"></div>\n        <div class=\"color-name\">Keylime Green</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #4e523b\"></div>\n        <div class=\"color-name\">Verdoro Green</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #9e7430\"></div>\n        <div class=\"color-name\">Coronado Gold</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #968668\"></div>\n        <div class=\"color-name\">Palomino Copper</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #562d23\"></div>\n        <div class=\"color-name\">Castillian Bronze</div>\n  </div>\n</div>\n\n<h4 id='colors-sub-heading'>Interior</h4>\n<div class=\"colors-row\">\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #000000\"></div>\n        <div class=\"color-name\">Black</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #b8aba3\"></div>\n        <div class=\"color-name\">Saddle</div>\n    </div>    \n    \t<div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #b5b6b3\"></div>\n        <div class=\"color-name\">Sandalwood</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #0198be\"></div>\n        <div class=\"color-name\">Blue</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #3f4c40\"></div>\n        <div class=\"color-name\">Green</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #851a2a\"></div>\n        <div class=\"color-name\">Red</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #689097\"></div>\n        <div class=\"color-name\">Aqua</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #889097\"></div>\n        <div class=\"color-name\">Silver</div>\n    </div>\n</div>\n"
+      },
+      {
+        "children": [
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": "OEM Brochures",
+            "type": "text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "heading",
+        "tag": "h2",
+        "version": 1
+      },
+      {
+        "type": "horizontalrule"
+      },
+      {
+        "type": "gallery",
+        "images": [
+          {
+            "fileName": "678_1_low_res1.jpeg",
+            "row": 0,
+            "width": 790,
+            "height": 649,
+            "src": "__GHOST_URL__/content/images/2020/06/678_1_low_res1.jpeg"
+          },
+          {
+            "fileName": "679_2_low_res2.jpeg",
+            "row": 0,
+            "width": 790,
+            "height": 323,
+            "src": "__GHOST_URL__/content/images/2020/06/679_2_low_res2.jpeg"
+          },
+          {
+            "fileName": "680_3_low_res3.jpeg",
+            "row": 0,
+            "width": 790,
+            "height": 325,
+            "src": "__GHOST_URL__/content/images/2020/06/680_3_low_res3.jpeg"
+          },
+          {
+            "fileName": "681_4_low_res4.jpeg",
+            "row": 1,
+            "width": 790,
+            "height": 651,
+            "src": "__GHOST_URL__/content/images/2020/06/681_4_low_res4.jpeg"
+          },
+          {
+            "fileName": "682_5_low_res5.jpeg",
+            "row": 1,
+            "width": 790,
+            "height": 652,
+            "src": "__GHOST_URL__/content/images/2020/06/682_5_low_res5.jpeg"
+          },
+          {
+            "fileName": "683_6_low_res6.jpeg",
+            "row": 1,
+            "width": 790,
+            "height": 325,
+            "src": "__GHOST_URL__/content/images/2020/06/683_6_low_res6.jpeg"
+          },
+          {
+            "fileName": "684_7_low_res7.jpeg",
+            "row": 2,
+            "width": 790,
+            "height": 651,
+            "src": "__GHOST_URL__/content/images/2020/06/684_7_low_res7.jpeg"
+          },
+          {
+            "fileName": "685_8_low_res8.jpeg",
+            "row": 2,
+            "width": 790,
+            "height": 650,
+            "src": "__GHOST_URL__/content/images/2020/06/685_8_low_res8.jpeg"
+          },
+          {
+            "fileName": "686_9_low_res9.jpeg",
+            "row": 2,
+            "width": 790,
+            "height": 324,
+            "src": "__GHOST_URL__/content/images/2020/06/686_9_low_res9.jpeg"
+          }
+        ]
+      },
+      {
+        "type": "gallery",
+        "images": [
+          {
+            "fileName": "687_10_low_res10.jpeg",
+            "row": 0,
+            "width": 790,
+            "height": 652,
+            "src": "__GHOST_URL__/content/images/2020/06/687_10_low_res10.jpeg"
+          },
+          {
+            "fileName": "688_11_low_res11.jpeg",
+            "row": 0,
+            "width": 790,
+            "height": 649,
+            "src": "__GHOST_URL__/content/images/2020/06/688_11_low_res11.jpeg"
+          },
+          {
+            "fileName": "689_12_low_res13.jpeg",
+            "row": 0,
+            "width": 790,
+            "height": 325,
+            "src": "__GHOST_URL__/content/images/2020/06/689_12_low_res13.jpeg"
+          },
+          {
+            "fileName": "690_13_low_res14.jpeg",
+            "row": 1,
+            "width": 790,
+            "height": 652,
+            "src": "__GHOST_URL__/content/images/2020/06/690_13_low_res14.jpeg"
+          },
+          {
+            "fileName": "691_14_low_res15.jpeg",
+            "row": 1,
+            "width": 790,
+            "height": 654,
+            "src": "__GHOST_URL__/content/images/2020/06/691_14_low_res15.jpeg"
+          },
+          {
+            "fileName": "692_15_low_res16.jpeg",
+            "row": 1,
+            "width": 790,
+            "height": 649,
+            "src": "__GHOST_URL__/content/images/2020/06/692_15_low_res16.jpeg"
+          }
+        ],
+        "caption": "1970 Pontiac Firebird OEM Brochures"
+      },
+      {
+        "children": [
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": "About the Knowledge Base",
+            "type": "text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "heading",
+        "tag": "h2",
+        "version": 1
+      },
+      {
+        "type": "horizontalrule"
+      },
+      {
+        "children": [
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": "The Motorious Knowledge Base provides a comprehensive vehicle overview for the 1970 Pontiac Firebird",
+            "type": "text",
+            "version": 1
+          },
+          {
+            "detail": 0,
+            "format": 2,
+            "mode": "normal",
+            "style": "",
+            "text": " ",
+            "type": "text",
+            "version": 1
+          },
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": "including production numbers, performance specs, factory colors, and OEM brochures. Check out additional model years or related content linked to this article or view other Makes and Models in our ",
+            "type": "text",
+            "version": 1
+          },
+          {
+            "children": [
+              {
+                "detail": 0,
+                "format": 0,
+                "mode": "normal",
+                "style": "",
+                "text": "Research",
+                "type": "text",
+                "version": 1
+              }
+            ],
+            "direction": "ltr",
+            "format": "",
+            "indent": 0,
+            "type": "link",
+            "rel": null,
+            "target": null,
+            "title": null,
+            "url": "__GHOST_URL__/tag/research/",
+            "version": 1
+          },
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": " center.",
+            "type": "text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "paragraph",
+        "version": 1
+      },
+      {
+        "children": [
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": "If you have any interesting facts about the 1970 Pontiac Firebird",
+            "type": "text",
+            "version": 1
+          },
+          {
+            "detail": 0,
+            "format": 2,
+            "mode": "normal",
+            "style": "",
+            "text": " ",
+            "type": "text",
+            "version": 1
+          },
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": "to add, want to tell us how we did covering the Firebird, or want to tell us about yours, please leave a comment below.",
+            "type": "text",
+            "version": 1
+          },
+          {
+            "type": "linebreak",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "paragraph",
+        "version": 1
+      }
+    ],
+    "direction": "ltr",
+    "format": "",
+    "indent": 0,
+    "type": "root",
+    "version": 1
+  }
+}

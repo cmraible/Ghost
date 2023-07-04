@@ -1,0 +1,943 @@
+{
+  "version": "0.3.1",
+  "atoms": [],
+  "cards": [
+    [
+      "email-cta",
+      {
+        "showButton": true,
+        "showDividers": false,
+        "segment": "status:-free",
+        "alignment": "center",
+        "html": "<p><em><strong>This is Lever Weekly, a supporting subscriber-only feature that reviews our reporting from the past week, plus major must-reads from around the world. If you only read one email from us all week, this one should be it.</strong></em></p>",
+        "buttonText": "Click Here To Comment",
+        "buttonUrl": "__GHOST_URL__/lever-weekly-high-unemployment-is-not-a-cure/#comments"
+      }
+    ],
+    [
+      "email",
+      {
+        "html": "<p><strong><u><em><a href=\"https://twitter.com/intent/tweet?text=Economists%20like%20Larry%20Summers%20are%20dangerously%20suggesting%20mass%20unemployment%20would%20address%20inflation.%20The%20so-called%20solution%20threatens%20our%20already%20imperiled%20democracy.%20https%3A%2F%2Fwww.levernews.com%2Flever-weekly-high-unemployment-is-not-a-cure%2F%3Futm_source%3Dtwitter%26utm_medium%3Dlink%26utm_campaign%3Dtw-prefill\">Click to share on Twitter</a></em></u></strong></p>"
+      }
+    ],
+    [
+      "email",
+      {
+        "html": "<p><em><strong><a href=\"https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.levernews.com%2Flever-weekly-high-unemployment-is-not-a-cure%2F&amp;amp;src=sdkpreparse\">Click to share on Facebook</a></strong></em></p>"
+      }
+    ],
+    [
+      "paywall",
+      {}
+    ],
+    [
+      "button",
+      {
+        "alignment": "center",
+        "buttonText": "Tip Jar",
+        "buttonUrl": "https://dailyposter.outpost.pub/ghost-integration/60818189ad12f332071054b8/tips"
+      }
+    ],
+    [
+      "embed",
+      {
+        "url": "https://www.youtube.com/watch?v=3IrEQ0M0M8o",
+        "html": "<iframe width=\"200\" height=\"113\" src=\"https://www.youtube.com/embed/3IrEQ0M0M8o?feature=oembed\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen title=\"The Lever: The Man Who Bought The Supreme Court\"></iframe>",
+        "type": "video",
+        "metadata": {
+          "title": "The Lever: The Man Who Bought The Supreme Court",
+          "author_name": "The Lever",
+          "author_url": "https://www.youtube.com/c/LeverNews",
+          "height": 113,
+          "width": 200,
+          "version": "1.0",
+          "provider_name": "YouTube",
+          "provider_url": "https://www.youtube.com/",
+          "thumbnail_height": 360,
+          "thumbnail_width": 480,
+          "thumbnail_url": "https://i.ytimg.com/vi/3IrEQ0M0M8o/hqdefault.jpg"
+        }
+      }
+    ],
+    [
+      "email-cta",
+      {
+        "showButton": true,
+        "showDividers": false,
+        "segment": "status:-free",
+        "alignment": "center",
+        "html": "",
+        "buttonText": "Click Here To Comment",
+        "buttonUrl": "__GHOST_URL__/lever-weekly-high-unemployment-is-not-a-cure/#comments"
+      }
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "email-cta",
+      {
+        "showButton": true,
+        "showDividers": false,
+        "segment": "status:-free",
+        "alignment": "center",
+        "html": "",
+        "buttonText": "Tip Jar",
+        "buttonUrl": "https://dailyposter.outpost.pub/ghost-integration/60818189ad12f332071054b8/tips"
+      }
+    ],
+    [
+      "email",
+      {
+        "html": "<p><em><strong>Help us spread the word! </strong>Please forward this email to family and friends.</em></p><p><em><strong>Was this email forwarded to you? </strong><a href=\"https://levernews.com/membership/?utm_source=weekly&amp;utm_medium=link&amp;utm_campaign=forward-signup\">Sign up for free</a> to receive original reporting like this in your inbox every day.</em></p>"
+      }
+    ]
+  ],
+  "markups": [
+    [
+      "em"
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/democrats-could-still-pass-some-of-their-agenda/"
+      ]
+    ],
+    [
+      "strong"
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/bidens-staff-sounds-climate-alarm-about-biden/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/lawmakers-arent-disclosing-their-next-jobs/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/you-love-to-see-it-action-gets-the-goods/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://subscribe.transistor.fm/56df12dae116ee/listen/d11883f5"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/he-man-who-bought-the-supreme-court/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://zacharydcarter.substack.com/p/on-economics-and-democracy"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://theintercept.com/2022/07/29/bank-of-america-worker-conditions-worse/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://newrepublic.com/article/167141/monkeypox-global-emergency-children?utm_medium=Social&utm_campaign=EB_TNR&utm_source=Twitter#Echobox=1658769247-1"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://slate.com/news-and-politics/2022/07/abortion-ban-hospital-ethics-committee-mother-life-death.html"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://boltsmag.org/georgia-abortion-ban-probation-parole-travel-restrictions/"
+      ]
+    ]
+  ],
+  "sections": [
+    [
+      10,
+      0
+    ],
+    [
+      10,
+      1
+    ],
+    [
+      10,
+      2
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Earlier this week, John Maynard Keynes historian Zachary Carter spoke at a gathering focused on making the economy work for working people."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Carter’s talk — the full text of which he published on his Substack, “In The Long Run” — covers a lot of ground: the anti-Black, anti-immigrant, anti-worker history of America’s Democratic party, and the party’s general incompetence until Franklin Roosevelt, whose policy reforms created a nationwide social safety net, won the presidency."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "The key to Roosevelt’s effectiveness? “This was a comprehensive rejection of both the laissez-faire ideal that had dominated American political discourse and of the elite corporate favoritism that had dominated American policymaking in practice,” said Carter."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "As we highlight below, our country’s leaders today would be wise to revisit this history lesson in their pursuit of sound policymaking to tackle inflation, rather than heeding the poor advice of economists more invested in maintaining a status quo that favors the corporate elite over the vast majority of working Americans."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Read all about it in this week’s "
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "Lever Weekly"
+        ],
+        [
+          0,
+          [],
+          0,
+          ", exclusively for supporting subscribers below."
+        ]
+      ]
+    ],
+    [
+      10,
+      3
+    ],
+    [
+      1,
+      "h3",
+      [
+        [
+          0,
+          [],
+          0,
+          "Stuff The Lever Reported This Week:"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "• "
+        ],
+        [
+          0,
+          [
+            1,
+            2
+          ],
+          2,
+          "Democrats Could Still Pass Some Of Their Agenda"
+        ],
+        [
+          0,
+          [],
+          0,
+          " —"
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          " “"
+        ],
+        [
+          0,
+          [],
+          0,
+          "The Lever "
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "team read the bill so you don’t have to. Here’s the good, the bad, and the ugly of the legislation’s key health care, energy and climate, and tax provisions.”"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [
+            2
+          ],
+          1,
+          "• "
+        ],
+        [
+          0,
+          [
+            3,
+            2
+          ],
+          2,
+          "Biden's Staff Sounds Climate Alarm — About Biden"
+        ],
+        [
+          0,
+          [
+            2
+          ],
+          1,
+          " "
+        ],
+        [
+          0,
+          [],
+          0,
+          "— "
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          0,
+          "“"
+        ],
+        [
+          0,
+          [],
+          1,
+          "The letter to Biden and Senate Majority Leader Chuck Schumer (D-N.Y.) — provided to "
+        ],
+        [
+          0,
+          [],
+          0,
+          "The Lever"
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          0,
+          " "
+        ],
+        [
+          0,
+          [],
+          1,
+          "by a House Democratic staffer — is initialed by 165 staffers at federal health and environmental agencies and at more than 80 congressional offices. They are demanding the president use more aggressive tactics to pass his long-promised climate agenda through the Senate.”"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [
+            2
+          ],
+          1,
+          "• "
+        ],
+        [
+          0,
+          [
+            4,
+            2
+          ],
+          2,
+          "Lawmakers Aren’t Disclosing Their Next Jobs"
+        ],
+        [
+          0,
+          [],
+          0,
+          " — "
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "“A 2007 law requires retiring lawmakers to notify a congressional ethics committee when they begin negotiating for a new job. But in the 15 years since the law took effect, more than 500 federal lawmakers have retired, with many taking lucrative gigs as lobbyists, lawyers or trade association officials — and only 18 departing representatives and senators have filed such disclosures, according to a review by "
+        ],
+        [
+          0,
+          [],
+          0,
+          "The Lever"
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          ".”"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [
+            2
+          ],
+          1,
+          "• "
+        ],
+        [
+          0,
+          [
+            5,
+            2
+          ],
+          2,
+          "YOU LOVE TO SEE IT: “Action Gets The Goods.”"
+        ],
+        [
+          0,
+          [
+            2
+          ],
+          1,
+          " "
+        ],
+        [
+          0,
+          [],
+          0,
+          "—"
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          " “Good things are happening! The congressional staffer sit-in pushed Democratic leadership and the Senate to reopen negotiations on a significant climate spending package. Also, farmworkers in California join the state labor federation with assertive new leadership, solar power technology is cheaper than ever, and investigative journalism helped deliver the second largest redlining settlement in U.S. history.”"
+        ]
+      ]
+    ],
+    [
+      10,
+      4
+    ],
+    [
+      1,
+      "h3",
+      [
+        [
+          0,
+          [],
+          0,
+          "Stuff To Watch & Listen To:"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [
+            2
+          ],
+          1,
+          "• "
+        ],
+        [
+          0,
+          [
+            6,
+            2
+          ],
+          2,
+          "LEVER TIME PREMIUM: How Corporations Can Put You In Jail"
+        ],
+        [
+          0,
+          [
+            2
+          ],
+          1,
+          " "
+        ],
+        [
+          0,
+          [],
+          0,
+          "—"
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          0,
+          " "
+        ],
+        [
+          0,
+          [],
+          1,
+          "On this week’s "
+        ],
+        [
+          0,
+          [],
+          0,
+          "Lever Time"
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          " Premium: David discusses Biden’s climate inaction; explores the history of nuclear energy; interviews human rights attorney and ex-Chevron prisoner Steven Donziger; and "
+        ],
+        [
+          0,
+          [],
+          0,
+          "The Lever"
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "’s staff discuss how congressional staffers are organizing."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [
+            2
+          ],
+          1,
+          "• "
+        ],
+        [
+          0,
+          [
+            7,
+            2
+          ],
+          2,
+          "VIDEO: The Man Who Bought The Supreme Court"
+        ],
+        [
+          0,
+          [
+            2
+          ],
+          1,
+          " "
+        ],
+        [
+          0,
+          [],
+          0,
+          "— “"
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "As our latest video demonstrates, anti-abortion activist Leonard Leo built a dark-money network that helped shape the Supreme Court’s conservative supermajority, and then brought them the tools to overturn "
+        ],
+        [
+          0,
+          [],
+          0,
+          "Roe v. Wade"
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          ".”"
+        ]
+      ]
+    ],
+    [
+      10,
+      5
+    ],
+    [
+      1,
+      "h3",
+      [
+        [
+          0,
+          [],
+          0,
+          "Stuff We’re Reading:"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [
+            2
+          ],
+          1,
+          "• "
+        ],
+        [
+          0,
+          [
+            8,
+            2
+          ],
+          2,
+          "On Economics And Democracy"
+        ],
+        [
+          0,
+          [],
+          0,
+          " (In The Long Run) —"
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          0,
+          " “"
+        ],
+        [
+          0,
+          [],
+          1,
+          "It is extremely dangerous for folks like Larry Summers and Sheila Bair to be invoking Paul Volcker and the spectre of double-digit unemployment as a solution to current price pressures. Deliberately engineering a wave of layoffs would not address the primary drivers of inflation, and high unemployment would damage the American social contract at a time when our democracy is obviously fragile, and authoritarianism is on the march around the globe. For democracy to survive, it has to work for working people.”"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [
+            2
+          ],
+          1,
+          "• "
+        ],
+        [
+          0,
+          [
+            9,
+            2
+          ],
+          2,
+          "Leaked Bank Of America Memo: “We Hope” Conditions For American Workers Will Get Worse"
+        ],
+        [
+          0,
+          [],
+          0,
+          " (The Intercept) —"
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          " “A Bank Of America executive stated that ‘we hope’ working Americans will lose leverage in the labor market in a recent private memo obtained by "
+        ],
+        [
+          0,
+          [],
+          0,
+          "The Intercept"
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          ". Making predictions for clients about the U.S. economy over the next several years, the memo also noted that changes in the percentage of Americans seeking jobs ‘should help push up the unemployment rate.’”"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [
+            2
+          ],
+          1,
+          "• "
+        ],
+        [
+          0,
+          [
+            10,
+            2
+          ],
+          2,
+          "The U.S. Is Screwing Up Big Time On Monkeypox"
+        ],
+        [
+          0,
+          [],
+          0,
+          " (The New Republic) —"
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          " “Unlike when COVID-19 took the world by surprise, highly effective vaccines and antivirals already exist to treat poxviruses. So why has Köhn suffered for the past three weeks? Not only could he not get vaccinated, but it took him a week to get a topical treatment just to ease his excruciating pain. He struggled for days to access antivirals while feverish; he knows others with symptoms who have given up on getting the treatment or even getting their test results back.”"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [
+            2
+          ],
+          1,
+          "• "
+        ],
+        [
+          0,
+          [
+            11,
+            2
+          ],
+          2,
+          "When Can Dying Patients Get a Life-Saving Abortion? These Hospital Panels Will Now Decide."
+        ],
+        [
+          0,
+          [],
+          0,
+          " (Slate) —"
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          " “Health care providers have legitimate concerns that they will face civil and criminal liability if they terminate a pregnancy under any circumstances. They worry that judges, juries, and prosecutors will disagree that the patient had a true medical emergency. And so the decision shifts from the patient to the hospital, which frequently places these delicate considerations in the hands of ethics committees.”"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [
+            2
+          ],
+          1,
+          "• "
+        ],
+        [
+          0,
+          [
+            12,
+            2
+          ],
+          2,
+          "For Thousands of Georgians, Freely Traveling Across State Lines For An Abortion Is Not An Option"
+        ],
+        [
+          0,
+          [],
+          0,
+          " (Bolts) — "
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "“Last week, a federal appeals court allowed a 2019 law prohibiting abortion after six weeks — before many women even know they are pregnant — to immediately take effect. The near-total ban will severely constrict the reproductive choices of Georgians on probation and parole. Residents in this category who need an abortion will be faced with an impossible choice: giving birth and caring for a baby they do not want and likely cannot afford to raise, or traveling out of state for an abortion and risking a violation of their parole or probation conditions, which could land them back in prison.”"
+        ]
+      ]
+    ],
+    [
+      10,
+      6
+    ],
+    [
+      10,
+      7
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [
+            0,
+            2
+          ],
+          1,
+          "Our news organization relies on readers pitching in to support our journalism. "
+        ],
+        [
+          0,
+          [
+            0,
+            2
+          ],
+          3,
+          "If you like this story, please support "
+        ],
+        [
+          0,
+          [
+            2,
+            0,
+            2
+          ],
+          3,
+          "our"
+        ],
+        [
+          0,
+          [
+            0,
+            0,
+            2
+          ],
+          3,
+          " work."
+        ]
+      ]
+    ],
+    [
+      10,
+      8
+    ],
+    [
+      10,
+      9
+    ],
+    [
+      1,
+      "p",
+      []
+    ]
+  ],
+  "ghostVersion": "4.0"
+}

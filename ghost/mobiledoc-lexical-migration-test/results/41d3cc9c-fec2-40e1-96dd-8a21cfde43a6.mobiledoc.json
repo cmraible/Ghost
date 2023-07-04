@@ -1,0 +1,1190 @@
+{
+  "version": "0.3.1",
+  "atoms": [],
+  "cards": [
+    [
+      "email",
+      {
+        "html": "<p>Hey {first_name, \"there\"},</p>"
+      }
+    ],
+    [
+      "bookmark",
+      {
+        "version": "1.0",
+        "type": "bookmark",
+        "url": "https://theaddition.substack.com/p/facebook-and-news-breakup-again#details",
+        "metadata": {
+          "url": "https://theaddition.substack.com/p/facebook-and-news-breakup-again",
+          "title": "Facebook And News Breakup. Again.",
+          "description": "Listen now (38 min) | Will Facebook’s move away from news be permanent this time?",
+          "author": "Charlotte Henry",
+          "publisher": "The Addition",
+          "thumbnail": "https://images.unsplash.com/photo-1636114673156-052a83459fc1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwzMDAzMzh8MHwxfHNlYXJjaHw4fHxmYWNlYm9vayUyMG1ldGF8ZW58MHx8fHwxNjU5NTMyMTEz&ixlib=rb-1.2.1&q=80&w=1080",
+          "icon": "https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/4bf73eed-ae9b-4cc5-a20a-ab7d5bec2ac3/apple-touch-icon-1024x1024.png"
+        }
+      }
+    ],
+    [
+      "bookmark",
+      {
+        "version": "1.0",
+        "type": "bookmark",
+        "url": "https://theaddition.substack.com/p/whats-next-for-apple-news",
+        "metadata": {
+          "url": "https://theaddition.substack.com/p/whats-next-for-apple-news",
+          "title": "What’s Next For Apple News?",
+          "description": "Big tech is trying to sort its relationships with publishers.",
+          "author": "Charlotte Henry",
+          "publisher": "The Addition",
+          "thumbnail": "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F4f9a3c81-f4bc-4743-9079-6c06b5d445ad_2400x1411.jpeg",
+          "icon": "https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/4bf73eed-ae9b-4cc5-a20a-ab7d5bec2ac3/apple-touch-icon-1024x1024.png"
+        }
+      }
+    ],
+    [
+      "bookmark",
+      {
+        "url": "https://pressgazette.co.uk/inkcap-journal/",
+        "metadata": {
+          "url": "https://pressgazette.co.uk/inkcap-journal/",
+          "title": "How nature newsletter Inkcap Journal nurtured a 70% open rate",
+          "description": "Long-form nature publication Inkcap Journal sprouted in response to a lack of opportunities for environmental feature writing in the UK compared to the US.",
+          "author": "Twitter",
+          "publisher": "Press Gazette",
+          "thumbnail": "https://pressgazette.co.uk/wp-content/uploads/2022/08/headshot-scaled-e1659532919929-800x600.jpg",
+          "icon": "https://pressgazette.co.uk/wp-content/uploads/2016/04/Press-Gazette-Twitter-Facebook-LOGO-300x300.jpg"
+        }
+      }
+    ],
+    [
+      "embed",
+      {
+        "url": "https://twitter.com/some_yeo/status/1559117974145216512?s=21&t=Yp5wcrbvA-q0FJqQbvh4tA",
+        "html": "<blockquote class=\"twitter-tweet\"><p lang=\"en\" dir=\"ltr\">Well, this is a fairly cynical take on a publication I set up at the start of a pandemic and have built through eight months of pregnancy while also freelancing, with no external funding until a few months ago. 🤷‍♀️ <a href=\"https://t.co/JdavpCeRJy\">https://t.co/JdavpCeRJy</a></p>&mdash; Sophie Yeo (@some_yeo) <a href=\"https://twitter.com/some_yeo/status/1559117974145216512?ref_src=twsrc%5Etfw\">August 15, 2022</a></blockquote>\n<script async src=\"https://platform.twitter.com/widgets.js\" charset=\"utf-8\"></script>\n",
+        "type": "twitter",
+        "metadata": {
+          "url": "https://twitter.com/some_yeo/status/1559117974145216512",
+          "author_name": "Sophie Yeo",
+          "author_url": "https://twitter.com/some_yeo",
+          "width": 550,
+          "height": null,
+          "cache_age": "3153600000",
+          "provider_name": "Twitter",
+          "provider_url": "http://www.twitter.com/",
+          "version": "1.0",
+          "tweet_data": {
+            "created_at": "2022-08-15T10:01:06.000Z",
+            "entities": {
+              "urls": [
+                {
+                  "start": 216,
+                  "end": 239,
+                  "url": "https://t.co/JdavpCeRJy",
+                  "expanded_url": "https://twitter.com/stephenkb/status/1559114303441195009",
+                  "display_url": "twitter.com/stephenkb/stat…"
+                }
+              ]
+            },
+            "conversation_id": "1559117974145216512",
+            "source": "Twitter Web App",
+            "public_metrics": {
+              "retweet_count": 1,
+              "reply_count": 9,
+              "like_count": 16,
+              "quote_count": 2
+            },
+            "lang": "en",
+            "context_annotations": [
+              {
+                "domain": {
+                  "id": "47",
+                  "name": "Brand",
+                  "description": "Brands and Companies"
+                },
+                "entity": {
+                  "id": "1364653904433045506",
+                  "name": "Aposto!"
+                }
+              },
+              {
+                "domain": {
+                  "id": "123",
+                  "name": "Ongoing News Story",
+                  "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                  "id": "1220701888179359745",
+                  "name": "COVID-19"
+                }
+              },
+              {
+                "domain": {
+                  "id": "131",
+                  "name": "Unified Twitter Taxonomy",
+                  "description": "A taxonomy view into the Semantic Core knowledge graph"
+                },
+                "entity": {
+                  "id": "1220701888179359745",
+                  "name": "COVID-19"
+                }
+              }
+            ],
+            "author_id": "526634228",
+            "text": "Well, this is a fairly cynical take on a publication I set up at the start of a pandemic and have built through eight months of pregnancy while also freelancing, with no external funding until a few months ago. 🤷‍♀️ https://t.co/JdavpCeRJy",
+            "id": "1559117974145216512",
+            "possibly_sensitive": false,
+            "reply_settings": "everyone",
+            "includes": {
+              "users": [
+                {
+                  "created_at": "2012-03-16T17:50:36.000Z",
+                  "url": "https://t.co/CsipPZEkcJ",
+                  "pinned_tweet_id": "1477241296389652481",
+                  "verified": false,
+                  "name": "Sophie Yeo",
+                  "description": "Environmental journalist. \nI run @inkcapjournal, a magazine on nature in Britain.\nMore words in @washingtonpost @guardian @naturenews @bbc_future",
+                  "protected": false,
+                  "entities": {
+                    "url": {
+                      "urls": [
+                        {
+                          "start": 0,
+                          "end": 23,
+                          "url": "https://t.co/CsipPZEkcJ",
+                          "expanded_url": "http://sophieyeo.com",
+                          "display_url": "sophieyeo.com"
+                        }
+                      ]
+                    },
+                    "description": {
+                      "mentions": [
+                        {
+                          "start": 33,
+                          "end": 47,
+                          "username": "inkcapjournal"
+                        },
+                        {
+                          "start": 96,
+                          "end": 111,
+                          "username": "washingtonpost"
+                        },
+                        {
+                          "start": 112,
+                          "end": 121,
+                          "username": "guardian"
+                        },
+                        {
+                          "start": 122,
+                          "end": 133,
+                          "username": "naturenews"
+                        },
+                        {
+                          "start": 134,
+                          "end": 145,
+                          "username": "bbc_future"
+                        }
+                      ]
+                    }
+                  },
+                  "profile_image_url": "https://pbs.twimg.com/profile_images/1328343729485312000/oQz0W4c2_normal.jpg",
+                  "username": "some_yeo",
+                  "location": "Newcastle Upon Tyne, England",
+                  "id": "526634228",
+                  "public_metrics": {
+                    "followers_count": 11157,
+                    "following_count": 2057,
+                    "tweet_count": 11811,
+                    "listed_count": 459
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    ],
+    [
+      "embed",
+      {
+        "url": "https://twitter.com/stephenkb/status/1559125832769146880?s=21&t=Yp5wcrbvA-q0FJqQbvh4tA",
+        "html": "<blockquote class=\"twitter-tweet\"><p lang=\"en\" dir=\"ltr\">This is a newsletter that has got people to pay for it without having a legacy media behind it or a big name, yet PG thinks that its open rate (which I could tell you, without having to click, is down to its list size) is the story here. <a href=\"https://t.co/opLkzWn4II\">https://t.co/opLkzWn4II</a></p>&mdash; Stephen Bush (@stephenkb) <a href=\"https://twitter.com/stephenkb/status/1559125832769146880?ref_src=twsrc%5Etfw\">August 15, 2022</a></blockquote>\n<script async src=\"https://platform.twitter.com/widgets.js\" charset=\"utf-8\"></script>\n",
+        "type": "twitter",
+        "metadata": {
+          "url": "https://twitter.com/stephenkb/status/1559125832769146880",
+          "author_name": "Stephen Bush",
+          "author_url": "https://twitter.com/stephenkb",
+          "width": 550,
+          "height": null,
+          "cache_age": "3153600000",
+          "provider_name": "Twitter",
+          "provider_url": "http://www.twitter.com/",
+          "version": "1.0",
+          "tweet_data": {
+            "text": "This is a newsletter that has got people to pay for it without having a legacy media behind it or a big name, yet PG thinks that its open rate (which I could tell you, without having to click, is down to its list size) is the story here. https://t.co/opLkzWn4II",
+            "conversation_id": "1559125832769146880",
+            "referenced_tweets": [
+              {
+                "type": "quoted",
+                "id": "1559113920291303426"
+              }
+            ],
+            "reply_settings": "everyone",
+            "created_at": "2022-08-15T10:32:20.000Z",
+            "lang": "en",
+            "id": "1559125832769146880",
+            "source": "Twitter Web App",
+            "entities": {
+              "urls": [
+                {
+                  "start": 238,
+                  "end": 261,
+                  "url": "https://t.co/opLkzWn4II",
+                  "expanded_url": "https://twitter.com/pressgazette/status/1559113920291303426",
+                  "display_url": "twitter.com/pressgazette/s…"
+                }
+              ]
+            },
+            "author_id": "145671928",
+            "context_annotations": [
+              {
+                "domain": {
+                  "id": "47",
+                  "name": "Brand",
+                  "description": "Brands and Companies"
+                },
+                "entity": {
+                  "id": "1364653904433045506",
+                  "name": "Aposto!"
+                }
+              }
+            ],
+            "possibly_sensitive": false,
+            "public_metrics": {
+              "retweet_count": 2,
+              "reply_count": 3,
+              "like_count": 38,
+              "quote_count": 2
+            },
+            "includes": {
+              "users": [
+                {
+                  "name": "Stephen Bush",
+                  "verified": true,
+                  "created_at": "2010-05-19T15:32:38.000Z",
+                  "description": "Associate editor @FT and columnist @FTOpinion.",
+                  "id": "145671928",
+                  "protected": false,
+                  "location": "London",
+                  "username": "stephenkb",
+                  "profile_image_url": "https://pbs.twimg.com/profile_images/1499407079987200002/MnoSYKtm_normal.jpg",
+                  "entities": {
+                    "url": {
+                      "urls": [
+                        {
+                          "start": 0,
+                          "end": 23,
+                          "url": "https://t.co/wekzYyk2p6",
+                          "expanded_url": "https://www.ft.com/stephen-bush",
+                          "display_url": "ft.com/stephen-bush"
+                        }
+                      ]
+                    },
+                    "description": {
+                      "mentions": [
+                        {
+                          "start": 17,
+                          "end": 20,
+                          "username": "FT"
+                        },
+                        {
+                          "start": 35,
+                          "end": 45,
+                          "username": "FTOpinion"
+                        }
+                      ]
+                    }
+                  },
+                  "pinned_tweet_id": "1527584461180882944",
+                  "public_metrics": {
+                    "followers_count": 136790,
+                    "following_count": 6914,
+                    "tweet_count": 153523,
+                    "listed_count": 1773
+                  },
+                  "url": "https://t.co/wekzYyk2p6"
+                },
+                {
+                  "name": "Press Gazette",
+                  "verified": true,
+                  "created_at": "2007-03-18T14:07:24.000Z",
+                  "description": "News about the world of news. \nSign up to our free newsletters here: https://t.co/xt4LlIKaky Find and post jobs: https://t.co/HTxeyt06ba Stories and tips: pged@pressgazette.co.uk",
+                  "id": "1417251",
+                  "protected": false,
+                  "location": "London, UK",
+                  "username": "pressgazette",
+                  "profile_image_url": "https://pbs.twimg.com/profile_images/1225065110525435905/JBSvwkco_normal.jpg",
+                  "entities": {
+                    "url": {
+                      "urls": [
+                        {
+                          "start": 0,
+                          "end": 22,
+                          "url": "http://t.co/sOCp6G0aRX",
+                          "expanded_url": "http://www.pressgazette.co.uk",
+                          "display_url": "pressgazette.co.uk"
+                        }
+                      ]
+                    },
+                    "description": {
+                      "urls": [
+                        {
+                          "start": 69,
+                          "end": 92,
+                          "url": "https://t.co/xt4LlIKaky",
+                          "expanded_url": "http://bit.ly/345FxAl",
+                          "display_url": "bit.ly/345FxAl"
+                        },
+                        {
+                          "start": 113,
+                          "end": 136,
+                          "url": "https://t.co/HTxeyt06ba",
+                          "expanded_url": "http://bit.ly/29YDhhL",
+                          "display_url": "bit.ly/29YDhhL"
+                        }
+                      ]
+                    }
+                  },
+                  "public_metrics": {
+                    "followers_count": 76764,
+                    "following_count": 12189,
+                    "tweet_count": 51607,
+                    "listed_count": 2122
+                  },
+                  "url": "http://t.co/sOCp6G0aRX"
+                }
+              ],
+              "tweets": [
+                {
+                  "text": "How nature newsletter @inkcapjournal nurtured a 70% open rate: Founder @sophie_yeo credits features that 'push boundaries' and a 'dedicated and enthusiastic' audience https://t.co/woRgeLDhlk",
+                  "conversation_id": "1559113920291303426",
+                  "entities": {
+                    "mentions": [
+                      {
+                        "start": 22,
+                        "end": 36,
+                        "username": "inkcapjournal",
+                        "id": "1252922052673183744"
+                      },
+                      {
+                        "start": 71,
+                        "end": 82,
+                        "username": "sophie_yeo",
+                        "id": "1600791228"
+                      }
+                    ],
+                    "urls": [
+                      {
+                        "start": 167,
+                        "end": 190,
+                        "url": "https://t.co/woRgeLDhlk",
+                        "expanded_url": "https://pressgazette.co.uk/inkcap-journal/",
+                        "display_url": "pressgazette.co.uk/inkcap-journal/",
+                        "images": [
+                          {
+                            "url": "https://pbs.twimg.com/news_img/1559095595133849600/yrGLHl61?format=jpg&name=orig",
+                            "width": 2022,
+                            "height": 1516
+                          },
+                          {
+                            "url": "https://pbs.twimg.com/news_img/1559095595133849600/yrGLHl61?format=jpg&name=150x150",
+                            "width": 150,
+                            "height": 150
+                          }
+                        ],
+                        "status": 200,
+                        "title": "How nature newsletter Inkcap Journal nurtured a 70% open rate",
+                        "description": "Long-form nature publication Inkcap Journal sprouted in response to a lack of opportunities for environmental feature writing in the UK compared to the US.",
+                        "unwound_url": "https://pressgazette.co.uk/inkcap-journal/"
+                      }
+                    ]
+                  },
+                  "reply_settings": "everyone",
+                  "created_at": "2022-08-15T09:45:00.000Z",
+                  "lang": "en",
+                  "id": "1559113920291303426",
+                  "source": "TweetDeck",
+                  "author_id": "1417251",
+                  "context_annotations": [
+                    {
+                      "domain": {
+                        "id": "47",
+                        "name": "Brand",
+                        "description": "Brands and Companies"
+                      },
+                      "entity": {
+                        "id": "1364653904433045506",
+                        "name": "Aposto!"
+                      }
+                    }
+                  ],
+                  "possibly_sensitive": false,
+                  "public_metrics": {
+                    "retweet_count": 0,
+                    "reply_count": 0,
+                    "like_count": 5,
+                    "quote_count": 1
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    ],
+    [
+      "embed",
+      {
+        "url": "https://twitter.com/stephenkb/status/1559123905788403712?s=21&t=Yp5wcrbvA-q0FJqQbvh4tA",
+        "html": "<blockquote class=\"twitter-tweet\"><p lang=\"en\" dir=\"ltr\">It&#39;s such &#39;the Internet? What&#39;s that?&#39; reporting to see a new, non-legacy media, non-bigname writer newsletter that has managed to get 600 people to *pay* for it and to pull out literally its least revealing stat for the write-up.</p>&mdash; Stephen Bush (@stephenkb) <a href=\"https://twitter.com/stephenkb/status/1559123905788403712?ref_src=twsrc%5Etfw\">August 15, 2022</a></blockquote>\n<script async src=\"https://platform.twitter.com/widgets.js\" charset=\"utf-8\"></script>\n",
+        "type": "twitter",
+        "metadata": {
+          "url": "https://twitter.com/stephenkb/status/1559123905788403712",
+          "author_name": "Stephen Bush",
+          "author_url": "https://twitter.com/stephenkb",
+          "width": 550,
+          "height": null,
+          "cache_age": "3153600000",
+          "provider_name": "Twitter",
+          "provider_url": "http://www.twitter.com/",
+          "version": "1.0",
+          "tweet_data": {
+            "possibly_sensitive": false,
+            "public_metrics": {
+              "retweet_count": 0,
+              "reply_count": 0,
+              "like_count": 1,
+              "quote_count": 1
+            },
+            "context_annotations": [
+              {
+                "domain": {
+                  "id": "47",
+                  "name": "Brand",
+                  "description": "Brands and Companies"
+                },
+                "entity": {
+                  "id": "1364653904433045506",
+                  "name": "Aposto!"
+                }
+              }
+            ],
+            "lang": "en",
+            "author_id": "145671928",
+            "referenced_tweets": [
+              {
+                "type": "replied_to",
+                "id": "1559118094089478146"
+              }
+            ],
+            "in_reply_to_user_id": "18815986",
+            "created_at": "2022-08-15T10:24:40.000Z",
+            "entities": {
+              "mentions": [
+                {
+                  "start": 0,
+                  "end": 11,
+                  "username": "SimonGwynn",
+                  "id": "18815986"
+                }
+              ]
+            },
+            "conversation_id": "1559114303441195009",
+            "text": "@SimonGwynn It's such 'the Internet? What's that?' reporting to see a new, non-legacy media, non-bigname writer newsletter that has managed to get 600 people to *pay* for it and to pull out literally its least revealing stat for the write-up.",
+            "source": "Twitter Web App",
+            "id": "1559123905788403712",
+            "reply_settings": "everyone",
+            "includes": {
+              "users": [
+                {
+                  "verified": true,
+                  "id": "145671928",
+                  "public_metrics": {
+                    "followers_count": 136790,
+                    "following_count": 6914,
+                    "tweet_count": 153523,
+                    "listed_count": 1773
+                  },
+                  "url": "https://t.co/wekzYyk2p6",
+                  "name": "Stephen Bush",
+                  "description": "Associate editor @FT and columnist @FTOpinion.",
+                  "profile_image_url": "https://pbs.twimg.com/profile_images/1499407079987200002/MnoSYKtm_normal.jpg",
+                  "pinned_tweet_id": "1527584461180882944",
+                  "created_at": "2010-05-19T15:32:38.000Z",
+                  "protected": false,
+                  "entities": {
+                    "url": {
+                      "urls": [
+                        {
+                          "start": 0,
+                          "end": 23,
+                          "url": "https://t.co/wekzYyk2p6",
+                          "expanded_url": "https://www.ft.com/stephen-bush",
+                          "display_url": "ft.com/stephen-bush"
+                        }
+                      ]
+                    },
+                    "description": {
+                      "mentions": [
+                        {
+                          "start": 17,
+                          "end": 20,
+                          "username": "FT"
+                        },
+                        {
+                          "start": 35,
+                          "end": 45,
+                          "username": "FTOpinion"
+                        }
+                      ]
+                    }
+                  },
+                  "location": "London",
+                  "username": "stephenkb"
+                },
+                {
+                  "verified": true,
+                  "id": "18815986",
+                  "public_metrics": {
+                    "followers_count": 1909,
+                    "following_count": 932,
+                    "tweet_count": 11219,
+                    "listed_count": 116
+                  },
+                  "url": "",
+                  "name": "Simon Gwynn 🇺🇦",
+                  "description": "I applied for my blue tick under the 'pissing off the right people' scheme",
+                  "profile_image_url": "https://pbs.twimg.com/profile_images/1553830219982807040/frfd77BP_normal.jpg",
+                  "pinned_tweet_id": "1500485293161562120",
+                  "created_at": "2009-01-09T21:22:35.000Z",
+                  "protected": false,
+                  "location": "Sheffield",
+                  "username": "SimonGwynn"
+                }
+              ],
+              "tweets": [
+                {
+                  "possibly_sensitive": false,
+                  "public_metrics": {
+                    "retweet_count": 0,
+                    "reply_count": 2,
+                    "like_count": 0,
+                    "quote_count": 0
+                  },
+                  "geo": {
+                    "place_id": "07e9c7d1954fff64"
+                  },
+                  "lang": "en",
+                  "author_id": "18815986",
+                  "referenced_tweets": [
+                    {
+                      "type": "replied_to",
+                      "id": "1559114303441195009"
+                    }
+                  ],
+                  "in_reply_to_user_id": "145671928",
+                  "created_at": "2022-08-15T10:01:35.000Z",
+                  "entities": {
+                    "mentions": [
+                      {
+                        "start": 0,
+                        "end": 10,
+                        "username": "stephenkb",
+                        "id": "145671928"
+                      }
+                    ]
+                  },
+                  "conversation_id": "1559114303441195009",
+                  "text": "@stephenkb 10 relatives, three who don't really like her?",
+                  "source": "Twitter for Android",
+                  "id": "1559118094089478146",
+                  "reply_settings": "everyone"
+                }
+              ]
+            }
+          }
+        }
+      }
+    ],
+    [
+      "image",
+      {
+        "src": "https://c.tenor.com/0SgCSDpuMBYAAAAC/12th-doctor-regeneration.gif",
+        "width": 498,
+        "height": 280,
+        "caption": "",
+        "type": "gif"
+      }
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "image",
+      {
+        "src": "__GHOST_URL__/content/images/2022/08/30A99BB8-C339-462E-A778-13A4D278EB24_1_201_a.jpeg",
+        "width": 3888,
+        "height": 2124
+      }
+    ],
+    [
+      "email",
+      {
+        "html": "<p>In the meantime, I hope you're having a good summer (or winter, for readers in the other hemisphere). I'll see you later in the week with a digest of things I've written this week, and any interesting links I have time to read, between entertaining my darling daughters.</p>"
+      }
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "image",
+      {
+        "src": "__GHOST_URL__/content/images/2022/08/tempImagetWpDQt.gif",
+        "width": 2316,
+        "height": 3088,
+        "caption": "When you discover that a neighbouring town to your home has apparently moved to the Isle of Wight.&nbsp;"
+      }
+    ]
+  ],
+  "markups": [
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/2022/07/facebooks-long-slow-breakup-with-journalism-is-underway/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://awards.futureofmedia.co.uk"
+      ]
+    ],
+    [
+      "em"
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.inkcapjournal.co.uk"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://ghost.org"
+      ]
+    ]
+  ],
+  "sections": [
+    [
+      10,
+      0
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "I'm back after a very pleasant couple of weeks largely away from digital devices, and feeling so much better for it. More on that later on, should you care, because I have a couple of things I want to draw your attention to first: "
+        ]
+      ]
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "One man on a podcast "
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Just before I scurried away on my holiday, Charlotte Henry was kind enough to invite me on her podcast to discuss "
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "Facebook's break-up with journalism"
+        ],
+        [
+          0,
+          [],
+          0,
+          ", which I wrote about a couple of weeks ago here."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "You can enjoy me in audio format here: "
+        ]
+      ]
+    ],
+    [
+      10,
+      1
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "It was an interesting chat, which strayed into talking about Apple News+, which Charlotte went on to explore in another post: "
+        ]
+      ]
+    ],
+    [
+      10,
+      2
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Inkcap Journal: a mini niche media business in development"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "I'm one of the judges of the "
+        ],
+        [
+          0,
+          [
+            1,
+            2
+          ],
+          1,
+          "Press Gazette"
+        ],
+        [
+          0,
+          [],
+          1,
+          " Future of Media awards"
+        ],
+        [
+          0,
+          [],
+          0,
+          " this year. Among the categories I'm judging is the newsletter of the year, and an entry we shortlisted has been profiled by the team:"
+        ]
+      ]
+    ],
+    [
+      10,
+      3
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "If you're interested in nature and the environment, "
+        ],
+        [
+          0,
+          [
+            2,
+            3
+          ],
+          2,
+          "Inkcap Journal "
+        ],
+        [
+          0,
+          [
+            3
+          ],
+          1,
+          "is a great subscribe"
+        ],
+        [
+          0,
+          [],
+          0,
+          ". (It's run on "
+        ],
+        [
+          0,
+          [
+            4
+          ],
+          1,
+          "Ghost"
+        ],
+        [
+          0,
+          [],
+          0,
+          ", just like this site.)"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "I was initially disappointed to see the "
+        ],
+        [
+          0,
+          [
+            2
+          ],
+          1,
+          "FT"
+        ],
+        [
+          0,
+          [],
+          0,
+          "'s Stephen Bush appear to have a pop at it in a poorly worded tweet, which he then deleted. I'm a great admirer of both "
+        ],
+        [
+          0,
+          [
+            2
+          ],
+          1,
+          "Inkcap"
+        ],
+        [
+          0,
+          [],
+          0,
+          " and Stephen's work, so it's not pleasant to see them apparently at odds…"
+        ]
+      ]
+    ],
+    [
+      10,
+      4
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "To his credit, Stephen realised that he'd worded the tweet badly, deleted it, and tried again to make the point rather clearer. Here's the revised version:"
+        ]
+      ]
+    ],
+    [
+      10,
+      5
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "He actually explained his point better in a reply to the now-deleted tweet, though:"
+        ]
+      ]
+    ],
+    [
+      10,
+      6
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "And, well, he has a point, doesn't he? My judging notes for another category in the awards actually contain the phrase “the late 2000s called, they want their innovation strategy back”. One of the reasons that "
+        ],
+        [
+          0,
+          [
+            2
+          ],
+          1,
+          "Inkcap Journal"
+        ],
+        [
+          0,
+          [],
+          0,
+          " made the shortlist was that it's clearly a nascent niche media business that is successfully persuading people to part with their cash, with no major company or high-profile online presence to use as a launchpad. "
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "It is literally "
+        ],
+        [
+          0,
+          [
+            2
+          ],
+          1,
+          "a"
+        ],
+        [
+          0,
+          [],
+          0,
+          " future of media being created, and so makes perfect sense in the context of the awards. "
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "But it's worth "
+        ],
+        [
+          0,
+          [
+            2
+          ],
+          1,
+          "also"
+        ],
+        [
+          0,
+          [],
+          0,
+          " remembering that email newsletters are over three decades old at this point. In the late 90s and early 2000s, the business magazine I worked for at the time was getting a large chunk of its traffic from the two daily newsletters it sent out."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "This is a "
+        ],
+        [
+          0,
+          [
+            2
+          ],
+          1,
+          "regenerating format"
+        ],
+        [
+          0,
+          [],
+          0,
+          ", not a new one…"
+        ]
+      ]
+    ],
+    [
+      10,
+      7
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Digital is no longer anything new. We have well over a quarter of a century of doing things in online formats, and some early lessons learned still have value. Treating everything as "
+        ],
+        [
+          0,
+          [
+            2
+          ],
+          1,
+          "new"
+        ],
+        [
+          0,
+          [],
+          0,
+          " and "
+        ],
+        [
+          0,
+          [
+            2
+          ],
+          1,
+          "exciting"
+        ],
+        [
+          0,
+          [],
+          0,
+          " all the time tends to play down the role of experience, iteration and a stubborn adherence to quality in building lasting, profitable digital products."
+        ]
+      ]
+    ],
+    [
+      10,
+      8
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "The Personal Bit"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "I'm a much more chilled person than I was when I last put finger to keyboard. "
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "I've just been on an enforced digital detox for the past couple of weeks, which was the perfect antidote to a hectic late spring and early summer. My wife has an uncanny ability to pick campsites with little to no connectivity (notional wifi that doesn't actually work, no mobile phone signal to speak of…). While it's stressful at first, it soon becomes something of a balm to the soul.  "
+        ]
+      ]
+    ],
+    [
+      10,
+      9
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Even though we're back home, work's going to be a bit irregular for the next few weeks. As the self-employed half of a couple with primary-school age children, I'm shouldering the majority of the childcare until the schools go back."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "However, I have some news to share shortly which will change that dynamic a little by next summer, if all goes to plan. But more on that in a future post…"
+        ]
+      ]
+    ],
+    [
+      10,
+      10
+    ],
+    [
+      10,
+      11
+    ],
+    [
+      10,
+      12
+    ],
+    [
+      1,
+      "p",
+      []
+    ]
+  ],
+  "ghostVersion": "4.0"
+}

@@ -1,0 +1,1232 @@
+{
+  "version": "0.3.1",
+  "atoms": [],
+  "cards": [
+    [
+      "email-cta",
+      {
+        "showButton": true,
+        "showDividers": false,
+        "segment": "status:free",
+        "alignment": "left",
+        "html": "<p>Enjoy the weekly recap below. Then, read a preview of the original column at bottom and <a href=\"https://levernews.com/membership/?utm_source=daily&amp;utm_medium=link&amp;utm_campaign=upgrade\">click here to upgrade</a> for full access.</p>",
+        "buttonText": "Click Here To Upgrade",
+        "buttonUrl": "https://levernews.com/membership/?utm_source=daily&utm_medium=link&utm_campaign=upgrade"
+      }
+    ],
+    [
+      "email-cta",
+      {
+        "showButton": false,
+        "showDividers": false,
+        "segment": "status:-free",
+        "alignment": "left",
+        "html": "<p><strong>SPREAD THE WORD</strong>: Share this article on <u><a href=\"https://twitter.com/intent/tweet?text=In%20an%20unexpected%20twist%2C%20change%20could%20be%20coming%20for%20the%20country%E2%80%99s%20railroads.%0Ahttps%3A%2F%2Fwww.levernews.com%2Fthis-is-how-its-supposed-to-work%2F%3Futm_source%3Dtwitter%26utm_medium%3Dlink%26utm_campaign%3Dtw-prefill\">Twitter</a></u> and forward this email<em> </em>to encourage others <a href=\"https://levernews.com/membership/?utm_source=daily&amp;utm_medium=link&amp;utm_campaign=forward-signup\">to subscribe to <em>The Lever</em></a>.</p>",
+        "buttonText": "",
+        "buttonUrl": ""
+      }
+    ],
+    [
+      "email",
+      {
+        "html": "<p>Rock the boat.</p>"
+      }
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "button",
+      {
+        "alignment": "center",
+        "buttonUrl": "__GHOST_URL__/#/portal/account/plans",
+        "buttonText": "Become A Lever Leader Today"
+      }
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "email-cta",
+      {
+        "showButton": false,
+        "showDividers": false,
+        "segment": "status:free",
+        "alignment": "left",
+        "html": "<p>In the weeks since the East Palestine train derailment, <em>The Lever</em> has spotlighted the <a href=\"__GHOST_URL__/rail-companies-blocked-safety-rules-before-ohio-derailment/\">governmental</a> <a href=\"__GHOST_URL__/there-will-be-more-derailments/\">decisions</a> that...</p>"
+      }
+    ],
+    [
+      "paywall",
+      {}
+    ],
+    [
+      "callout",
+      {
+        "calloutEmoji": "💡",
+        "calloutText": "Follow us on <a href=\"https://apple.news/TeRci1RtoQfWCNA5h7NTBlg\"><strong>Apple News</strong></a> and <a href=\"https://news.google.com/publications/CAAqBwgKMPvKngswktW2Aw\"><strong>Google News</strong></a> to make sure you see our stories first, and to help make sure others see our breaking news as well.",
+        "backgroundColor": "blue"
+      }
+    ],
+    [
+      "button",
+      {
+        "alignment": "center",
+        "buttonText": "Tip Jar",
+        "buttonUrl": "https://dailyposter.outpost.pub/ghost-integration/60818189ad12f332071054b8/tips"
+      }
+    ],
+    [
+      "email-cta",
+      {
+        "showButton": true,
+        "showDividers": false,
+        "segment": "status:-free",
+        "alignment": "center",
+        "html": "",
+        "buttonText": "Click Here To Comment",
+        "buttonUrl": "__GHOST_URL__/lever-weekly-this-is-how-its-supposed-to-work/#comments"
+      }
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "email",
+      {
+        "html": "<p><em><strong>Help us spread the word! </strong>Please forward this email to family and friends.</em></p><p><em><strong>Was this email forwarded to you? </strong><a href=\"https://levernews.com/membership/\">Sign up for free</a> to receive original reporting like this in your inbox every day.</em></p>"
+      }
+    ]
+  ],
+  "markups": [
+    [
+      "em"
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/where-is-buttigieg-on-the-bomb-train-threat/"
+      ]
+    ],
+    [
+      "strong"
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/rail-lobbyists-pay-politico-to-tout-train-safety/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/private-equitys-senator-gets-big-payout/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/hochul-vetoed-key-rail-safety-law/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/lever-time-how-to-derail-the-anti-safety-train-lobby-w-rep-chris-deluzio/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/movies-vs-capitalism-working-girl/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://soundcloud.com/citationsneeded/cn_nb_20230228_east-palestine_bonus"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/author/david-sirota/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.youtube.com/watch?v=FBpdxEMelR0"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/the-democracy-crisis-that-is-never-discussed/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.youtube.com/watch?v=Xcb4_QwP6fE"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/rail-companies-blocked-safety-rules-before-ohio-derailment/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/there-will-be-more-derailments/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://twitter.com/LeverNews/status/1627066088356974592?s=20"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://khanna.house.gov/media/press-releases/release-following-disastrous-train-derailment-east-palestine-khanna-deluzio?ref=the-lever"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.theguardian.com/commentisfree/2023/mar/03/ohio-toxic-trail-derailment-east-palestine-congress-derail-act"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.cnn.com/2023/03/01/politics/congress-response-railway-safety-norfolk-southern/index.html#:~:text=The%20bill%20includes%20a%20number,officials%20about%20what%20their%20trains"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/buttigieg-pretends-hes-powerless-to-reduce-derailment-risks/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/buttigieg-pressured-into-promising-to-do-his-job/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://act.represent.us/sign/problempoll-fba/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/lever-weekly-shadowbanning-an-inconvenient-truth/"
+      ]
+    ]
+  ],
+  "sections": [
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "This is Lever Weekly, a recap of our work from the past week. If you only read one email from us all week, this should be it."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Below you will find a breakdown of our reporting, podcasts, videos, and live events — a feature open to all subscribers. Following that, we are providing paid subscribers with an original column, written by a member of "
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "The Lever"
+        ],
+        [
+          0,
+          [],
+          0,
+          ", connecting the dots on our coverage to deliver important takeaways."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "In this week’s column, exclusively for paid subscribers, David Sirota explores how, in a rare turn of events, it looks like politicians may actually try to protect people from more dangerous derailments like the Norfolk Southern accident in Ohio."
+        ]
+      ]
+    ],
+    [
+      10,
+      0
+    ],
+    [
+      10,
+      1
+    ],
+    [
+      10,
+      2
+    ],
+    [
+      10,
+      3
+    ],
+    [
+      1,
+      "h3",
+      [
+        [
+          0,
+          [],
+          0,
+          "Stuff The Lever Reported This Week:"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "• "
+        ],
+        [
+          0,
+          [
+            1,
+            2
+          ],
+          2,
+          "Where Is Buttigieg On The “Bomb Train” Threat?"
+        ],
+        [
+          0,
+          [],
+          0,
+          " — "
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "Buttigieg’s Transportation Department has yet to walk back a controversial Trump rule allowing trains to transport explosive liquefied natural gas."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "• "
+        ],
+        [
+          0,
+          [
+            3,
+            2
+          ],
+          2,
+          "Rail Lobbyists Pay Politico To Tout Train Safety"
+        ],
+        [
+          0,
+          [],
+          0,
+          " — "
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "The Beltway newsletter is running ads about the railroad industry’s alleged commitment to safety as rail lobbyists fight new safety rules."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "• "
+        ],
+        [
+          0,
+          [
+            4,
+            2
+          ],
+          2,
+          "Private Equity’s Senator Gets Big Payout"
+        ],
+        [
+          0,
+          [],
+          0,
+          " —"
+        ],
+        [
+          0,
+          [
+            2
+          ],
+          1,
+          " "
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "Retiring Sen. Pat Toomey is joining Apollo Global Management after helping enrich the private equity industry during his time in Congress."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "• "
+        ],
+        [
+          0,
+          [
+            5,
+            2
+          ],
+          2,
+          "Hochul Vetoed Key Rail Safety Bill"
+        ],
+        [
+          0,
+          [],
+          0,
+          " — "
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "New York Gov. Kathy Hochul calls for new rail safety regulations — after rejecting legislation requiring trains to be staffed with at least two crew members."
+        ]
+      ]
+    ],
+    [
+      1,
+      "h3",
+      [
+        [
+          0,
+          [],
+          0,
+          "Stuff To Watch & Listen To:"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "• "
+        ],
+        [
+          0,
+          [
+            6,
+            2
+          ],
+          2,
+          "LEVER TIME: How to Derail the Anti-Safety Train Lobby (w/ Rep. Chris Deluzio)"
+        ],
+        [
+          0,
+          [],
+          0,
+          " "
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "— On this week’s Lever Time: David speaks with Rep. Chris Deluzio (D-Penn.) about the latest efforts to hold railroad companies accountable."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "• "
+        ],
+        [
+          0,
+          [
+            7,
+            2
+          ],
+          2,
+          "Movies vs. Capitalism: Working Girl (w/ Ele Woods)"
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          " — On this week's MVC, the group unpacks the original \"girlboss\" movie, "
+        ],
+        [
+          0,
+          [],
+          0,
+          "Working Girl."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "• "
+        ],
+        [
+          0,
+          [
+            8,
+            2
+          ],
+          2,
+          "Defensiveness and Demagoguery in East Palestine"
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          " — Matthew Cunningham-Cook appears on the "
+        ],
+        [
+          0,
+          [],
+          0,
+          "Citations Needed Podcast"
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          " to discuss the train derailment in East Palestine, Ohio, and the human stakes of decades of bipartisan deregulation and union-busting."
+        ]
+      ]
+    ],
+    [
+      1,
+      "h3",
+      [
+        [
+          0,
+          [],
+          0,
+          "Thank You To Our Newest Lever Leaders:"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Lever Leaders provide us with our highest level of support and score additional perks in return.  Each week, we highlight folks who’ve taken that step, and the reasons they say they’ve done so."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [
+            2
+          ],
+          1,
+          "• Kevin P. Moran"
+        ],
+        [
+          0,
+          [],
+          0,
+          ": It’s sad we can’t rely on legacy media today, but Sirota has been a lifelong activist for truth and justice and I support that."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [
+            2
+          ],
+          1,
+          "• A Very Thankful Subscriber"
+        ],
+        [
+          0,
+          [],
+          0,
+          ": "
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "The Lever"
+        ],
+        [
+          0,
+          [],
+          0,
+          "’s ability to continually break critical news and expose stories that others aren’t willing to cover compelled me to further support this important work."
+        ]
+      ]
+    ],
+    [
+      10,
+      4
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "NOTE: You must be logged in to LeverNews.com when you click the button above to upgrade."
+        ]
+      ]
+    ],
+    [
+      10,
+      5
+    ],
+    [
+      1,
+      "h3",
+      [
+        [
+          0,
+          [],
+          0,
+          "This Is How It’s Supposed To Work"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "By "
+        ],
+        [
+          0,
+          [
+            9
+          ],
+          1,
+          "David Sirota"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "In the "
+        ],
+        [
+          0,
+          [
+            10
+          ],
+          1,
+          "Schoolhouse Rock"
+        ],
+        [
+          0,
+          [],
+          0,
+          " version of America, the press raises awareness about a problem, informed voters pressure both parties’ lawmakers, who then say “you’re right, there oughta be a law” — and then the legislative process proceeds."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "This is how America’s political process is actually supposed to function, but "
+        ],
+        [
+          0,
+          [
+            11
+          ],
+          1,
+          "almost never does"
+        ],
+        [
+          0,
+          [],
+          0,
+          " in the "
+        ],
+        [
+          0,
+          [
+            12
+          ],
+          1,
+          "wretched hive of scum and villainy"
+        ],
+        [
+          0,
+          [],
+          0,
+          " that is modern Washington. And yet in a rare turn of events, the process seems to be working right now, which (to borrow a Bidenism) is a big f-ing deal."
+        ]
+      ]
+    ],
+    [
+      10,
+      6
+    ],
+    [
+      10,
+      7
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "In the weeks since the East Palestine train derailment, "
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "The Lever"
+        ],
+        [
+          0,
+          [],
+          0,
+          " has spotlighted the "
+        ],
+        [
+          0,
+          [
+            13
+          ],
+          1,
+          "governmental"
+        ],
+        [
+          0,
+          [],
+          0,
+          " "
+        ],
+        [
+          0,
+          [
+            14
+          ],
+          1,
+          "decisions"
+        ],
+        [
+          0,
+          [],
+          0,
+          " that "
+        ],
+        [
+          0,
+          [
+            1
+          ],
+          1,
+          "deregulated"
+        ],
+        [
+          0,
+          [],
+          0,
+          " the nation’s rail system. That reporting shamed the national press into "
+        ],
+        [
+          0,
+          [
+            15
+          ],
+          1,
+          "echoing our coverage"
+        ],
+        [
+          0,
+          [],
+          0,
+          " — which was soon "
+        ],
+        [
+          0,
+          [
+            16
+          ],
+          1,
+          "credited"
+        ],
+        [
+          0,
+          [],
+          0,
+          " by lawmakers for raising public awareness of some of the biggest rail safety loopholes that were baked into America’s laws by corporate lobbyists and captured regulators."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Now, that reporting and subsequent public pressure has prompted "
+        ],
+        [
+          0,
+          [
+            17
+          ],
+          1,
+          "lawmakers"
+        ],
+        [
+          0,
+          [],
+          0,
+          " from "
+        ],
+        [
+          0,
+          [
+            18
+          ],
+          1,
+          "both parties"
+        ],
+        [
+          0,
+          [],
+          0,
+          " to spearhead legislation to fix some of the problems. It has also spurred the Biden administration to move from "
+        ],
+        [
+          0,
+          [
+            14
+          ],
+          1,
+          "total silence"
+        ],
+        [
+          0,
+          [],
+          0,
+          ", to "
+        ],
+        [
+          0,
+          [
+            19
+          ],
+          1,
+          "pass-the-buck political deflection"
+        ],
+        [
+          0,
+          [],
+          0,
+          ", to belated "
+        ],
+        [
+          0,
+          [
+            20
+          ],
+          1,
+          "promises"
+        ],
+        [
+          0,
+          [],
+          0,
+          " to lead the campaign for reform."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Cynics might argue that some of the Biden officials and lawmakers participating in the legislative and regulatory push are motivated not by principle, but by a desire to avoid blame and damage their partisan opponents. That may be entirely true — but that’s a feature, not a bug."
+        ]
+      ]
+    ],
+    [
+      10,
+      8
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "American democracy is predicated on the theory that different factions will engage in ruthless and messy competitions to show who is most responsive to voters’ demands — and that such competitions will ultimately produce positive results, regardless of the amorality and opportunism of the individual players."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "This process is most often short circuited by political corruption and by a corporate media that shields rather than scrutinizes power — both of which almost always "
+        ],
+        [
+          0,
+          [
+            21
+          ],
+          1,
+          "cut voters out of the game"
+        ],
+        [
+          0,
+          [],
+          0,
+          "."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "But despite that corruption and despite the media’s best efforts to "
+        ],
+        [
+          0,
+          [
+            22
+          ],
+          1,
+          "shadowban important facts"
+        ],
+        [
+          0,
+          [],
+          0,
+          ", the short-circuiting isn’t (yet) happening. On the contrary: The process is actually working — at least for now."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "As always, the devil will be in the legislative and regulatory details — and this coming week, "
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "The Lever"
+        ],
+        [
+          0,
+          [],
+          0,
+          " will be providing our readers a critical look at those details, so that they can judge the merits of the legislation."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "No doubt, it will take continued vigilance to pull the levers of power in the right direction, against the wishes of powerful lobbyists and the legislators they own. That pressure — in the form of journalism and activism — will be necessary to make sure rhetorical promises of better policy become loophole-free legislative text, and then become new laws that actually fix problems."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "We will continue doing our part, just as we do on every issue we cover. Why? Because that is "
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "The Lever"
+        ],
+        [
+          0,
+          [],
+          0,
+          "’s core mission, which sets us apart from almost every other media outlet."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "We don’t accept the nihilistic notion that nothing can ever change, and that all efforts to pressure the political system are pointless, stupid and in vain."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "We know full well that the system is deeply corrupt and dominated by powerbrokers with impure motives, but we also know the system is mutable — if enough leverage is applied."
+        ]
+      ]
+    ],
+    [
+      10,
+      9
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Similarly, we don’t do this work to entertain, amuse, or distract audiences, nor do we do it to comfort, placate, and reassure partisan audiences who never want to face inconvenient truths."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "We do this work to inform, motivate, and empower our readers to force changes that improve the world."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "That’s what’s happening right now, thanks to our paying subscribers’ support and activism. So let’s keep the pressure on."
+        ]
+      ]
+    ],
+    [
+      10,
+      10
+    ],
+    [
+      10,
+      11
+    ],
+    [
+      10,
+      12
+    ],
+    [
+      1,
+      "p",
+      []
+    ],
+    [
+      1,
+      "p",
+      []
+    ],
+    [
+      1,
+      "p",
+      []
+    ]
+  ],
+  "ghostVersion": "4.0"
+}

@@ -1,0 +1,568 @@
+{
+  "version": "0.3.1",
+  "atoms": [],
+  "cards": [
+    [
+      "video",
+      {
+        "loop": false,
+        "src": "__GHOST_URL__/content/media/2022/03/RPReplay_Final1646837872_2-HD-720p-copy.mp4",
+        "fileName": "RPReplay_Final1646837872_2-HD 720p copy.mp4",
+        "width": 332,
+        "height": 720,
+        "duration": 18.8,
+        "mimeType": "video/mp4",
+        "customThumbnailSrc": "__GHOST_URL__/content/images/2022/03/IMG_0530.jpeg"
+      }
+    ],
+    [
+      "callout",
+      {
+        "calloutEmoji": "🌶️",
+        "calloutText": "Warning: this is a spicy hot take. This app has only been out for a few hours, so this post is based on early impressions and some quick extrapolation of the strategy behind it.",
+        "backgroundColor": "red"
+      }
+    ],
+    [
+      "image",
+      {
+        "src": "__GHOST_URL__/content/images/2022/03/IMG_0526.jpeg",
+        "alt": "Turning off emails in the Substack app",
+        "title": "",
+        "caption": "Turning off emails in the Substack app"
+      }
+    ],
+    [
+      "image",
+      {
+        "src": "__GHOST_URL__/content/images/2022/03/IMG_0528.jpeg",
+        "alt": "Substack notifications on my lockscreen",
+        "title": "",
+        "caption": "Substack notifications on my lockscreen"
+      }
+    ],
+    [
+      "hr",
+      {}
+    ]
+  ],
+  "markups": [
+    [
+      "a",
+      [
+        "href",
+        "https://on.substack.com/p/new-reader-homepage?s=r"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://on.substack.com/p/substackapp?s=r"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://twitter.com/hamishmckenzie/status/1501561280796135425?s=21"
+      ]
+    ],
+    [
+      "em"
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://ghost.org"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.getrevue.co"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://buttondown.email"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.beehiiv.com"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://apps.apple.com/gb/app/substack-reader/id1581650857"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://8g5zau8cti6.typeform.com/to/YPiI2mMg"
+      ]
+    ]
+  ],
+  "sections": [
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "It was almost inevitable that, eventually, Substack would build an app. From the moment the "
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "beta version of its web-based reader"
+        ],
+        [
+          0,
+          [],
+          0,
+          " appeared, you could pretty much start the countdown to the arrival of the mobile app."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [
+            1
+          ],
+          1,
+          "Today, it arrived"
+        ],
+        [
+          0,
+          [],
+          0,
+          ":"
+        ]
+      ]
+    ],
+    [
+      10,
+      0
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "What is it? It’s basically like Google Reader was, a reading app for a diverse range of sites (or newsletters, in this case) and, indeed, one of Substack’s founders makes "
+        ],
+        [
+          0,
+          [
+            2
+          ],
+          1,
+          "that very point"
+        ],
+        [
+          0,
+          [],
+          0,
+          ":"
+        ]
+      ]
+    ],
+    [
+      1,
+      "blockquote",
+      [
+        [
+          0,
+          [],
+          0,
+          "I remember Google Reader. I remember how good it felt to be a thinking person who liked to read on the internet. I remember being able to follow my favorite writers and read them at length, where their arguments could be made calmly, where there was a point in aiming for beauty."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "However, there’s one massive difference he’s just glided over: instead of being for "
+        ],
+        [
+          0,
+          [
+            3
+          ],
+          1,
+          "any"
+        ],
+        [
+          0,
+          [],
+          0,
+          " blog or site with an RSS feed, his app is just for Substacks. Yeah, they’re Substacks now, rather than newsletters. And let’s look at why."
+        ]
+      ]
+    ],
+    [
+      10,
+      1
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Substack moves beyond newsletters"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "One of the most interesting things in the initial set-up workflow is this:"
+        ]
+      ]
+    ],
+    [
+      10,
+      2
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Once you turn on app notifications, the app lets you turn "
+        ],
+        [
+          0,
+          [
+            3
+          ],
+          1,
+          "off"
+        ],
+        [
+          0,
+          [],
+          0,
+          " emails. Yup. The hot newsletter platform lets you turn off the very thing it made its name with. All of a sudden, instead of being an email service, Substack becomes a content app on your phone or iPad."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "That’s a huge paradigm shift — and a big gamble for Substack. We all go to our email inboxes regularly, even if we don’t really want to. But this option turns your Substack-based newsletters into yet another app competing for your attention. Not everyone will turn this on. Not everyone will download the app. But, for the regular newsletter reader, it's a seductive option. "
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "For what it’s worth, I immediately switched to app notifications. I’m excited to have a slightly cleaner in-box, and not waste so much time filing emails into my (badly neglected) To Read folder…"
+        ]
+      ]
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Life in the notifications"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "It does mean that app-only users are probably going to be highly dependent on notifications to bring them into the app. Sure, the notifications are good:"
+        ]
+      ]
+    ],
+    [
+      10,
+      3
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "But they do run the risk of people see their newsletters less, if they're busy or not paying attention when their favourite “newsletters” arrive. It also makes the app much more dependent on the skill of the writers in crafting headlines that will grab attention in push notifications, which will be an interesting challenge for some. Probably not gonna tap on that second one up there…"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "However, there’s also a lot to be gained here. If — "
+        ],
+        [
+          0,
+          [
+            3
+          ],
+          1,
+          "if"
+        ],
+        [
+          0,
+          [],
+          0,
+          " — this works out for Substack, it becomes less a newsletter company, and more a generalised content platform. It becomes less open, as it sucks people’s available attention into the app. If the notifications work, people might slip into a habit of opening the app, and just reading there, much as they do with Facebook."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "But these are all big “ifs”."
+        ]
+      ]
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Building an attention moat"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "It always seemed unlikely the VCs backing Substack would be happy with it existing mainly in an open ecosystem like email. Well, now it has its app, and the beginnings of its own platform. That’s going to make the VCs happy."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Why? Because if your audience is in their in-box, you can switch to "
+        ],
+        [
+          0,
+          [
+            4
+          ],
+          1,
+          "Ghost"
+        ],
+        [
+          0,
+          [],
+          0,
+          " or "
+        ],
+        [
+          0,
+          [
+            5
+          ],
+          1,
+          "Revue"
+        ],
+        [
+          0,
+          [],
+          0,
+          " or "
+        ],
+        [
+          0,
+          [
+            6
+          ],
+          1,
+          "Buttondown"
+        ],
+        [
+          0,
+          [],
+          0,
+          " or "
+        ],
+        [
+          0,
+          [
+            7
+          ],
+          1,
+          "Beehiiv"
+        ],
+        [
+          0,
+          [],
+          0,
+          " seamlessly, and lose nothing. If your audience is in Substack’s app, as a writer, you risk losing that audience’s attention by shifting. You are disincentivised to do so. It's a soft form of lock in, that will grow as the app usage grows — if it does. "
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "And so, as positive as the initial buzz is about the app, there are some "
+        ],
+        [
+          0,
+          [
+            3
+          ],
+          1,
+          "really"
+        ],
+        [
+          0,
+          [],
+          0,
+          " big questions in the air. Will it make the writers happy? Will it work for readers?"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "It’s going to be interesting finding out."
+        ]
+      ]
+    ],
+    [
+      10,
+      4
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "You can download the app for "
+        ],
+        [
+          0,
+          [
+            8
+          ],
+          1,
+          "iOS or iPad"
+        ],
+        [
+          0,
+          [],
+          0,
+          ", or register for information about the "
+        ],
+        [
+          0,
+          [
+            9
+          ],
+          1,
+          "forthcoming Android version"
+        ],
+        [
+          0,
+          [],
+          0,
+          "."
+        ]
+      ]
+    ]
+  ],
+  "ghostVersion": "4.0"
+}

@@ -1,0 +1,497 @@
+{
+  "version": "0.3.1",
+  "atoms": [],
+  "cards": [
+    [
+      "hr",
+      {}
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "html",
+      {
+        "html": "<table id=\"production-numbers-table\">\n<tbody>\n\t<tr>\n\t\t<td>Greenbriar</td>\n\t\t<td>8,257</td>\n\t</tr>\n    \t<tr>\n\t\t<td>Chevelle Standard</td>\n\t\t<td>39,440</td>\n\t</tr>\n    \t<tr>\n\t\t<td>El Camino and El Camino Custom</td>\n\t\t<td>41,606</td>\n\t</tr>\n    \t<tr>\n\t\t<td>Concours</td>\n\t\t<td>60,755</td>\n\t</tr>\n    \t<tr>\n\t\t<td>Malibu</td>\n\t\t<td>263,680</td>\n\t</tr>\n    \t<tr>\n\t\t<td>Monte Carlo</td>\n\t\t<td>112,599</td>\n\t</tr>\n    \t<tr>\n\t\t<td>Nomad</td>\n\t\t<td>9,329</td>\n\t</tr>\n\t\t<td><b>Total Production</b></td>\n\t\t<td><b>535,666</b></td>\n\t</tr>\n</tbody>\n</table>"
+      }
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "html",
+      {
+        "html": "<table id=\"performance-specs-table\">\n<tbody>\n\t<tr>\n\t\t<th><b>Engine</b></th>\n\t\t<th><b>Size</b></td>\n\t\t<th><b>Carb.</b></td>\n\t\t<th><b>HP</b></td>\n\t\t<th><b>Torque</b></td>\n\t\t<th><b>0 to 60</b></td>\n\t\t<th><b>Quarter mile</b></td>\n\t</tr>\n\t<tr>\n\t\t<td>I-6</td>\n\t\t<td>250ci</td>\n\t\t<td>1x1bbl</td>\n\t\t<td>145</td>\n\t\t<td>110 lb-ft</td>\n\t\t<td>-</td>\n\t\t<td>-</td>\n\t</tr>\n\t<tr>\n\t\t<td>V8</td>\n\t\t<td>307ci</td>\n\t\t<td>1x2bbl</td>\n\t\t<td>140</td>\n\t\t<td>300 lb-ft</td>\n\t\t<td>-</td>\n\t\t<td>-</td>\n\t</tr>\n\t<tr>\n\t\t<td>V8</td>\n\t\t<td>350ci</td>\n\t\t<td>1x4bbl</td>\n\t\t<td>270</td>\n\t\t<td>300 lb-ft</td>\n\t\t<td>-</td>\n\t\t<td>-</td>\n\t</tr>\n\t<tr>\n\t\t<td>V8</td>\n\t\t<td>350ci</td>\n\t\t<td>1x2bbl</td>\n\t\t<td>245</td>\n\t\t<td>165 lb-ft</td>\n\t\t<td>-</td>\n\t\t<td>-</td>\n\t</tr>\n\t<tr>\n\t\t<td>V8</td>\n\t\t<td>402ci</td>\n\t\t<td>1x4bbl</td>\n\t\t<td>300</td>\n\t\t<td>260 lb-ft</td>\n\t\t<td>-</td>\n\t\t<td>-</td>\n\t</tr>\n\t<tr>\n\t\t<td>V8</td>\n\t\t<td>454ci</td>\n\t\t<td>1x4bbl</td>\n\t\t<td>365</td>\n\t\t<td>390 lb-ft</td>\n\t\t<td>6.0 sec</td>\n\t\t<td>14.0 sec at 100 mph</td>\n\t</tr>\n</tbody>\n</table>"
+      }
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "html",
+      {
+        "html": "<h4 id='colors-sub-heading'>Exterior</h4>\n<div class=\"colors-row\">\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #ece4d3\"></div>\n        <div class=\"color-name\">Antique White</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #8d989f\"></div>\n        <div class=\"color-name\">Nevada Silver</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #000000\"></div>\n        <div class=\"color-name\">Tuxedo Black</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #4a6482\"></div>\n        <div class=\"color-name\">Ascot Blue</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #2b4d73\"></div>\n        <div class=\"color-name\">Mulsanne Blue</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #949b67\"></div>\n        <div class=\"color-name\">Cottonwood Green</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #9dab46\"></div>\n        <div class=\"color-name\">Lime Green</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #383e34\"></div>\n        <div class=\"color-name\">Antique Green</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #f5d547\"></div>\n        <div class=\"color-name\">Sunflower Yellow</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #b19443\"></div>\n        <div class=\"color-name\">Placer Gold</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #c9b89a\"></div>\n        <div class=\"color-name\">Sandalwood</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #a0573d\"></div>\n        <div class=\"color-name\">Burnt Orange</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #562d23\"></div>\n        <div class=\"color-name\">Classic Copper</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #a12a2c\"></div>\n        <div class=\"color-name\">Cranberry Red</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #543435\"></div>\n        <div class=\"color-name\">Rosewood Metallic</div>\n    </div>\n</div>\n\n<h4 id='colors-sub-heading'>Interior</h4>\n<div class=\"colors-row\">\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #000000\"></div>\n        <div class=\"color-name\">Black</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #2b4d73\"></div>\n        <div class=\"color-name\">Dark Blue</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #747053\"></div>\n        <div class=\"color-name\">Dark Jade</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #b49a77\"></div>\n        <div class=\"color-name\">Saddle</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #d8c0a2\"></div>\n        <div class=\"color-name\">Sandalwood</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #bca393\"></div>\n        <div class=\"color-name\">Beige</div>\n    </div>\n</div>\n"
+      }
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "gallery",
+      {
+        "images": [
+          {
+            "fileName": "477_1971chevelle_03_low_res.jpeg",
+            "row": 0,
+            "width": 790,
+            "height": 323,
+            "src": "__GHOST_URL__/content/images/2020/07/477_1971chevelle_03_low_res.jpeg"
+          },
+          {
+            "fileName": "478_1971chevelle_04_low_res.jpeg",
+            "row": 0,
+            "width": 790,
+            "height": 324,
+            "src": "__GHOST_URL__/content/images/2020/07/478_1971chevelle_04_low_res.jpeg"
+          },
+          {
+            "fileName": "479_1971chevelle_05_low_res.jpeg",
+            "row": 0,
+            "width": 790,
+            "height": 652,
+            "src": "__GHOST_URL__/content/images/2020/07/479_1971chevelle_05_low_res.jpeg"
+          },
+          {
+            "fileName": "480_1971chevelle_06_low_res.jpeg",
+            "row": 1,
+            "width": 790,
+            "height": 647,
+            "src": "__GHOST_URL__/content/images/2020/07/480_1971chevelle_06_low_res.jpeg"
+          },
+          {
+            "fileName": "481_1971chevelle_07_low_res.jpeg",
+            "row": 1,
+            "width": 790,
+            "height": 325,
+            "src": "__GHOST_URL__/content/images/2020/07/481_1971chevelle_07_low_res.jpeg"
+          },
+          {
+            "fileName": "482_1971chevelle_08_low_res.jpeg",
+            "row": 1,
+            "width": 790,
+            "height": 650,
+            "src": "__GHOST_URL__/content/images/2020/07/482_1971chevelle_08_low_res.jpeg"
+          },
+          {
+            "fileName": "483_1971chevelle_09_low_res.jpeg",
+            "row": 2,
+            "width": 790,
+            "height": 649,
+            "src": "__GHOST_URL__/content/images/2020/07/483_1971chevelle_09_low_res.jpeg"
+          },
+          {
+            "fileName": "475_1971chevelle_01_low_res.jpeg",
+            "row": 2,
+            "width": 790,
+            "height": 647,
+            "src": "__GHOST_URL__/content/images/2020/07/475_1971chevelle_01_low_res.jpeg"
+          },
+          {
+            "fileName": "476_1971chevelle_02_low_res.jpeg",
+            "row": 2,
+            "width": 790,
+            "height": 327,
+            "src": "__GHOST_URL__/content/images/2020/07/476_1971chevelle_02_low_res.jpeg"
+          }
+        ],
+        "caption": "1971 Chevrolet Chevelle OEM Brochures"
+      }
+    ],
+    [
+      "gallery",
+      {
+        "images": [
+          {
+            "fileName": "484_1971chevelle_10_low_res.jpeg",
+            "row": 0,
+            "width": 790,
+            "height": 649,
+            "src": "__GHOST_URL__/content/images/2020/07/484_1971chevelle_10_low_res.jpeg"
+          },
+          {
+            "fileName": "485_1971chevelle_11_low_res.jpeg",
+            "row": 0,
+            "width": 790,
+            "height": 649,
+            "src": "__GHOST_URL__/content/images/2020/07/485_1971chevelle_11_low_res.jpeg"
+          },
+          {
+            "fileName": "486_1971chevelle_12_low_res.jpeg",
+            "row": 0,
+            "width": 790,
+            "height": 648,
+            "src": "__GHOST_URL__/content/images/2020/07/486_1971chevelle_12_low_res.jpeg"
+          }
+        ],
+        "caption": "1971 Chevrolet Chevelle OEM Brochures"
+      }
+    ],
+    [
+      "hr",
+      {}
+    ]
+  ],
+  "markups": [
+    [
+      "strong"
+    ],
+    [
+      "em"
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/tag/research/"
+      ]
+    ]
+  ],
+  "sections": [
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Overview"
+        ]
+      ]
+    ],
+    [
+      10,
+      0
+    ],
+    [
+      1,
+      "h3",
+      [
+        [
+          0,
+          [],
+          0,
+          "The 1971 Chevelle featured the single headlight designs taken from the Monte Carlo and could be optioned with hood stripes and cowl induction hood."
+        ]
+      ]
+    ],
+    [
+      10,
+      1
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "The 1971 Chevelle featured the single headlight designs taken from the Monte Carlo and could be optioned with hood stripes and cowl induction hood."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "With high priced fuel and insurance premiums on top of the newer emissions standards, the Chevelle saw a collapse in performance options. Also, GM enacted a rule that all engines have to run on unleaded fuel; therefore they detuned all its engines and introduced two new entry-level engines. The new standard V8 was a dual-barrel single-exhaust option, and the optional 350ci had 270 hp. The 402 engine was renamed the Turbo Jet 400 and offered only 300hp. The LS6 454 couldn’t pass the emissions and was not offered, but the LS5 was still offered, surprisingly, and churned out 365hp."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "The 300 Deluxe series’ name was changed to ‘Chevelle.’"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "The base Chevelle was essentially the same as the 300 Deluxe, offering only two models: the sports coupe, and the 4-door sedan."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "The Malibu changed very little, with the exception of the aforementioned headlamp change."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "The SS Package was known as the RPO Z15 and offered only the LS5 454."
+        ]
+      ]
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Production Numbers"
+        ]
+      ]
+    ],
+    [
+      10,
+      2
+    ],
+    [
+      10,
+      3
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Performance Specs"
+        ]
+      ]
+    ],
+    [
+      10,
+      4
+    ],
+    [
+      10,
+      5
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Transmission"
+        ]
+      ]
+    ],
+    [
+      10,
+      6
+    ],
+    [
+      3,
+      "ul",
+      [
+        [
+          [
+            0,
+            [
+              0,
+              0
+            ],
+            2,
+            "3-Speed Manual"
+          ]
+        ],
+        [
+          [
+            0,
+            [
+              0,
+              0
+            ],
+            2,
+            "4-Speed Manual"
+          ]
+        ],
+        [
+          [
+            0,
+            [
+              0,
+              0
+            ],
+            2,
+            "Powerglide"
+          ]
+        ],
+        [
+          [
+            0,
+            [
+              0,
+              0
+            ],
+            2,
+            "Turbo Hydra-Matic"
+          ]
+        ]
+      ]
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Paint & Colors"
+        ]
+      ]
+    ],
+    [
+      10,
+      7
+    ],
+    [
+      10,
+      8
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "OEM Brochures"
+        ]
+      ]
+    ],
+    [
+      10,
+      9
+    ],
+    [
+      10,
+      10
+    ],
+    [
+      10,
+      11
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "About the Knowledge Base"
+        ]
+      ]
+    ],
+    [
+      10,
+      12
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "The Motorious Knowledge Base provides a comprehensive vehicle overview for the 1971 Chevrolet Chevelle"
+        ],
+        [
+          0,
+          [
+            1,
+            1
+          ],
+          2,
+          " "
+        ],
+        [
+          0,
+          [],
+          0,
+          "including production numbers, performance specs, factory colors, and OEM brochures. Check out additional model years or related content linked to this article or view other Makes and Models in our "
+        ],
+        [
+          0,
+          [
+            2
+          ],
+          1,
+          "Research"
+        ],
+        [
+          0,
+          [],
+          0,
+          " center."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "If you have any interesting facts about the 1971 Chevrolet Chevelle to add, want to tell us how we did covering the Chevelle, or want to tell us about yours, please leave a comment below."
+        ]
+      ]
+    ]
+  ],
+  "ghostVersion": "3.0"
+}

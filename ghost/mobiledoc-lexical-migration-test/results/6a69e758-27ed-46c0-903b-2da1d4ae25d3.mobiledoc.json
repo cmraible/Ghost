@@ -1,0 +1,134 @@
+{
+  "version": "0.3.1",
+  "atoms": [],
+  "cards": [
+    [
+      "email-cta",
+      {
+        "showButton": true,
+        "showDividers": false,
+        "segment": "status:free",
+        "alignment": "center",
+        "html": "<p><strong><em>This is You Love To See It — a weekly feature reviewing good news, progress and action steps that’s one of the many features available only to </em>Lever<em> supporting subscribers.&nbsp;</em></strong></p><p><strong><em>Please <a href=\"https://levernews.com/membership\">become a supporting subscriber</a>. You get access to exclusive content like this, <a href=\"__GHOST_URL__/citizens-guide/\">digital publications</a>, and live events </em></strong>—<strong><em> and you support this journalism.</em></strong></p>",
+        "buttonText": "Upgrade",
+        "buttonUrl": "https://levernews.com/membership"
+      }
+    ],
+    [
+      "email-cta",
+      {
+        "showButton": true,
+        "showDividers": false,
+        "segment": "status:free",
+        "alignment": "center",
+        "html": "<p><strong><em>This is an excerpt from <a href=\"__GHOST_URL__/you-love-to-see-it-nlrb-vs-union-busters/\">today’s edition of You Love To See It</a> — a weekly feature reviewing good news, progress and action steps for supporting subscriber. To read the entire article and access all of our subscriber-only content, <a href=\"https://levernews.com/membership\">click here</a> to become a </em>Lever<em> supporting subscriber for $8 a month or $70 a year. When you subscribe, you are helping us do this reporting and hire more journalists</em></strong></p>",
+        "buttonText": "Upgrade",
+        "buttonUrl": "https://levernews.com/membership"
+      }
+    ]
+  ],
+  "markups": [
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/you-love-to-see-it-nlrb-vs-union-busters/"
+      ]
+    ],
+    [
+      "strong"
+    ]
+  ],
+  "sections": [
+    [
+      10,
+      0
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Good things are happening! In the wake of Amazon workers on Staten Island voting to form the first-ever U.S. union at the company, entrenched labor unions are rethinking their approach to organizing. Also, the top lawyer at the federal agency enforcing labor laws issued a memo that could make it easier for workers, including at Amazon, to overcome union busting. And while the Biden administration is still not using broad executive action to lower health care costs, cancel student debt, or tackle the climate crisis, the president has issued some minor orders that could help people at the margins — and make the case for more ambitious executive actions to come. Finally, an archival discovery reveals an iconic musician speaking out in support of striking teachers."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "All this and much more in "
+        ],
+        [
+          0,
+          [
+            0,
+            1
+          ],
+          2,
+          "this week’s edition of You Love To See It"
+        ],
+        [
+          0,
+          [],
+          0,
+          ", exclusive for supporting subscribers."
+        ]
+      ]
+    ],
+    [
+      1,
+      "h3",
+      [
+        [
+          0,
+          [],
+          0,
+          "Also:"
+        ]
+      ]
+    ],
+    [
+      3,
+      "ul",
+      [
+        [
+          [
+            0,
+            [],
+            0,
+            "Entrenched labor unions offer unconditional support to independent organizing efforts."
+          ]
+        ],
+        [
+          [
+            0,
+            [],
+            0,
+            "Biden (once again) extended the pause on student loan payments."
+          ]
+        ],
+        [
+          [
+            0,
+            [],
+            0,
+            "The EPA will  issue new restrictions  on a major carcinogen for the first time in decades."
+          ]
+        ]
+      ]
+    ],
+    [
+      10,
+      1
+    ]
+  ],
+  "ghostVersion": "4.0"
+}

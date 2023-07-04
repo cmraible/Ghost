@@ -1,0 +1,490 @@
+{
+  "version": "0.3.1",
+  "atoms": [],
+  "cards": [
+    [
+      "hr",
+      {}
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "html",
+      {
+        "html": "<table id=\"production-numbers-table\">\n<tbody>\n\t<tr>\n\t\t<td>Coupe DeVille</td>\n\t\t<td>76,043</td>\n\t</tr>\n    \t<tr>\n\t\t<td>4-DR Hardtop</td>\n\t\t<td>83,274</td>\n\t</tr>\n    \t<tr>\n\t\t<td>4-DR Sedan</td>\n\t\t<td>7,230</td>\n\t</tr>\n    \t<tr>\n\t\t<td>2-DR Convertible</td>\n\t\t<td>15,172</td>\n\t</tr>\n\t\t<td><b>Total Production</b></td>\n\t\t<td><b>181,719</b></td>\n\t</tr>\n</tbody>\n</table>"
+      }
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "html",
+      {
+        "html": "<table id=\"performance-specs-table\">\n<tbody>\n\t<tr>\n\t\t<th><b>Engine</b></th>\n\t\t<th><b>Size</b></td>\n\t\t<th><b>Carb.</b></td>\n\t\t<th><b>HP</b></td>\n\t\t<th><b>Torque</b></td>\n\t\t<th><b>0 to 60</b></td>\n\t\t<th><b>Quarter mile</b></td>\n\t</tr>\n\t<tr>\n\t\t<td>OHV V8</td>\n\t\t<td>472ci</td>\n\t\t<td>1x4bbl</td>\n\t\t<td>375</td>\n\t\t<td>525 lb-ft</td>\n\t\t<td>8.1 sec</td>\n\t\t<td>15.9 sec</td>\n\t</tr>\n</tbody>\n</table>"
+      }
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "html",
+      {
+        "html": "<h4 id='colors-sub-heading'>Exterior</h4>\n<div class=\"colors-row\">\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #000000\"></div>\n        <div class=\"color-name\">Sable Black</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #ece4d3\"></div>\n        <div class=\"color-name\">Cotillion White</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #747b80\"></div>\n        <div class=\"color-name\">Patina Silver</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #576576\"></div>\n        <div class=\"color-name\">Oxford Gray</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #43494e\"></div>\n        <div class=\"color-name\">Phantom Gray</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #326ec8\"></div>\n        <div class=\"color-name\">Corinthian Blue</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #212c3e\"></div>\n        <div class=\"color-name\">Candor Blue</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #63888e\"></div>\n        <div class=\"color-name\">Adriatic Turquoise</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #817f6b\"></div>\n        <div class=\"color-name\">Lanai Green</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #2b352b\"></div>\n        <div class=\"color-name\">Glenmore Green</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #9b8550\"></div>\n        <div class=\"color-name\">Byzantine Gold</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #4e4b37\"></div>\n        <div class=\"color-name\">Bayberry</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #98907a\"></div>\n        <div class=\"color-name\">Sauterne</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #302b29\"></div>\n        <div class=\"color-name\">Dark Walnut</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #692728\"></div>\n        <div class=\"color-name\">San Mateo Red</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #2d242d\"></div>\n        <div class=\"color-name\">Monarch Burgundy</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #223354\"></div>\n        <div class=\"color-name\">Spartacus Blue Firemist</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #2c5265\"></div>\n        <div class=\"color-name\">Lucerne Aqua</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #8f613e\"></div>\n        <div class=\"color-name\">Regency Gold (Bronze) Firemist</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #643d27\"></div>\n        <div class=\"color-name\">Cinnamon Firemist</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #274a3d\"></div>\n        <div class=\"color-name\">Nottingham Green Firemist</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #42231e\"></div>\n        <div class=\"color-name\">Brairwood Firemist</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #634a5e\"></div>\n        <div class=\"color-name\">Chateau Mauve Firemist</div>\n    </div>\n</div>\n\n<h4 id='colors-sub-heading'>Interior</h4>\n<div class=\"colors-row\">\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #000000\"></div>\n        <div class=\"color-name\">Black</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #c64442\"></div>\n        <div class=\"color-name\">Medium Red</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #1a221e\"></div>\n        <div class=\"color-name\">Dark Green</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #4e7082\"></div>\n        <div class=\"color-name\">Medium Blue</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #f5ebd5\"></div>\n        <div class=\"color-name\">White</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #63888e\"></div>\n        <div class=\"color-name\">Medium Turquoise</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #8f613e\"></div>\n        <div class=\"color-name\">Medium Gold</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #42231e\"></div>\n        <div class=\"color-name\">Antique Dark Brown</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #643d27\"></div>\n        <div class=\"color-name\">Antique Medium Beige</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #8f613e\"></div>\n        <div class=\"color-name\">Antique Medium Gold</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #634a5e\"></div>\n        <div class=\"color-name\">Dark Mauve</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #9b8550\"></div>\n        <div class=\"color-name\">Medium Beige</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #212c3e\"></div>\n        <div class=\"color-name\">Dark Blue</div>\n    </div>\n</div>\n"
+      }
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "gallery",
+      {
+        "images": [
+          {
+            "fileName": "2362_12_low_res.jpg",
+            "row": 0,
+            "width": 790,
+            "height": 629,
+            "src": "__GHOST_URL__/content/images/2020/07/2362_12_low_res.jpg"
+          },
+          {
+            "fileName": "2363_13_low_res.jpg",
+            "row": 0,
+            "width": 790,
+            "height": 608,
+            "src": "__GHOST_URL__/content/images/2020/07/2363_13_low_res.jpg"
+          },
+          {
+            "fileName": "2364_14_low_res.jpg",
+            "row": 0,
+            "width": 790,
+            "height": 616,
+            "src": "__GHOST_URL__/content/images/2020/07/2364_14_low_res.jpg"
+          },
+          {
+            "fileName": "2365_15_low_res.jpg",
+            "row": 1,
+            "width": 790,
+            "height": 617,
+            "src": "__GHOST_URL__/content/images/2020/07/2365_15_low_res.jpg"
+          },
+          {
+            "fileName": "2366_16_low_res.jpg",
+            "row": 1,
+            "width": 790,
+            "height": 628,
+            "src": "__GHOST_URL__/content/images/2020/07/2366_16_low_res.jpg"
+          },
+          {
+            "fileName": "2367_18_low_res.jpg",
+            "row": 1,
+            "width": 790,
+            "height": 628,
+            "src": "__GHOST_URL__/content/images/2020/07/2367_18_low_res.jpg"
+          },
+          {
+            "fileName": "2359_1_low_res.jpg",
+            "row": 2,
+            "width": 790,
+            "height": 611,
+            "src": "__GHOST_URL__/content/images/2020/07/2359_1_low_res.jpg"
+          },
+          {
+            "fileName": "2360_2_low_res.jpg",
+            "row": 2,
+            "width": 790,
+            "height": 612,
+            "src": "__GHOST_URL__/content/images/2020/07/2360_2_low_res.jpg"
+          }
+        ],
+        "caption": "1970 Cadillac DeVille OEM Brochures"
+      }
+    ],
+    [
+      "gallery",
+      {
+        "images": [
+          {
+            "fileName": "2369_24_low_res.jpg",
+            "row": 0,
+            "width": 790,
+            "height": 612,
+            "src": "__GHOST_URL__/content/images/2020/07/2369_24_low_res.jpg"
+          },
+          {
+            "fileName": "2370_25_low_res.jpg",
+            "row": 0,
+            "width": 790,
+            "height": 609,
+            "src": "__GHOST_URL__/content/images/2020/07/2370_25_low_res.jpg"
+          },
+          {
+            "fileName": "2371_27_low_res.jpg",
+            "row": 0,
+            "width": 790,
+            "height": 617,
+            "src": "__GHOST_URL__/content/images/2020/07/2371_27_low_res.jpg"
+          },
+          {
+            "fileName": "2372_70ca_17_low_res.jpg",
+            "row": 1,
+            "width": 790,
+            "height": 612,
+            "src": "__GHOST_URL__/content/images/2020/07/2372_70ca_17_low_res.jpg"
+          },
+          {
+            "fileName": "2373_70cad_low_res.jpg",
+            "row": 1,
+            "width": 684,
+            "height": 1024,
+            "src": "__GHOST_URL__/content/images/2020/07/2373_70cad_low_res.jpg"
+          },
+          {
+            "fileName": "2374_70cdv_low_res.jpg",
+            "row": 1,
+            "width": 684,
+            "height": 1024,
+            "src": "__GHOST_URL__/content/images/2020/07/2374_70cdv_low_res.jpg"
+          },
+          {
+            "fileName": "2375_70csdv_low_res.jpg",
+            "row": 2,
+            "width": 410,
+            "height": 595,
+            "src": "__GHOST_URL__/content/images/2020/07/2375_70csdv_low_res.jpg"
+          },
+          {
+            "fileName": "2376_s1_low_res.jpg",
+            "row": 2,
+            "width": 550,
+            "height": 709,
+            "src": "__GHOST_URL__/content/images/2020/07/2376_s1_low_res.jpg"
+          },
+          {
+            "fileName": "2368_19_low_res.jpg",
+            "row": 2,
+            "width": 790,
+            "height": 612,
+            "src": "__GHOST_URL__/content/images/2020/07/2368_19_low_res.jpg"
+          }
+        ],
+        "caption": "1970 Cadillac DeVille OEM Brochures"
+      }
+    ],
+    [
+      "hr",
+      {}
+    ]
+  ],
+  "markups": [
+    [
+      "strong"
+    ],
+    [
+      "em"
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/tag/research/"
+      ]
+    ]
+  ],
+  "sections": [
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Overview"
+        ]
+      ]
+    ],
+    [
+      10,
+      0
+    ],
+    [
+      1,
+      "h3",
+      [
+        [
+          0,
+          [],
+          0,
+          "The 1970 DeVille received a facelift that included a grille with 13 vertical blades set against a delicately cross-hatched rectangular opening."
+        ]
+      ]
+    ],
+    [
+      10,
+      1
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "The 1970 DeVille received a facelift that included a grille with 13 vertical blades set against a delicately cross-hatched rectangular opening. The bright metal headlamp surrounds were met with more body color paint for a more refined look. Narrow vertical \"vee\" taillights were seen again."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Exterior distinction for the DeVille were the tiffany-like DeVille scripts above the rear end of the belt molding and the use of long rectangular backup light lenses set into the lower bumper as opposed to the smaller square lenses used on the Calais."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "1970 would be the last model year for pillared sedans until hardtops were permanently dropped in 1977. It was also the last year the DeVille ever offered the convertible body style."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "DeVille's accounted for 76% of Cadillac sales in 1970 - never again would Cadillac sales be dominated to such a degree by a single model."
+        ]
+      ]
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Production Numbers"
+        ]
+      ]
+    ],
+    [
+      10,
+      2
+    ],
+    [
+      10,
+      3
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Performance Specs"
+        ]
+      ]
+    ],
+    [
+      10,
+      4
+    ],
+    [
+      10,
+      5
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Transmission"
+        ]
+      ]
+    ],
+    [
+      10,
+      6
+    ],
+    [
+      3,
+      "ul",
+      [
+        [
+          [
+            0,
+            [
+              0,
+              0
+            ],
+            2,
+            "Turbo Hydra-Matic Auto"
+          ]
+        ]
+      ]
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Paint & Colors"
+        ]
+      ]
+    ],
+    [
+      10,
+      7
+    ],
+    [
+      10,
+      8
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "OEM Brochures"
+        ]
+      ]
+    ],
+    [
+      10,
+      9
+    ],
+    [
+      10,
+      10
+    ],
+    [
+      10,
+      11
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "About the Knowledge Base"
+        ]
+      ]
+    ],
+    [
+      10,
+      12
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "The Motorious Knowledge Base provides a comprehensive vehicle overview for the 1970 Cadillac DeVille"
+        ],
+        [
+          0,
+          [
+            1,
+            1
+          ],
+          2,
+          " "
+        ],
+        [
+          0,
+          [],
+          0,
+          "including production numbers, performance specs, factory colors, and OEM brochures. Check out additional model years or related content linked to this article or view other Makes and Models in our "
+        ],
+        [
+          0,
+          [
+            2
+          ],
+          1,
+          "Research"
+        ],
+        [
+          0,
+          [],
+          0,
+          " center."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "If you have any interesting facts about the 1970 Cadillac DeVille"
+        ],
+        [
+          0,
+          [
+            1,
+            1
+          ],
+          2,
+          " "
+        ],
+        [
+          0,
+          [],
+          0,
+          "to add, want to tell us how we did covering the DeVille, or want to tell us about yours, please leave a comment below."
+        ]
+      ]
+    ]
+  ],
+  "ghostVersion": "3.0"
+}

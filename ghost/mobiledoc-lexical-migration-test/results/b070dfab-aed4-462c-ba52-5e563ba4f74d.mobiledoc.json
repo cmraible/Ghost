@@ -1,0 +1,176 @@
+{
+  "version": "0.3.1",
+  "atoms": [],
+  "cards": [
+    [
+      "email-cta",
+      {
+        "showButton": true,
+        "showDividers": false,
+        "segment": "status:free",
+        "alignment": "center",
+        "html": "<p><em><strong>Welcome to the Cheat Sheet, a Lever feature exclusive for our supporting subscribers that quickly gets you up to speed on a relevant news matter. In each Cheat Sheet, we will show you exactly what you need to know — including vital information corporate media is trying to cheat you out of learning.</strong></em></p>",
+        "buttonText": "Upgrade",
+        "buttonUrl": "https://levernews.com/membership/?utm_source=cheat&utm_medium=link&utm_campaign=upgrade"
+      }
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "email-cta",
+      {
+        "showButton": true,
+        "showDividers": false,
+        "segment": "status:free",
+        "alignment": "center",
+        "html": "",
+        "buttonText": "Upgrade",
+        "buttonUrl": "https://levernews.com/membership/?utm_source=cheat&utm_medium=link&utm_campaign=upgrade"
+      }
+    ],
+    [
+      "email",
+      {
+        "html": "<p><em><strong>Help us spread the word! </strong>Please forward this email to family and friends.</em></p><p><em><strong>Was this email forwarded to you? </strong><a href=\"https://levernews.com/membership/?utm_source=cheat-free&amp;utm_medium=link&amp;utm_campaign=forward-signup\">Sign up for free</a> to receive original reporting like this in your inbox every day.</em></p>"
+      }
+    ]
+  ],
+  "markups": [
+    [
+      "em"
+    ],
+    [
+      "strong"
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://levernews.com/membership/?utm_source=cheat&utm_medium=link&utm_campaign=upgrade"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/citizens-guide/?utm_source=cheat&utm_medium=link&utm_campaign=citizens-guide"
+      ]
+    ]
+  ],
+  "sections": [
+    [
+      10,
+      0
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "There is a major player in the U.S. health care system that flies under the radar but wields tremendous power in determining who gets access to life-saving medication. A group of businesses called Pharmacy Benefit Managers, or PBMs, set prescription drug benefits nationwide — and instead of passing savings they negotiate onto patients, these firms pocket the proceeds and reap gargantuan profits."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "A tiny handful of PBMs, most of which are owned by insurers, control nearly the entire market, shape the benefits of hundreds of millions of Americans, and boast sky-high revenues — yet most people don’t know they exist, and they have long skirted federal oversight."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "“Although many people have never heard of pharmacy benefit managers, these powerful middlemen have enormous influence over the U.S. prescription drug system,” said Federal Trade Commission (FTC) Chair Lina Khan in a June press release on the matter."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "In today’s Cheat Sheet, exclusively for supporting subscribers, we will teach you all about PBMs, explain why they’re so dangerous, and highlight what can be done to stop them."
+        ]
+      ]
+    ],
+    [
+      10,
+      1
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [
+            0,
+            1
+          ],
+          0,
+          "If you’d like to read the full Cheat Sheet, please "
+        ],
+        [
+          0,
+          [
+            2
+          ],
+          1,
+          "click here"
+        ],
+        [
+          0,
+          [],
+          2,
+          " to become an $8-a-month or $70-a-year supporting subscriber. When you become a supporting subscriber, you get this kind of exclusive content, you get access to our live events, you get our "
+        ],
+        [
+          0,
+          [
+            1,
+            3
+          ],
+          2,
+          "Citizens' Guide To Holding The Powerful Accountable"
+        ],
+        [
+          0,
+          [
+            0,
+            1
+          ],
+          2,
+          " — and you are helping us hire more journalists."
+        ]
+      ]
+    ],
+    [
+      10,
+      2
+    ],
+    [
+      10,
+      3
+    ]
+  ],
+  "ghostVersion": "4.0"
+}

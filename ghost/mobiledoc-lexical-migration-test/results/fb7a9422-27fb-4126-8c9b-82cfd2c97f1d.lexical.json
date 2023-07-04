@@ -1,0 +1,430 @@
+{
+  "root": {
+    "children": [
+      {
+        "children": [
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": "Overview",
+            "type": "text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "heading",
+        "tag": "h2",
+        "version": 1
+      },
+      {
+        "type": "horizontalrule"
+      },
+      {
+        "children": [
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": "With the success of the GTO, Buick finally decided to jump into the muscle car market and offered up an optional package to the Skylark—the Gran Sport.",
+            "type": "text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "heading",
+        "tag": "h3",
+        "version": 1
+      },
+      {
+        "type": "horizontalrule"
+      },
+      {
+        "children": [
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": "With the success of the GTO, Buick finally decided to jump into the muscle car market and offered up an optional package to the Skylark—the Gran Sport. GM regulated engine size to no more than 400ci, but Buick stuffed the 401ci “Wildcat 445” (due to its torque rating) into their Skylark. To identify the Gran Sport, one must look for a red-filled Gran Sport badge on the grille, deck, and roof quarters on the 2-door coupe and sport coupe, and rear fenders on the convertible. Wheels on the GS were also larger at 7.75x14”.",
+            "type": "text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "paragraph",
+        "version": 1
+      },
+      {
+        "children": [
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": "Production Numbers",
+            "type": "text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "heading",
+        "tag": "h2",
+        "version": 1
+      },
+      {
+        "type": "horizontalrule"
+      },
+      {
+        "type": "html",
+        "html": "<table id=\"production-numbers-table\">\n<tbody>\n\t<tr>\n\t\t<td>2-DR Hardtop</td>\n\t\t<td>11,351</td>\n\t</tr>\n    \t<tr>\n\t\t<td>2-DR Coupe</td>\n\t\t<td>2,282</td>\n\t</tr>\n    \t<tr>\n\t\t<td>2-DR Convertible</td>\n\t\t<td>2,147</td>\n\t</tr>\n\t\t<td><b>Total Production</b></td>\n\t\t<td><b>15,780</b></td>\n\t</tr>\n</tbody>\n</table>"
+      },
+      {
+        "children": [
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": "Performance Specs",
+            "type": "text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "heading",
+        "tag": "h2",
+        "version": 1
+      },
+      {
+        "type": "horizontalrule"
+      },
+      {
+        "type": "html",
+        "html": "<table id=\"performance-specs-table\">\n<tbody>\n\t<tr>\n\t\t<th><b>Engine</b></th>\n\t\t<th><b>Size</b></td>\n\t\t<th><b>Carb.</b></td>\n\t\t<th><b>HP</b></td>\n\t\t<th><b>Torque</b></td>\n\t\t<th><b>0 to 60</b></td>\n\t\t<th><b>Quarter mile</b></td>\n\t</tr>\n\t<tr>\n\t\t<td>V8</td>\n\t\t<td>401ci</td>\n\t\t<td>1x4bbl</td>\n\t\t<td>325 at 4,400</td>\n\t\t<td>445 lb-ft at 2,800</td>\n\t\t<td>7.8 sec</td>\n\t\t<td>16.6 sec at 86mph</td>\n\t</tr>\n</tbody>\n</table>"
+      },
+      {
+        "children": [
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": "Transmission",
+            "type": "text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "heading",
+        "tag": "h2",
+        "version": 1
+      },
+      {
+        "type": "horizontalrule"
+      },
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "detail": 0,
+                "format": 1,
+                "mode": "normal",
+                "style": "",
+                "text": "3-Speed Manual",
+                "type": "text",
+                "version": 1
+              }
+            ],
+            "direction": "ltr",
+            "format": "",
+            "indent": 0,
+            "type": "listitem",
+            "value": 1,
+            "version": 1
+          },
+          {
+            "children": [
+              {
+                "detail": 0,
+                "format": 1,
+                "mode": "normal",
+                "style": "",
+                "text": "4-Speed Manual",
+                "type": "text",
+                "version": 1
+              }
+            ],
+            "direction": "ltr",
+            "format": "",
+            "indent": 0,
+            "type": "listitem",
+            "value": 2,
+            "version": 1
+          },
+          {
+            "children": [
+              {
+                "detail": 0,
+                "format": 1,
+                "mode": "normal",
+                "style": "",
+                "text": "Super Turbine Drive 300 2-speed Auto",
+                "type": "text",
+                "version": 1
+              }
+            ],
+            "direction": "ltr",
+            "format": "",
+            "indent": 0,
+            "type": "listitem",
+            "value": 3,
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "tag": "ul",
+        "type": "list",
+        "listType": "bullet",
+        "start": 1,
+        "version": 1
+      },
+      {
+        "children": [
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": "Paint & Colors",
+            "type": "text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "heading",
+        "tag": "h2",
+        "version": 1
+      },
+      {
+        "type": "horizontalrule"
+      },
+      {
+        "type": "html",
+        "html": "<h4 id='colors-sub-heading'>Exterior</h4>\n<div class=\"colors-row\">\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #e1dcc9\"></div>\n        <div class=\"color-name\">Arctic White</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #5f7594\"></div>\n        <div class=\"color-name\">Astro Blue Poly</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #223743\"></div>\n        <div class=\"color-name\">Midnight Blue Poly</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #788580\"></div>\n        <div class=\"color-name\">Seafoam Green Poly</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #2f3e45\"></div>\n        <div class=\"color-name\">Verde Green Poly</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #689097\"></div>\n        <div class=\"color-name\">Turquoise Mist Poly</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #223743\"></div>\n        <div class=\"color-name\">Midnight Aqua Poly</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #4a2429\"></div>\n        <div class=\"color-name\">Burgundy Mist Poly</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #832422\"></div>\n        <div class=\"color-name\">Flame Red</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #947d63\"></div>\n        <div class=\"color-name\">Sahara Mist Poly</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #9f9886\"></div>\n        <div class=\"color-name\">Champagne Mist Poly</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #beb498\"></div>\n        <div class=\"color-name\">Shell Beige</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #889097\"></div>\n        <div class=\"color-name\">Silver Cloud Poly</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #fdeda5\"></div>\n        <div class=\"color-name\">Bamboo Cream</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #000000\"></div>\n        <div class=\"color-name\">Regal Black</div>\n    </div>\n</div>\n\n<h4 id='colors-sub-heading'>Interior</h4>\n<div class=\"colors-row\">\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #000000\"></div>\n        <div class=\"color-name\">Black</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #5f7594\"></div>\n        <div class=\"color-name\">Medium Blue Poly</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #1c3d80\"></div>\n        <div class=\"color-name\">Dark Blue Poly</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #5d5547\"></div>\n        <div class=\"color-name\">Medium Saddle Poly</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #87725a\"></div>\n        <div class=\"color-name\">Medium Fawn Poly</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #d6d7d1\"></div>\n        <div class=\"color-name\">Light Gray</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #a1acae\"></div>\n        <div class=\"color-name\">Silver Poly</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #777c76\"></div>\n        <div class=\"color-name\">Dark Gray Poly</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #40594e\"></div>\n        <div class=\"color-name\">Medium Green Poly</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #34614d\"></div>\n        <div class=\"color-name\">Dark Green Poly</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #2c7681\"></div>\n        <div class=\"color-name\">Medium Turquoise Poly</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #1e6d71\"></div>\n        <div class=\"color-name\">Dark Turquoise Poly</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #293231\"></div>\n        <div class=\"color-name\">Midnight Green</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #d61d30\"></div>\n        <div class=\"color-name\">Medium Red Poly</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #e50c2c\"></div>\n        <div class=\"color-name\">Red</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #fdfdfd\"></div>\n        <div class=\"color-name\">White</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #383c3f\"></div>\n        <div class=\"color-name\">Midnight Green Poly</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #4d3232\"></div>\n        <div class=\"color-name\">Dark Red</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #9b794f\"></div>\n        <div class=\"color-name\">Dark Fawn Poly</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #503f2f\"></div>\n        <div class=\"color-name\">Dark Saddle Poly</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #11294f\"></div>\n        <div class=\"color-name\">Dark Blue Poly</div>\n    </div>\n</div>\n"
+      },
+      {
+        "children": [
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": "OEM Brochures",
+            "type": "text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "heading",
+        "tag": "h2",
+        "version": 1
+      },
+      {
+        "type": "horizontalrule"
+      },
+      {
+        "type": "gallery",
+        "images": [
+          {
+            "fileName": "589_2_low_res.jpeg",
+            "row": 0,
+            "width": 790,
+            "height": 516,
+            "src": "__GHOST_URL__/content/images/2020/07/589_2_low_res.jpeg"
+          },
+          {
+            "fileName": "590_3_low_res.jpeg",
+            "row": 0,
+            "width": 790,
+            "height": 525,
+            "src": "__GHOST_URL__/content/images/2020/07/590_3_low_res.jpeg"
+          },
+          {
+            "fileName": "591_4_low_res.jpeg",
+            "row": 0,
+            "width": 762,
+            "height": 1024,
+            "src": "__GHOST_URL__/content/images/2020/07/591_4_low_res.jpeg"
+          },
+          {
+            "fileName": "592_6_low_res.jpeg",
+            "row": 1,
+            "width": 576,
+            "height": 595,
+            "src": "__GHOST_URL__/content/images/2020/07/592_6_low_res.jpeg"
+          },
+          {
+            "fileName": "588_1_low_res.jpeg",
+            "row": 1,
+            "width": 790,
+            "height": 526,
+            "src": "__GHOST_URL__/content/images/2020/07/588_1_low_res.jpeg"
+          }
+        ],
+        "caption": "1965 Buick GS OEM Brochures"
+      },
+      {
+        "children": [
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": "About the Knowledge Base",
+            "type": "text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "heading",
+        "tag": "h2",
+        "version": 1
+      },
+      {
+        "type": "horizontalrule"
+      },
+      {
+        "children": [
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": "The Motorious Knowledge Base provides a comprehensive vehicle overview for the 1965 Buick GS",
+            "type": "text",
+            "version": 1
+          },
+          {
+            "detail": 0,
+            "format": 2,
+            "mode": "normal",
+            "style": "",
+            "text": " ",
+            "type": "text",
+            "version": 1
+          },
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": "including production numbers, performance specs, factory colors, and OEM brochures. Check out additional model years or related content linked to this article or view other Makes and Models in our ",
+            "type": "text",
+            "version": 1
+          },
+          {
+            "children": [
+              {
+                "detail": 0,
+                "format": 0,
+                "mode": "normal",
+                "style": "",
+                "text": "Research",
+                "type": "text",
+                "version": 1
+              }
+            ],
+            "direction": "ltr",
+            "format": "",
+            "indent": 0,
+            "type": "link",
+            "rel": null,
+            "target": null,
+            "title": null,
+            "url": "__GHOST_URL__/tag/research/",
+            "version": 1
+          },
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": " center.",
+            "type": "text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "paragraph",
+        "version": 1
+      },
+      {
+        "children": [
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": "If you have any interesting facts about the 1965 Buick GS",
+            "type": "text",
+            "version": 1
+          },
+          {
+            "detail": 0,
+            "format": 2,
+            "mode": "normal",
+            "style": "",
+            "text": " ",
+            "type": "text",
+            "version": 1
+          },
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": "to add, want to tell us how we did covering the GS, or want to tell us about yours, please leave a comment below.",
+            "type": "text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "paragraph",
+        "version": 1
+      }
+    ],
+    "direction": "ltr",
+    "format": "",
+    "indent": 0,
+    "type": "root",
+    "version": 1
+  }
+}

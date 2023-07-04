@@ -1,0 +1,1323 @@
+{
+  "version": "0.3.1",
+  "atoms": [
+    [
+      "soft-return",
+      "",
+      {}
+    ],
+    [
+      "soft-return",
+      "",
+      {}
+    ],
+    [
+      "soft-return",
+      "",
+      {}
+    ]
+  ],
+  "cards": [
+    [
+      "email-cta",
+      {
+        "showButton": true,
+        "showDividers": false,
+        "segment": "status:-free",
+        "alignment": "center",
+        "html": "<p><em><strong>This is Lever Weekly, a supporting subscriber-only feature that reviews some major must-reads of the week. If you only read one email from us all week, this one should be it, because it reviews everything we’ve done all week.</strong></em></p>",
+        "buttonText": "Click Here To Comment",
+        "buttonUrl": "__GHOST_URL__/lever-weekly-the-foxes-guarding-the-henhouse/#comments"
+      }
+    ],
+    [
+      "email",
+      {
+        "html": "<p><em><strong><a href=\"https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.levernews.com%2Flever-weekly-the-foxes-guarding-the-henhouse%2F&amp;amp;src=sdkpreparse\">Click to share on Facebook</a></strong></em></p>"
+      }
+    ],
+    [
+      "paywall",
+      {}
+    ],
+    [
+      "email-cta",
+      {
+        "showButton": true,
+        "showDividers": false,
+        "segment": "status:-free",
+        "alignment": "center",
+        "html": "",
+        "buttonText": "Click Here To Comment",
+        "buttonUrl": "__GHOST_URL__/lever-weekly-the-foxes-guarding-the-henhouse/#comments"
+      }
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "email-cta",
+      {
+        "showButton": true,
+        "showDividers": false,
+        "segment": "status:-free",
+        "alignment": "center",
+        "html": "",
+        "buttonText": "Tip Jar",
+        "buttonUrl": "https://dailyposter.outpost.pub/ghost-integration/60818189ad12f332071054b8/tips"
+      }
+    ],
+    [
+      "email",
+      {
+        "html": "<p><em><strong>Help us spread the word! </strong>Please forward this email to family and friends.</em></p><p><em><strong>Was this email forwarded to you? </strong><a href=\"https://levernews.com/membership/\">Sign up for free</a> to receive original reporting like this in your inbox every day.</em></p>"
+      }
+    ]
+  ],
+  "markups": [
+    [
+      "em"
+    ],
+    [
+      "strong"
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/not-pretending-anymore/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/dem-voters-flip-off-party-leaders-and-their-big-donors/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/private-equity-gloats-over-a-doctor-glut/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/its-time-to-talk-about-capitalism/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/left-wondering-the-plastics-recycling-lie-2/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.science.org/doi/10.1126/sciadv.1700782"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.sciencedaily.com/releases/2016/05/160524211817.htm"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "http://archive.gao.gov/d48t13/121648.pdf"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://qz.com/939612/race-is-the-biggest-indicator-in-the-us-of-whether-you-live-near-toxic-waste/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/cheat-sheet-five-things-to-know-about-white-supremacist-terror/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.brookings.edu/topic/charlottesville-one-year-later/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.wbur.org/hereandnow/2021/08/06/us-immigration-el-paso"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.washingtonpost.com/investigations/interactive/2021/domestic-terrorism-data/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "“We Can Have Nice Things, If We Fight.” "
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://foreverwars.substack.com/p/domestic-surveillance-but-the-good-kind?r=27uom&s=r&utm_campaign=post&utm_medium=web"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://jacobinmag.com/2022/05/buffalo-attack-mass-surveillance-terrorist-security-state-protection"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.bostonglobe.com/2022/05/18/opinion/biden-can-stop-white-supremacist-violence-or-he-can-support-police-unconditionally/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://newrepublic.com/article/166358/disastrous-legacy-new-democrats?utm_medium=Social&utm_campaign=EB_TNR&utm_source=Twitter#Echobox=1652465538"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://nymag.com/intelligencer/2022/05/the-liberal-obsession-with-disinformation-is-not-helping.html"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.youtube.com/watch?v=eaTOPI_ShTE"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.democracynow.org/2022/5/18/david_sirota_2022_primaries_fetterman_oz"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://youtu.be/OPK8Eybad4E"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.youtube.com/watch?v=uc-OJvo8PZ4"
+      ]
+    ]
+  ],
+  "sections": [
+    [
+      10,
+      0
+    ],
+    [
+      10,
+      1
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "In the wake of last weekend’s mass shooting at a grocery store in Buffalo, President Joe Biden and the Democrats are reviving a bill to crack down on domestic terrorism. But that legislation would strengthen the agencies that have long targeted surveillance and policing on Muslim communities, and that are known to have white supremacists among their ranks."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "In addition to a recap of "
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "The Lever’s"
+        ],
+        [
+          0,
+          [],
+          0,
+          " reporting this week, this edition of Lever Weekly features reporting from people who have been covering domestic policing and surveillance in the context of the so-called War on Terror for years."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Read all about it in this week’s Lever Weekly, exclusively for supporting subscribers below."
+        ]
+      ]
+    ],
+    [
+      10,
+      2
+    ],
+    [
+      1,
+      "h3",
+      [
+        [
+          0,
+          [],
+          0,
+          "Stuff The Lever Reported This Week:"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [
+            1
+          ],
+          1,
+          "• "
+        ],
+        [
+          0,
+          [
+            2,
+            1
+          ],
+          2,
+          "They Are Not Even Pretending Anymore"
+        ],
+        [
+          0,
+          [
+            1
+          ],
+          1,
+          " — "
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "“Democratic leaders don’t just want avocado toast and mimosas — they want an outright counterrevolution. Only not against the GOP insurrection — against the Democratic rank and file, and in many cases for the politicians most hostile to the party’s (purported) agenda.”"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [
+            1
+          ],
+          1,
+          "• "
+        ],
+        [
+          0,
+          [
+            3,
+            1
+          ],
+          2,
+          "Dem Voters Flip Off Party Leaders And Their Big Donors"
+        ],
+        [
+          0,
+          [
+            1
+          ],
+          1,
+          " "
+        ],
+        [
+          0,
+          [],
+          0,
+          "— "
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "“If projected election results hold, underdog progressive candidates will end up winning most of the big primary contests of the night, despite being vilified by oligarch-bankrolled super PACs linked to the Democratic Party machine. Notably, in at least two of the races, the progressive candidates framed their primary contest as a referendum on the politics of Sen. Joe Manchin (D-W.Va.).”"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [
+            1
+          ],
+          1,
+          "• "
+        ],
+        [
+          0,
+          [
+            4,
+            1
+          ],
+          2,
+          "Private Equity Gloats Over A Doctor Glut"
+        ],
+        [
+          0,
+          [],
+          0,
+          " —"
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          " “A private-equity-owned emergency room staffing firm co-founded by a wealthy Republican congressman has been openly hailing a coming ‘oversupply’ of doctors, promising prospective investors that a surplus of emergency physicians — soon projected to reach nearly 10,000 — will drive doctors’ wages low enough to offset the haircut that health care reforms have imposed upon its profit margins.”"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [
+            1
+          ],
+          1,
+          "• "
+        ],
+        [
+          0,
+          [
+            5,
+            1
+          ],
+          2,
+          "It’s Time To Talk About Capitalism"
+        ],
+        [
+          0,
+          [
+            1
+          ],
+          1,
+          " "
+        ],
+        [
+          0,
+          [],
+          0,
+          "— "
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "“By making explicit the connection between racism and capitalism, we honor the legacy of Black thinkers who have explored this question — Langston Hughes, James Baldwin, Assata Shakur, June Jordan, Lorraine Hansberry, W.E.B. Du Bois, Paul Robeson, bell hooks, and Claudia Jones, to Robin D.G. Kelley and Keeanga-Yamahtta Taylor today.”"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [
+            1
+          ],
+          1,
+          "• "
+        ],
+        [
+          0,
+          [
+            6,
+            1
+          ],
+          2,
+          "LEFT WONDERING: The Plastics Recycling Lie"
+        ],
+        [
+          0,
+          [
+            1
+          ],
+          1,
+          " — "
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "“Like many things in capitalism, plastics are both a scourge upon the earth and almost completely unavoidable. As of 2015, just "
+        ],
+        [
+          0,
+          [
+            7,
+            0
+          ],
+          2,
+          "9 percent"
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          0,
+          " "
+        ],
+        [
+          0,
+          [],
+          1,
+          "of the plastics ever produced had been recycled — 12 percent were incinerated, and 79 percent accumulated in the environment or in landfills, "
+        ],
+        [
+          0,
+          [
+            8,
+            0
+          ],
+          2,
+          "health hazards"
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          0,
+          " "
+        ],
+        [
+          0,
+          [],
+          0,
+          "which in the United States have"
+        ],
+        [
+          0,
+          [],
+          1,
+          " "
+        ],
+        [
+          0,
+          [
+            9,
+            0
+          ],
+          2,
+          "long"
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          0,
+          " "
+        ],
+        [
+          0,
+          [],
+          1,
+          "been "
+        ],
+        [
+          0,
+          [
+            10,
+            0
+          ],
+          2,
+          "overwhelmingly"
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          0,
+          " "
+        ],
+        [
+          0,
+          [],
+          1,
+          "sited in Black and brown communities. To answer your first question, plastics recycling is mostly fake.”"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [
+            1
+          ],
+          1,
+          "• "
+        ],
+        [
+          0,
+          [
+            11,
+            1
+          ],
+          2,
+          "CHEAT SHEET: Five Things To Know About White Supremacist Terror"
+        ],
+        [
+          0,
+          [
+            1
+          ],
+          1,
+          " "
+        ],
+        [
+          0,
+          [],
+          0,
+          "— "
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          0,
+          "“This kind of domestic terrorism is nothing new in a country whose origin story is replete with racist dehumanization and exploitation of Black and Indigenous communities. In recent years, there has been a rise in domestic terrorism by white supremacists — such as the murder of Heather Heyer at the 2017"
+        ],
+        [
+          0,
+          [],
+          1,
+          " "
+        ],
+        [
+          0,
+          [
+            12,
+            0
+          ],
+          2,
+          "racist and antisemitic"
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          0,
+          " "
+        ],
+        [
+          0,
+          [],
+          0,
+          "‘Unite the Right’ rally in Charlottesville and the"
+        ],
+        [
+          0,
+          [],
+          1,
+          " "
+        ],
+        [
+          0,
+          [
+            13,
+            0
+          ],
+          2,
+          "2019 El Paso massacre"
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          0,
+          " "
+        ],
+        [
+          0,
+          [],
+          0,
+          "that killed mostly Latinos — to levels"
+        ],
+        [
+          0,
+          [],
+          1,
+          " "
+        ],
+        [
+          0,
+          [
+            14,
+            0
+          ],
+          2,
+          "not seen in a quarter-century"
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          ".”"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [
+            1
+          ],
+          1,
+          "•  "
+        ],
+        [
+          0,
+          [
+            15,
+            1
+          ],
+          0,
+          "YOU LOVE TO SEE IT: "
+        ],
+        [
+          0,
+          [],
+          2,
+          "“We Can Have Nice Things, If We Fight.”"
+        ],
+        [
+          0,
+          [
+            1
+          ],
+          0,
+          " "
+        ],
+        [
+          0,
+          [],
+          1,
+          "— "
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "“Democratic voters in Pennsylvania and Oregon flipped off party leaders and their super PAC donors by choosing anti-establishment progressives over corporate Democrats in this week’s primaries. Also, the Consumer Financial Protection Bureau is giving states more power to hunt down bad actors, unionization efforts nationwide are flourishing, and the Biden admin green-lit another round of free at-home COVID tests.”"
+        ]
+      ]
+    ],
+    [
+      1,
+      "h3",
+      [
+        [
+          0,
+          [],
+          0,
+          "Stuff We’re Reading:"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [
+            1
+          ],
+          1,
+          "• "
+        ],
+        [
+          0,
+          [
+            16,
+            1
+          ],
+          2,
+          "Civil Libertarian Opposition To New Domestic-Terrorism Bill Weakens"
+        ],
+        [
+          0,
+          [],
+          0,
+          " (Forever Wars) — "
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "“In other words, the bill's approach is to treat white supremacist violence as a problem of racist crazies committing mass shootings, to be combatted through institutionalized domestic-counterterrorism remits — rather than a systemic problem exacerbated by the very agencies called upon to confront it.”"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [
+            1
+          ],
+          1,
+          "• "
+        ],
+        [
+          0,
+          [
+            17,
+            1
+          ],
+          2,
+          "The Buffalo Attack Is a Reminder That Mass Surveillance Doesn’t Protect Us"
+        ],
+        [
+          0,
+          [
+            1
+          ],
+          1,
+          " "
+        ],
+        [
+          0,
+          [],
+          0,
+          "(Jacobin) — "
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "“The devil’s bargain we were forced into demanded we trade away our privacy for the sake of security. Yet the massive database of intimate details about our lives that government agents can track and comb through seems yet again to have failed to guarantee the latter — even though this attacker had recently taunted and threatened law enforcement online and made threats to his school, prompting a visit from state police.”"
+        ],
+        [
+          1,
+          [],
+          0,
+          0
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [
+            1
+          ],
+          1,
+          "• "
+        ],
+        [
+          0,
+          [
+            18,
+            1
+          ],
+          2,
+          "Biden Can Stop White Supremacist Violence. Or He Can Support The Police Unconditionally."
+        ],
+        [
+          0,
+          [
+            1
+          ],
+          1,
+          " (Boston Globe) — "
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "“In 2006, an internal FBI memo expressed concerns about ‘White supremacist infiltration of law enforcement’ and ‘self-initiated infiltration by law enforcement personnel sympathetic to White supremacist causes.’ By 2015, FBI domestic terrorism investigations turned up several ‘active links’ between ‘militia extremists, White supremacist extremists, and sovereign citizen extremists’ and law enforcement. Police officials were connected to the very individuals or alleged domestic terrorists they were charged with investigating.”"
+        ],
+        [
+          1,
+          [],
+          0,
+          1
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [
+            1
+          ],
+          1,
+          "• "
+        ],
+        [
+          0,
+          [
+            19,
+            1
+          ],
+          2,
+          "The Disastrous Legacy of the New Democrats"
+        ],
+        [
+          0,
+          [
+            1
+          ],
+          1,
+          " "
+        ],
+        [
+          0,
+          [],
+          0,
+          "(The New Republic) — "
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "“This gets to a central tension in New Democrat thought. Seemingly at no point can anyone conclusively decide if their policy agenda is meant to be politically effective — to win over white suburbanites — or to implement successful policy, which in this case would mean reforming welfare in a way that would leave poor people better off.”"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [
+            1
+          ],
+          1,
+          "• "
+        ],
+        [
+          0,
+          [
+            20,
+            1
+          ],
+          2,
+          "The Liberal Obsession With ‘Disinformation’ Is Not Helping"
+        ],
+        [
+          0,
+          [
+            1
+          ],
+          1,
+          " "
+        ],
+        [
+          0,
+          [],
+          0,
+          "(New York Magazine) — "
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "“The other pernicious problem with liberals’ fixation on ‘disinformation’ is that it allows them to lie to themselves. Trump’s ascendance in 2016 posed a painful psychic challenge to liberal elites. It suggested the possibility that many millions of Americans were motivated by deep, venomous dissatisfactions with the world they had helped create, that our cultural disagreements were profound, not superficial, and that our perspectives were practically irreconcilable inversions of each other.”"
+        ]
+      ]
+    ],
+    [
+      1,
+      "h3",
+      [
+        [
+          0,
+          [],
+          0,
+          "Stuff To Watch & Listen To:"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [
+            1
+          ],
+          1,
+          "• "
+        ],
+        [
+          0,
+          [
+            21,
+            1
+          ],
+          2,
+          "Money, Baby! with Brett Payne & Andrew Perez"
+        ],
+        [
+          0,
+          [],
+          0,
+          " (The Bitchuation Room) — The Lever’s "
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "Andrew Perez joined the show to talk about the conservative dark money takeover of the Supreme Court."
+        ],
+        [
+          1,
+          [],
+          0,
+          2
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [
+            1
+          ],
+          1,
+          "• "
+        ],
+        [
+          0,
+          [
+            22,
+            1
+          ],
+          2,
+          "David Sirota: Progressives Win Key Primary Races Despite Millions Spent to Back Corporate Democrats"
+        ],
+        [
+          0,
+          [],
+          0,
+          " (Democracy Now!) — The Lever’s "
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "David Sirota joined "
+        ],
+        [
+          0,
+          [],
+          0,
+          "Democracy Now! "
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "to talk about the progressives who won their primaries against establishment and super PAC-backed corporatists."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [
+            1
+          ],
+          1,
+          "• "
+        ],
+        [
+          0,
+          [
+            23,
+            1
+          ],
+          2,
+          "GOP Pushes Law to CRIMINALIZE Types of Dissent"
+        ],
+        [
+          0,
+          [
+            1
+          ],
+          1,
+          " (Breaking Points) "
+        ],
+        [
+          0,
+          [],
+          0,
+          "— "
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "Sirota went on "
+        ],
+        [
+          0,
+          [],
+          0,
+          "Breaking Points"
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          " to talk about a McCarthy-era law that Republicans were deploying to crush dissent in the wake of the leaked Supreme Court opinion on abortion rights."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [
+            1
+          ],
+          1,
+          "• "
+        ],
+        [
+          0,
+          [
+            24,
+            1
+          ],
+          2,
+          "Dem Voters Show DISGUST For Establishment in Primary Defeats"
+        ],
+        [
+          0,
+          [
+            1
+          ],
+          1,
+          " (Breaking Points) "
+        ],
+        [
+          0,
+          [],
+          0,
+          "— "
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "Sirota joined "
+        ],
+        [
+          0,
+          [],
+          0,
+          "Breaking Points"
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          " to talk about how voters delivered a stunning rebuke to Democratic leadership in voting against their hand-picked candidates in this week’s primaries."
+        ]
+      ]
+    ],
+    [
+      10,
+      3
+    ],
+    [
+      10,
+      4
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [
+            0,
+            1
+          ],
+          1,
+          "Our news organization relies on readers pitching in to support our journalism. "
+        ],
+        [
+          0,
+          [
+            0,
+            1
+          ],
+          3,
+          "If you like this story, please support "
+        ],
+        [
+          0,
+          [
+            1,
+            0,
+            1
+          ],
+          3,
+          "our"
+        ],
+        [
+          0,
+          [
+            0,
+            0,
+            1
+          ],
+          3,
+          " work."
+        ]
+      ]
+    ],
+    [
+      10,
+      5
+    ],
+    [
+      10,
+      6
+    ]
+  ],
+  "ghostVersion": "4.0"
+}

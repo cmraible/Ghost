@@ -1,0 +1,454 @@
+{
+  "version": "0.3.1",
+  "atoms": [],
+  "cards": [
+    [
+      "hr",
+      {}
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "html",
+      {
+        "html": "<table id=\"production-numbers-table\">\n<tbody>\n\t<tr>\n\t\t<td>S Sport Coupe</td>\n\t\t<td>184,873</td>\n\t</tr>\n    \t<tr>\n\t\t<td>Landau Sport Coupe</td>\n\t\t<td>127,344</td>\n\t</tr>\n\t\t<td><b>Total Production</b></td>\n\t\t<td><b>312,217</b></td>\n\t</tr>\n</tbody>\n</table>"
+      }
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "html",
+      {
+        "html": "<table id=\"performance-specs-table\">\n<tbody>\n\t<tr>\n\t\t<th><b>Engine</b></th>\n\t\t<th><b>Size</b></td>\n\t\t<th><b>Carb.</b></td>\n\t\t<th><b>HP</b></td>\n\t\t<th><b>0 to 60</b></td>\n\t\t<th><b>Quarter mile</b></td>\n\t</tr>\n\t<tr>\n\t\t<td>Turbo Fire</td>\n\t\t<td>350ci</td>\n\t\t<td>1x2bbl</td>\n\t\t<td>145</td>\n\t\t<td>-</td>\n\t\t<td>-</td>\n\t</tr>\n\t<tr>\n\t\t<td>Turbo Fire</td>\n\t\t<td>350ci</td>\n\t\t<td>1x4bbl</td>\n\t\t<td>160</td>\n\t\t<td>-</td>\n\t\t<td>-</td>\n\t</tr>\n\t<tr>\n\t\t<td>Turbo Jet</td>\n\t\t<td>454ci</td>\n\t\t<td>1x4bbl</td>\n\t\t<td>235</td>\n\t\t<td>8.2 sec</td>\n\t\t<td>16.3 sec</td>\n\t</tr>\n\t<tr>\n\t\t<td>Turbo Fire</td>\n\t\t<td>400ci</td>\n\t\t<td>1x2bbl</td>\n\t\t<td>150</td>\n\t\t<td>-</td>\n\t\t<td>-</td>\n\t</tr>\n\t<tr>\n\t\t<td>Turbo Fire</td>\n\t\t<td>400ci</td>\n\t\t<td>1x4bbl</td>\n\t\t<td>180</td>\n\t\t<td>-</td>\n\t\t<td>-</td>\n\t</tr>\n</tbody>\n</table>"
+      }
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "html",
+      {
+        "html": "<h4 id='colors-sub-heading'>Exterior</h4>\n<div class=\"colors-row\">\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #dcc795\"></div>\n        <div class=\"color-name\">Cream Beige</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #000000\"></div>\n        <div class=\"color-name\">Tuxedo Black</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #4c6a8c\"></div>\n        <div class=\"color-name\">Light Blue Metallic</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #294681\"></div>\n        <div class=\"color-name\">Bright Blue Metallic</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #283340\"></div>\n        <div class=\"color-name\">Midnight Blue Metallic</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #2f4b69\"></div>\n        <div class=\"color-name\">Aqua Blue Metallic</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #a99966\"></div>\n        <div class=\"color-name\">Sandstone</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #612f1f\"></div>\n        <div class=\"color-name\">Bronze Metallic</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #684731\"></div>\n        <div class=\"color-name\">Golden Brown Metallic</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #859869\"></div>\n        <div class=\"color-name\">Medium Green</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #849c57\"></div>\n        <div class=\"color-name\">Bright Green Metallic</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #404d3f\"></div>\n        <div class=\"color-name\">Medium Dark Green Metallic</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #bd2924\"></div>\n        <div class=\"color-name\">Medium Red Metallic</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #818577\"></div>\n        <div class=\"color-name\">Silver Metallic</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #352b24\"></div>\n        <div class=\"color-name\">Dark Taupe Metallic</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #ece4d3\"></div>\n        <div class=\"color-name\">Antique White</div>\n    </div>\n</div>\n\n<h4 id='colors-sub-heading'>Interior</h4>\n<div class=\"colors-row\">\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #000000\"></div>\n        <div class=\"color-name\">Black</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #1f2a55\"></div>\n        <div class=\"color-name\">Blue</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #3f4c44\"></div>\n        <div class=\"color-name\">Green</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #bd2924\"></div>\n        <div class=\"color-name\">Red</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #b4baaf\"></div>\n        <div class=\"color-name\">Neutral</div>\n    </div>\n</div>\n"
+      }
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "gallery",
+      {
+        "images": [
+          {
+            "fileName": "1421_1974_Chevrolet_Monte_Carlo-05_low_res.jpg",
+            "row": 0,
+            "width": 789,
+            "height": 1024,
+            "src": "__GHOST_URL__/content/images/2020/08/1421_1974_Chevrolet_Monte_Carlo-05_low_res.jpg"
+          },
+          {
+            "fileName": "1422_1974_Chevrolet_Monte_Carlo-06_low_res.jpg",
+            "row": 0,
+            "width": 790,
+            "height": 1021,
+            "src": "__GHOST_URL__/content/images/2020/08/1422_1974_Chevrolet_Monte_Carlo-06_low_res.jpg"
+          },
+          {
+            "fileName": "1423_1974_Chevrolet_Monte_Carlo-07_low_res.jpg",
+            "row": 0,
+            "width": 790,
+            "height": 1023,
+            "src": "__GHOST_URL__/content/images/2020/08/1423_1974_Chevrolet_Monte_Carlo-07_low_res.jpg"
+          },
+          {
+            "fileName": "1424_1974_Chevrolet_Monte_Carlo-08_low_res.jpg",
+            "row": 1,
+            "width": 789,
+            "height": 1024,
+            "src": "__GHOST_URL__/content/images/2020/08/1424_1974_Chevrolet_Monte_Carlo-08_low_res.jpg"
+          },
+          {
+            "fileName": "1425_1974_Chevrolet_Monte_Carlo-09_low_res.jpg",
+            "row": 1,
+            "width": 785,
+            "height": 1024,
+            "src": "__GHOST_URL__/content/images/2020/08/1425_1974_Chevrolet_Monte_Carlo-09_low_res.jpg"
+          },
+          {
+            "fileName": "1417_1974_Chevrolet_Monte_Carlo-01_low_res.jpg",
+            "row": 1,
+            "width": 690,
+            "height": 1024,
+            "src": "__GHOST_URL__/content/images/2020/08/1417_1974_Chevrolet_Monte_Carlo-01_low_res.jpg"
+          },
+          {
+            "fileName": "1418_1974_Chevrolet_Monte_Carlo-02_low_res.jpg",
+            "row": 2,
+            "width": 780,
+            "height": 1024,
+            "src": "__GHOST_URL__/content/images/2020/08/1418_1974_Chevrolet_Monte_Carlo-02_low_res.jpg"
+          },
+          {
+            "fileName": "1419_1974_Chevrolet_Monte_Carlo-03_low_res.jpg",
+            "row": 2,
+            "width": 790,
+            "height": 1024,
+            "src": "__GHOST_URL__/content/images/2020/08/1419_1974_Chevrolet_Monte_Carlo-03_low_res.jpg"
+          },
+          {
+            "fileName": "1420_1974_Chevrolet_Monte_Carlo-04_low_res.jpg",
+            "row": 2,
+            "width": 784,
+            "height": 1024,
+            "src": "__GHOST_URL__/content/images/2020/08/1420_1974_Chevrolet_Monte_Carlo-04_low_res.jpg"
+          }
+        ],
+        "caption": "1974 Chevrolet Monte Carlo OEM Brochures"
+      }
+    ],
+    [
+      "gallery",
+      {
+        "images": [
+          {
+            "fileName": "1426_1974_Chevrolet_Monte_Carlo-10_low_res.jpg",
+            "row": 0,
+            "width": 790,
+            "height": 986,
+            "src": "__GHOST_URL__/content/images/2020/08/1426_1974_Chevrolet_Monte_Carlo-10_low_res.jpg"
+          },
+          {
+            "fileName": "1427_1974_Chevrolet_Monte_Carlo-11_low_res.jpg",
+            "row": 0,
+            "width": 788,
+            "height": 1024,
+            "src": "__GHOST_URL__/content/images/2020/08/1427_1974_Chevrolet_Monte_Carlo-11_low_res.jpg"
+          },
+          {
+            "fileName": "1428_1974_Chevrolet_Monte_Carlo-12_low_res.jpg",
+            "row": 0,
+            "width": 788,
+            "height": 1024,
+            "src": "__GHOST_URL__/content/images/2020/08/1428_1974_Chevrolet_Monte_Carlo-12_low_res.jpg"
+          }
+        ],
+        "caption": "1974 Chevrolet Monte Carlo OEM Brochures"
+      }
+    ],
+    [
+      "hr",
+      {}
+    ]
+  ],
+  "markups": [
+    [
+      "strong"
+    ],
+    [
+      "em"
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/tag/research/"
+      ]
+    ]
+  ],
+  "sections": [
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Overview"
+        ]
+      ]
+    ],
+    [
+      10,
+      0
+    ],
+    [
+      1,
+      "h3",
+      [
+        [
+          0,
+          [],
+          0,
+          "The 1974 Monte Carlo was only slightly revised from the previous year with a new egg-crate grille, and taller, slimmer vertical taillights in the rear, along with a relocated license plate and larger 5 mph rear bumper."
+        ]
+      ]
+    ],
+    [
+      10,
+      1
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "The 1974 Monte Carlo was only slightly revised from the previous year with a new egg-crate grille, and taller, slimmer vertical taillights in the rear, along with a relocated license plate and larger 5 mph rear bumper."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "The base model was dropped leaving only the 'S' and 'Landau' models."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "The Monte Carlo, yet again, set another sales record of almost 300k sold."
+        ]
+      ]
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Production Numbers"
+        ]
+      ]
+    ],
+    [
+      10,
+      2
+    ],
+    [
+      10,
+      3
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Performance Specs"
+        ]
+      ]
+    ],
+    [
+      10,
+      4
+    ],
+    [
+      10,
+      5
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Transmission"
+        ]
+      ]
+    ],
+    [
+      10,
+      6
+    ],
+    [
+      3,
+      "ul",
+      [
+        [
+          [
+            0,
+            [
+              0,
+              0
+            ],
+            2,
+            "3-Speed Manual"
+          ]
+        ],
+        [
+          [
+            0,
+            [
+              0,
+              0
+            ],
+            2,
+            "Turbo Hydra-Matic"
+          ]
+        ]
+      ]
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Paint & Colors"
+        ]
+      ]
+    ],
+    [
+      10,
+      7
+    ],
+    [
+      10,
+      8
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "OEM Brochures"
+        ]
+      ]
+    ],
+    [
+      10,
+      9
+    ],
+    [
+      10,
+      10
+    ],
+    [
+      10,
+      11
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "About the Knowledge Base"
+        ]
+      ]
+    ],
+    [
+      10,
+      12
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "The Motorious Knowledge Base provides a comprehensive vehicle overview for the 1974 Chevrolet Monte Carlo"
+        ],
+        [
+          0,
+          [
+            1,
+            1
+          ],
+          2,
+          " "
+        ],
+        [
+          0,
+          [],
+          0,
+          "including production numbers, performance specs, factory colors, and OEM brochures. Check out additional model years or related content linked to this article or view other Makes and Models in our "
+        ],
+        [
+          0,
+          [
+            2
+          ],
+          1,
+          "Research"
+        ],
+        [
+          0,
+          [],
+          0,
+          " center."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "If you have any interesting facts about the 1974 Chevrolet Monte Carlo"
+        ],
+        [
+          0,
+          [
+            1,
+            1
+          ],
+          2,
+          " "
+        ],
+        [
+          0,
+          [],
+          0,
+          "to add, want to tell us how we did covering the Monte Carlo, or want to tell us about yours, please leave a comment below."
+        ]
+      ]
+    ]
+  ],
+  "ghostVersion": "3.0"
+}

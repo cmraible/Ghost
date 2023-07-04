@@ -1,0 +1,903 @@
+{
+  "version": "0.3.1",
+  "atoms": [
+    [
+      "soft-return",
+      "",
+      {}
+    ],
+    [
+      "soft-return",
+      "",
+      {}
+    ],
+    [
+      "soft-return",
+      "",
+      {}
+    ],
+    [
+      "soft-return",
+      "",
+      {}
+    ]
+  ],
+  "cards": [
+    [
+      "email-cta",
+      {
+        "showButton": true,
+        "showDividers": false,
+        "segment": "status:-free",
+        "alignment": "center",
+        "html": "<p><em><strong>This is our regular Weekend Reading List, a supporting subscriber-only feature that reviews some major must-reads of the week. If you only read one email from us all week, this one should be it, because it reviews everything we’ve done all week.</strong></em></p>",
+        "buttonText": "Click Here To Comment",
+        "buttonUrl": "__GHOST_URL__/private-health-cares-road-show/#comments"
+      }
+    ],
+    [
+      "email",
+      {
+        "html": "<p><em><strong><a href=\"https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.levernews.com%2Fprivate-health-cares-road-show%2F&amp;amp;src=sdkpreparse\">Click to share on Facebook</a></strong></em></p>"
+      }
+    ],
+    [
+      "embed",
+      {
+        "url": "https://www.youtube.com/watch?app=desktop&v=AtYv5cs-cn4",
+        "html": "<iframe width=\"200\" height=\"113\" src=\"https://www.youtube.com/embed/AtYv5cs-cn4?feature=oembed\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+        "type": "video",
+        "metadata": {
+          "title": "LR 60 - Big Pharma's Pocketbook Politicians & Applebee's Vindicates Marx",
+          "author_name": "Left Reckoning",
+          "author_url": "https://www.youtube.com/c/LeftReckoning",
+          "height": 113,
+          "width": 200,
+          "version": "1.0",
+          "provider_name": "YouTube",
+          "provider_url": "https://www.youtube.com/",
+          "thumbnail_height": 360,
+          "thumbnail_width": 480,
+          "thumbnail_url": "https://i.ytimg.com/vi/AtYv5cs-cn4/hqdefault.jpg"
+        }
+      }
+    ],
+    [
+      "email-cta",
+      {
+        "showButton": true,
+        "showDividers": false,
+        "segment": "status:-free",
+        "alignment": "center",
+        "html": "",
+        "buttonText": "Click Here To Comment",
+        "buttonUrl": "__GHOST_URL__/private-health-cares-road-show/#comments"
+      }
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "email-cta",
+      {
+        "showButton": true,
+        "showDividers": false,
+        "segment": "status:-free",
+        "alignment": "center",
+        "html": "",
+        "buttonText": "Tip Jar",
+        "buttonUrl": "https://dailyposter.outpost.pub/ghost-integration/60818189ad12f332071054b8/tips"
+      }
+    ],
+    [
+      "email",
+      {
+        "html": "<p><em><strong>Help us spread the word! </strong>Please forward this email to family and friends.</em></p><p><em><strong>Was this email forwarded to you? </strong><a href=\"https://levernews.com/membership/\">Sign up for free</a> to receive original reporting like this in your inbox every day.</em></p>"
+      }
+    ]
+  ],
+  "markups": [
+    [
+      "a",
+      [
+        "href",
+        "https://newsroom.clevelandclinic.org/2022/03/29/cleveland-clinic-expands-its-global-footprint-with-opening-of-london-hospital-today/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://amp.theguardian.com/society/2022/mar/17/betting-against-the-nhs-1bn-private-hospital-to-open-in-central-london"
+      ]
+    ],
+    [
+      "em"
+    ],
+    [
+      "strong"
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/you-love-to-see-it-a-historic-union-victory/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/senate-dems-biden-student-debtors/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/biden-historic-tax-cut/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/oscar-speech-in-pocket/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/otherposts/supreme-double-standards/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/the-corporate-threat-in-dems-must-win-senate-race/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/new-yorks-pension-reformer-goes-rogue/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://thebreakthrough.org/journal/no-16-spring-2022/the-guns-of-warming"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.inquirer.com/news/inq2/more-perfect-union-action-eyewitness-news-tv-racism-crime-20220329.html"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://scheerpost.com/2022/03/28/hedges-on-being-disappeared/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.latimes.com/business/story/2022-03-25/black-tesla-employees-fremont-plant-racism-california-lawsuit"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.nbcnews.com/health/health-care/doctor-fired-er-warns-effect-profit-firms-us-health-care-rcna19975"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.denverpost.com/2022/03/27/displaced-aurarians-history-scholarship/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.youtube.com/embed/AtYv5cs-cn4"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/pharma-front-group-to-sinema-we-have-your-back/"
+      ]
+    ]
+  ],
+  "sections": [
+    [
+      10,
+      0
+    ],
+    [
+      10,
+      1
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "This week, Ohio-based Cleveland Clinic opened a new, 184-bed private hospital in central London — a move that further expands U.S. health care interests' global reach. The "
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "“state-of-the-art”"
+        ],
+        [
+          0,
+          [],
+          0,
+          " facility, which was estimated to cost one billion pounds, targets \"UK patients with private health insurance or the growing number of people who are paying for treatment themselves, along with overseas patients,\" according to "
+        ],
+        [
+          0,
+          [
+            1,
+            2
+          ],
+          2,
+          "The Guardian"
+        ],
+        [
+          0,
+          [],
+          0,
+          ". It is also a way to lure patients and providers away from the National Health Service, the U.K.'s government-run health care system, and in doing so, may further entrench corporate health care on an international scale."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Read all about it in this week’s Weekend Reader, exclusively for supporting subscribers below."
+        ],
+        [
+          1,
+          [],
+          0,
+          0
+        ],
+        [
+          1,
+          [],
+          0,
+          1
+        ],
+        [
+          0,
+          [
+            3
+          ],
+          1,
+          "Stuff "
+        ],
+        [
+          0,
+          [
+            2,
+            3
+          ],
+          2,
+          "The Lever"
+        ],
+        [
+          0,
+          [
+            3
+          ],
+          1,
+          " Reported This Week:"
+        ]
+      ]
+    ],
+    [
+      3,
+      "ul",
+      [
+        [
+          [
+            0,
+            [
+              3,
+              4,
+              3,
+              3
+            ],
+            2,
+            "YOU LOVE TO SEE IT:"
+          ],
+          [
+            0,
+            [],
+            2,
+            " A Historic Union Victory"
+          ]
+        ],
+        [
+          [
+            0,
+            [
+              3,
+              3,
+              5,
+              3
+            ],
+            4,
+            "Senate Dems Demand Biden Stop Crushing Student Debtors"
+          ]
+        ],
+        [
+          [
+            0,
+            [
+              3,
+              3,
+              6,
+              3
+            ],
+            4,
+            "“He Signed A Historic Middle-Class Tax Cut”"
+          ]
+        ],
+        [
+          [
+            0,
+            [
+              3,
+              3,
+              7,
+              3
+            ],
+            4,
+            "The Oscar Speech That Stayed In My Pocket"
+          ]
+        ],
+        [
+          [
+            0,
+            [
+              3,
+              3,
+              8,
+              3
+            ],
+            4,
+            "Supreme Double Standards"
+          ]
+        ],
+        [
+          [
+            0,
+            [
+              3,
+              3,
+              9,
+              3
+            ],
+            4,
+            "The Corporate Threat In Dems’ Must-Win Senate Race"
+          ]
+        ],
+        [
+          [
+            0,
+            [
+              3,
+              3,
+              10,
+              3
+            ],
+            4,
+            "Wall Street May Reap Billions From New York Dem’s Reversal"
+          ],
+          [
+            1,
+            [],
+            0,
+            2
+          ]
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [
+            3
+          ],
+          1,
+          "Stuff We’re Reading:"
+        ]
+      ]
+    ],
+    [
+      3,
+      "ul",
+      [
+        [
+          [
+            0,
+            [
+              1,
+              3
+            ],
+            2,
+            "Betting Against The NHS: £1bn Private Hospital To Open In Central London"
+          ],
+          [
+            0,
+            [],
+            0,
+            " (The Guardian) — “"
+          ],
+          [
+            0,
+            [
+              2
+            ],
+            1,
+            "The opening of the Ohio-based Cleveland Clinic’s first London hospital at the end of this month comes at a time when the private health sector is booming. With 29 intensive care unit beds and eight operating theatres staffed by 1,200 people, the eight-storey site — estimated by analysts to have cost £1bn — will add to concerns about the emergence of a two-tier healthcare system."
+          ],
+          [
+            0,
+            [],
+            0,
+            "”"
+          ]
+        ],
+        [
+          [
+            0,
+            [
+              3,
+              3,
+              11,
+              3
+            ],
+            2,
+            "The Guns Of Warming"
+          ],
+          [
+            0,
+            [],
+            2,
+            " "
+          ],
+          [
+            0,
+            [],
+            0,
+            "(The Breakthrough Institute) — “"
+          ],
+          [
+            0,
+            [
+              2
+            ],
+            1,
+            "I look back at my climate security consulting work with a growing sense of unease. My concern now is not that the work was wrong, but rather that the conclusions my government clients drew from them were very different from the ones we ourselves hoped to promote. GBN papers always urged the creation of a national strategy for mitigating global greenhouse gas emissions to prevent the arrival of security threats from climate change. But this was not the primary message the Pentagon bureaucracy took away from our work. By and large, the spending requested to address climate change has tended to be in support of programs and platforms that DoD officials and policymakers were already committed to on prior grounds. Climate security, in other words, became the basis for demanding more, rather than for acting differently."
+          ],
+          [
+            0,
+            [],
+            0,
+            "”"
+          ]
+        ],
+        [
+          [
+            0,
+            [
+              12,
+              3
+            ],
+            2,
+            "Lights. Camera. Crime."
+          ],
+          [
+            0,
+            [],
+            0,
+            " (The Philadelphia Inquirer) —"
+          ],
+          [
+            0,
+            [
+              2
+            ],
+            1,
+            " "
+          ],
+          [
+            0,
+            [],
+            0,
+            "“"
+          ],
+          [
+            0,
+            [
+              2
+            ],
+            1,
+            "The institution of local broadcast news is a young one, but among the most ubiquitous in the United States. It’s a pair of routines that unfold each night: As Americans gather to wind down their days, the medium has worked to deepen racial tensions and reinforce racial stereotypes about communities of color. This format launched in Philadelphia, first with the birth of Eyewitness News in 1965, and then with Action News in 1970. Over the next few generations, the pervasive and seductive twin broadcasts would spread to stations across the country — and with them, negative narratives about neighborhoods that would effectively “other” certain groups based largely on race, class, and zip code. More than half a century later, the impact of this efficient and pioneering approach remains, but continues to be condemned as harmful, as critics call for a reimagining of stories that tell a fuller story of communities, one that more accurately captures the humanity and dignity of all who live there."
+          ],
+          [
+            0,
+            [],
+            0,
+            "”"
+          ]
+        ],
+        [
+          [
+            0,
+            [
+              3,
+              3,
+              13,
+              3
+            ],
+            4,
+            "Hedges: On Being Disappeared"
+          ],
+          [
+            0,
+            [],
+            0,
+            " (Scheerpost) — “"
+          ],
+          [
+            0,
+            [
+              2
+            ],
+            1,
+            "Challenge the official lie, as I often did, and you will soon become a nonperson on digital media. Julian Assange and Edward Snowden exposed the truth about the criminal inner workings of power. Look where they are now. This censorship is one step removed from Joseph Stalin’s whitewashing of nonpersons such as Leon Trotsky out of official photographs. It is a destruction of our collective memory. It removes those moments in the media and the press when we attempted to examine our reality in ways the ruling class did not appreciate. The goal is to foster historical amnesia. If we don’t know what happened in the past, we cannot make sense of the present."
+          ],
+          [
+            0,
+            [],
+            0,
+            "”"
+          ]
+        ],
+        [
+          [
+            0,
+            [
+              2,
+              2,
+              14,
+              3
+            ],
+            2,
+            "Black Tesla Employees Describe A Culture Of Racism: ‘I Was At My Breaking Point’"
+          ],
+          [
+            0,
+            [],
+            0,
+            " (Los Angeles Times) — “"
+          ],
+          [
+            0,
+            [
+              2
+            ],
+            3,
+            "In interviews with The Times, three Black former employees described how jobs at the pioneering automaker devolved into personal nightmares due to a pattern of rampant racism and harassment at Tesla’s Fremont, Calif., factory. Their accounts expand on allegations in a Feb. 9 lawsuit filed by the California Department of Fair Employment and Housing on behalf of more than 4,000 current and former Black workers at the world’s most valuable car company — the largest racial discrimination suit ever brought by the state by number of workers affected.\""
+          ]
+        ],
+        [
+          [
+            0,
+            [
+              3,
+              3,
+              15,
+              3
+            ],
+            4,
+            "Doctor Fired From ER Warns About Effect Of For-Profit Firms On U.S. Health Care"
+          ],
+          [
+            0,
+            [
+              2
+            ],
+            1,
+            " "
+          ],
+          [
+            0,
+            [],
+            0,
+            "(NBC News) — “"
+          ],
+          [
+            0,
+            [
+              2
+            ],
+            1,
+            "Patients seeking emergency treatment at the busy Overland Park Regional Medical Center in Kansas near Kansas City, Missouri, didn’t know their safety was potentially at risk. But the medical director of the emergency department saw the danger in 2012 and for years urged his bosses to address it by adding staff members. Then he was fired. What happened to the medical director, a former Army doctor named Ray Brovont, isn’t an anomaly, some physicians say. It is a growing problem as more emergency departments are staffed by for-profit companies. A laser focus on profits in health care can imperil patients, they say, but when some doctors have questioned the practices, they have been let go."
+          ],
+          [
+            0,
+            [],
+            0,
+            "”"
+          ]
+        ],
+        [
+          [
+            0,
+            [
+              3,
+              3,
+              16,
+              3
+            ],
+            2,
+            "Denver’s Oldest Neighborhood Was Destroyed To Build The Auraria Campus. Historians And The Displaced Are Racing To Remember It."
+          ],
+          [
+            0,
+            [],
+            2,
+            " "
+          ],
+          [
+            0,
+            [],
+            0,
+            "(Denver Post) — “"
+          ],
+          [
+            0,
+            [
+              2
+            ],
+            1,
+            "Since the 1970s, the 150-acre urban campus — home to the Metropolitan State University of Denver, the University of Colorado Denver and the Community College of Denver — has been a downtown landmark where hundreds of thousands of students have learned, grown and earned degrees. But its presence came at a steep cost: the destruction of a working-class, largely Latino community and the displacement of hundreds of Colorado families, including Gomez’s."
+          ],
+          [
+            0,
+            [],
+            0,
+            "”"
+          ],
+          [
+            0,
+            [
+              2
+            ],
+            1,
+            " "
+          ],
+          [
+            1,
+            [],
+            0,
+            3
+          ]
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [
+            3
+          ],
+          1,
+          "Stuff To Watch & Listen To:"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [
+            17,
+            3
+          ],
+          2,
+          "Big Pharma’s Pocketbook Politicians"
+        ],
+        [
+          0,
+          [
+            2
+          ],
+          1,
+          " "
+        ],
+        [
+          0,
+          [],
+          0,
+          "(Left Reckoning) — The Lever’s "
+        ],
+        [
+          0,
+          [
+            2
+          ],
+          1,
+          "Andrew"
+        ],
+        [
+          0,
+          [],
+          0,
+          " "
+        ],
+        [
+          0,
+          [
+            2
+          ],
+          1,
+          "Perez joins "
+        ],
+        [
+          0,
+          [],
+          0,
+          "Left Reckoning"
+        ],
+        [
+          0,
+          [
+            2
+          ],
+          1,
+          " to discuss his "
+        ],
+        [
+          0,
+          [
+            18,
+            2
+          ],
+          2,
+          "reporting"
+        ],
+        [
+          0,
+          [
+            2
+          ],
+          1,
+          " on a Big Pharma-funded group’s pro-Sinema ad, how a Cigna consultant’s super PAC is "
+        ],
+        [
+          0,
+          [
+            9,
+            2
+          ],
+          2,
+          "working"
+        ],
+        [
+          0,
+          [
+            2
+          ],
+          1,
+          " to defeat single-payer candidate John Fetterman, and more."
+        ]
+      ]
+    ],
+    [
+      10,
+      2
+    ],
+    [
+      10,
+      3
+    ],
+    [
+      10,
+      4
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [
+            2,
+            3
+          ],
+          1,
+          "Our news organization relies on readers pitching in to support our journalism. "
+        ],
+        [
+          0,
+          [
+            2,
+            3
+          ],
+          3,
+          "If you like this story, please support "
+        ],
+        [
+          0,
+          [
+            3,
+            2,
+            3
+          ],
+          3,
+          "our"
+        ],
+        [
+          0,
+          [
+            2,
+            2,
+            3
+          ],
+          3,
+          " work."
+        ]
+      ]
+    ],
+    [
+      10,
+      5
+    ],
+    [
+      10,
+      6
+    ]
+  ],
+  "ghostVersion": "4.0"
+}

@@ -1,0 +1,341 @@
+{
+  "version": "0.3.1",
+  "atoms": [],
+  "cards": [
+    [
+      "hr",
+      {}
+    ],
+    [
+      "image",
+      {}
+    ],
+    [
+      "image",
+      {
+        "src": "__GHOST_URL__/content/images/2023/01/Sparky-The-Tesla-Burns-In-California--3.jpg",
+        "width": 1920,
+        "height": 1080
+      }
+    ],
+    [
+      "image",
+      {
+        "src": "__GHOST_URL__/content/images/2023/01/Sparky-The-Tesla-Burns-In-California--4.jpg",
+        "width": 1920,
+        "height": 1080
+      }
+    ],
+    [
+      "embed",
+      {
+        "url": "https://www.youtube.com/watch?v=_hF0Yy6jZHA",
+        "html": "<iframe width=\"200\" height=\"150\" src=\"https://www.youtube.com/embed/_hF0Yy6jZHA?feature=oembed\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen title=\"More Race Track Closings, Reckless Drivers Are Crashing Everywhere, And The Challenger Is Still King\"></iframe>",
+        "type": "video",
+        "metadata": {
+          "title": "More Race Track Closings, Reckless Drivers Are Crashing Everywhere, And The Challenger Is Still King",
+          "author_name": "Motorious",
+          "author_url": "https://www.youtube.com/@Motorious",
+          "height": 150,
+          "width": 200,
+          "version": "1.0",
+          "provider_name": "YouTube",
+          "provider_url": "https://www.youtube.com/",
+          "thumbnail_height": 360,
+          "thumbnail_width": 480,
+          "thumbnail_url": "https://i.ytimg.com/vi/_hF0Yy6jZHA/hqdefault.jpg"
+        }
+      }
+    ]
+  ],
+  "markups": [
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/articles/news/jury-finds-tesla-liable/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/articles/news/tesla-model-s-burns/"
+      ]
+    ],
+    [
+      "strong"
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/articles/news/blows-up-tesla/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/articles/news/tesla-model-3-crash/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/articles/news/hacker-open-start-teslas/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/articles/news/tesla-magically-ignites/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/articles/news/teslas-dont-float/"
+      ]
+    ]
+  ],
+  "sections": [
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Maybe someone can create a new cartoon mascot to build awareness about what to do in case of an EV fire?"
+        ]
+      ]
+    ],
+    [
+      10,
+      0
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "We know electric vehicle fans get really tired of coverage every time a "
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "Tesla catches on fire"
+        ],
+        [
+          0,
+          [],
+          0,
+          ", but it happened again in the Sacramento, California area and the photos look horrific. This time the electric car wasn’t "
+        ],
+        [
+          0,
+          [
+            1
+          ],
+          1,
+          "entirely destroyed"
+        ],
+        [
+          0,
+          [],
+          0,
+          ", with some body panels miraculously left relatively intact, although the front end of the Tesla is literally toast."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [
+            2
+          ],
+          0,
+          "Watch a guy destroy his Tesla out of pure frustration "
+        ],
+        [
+          0,
+          [
+            3
+          ],
+          1,
+          "here"
+        ],
+        [
+          0,
+          [],
+          1,
+          "."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "What’s really scary about this fire is it apparently “spontaneously” combusted. Nothing from Sacramento Metropolitan Fire District or any local news reports indicate the Tesla was malfunctioning previously, had run over road debris, or been in an "
+        ],
+        [
+          0,
+          [
+            4
+          ],
+          1,
+          "accident"
+        ],
+        [
+          0,
+          [],
+          0,
+          ". Maybe an investigation will uncover the true cause, but for now having EVs just magically ignite while travelling down the highway is understandably scary."
+        ]
+      ]
+    ],
+    [
+      10,
+      1
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "From the photos, we can tell Sacramento Metropolitan Fire District has trained its firefighters on how to extinguish EV fires. They used a couple of farm jacks and some wood to prop up the "
+        ],
+        [
+          0,
+          [
+            5
+          ],
+          1,
+          "Tesla"
+        ],
+        [
+          0,
+          [],
+          0,
+          ", hosing down the chassis where the batteries are housed to keep it from reigniting."
+        ]
+      ]
+    ],
+    [
+      10,
+      2
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Tesla advises firefighters to “use large amounts of water to cool the battery” in the event of an EV fire. It also cautions that the battery cells can burn for up to 24 hours after, counseling that the vehicle should be monitored for an hour after the battery has cooled instead of after the flames have been extinguished since it can "
+        ],
+        [
+          0,
+          [
+            6
+          ],
+          1,
+          "reignite"
+        ],
+        [
+          0,
+          [],
+          0,
+          ". That requires using a thermal imaging camera to ensure there are no hot spots hiding in the labyrinth of battery cells."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Firefighters also have to handle the damaged Tesla using insulated tools or they risk electrocution."
+        ]
+      ]
+    ],
+    [
+      10,
+      3
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Even after putting out the fire, Tesla says an EV should be stored at least 50 feet from anything that could catch fire, just in case. The same thing goes for after a Tesla has been in a collision or was "
+        ],
+        [
+          0,
+          [
+            7
+          ],
+          1,
+          "submerged in water"
+        ],
+        [
+          0,
+          [],
+          0,
+          ". If this is the future of automobiles, perhaps now is the time to get that bicycle after all."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Photos: Sacramento Metropolitan Fire District"
+        ]
+      ]
+    ],
+    [
+      10,
+      4
+    ],
+    [
+      1,
+      "p",
+      []
+    ]
+  ],
+  "ghostVersion": "4.0"
+}

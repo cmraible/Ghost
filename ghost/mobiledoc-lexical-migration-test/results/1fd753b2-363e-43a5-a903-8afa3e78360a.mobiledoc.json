@@ -1,0 +1,1020 @@
+{
+  "version": "0.3.1",
+  "atoms": [],
+  "cards": [
+    [
+      "email-cta",
+      {
+        "showButton": true,
+        "showDividers": false,
+        "segment": "status:-free",
+        "alignment": "center",
+        "html": "<p><em><strong>Welcome to the Cheat Sheet, a Lever feature exclusive for our supporting subscribers that quickly gets you up to speed on a relevant news matter. In each Cheat Sheet, we will show you exactly what you need to know — including vital information corporate media is trying to cheat you out of learning.</strong></em></p>",
+        "buttonText": "Click Here To Comment",
+        "buttonUrl": "__GHOST_URL__/cheat-sheet-health-cares-secret-middleman/#comments"
+      }
+    ],
+    [
+      "email",
+      {
+        "html": "<p><strong><u><em><a href=\"https://twitter.com/intent/tweet?text=CHEAT%20SHEET%3A%20Health%20Care%27s%20Secret%20Middleman%20--%20Give%20us%20five%20minutes%20of%20your%20time%2C%20and%20we%E2%80%99ll%20tell%20you%20what%20you%20need%20to%20know%20about%20the%20shadowy%20power%20of%20pharmacy%20benefit%20managers.%20https%3A%2F%2Fwww.levernews.com%2Fcheat-sheet-health-cares-secret-middleman%2F%3Futm_source%3Dtwitter%26utm_medium%3Dlink%26utm_campaign%3Dtw-prefill\">Click to share on Twitter</a></em></u></strong></p>"
+      }
+    ],
+    [
+      "email",
+      {
+        "html": "<p><em><strong><a href=\"https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.levernews.com%2Fcheat-sheet-health-cares-secret-middleman%2F&amp;amp;src=sdkpreparse\">Click to share on Facebook</a></strong></em></p>"
+      }
+    ],
+    [
+      "paywall",
+      {}
+    ],
+    [
+      "button",
+      {
+        "alignment": "center",
+        "buttonText": "Tip Jar",
+        "buttonUrl": "https://dailyposter.outpost.pub/ghost-integration/60818189ad12f332071054b8/tips"
+      }
+    ],
+    [
+      "embed",
+      {
+        "url": "https://twitter.com/DGlaucomflecken/status/1554821739015680000?t=WrYSMeMTInwgpS30yPyXnA&s=19",
+        "html": "<blockquote class=\"twitter-tweet\"><p lang=\"en\" dir=\"ltr\">Pharmacy Benefit Managers <a href=\"https://t.co/mE3P6L7NjT\">pic.twitter.com/mE3P6L7NjT</a></p>&mdash; Dr. Glaucomflecken (@DGlaucomflecken) <a href=\"https://twitter.com/DGlaucomflecken/status/1554821739015680000?ref_src=twsrc%5Etfw\">August 3, 2022</a></blockquote>\n<script async src=\"https://platform.twitter.com/widgets.js\" charset=\"utf-8\"></script>\n",
+        "type": "twitter",
+        "metadata": {
+          "url": "https://twitter.com/DGlaucomflecken/status/1554821739015680000",
+          "author_name": "Dr. Glaucomflecken",
+          "author_url": "https://twitter.com/DGlaucomflecken",
+          "width": 550,
+          "height": null,
+          "cache_age": "3153600000",
+          "provider_name": "Twitter",
+          "provider_url": "http://www.twitter.com/",
+          "version": "1.0",
+          "tweet_data": {
+            "id": "1554821739015680000",
+            "attachments": {
+              "media_keys": [
+                "7_1554821664944246785"
+              ]
+            },
+            "public_metrics": {
+              "retweet_count": 8321,
+              "reply_count": 604,
+              "like_count": 27587,
+              "quote_count": 1784
+            },
+            "source": "Twitter for iPhone",
+            "text": "Pharmacy Benefit Managers https://t.co/mE3P6L7NjT",
+            "created_at": "2022-08-03T13:29:24.000Z",
+            "lang": "en",
+            "possibly_sensitive": false,
+            "conversation_id": "1554821739015680000",
+            "entities": {
+              "annotations": [
+                {
+                  "start": 0,
+                  "end": 24,
+                  "probability": 0.4698,
+                  "type": "Organization",
+                  "normalized_text": "Pharmacy Benefit Managers"
+                }
+              ],
+              "urls": [
+                {
+                  "start": 26,
+                  "end": 49,
+                  "url": "https://t.co/mE3P6L7NjT",
+                  "expanded_url": "https://twitter.com/DGlaucomflecken/status/1554821739015680000/video/1",
+                  "display_url": "pic.twitter.com/mE3P6L7NjT",
+                  "media_key": "7_1554821664944246785"
+                }
+              ]
+            },
+            "reply_settings": "everyone",
+            "author_id": "726767006905573376",
+            "includes": {
+              "media": [
+                {
+                  "duration_ms": 128366,
+                  "height": 1280,
+                  "width": 720,
+                  "public_metrics": {
+                    "view_count": 1062133
+                  },
+                  "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1554821664944246785/pu/img/y-3-avwJLwkmmq0f.jpg",
+                  "media_key": "7_1554821664944246785",
+                  "type": "video"
+                }
+              ],
+              "users": [
+                {
+                  "pinned_tweet_id": "1332397451962060800",
+                  "profile_image_url": "https://pbs.twimg.com/profile_images/1548123401683738628/VxXLFBiF_normal.jpg",
+                  "created_at": "2016-05-01T13:35:31.000Z",
+                  "id": "726767006905573376",
+                  "name": "Dr. Glaucomflecken",
+                  "verified": false,
+                  "entities": {
+                    "url": {
+                      "urls": [
+                        {
+                          "start": 0,
+                          "end": 23,
+                          "url": "https://t.co/sIBvugZNLs",
+                          "expanded_url": "https://m.youtube.com/channel/UCYDVFfp_AN1WBiNwaf9522w",
+                          "display_url": "m.youtube.com/channel/UCYDVF…"
+                        }
+                      ]
+                    },
+                    "description": {
+                      "urls": [
+                        {
+                          "start": 81,
+                          "end": 104,
+                          "url": "https://t.co/Ohj0vBbkjP",
+                          "expanded_url": "http://support.firstdescents.org/fundraiser/318",
+                          "display_url": "support.firstdescents.org/fundraiser/318"
+                        }
+                      ]
+                    }
+                  },
+                  "url": "https://t.co/sIBvugZNLs",
+                  "username": "DGlaucomflecken",
+                  "description": "Ophthalmologist. Comedian. Speaker. Tiktok. Contact: drgcomedy@gmail.com Donate: https://t.co/Ohj0vBbkjP…",
+                  "protected": false,
+                  "public_metrics": {
+                    "followers_count": 622830,
+                    "following_count": 414,
+                    "tweet_count": 21139,
+                    "listed_count": 1358
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    ],
+    [
+      "callout",
+      {
+        "calloutEmoji": "👉",
+        "calloutText": "<strong>HELP US GROW, FOLLOW US ON SOCIAL MEDIA:</strong><br>• <a href=\"https://www.twitter.com/LeverNews\"><strong>Twitter</strong></a><br>• <a href=\"https://www.facebook.com/TheLeverNews\"><strong>Facebook</strong></a><br>• <a href=\"https://www.instagram.com/LeverNews\"><strong>Instagram</strong></a><br>• <a href=\"https://www.youtube.com/c/LeverNews\"><strong>YouTube</strong></a>",
+        "backgroundColor": "grey"
+      }
+    ],
+    [
+      "button",
+      {
+        "alignment": "center",
+        "buttonText": "Give A Gift Subscription",
+        "buttonUrl": "https://dailyposter.outpost.pub/gift_subscription#/"
+      }
+    ],
+    [
+      "email-cta",
+      {
+        "showButton": true,
+        "showDividers": false,
+        "segment": "status:-free",
+        "alignment": "center",
+        "html": "",
+        "buttonText": "Click Here To Comment",
+        "buttonUrl": "__GHOST_URL__/cheat-sheet-health-cares-secret-middleman/#comments"
+      }
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "email-cta",
+      {
+        "showButton": true,
+        "showDividers": false,
+        "segment": "status:-free",
+        "alignment": "center",
+        "html": "",
+        "buttonText": "Tip Jar",
+        "buttonUrl": "https://dailyposter.outpost.pub/ghost-integration/60818189ad12f332071054b8/tips"
+      }
+    ],
+    [
+      "email",
+      {
+        "html": "<p><em><strong>Help us spread the word! </strong>Please forward this email to family and friends.</em></p><p><em><strong>Was this email forwarded to you? </strong><a href=\"https://levernews.com/membership/?utm_source=cheat&amp;utm_medium=link&amp;utm_campaign=forward-signup\">Sign up for free</a> to receive original reporting like this in your inbox every day.</em></p>"
+      }
+    ]
+  ],
+  "markups": [
+    [
+      "a",
+      [
+        "href",
+        "https://ohioauditor.gov/auditsearch/Reports/2018/Medicaid_Pharmacy_Services_2018_Franklin.pdf"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.beckershospitalreview.com/pharmacy/pbms-profits-are-increasing-while-their-revenue-sources-remain-unclear-report-says.html"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.commonwealthfund.org/publications/explainer/2019/apr/pharmacy-benefit-managers-and-their-role-drug-spending#4"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.xcenda.com/insights/skyrocketing-growth-pbm-formulary-exclusions-concerns-patient-access"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.nopatientleftbehind.org/publications/pbms-the-secretive-middlemen-for-insurance-and-drug-companies"
+      ]
+    ],
+    [
+      "em"
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.medpagetoday.com/opinion/second-opinions/100202?trw=no"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.ama-assn.org/system/files/prior-authorization-survey.pdf"
+      ]
+    ],
+    [
+      "strong"
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/democrats-could-still-pass-some-of-their-agenda/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.kff.org/medicare/issue-brief/how-will-the-prescription-drug-provisions-in-the-inflation-reduction-act-affect-medicare-beneficiaries/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.fiercehealthcare.com/payer/insurers-pbms-call-congress-to-get-rid-delayed-part-d-rebate-rule"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.opensecrets.org/federal-lobbying/clients/summary?id=D000028342"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.ftc.gov/news-events/news/press-releases/2022/06/ftc-launches-inquiry-prescription-drug-middlemen-industry"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.grassley.senate.gov/news/news-releases/following-grassley-requests-ftc-opens-probe-of-prescription-drug-middlemen"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.congress.gov/bill/117th-congress/senate-bill/4293/text"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.sciencedirect.com/science/article/abs/pii/S1551741122002649"
+      ]
+    ]
+  ],
+  "sections": [
+    [
+      1,
+      "p",
+      []
+    ],
+    [
+      10,
+      0
+    ],
+    [
+      10,
+      1
+    ],
+    [
+      10,
+      2
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "There is a major player in the U.S. health care system that flies under the radar but wields tremendous power in determining who gets access to life-saving medication. A group of businesses called Pharmacy Benefit Managers, or PBMs, set prescription drug benefits nationwide — and instead of passing savings they negotiate onto patients, these firms pocket the proceeds and reap gargantuan profits."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "A tiny handful of PBMs, most of which are owned by insurers, control nearly the entire market, shape the benefits of hundreds of millions of Americans, and boast sky-high revenues — yet most people don’t know they exist, and they have long skirted federal oversight."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "“Although many people have never heard of pharmacy benefit managers, these powerful middlemen have enormous influence over the U.S. prescription drug system,” said Federal Trade Commission (FTC) Chair Lina Khan in a June press release on the matter."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "In today’s Cheat Sheet, exclusively for supporting subscribers, we will teach you all about PBMs, explain why they’re so dangerous, and highlight what can be done to stop them."
+        ]
+      ]
+    ],
+    [
+      10,
+      3
+    ],
+    [
+      1,
+      "h3",
+      [
+        [
+          0,
+          [],
+          0,
+          "DECEPTIVE PRACTICES "
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "In the prescription drug supply chain, pharmacy benefit managers are companies that work with drugmakers, insurers, and pharmacies to determine drug benefits, which includes deciding which medicines will covered by health insurance plans and negotiating prescription drug prices with pharmaceutical manufacturers on behalf of insurers, Medicare’s prescription drug benefit plans, and large employers."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Theoretically, PBM brokers should help patients save money, since they negotiate discounts with pharmaceutical companies to get better deals for insurers and their patients. In reality, that’s not quite how they operate. Instead of passing rebates onto patients, PBMs pocket most of the savings, while making medicines costlier for patients."
+        ]
+      ]
+    ],
+    [
+      10,
+      4
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "The process goes like this: An insurance company tells a PBM to find the best price on, say, insulin, which is critical to diabetes treatment. The PBM will then figure out which drug company is willing to offer the insurer the biggest discount on the drug. PBMs get paid based on the discount they negotiate. The arrangement encourages profit-hungry drug manufacturers to jack up insulin prices before negotiating discounts, while PBMs are incentivized to discourage insurers from covering cheaper drugs, since they won’t score as much profit from the smaller rebates they’ll net from these medications."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "The specifics of how much cost savings PBMs pass on to insurers and patients versus how much they pocket themselves are extremely secretive, with the information shielded from insurers, government auditors, and the public alike. This has led to shady practices like spread pricing, in which PBMs charge insurers and employers more for medications than they pay to pharmacies for these drugs, pocketing the difference. That difference can add up: The Ohio State Auditor’s office found a "
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "$225 million spread"
+        ],
+        [
+          0,
+          [],
+          0,
+          " between what Medicaid paid its PBM for certain medications, and what the PBM paid to pharmacies in the state."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Ultimately, patients get stuck paying higher prices for vital medicines — particularly those with high-deductible health plans or out-of-pocket costs, not to mention those without health insurance or drug coverage at all. Meanwhile, PBMs’ profit margins have "
+        ],
+        [
+          0,
+          [
+            1
+          ],
+          1,
+          "risen sharply"
+        ],
+        [
+          0,
+          [],
+          0,
+          " in recent years, with manufacturer rebates to PBMs "
+        ],
+        [
+          0,
+          [
+            2
+          ],
+          1,
+          "skyrocketing from"
+        ],
+        [
+          0,
+          [],
+          0,
+          " $39.7 billion in 2012 to $89.5 billion in 2016."
+        ]
+      ]
+    ],
+    [
+      1,
+      "h3",
+      [
+        [
+          0,
+          [],
+          0,
+          "A HEALTH CARE MONOPOLY"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "The PBM market is dominated by just three companies: OptumRx, Express Scripts, and CVS Caremark. These three companies manage a whopping "
+        ],
+        [
+          0,
+          [
+            3
+          ],
+          1,
+          "80 percent"
+        ],
+        [
+          0,
+          [],
+          0,
+          " of all prescriptions in the U.S., meaning they have outsized influence in determining which medicines are covered by insurance and what patients are responsible for paying. Express Scripts, for example, covers "
+        ],
+        [
+          0,
+          [
+            4
+          ],
+          1,
+          "more than 3,000"
+        ],
+        [
+          0,
+          [],
+          0,
+          " health insurance plans serving roughly 75 million participants."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "To make matters worse, the largest PBMs are all owned by major health insurance interests, which further entrenches the monopolization of health care in the hands of a few corporate giants. Insurer UnitedHealth owns OptumRx, while its counterpart Cigna owns Express Scripts. The pharmacy chain CVS Health, which purchased health insurer Aetna in 2018, owns CVS Caremark."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Here’s a helpful video from ophthalmologist Will Flanary that breaks down how PBMs and the broader vertical integration scheme in which they are embedded translate to billions of dollars in profit for insurance companies annually."
+        ]
+      ]
+    ],
+    [
+      10,
+      5
+    ],
+    [
+      1,
+      "h3",
+      [
+        [
+          0,
+          [],
+          0,
+          "A DIFFICULT ESCAPE CLAUSE"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "While patients and providers can bypass a PBM’s list of covered medications to obtain other, cheaper drugs, to do so they must navigate a tedious prior authorization process to prove that a patient needs a drug that is different from the one chosen for them by the PBM — which is easier said than done. As nurse Lela Kanter recently noted in a"
+        ],
+        [
+          0,
+          [
+            5
+          ],
+          1,
+          " Medpage Today"
+        ],
+        [
+          0,
+          [],
+          0,
+          " "
+        ],
+        [
+          0,
+          [
+            6
+          ],
+          1,
+          "opinion piece"
+        ],
+        [
+          0,
+          [],
+          0,
+          ", “In many cases, PBMs require that patients have tried and failed therapy on their preferred drugs before they will grant the medication that the patient and their provider have chosen.”"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Moreover, a 2021 American Medical Association "
+        ],
+        [
+          0,
+          [
+            7
+          ],
+          1,
+          "survey"
+        ],
+        [
+          0,
+          [],
+          0,
+          " found that health care providers and their staff spend, on average, "
+        ],
+        [
+          0,
+          [
+            8
+          ],
+          1,
+          "13 hours a week "
+        ],
+        [
+          0,
+          [],
+          0,
+          "completing various prior authorizations for PBMs — time that could be otherwise spent on patient care in a system where doctor visits have already been severely truncated. Worse yet, "
+        ],
+        [
+          0,
+          [
+            8
+          ],
+          1,
+          "93 percent "
+        ],
+        [
+          0,
+          [],
+          0,
+          "of physicians said that their patients had care delayed by this process, and "
+        ],
+        [
+          0,
+          [
+            8
+          ],
+          1,
+          "a third "
+        ],
+        [
+          0,
+          [],
+          0,
+          "reported that this delay resulted in a health emergency."
+        ]
+      ]
+    ],
+    [
+      10,
+      6
+    ],
+    [
+      1,
+      "h3",
+      [
+        [
+          0,
+          [],
+          0,
+          "IMPACT OF THE INFLATION REDUCTION ACT"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "The Democrats’ Inflation Reduction Act (IRA), signed into law last month by President Joe Biden, could help matters by theoretically cutting out the PBM middlemen in some instances. That’s because Medicare will no longer be barred by federal law from negotiating drug prices directly with manufacturers. But the provision "
+        ],
+        [
+          0,
+          [
+            9
+          ],
+          1,
+          "only covers"
+        ],
+        [
+          0,
+          [],
+          0,
+          " a small number of older drugs, and it will be implemented on a delayed timeline."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "To make matters worse, the IRA helps the PBM industry by once again "
+        ],
+        [
+          0,
+          [
+            10
+          ],
+          1,
+          "delaying"
+        ],
+        [
+          0,
+          [],
+          0,
+          " implementation of a Trump-era rule that would scrap the so-called “safe harbor” that protects PBMs from federal anti-kickback laws and allows them to continue raking in rebates from Medicare’s prescription drug benefit plans."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "This regulatory delay isn’t all that surprising, given that the major PBM lobbying group Pharmaceutical Care Management Association, which has "
+        ],
+        [
+          0,
+          [
+            11
+          ],
+          1,
+          "long fought"
+        ],
+        [
+          0,
+          [],
+          0,
+          " to keep the safe harbor, spent more than "
+        ],
+        [
+          0,
+          [
+            12
+          ],
+          1,
+          "$4 million"
+        ],
+        [
+          0,
+          [],
+          0,
+          " in lobbying this year alone."
+        ]
+      ]
+    ],
+    [
+      1,
+      "h3",
+      [
+        [
+          0,
+          [],
+          0,
+          "PROMISING INITIATIVES"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "On a brighter note, regulators at the FTC appear intent on cracking down on PBMs. In June, the FTC launched an investigation into the business practices of the six largest vertically integrated PBMs, to evaluate how these business arrangements impact prescription drug access and affordability."
+        ]
+      ]
+    ],
+    [
+      10,
+      7
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "As FTC Chair Khan noted in a "
+        ],
+        [
+          0,
+          [
+            13
+          ],
+          1,
+          "press release"
+        ],
+        [
+          0,
+          [],
+          0,
+          " at the time, “This study will shine a light on these companies’ practices and their impact on pharmacies, payers, doctors, and patients.”"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Sen. Maria Cantwell (D-Wash.) recently introduced the Pharmacy Benefit Manager Transparency Act of 2022 alongside Sen. Chuck Grassley (R-Iowa), who had "
+        ],
+        [
+          0,
+          [
+            14
+          ],
+          1,
+          "pushed the FTC"
+        ],
+        [
+          0,
+          [],
+          0,
+          " to open an investigation into PBMs. The legislation seeks to hold PBMs accountable for their deceptive practices by banning spread pricing and encouraging greater transparency. Unfortunately, the current bill "
+        ],
+        [
+          0,
+          [
+            15
+          ],
+          1,
+          "includes a significant loophole"
+        ],
+        [
+          0,
+          [],
+          0,
+          " that would allow major PBMs to avoid the ban if they instead funnel all rebates back to the health corporation that owns them.Community pharmacists are also taking matters into their own hands, spearheading campaigns that have "
+        ],
+        [
+          0,
+          [
+            16
+          ],
+          1,
+          "led all 50 states"
+        ],
+        [
+          0,
+          [],
+          0,
+          " to pass state-level PBM regulations as of November 2021. According to a "
+        ],
+        [
+          0,
+          [
+            16
+          ],
+          1,
+          "recent study"
+        ],
+        [
+          0,
+          [],
+          0,
+          " published in "
+        ],
+        [
+          0,
+          [
+            5
+          ],
+          1,
+          "Research in Social and Administrative Pharmacy"
+        ],
+        [
+          0,
+          [],
+          0,
+          ", most of these regulations could increase PBMs’ transparency and accountability, as well as prevent PBM-owning health care corporations from unfairly controlling the market."
+        ]
+      ]
+    ],
+    [
+      10,
+      8
+    ],
+    [
+      10,
+      9
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [
+            5,
+            8
+          ],
+          1,
+          "Our news organization relies on readers pitching in to support our journalism. "
+        ],
+        [
+          0,
+          [
+            5,
+            8
+          ],
+          3,
+          "If you like this story, please support "
+        ],
+        [
+          0,
+          [
+            8,
+            5,
+            8
+          ],
+          3,
+          "our"
+        ],
+        [
+          0,
+          [
+            5,
+            5,
+            8
+          ],
+          3,
+          " work."
+        ]
+      ]
+    ],
+    [
+      10,
+      10
+    ],
+    [
+      10,
+      11
+    ]
+  ],
+  "ghostVersion": "4.0"
+}

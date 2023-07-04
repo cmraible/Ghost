@@ -1,0 +1,1156 @@
+{
+  "version": "0.3.1",
+  "atoms": [],
+  "cards": [
+    [
+      "email",
+      {
+        "html": "<p>Friends:</p>"
+      }
+    ],
+    [
+      "email-cta",
+      {
+        "showButton": true,
+        "showDividers": false,
+        "segment": "status:free",
+        "alignment": "left",
+        "buttonText": "Upgrade Now",
+        "buttonUrl": "__GHOST_URL__/membership/?utm_source=newsletter-email&utm_medium=link&utm_campaign=newsletter-upgrade",
+        "html": "<p>If you wish to gain access to the full newsletter, consider clicking the button below to become a Supporting Subscriber.</p>"
+      }
+    ],
+    [
+      "callout",
+      {
+        "calloutEmoji": "💡",
+        "calloutText": "Follow us on <a href=\"https://apple.news/TeRci1RtoQfWCNA5h7NTBlg\">Apple News</a> and <a href=\"https://news.google.com/publications/CAAqBwgKMPvKngswktW2Aw\">Google News</a> to make sure you see our stories first, and to help make sure others see our breaking news as well.",
+        "backgroundColor": "grey"
+      }
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "email-cta",
+      {
+        "showButton": false,
+        "showDividers": false,
+        "segment": "status:free",
+        "alignment": "left",
+        "html": "<p>This state of affairs was eminently clear in the first...</p>"
+      }
+    ],
+    [
+      "paywall",
+      {}
+    ],
+    [
+      "button",
+      {
+        "alignment": "center",
+        "buttonText": "Tip Jar",
+        "buttonUrl": "https://dailyposter.outpost.pub/ghost-integration/60818189ad12f332071054b8/tips"
+      }
+    ],
+    [
+      "email-cta",
+      {
+        "showButton": true,
+        "showDividers": false,
+        "segment": "status:-free",
+        "alignment": "center",
+        "html": "",
+        "buttonText": "Click Here To Comment",
+        "buttonUrl": "__GHOST_URL__/lever-weekly-wheres-the-political-action-in-2023/#comments"
+      }
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "email",
+      {
+        "html": "<p><em><strong>Help us spread the word! </strong>Please forward this email to family and friends.</em></p><p><em><strong>Was this email forwarded to you? </strong><a href=\"https://levernews.com/membership/\">Sign up for free</a> to receive original reporting like this in your inbox every day.</em></p>"
+      }
+    ]
+  ],
+  "markups": [
+    [
+      "em"
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/state-officials-warned-buttigieg-about-airline-mess/"
+      ]
+    ],
+    [
+      "strong"
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/the-partisan-ghost-in-the-media-machine/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/how-big-pharma-actually-spends-its-massive-profits/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/i-heard-it-was-safe/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/you-love-to-see-it-a-regulator-steps-up-to-the-plate/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/lever-time-how-the-airline-industry-became-a-living-nightmare/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/the-giant-law-firm-that-has-been-influencing-american-politics/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/watch-now-pete-buttigieg-was-warned-about-southwests-flight-issues/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://slate.com/news-and-politics/2023/01/kevin-mccarthy-speaker-vote-defectors-house-freedom-caucus.html"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.politico.com/f/?id=00000185-85c8-dde8-a9af-85e929970000&nname=playbook&nid=0000014f-1646-d88f-a1cf-5f46b7bd0000&nrid=cc650b0a-8158-4caf-9c02-91d0351ff0eb&nlid=630318"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.bloomberg.com/news/articles/2023-01-06/mccarthy-s-emerging-speaker-deal-tees-up-75-billion-defense-cut?srnd=premium"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.cnn.com/2023/01/05/business/southwest-buttigieg-democrats/index.html"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/you-love-to-see-it-a-regulator-steps-up-to-the-plate/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.nytimes.com/2023/01/05/business/economy/ftc-noncompete.html"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/xavier-becerra-could-lower-drug-prices-so-why-isnt-he/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/amazon-gets-huge-contract-despite-bidens-union-pledge/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/amazon-benefited-from-bidens-inaction/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/how-biden-and-buttigieg-could-deliver-sick-leave-to-rail-workers/?utm_source=newsletter-email&utm_medium=link&utm_campaign=newsletter-article"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/biden-is-ignoring-an-easy-climate-victory/"
+      ]
+    ]
+  ],
+  "sections": [
+    [
+      10,
+      0
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "This is Lever Weekly, a recap of our work from the past week. If you only read one email from us all week, this should be it."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Below you will find a breakdown of our reporting, podcasts, videos, and live events — a feature now open to all subscribers. Following that, we are providing paid subscribers with an original column, written by a member of "
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "The Lever"
+        ],
+        [
+          0,
+          [],
+          0,
+          ", connecting the dots on our coverage to deliver important takeaways."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "In this week’s column, exclusively for paid subscribers, Julia Rock highlights the executive branch action that occurred last week while the fight for a new House Speaker dominated headlines — and what more can and should be done to make real progress in 2023."
+        ]
+      ]
+    ],
+    [
+      10,
+      1
+    ],
+    [
+      1,
+      "h3",
+      [
+        [
+          0,
+          [],
+          0,
+          "Stuff "
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "The Lever"
+        ],
+        [
+          0,
+          [],
+          0,
+          " Reported This Week:"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "• "
+        ],
+        [
+          0,
+          [
+            1,
+            2
+          ],
+          2,
+          "State Officials Warned Buttigieg About Airline Mess"
+        ],
+        [
+          0,
+          [],
+          0,
+          " — “"
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "Before the holiday travel nightmare, attorneys general begged the Transportation Secretary and Congress to crack down."
+        ],
+        [
+          0,
+          [],
+          0,
+          "”"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "• "
+        ],
+        [
+          0,
+          [
+            3,
+            2
+          ],
+          2,
+          "The Partisan Ghost In The Media Machine"
+        ],
+        [
+          0,
+          [
+            2
+          ],
+          1,
+          " "
+        ],
+        [
+          0,
+          [],
+          0,
+          "— “"
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "Media outlets no longer consider government malfeasance newsworthy if reporting on it might offend audiences’ partisan loyalties."
+        ],
+        [
+          0,
+          [],
+          0,
+          "”"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "• "
+        ],
+        [
+          0,
+          [
+            4,
+            2
+          ],
+          2,
+          "How Big Pharma Actually Spends Its Massive Profits"
+        ],
+        [
+          0,
+          [
+            2
+          ],
+          1,
+          " — "
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "“New research shows that the business model of America’s largest pharmaceutical companies involves far more spending on enriching shareholders and executives than on research and development.”"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "• "
+        ],
+        [
+          0,
+          [
+            5,
+            2
+          ],
+          2,
+          "“I Heard It Was Safe”"
+        ],
+        [
+          0,
+          [
+            2
+          ],
+          1,
+          " "
+        ],
+        [
+          0,
+          [],
+          0,
+          "— “"
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "Andrew Gronek and many young FTX investors were tricked into believing the crypto exchange was as stable and protected as a typical bank account."
+        ],
+        [
+          0,
+          [],
+          0,
+          "”"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "• "
+        ],
+        [
+          0,
+          [
+            6,
+            2
+          ],
+          1,
+          "YOU LOVE TO SEE IT"
+        ],
+        [
+          0,
+          [],
+          0,
+          ": "
+        ],
+        [
+          0,
+          [
+            2
+          ],
+          2,
+          "A Regulator Steps Up To The Plate"
+        ],
+        [
+          0,
+          [],
+          0,
+          " — “"
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "Under the leadership of chair Lina Khan, the Federal Trade Commission just unveiled a rule that would bar companies from restricting their employees’ ability to work for rivals.”"
+        ]
+      ]
+    ],
+    [
+      1,
+      "h3",
+      [
+        [
+          0,
+          [],
+          0,
+          "Stuff To Watch & Listen To:"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "•"
+        ],
+        [
+          0,
+          [
+            2
+          ],
+          1,
+          " "
+        ],
+        [
+          0,
+          [
+            7,
+            2
+          ],
+          2,
+          "LEVER TIME: How The Airline Industry Became A Living Nightmare"
+        ],
+        [
+          0,
+          [
+            2
+          ],
+          1,
+          " "
+        ],
+        [
+          0,
+          [],
+          0,
+          "— "
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "David Sirota explores how the U.S. airline industry became one of the most concentrated and despised industries in the country"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "• "
+        ],
+        [
+          0,
+          [
+            8,
+            2
+          ],
+          2,
+          "LEVER TIME PREMIUM: The Giant Law Firm That Has Been Influencing American Politics"
+        ],
+        [
+          0,
+          [
+            2
+          ],
+          1,
+          " "
+        ],
+        [
+          0,
+          [],
+          0,
+          "— "
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "David speaks with a leading expert in airline regulation and discusses the shadowy power wielded by our country’s largest law firms."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "•"
+        ],
+        [
+          0,
+          [
+            2
+          ],
+          1,
+          " "
+        ],
+        [
+          0,
+          [
+            9,
+            2
+          ],
+          2,
+          "WATCH NOW: Pete Buttigieg Was Warned About Southwest's Flight Issues"
+        ],
+        [
+          0,
+          [],
+          0,
+          " — The Lever"
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "’s new video reveals how lax regulation and government missteps led to the air travel crisis that stranded a million travelers over the holidays."
+        ]
+      ]
+    ],
+    [
+      10,
+      2
+    ],
+    [
+      10,
+      3
+    ],
+    [
+      1,
+      "h3",
+      [
+        [
+          0,
+          [],
+          0,
+          "Where The Real Action Is"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "By Julia Rock"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "At first glance, it seemed like Washington was simply a stage for political theater last week."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Republicans, holding a new majority in the House of Representatives, voted again and again and again to select the next head of the chamber. Radical Trump loyalists within the party thwarted efforts to crown Rep. Kevin McCarthy of California, until early Saturday morning when he finally won the speaker election. It was the longest back-and-forth over electing a speaker since before the U.S. Civil War."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "We knew, no matter the outcome, that control of Congress would be split, as Democrats control the Senate and Republicans now have the majority in the House — and the real potential for the government to change peoples’ lives in the next two years will likely lie within the executive branch."
+        ]
+      ]
+    ],
+    [
+      10,
+      4
+    ],
+    [
+      10,
+      5
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "This state of affairs was eminently clear in the first week of the year, as the Biden administration moved to expand abortion access, promote competition in the labor market, and suggested it might move to enforce consumer protection laws against the airline industry."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "There are certainly some substantive aspects to the apparent antics in the House. It reveals a lot about how power works in the House — with "
+        ],
+        [
+          0,
+          [
+            10
+          ],
+          1,
+          "important lessons for progressives"
+        ],
+        [
+          0,
+          [],
+          0,
+          ". Involvement from major dark money groups spurred an "
+        ],
+        [
+          0,
+          [
+            11
+          ],
+          1,
+          "ethics complaint"
+        ],
+        [
+          0,
+          [],
+          0,
+          " against McCarthy for using House resources for political purposes. Republicans are "
+        ],
+        [
+          0,
+          [
+            12
+          ],
+          1,
+          "discussing a deal"
+        ],
+        [
+          0,
+          [],
+          0,
+          " to freeze Pentagon spending in exchange for votes for McCarthy, or to freeze government spending levels altogether."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Most news coverage, however, simply followed the drama of the vote flips and the personalities of radicals attempting to push the party to the right."
+        ]
+      ]
+    ],
+    [
+      10,
+      6
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "The real developments of any relevance, however, were quietly taking place in the executive branch. For example, as "
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "The Lever"
+        ],
+        [
+          0,
+          [],
+          0,
+          " "
+        ],
+        [
+          0,
+          [
+            1
+          ],
+          1,
+          "has been actively covering"
+        ],
+        [
+          0,
+          [],
+          0,
+          ", Transportation Secretary Pete Buttigieg has been declining to do his job as the country’s sole airline regulator, while Southwest Airlines screwed over millions of travelers and their families. While most of the "
+        ],
+        [
+          0,
+          [
+            3
+          ],
+          1,
+          "corporate media was refusing to admit"
+        ],
+        [
+          0,
+          [],
+          0,
+          " that Buttigieg has massive authority to hold Southwest accountable, "
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "The Lever"
+        ],
+        [
+          0,
+          [],
+          0,
+          " "
+        ],
+        [
+          0,
+          [
+            7
+          ],
+          1,
+          "was hammering home this point"
+        ],
+        [
+          0,
+          [],
+          0,
+          ", and now dozens of lawmakers from Buttigieg’s own party "
+        ],
+        [
+          0,
+          [
+            13
+          ],
+          1,
+          "have joined the call"
+        ],
+        [
+          0,
+          [],
+          0,
+          " for the administration to do more."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Furthermore, while the Speaker fight dominated headlines, the Food and Drug Administration "
+        ],
+        [
+          0,
+          [
+            14
+          ],
+          1,
+          "quietly announced"
+        ],
+        [
+          0,
+          [],
+          0,
+          " that abortion pills — the primary means by which Americans terminate pregnancies — can now be offered at retail pharmacies across the country, a massive step towards improving access to reproductive health care following the Supreme Court overturning "
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "Roe v. Wade"
+        ],
+        [
+          0,
+          [],
+          0,
+          " last summer."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Days later, the Federal Trade Commission made an announcement that could transform the lives of millions of American workers. The agency has "
+        ],
+        [
+          0,
+          [
+            15
+          ],
+          1,
+          "proposed a blanket ban"
+        ],
+        [
+          0,
+          [],
+          0,
+          " on non-compete agreements, which block workers of all types from switching jobs within industries and ultimately prevent them from negotiating better wages and working conditions."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "But this could — and should — only be the beginning. There are other things executive branch officials could be doing while Congress spins its wheels. "
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "The Lever"
+        ],
+        [
+          0,
+          [],
+          0,
+          " hasn’t shied away from pointing out how much power the executive branch has to accomplish things like "
+        ],
+        [
+          0,
+          [
+            16
+          ],
+          1,
+          "lowering drug prices"
+        ],
+        [
+          0,
+          [],
+          0,
+          ", "
+        ],
+        [
+          0,
+          [
+            17
+          ],
+          1,
+          "helping workers"
+        ],
+        [
+          0,
+          [],
+          0,
+          " "
+        ],
+        [
+          0,
+          [
+            18
+          ],
+          1,
+          "trying to unionize"
+        ],
+        [
+          0,
+          [],
+          0,
+          ", "
+        ],
+        [
+          0,
+          [
+            19
+          ],
+          1,
+          "delivering paid sick leave"
+        ],
+        [
+          0,
+          [],
+          0,
+          " to workers, and "
+        ],
+        [
+          0,
+          [
+            20
+          ],
+          1,
+          "tackling climate change"
+        ],
+        [
+          0,
+          [],
+          0,
+          "."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Congressional theater may be entertaining and garner clicks (although we at "
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "The Lever"
+        ],
+        [
+          0,
+          [],
+          0,
+          " find it mind-numbingly boring), but lift the curtain and you’ll find plenty of powerful regulators and officials who need to be held accountable and do their jobs. We’ll continue telling those stories — the ones that actually matter."
+        ]
+      ]
+    ],
+    [
+      10,
+      7
+    ],
+    [
+      10,
+      8
+    ],
+    [
+      10,
+      9
+    ],
+    [
+      1,
+      "p",
+      []
+    ],
+    [
+      1,
+      "p",
+      []
+    ],
+    [
+      1,
+      "p",
+      []
+    ],
+    [
+      1,
+      "p",
+      []
+    ]
+  ],
+  "ghostVersion": "4.0"
+}

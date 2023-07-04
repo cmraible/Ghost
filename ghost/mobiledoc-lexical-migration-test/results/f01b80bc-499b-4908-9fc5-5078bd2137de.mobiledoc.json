@@ -1,0 +1,831 @@
+{
+  "version": "0.3.1",
+  "atoms": [],
+  "cards": [
+    [
+      "email",
+      {
+        "html": "<p>Hey {first_name, \"there\"},</p><p>So, October has come in like a lion, hasn't it? Not only is there that little story about a world leader contracting some virus, but there's also been some big news in the social and digital space.</p><p>So, grab a cup of your favourite brew, sit back, and catch up.&nbsp;</p>"
+      }
+    ],
+    [
+      "bookmark",
+      {
+        "url": "https://about.fb.com/news/2020/10/supporting-online-communities/",
+        "metadata": {
+          "url": "https://about.fb.com/news/2020/10/supporting-online-communities/",
+          "title": "Supporting Online Communities When They’re Needed Most - About Facebook",
+          "description": "Today we’re hosting the Facebook Communities Summit digitally, sharing product updates and educational resources for community leaders.",
+          "author": "Fidji Simo, Head of Facebook App",
+          "publisher": "About Facebook",
+          "thumbnail": "https://about.fb.com/wp-content/uploads/2020/10/NRP-Facebook_Communities_Summit_thumbnail.jpg?w=1200",
+          "icon": "https://about.fb.com/wp-content/themes/fbcorp/assets/images/apple-touch-icon-1024x1024-precomposed.png"
+        }
+      }
+    ],
+    [
+      "bookmark",
+      {
+        "url": "https://techcrunch.com/2020/10/01/facebook-groups-to-gain-suite-of-new-tools-for-managing-discussions-surfacing-public-content/",
+        "metadata": {
+          "url": "https://social.techcrunch.com/2020/10/01/facebook-groups-to-gain-suite-of-new-tools-for-managing-discussions-surfacing-public-content/",
+          "title": "TechCrunch",
+          "description": "Facebook is introducing a suite of new features for Facebook Groups, the private social networking product now used by over 1.8 billion people every month. At the company’s digitally hosted Facebook Communities Summit today, Facebook detailed a set of upcoming tools aimed at those who run Groups, wh…",
+          "author": "Sarah Perez",
+          "publisher": "TechCrunch",
+          "thumbnail": "https://techcrunch.com/wp-content/uploads/2019/07/facebook-app.jpg?w=640",
+          "icon": "https://techcrunch.com/wp-content/uploads/2015/02/cropped-cropped-favicon-gradient.png?w=192"
+        }
+      }
+    ],
+    [
+      "bookmark",
+      {
+        "url": "https://www.axios.com/google-will-spend-1-billion-to-pay-publishers-for-news-showcase-501feeae-0e3e-4822-8711-1c64052e27f1.html",
+        "metadata": {
+          "url": "https://www.axios.com/google-will-spend-1-billion-to-pay-publishers-for-news-showcase-501feeae-0e3e-4822-8711-1c64052e27f1.html",
+          "title": "Google is paying publishers more than $1 billion to create and curate high-quality content",
+          "description": "It’s Google’s biggest financial commitment to the news industry in its history.",
+          "author": "Sara Fischer",
+          "publisher": "Axios",
+          "thumbnail": "https://images.axios.com/p3M31hgp_NIZgzm5DWWuG0aNIEI=/fit-in/1366x1366/2020/10/01/1601520489268.jpg",
+          "icon": "https://static.axios.com/img/axios-site/favicon-32x32.png"
+        }
+      }
+    ],
+    [
+      "bookmark",
+      {
+        "url": "https://threadreaderapp.com/thread/1311969095043239936.html",
+        "metadata": {
+          "url": "https://threadreaderapp.com/thread/1311969095043239936.html",
+          "title": "Thread by @emilybell on Thread Reader App",
+          "description": "Thread by @emilybell: Google’s extension of $1bn to the news industry (maybe) over 3 years represents c 3x it’s current rate of global expenditure on supporting the news industry. Or lobbying against regulation dep...…",
+          "author": "emily bell",
+          "publisher": "Thread Reader",
+          "thumbnail": "https://threadreaderapp.com/images/screenshots/thread/1311969095043239936.jpg",
+          "icon": "https://threadreaderapp.com/android-chrome-192x192.png"
+        }
+      }
+    ],
+    [
+      "embed",
+      {
+        "url": "https://twitter.com/emilybell/status/1311969098990051328?s=20",
+        "html": "<blockquote class=\"twitter-tweet\" data-width=\"550\"><p lang=\"en\" dir=\"ltr\">The glaring issue often ignored by those funded by Google (in the press and academic research), is how these interventions potentially make very little difference to long term sustainability for newsrooms, but a lot of difference to the progress - or not - of regulation</p>&mdash; emily bell (@emilybell) <a href=\"https://twitter.com/emilybell/status/1311969098990051328?ref_src=twsrc%5Etfw\">October 2, 2020</a></blockquote>\n<script async src=\"https://platform.twitter.com/widgets.js\" charset=\"utf-8\"></script>\n",
+        "type": "rich",
+        "metadata": {
+          "url": "https://twitter.com/emilybell/status/1311969098990051328",
+          "author_name": "emily bell",
+          "author_url": "https://twitter.com/emilybell",
+          "width": 550,
+          "height": null,
+          "cache_age": "3153600000",
+          "provider_name": "Twitter",
+          "provider_url": "http://www.twitter.com/",
+          "version": "1.0"
+        }
+      }
+    ],
+    [
+      "bookmark",
+      {
+        "url": "https://www.journalismliberty.org/publications/beggars-and-choosers-facebook-google",
+        "metadata": {
+          "url": "https://www.journalismliberty.org/publications/beggars-and-choosers-facebook-google",
+          "title": "Beggars and Choosers — Center for Journalism & Liberty",
+          "description": "Consider Google and Facebook’s contradictory behavior toward journalism: They pledge financial support to bolster quality news but fail to reform their anticompetitive business models and harmful data privacy violations, which continue to disrupt journalism’s ability to pay for itself.",
+          "author": "Nikki Usher",
+          "publisher": "Center for Journalism & Liberty",
+          "thumbnail": "http://static1.squarespace.com/static/5efcb64b1cf16e4c487b2f61/5efe2cdea09c523cbf83b700/5f74aa7afd06183a796d9629/1601567365582/Money_Red_iStock.jpg?format=1500w",
+          "icon": "https://images.squarespace-cdn.com/content/v1/5efcb64b1cf16e4c487b2f61/1593712127677-HQIHSDF45ZU40RV6NDXN/ke17ZwdGBToddI8pDm48kACCocsRtsSeC8W62ws-PE6oCXeSvxnTEQmG4uwOsdIceAoHiyRoc52GMN5_2H8Wp2LfeKRWJliTlXywE-FX3ZAwVkR6OIE57Rkbes9vCBqEohUduJ6zFYafcWq-7NK9YQ/favicon.ico"
+        }
+      }
+    ],
+    [
+      "bookmark",
+      {
+        "url": "https://news.micro.blog/2020/09/29/press-release-microblog.html",
+        "metadata": {
+          "url": "https://news.micro.blog/2020/09/29/press-release-microblog.html",
+          "title": "Micro.blog News - Press Release: Micro.blog 2.0 Makes It Easier to Customize Your Blog",
+          "description": "Micro.blog 2.0 Makes It Easier to Customize Your Blog, Adds Bookmark Archiving and Highlighting to Premium\nAustin, TX – September 29, 2020 – Micro.blog released version 2.0 of its blogging and social engagement platform. The new version has redesigned the interface to make it easier to edit posts, c…",
+          "author": null,
+          "publisher": null,
+          "thumbnail": null,
+          "icon": "https://micro.blog/manton/favicon.png"
+        }
+      }
+    ],
+    [
+      "email",
+      {
+        "html": "<p>Have a smashing weekend, folks.&nbsp;</p>"
+      }
+    ]
+  ],
+  "markups": [
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/2018/02/facebook-never-loved-journalism-time-break/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.getrevue.co/profile/MediaVoices/issues/friday-2nd-october-google-to-pay-publishers-more-than-1-billion-to-create-and-curate-282480?utm_campaign=Issue&utm_content=view_in_browser&utm_medium=email&utm_source=The+Media+Roundup+from+Media+Voices"
+      ]
+    ],
+    [
+      "em"
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/2019/11/taking-google-and-facebook-s-money-ethically/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/2018/05/news-funding-google-facebook-reputation-trust/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://twitter.com/mathewi/status/1311711785163124740?s=21"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://microblog.onemanandhisblog.com"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://mashable.com/feature/hotornot-history-20-year-anniversary/?europe=true&utm_content=bufferd33e1&utm_medium=social&utm_source=facebook&utm_campaign=buffer&fbclid=IwAR1l4ooLQHFpw-WlD0OM64cl9kpzTw_LPLVjDQ7j0NAIxj1pSOEWCJZHeEs"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.washingtonpost.com/news/the-switch/wp/2018/04/11/channeling-the-social-network-lawmaker-grills-zuckerberg-on-his-notorious-beginnings/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://whatsnewinpublishing.com/publishers-have-attracted-more-readers-during-the-pandemic-and-seen-subscriptions-boom-the-art-of-retention-through-community-building/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.journalism.co.uk/news/-mass-customisation-of-neighbourhood-data-could-be-the-key-to-sustain-hyperlocal-news/s2/a761694/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.tbray.org/ongoing/When/202x/2020/09/25/Subscription-Overload"
+      ]
+    ]
+  ],
+  "sections": [
+    [
+      10,
+      0
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Facebook adds useful new Groups tools"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Hold on to your hats, folks. I'm about to say nice things about Facebook. "
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "For a couple of years now, the big action on Facebook hasn't been on Pages (unless you're willing to pay for reach), but in Groups. This is a mixed bag — a lot of toxicity can get hidden away in closed groups, and thus Facebook doesn't take nearly as much stick for it as it does for the public stuff… "
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "So, both a good PR initiative and an anti-regulation move. "
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "On the other hand, groups are genuinely useful as community engagement spaces, and these tools should make life for group admins significantly easier:"
+        ]
+      ]
+    ],
+    [
+      10,
+      1
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "This one looks particularly handy:"
+        ]
+      ]
+    ],
+    [
+      1,
+      "blockquote",
+      [
+        [
+          0,
+          [],
+          0,
+          "To start, a new “Admin Assist” tool will help Facebook Group administrators better moderate posts by automatically declining posts that use certain keywords."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "I'm intrigued by the possibilities that open up with Prompts, which are designed to encourage conversations with photos. It's merely productising an existing practice, but there's nothing wrong with that. "
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "I've "
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "never been a fan of Facebook"
+        ],
+        [
+          0,
+          [],
+          0,
+          ", but it is an inescapable part of our landscape for the time being — and these tools are thoughtful and look useful. "
+        ]
+      ]
+    ],
+    [
+      10,
+      2
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Google invests in anti-regulation lobbying"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Look, I know everyone is terribly excited by Google throwing money at journalism, but frankly it's (a) peanuts for them, and (b) is so clearly as much about dodging regulation, and avoiding being seen as the bad guy like Facebook, that it's hard to get much enthusiasm for it."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Anyway, here's the news:"
+        ]
+      ]
+    ],
+    [
+      10,
+      3
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "I'm uncomfortable with the way these investments tend to prop up the existing players rather than make it easier for smaller, more innovative media outlets to participate. As Peter Houston put it in "
+        ],
+        [
+          0,
+          [
+            1
+          ],
+          1,
+          "this morning's "
+        ],
+        [
+          0,
+          [
+            2,
+            1
+          ],
+          2,
+          "Media Roundup"
+        ],
+        [
+          0,
+          [],
+          0,
+          ":"
+        ]
+      ]
+    ],
+    [
+      1,
+      "blockquote",
+      [
+        [
+          0,
+          [],
+          0,
+          "We’re generally happy when the tech giants put money back into journalism, but… this new money is an extension of the existing news licensing program and the bit that’s problematic about that is that the money is restricted to 'select’ publishers. We’d still like to see a fix that works for everyone."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [
+            2
+          ],
+          1,
+          "Absolutely"
+        ],
+        [
+          0,
+          [],
+          0,
+          ". "
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Have a thread by Emily Bell as a chaser:"
+        ]
+      ]
+    ],
+    [
+      10,
+      4
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Money quote:"
+        ]
+      ]
+    ],
+    [
+      10,
+      5
+    ],
+    [
+      1,
+      "p",
+      []
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "If you're lucky enough to work for some of the companies that will benefit from this, then, well, take the money — but figure out how to use it in a way that will grow your audience, allowing you to be sustainable without charity from the big tech companies. Don't let them trap you in a cycle of dependence. "
+        ]
+      ]
+    ],
+    [
+      3,
+      "ul",
+      [
+        [
+          [
+            0,
+            [],
+            0,
+            "An example of how to "
+          ],
+          [
+            0,
+            [
+              3
+            ],
+            1,
+            "take this money ethically"
+          ],
+          [
+            0,
+            [],
+            0,
+            " "
+          ]
+        ],
+        [
+          [
+            0,
+            [],
+            0,
+            "My concerns about the impact of "
+          ],
+          [
+            0,
+            [
+              4
+            ],
+            1,
+            "accepting money from Google & Facebook"
+          ],
+          [
+            0,
+            [],
+            0,
+            ". "
+          ]
+        ]
+      ]
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Beware Platforms Bearing Gifts"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "This is just "
+        ],
+        [
+          0,
+          [
+            2
+          ],
+          1,
+          "terrific"
+        ],
+        [
+          0,
+          [],
+          0,
+          " analysis of the issues involved. Thanks to Mathew Ingram "
+        ],
+        [
+          0,
+          [
+            5
+          ],
+          1,
+          "for the link"
+        ],
+        [
+          0,
+          [],
+          0,
+          ". "
+        ]
+      ]
+    ],
+    [
+      10,
+      6
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Micro.blog hits 2.0"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "The other blog platform I use, micro.blog, just released a major update. It's a profoundly different product to Ghost, which I use to publish these very words you're reading now, which is why I find it useful for "
+        ],
+        [
+          0,
+          [
+            6
+          ],
+          1,
+          "more passing thoughts, and casual shares"
+        ],
+        [
+          0,
+          [],
+          0,
+          "."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Nice to see a diverse range of innovation in the blog platform/CMS space, which was in danger of becoming an effective WordPress monopoly. "
+        ]
+      ]
+    ],
+    [
+      10,
+      7
+    ],
+    [
+      1,
+      "h3",
+      [
+        [
+          0,
+          [],
+          0,
+          "Quick Links"
+        ]
+      ]
+    ],
+    [
+      3,
+      "ul",
+      [
+        [
+          [
+            0,
+            [],
+            0,
+            "🔥 "
+          ],
+          [
+            0,
+            [
+              7
+            ],
+            1,
+            "Hot or Not shaped the social web as we know it"
+          ],
+          [
+            0,
+            [],
+            0,
+            ": worth remembering that "
+          ],
+          [
+            0,
+            [
+              8
+            ],
+            1,
+            "Facemash"
+          ],
+          [
+            0,
+            [],
+            0,
+            ", Zuckerberg's pre-Facebook site, was pretty much a rip-off of this.  "
+          ]
+        ],
+        [
+          [
+            0,
+            [],
+            0,
+            "👨‍👨‍👧‍👦 The art of "
+          ],
+          [
+            0,
+            [
+              9
+            ],
+            1,
+            "retention is community-building"
+          ],
+          [
+            0,
+            [],
+            0,
+            " — some useful lessons here from outside journalism. We would do well to pay more attention to the engagement work being done outside our bubble. "
+          ]
+        ],
+        [
+          [
+            0,
+            [],
+            0,
+            "📊 "
+          ],
+          [
+            0,
+            [
+              10
+            ],
+            1,
+            "Using data journalism to find local stories"
+          ],
+          [
+            0,
+            [],
+            0,
+            " — this is an interesting model for using code to find story leads, which jounalists then follow-up. Not "
+          ],
+          [
+            0,
+            [
+              2
+            ],
+            1,
+            "the"
+          ],
+          [
+            0,
+            [],
+            0,
+            " answer to saving local news, but possible "
+          ],
+          [
+            0,
+            [
+              2
+            ],
+            1,
+            "part"
+          ],
+          [
+            0,
+            [],
+            0,
+            " of an answer"
+          ]
+        ],
+        [
+          [
+            0,
+            [],
+            0,
+            "💰 Why the big newspapers are "
+          ],
+          [
+            0,
+            [
+              11
+            ],
+            1,
+            "wrong about subscriptions"
+          ],
+          [
+            0,
+            [],
+            0,
+            " — money quote:"
+          ]
+        ]
+      ]
+    ],
+    [
+      1,
+      "blockquote",
+      [
+        [
+          0,
+          [],
+          0,
+          "Looking at this, I think I see an immature market; which is to say, the mapping between price and value is not orderly."
+        ]
+      ]
+    ],
+    [
+      10,
+      8
+    ],
+    [
+      1,
+      "p",
+      []
+    ]
+  ],
+  "ghostVersion": "3.0"
+}

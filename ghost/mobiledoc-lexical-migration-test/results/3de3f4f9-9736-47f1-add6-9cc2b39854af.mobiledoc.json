@@ -1,0 +1,936 @@
+{
+  "version": "0.3.1",
+  "atoms": [],
+  "cards": [
+    [
+      "hr",
+      {}
+    ],
+    [
+      "image",
+      {
+        "src": "__GHOST_URL__/content/images/2020/03/venom.jpg",
+        "cardWidth": "wide"
+      }
+    ],
+    [
+      "gallery",
+      {
+        "images": [
+          {
+            "fileName": "venom.jpg",
+            "row": 0,
+            "width": 3917,
+            "height": 3024,
+            "src": "__GHOST_URL__/content/images/2020/03/venom-1.jpg"
+          },
+          {
+            "fileName": "venom2.jpg",
+            "row": 0,
+            "width": 4032,
+            "height": 3024,
+            "src": "__GHOST_URL__/content/images/2020/03/venom2.jpg"
+          },
+          {
+            "fileName": "venom3.jpg",
+            "row": 0,
+            "width": 3818,
+            "height": 2640,
+            "src": "__GHOST_URL__/content/images/2020/03/venom3.jpg"
+          },
+          {
+            "fileName": "venom4.jpg",
+            "row": 1,
+            "width": 3024,
+            "height": 4032,
+            "src": "__GHOST_URL__/content/images/2020/03/venom4.jpg"
+          }
+        ]
+      }
+    ],
+    [
+      "image",
+      {
+        "src": "__GHOST_URL__/content/images/2020/03/ferrari-2.jpg",
+        "cardWidth": "wide"
+      }
+    ],
+    [
+      "image",
+      {
+        "src": "__GHOST_URL__/content/images/2020/03/mercedes.jpg",
+        "cardWidth": "wide"
+      }
+    ],
+    [
+      "image",
+      {
+        "src": "__GHOST_URL__/content/images/2020/03/porsche.jpg",
+        "cardWidth": "wide"
+      }
+    ],
+    [
+      "image",
+      {
+        "src": "__GHOST_URL__/content/images/2020/03/1976-porsche.jpg",
+        "cardWidth": "wide"
+      }
+    ],
+    [
+      "image",
+      {
+        "src": "__GHOST_URL__/content/images/2020/03/porsche3.jpg",
+        "cardWidth": "wide"
+      }
+    ],
+    [
+      "image",
+      {
+        "src": "__GHOST_URL__/content/images/2020/03/speedster5.jpg",
+        "cardWidth": "wide"
+      }
+    ],
+    [
+      "gallery",
+      {
+        "images": [
+          {
+            "fileName": "speedster.jpg",
+            "row": 0,
+            "width": 4032,
+            "height": 3024,
+            "src": "__GHOST_URL__/content/images/2020/03/speedster.jpg"
+          },
+          {
+            "fileName": "speedster2.jpg",
+            "row": 0,
+            "width": 4032,
+            "height": 3024,
+            "src": "__GHOST_URL__/content/images/2020/03/speedster2.jpg"
+          },
+          {
+            "fileName": "speedster4.jpg",
+            "row": 0,
+            "width": 4032,
+            "height": 3024,
+            "src": "__GHOST_URL__/content/images/2020/03/speedster4.jpg"
+          },
+          {
+            "fileName": "speedster5.jpg",
+            "row": 1,
+            "width": 4032,
+            "height": 3024,
+            "src": "__GHOST_URL__/content/images/2020/03/speedster5-1.jpg"
+          }
+        ]
+      }
+    ],
+    [
+      "image",
+      {
+        "src": "__GHOST_URL__/content/images/2020/03/porsche9.jpg",
+        "cardWidth": "wide"
+      }
+    ],
+    [
+      "gallery",
+      {
+        "images": [
+          {
+            "fileName": "porsche4.jpg",
+            "row": 0,
+            "width": 4032,
+            "height": 3024,
+            "src": "__GHOST_URL__/content/images/2020/03/porsche4.jpg"
+          },
+          {
+            "fileName": "porsche5.jpg",
+            "row": 0,
+            "width": 4032,
+            "height": 3024,
+            "src": "__GHOST_URL__/content/images/2020/03/porsche5.jpg"
+          },
+          {
+            "fileName": "porsche6.jpg",
+            "row": 0,
+            "width": 4032,
+            "height": 3024,
+            "src": "__GHOST_URL__/content/images/2020/03/porsche6.jpg"
+          },
+          {
+            "fileName": "porsche7.jpg",
+            "row": 1,
+            "width": 4032,
+            "height": 3024,
+            "src": "__GHOST_URL__/content/images/2020/03/porsche7-1.jpg"
+          },
+          {
+            "fileName": "porsche8.jpg",
+            "row": 1,
+            "width": 4032,
+            "height": 3024,
+            "src": "__GHOST_URL__/content/images/2020/03/porsche8.jpg"
+          }
+        ]
+      }
+    ]
+  ],
+  "markups": [
+    [
+      "a",
+      [
+        "href",
+        "https://rmsothebys.com/en/auctions/am20"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://rmsothebys.com/en/auctions/am20/amelia-island/lots/r0140-2006-dodge-hennessey-venom-1000-twin-turbo-convertible/852867"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://rmsothebys.com/en/auctions/am20/amelia-island/lots/r0122-1993-ferrari-512-tr/852170"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://rmsothebys.com/en/auctions/am20/amelia-island/lots/r0058-1990-mercedes-benz-560-sec-amg-60-wide-body/843850"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://rmsothebys.com/en/auctions/am20/amelia-island/lots/r0141-1989-porsche-911-speedster/852869"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/articles/handpicked/1962-porsche-356-b-carrera/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/articles/all/1971-porsche-911t-sports-updated-engine-and-crazy-performance/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/articles/handpicked/red-velvet-supercharged-911/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/articles/handpicked/porsche-930-turbo/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://rmsothebys.com/en/auctions/am20/amelia-island/lots/r0118-1976-porsche-911-turbo-carrera/852101"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://rmsothebys.com/en/auctions/am20/amelia-island/lots/r0087-1992-porsche-911-carrera-rs/848661"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/articles/handpicked/2004-porsche-911-gt3-reads-just-31k/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://rmsothebys.com/en/auctions/am20/amelia-island/lots/r0088-1957-porsche-356-a-1600-speedster-by-reutter/848663"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://rmsothebys.com/en/auctions/am20/amelia-island/lots/r0024-1962-porsche-356-b-1600-s-twin-grille-roadster-by-dieteren/836784"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/articles/handpicked/rare-porsche-991-carrera-gts-club-coupe-celebrated-the-porsche-club-of-americas-60th-anniversary/"
+      ]
+    ]
+  ],
+  "sections": [
+    [
+      1,
+      "h3",
+      [
+        [
+          0,
+          [],
+          0,
+          "From classic Porsche's to a high-powered Hennessey Viper, there was a variety of fantastic vehicles that crossed the auction stage."
+        ]
+      ]
+    ],
+    [
+      10,
+      0
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "If you haven't been to the Amelia Island auction and Concours in early March, that should be marked on next year's calendar. Held at an oceanside Ritz-Carlton, one might feel as if they're in a world of luxury with high-end cars sitting under swaying palm trees and abundant sunshine. One of the auctions was RM Sotheby's, and they had plenty of classic and exotic cars up for grabs, but one would likely reach deep into those pockets. The "
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "RM Sotheby's"
+        ],
+        [
+          0,
+          [],
+          0,
+          " auction was held from March 6-7, 2020."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "A few of the cars that crossed the auction block are listed here. From performance Ferraris to vintage luxury classics, there were no shortage of cars to ogle over no matter what category you prefer. "
+        ]
+      ]
+    ],
+    [
+      1,
+      "h2",
+      []
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [
+            1
+          ],
+          1,
+          "2006 Dodge Hennessey Venom 1000 Twin Turbo Convertible - $84,000"
+        ]
+      ]
+    ],
+    [
+      10,
+      1
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Hennessey is a well-known performance company that modifies cars to reach their utmost power potential, and a car with the name attached is a force to be reckoned with. The company has been modifying Dodge Vipers since 1993, but the Venom 1000 Twin Turbo was introduced in 2006. This insane "
+        ],
+        [
+          0,
+          [
+            1
+          ],
+          1,
+          "2006 Dodge Hennessey Venom 1000 Twin Turbo convertible"
+        ],
+        [
+          0,
+          [],
+          0,
+          " sold for $84,000."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "To say that the car is powerful is an understatement. The Venom 1000 has two large twin turbos that help the V10 reach 0 to 60 seconds in a staggering 2.5 seconds and nab an insane top speed of 255 miles per hour. To help handle the power are upgrades included suspension components and huge brakes. The front is aerodynamic with a menacing front end. In the race to 200 miles per hour, the Venom beat out the Veyron by four whole seconds."
+        ]
+      ]
+    ],
+    [
+      10,
+      2
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "When this modified Hennessey Viper came out it was $225,000, quite the jump from the $87,000 base Viper. Only 24 of these special Vipers were made by Hennessey, and just 6 were convertibles like this example. The outside is finished in Viper Crystal Pearl Grey, and it is in impeccable condition with just 7,700 miles on the odometer. "
+        ]
+      ]
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [
+            2
+          ],
+          1,
+          "1976 Ferrari 308 GTB 'Vetroresina' - $165,200"
+        ]
+      ]
+    ],
+    [
+      10,
+      3
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Another incredible vehicle that crossed the auction block at Amelia Island though RM Sotheby's is this "
+        ],
+        [
+          0,
+          [
+            2
+          ],
+          1,
+          "1976 Ferrari 308 GTB 'Vetroresina'"
+        ],
+        [
+          0,
+          [],
+          0,
+          ". This particular example is believed to be the first to be delivered North America. The body is an early fiberglass-bodied 308, and the hammer came down where it sold for $165,200 including buyer's fee. "
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "This 308 was a part of the Ming Collection, and shows just 12,396 miles on the clock. Everything on the car was exceptionally taken care of and with documentation showing ownership history. "
+        ]
+      ]
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [
+            3
+          ],
+          1,
+          "1990 Mercedes-Benz 560 SEC AMG 6.0 'Wide-Body' - $390,000"
+        ]
+      ]
+    ],
+    [
+      10,
+      4
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "This "
+        ],
+        [
+          0,
+          [
+            3
+          ],
+          1,
+          "1990 Mercedes-Benz 560 SEC AMG Wide-body"
+        ],
+        [
+          0,
+          [],
+          0,
+          " started life as the signature coupe with a 5.5-liter M117 V8 under the hood capable of 238-horsepower. It has since received the AMG treatment with an original bored-out AMG-upgraded 6.0-liter DOHC engine with modified cylinder heads that is good for 385-horsepower. "
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "The exterior is slathered in a repaint of its factory color of Blue-Black Metallic. It has a rebuilt power sunroof, and shines in new exterior chrome trim. Giving it a more menacing appearance is the AMG wide-body conversion kit, and it sits on period Monoblock wheels. The interior is just as fancy with leather Recaro seats and burl wood accents."
+        ]
+      ]
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [
+            4
+          ],
+          1,
+          "1989 Porsche 911 Speedster"
+        ],
+        [
+          0,
+          [],
+          0,
+          " - $184,800"
+        ]
+      ]
+    ],
+    [
+      10,
+      5
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "This one-owner "
+        ],
+        [
+          0,
+          [
+            4
+          ],
+          1,
+          "1989 Porsche 911 Speedster"
+        ],
+        [
+          0,
+          [],
+          0,
+          " crossed the block for $184,800 including buyer's fee. Special-ordered through Special Wishes, this "
+        ],
+        [
+          0,
+          [
+            5
+          ],
+          1,
+          "Porsche"
+        ],
+        [
+          0,
+          [],
+          0,
+          " has many unique features. "
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "This vintage, original and unrestored "
+        ],
+        [
+          0,
+          [
+            6
+          ],
+          1,
+          "Porsche"
+        ],
+        [
+          0,
+          [],
+          0,
+          " "
+        ],
+        [
+          0,
+          [
+            7
+          ],
+          1,
+          "911"
+        ],
+        [
+          0,
+          [],
+          0,
+          " is slathered in a unique paint-to-sample Ruby Red over Sandstone. This "
+        ],
+        [
+          0,
+          [
+            8
+          ],
+          1,
+          "Porsche"
+        ],
+        [
+          0,
+          [],
+          0,
+          " is just one of 823 of the US-specification Speedsters for 1989, and this shining gem only has 5,100 miles on the clock. "
+        ]
+      ]
+    ],
+    [
+      1,
+      "h3",
+      [
+        [
+          0,
+          [
+            9
+          ],
+          1,
+          "1976 Porsche 911 Turbo Carrera - $123,000"
+        ]
+      ]
+    ],
+    [
+      10,
+      6
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "This restored "
+        ],
+        [
+          0,
+          [
+            9
+          ],
+          1,
+          "1976 Porsche 911 Turbo Carrera"
+        ],
+        [
+          0,
+          [],
+          0,
+          " crossed the auction block at Amelia Island through RM Sotheby's and brought in $123,000. It is powered by a numbers-matching engine and transmission, and it includes the owner's manuals, tool kits, air compressor, spare wheel, and jack with sale."
+        ]
+      ]
+    ],
+    [
+      1,
+      "h3",
+      [
+        [
+          0,
+          [
+            10
+          ],
+          1,
+          "1992 Porsche 911 Carrera RS"
+        ],
+        [
+          0,
+          [],
+          0,
+          " - $300,000"
+        ]
+      ]
+    ],
+    [
+      10,
+      7
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "This stunning "
+        ],
+        [
+          0,
+          [
+            10
+          ],
+          1,
+          "1992 Porsche 911 Carrera RS"
+        ],
+        [
+          0,
+          [],
+          0,
+          " crossed the auction stage in Amelia Island and was sold for $300,000. This is a numbers-matching example that is highly original and unrestored. "
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Delivered from Germany, this "
+        ],
+        [
+          0,
+          [
+            11
+          ],
+          1,
+          "911"
+        ],
+        [
+          0,
+          [],
+          0,
+          " beauty has extensive original documentation. This car has had just two-owners and only shows 10,887 kilometers on the clock. Only 1,992 of these were built, and this one was imported to the United States in February of 2018."
+        ]
+      ]
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [
+            12
+          ],
+          1,
+          "1957 Porsche 356 A 1600 Speedster by Reutter - $335,000"
+        ]
+      ]
+    ],
+    [
+      10,
+      8
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "This "
+        ],
+        [
+          0,
+          [
+            12
+          ],
+          1,
+          "1957 Porsche 356 A 1600 Speedster by Reutter"
+        ],
+        [
+          0,
+          [],
+          0,
+          " sold this past weekend for $335,000 with buyer's fee included. It retains its matching-numbers engine and gearbox. "
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Originally equipped with optional coupe seats, this Speedster was built for the US market. It has a bright red exterior finish over a black interior, and it features a black cloth top. Powering this classic beauty is a 1,582 cc air-cooled four-cylinder engine with twin carburetors and an output of 70-bhp. The car is shifted via a 4-speed manual transmission and stops via drum brakes. "
+        ]
+      ]
+    ],
+    [
+      10,
+      9
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [
+            13
+          ],
+          1,
+          "1962 Porsche 356 B 1600 S 'Twin Grille' Roadster by D'Ieteren"
+        ],
+        [
+          0,
+          [],
+          0,
+          " - $280,000"
+        ]
+      ]
+    ],
+    [
+      10,
+      10
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "This stunning "
+        ],
+        [
+          0,
+          [
+            13
+          ],
+          1,
+          "1962 Porsche 356 B 1600 S 'Twin Grille' Roadster"
+        ],
+        [
+          0,
+          [],
+          0,
+          " by D'leteren just reached $280,000 on the auction block. Just 248 of these 'twin grille' roadsters were ever built."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Having spent most of its life in California, this car is in pristine condition. This classic is blanketed in a glossy black over a tan interior, and the engine is numbers-matching. It includes the "
+        ],
+        [
+          0,
+          [
+            14
+          ],
+          1,
+          "Porsche"
+        ],
+        [
+          0,
+          [],
+          0,
+          " Certificate of Authenticity, and is as premier 356 for comfortable touring."
+        ]
+      ]
+    ],
+    [
+      10,
+      11
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Plenty of cars crossed the RM Sotheby's auction stage at Amelia Island with some yet to find new homes. Check out the RM Sotheby's page and see if any of them will suit your page. If you can't afford one like most of us, it's still fun to see what kind of eye candy is out there as car enthusiasts. "
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      []
+    ],
+    [
+      1,
+      "p",
+      []
+    ],
+    [
+      1,
+      "p",
+      []
+    ]
+  ],
+  "ghostVersion": "3.0"
+}

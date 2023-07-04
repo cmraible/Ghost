@@ -1,0 +1,167 @@
+{
+  "version": "0.3.1",
+  "atoms": [
+    [
+      "soft-return",
+      "",
+      {}
+    ]
+  ],
+  "cards": [
+    [
+      "button",
+      {
+        "alignment": "center",
+        "buttonText": "Click Here To Access Today’s Show At 4pm ET",
+        "buttonUrl": "https://www.callin.com/room/why-is-president-biden-running-for-re-election-fpPhxscpqh"
+      }
+    ],
+    [
+      "email-cta",
+      {
+        "showButton": true,
+        "showDividers": true,
+        "segment": "status:free",
+        "alignment": "left",
+        "html": "<p>In addition, paid supporting subscribers will have access to an exclusive once-a-month BONUS episode of <em>Lever Live</em>. Supporting subscribers will be able to chat with our editorial staff in real time. We will send supporting subscribers a special personalized link to these bonus events before they occur.</p>",
+        "buttonText": "Click Here To Upgrade Now",
+        "buttonUrl": "https://levernews.com/membership/?utm_source=lever-live-email&utm_medium=link&utm_campaign=lever-live-upgrade"
+      }
+    ]
+  ],
+  "markups": [
+    [
+      "a",
+      [
+        "href",
+        "https://www.callin.com/show/lever-live-LcswzmQmIX"
+      ]
+    ],
+    [
+      "em"
+    ],
+    [
+      "strong"
+    ],
+    [
+      "a",
+      [
+        "href",
+        "http://levernews.com/leverlive"
+      ]
+    ]
+  ],
+  "sections": [
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "A reminder that today at 4pm ET (1pm PT) we will be hosting our weekly Callin show, "
+        ],
+        [
+          0,
+          [
+            0,
+            1
+          ],
+          2,
+          "Lever Live"
+        ],
+        [
+          0,
+          [],
+          0,
+          ". This week, David Sirota and and "
+        ],
+        [
+          0,
+          [
+            1
+          ],
+          1,
+          "Lever "
+        ],
+        [
+          0,
+          [],
+          0,
+          "team members will be discussing the news of the week, including President Biden’s announcement that he’ll be running for re-election. We’ll also be taking questions from the audience LIVE on-air."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [
+            1,
+            2
+          ],
+          2,
+          "Lever Live "
+        ],
+        [
+          0,
+          [
+            2
+          ],
+          1,
+          "is publicly available for anyone to listen to and participate in. Just click the button below to find the show on Callin at 4pm ET."
+        ]
+      ]
+    ],
+    [
+      10,
+      0
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "A transcript will be available on this episode’s Callin page after it is published. For more detailed instructions on how to use Callin, go "
+        ],
+        [
+          0,
+          [
+            3
+          ],
+          1,
+          "here"
+        ],
+        [
+          0,
+          [],
+          0,
+          "."
+        ]
+      ]
+    ],
+    [
+      10,
+      1
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          1,
+          [],
+          0,
+          0
+        ]
+      ]
+    ]
+  ],
+  "ghostVersion": "4.0"
+}

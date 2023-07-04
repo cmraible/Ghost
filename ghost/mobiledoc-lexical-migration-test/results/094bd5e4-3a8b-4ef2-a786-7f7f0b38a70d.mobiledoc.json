@@ -1,0 +1,249 @@
+{
+  "version": "0.3.2",
+  "atoms": [],
+  "cards": [
+    [
+      "image",
+      {
+        "src": "__GHOST_URL__/content/images/2020/04/audience-explorere-dashboard.jpg",
+        "cardWidth": "wide",
+        "alt": "The Audience Explorer Dashboard in use"
+      }
+    ]
+  ],
+  "markups": [
+    [
+      "a",
+      [
+        "href",
+        "https://medium.com/centerforcooperativemedia/introducing-the-audience-explorer-dashboard-for-small-publishers-9fbff748c47"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://docs.google.com/document/d/1H-uL5jax15smVEgM3T4qdVofXDaBf5dfUmjeD0wxgyY/edit"
+      ]
+    ],
+    [
+      "strong"
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://newsinitiative.withgoogle.com/training/datatools"
+      ]
+    ],
+    [
+      "em"
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://digitalmaturitybenchmark.withgoogle.com/news/createsurvey/"
+      ]
+    ]
+  ],
+  "sections": [
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "As well as being free, Google Analytics is quite extensible - you can build products and dashboards on top of it. This helps compensate for one of its major downsides - that it’s mainly built for marketing and retail professionals rather than journalists or communications pros. Happily, people have been using the former to address the latter. Here are some useful free tools that can work with your Analytics data."
+        ]
+      ]
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "The Audience Explorer Dashboard"
+        ]
+      ]
+    ],
+    [
+      10,
+      0
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "This is a "
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "really valuable tool created by the Centre for Cooperative Media"
+        ],
+        [
+          0,
+          [],
+          0,
+          " in the US. It takes a bit of wrangling to get set up, but "
+        ],
+        [
+          0,
+          [
+            1
+          ],
+          1,
+          "the instructions are clear"
+        ],
+        [
+          0,
+          [],
+          0,
+          " and it gives you a really clear set of dashboards, relating content to reader loyalty. This is valuable information that would take hours to extract manually from Google Analytics, but which can be delivered almost instantly through this. Highly recommended."
+        ]
+      ]
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [
+            2
+          ],
+          1,
+          "Google’s Data Tools for News Organisations"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "The Google News Initiative has developed "
+        ],
+        [
+          0,
+          [
+            3
+          ],
+          1,
+          "two data tools specifically"
+        ],
+        [
+          0,
+          [],
+          0,
+          " for news publishers that sit atop Analytics, as well as a way of assessing your level of data sophistication. They are:"
+        ]
+      ]
+    ],
+    [
+      3,
+      "ol",
+      [
+        [
+          [
+            0,
+            [],
+            0,
+            "Real Time Content Insights — "
+          ],
+          [
+            0,
+            [
+              4
+            ],
+            1,
+            "visualises the topics and the stories that are trending  on your site right now"
+          ]
+        ],
+        [
+          [
+            0,
+            [],
+            0,
+            "News Consumer Insights — "
+          ],
+          [
+            0,
+            [
+              4
+            ],
+            1,
+            "measures audience and content performance against benchmarks - useful for paywalled or registration walled sites"
+          ]
+        ],
+        [
+          [
+            0,
+            [
+              5
+            ],
+            1,
+            "Data Maturity Benchmark"
+          ],
+          [
+            0,
+            [],
+            0,
+            " — "
+          ],
+          [
+            0,
+            [
+              4
+            ],
+            1,
+            "how good are you at using data? This tool aims to help you find out. It doesn’t actually use your analytics date, it’s more of an assessment tool."
+          ]
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "The first two are "
+        ],
+        [
+          0,
+          [
+            3
+          ],
+          1,
+          "installed via Google Data Studio"
+        ],
+        [
+          0,
+          [],
+          0,
+          ". Again, very easy to do."
+        ]
+      ]
+    ]
+  ],
+  "ghostVersion": "3.0"
+}

@@ -1,0 +1,185 @@
+{
+  "version": "0.3.1",
+  "atoms": [],
+  "cards": [
+    [
+      "header",
+      {
+        "size": "small",
+        "style": "image",
+        "buttonEnabled": false,
+        "header": "1: Winning Attention",
+        "backgroundImageSrc": "__GHOST_URL__/content/images/2022/11/shelby-miller-A4aKW4XbrV4-unsplash.jpg"
+      }
+    ],
+    [
+      "embed",
+      {
+        "url": "https://vimeo.com/adders/djb22-1",
+        "html": "<iframe src=\"https://player.vimeo.com/video/770434048?h=f989b57253&amp;app_id=122963\" width=\"426\" height=\"224\" frameborder=\"0\" allow=\"autoplay; fullscreen; picture-in-picture\" allowfullscreen></iframe>",
+        "type": "video",
+        "metadata": {
+          "version": "1.0",
+          "provider_name": "Vimeo",
+          "provider_url": "https://vimeo.com/",
+          "width": 426,
+          "height": 224,
+          "video_id": 770434048,
+          "uri": "/videos/770434048"
+        }
+      }
+    ],
+    [
+      "file",
+      {
+        "loop": false,
+        "src": "__GHOST_URL__/content/files/2022/11/DJB-Week-1-2022.pdf",
+        "fileName": "DJB Week 1 2022.pdf",
+        "fileTitle": "DJB Week 1 2022",
+        "fileCaption": "",
+        "fileSize": 705361
+      }
+    ],
+    [
+      "bookmark",
+      {
+        "version": "1.0",
+        "type": "bookmark",
+        "url": "__GHOST_URL__/2018/10/the-basics-of-digital-journalism-attention-and-atomisation/",
+        "metadata": {
+          "url": "__GHOST_URL__/2018/10/the-basics-of-digital-journalism-attention-and-atomisation/",
+          "title": "The Basics of Digital Journalism: Attention and Atomisation",
+          "description": "There are two fundamental concepts needed to understand digital journalism. Here’s a primer.",
+          "author": "Adam Tinworth",
+          "publisher": "One Man & His Blog",
+          "thumbnail": "https://images.unsplash.com/photo-1499750310107-5fef28a66643?ixlib=rb-0.3.5&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjExNzczfQ&s=0f08de7604492adedf39fed478b85eec",
+          "icon": "__GHOST_URL__/content/images/size/w256h256/2021/05/COV-1638-3865.png"
+        }
+      }
+    ],
+    [
+      "bookmark",
+      {
+        "version": "1.0",
+        "type": "bookmark",
+        "url": "https://www.journalism.co.uk/news/how-can-journalists-learn-seo-and-why-do-they-need-to-/s2/a896968/",
+        "metadata": {
+          "url": "https://www.journalism.co.uk/news/how-can-journalists-learn-seo-and-why-do-they-need-to-/s2/a896968/",
+          "title": "How can journalists learn SEO and why do they need to?",
+          "description": "Search engine optimisation is important to get your content out there and attract more readers",
+          "author": "Fern McErlane",
+          "publisher": "Journalism.co.uk",
+          "thumbnail": "https://www.journalism.co.uk/assets/180/search-6821469_1280.jpg_resized_460_.1.jpeg",
+          "icon": "https://www.journalism.co.uk/newsite/images/favicon.png"
+        }
+      }
+    ]
+  ],
+  "markups": [
+    [
+      "em"
+    ]
+  ],
+  "sections": [
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          " Notes, links and resources to support the online course. "
+        ]
+      ]
+    ],
+    [
+      10,
+      0
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Session Video"
+        ]
+      ]
+    ],
+    [
+      10,
+      1
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Session Slides"
+        ]
+      ]
+    ],
+    [
+      10,
+      2
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Notes"
+        ]
+      ]
+    ],
+    [
+      10,
+      3
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "More to come."
+        ]
+      ]
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Further Reading"
+        ]
+      ]
+    ],
+    [
+      10,
+      4
+    ],
+    [
+      1,
+      "p",
+      []
+    ]
+  ],
+  "ghostVersion": "4.0"
+}

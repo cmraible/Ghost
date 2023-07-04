@@ -1,0 +1,144 @@
+{
+  "version": "0.3.1",
+  "atoms": [],
+  "cards": [
+    [
+      "email-cta",
+      {
+        "showButton": false,
+        "showDividers": false,
+        "segment": "status:-free",
+        "alignment": "left",
+        "html": "<p><strong>As a supporting subscriber, you will receive a personalized link to join the discussion a few minutes before the event. Thank you so much for your support!</strong></p><p>A transcript will be available on this episode’s Callin page after it is published. For more detailed instructions on how to use Callin, go <a href=\"http://levernews.com/leverlive\">here</a>.</p><p>If you have any questions, <a href=\"mailto:editor@levernews.com\">let us know</a>!</p><p>Rock the boat.</p>"
+      }
+    ],
+    [
+      "email-cta",
+      {
+        "showButton": true,
+        "showDividers": false,
+        "segment": "status:free",
+        "alignment": "left",
+        "html": "<p>To join the event, become a supporting subscriber with a <a href=\"__GHOST_URL__/rwu-fundraiser-discount\">50% discount — only $4 per month</a>. Furthermore, we’re donating this week’s proceeds from new subscriptions to Railroad Workers United. This means your new subscription will not only support independent media and get you into this live event, but will also support railroad workers who are fighting for their rights.</p>",
+        "buttonText": "Get The Discount: $4 Per Month + Support The RWU",
+        "buttonUrl": "__GHOST_URL__/rwu-fundraiser-discount"
+      }
+    ],
+    [
+      "email-cta",
+      {
+        "showButton": false,
+        "showDividers": false,
+        "segment": "status:free",
+        "alignment": "left",
+        "html": "<p><strong>If you take this deal, you will receive a personalized link to join the discussion shortly before the event tomorrow.</strong></p><p>If you have any questions, <a href=\"mailto:editor@levernews.com\">let us know</a>!</p><p>Rock the boat.</p>"
+      }
+    ]
+  ],
+  "markups": [
+    [
+      "em"
+    ],
+    [
+      "strong"
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/membership/"
+      ]
+    ]
+  ],
+  "sections": [
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Between railroad worker labor issues and the Georgia runoff, there’s a lot of critical political news to discuss this week. So this Wednesday at 4 pm ET, we’re having a special live event for supporting subscribers, where you can share your opinions and ask questions of David Sirota and "
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "The Lever"
+        ],
+        [
+          0,
+          [],
+          0,
+          "’s staff."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Paid subscribers will receive a personalized link to join the discussion a few minutes before the event."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [
+            1
+          ],
+          0,
+          "If you aren't a paid subscriber, but would like to become one, "
+        ],
+        [
+          0,
+          [
+            2
+          ],
+          1,
+          "click here"
+        ],
+        [
+          0,
+          [],
+          1,
+          "."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      []
+    ],
+    [
+      10,
+      0
+    ],
+    [
+      10,
+      1
+    ],
+    [
+      10,
+      2
+    ],
+    [
+      1,
+      "p",
+      []
+    ]
+  ],
+  "ghostVersion": "4.0"
+}

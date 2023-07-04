@@ -1,0 +1,975 @@
+{
+  "version": "0.3.1",
+  "atoms": [],
+  "cards": [
+    [
+      "email",
+      {
+        "html": "<p>Hey {first_name, \"there\"},</p><p>I don't know about you, but I've had a busy old week. Some fruitful conversations about future work, the start of a new series of interviews I hope to be able to talk more about soon, as well as keeping my existing work ticking over. I'm looking forwards to the weekend, if only because I might <em>finally </em>get one of the three of four long reads I've been promising fininshed.</p><p>But today's lead story is deeply relevant enough to my interests — and hopefully yours — that I really wanted to get something out today.</p>"
+      }
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "embed",
+      {
+        "url": "https://www.youtube.com/watch?v=9COBN45X5TE&t=348s",
+        "html": "<iframe width=\"200\" height=\"113\" src=\"https://www.youtube.com/embed/9COBN45X5TE?start=348&feature=oembed\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+        "type": "video",
+        "metadata": {
+          "title": "Living In a TINY Remote Icelandic Village | Relocated",
+          "author_name": "Bustle",
+          "author_url": "https://www.youtube.com/c/bustle",
+          "height": 113,
+          "width": 200,
+          "version": "1.0",
+          "provider_name": "YouTube",
+          "provider_url": "https://www.youtube.com/",
+          "thumbnail_height": 360,
+          "thumbnail_width": 480,
+          "thumbnail_url": "https://i.ytimg.com/vi/9COBN45X5TE/hqdefault.jpg"
+        }
+      }
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "bookmark",
+      {
+        "type": "bookmark",
+        "url": "https://daily.jstor.org/the-newsletter-boom-300-years-before-substack/?utm_campaign=When%20the%20Going%20Gets%20Weird...&utm_medium=email&utm_source=Revue%20newsletter",
+        "metadata": {
+          "url": "https://daily.jstor.org/the-newsletter-boom-300-years-before-substack/",
+          "title": "The Newsletter Boom, 300 Years before Substack | JSTOR Daily",
+          "description": "Some journalists are turning to newsletters to get their work out. But they’re not hand-copying them onto folded paper, like people did in the 1600s.",
+          "author": "Livia Gershon",
+          "publisher": "JSTOR Daily",
+          "thumbnail": "https://daily.jstor.org/wp-content/uploads/2021/05/the_newsletter_boom_300_years_before_substack_1050x700.jpg",
+          "icon": "https://daily.jstor.org/wp-content/uploads/2017/12/cropped-new_daily_favicon-300x300.png"
+        }
+      }
+    ]
+  ],
+  "markups": [
+    [
+      "em"
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://annehelen.substack.com/p/welcome-to-sidechannel"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://annehelen.substack.com/p/friday-thread-what-is-rest/comments?token=eyJ1c2VyX2lkIjoxMTY1MzAsInBvc3RfaWQiOjM2NDAxMjgwLCJfIjoicXQza3UiLCJpYXQiOjE2MjA5ODcyMjcsImV4cCI6MTYyMDk5MDgyNywiaXNzIjoicHViLTI0NTAiLCJzdWIiOiJwb3N0LXJlYWN0aW9uIn0.1KzLct3v4rWgNfuL96hPEhvggzQmGqvzePhqCy2zcUA"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://blog.substack.com/p/growing-the-pie-for-writers?r=2hwy&utm_campaign=post&utm_medium=email&utm_source=copy"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://email.mg2.substack.com/c/eJwlUMtuhDAM_JrNrShvwiGHXvobyMReNiokKIQi_r7ZRbJsy6PxaCZApTmXy295r-zdxnpt5BOd-0K1UmHHTmWM6LUQcuCctQ2FM47FfXwWohXi4ms5iG3HtMQANeb0JrjeccNe3qBxBJxMLwYkAT1Y3RsMg9SBmz7csnBgpBTI0x-VKydii3_Vuu0P9f2QP63O8-w2yttCX5CwC3ltRxa95FJwI5QYRK9MJzpw01Nq9xQae6uknay2gdykHUejAjw0X2fZ7ce0Vwi_70-seEBYG3LC8hvTfMb6QkC8PmhzNra5HinWa6QE00J4m653dJ8YxpkSlRYpjlC9sJIPSmln5eBuky0VZZWxg3CsyWNurOSnJc__QjmC5g"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.amazon.com/dp/B07VMYTMS1/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://lu.ma/get-together"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://library.substack.com/p/writer-office-hours-/comments"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://blog.substack.com/p/legal-support-for-substack-writers"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.theatlantic.com/technology/archive/2021/05/clubhouse-has-blocking-problem/618867/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://9to5mac.com/2021/05/13/twitter-reportedly-launching-its-long-awaited-new-verification-program-next-week/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://ig.ft.com/emotion-recognition/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.thetimes.co.uk/article/woodland-plan-for-millions-of-trees-will-turn-farms-into-forest-3wsq0t0rm?utm_source=newsletter&utm_campaign=newsletter_140&utm_medium=email&utm_content=140_13354969&CMP=TNLEmail_3145868_13354969_140"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.holdthefrontpage.co.uk/2021/news/ten-jobs-created-as-publisher-reveals-digital-workforce-investment/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://walkingwithdaddy.com/natures-curious-storytelling-choices/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://memex.naughtons.org/thursday-13-may-2021-2/33748/"
+      ]
+    ]
+  ],
+  "sections": [
+    [
+      10,
+      0
+    ],
+    [
+      1,
+      "h3",
+      [
+        [
+          0,
+          [],
+          0,
+          "Why does a newsletter platform need community management skills? "
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Substack has just bought a community management consulting firm. Why, you might reasonably ask, does a newsletter platform care about community management? Simple: one great way to "
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "retain"
+        ],
+        [
+          0,
+          [],
+          0,
+          " subscribers is make them feel part of a community. If they stop paying, they lose access to the community, and their relationships with people within it. The intellect might get people to start paying, but the emotional connections keep them shelling out. "
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Those of you who have been reading this site for over a decade will know that there's one very consistent theme in my work: we shouldn't just be building "
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "audiences,"
+        ],
+        [
+          0,
+          [],
+          0,
+          " we should be building "
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "communities"
+        ],
+        [
+          0,
+          [],
+          0,
+          " around our journalism."
+        ]
+      ]
+    ],
+    [
+      1,
+      "h3",
+      [
+        [
+          0,
+          [],
+          0,
+          "Journalism builds Community builds Subscriptions"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "From my work with RBI's community editors in 2006 to the name of one of the modules I co-teach at City (with "
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "Vogue"
+        ],
+        [
+          0,
+          [],
+          0,
+          "'s Sarah Marshall), "
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "Social"
+        ],
+        [
+          0,
+          [],
+          0,
+          ", "
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "Community and Multimedia Management"
+        ],
+        [
+          0,
+          [],
+          0,
+          ", the idea that the best journalistic brands generate communities around their journalism is critical to how I view the future of the profession."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "It looks like Substack is cottoning on to the idea. One big group of their writers are doing it for themselves:  seven of the bigger names have a Discord called "
+        ],
+        [
+          0,
+          [
+            1
+          ],
+          1,
+          "Sidechannel"
+        ],
+        [
+          0,
+          [],
+          0,
+          ". I have some reservations about it: it's going to be hard to manage at scale. But it does show a commitment to not just publishing "
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "at"
+        ],
+        [
+          0,
+          [],
+          0,
+          " readers, but building a community "
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "with"
+        ],
+        [
+          0,
+          [],
+          0,
+          " them. And some of the authors who are part of the group are doing that in other ways, too, like having open threads on topics. For example, Anne Helen Petersen does "
+        ],
+        [
+          0,
+          [
+            2
+          ],
+          1,
+          "a couple a week"
+        ],
+        [
+          0,
+          [],
+          0,
+          " on "
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "Culture Study"
+        ],
+        [
+          0,
+          [],
+          0,
+          ". "
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "This is a great way of showing that you care about your readers as more than credit card numbers, and making them feel both involved and valued in the publication. I know it's "
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "de rigeur"
+        ],
+        [
+          0,
+          [],
+          0,
+          " to mock “below the line” comments sections — but, if well managed, they can be invaluable. The “well-managed” is obviously doing a lot of work in the previous sentence — but it's at the heart of Substack's move. You need expertise to do it well. And Substack has just bought itself some of that. "
+        ]
+      ]
+    ],
+    [
+      1,
+      "h3",
+      [
+        [
+          0,
+          [],
+          0,
+          "Substack acquires People & Company"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "The platform itself now wants to support their users in developing community. Substack founder "
+        ],
+        [
+          0,
+          [
+            3
+          ],
+          1,
+          "Hamish McKenzie"
+        ],
+        [
+          0,
+          [],
+          0,
+          ":"
+        ]
+      ]
+    ],
+    [
+      1,
+      "blockquote",
+      [
+        [
+          0,
+          [],
+          0,
+          "To that end, I’m exceedingly happy to report that we’ve just acquired "
+        ],
+        [
+          0,
+          [
+            4
+          ],
+          1,
+          "People & Company"
+        ],
+        [
+          0,
+          [],
+          0,
+          ", one of the leading authorities on community-building, to accelerate and celebrate writer success on Substack. (This is what one might call a buried lede.)"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Again, this is the VC money behind Substack at work, allowing them to buy people and expertise that will allow them to accelerate growth. They clearly see — rightly, to my mind — community development as an accelerator of growth. Many news businesses who have been developing membership models have discovered the same — it's easier to persuade people to buy into a community of like-minded folks, than just sell them content. But to do this on any scale requires skill and expertise. "
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "We have some sense of how they'll be deploying their new acqui-hires:"
+        ]
+      ]
+    ],
+    [
+      1,
+      "blockquote",
+      [
+        [
+          0,
+          [],
+          0,
+          "Bailey and People & Company community manager Katie O’Connell (author of a "
+        ],
+        [
+          0,
+          [
+            5
+          ],
+          1,
+          "book"
+        ],
+        [
+          0,
+          [],
+          0,
+          " about creating community around live music) are building an educational and support infrastructure for writers that will involve workshops, meetups ("
+        ],
+        [
+          0,
+          [
+            6
+          ],
+          1,
+          "here’s one next week"
+        ],
+        [
+          0,
+          [],
+          0,
+          "), "
+        ],
+        [
+          0,
+          [
+            7
+          ],
+          1,
+          "office hours"
+        ],
+        [
+          0,
+          [],
+          0,
+          ", training sessions, parties, and a hell of a lot more. And Kevin is building out Substack’s services for writers, including programs for "
+        ],
+        [
+          0,
+          [
+            8
+          ],
+          1,
+          "legal support"
+        ],
+        [
+          0,
+          [],
+          0,
+          ", health insurance, image libraries, and design. While these programs are starting off as pilots, we will make them more available and accessible to many more writers over time."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "It'll be interesting to see who Substack makes these new resources available to over time — and the impact they have. "
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "But this should serve as a reminder to all of us that, if we don't make a community out of our readers, someone else will. "
+        ]
+      ]
+    ],
+    [
+      10,
+      1
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "Oh, before I forget, comments are switched back on here at OM&HB. You'll need to sign in with the email address you signed up with, but otherwise, have at it!"
+        ]
+      ]
+    ],
+    [
+      10,
+      2
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Quick Links"
+        ]
+      ]
+    ],
+    [
+      3,
+      "ul",
+      [
+        [
+          [
+            0,
+            [],
+            0,
+            "✚ Clubhouse has "
+          ],
+          [
+            0,
+            [
+              9
+            ],
+            1,
+            "been using a “troll marker”"
+          ],
+          [
+            0,
+            [],
+            0,
+            " — the polar opposite of the blue verified tick. It's a visible warning that a user has been blocked by lots of other users. "
+          ]
+        ],
+        [
+          [
+            0,
+            [],
+            0,
+            "✔️ Twitter close to "
+          ],
+          [
+            0,
+            [
+              10
+            ],
+            1,
+            "relaunching verification"
+          ],
+          [
+            0,
+            [],
+            0,
+            " (but, as many of you are aware, it's still been available via news partnerships). "
+          ]
+        ],
+        [
+          [
+            0,
+            [],
+            0,
+            "🤖 A fabulous "
+          ],
+          [
+            0,
+            [
+              11
+            ],
+            1,
+            "interactive about AI emotion detection"
+          ],
+          [
+            0,
+            [],
+            0,
+            " from the "
+          ],
+          [
+            0,
+            [
+              0
+            ],
+            1,
+            "FT"
+          ],
+          [
+            0,
+            [],
+            0,
+            "."
+          ]
+        ],
+        [
+          [
+            0,
+            [],
+            0,
+            "🌳 "
+          ],
+          [
+            0,
+            [
+              12
+            ],
+            1,
+            "This tool"
+          ],
+          [
+            0,
+            [],
+            0,
+            " from "
+          ],
+          [
+            0,
+            [
+              0
+            ],
+            1,
+            "The Times"
+          ],
+          [
+            0,
+            [],
+            0,
+            ", showing where we could plant more trees is simple — but that probably hides "
+          ],
+          [
+            0,
+            [
+              0
+            ],
+            1,
+            "a lot"
+          ],
+          [
+            0,
+            [],
+            0,
+            " of work. "
+          ]
+        ],
+        [
+          [
+            0,
+            [],
+            0,
+            "👩🏻‍💻 JPIMedia hiring "
+          ],
+          [
+            0,
+            [
+              13
+            ],
+            1,
+            "“search and trends” writers"
+          ],
+          [
+            0,
+            [],
+            0,
+            ". "
+          ]
+        ],
+        [
+          [
+            0,
+            [],
+            0,
+            "🦅 I "
+          ],
+          [
+            0,
+            [
+              14
+            ],
+            1,
+            "wrote about ospreys,"
+          ],
+          [
+            0,
+            [],
+            0,
+            " because that's a thing I do sometimes"
+          ]
+        ]
+      ]
+    ],
+    [
+      10,
+      3
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Quote of the Day"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [
+            15
+          ],
+          1,
+          "John Naughton"
+        ],
+        [
+          0,
+          [],
+          0,
+          ":"
+        ]
+      ]
+    ],
+    [
+      1,
+      "blockquote",
+      [
+        [
+          0,
+          [],
+          0,
+          "The only drawback I’ve discovered since we bought a Tesla last December is that people hold me personally responsible for Elon Musk, who is by any standards a flake of Cadbury proportions."
+        ]
+      ]
+    ],
+    [
+      10,
+      4
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Bonus Friday Video"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Something to kill a few minutes of Friday afternoon, taking in the beautiful scenery and the calm pace of life. "
+        ]
+      ]
+    ],
+    [
+      10,
+      5
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "BRB checking out “move to Iceland” site."
+        ]
+      ]
+    ],
+    [
+      10,
+      6
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "And Finally…"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "A little bit of "
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "deep"
+        ],
+        [
+          0,
+          [],
+          0,
+          " newsletter context for you:"
+        ]
+      ]
+    ],
+    [
+      10,
+      7
+    ],
+    [
+      1,
+      "p",
+      []
+    ]
+  ],
+  "ghostVersion": "4.0"
+}

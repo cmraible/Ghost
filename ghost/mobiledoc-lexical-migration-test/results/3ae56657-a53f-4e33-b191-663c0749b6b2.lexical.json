@@ -1,0 +1,503 @@
+{
+  "root": {
+    "children": [
+      {
+        "children": [
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": "Welcome to TechieBytes episode 67 titled ",
+            "type": "text",
+            "version": 1
+          },
+          {
+            "detail": 0,
+            "format": 2,
+            "mode": "normal",
+            "style": "",
+            "text": "Hardware is hard (feat. Jorge Perdomo)",
+            "type": "text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "paragraph",
+        "version": 1
+      },
+      {
+        "children": [
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": "Welcome back! Today I’m speaking with Jorge Perdomo, co-founder at ",
+            "type": "text",
+            "version": 1
+          },
+          {
+            "children": [
+              {
+                "detail": 0,
+                "format": 0,
+                "mode": "normal",
+                "style": "",
+                "text": "goTenna",
+                "type": "text",
+                "version": 1
+              }
+            ],
+            "direction": "ltr",
+            "format": "",
+            "indent": 0,
+            "type": "link",
+            "rel": "ugc noopener noreferrer",
+            "target": null,
+            "title": null,
+            "url": "https://www.gotenna.com/",
+            "version": 1
+          },
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": " and also the designer behind the art installation ",
+            "type": "text",
+            "version": 1
+          },
+          {
+            "children": [
+              {
+                "detail": 0,
+                "format": 0,
+                "mode": "normal",
+                "style": "",
+                "text": "The Fluffy Cloud",
+                "type": "text",
+                "version": 1
+              }
+            ],
+            "direction": "ltr",
+            "format": "",
+            "indent": 0,
+            "type": "link",
+            "rel": "ugc noopener noreferrer",
+            "target": null,
+            "title": null,
+            "url": "https://www.thefluffycloud.org/",
+            "version": 1
+          },
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": " which has made appearances at multiple festivals including Burning Man. We discuss the challenges surrounding starting a hardware company, what people can do to increase their marketability in the workforce, and what it’s like to attend Burning Man. Enjoy!",
+            "type": "text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "paragraph",
+        "version": 1
+      },
+      {
+        "type": "html",
+        "html": "<div class=\"podcast-embed\"><iframe src=\"https://anchor.fm/besttechie/embed/episodes/Hardware-is-hard-feat--Jorge-Perdomo-eioelc\" height=\"162px\" width=\"400px\" frameborder=\"0\" scrolling=\"no\"></iframe></div>"
+      },
+      {
+        "children": [
+          {
+            "detail": 0,
+            "format": 1,
+            "mode": "normal",
+            "style": "",
+            "text": "SUBSCRIBE: ",
+            "type": "text",
+            "version": 1
+          },
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": "TechieBytes is also available on ",
+            "type": "text",
+            "version": 1
+          },
+          {
+            "children": [
+              {
+                "detail": 0,
+                "format": 0,
+                "mode": "normal",
+                "style": "",
+                "text": "iTunes",
+                "type": "text",
+                "version": 1
+              }
+            ],
+            "direction": "ltr",
+            "format": "",
+            "indent": 0,
+            "type": "link",
+            "rel": null,
+            "target": null,
+            "title": null,
+            "url": "https://itunes.apple.com/us/podcast/techiebytes/id1352142386?mt=2",
+            "version": 1
+          },
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": ", ",
+            "type": "text",
+            "version": 1
+          },
+          {
+            "children": [
+              {
+                "detail": 0,
+                "format": 0,
+                "mode": "normal",
+                "style": "",
+                "text": "Google Play",
+                "type": "text",
+                "version": 1
+              }
+            ],
+            "direction": "ltr",
+            "format": "",
+            "indent": 0,
+            "type": "link",
+            "rel": null,
+            "target": null,
+            "title": null,
+            "url": "https://play.google.com/music/m/Iggddfgyikir2p3s2rxyd3jrebm?t=TechieBytes",
+            "version": 1
+          },
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": ", ",
+            "type": "text",
+            "version": 1
+          },
+          {
+            "children": [
+              {
+                "detail": 0,
+                "format": 0,
+                "mode": "normal",
+                "style": "",
+                "text": "Overcast",
+                "type": "text",
+                "version": 1
+              }
+            ],
+            "direction": "ltr",
+            "format": "",
+            "indent": 0,
+            "type": "link",
+            "rel": null,
+            "target": null,
+            "title": null,
+            "url": "https://overcast.fm/itunes1352142386/techiebytes",
+            "version": 1
+          },
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": ", ",
+            "type": "text",
+            "version": 1
+          },
+          {
+            "children": [
+              {
+                "detail": 0,
+                "format": 0,
+                "mode": "normal",
+                "style": "",
+                "text": "Spotify",
+                "type": "text",
+                "version": 1
+              }
+            ],
+            "direction": "ltr",
+            "format": "",
+            "indent": 0,
+            "type": "link",
+            "rel": null,
+            "target": null,
+            "title": null,
+            "url": "https://open.spotify.com/show/1smGCurjTwO59EAFuvb60V?si=cDs7fiD3SD2Hg4cUUFLpjw",
+            "version": 1
+          },
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": ", ",
+            "type": "text",
+            "version": 1
+          },
+          {
+            "children": [
+              {
+                "detail": 0,
+                "format": 0,
+                "mode": "normal",
+                "style": "",
+                "text": "Stitcher",
+                "type": "text",
+                "version": 1
+              }
+            ],
+            "direction": "ltr",
+            "format": "",
+            "indent": 0,
+            "type": "link",
+            "rel": "noreferrer noopener",
+            "target": null,
+            "title": null,
+            "url": "https://www.stitcher.com/podcast/besttechie/techiebytes?refid=stpr",
+            "version": 1
+          },
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": ", and ",
+            "type": "text",
+            "version": 1
+          },
+          {
+            "children": [
+              {
+                "detail": 0,
+                "format": 0,
+                "mode": "normal",
+                "style": "",
+                "text": "Pocket Casts",
+                "type": "text",
+                "version": 1
+              }
+            ],
+            "direction": "ltr",
+            "format": "",
+            "indent": 0,
+            "type": "link",
+            "rel": "noreferrer noopener",
+            "target": null,
+            "title": null,
+            "url": "http://pca.st/0Gc3",
+            "version": 1
+          },
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": ".",
+            "type": "text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "paragraph",
+        "version": 1
+      },
+      {
+        "children": [
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": "We’re looking for new podcast sponsors, if you’re interested in sponsoring TechieBytes, please ",
+            "type": "text",
+            "version": 1
+          },
+          {
+            "children": [
+              {
+                "detail": 0,
+                "format": 0,
+                "mode": "normal",
+                "style": "",
+                "text": "get in touch",
+                "type": "text",
+                "version": 1
+              }
+            ],
+            "direction": "ltr",
+            "format": "",
+            "indent": 0,
+            "type": "link",
+            "rel": null,
+            "target": null,
+            "title": null,
+            "url": "__GHOST_URL__/advertise/",
+            "version": 1
+          },
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": ".",
+            "type": "text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "paragraph",
+        "version": 1
+      },
+      {
+        "children": [
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": "More information about Jorge",
+            "type": "text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "heading",
+        "tag": "h2",
+        "version": 1
+      },
+      {
+        "children": [
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": "As the Inventor, Co-founder and Chief Technology Officer of  goTenna - the world’s leading mobile decentralized off-grid communications system for smartphones - Jorge knows the entrepreneurial journey well. Jorge brought the project from concept to market in six years, during the course of which, he designed and released 10 different critically-acclaimed hardware and software products. The uniquely broad experience Jorge gained at goTenna allows him the ability to speak on just about every class of tech company; from mobile apps to servers and of course, the unique intricacies of hardware development itself.",
+            "type": "text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "paragraph",
+        "version": 1
+      },
+      {
+        "children": [
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": "“Hardware is the double-black diamond of tech startups,” says Jorge, “Unlike software-only companies where a bug can be patched with the click of a button, hardware tech is a high stakes game where a single mistake can cost months of delays and hundreds of thousands of dollars. This is in addition to still having to do all the typical software tasks. It was an incredible challenge that allowed me to gain perspective on just about every facet of technology development and startups in general.”",
+            "type": "text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "paragraph",
+        "version": 1
+      },
+      {
+        "children": [
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": "Photos of The Fluffy Cloud",
+            "type": "text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "heading",
+        "tag": "h2",
+        "version": 1
+      },
+      {
+        "type": "gallery",
+        "images": [
+          {
+            "fileName": "Cloud and The Man.jpg",
+            "row": 0,
+            "width": 5969,
+            "height": 3979,
+            "src": "__GHOST_URL__/content/images/2020/08/Cloud-and-The-Man.jpg"
+          },
+          {
+            "fileName": "Cloud BM Sunset.jpg",
+            "row": 0,
+            "width": 6000,
+            "height": 4000,
+            "src": "__GHOST_URL__/content/images/2020/08/Cloud-BM-Sunset.jpg"
+          },
+          {
+            "fileName": "Cloud Build Basel.jpg",
+            "row": 0,
+            "width": 4032,
+            "height": 3024,
+            "src": "__GHOST_URL__/content/images/2020/08/Cloud-Build-Basel.jpg"
+          },
+          {
+            "fileName": "Cloud Night.JPG",
+            "row": 1,
+            "width": 1024,
+            "height": 768,
+            "src": "__GHOST_URL__/content/images/2020/08/Cloud-Night.JPG"
+          }
+        ]
+      },
+      {
+        "type": "html",
+        "html": "<iframe src=\"https://player.vimeo.com/video/381703065\" width=\"640\" height=\"360\" frameborder=\"0\" allow=\"autoplay; fullscreen\" allowfullscreen></iframe>\n<p><a href=\"https://vimeo.com/381703065\">The Cloud - Art Basel 2019 Aftermovie</a> from <a href=\"https://vimeo.com/user104866171\">Michael Alahverdian</a> on <a href=\"https://vimeo.com\">Vimeo</a>.</p>"
+      },
+      {
+        "children": [],
+        "direction": null,
+        "format": "",
+        "indent": 0,
+        "type": "paragraph",
+        "version": 1
+      }
+    ],
+    "direction": "ltr",
+    "format": "",
+    "indent": 0,
+    "type": "root",
+    "version": 1
+  }
+}

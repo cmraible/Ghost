@@ -1,0 +1,929 @@
+{
+  "version": "0.3.1",
+  "atoms": [],
+  "cards": [
+    [
+      "email-cta",
+      {
+        "showButton": true,
+        "showDividers": false,
+        "segment": "status:-free",
+        "alignment": "center",
+        "html": "<p><em><strong>This is You Love To See It — a weekly feature reviewing good news, progress and action steps that’s one of the many features available only to Daily Poster supporting subscribers. Thank you so much for being a supporting subscriber — we couldn’t do this reporting without your support.</strong></em></p>",
+        "buttonText": "Click Here To Comment",
+        "buttonUrl": "__GHOST_URL__/you-love-to-see-it-no-more-unnecessary-pipelines-exclusive-for-subscribers/#comments"
+      }
+    ],
+    [
+      "html",
+      {
+        "html": "<div class=\"fb-share-button\" data-href=\"https://www.dailyposter.com/you-love-to-see-it-no-more-unnecessary-pipelines-exclusive-for-subscribers/\" data-layout=\"button\" data-size=\"small\"><a target=\"_blank\" href=\"https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.dailyposter.com%2Fyou-love-to-see-it-no-more-unnecessary-pipelines-exclusive-for-subscribers%2F&amp;src=sdkpreparse\" class=\"fb-xfbml-parse-ignore\"><strong><em>Click to share this on Facebook</em></strong></a></div>"
+      }
+    ],
+    [
+      "paywall",
+      {}
+    ],
+    [
+      "button",
+      {
+        "alignment": "center",
+        "buttonText": "Tip Jar",
+        "buttonUrl": "https://dailyposter.outpost.pub/public/donate#/donate"
+      }
+    ],
+    [
+      "button",
+      {
+        "alignment": "center",
+        "buttonText": "Give A Gift Subscription",
+        "buttonUrl": "https://dailyposter.outpost.pub/gift_subscription#/"
+      }
+    ],
+    [
+      "email-cta",
+      {
+        "showButton": true,
+        "showDividers": false,
+        "segment": "status:-free",
+        "alignment": "center",
+        "html": "",
+        "buttonText": "Click Here To Comment",
+        "buttonUrl": "__GHOST_URL__/you-love-to-see-it-no-more-unnecessary-pipelines-exclusive-for-subscribers/#comments"
+      }
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "email-cta",
+      {
+        "showButton": true,
+        "showDividers": false,
+        "segment": "status:-free",
+        "alignment": "center",
+        "html": "",
+        "buttonText": "Tip Jar",
+        "buttonUrl": "https://dailyposter.outpost.pub/ghost-integration/60818189ad12f332071054b8/tips"
+      }
+    ],
+    [
+      "email-cta",
+      {
+        "showButton": true,
+        "showDividers": false,
+        "segment": "status:free",
+        "alignment": "center",
+        "html": "",
+        "buttonText": "Subscribe",
+        "buttonUrl": "__GHOST_URL__/subscribe/"
+      }
+    ],
+    [
+      "html",
+      {
+        "html": "<div class=\"outpost-pub-container\" data-btn-allmembers></div>"
+      }
+    ]
+  ],
+  "markups": [
+    [
+      "strong"
+    ],
+    [
+      "em"
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.ferc.gov/news-events/news/fact-sheet-interim-greenhouse-gas-ghg-emissions-policy-statement-pl21-3-000"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/the-pipeline-trap/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.npr.org/2022/02/17/1080689396/amazon-labor-push-escalates-as-workers-at-new-york-warehouse-win-a-union-vote?utm_source=twitter.com&utm_term=nprnews&utm_medium=social&utm_campaign=npr"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.npr.org/2022/02/04/1077089349/amazon-union-vote-alabama"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.huffpost.com/entry/labor-official-recommends-new-union-election-for-amazon-workers_n_61098bd0e4b0b94f6075b069"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://boondoggle.substack.com/p/piercing-amazons-veil-of-secrecy?r=27uom&utm_campaign=post&utm_medium=web"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://theintercept.com/2022/02/11/afghanistan-frozen-assets-economy/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://progressives.house.gov/2022/2/congressional-progressive-caucus-on-biden-administration-move-to-break-up-afghanistan-central-bank-funds"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.huffpost.com/entry/progressives-biden-ukraine-foreign-policy_n_620c1e95e4b05706db6f2d50"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://twitter.com/mstratford/status/1494090078733443074?s=20&t=Mw3Rf7e1Jm0htYVr0afjoA"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://twitter.com/StrikeDebt/status/1493234232122089475?s=20&t=rUaOoNfr0oicOuSwd8NbWw"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://actionnetwork.org/events/pick-up-the-pen-joe-april-4th-day-of-action-for-student-debt-cancellation"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.washingtonpost.com/education/2022/02/17/biden-student-loans-bankruptcy-dispute/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/fossil-fuel-investments-are-burning-california-pensioners/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://twitter.com/FossilFreeCA/status/1494393874382393357?s=20&t=3pMIsrC-6MldIcoR46LdIQ"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.bostonglobe.com/2022/02/17/science/massachusetts-pension-fund-is-joining-climate-fight/?event=event25"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.washingtonpost.com/education/2022/02/16/college-fossil-fuel-divest-legal-action/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://stopthemoneypipeline.com/"
+      ]
+    ]
+  ],
+  "sections": [
+    [
+      10,
+      0
+    ],
+    [
+      10,
+      1
+    ],
+    [
+      1,
+      "p",
+      []
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Good things are happening! The federal pipeline regulator is finally acknowledging that climate change is real, and pipelines are contributing to the problem. Meanwhile, progressive lawmakers are putting forward a pragmatic foreign policy vision that doesn’t involve war. And while Amazon seems omnipotent, a community in Maryland proved this week that it can be taken on with people power."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "All that and much more in this week’s week’s edition of You Love To See It, exclusively for paying subscribers below."
+        ]
+      ]
+    ],
+    [
+      10,
+      2
+    ],
+    [
+      1,
+      "h3",
+      [
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "Federal Pipeline Regulator Finally Acknowledges Climate Change:"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [
+            1
+          ],
+          1,
+          "The federal agency that regulates natural gas pipelines is waking up to climate change, thanks to years of pressure from activists. This week, the Federal Energy Regulatory Commission (FERC) announced that it would be updating the guidelines it uses to decide whether to approve or deny applications for new pipelines. The new guidelines will spell out "
+        ],
+        [
+          0,
+          [
+            2,
+            1
+          ],
+          2,
+          "how to consider the climate impacts"
+        ],
+        [
+          0,
+          [
+            1
+          ],
+          1,
+          " of new projects — something FERC previously didn’t do. Additionally, FERC will reconsider how it assesses whether a project is needed, which could reverse years of approving "
+        ],
+        [
+          0,
+          [
+            3,
+            1
+          ],
+          2,
+          "unnecessary and unwanted pipelines."
+        ]
+      ]
+    ],
+    [
+      10,
+      3
+    ],
+    [
+      1,
+      "h3",
+      [
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "Taking On Amazon:"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [
+            1
+          ],
+          1,
+          "The only way to take on a corporate behemoth like Amazon is people power. In Alabama, Maryland, and New York, that’s happening. Two union elections, on "
+        ],
+        [
+          0,
+          [
+            4,
+            1
+          ],
+          2,
+          "Staten Island, New York "
+        ],
+        [
+          0,
+          [
+            1
+          ],
+          1,
+          "and in "
+        ],
+        [
+          0,
+          [
+            5,
+            1
+          ],
+          2,
+          "Bessemer, Alabama"
+        ],
+        [
+          0,
+          [
+            1
+          ],
+          1,
+          ", have been greenlit by the National Labor Relations Board. In Bessemer, the election is a do-over after Amazon was found to have "
+        ],
+        [
+          0,
+          [
+            6,
+            1
+          ],
+          2,
+          "violated federal labor law "
+        ],
+        [
+          0,
+          [
+            1
+          ],
+          1,
+          "during last year’s election."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [
+            1
+          ],
+          1,
+          "Meanwhile, a community in Maryland has “pierced Amazon’s veil of secrecy,” "
+        ],
+        [
+          0,
+          [],
+          0,
+          "Daily Poster "
+        ],
+        [
+          0,
+          [
+            1
+          ],
+          1,
+          "contributor "
+        ],
+        [
+          0,
+          [
+            7,
+            1
+          ],
+          2,
+          "Pat Garofalo reports"
+        ],
+        [
+          0,
+          [
+            1
+          ],
+          1,
+          ". “A community in Frederick County, Maryland, caught wind of a secret agreement that was being negotiated between local leadership and Amazon to build some Amazon Web Services data centers, and made enough of a stink about it to stop the deal in its tracks,” he wrote. “This story has a lot of what I complain about here: Wasteful subsidies, secret negotiations, and a dominant corporation using lack of public information to its advantage. But in this case, the locals turned that secrecy around and used it to protect their own interests.”"
+        ]
+      ]
+    ],
+    [
+      1,
+      "h3",
+      [
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "A New Era For Progressive Foreign Policy:"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [
+            1
+          ],
+          1,
+          "The Biden administration announced a couple weeks ago that it would be "
+        ],
+        [
+          0,
+          [
+            8,
+            1
+          ],
+          2,
+          "seizing Afghanistan’s assets"
+        ],
+        [
+          0,
+          [
+            1
+          ],
+          1,
+          " while millions of Afghans are on the brink of starvation. But the president is facing significant pushback from progressives, who are putting forward a foreign policy vision that doesn’t involve war and famine. This week, Representative Pramila Jayapal (D-Wash.), chair of the Congressional Progressive Caucus, "
+        ],
+        [
+          0,
+          [
+            9,
+            1
+          ],
+          2,
+          "called on the administration"
+        ],
+        [
+          0,
+          [
+            1
+          ],
+          1,
+          " to ease sanctions on Afghanistan and release frozen assets."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [
+            1
+          ],
+          1,
+          "Meanwhile, progressive lawmakers are responding to escalating tensions between Russia and the Ukraine with a staunch anti-war position. The "
+        ],
+        [
+          0,
+          [
+            10
+          ],
+          0,
+          "Huffington Post"
+        ],
+        [
+          0,
+          [
+            1
+          ],
+          2,
+          " reports"
+        ],
+        [
+          0,
+          [
+            1
+          ],
+          1,
+          " that this could portend a new era for progressive foreign policy: “A nuanced message on Ukraine is vital for progressives as they expand their influence in Congress and the broader Democratic Party, an aide to a liberal lawmaker told "
+        ],
+        [
+          0,
+          [],
+          0,
+          "HuffPost"
+        ],
+        [
+          0,
+          [
+            1
+          ],
+          1,
+          ". They have won visibility and, under Biden, appointments at the White House, State Department and Pentagon. Now they have to show how they will use that influence to reform a national security state they have long criticized.”"
+        ]
+      ]
+    ],
+    [
+      10,
+      4
+    ],
+    [
+      1,
+      "h3",
+      [
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "Baby Steps On Student Debt:"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [
+            1
+          ],
+          1,
+          "As Biden faces increasing pressure to cancel student debt, his administration is taking some steps in the right direction. This week, his Department of Education announced that it would be forgiving "
+        ],
+        [
+          0,
+          [
+            11,
+            1
+          ],
+          2,
+          "$415 million worth of student loans for more than 15,000 borrowers"
+        ],
+        [
+          0,
+          [
+            1
+          ],
+          1,
+          " who attended for-profit schools that had defrauded students. That loan forgiveness was made possible by the Debt Collective, a group organizing for student debt cancellation that developed a legal tool — “borrower defense to repayment” — to allow people who had been defrauded by their universities to have their debt canceled."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [
+            1
+          ],
+          1,
+          "The Debt Collective "
+        ],
+        [
+          0,
+          [
+            12,
+            1
+          ],
+          2,
+          "wants you to join"
+        ],
+        [
+          0,
+          [
+            1
+          ],
+          1,
+          " their fight for full debt forgiveness in Washington D.C. on April 4. You can "
+        ],
+        [
+          0,
+          [
+            13,
+            1
+          ],
+          2,
+          "sign up to join them here"
+        ],
+        [
+          0,
+          [],
+          0,
+          "."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [
+            1
+          ],
+          1,
+          "Meanwhile, the "
+        ],
+        [
+          0,
+          [
+            14
+          ],
+          0,
+          "Washington Post"
+        ],
+        [
+          0,
+          [
+            1
+          ],
+          1,
+          " picked up "
+        ],
+        [
+          0,
+          [],
+          0,
+          "The Daily Poster’s"
+        ],
+        [
+          0,
+          [
+            1
+          ],
+          2,
+          " reporting"
+        ],
+        [
+          0,
+          [
+            1
+          ],
+          1,
+          " on student debt and bankruptcy this week. A Department of Education spokesperson told "
+        ],
+        [
+          0,
+          [],
+          0,
+          "The Post"
+        ],
+        [
+          0,
+          [
+            1
+          ],
+          1,
+          " that they would no longer be appealing cases where student debtors had proved they faced “undue hardship” as a result of their debts."
+        ]
+      ]
+    ],
+    [
+      1,
+      "h3",
+      [
+        [
+          0,
+          [],
+          0,
+          "Pensions Could Tackle Climate Change:"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [
+            1
+          ],
+          1,
+          "The state of California’s pension funds are "
+        ],
+        [
+          0,
+          [
+            15,
+            1
+          ],
+          2,
+          "some of the biggest shareholders"
+        ],
+        [
+          0,
+          [
+            1
+          ],
+          1,
+          " in fossil fuels in the world. But this week, California state Sen. Lena Gonzalez "
+        ],
+        [
+          0,
+          [],
+          0,
+          "(D) "
+        ],
+        [
+          0,
+          [
+            16,
+            1
+          ],
+          2,
+          "introduced legislation"
+        ],
+        [
+          0,
+          [
+            1
+          ],
+          1,
+          " to divest the funds from fossil fuels. Meanwhile, the state of Massachusetts’ $104 billion pension fund announced this week that it would “start using its shareholder power to pressure companies to act on climate change,” the "
+        ],
+        [
+          0,
+          [
+            17
+          ],
+          0,
+          "Boston Globe"
+        ],
+        [
+          0,
+          [
+            1
+          ],
+          2,
+          " reports"
+        ],
+        [
+          0,
+          [
+            1
+          ],
+          1,
+          "."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [
+            1
+          ],
+          1,
+          "In other divestment news, students at Yale, Stanford, Princeton, Massachusetts Institute of Technology, and Vanderbilt are "
+        ],
+        [
+          0,
+          [
+            18,
+            1
+          ],
+          2,
+          "suing their universities"
+        ],
+        [
+          0,
+          [
+            1
+          ],
+          1,
+          " for investing their endowments in fossil fuels, arguing that such investments are illegal."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [
+            1
+          ],
+          1,
+          "Want to join the divestment movement? Stop The Money Pipeline, a coalition of groups working to end fossil fuel financing, has some "
+        ],
+        [
+          0,
+          [
+            19,
+            1
+          ],
+          2,
+          "great resources"
+        ],
+        [
+          0,
+          [
+            1
+          ],
+          1,
+          " to help you get plugged in."
+        ]
+      ]
+    ],
+    [
+      10,
+      5
+    ],
+    [
+      10,
+      6
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [
+            1,
+            0
+          ],
+          2,
+          "This newsletter relies on readers pitching in to support our journalism. If you like this story, please support "
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "The Daily Poster"
+        ],
+        [
+          0,
+          [
+            1,
+            0
+          ],
+          2,
+          "'s work."
+        ]
+      ]
+    ],
+    [
+      10,
+      7
+    ],
+    [
+      10,
+      8
+    ],
+    [
+      10,
+      9
+    ]
+  ],
+  "ghostVersion": "4.0"
+}

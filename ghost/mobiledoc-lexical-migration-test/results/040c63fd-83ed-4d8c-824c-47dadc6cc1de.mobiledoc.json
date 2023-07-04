@@ -1,0 +1,479 @@
+{
+  "version": "0.3.1",
+  "atoms": [],
+  "cards": [
+    [
+      "hr",
+      {}
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "html",
+      {
+        "html": "<table id=\"production-numbers-table\">\n<tbody>\n\t<tr>\n\t\t<td>300</td>\n\t\t<td>33,184</td>\n\t</tr>\n    \t<tr>\n\t\t<td>300 Deluxe</td>\n\t\t<td>52,605</td>\n\t</tr>\n    \t<tr>\n\t\t<td>Malibu</td>\n\t\t<td>176,993</td>\n\t</tr>\n    \t<tr>\n\t\t<td>El Camino and El Camino Custom</td>\n\t\t<td>34,724</td>\n\t</tr>\n    \t<tr>\n\t\t<td>Malibu SS</td>\n\t\t<td>81,112</td>\n\t</tr>\n\t\t<td><b>Total Production</b></td>\n\t\t<td><b>378,618</b></td>\n\t</tr>\n</tbody>\n</table>"
+      }
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "html",
+      {
+        "html": "<table id=\"performance-specs-table\">\n<tbody>\n\t<tr>\n\t\t<th><b>Engine</b></th>\n\t\t<th><b>Size</b></td>\n\t\t<th><b>Carb.</b></td>\n\t\t<th><b>HP</b></td>\n\t\t<th><b>Torque</b></td>\n\t\t<th><b>0 to 60</b></td>\n\t\t<th><b>Quarter mile</b></td>\n\t</tr>\n\t<tr>\n\t\t<td>I-6</td>\n\t\t<td>194ci</td>\n\t\t<td>1x1bbl</td>\n\t\t<td>120</td>\n\t\t<td>177 lb-ft</td>\n\t\t<td>-</td>\n\t\t<td>-</td>\n\t</tr>\n\t<tr>\n\t\t<td>I-6</td>\n\t\t<td>230ci</td>\n\t\t<td>1x1bbl</td>\n\t\t<td>140</td>\n\t\t<td>220 lb-ft</td>\n\t\t<td>-</td>\n\t\t<td>-</td>\n\t</tr>\n\t<tr>\n\t\t<td>V8</td>\n\t\t<td>283ci</td>\n\t\t<td>1x4bbl</td>\n\t\t<td>220</td>\n\t\t<td>295 lb-ft</td>\n\t\t<td>-</td>\n\t\t<td>-</td>\n\t</tr>\n\t<tr>\n\t\t<td>V8</td>\n\t\t<td>283ci</td>\n\t\t<td>1x2bbl</td>\n\t\t<td>195</td>\n\t\t<td>285 lb-ft</td>\n\t\t<td>-</td>\n\t\t<td>-</td>\n\t</tr>\n\t<tr>\n\t\t<td>V8</td>\n\t\t<td>327ci</td>\n\t\t<td>1x4bbl</td>\n\t\t<td>350</td>\n\t\t<td>360 lb-ft</td>\n\t\t<td>-</td>\n\t\t<td>-</td>\n\t</tr>\n\t<tr>\n\t\t<td>V8</td>\n\t\t<td>327ci</td>\n\t\t<td>1x4bbl</td>\n\t\t<td>300</td>\n\t\t<td>360 lb-ft</td>\n\t\t<td>-</td>\n\t\t<td>-</td>\n\t</tr>\n\t<tr>\n\t\t<td>V8</td>\n\t\t<td>327ci</td>\n\t\t<td>1x4bbl</td>\n\t\t<td>250</td>\n\t\t<td>355 lb-ft</td>\n\t\t<td>-</td>\n\t\t<td>-</td>\n\t</tr>\n\t<tr>\n\t\t<td>V8</td>\n\t\t<td>396ci</td>\n\t\t<td>1x4bbl</td>\n\t\t<td>375</td>\n\t\t<td>375 lb-ft</td>\n\t\t<td>6.0 sec</td>\n\t\t<td>14.7 sec at 99.8 mph</td>\n\t</tr>\n</tbody>\n</table>"
+      }
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "html",
+      {
+        "html": "<h4 id='colors-sub-heading'>Exterior</h4>\n<div class=\"colors-row\">\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #000000\"></div>\n        <div class=\"color-name\">Tuxedo Black</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #e1dcc9\"></div>\n        <div class=\"color-name\">Ermine White</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #5f7594\"></div>\n        <div class=\"color-name\">Mist Blue</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #788580\"></div>\n        <div class=\"color-name\">Willow Green</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #2f3e45\"></div>\n        <div class=\"color-name\">Cypress Green</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #689097\"></div>\n        <div class=\"color-name\">Artesian Turquoise</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #223743\"></div>\n        <div class=\"color-name\">Tahitian Turquoise</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #4a2429\"></div>\n        <div class=\"color-name\">Madeira Maroon</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #9f8c9b\"></div>\n        <div class=\"color-name\">Evening Orchid</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #832422\"></div>\n        <div class=\"color-name\">Regal Red</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #947d63\"></div>\n        <div class=\"color-name\">Sierra Tan</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #beb498\"></div>\n        <div class=\"color-name\">Cameo Beige</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #798b98\"></div>\n        <div class=\"color-name\">Glacier Gray</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #fdeda5\"></div>\n        <div class=\"color-name\">Crocus Yellow</div>\n    </div>\n</div>\n\n<h4 id='colors-sub-heading'>Interior</h4>\n<div class=\"colors-row\">\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #dad8d3\"></div>\n        <div class=\"color-name\">White</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #afaa97\"></div>\n        <div class=\"color-name\">Light Fawn</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #908c80\"></div>\n        <div class=\"color-name\">Medium Fawn</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #6d6458\"></div>\n        <div class=\"color-name\">Medium Dark Fawn</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #847362\"></div>\n        <div class=\"color-name\">Medium Saddle</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #675645\"></div>\n        <div class=\"color-name\">Dark Saddle</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #828692\"></div>\n        <div class=\"color-name\">Medium Slate</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #4c4f59\"></div>\n        <div class=\"color-name\">Dark Slate</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #312c2d\"></div>\n        <div class=\"color-name\">Gunmetal</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #76837c\"></div>\n        <div class=\"color-name\">Medium Green</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #353638\"></div>\n        <div class=\"color-name\">Dark Green</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #333333\"></div>\n        <div class=\"color-name\">Midnight Green</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #6e848c\"></div>\n        <div class=\"color-name\">Medium Turquoise</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #3b4c54\"></div>\n        <div class=\"color-name\">Dark Turquoise</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #6d7d8d\"></div>\n        <div class=\"color-name\">Medium Blue</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #303552\"></div>\n        <div class=\"color-name\">Dark Blue</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #6e221f\"></div>\n        <div class=\"color-name\">Red</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #782e21\"></div>\n        <div class=\"color-name\">Medium Red</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #633b35\"></div>\n        <div class=\"color-name\">Dark Red</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #2d2926\"></div>\n        <div class=\"color-name\">Black</div>\n    </div>\n</div>\n"
+      }
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "gallery",
+      {
+        "images": [
+          {
+            "fileName": "405_3_low_res.jpeg",
+            "row": 0,
+            "width": 790,
+            "height": 393,
+            "src": "__GHOST_URL__/content/images/2020/07/405_3_low_res.jpeg"
+          },
+          {
+            "fileName": "406_4_low_res.jpeg",
+            "row": 0,
+            "width": 790,
+            "height": 401,
+            "src": "__GHOST_URL__/content/images/2020/07/406_4_low_res.jpeg"
+          },
+          {
+            "fileName": "407_5_low_res.jpeg",
+            "row": 0,
+            "width": 790,
+            "height": 398,
+            "src": "__GHOST_URL__/content/images/2020/07/407_5_low_res.jpeg"
+          },
+          {
+            "fileName": "408_6_low_res.jpeg",
+            "row": 1,
+            "width": 790,
+            "height": 393,
+            "src": "__GHOST_URL__/content/images/2020/07/408_6_low_res.jpeg"
+          },
+          {
+            "fileName": "409_7_low_res.jpeg",
+            "row": 1,
+            "width": 790,
+            "height": 396,
+            "src": "__GHOST_URL__/content/images/2020/07/409_7_low_res.jpeg"
+          },
+          {
+            "fileName": "410_8_low_res.jpeg",
+            "row": 1,
+            "width": 790,
+            "height": 388,
+            "src": "__GHOST_URL__/content/images/2020/07/410_8_low_res.jpeg"
+          },
+          {
+            "fileName": "411_9_low_res.jpeg",
+            "row": 2,
+            "width": 698,
+            "height": 709,
+            "src": "__GHOST_URL__/content/images/2020/07/411_9_low_res.jpeg"
+          },
+          {
+            "fileName": "403_1_low_res.jpeg",
+            "row": 2,
+            "width": 703,
+            "height": 709,
+            "src": "__GHOST_URL__/content/images/2020/07/403_1_low_res.jpeg"
+          },
+          {
+            "fileName": "404_2_low_res.jpeg",
+            "row": 2,
+            "width": 790,
+            "height": 391,
+            "src": "__GHOST_URL__/content/images/2020/07/404_2_low_res.jpeg"
+          }
+        ],
+        "caption": "1965 Chevrolet Chevelle OEM Brochures"
+      }
+    ],
+    [
+      "hr",
+      {}
+    ]
+  ],
+  "markups": [
+    [
+      "strong"
+    ],
+    [
+      "em"
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/tag/research/"
+      ]
+    ]
+  ],
+  "sections": [
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Overview"
+        ]
+      ]
+    ],
+    [
+      10,
+      0
+    ],
+    [
+      1,
+      "h3",
+      [
+        [
+          0,
+          [],
+          0,
+          "The biggest news for the 1965 Chevelle was the introduction of the Z-16 package boasting a 396ci V8 and 375 horsepower. This pavement pounder put the power to the rear wheels with the help of stouter suspension, front and rear anti-roll bars, and faster power-assisted steering."
+        ]
+      ]
+    ],
+    [
+      10,
+      1
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "The biggest news for the 1965 Chevelle was the introduction of the Z-16 package boasting a 396ci V8 and 375 horsepower. This pavement pounder put the power to the rear wheels with the help of stouter suspension, front and rear anti-roll bars, and faster power-assisted steering."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Another model was added to the lineup, the 300 Deluxe helped bridge the gap between the 300 and the Malibu. Overall, the 1965 Chevelle changed little except the fact it was stretched a few inches, maintaining the 115-inch wheelbase, which cleaned up a few lines, and Chevrolet added some additional trim options."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "The 300 series was the base model, but it could be had in a two-door station wagon that was not available in the other two series."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "The new 300 Deluxe added little to the 300, with the exception of a few cosmetic upgrades like more interior color options (red, fawn, and aqua) and upgraded trim options."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "The Malibu proved to be the most popular with the highest sales records mainly because of interior upgrades like tailored fabrics with metallic thread accents. It also sold well because it had the most model options including: sport coupe, convertible, 4-door sedan, and 2-seat wagon."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "The Malibu SS now offered the option of choosing any of the Chevelle engines and included specialized SS trim inside and out. Additional colors were available including eight two-tone models. Now up for grabs was the aforementioned Z-16 package, in which 201 were produced (one convertible)."
+        ]
+      ]
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Production Numbers"
+        ]
+      ]
+    ],
+    [
+      10,
+      2
+    ],
+    [
+      10,
+      3
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Performance Specs"
+        ]
+      ]
+    ],
+    [
+      10,
+      4
+    ],
+    [
+      10,
+      5
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Transmission"
+        ]
+      ]
+    ],
+    [
+      10,
+      6
+    ],
+    [
+      3,
+      "ul",
+      [
+        [
+          [
+            0,
+            [
+              0,
+              0
+            ],
+            2,
+            "3-Speed Manual"
+          ]
+        ],
+        [
+          [
+            0,
+            [
+              0,
+              0
+            ],
+            2,
+            "4-Speed Manual"
+          ]
+        ],
+        [
+          [
+            0,
+            [
+              0,
+              0
+            ],
+            2,
+            "Powerglide Auto"
+          ]
+        ],
+        [
+          [
+            0,
+            [
+              0,
+              0
+            ],
+            2,
+            "Turbo Hydra-Matic"
+          ]
+        ]
+      ]
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Paint & Colors"
+        ]
+      ]
+    ],
+    [
+      10,
+      7
+    ],
+    [
+      10,
+      8
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "OEM Brochures"
+        ]
+      ]
+    ],
+    [
+      10,
+      9
+    ],
+    [
+      10,
+      10
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "About the Knowledge Base"
+        ]
+      ]
+    ],
+    [
+      10,
+      11
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "The Motorious Knowledge Base provides a comprehensive vehicle overview for the 1965 Chevrolet Chevelle"
+        ],
+        [
+          0,
+          [
+            1,
+            1
+          ],
+          2,
+          " "
+        ],
+        [
+          0,
+          [],
+          0,
+          "including production numbers, performance specs, factory colors, and OEM brochures. Check out additional model years or related content linked to this article or view other Makes and Models in our "
+        ],
+        [
+          0,
+          [
+            2
+          ],
+          1,
+          "Research"
+        ],
+        [
+          0,
+          [],
+          0,
+          " center."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "If you have any interesting facts about the 1965 Chevrolet Chevelle"
+        ],
+        [
+          0,
+          [
+            1,
+            1
+          ],
+          2,
+          " "
+        ],
+        [
+          0,
+          [],
+          0,
+          "to add, want to tell us how we did covering the Chevelle, or want to tell us about yours, please leave a comment below."
+        ]
+      ]
+    ]
+  ],
+  "ghostVersion": "3.0"
+}

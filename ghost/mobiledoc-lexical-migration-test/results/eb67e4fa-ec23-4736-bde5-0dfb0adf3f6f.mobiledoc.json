@@ -1,0 +1,187 @@
+{
+  "version": "0.3.1",
+  "atoms": [],
+  "cards": [
+    [
+      "email-cta",
+      {
+        "showButton": true,
+        "showDividers": false,
+        "segment": "status:free",
+        "alignment": "center",
+        "html": "<p><strong><em>Please <a href=\"__GHOST_URL__/subscribe\">become a paid subscriber</a>. You get exclusive podcasts, <a href=\"__GHOST_URL__/citizens-guide-to-holding-the-powerful-accountable/\">digital publications</a>, and live events – and you support this journalism.</em></strong></p>",
+        "buttonText": "Click Here To Subscribe",
+        "buttonUrl": "__GHOST_URL__/subscribe"
+      }
+    ],
+    [
+      "email-cta",
+      {
+        "showButton": true,
+        "showDividers": false,
+        "segment": "status:free",
+        "alignment": "center",
+        "html": "<p><em><strong>This is a short excerpt of </strong></em><strong>The Daily Poster</strong><em><strong>’s Weekend Reading List, which is <a href=\"__GHOST_URL__/weekend-reader-the-truth-about-a-supreme-court-contender\">available to supporting subscribers here</a>. You can </strong></em><a href=\"__GHOST_URL__/subscribe\"><em><strong>click here</strong></em></a><em><strong> to become a </strong></em><strong>Daily Poster</strong><em><strong> supporting subscriber for $8 a month or $70 a year. When you subscribe, you are helping us do this reporting and hire more journalists.</strong></em></p>",
+        "buttonText": "Click Here To Subscribe",
+        "buttonUrl": "__GHOST_URL__/subscribe"
+      }
+    ]
+  ],
+  "markups": [
+    [
+      "a",
+      [
+        "href",
+        "https://www.politico.com/news/2022/02/02/lindsey-graham-biden-scotus-00004388"
+      ]
+    ],
+    [
+      "em"
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/weekend-reader-the-truth-about-a-supreme-court-contender"
+      ]
+    ],
+    [
+      "strong"
+    ]
+  ],
+  "sections": [
+    [
+      10,
+      0
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Everyone from powerful Democratic Rep. James Clyburn to Republican "
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "garbage dump loiterer"
+        ],
+        [
+          0,
+          [],
+          0,
+          " Lindsey Graham is angling for President Joe Biden to pick South Carolina District Court Judge J. Michelle Childs to replace outgoing justice Stephen Breyer on the Supreme Court — and the administration has confirmed that Childs is in the running. But as we highlight in two "
+        ],
+        [
+          0,
+          [
+            1
+          ],
+          1,
+          "American Prospect "
+        ],
+        [
+          0,
+          [],
+          0,
+          "pieces linked to below, Childs’ history when it comes to labor issues and criminal justice reform suggests she would be a very troubling choice for the high court."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Read all about it in "
+        ],
+        [
+          0,
+          [
+            2
+          ],
+          1,
+          "this week’s Weekend Reader"
+        ],
+        [
+          0,
+          [],
+          0,
+          ", exclusively for paying subscribers."
+        ]
+      ]
+    ],
+    [
+      1,
+      "h3",
+      [
+        [
+          0,
+          [
+            3
+          ],
+          0,
+          "Also In "
+        ],
+        [
+          0,
+          [
+            2
+          ],
+          1,
+          "Today’s Weekend Reader"
+        ],
+        [
+          0,
+          [],
+          1,
+          ":"
+        ]
+      ]
+    ],
+    [
+      3,
+      "ul",
+      [
+        [
+          [
+            0,
+            [],
+            0,
+            "Don’t trust big business to save democracy."
+          ]
+        ],
+        [
+          [
+            0,
+            [],
+            0,
+            "Major media outlets don’t want to stop collecting your personal data."
+          ]
+        ],
+        [
+          [
+            0,
+            [],
+            0,
+            "Corporations are still funding the insurrectionists."
+          ]
+        ]
+      ]
+    ],
+    [
+      10,
+      1
+    ]
+  ],
+  "ghostVersion": "4.0"
+}

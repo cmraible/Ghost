@@ -1,0 +1,764 @@
+{
+  "version": "0.3.1",
+  "atoms": [
+    [
+      "soft-return",
+      "",
+      {}
+    ]
+  ],
+  "cards": [
+    [
+      "email-cta",
+      {
+        "showButton": true,
+        "showDividers": false,
+        "segment": "status:-free",
+        "alignment": "center",
+        "html": "",
+        "buttonText": "Click Here To Comment",
+        "buttonUrl": "__GHOST_URL__/manchin-bank-bailout/#comments"
+      }
+    ],
+    [
+      "email-cta",
+      {
+        "showButton": true,
+        "showDividers": false,
+        "segment": "status:free",
+        "alignment": "center",
+        "html": "<p><strong><em>Please <a href=\"__GHOST_URL__/subscribe\">become a paid subscriber</a>. You get exclusive podcasts, <a href=\"__GHOST_URL__/citizens-guide-to-holding-the-powerful-accountable/\">digital publications</a>, and live events – and you support this journalism.</em></strong></p>",
+        "buttonText": "Subscribe ",
+        "buttonUrl": "__GHOST_URL__/subscribe/"
+      }
+    ],
+    [
+      "html",
+      {
+        "html": "<div class=\"fb-share-button\" data-href=\"https://www.dailyposter.com/manchin-bank-bailout\" data-layout=\"button\" data-size=\"small\"><a target=\"_blank\" href=\"https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.dailyposter.com%2Fmanchin-bank-bailout&amp;src=sdkpreparse\" class=\"fb-xfbml-parse-ignore\"><strong><em>Click to share this on Facebook</em></strong></a></div>"
+      }
+    ],
+    [
+      "html",
+      {
+        "html": "<div class=\"outpost-pub-container visible-posts-and-email\" style=\"margin-bottom: 1.5em;\"><div style=\"text-align: center\"><a target=\"_blank\" href=\"https://dailyposter.outpost.pub/public/donate#/donate\" style=\"font-family: Nunito, sans-serif;font-size: 14px;border-collapse: collapse;word-wrap: break-word;box-sizing: border-box;text-decoration: none;display: inline-block;font-weight: 400;text-align: center;vertical-align: middle;user-select: none;border: 1px solid transparent;padding: 0.375rem 0.75rem;line-height: 1.6;border-radius: 0.25rem;transition: color 0.15s ease-in-out, background-color 0.15s ease-in-out, border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;color: #fff;background-color: #3490dc;border-color: #3490dc;cursor: pointer;\">Tip Jar</a></div></div>"
+      }
+    ],
+    [
+      "html",
+      {
+        "html": "<div class=\"outpost-pub-container visible-posts-and-email\" style=\"margin-bottom: 1.5em;\"><div style=\"text-align: center\"><a target=\"_blank\" href=\"https://dailyposter.outpost.pub/public/gift\" style=\"font-family: Nunito, sans-serif;font-size: 14px;border-collapse: collapse;word-wrap: break-word;box-sizing: border-box;text-decoration: none;display: inline-block;font-weight: 400;text-align: center;vertical-align: middle;user-select: none;border: 1px solid transparent;padding: 0.375rem 0.75rem;line-height: 1.6;border-radius: 0.25rem;transition: color 0.15s ease-in-out, background-color 0.15s ease-in-out, border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;color: #fff;background-color: #3490dc;border-color: #3490dc;cursor: pointer;\">Give a Gift Subscription</a></div></div>"
+      }
+    ],
+    [
+      "email-cta",
+      {
+        "showButton": true,
+        "showDividers": false,
+        "segment": "status:-free",
+        "alignment": "center",
+        "html": "",
+        "buttonText": "Click Here To Comment",
+        "buttonUrl": "__GHOST_URL__/manchin-bank-bailout/#comments"
+      }
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "email-cta",
+      {
+        "showButton": true,
+        "showDividers": false,
+        "segment": "status:-free",
+        "alignment": "center",
+        "html": "",
+        "buttonText": "Tip Jar",
+        "buttonUrl": "https://dailyposter.outpost.pub/ghost-integration/60818189ad12f332071054b8/tips"
+      }
+    ],
+    [
+      "email-cta",
+      {
+        "showButton": true,
+        "showDividers": false,
+        "segment": "status:free",
+        "alignment": "center",
+        "html": "",
+        "buttonText": "Subscribe",
+        "buttonUrl": "__GHOST_URL__/subscribe/"
+      }
+    ],
+    [
+      "html",
+      {
+        "html": "<div class=\"outpost-pub-container\" data-btn-allmembers></div>"
+      }
+    ]
+  ],
+  "markups": [
+    [
+      "a",
+      [
+        "href",
+        "https://theintercept.com/2021/09/03/joe-manchin-coal-fossil-fuels-pollution/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://twitter.com/therecount/status/1443599405173645315"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.wvgazettemail.com/news/special_reports/recipe-for-foreclosure-fraudulent-mortgages-devastate-home-loving-west-virginians-and-fuel-national-subprime-crisis/article_1c6a1b1b-74e5-5ba3-882f-4e1df6bf5748.html"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://money.cnn.com/2009/07/30/news/companies/bonuses_tarp/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://static.texastribune.org/texas-weekly/files/DGARGA%20Reid.pdf"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.pennlive.com/midstate/2008/10/govenors_business_increase_pre.html"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.deseret.com/2008/10/1/20277868/governors-business-up-pressure-for-bailout-bill"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?congress=110&session=2&vote=00213"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.responsiblelending.org/mortgage-lending/policy-legislation/states/wv-statewide.pdf"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://talent4boards.com/mvb-financial-corp-names-lady-gayle-c-manchin-to-its-board-of-directors/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://mvbbanking.com/mortgage/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://archive.fortune.com/2009/07/17/news/companies/goldman_sachs_tarp_ingratitude.fortune/index.htm"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.opensecrets.org/members-of-congress/joe-manchin/contributors?cid=N00032838&cycle=CAREER&type=I"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://foe.org/news/leaked-manchin-memo-on-reconciliation/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.opensecrets.org/members-of-congress/joe-manchin/industries?cid=N00032838&cycle=CAREER"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://readsludge.com/2021/08/06/manchin-bailed-out-plant-that-pays-millions-to-his-familys-coal-company/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://twitter.com/frankthorp/status/1443303879815438339"
+      ]
+    ],
+    [
+      "em"
+    ],
+    [
+      "strong"
+    ]
+  ],
+  "sections": [
+    [
+      10,
+      0
+    ],
+    [
+      10,
+      1
+    ],
+    [
+      10,
+      2
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          1,
+          [],
+          0,
+          0
+        ],
+        [
+          0,
+          [],
+          0,
+          "On Thursday, "
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "coal-baron-turned-senator"
+        ],
+        [
+          0,
+          [],
+          0,
+          " Joe Manchin threatened to kill his party’s climate, health care and anti-poverty legislation, "
+        ],
+        [
+          0,
+          [
+            1
+          ],
+          1,
+          "telling"
+        ],
+        [
+          0,
+          [],
+          0,
+          " reporters: “I cannot accept our economy, or basically our society, moving towards an entitlement mentality.\""
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Manchin’s declaration comes almost exactly 13 years after he played a pivotal role pushing for a massive Wall Street bailout that funneled hundreds of billions of dollars of public money to the banks whose financial crisis destroyed the global economy and "
+        ],
+        [
+          0,
+          [
+            2
+          ],
+          1,
+          "ravaged West Virginia with mass foreclosures"
+        ],
+        [
+          0,
+          [],
+          0,
+          "."
+        ]
+      ]
+    ],
+    [
+      10,
+      3
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "The bailed-out banks quickly "
+        ],
+        [
+          0,
+          [
+            3
+          ],
+          1,
+          "paid themselves huge government-subsidized bonuses"
+        ],
+        [
+          0,
+          [],
+          0,
+          " and later bankrolled Manchin’s political campaigns."
+        ]
+      ]
+    ],
+    [
+      1,
+      "h3",
+      [
+        [
+          0,
+          [],
+          0,
+          "“Congress Needs To Act Now”"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "On October 1, 2008, Manchin used his position as West Virginia governor to intervene in the contentious debate over the federal government’s response to the financial crisis, co-authoring a letter to senators demanding that Congress immediately hand over the cash to bank executives. "
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "\"There is a time for partisanship and there is a time for getting things done,\" Manchin and Texas Gov. Rick Perry "
+        ],
+        [
+          0,
+          [
+            4
+          ],
+          1,
+          "wrote"
+        ],
+        [
+          0,
+          [],
+          0,
+          " at the "
+        ],
+        [
+          0,
+          [
+            5
+          ],
+          1,
+          "time"
+        ],
+        [
+          0,
+          [],
+          0,
+          ". “No one likes the hand they've been dealt, and now is not the time to assign blame.”"
+        ]
+      ]
+    ],
+    [
+      10,
+      4
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "They continued: “Americans across the country and in every demographic are feeling the pinch. If Congress does not act soon, the situation will grow appreciably worse. It's time for leadership. Congress needs to act now.”"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "“Governors, Business Lobbyists Up Pressure for Bailout Bill,” read the headline of the "
+        ],
+        [
+          0,
+          [
+            6
+          ],
+          1,
+          "Associated Press story"
+        ],
+        [
+          0,
+          [],
+          0,
+          " about the letter, which helped create momentum to pass the measure in the Senate that "
+        ],
+        [
+          0,
+          [
+            7
+          ],
+          1,
+          "same day"
+        ],
+        [
+          0,
+          [],
+          0,
+          "."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "As the bailout enriched Wall Street executives, the Center for Responsible Lending "
+        ],
+        [
+          0,
+          [
+            8
+          ],
+          1,
+          "reported"
+        ],
+        [
+          0,
+          [],
+          0,
+          " that regulators’ failure to curb abuses in subprime mortgage lending would result in more than 15,000 West Virginia foreclosures and nearly $350 million of lost home equity in the state."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "A few years after the bailout happened, Manchin’s wife was "
+        ],
+        [
+          0,
+          [
+            9
+          ],
+          1,
+          "named"
+        ],
+        [
+          0,
+          [],
+          0,
+          " to the "
+        ],
+        [
+          0,
+          [
+            10
+          ],
+          1,
+          "board of a mortgage bank"
+        ],
+        [
+          0,
+          [],
+          0,
+          "."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Donors from Goldman Sachs — the bank which received "
+        ],
+        [
+          0,
+          [
+            11
+          ],
+          1,
+          "$10 billion"
+        ],
+        [
+          0,
+          [],
+          0,
+          " from the Manchin-backed bailout — would go on to collectively become one of Manchin’s biggest career campaign donors, according to "
+        ],
+        [
+          0,
+          [
+            12
+          ],
+          1,
+          "data compiled by OpenSecrets"
+        ],
+        [
+          0,
+          [],
+          0,
+          "."
+        ]
+      ]
+    ],
+    [
+      1,
+      "h3",
+      [
+        [
+          0,
+          [],
+          0,
+          "Manchin’s Other Bailouts"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Manchin’s inveighing against an “entitlement mentality” also comes as he’s "
+        ],
+        [
+          0,
+          [
+            13
+          ],
+          1,
+          "demanded"
+        ],
+        [
+          0,
+          [],
+          0,
+          " the preservation of special tax subsidies for the fossil fuel industry, which is among the "
+        ],
+        [
+          0,
+          [
+            14
+          ],
+          1,
+          "biggest"
+        ],
+        [
+          0,
+          [],
+          0,
+          " financial contributors to his election bids."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "And when was the governor of West Virginia, the state’s Public Service Commission "
+        ],
+        [
+          0,
+          [
+            15
+          ],
+          1,
+          "bailed out"
+        ],
+        [
+          0,
+          [],
+          0,
+          " the power plant that "
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "buys waste coal"
+        ],
+        [
+          0,
+          [],
+          0,
+          " from Manchin’s family coal brokerage, Enersystems."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Manchin put his Enersystems stake into a blind trust as governor and put the company under the control of his son. On Wednesday, Manchin cited the blind trust arrangement in a testy "
+        ],
+        [
+          0,
+          [
+            16
+          ],
+          1,
+          "exchange"
+        ],
+        [
+          0,
+          [],
+          0,
+          " with Bloomberg News reporter Ari Natter, who asked if Enersystems poses a conflict of interest for him as he’s negotiating Democrats’ economic and climate agenda package."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "\"I've been in a blind trust for 20 years, I have no idea what they're doing,” Manchin said. When the reporter said Manchin’s still getting “dividends” from the company, he replied: \"You got a problem?\""
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Manchin and his wife each reported having Enersystems holdings worth between $1-5 million last year, generating $1.1 million in combined income, according to their financial disclosure forms."
+        ]
+      ]
+    ],
+    [
+      10,
+      5
+    ],
+    [
+      10,
+      6
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [
+            17,
+            18
+          ],
+          2,
+          "This newsletter relies on readers pitching in to support our journalism. If you like this story, please support "
+        ],
+        [
+          0,
+          [
+            18
+          ],
+          1,
+          "The Daily Poster"
+        ],
+        [
+          0,
+          [
+            17,
+            18
+          ],
+          2,
+          "'s work."
+        ]
+      ]
+    ],
+    [
+      10,
+      7
+    ],
+    [
+      10,
+      8
+    ],
+    [
+      10,
+      9
+    ]
+  ],
+  "ghostVersion": "4.0"
+}

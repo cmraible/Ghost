@@ -1,0 +1,354 @@
+{
+  "version": "0.3.1",
+  "atoms": [],
+  "cards": [
+    [
+      "hr",
+      {}
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "html",
+      {
+        "html": "<table id=\"production-numbers-table\">\n<tbody>\n    <tr>\n        <td>Two-Door Coupe</td>\n        <td>7,029</td>\n    </tr>\n    <td>Two-Door Hardtop</td>\n        <td>65,176</td>\n    </tr>\n    <td>Two-Door Convertible</td>\n        <td>9,517</td>\n    </tr>\n</tr>\n        <td><b>Total Production</b></td>\n        <td><b>81,722</b></td>\n    </tr>\n</tbody>\n</table>"
+      }
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "html",
+      {
+        "html": "<table id=\"performance-specs-table\">\n<tbody>\n    <tr>\n        <th><b>Engine</b></th>\n        <th><b>Size</b></td>\n        <th><b>Carb.</b></td>\n        <th><b>HP</b></td>\n        <th><b>Torque</b></td>\n        <th><b>0 to 60</b></td>\n        <th><b>Quarter mile</b></td>\n    </tr>\n    <tr>\n        <td>Base</td>\n        <td>389ci</td>\n        <td>1x4bbl</td>\n        <td>335 hp</td>\n        <td>431 lb-ft</td>\n        <td>-</td>\n        <td>-</td>\n    </tr>\n</tr>\n    <tr>\n        <td>V8</td>\n        <td>428ci</td>\n        <td>11x4bbl</td>\n        <td>360 hp</td>\n        <td>472 lb-ft</td>\n        <td>-</td>\n        <td>-</td>\n    </tr>\n</tr>\n    <tr>\n        <td>Quadra Power</td>\n        <td>400ci</td>\n        <td>1x4bbl</td>\n        <td>360 hp</td>\n        <td>438 lb-ft</td>\n        <td>5.2 sec</td>\n        <td>14.1 sec @ 101 mph</td>\n    </tr></tr>\n    <tr>\n        <td>V8</td>\n        <td>400ci</td>\n        <td>1x2bbl</td>\n        <td>255 hp</td>\n        <td>397 lb-ft</td>\n        <td>-</td>\n        <td>-</td>\n    </tr>\n</tbody>\n</table>"
+      }
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "html",
+      {
+        "html": "<h4 id='colors-sub-heading'>Exterior</h4>\n<div class=\"colors-row\">\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #000000\"></div>\n        <div class=\"color-name\">Black</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #9ca6bd\"></div>\n        <div class=\"color-name\">Montreaux Blue</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #6b95bd\"></div>\n        <div class=\"color-name\">Tyrol Blue</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #a5aaa5\"></div>\n        <div class=\"color-name\">Linden Green</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #29698c\"></div>\n        <div class=\"color-name\">Mariner Turquoise</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #841c42\"></div>\n        <div class=\"color-name\">Burgundy</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #bd1c37\"></div>\n        <div class=\"color-name\">Regimental Red</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #fff3b5\"></div>\n        <div class=\"color-name\">Montego Cream</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #fff5e4\"></div>\n        <div class=\"color-name\">Cameo Ivory</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #4a2852\"></div>\n        <div class=\"color-name\">Fathom Blue</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #bdaa8c\"></div>\n        <div class=\"color-name\">Signet Gold</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #6ad4f5\"></div>\n        <div class=\"color-name\">Gulf Turquoise</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #633c4a\"></div>\n        <div class=\"color-name\">Plum Mist</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #b5aaad\"></div>\n        <div class=\"color-name\">Silverglaze</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #bdb6a5\"></div>\n        <div class=\"color-name\">Champagne</div>\n    </div>\n<h4 id='colors-sub-heading'>Interior</h4>\n<div class=\"colors-row\">\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #3b578b\"></div>\n        <div class=\"color-name\">Blue</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #b58a52\"></div>\n        <div class=\"color-name\">Gold</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #ded3c6\"></div>\n        <div class=\"color-name\">Parchment</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #3b7a9f\"></div>\n        <div class=\"color-name\">Turquoise</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #000000\"></div>\n        <div class=\"color-name\">Black</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #9c414a\"></div>\n        <div class=\"color-name\">Red</div>\n    </div>\n</div>\n"
+      }
+    ],
+    [
+      "gallery",
+      {
+        "images": [
+          {
+            "fileName": "540_1967_Pontiac_Performance-01_low_res1.jpeg",
+            "row": 0,
+            "width": 512,
+            "height": 1024,
+            "src": "__GHOST_URL__/content/images/2020/05/540_1967_Pontiac_Performance-01_low_res1.jpeg"
+          },
+          {
+            "fileName": "541_1967_Pontiac_Performance-02-03_low_res2.jpeg",
+            "row": 0,
+            "width": 790,
+            "height": 790,
+            "src": "__GHOST_URL__/content/images/2020/05/541_1967_Pontiac_Performance-02-03_low_res2.jpeg"
+          },
+          {
+            "fileName": "542_1967_Pontiac_Performance-04-05_low_res3.jpeg",
+            "row": 0,
+            "width": 790,
+            "height": 790,
+            "src": "__GHOST_URL__/content/images/2020/05/542_1967_Pontiac_Performance-04-05_low_res3.jpeg"
+          },
+          {
+            "fileName": "543_1967_Pontiac_Performance-06-07_low_res4.jpeg",
+            "row": 1,
+            "width": 790,
+            "height": 790,
+            "src": "__GHOST_URL__/content/images/2020/05/543_1967_Pontiac_Performance-06-07_low_res4.jpeg"
+          },
+          {
+            "fileName": "544_1967_Pontiac_Performance-08-09_low_res5.jpeg",
+            "row": 1,
+            "width": 790,
+            "height": 790,
+            "src": "__GHOST_URL__/content/images/2020/05/544_1967_Pontiac_Performance-08-09_low_res5.jpeg"
+          },
+          {
+            "fileName": "545_1967_Pontiac_Performance-22-23_low_res6.jpeg",
+            "row": 1,
+            "width": 790,
+            "height": 790,
+            "src": "__GHOST_URL__/content/images/2020/05/545_1967_Pontiac_Performance-22-23_low_res6.jpeg"
+          },
+          {
+            "fileName": "546_1967_Pontiac_Performance-24_low_res7.jpeg",
+            "row": 2,
+            "width": 512,
+            "height": 1024,
+            "src": "__GHOST_URL__/content/images/2020/05/546_1967_Pontiac_Performance-24_low_res7.jpeg"
+          }
+        ],
+        "caption": "1967 Pontiac GTO OEM Brochures"
+      }
+    ],
+    [
+      "hr",
+      {}
+    ]
+  ],
+  "markups": [
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/articles/handpicked/win-1969-ram-air-pontiac-gto/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/tag/research/"
+      ]
+    ]
+  ],
+  "sections": [
+    [
+      1,
+      "h3",
+      [
+        [
+          0,
+          [],
+          0,
+          "Overview"
+        ]
+      ]
+    ],
+    [
+      10,
+      0
+    ],
+    [
+      1,
+      "h3",
+      [
+        [
+          0,
+          [],
+          0,
+          "The 1967 GTO marked the end of the first generation, but remained mostly the same from the previous year. "
+        ]
+      ]
+    ],
+    [
+      10,
+      1
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "The 1967 GTO marked the end of the first generation, but remained mostly the same from the previous year. Most notable were the slightly revised twin pin stripes along the upper beltline and body side accent molding. It was also the first GTO that did not offer the Tri-Power engine option due to a ban on multiple carburetors.  The 1967 "
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "GTO convertible"
+        ],
+        [
+          0,
+          [],
+          0,
+          " with Ram Air are among the rarest GTOs with only 56 being built"
+        ]
+      ]
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Production Numbers"
+        ]
+      ]
+    ],
+    [
+      10,
+      2
+    ],
+    [
+      10,
+      3
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Performance Specs"
+        ]
+      ]
+    ],
+    [
+      10,
+      4
+    ],
+    [
+      10,
+      5
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Transmissions"
+        ]
+      ]
+    ],
+    [
+      3,
+      "ul",
+      [
+        [
+          [
+            0,
+            [],
+            0,
+            "3-Speed Manual"
+          ]
+        ],
+        [
+          [
+            0,
+            [],
+            0,
+            "4-Speed Manual"
+          ]
+        ],
+        [
+          [
+            0,
+            [],
+            0,
+            "2-Speed Auto"
+          ]
+        ]
+      ]
+    ],
+    [
+      10,
+      6
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Paint & Colors"
+        ]
+      ]
+    ],
+    [
+      10,
+      7
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "OEM Brochures"
+        ]
+      ]
+    ],
+    [
+      10,
+      8
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "About the Knowledge Base"
+        ]
+      ]
+    ],
+    [
+      10,
+      9
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "The Motorious Knowledge Base provides a comprehensive vehicle overview for the 1967 Pontiac GTO including production numbers, performance specs, factory colors, and OEM brochures. Check out additional model years or related content linked to this article or view other Makes and Models in our "
+        ],
+        [
+          0,
+          [
+            1
+          ],
+          1,
+          "Research"
+        ],
+        [
+          0,
+          [],
+          0,
+          " center."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "If you have any interesting facts about the 1967 Pontiac GTO to add, want to tell us how we did covering the GTO, or want to tell us about yours, please leave a comment below."
+        ]
+      ]
+    ]
+  ],
+  "ghostVersion": "3.0"
+}

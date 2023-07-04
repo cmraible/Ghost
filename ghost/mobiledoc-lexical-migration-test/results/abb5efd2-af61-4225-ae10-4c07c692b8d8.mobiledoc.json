@@ -1,0 +1,403 @@
+{
+  "version": "0.3.1",
+  "atoms": [],
+  "cards": [
+    [
+      "hr",
+      {}
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "html",
+      {
+        "html": "<table id=\"production-numbers-table\">\n<tbody>\n\t<tr>\n\t\t<td>2-Dr. Sports Coupe</td>\n\t\t<td>22,129</td>\n\t</tr>\n    <tr>\n\t\t<td>2-Dr. Convertible</td>\n\t\t<td>16,633</td>\n\t</tr>\n\t\t<td><b>Total Production</b></td>\n\t\t<td><b>38,762</b></td>\n\t</tr>\n</tbody>\n</table>"
+      }
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "html",
+      {
+        "html": "<table id=\"performance-specs-table\">\n<tbody>\n\t<tr>\n\t\t<th><b>Engine</b></th>\n\t\t<th><b>Size</b></td>\n\t\t<th><b>Carb.</b></td>\n\t\t<th><b>HP</b></td>\n\t\t<th><b>Torque</b></td>\n\t\t<th><b>0 to 60</b></td>\n\t\t<th><b>Quarter mile</b></td>\n\t</tr>\n\t<tr>\n\t\t<td>Base V8</td>\n\t\t<td>350ci</td>\n\t\t<td>1x4bbl</td>\n\t\t<td>300hp @ 4800</td>\n\t\t<td>380 lb-ft @ 3200</td>\n\t\t<td>-</td>\n\t\t<td>-</td>\n\t</tr>\n    <tr>\n\t\t<td>L46 Turbo Fire</td>\n\t\t<td>350ci</td>\n\t\t<td>1x4bbl</td>\n\t\t<td>350hp</td>\n\t\t<td>-</td>\n\t\t<td>-</td>\n\t\t<td>-</td>\n\t</tr>\n    <tr>\n\t\t<td>L36 Turbo Jet</td>\n\t\t<td>427ci</td>\n\t\t<td>1x4bbl</td>\n\t\t<td>390hp @ 5400</td>\n\t\t<td>460 lb-ft @ 3600</td>\n\t\t<td>-</td>\n\t\t<td>-</td>\n\t</tr>\n    <tr>\n\t\t<td>L68 Turbo Jet</td>\n\t\t<td>427ci</td>\n\t\t<td>3x2bbl</td>\n\t\t<td>400hp @ 5400</td>\n\t\t<td>460 lb-ft @ 3600</td>\n\t\t<td>-</td>\n\t\t<td>-</td>\n\t</tr>\n    <tr>\n\t\t<td>L71 Turbo Jet</td>\n\t\t<td>427ci</td>\n\t\t<td>3x2bbl</td>\n\t\t<td>435hp @ 5800</td>\n\t\t<td>460 lb-ft @ 4000</td>\n\t\t<td>6.6 sec</td>\n\t\t<td>14.6 sec @ 98.6 mph</td>\n\t</tr>\n    <tr>\n\t\t<td>L88 Turbo Jet</td>\n\t\t<td>427ci</td>\n\t\t<td>1x4bbl</td>\n\t\t<td>430hp @ 6400</td>\n\t\t<td>460 lb-ft @ 4000</td>\n\t\t<td>-</td>\n\t\t<td>-</td>\n\t</tr>\n</tbody>\n</table>"
+      }
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "html",
+      {
+        "html": "<h4 id='colors-sub-heading'>Exterior</h4>\n<div class=\"colors-row\">\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #000000\"></div>\n        <div class=\"color-name\">Black</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #ffffff\"></div>\n        <div class=\"color-name\">Can-Am White</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #2291db\"></div>\n        <div class=\"color-name\">Le Mans Blue</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #a58f41\"></div>\n        <div class=\"color-name\">Riverside Gold</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #4e7375\"></div>\n        <div class=\"color-name\">Fathom Green</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #e1e140\"></div>\n        <div class=\"color-name\">Daytona Yellow</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #7f898a\"></div>\n        <div class=\"color-name\">Cortez Silver</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #834052\"></div>\n        <div class=\"color-name\">Burgundy</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #ea3908\"></div>\n        <div class=\"color-name\">Monaco Orange</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #d4171a\"></div>\n        <div class=\"color-name\">Monza Red</div>\n    </div>\n</div>\n\n<h4 id='colors-sub-heading'>Interior</h4>\n<div class=\"colors-row\">\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #000000\"></div>\n        <div class=\"color-name\">Black</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #d92c2f\"></div>\n        <div class=\"color-name\">Red</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #59b9df\"></div>\n        <div class=\"color-name\">Bright Blue</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #7d7d7f\"></div>\n        <div class=\"color-name\">Gunmetal</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #b3937e\"></div>\n        <div class=\"color-name\">Saddle</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #6c7264\"></div>\n        <div class=\"color-name\">Green</div>\n    </div>\n</div>\n"
+      }
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "gallery",
+      {
+        "images": [
+          {
+            "fileName": "273_1_low_res.jpeg",
+            "row": 0,
+            "width": 790,
+            "height": 991,
+            "src": "__GHOST_URL__/content/images/2020/08/273_1_low_res.jpeg"
+          },
+          {
+            "fileName": "274_2_low_res.jpeg",
+            "row": 0,
+            "width": 790,
+            "height": 483,
+            "src": "__GHOST_URL__/content/images/2020/08/274_2_low_res.jpeg"
+          },
+          {
+            "fileName": "275_3_low_res.jpeg",
+            "row": 0,
+            "width": 790,
+            "height": 483,
+            "src": "__GHOST_URL__/content/images/2020/08/275_3_low_res.jpeg"
+          },
+          {
+            "fileName": "276_4_low_res.jpeg",
+            "row": 1,
+            "width": 790,
+            "height": 480,
+            "src": "__GHOST_URL__/content/images/2020/08/276_4_low_res.jpeg"
+          },
+          {
+            "fileName": "277_5_low_res.jpeg",
+            "row": 1,
+            "width": 790,
+            "height": 486,
+            "src": "__GHOST_URL__/content/images/2020/08/277_5_low_res.jpeg"
+          },
+          {
+            "fileName": "278_6_low_res.jpeg",
+            "row": 1,
+            "width": 790,
+            "height": 487,
+            "src": "__GHOST_URL__/content/images/2020/08/278_6_low_res.jpeg"
+          },
+          {
+            "fileName": "279_7_low_res.jpeg",
+            "row": 2,
+            "width": 790,
+            "height": 974,
+            "src": "__GHOST_URL__/content/images/2020/08/279_7_low_res.jpeg"
+          }
+        ],
+        "caption": "1969 Chevrolet Corvette OEM Brochures"
+      }
+    ],
+    [
+      "hr",
+      {}
+    ]
+  ],
+  "markups": [
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/articles/news/detroit-car-guy-reunited-stolen-corvette/"
+      ]
+    ],
+    [
+      "em"
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/tag/research/"
+      ]
+    ]
+  ],
+  "sections": [
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Overview"
+        ]
+      ]
+    ],
+    [
+      10,
+      0
+    ],
+    [
+      1,
+      "h3",
+      [
+        [
+          0,
+          [],
+          0,
+          "The Corvette was finally officially called “The Stingray” in 1969"
+        ]
+      ]
+    ],
+    [
+      10,
+      1
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "The "
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "Corvette"
+        ],
+        [
+          0,
+          [],
+          0,
+          " was finally officially called “The Stingray” in 1969, but remained much the same as the previous year. The 327ci V8 was replaced with a 350ci V8, and two ZL-1s were produced which had in the neighborhood of 585 hp."
+        ]
+      ]
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Production Numbers"
+        ]
+      ]
+    ],
+    [
+      10,
+      2
+    ],
+    [
+      10,
+      3
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Performance Specs"
+        ]
+      ]
+    ],
+    [
+      10,
+      4
+    ],
+    [
+      10,
+      5
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Transmission"
+        ]
+      ]
+    ],
+    [
+      10,
+      6
+    ],
+    [
+      3,
+      "ul",
+      [
+        [
+          [
+            0,
+            [],
+            0,
+            "Turbo Hydra-Matic"
+          ]
+        ],
+        [
+          [
+            0,
+            [],
+            0,
+            "3-Speed Manual"
+          ]
+        ],
+        [
+          [
+            0,
+            [],
+            0,
+            "4-Speed Manual"
+          ]
+        ]
+      ]
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Paint & Colors"
+        ]
+      ]
+    ],
+    [
+      10,
+      7
+    ],
+    [
+      10,
+      8
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "OEM Brochures"
+        ]
+      ]
+    ],
+    [
+      10,
+      9
+    ],
+    [
+      10,
+      10
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "About the Knowledge Base"
+        ]
+      ]
+    ],
+    [
+      10,
+      11
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "The Motorious Knowledge Base provides a comprehensive vehicle overview for the 1969 Chevrolet Corvette"
+        ],
+        [
+          0,
+          [
+            1,
+            1
+          ],
+          2,
+          " "
+        ],
+        [
+          0,
+          [],
+          0,
+          "including production numbers, performance specs, factory colors, and OEM brochures. Check out additional model years or related content linked to this article or view other Makes and Models in our "
+        ],
+        [
+          0,
+          [
+            2
+          ],
+          1,
+          "Research"
+        ],
+        [
+          0,
+          [],
+          0,
+          " center."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "If you have any interesting facts about the 1969 Chevrolet Corvette"
+        ],
+        [
+          0,
+          [
+            1,
+            1
+          ],
+          2,
+          " "
+        ],
+        [
+          0,
+          [],
+          0,
+          "to add, want to tell us how we did covering the Corvette, or want to tell us about yours, please leave a comment below."
+        ]
+      ]
+    ]
+  ],
+  "ghostVersion": "3.0"
+}

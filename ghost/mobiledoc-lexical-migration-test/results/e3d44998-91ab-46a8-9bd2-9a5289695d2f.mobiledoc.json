@@ -1,0 +1,235 @@
+{
+  "version": "0.3.1",
+  "atoms": [],
+  "cards": [
+    [
+      "email-cta",
+      {
+        "showButton": true,
+        "showDividers": false,
+        "segment": "status:free",
+        "alignment": "center",
+        "html": "<p><strong><em>Please <a href=\"__GHOST_URL__/subscribe\">become a paid subscriber</a>. You get exclusive podcasts, <a href=\"__GHOST_URL__/citizens-guide-to-holding-the-powerful-accountable/\">digital publications</a>, and live events – and you support this journalism.</em></strong></p>",
+        "buttonText": "Click Here To Subscribe",
+        "buttonUrl": "__GHOST_URL__/subscribe"
+      }
+    ],
+    [
+      "email-cta",
+      {
+        "showButton": true,
+        "showDividers": false,
+        "segment": "status:free",
+        "alignment": "center",
+        "html": "",
+        "buttonText": "Click Here To Subscribe",
+        "buttonUrl": "__GHOST_URL__/subscribe"
+      }
+    ]
+  ],
+  "markups": [
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/subscribe/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/an-energy-giant-touts-its-shareholders-pandemic-profits/"
+      ]
+    ],
+    [
+      "strong"
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/new-the-citizens-guide-to-holding/"
+      ]
+    ],
+    [
+      "em"
+    ]
+  ],
+  "sections": [
+    [
+      10,
+      0
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Last year was a very good year for Consolidated Edison, the massive investor-owned power company that provides electricity to the New York area. As CEO Timothy Cawley announced during the company’s September earnings call, it just notched its record-setting 47th straight year of dividend increases. That means ConEd is just three boom years away from being crowned a “dividend king,” meaning it will join the elite group of publicly traded companies whose dividends have increased every year for half a century."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "But to maintain this profitable winning streak, the power company had to make some very callous business decisions about its customers in the middle of the raging pandemic."
+        ]
+      ]
+    ],
+    [
+      1,
+      "h3",
+      [
+        [
+          0,
+          [],
+          0,
+          "ADDITIONALLY FOR PAID SUBSCRIBERS ("
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "click here to subscribe"
+        ],
+        [
+          0,
+          [],
+          0,
+          "):"
+        ]
+      ]
+    ],
+    [
+      3,
+      "ul",
+      [
+        [
+          [
+            0,
+            [],
+            0,
+            "The DNC continues its tradition of electing corporate lobbyist members."
+          ]
+        ],
+        [
+          [
+            0,
+            [],
+            0,
+            "A billionaire almost single-handedly funds Texas’ border wall."
+          ]
+        ],
+        [
+          [
+            0,
+            [],
+            0,
+            "Inadequate pandemic preparedness is nothing new for the U.S.."
+          ]
+        ],
+        [
+          [
+            0,
+            [],
+            0,
+            "Employers stumped over hiring lag as pandemic unemployment benefits expire."
+          ]
+        ],
+        [
+          [
+            0,
+            [],
+            0,
+            "A giant tanker in the Red Sea is on the brink of explosion."
+          ]
+        ]
+      ]
+    ],
+    [
+      1,
+      "h3",
+      [
+        [
+          0,
+          [],
+          0,
+          "If you’d like to "
+        ],
+        [
+          0,
+          [
+            1
+          ],
+          1,
+          "read the full report"
+        ],
+        [
+          0,
+          [],
+          0,
+          ", please "
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "click here"
+        ],
+        [
+          0,
+          [],
+          0,
+          " to become an $8-a-month or $70-a-year supporting subscriber. "
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [
+            2
+          ],
+          0,
+          "When you become a supporting subscriber, you get this kind of exclusive content, you get access to our live events, you get our new "
+        ],
+        [
+          0,
+          [
+            3,
+            4
+          ],
+          2,
+          "Citizens' Guide To Holding The Powerful Accountable"
+        ],
+        [
+          0,
+          [],
+          1,
+          " – and you are helping us hire more journalists."
+        ]
+      ]
+    ],
+    [
+      10,
+      1
+    ]
+  ],
+  "ghostVersion": "4.0"
+}

@@ -1,0 +1,352 @@
+{
+  "version": "0.3.1",
+  "atoms": [],
+  "cards": [
+    [
+      "html",
+      {
+        "html": "<div class=\"podcast-embed\"><iframe src=\"https://anchor.fm/besttechie/embed/episodes/CRMs-are-the-new-CMS-feat--Jason-Bade-eorbl4\" height=\"162px\" width=\"400px\" frameborder=\"0\" scrolling=\"no\"></iframe></div>"
+      }
+    ],
+    [
+      "embed",
+      {
+        "url": "https://www.youtube.com/watch?v=1X_Wf5Ao6_A",
+        "html": "<iframe width=\"356\" height=\"200\" src=\"https://www.youtube.com/embed/1X_Wf5Ao6_A?feature=oembed\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+        "type": "video",
+        "metadata": {
+          "title": "CRMs are the new CMS (feat. Jason Bade)",
+          "author_name": "Jeff Weisbein",
+          "author_url": "https://www.youtube.com/besttechie",
+          "height": 200,
+          "width": 356,
+          "version": "1.0",
+          "provider_name": "YouTube",
+          "provider_url": "https://www.youtube.com/",
+          "thumbnail_height": 360,
+          "thumbnail_width": 480,
+          "thumbnail_url": "https://i.ytimg.com/vi/1X_Wf5Ao6_A/hqdefault.jpg"
+        }
+      }
+    ]
+  ],
+  "markups": [
+    [
+      "em"
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://twitter.com/jasonwbade"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://trypico.com/"
+      ]
+    ],
+    [
+      "strong"
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://podcasts.apple.com/us/podcast/techiebytes/id1352142386?mt=2"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://anchor.fm/besttechie"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://play.google.com/music/m/Iggddfgyikir2p3s2rxyd3jrebm?t=TechieBytes"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://overcast.fm/itunes1352142386/techiebytes"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://open.spotify.com/show/1smGCurjTwO59EAFuvb60V?si=cDs7fiD3SD2Hg4cUUFLpjw"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.stitcher.com/podcast/besttechie/techiebytes?refid=stpr",
+        "rel",
+        "noreferrer noopener"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "http://pca.st/0Gc3"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/advertise/"
+      ]
+    ]
+  ],
+  "sections": [
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Welcome to TechieBytes episode 74 titled "
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "CRMS are the new CMS (feat. Jason Bade)"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Today I’m speaking with "
+        ],
+        [
+          0,
+          [
+            1
+          ],
+          1,
+          "Jason Bade"
+        ],
+        [
+          0,
+          [],
+          0,
+          ", co-founder & CEO at "
+        ],
+        [
+          0,
+          [
+            2
+          ],
+          1,
+          "Pico"
+        ],
+        [
+          0,
+          [],
+          0,
+          ", a company focused on helping digital media firms by providing a CRM-based platform for their audience. We discuss what the future of the digital media and content creation looks like, how creators should be thinking about business models, and why you need to own your own audience. Enjoy!"
+        ]
+      ]
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Audio Episode"
+        ]
+      ]
+    ],
+    [
+      10,
+      0
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [
+            3
+          ],
+          1,
+          "LISTEN & SUBSCRIBE: "
+        ],
+        [
+          0,
+          [],
+          0,
+          "TechieBytes is available on "
+        ],
+        [
+          0,
+          [
+            4
+          ],
+          1,
+          "Apple Podcasts"
+        ],
+        [
+          0,
+          [],
+          0,
+          ", "
+        ],
+        [
+          0,
+          [
+            5
+          ],
+          1,
+          "Anchor.fm"
+        ],
+        [
+          0,
+          [],
+          0,
+          ", "
+        ],
+        [
+          0,
+          [
+            6
+          ],
+          1,
+          "Google Play"
+        ],
+        [
+          0,
+          [],
+          0,
+          ", "
+        ],
+        [
+          0,
+          [
+            7
+          ],
+          1,
+          "Overcast"
+        ],
+        [
+          0,
+          [],
+          0,
+          ", "
+        ],
+        [
+          0,
+          [
+            8
+          ],
+          1,
+          "Spotify"
+        ],
+        [
+          0,
+          [],
+          0,
+          ", "
+        ],
+        [
+          0,
+          [
+            9
+          ],
+          1,
+          "Stitcher"
+        ],
+        [
+          0,
+          [],
+          0,
+          ", and "
+        ],
+        [
+          0,
+          [
+            10
+          ],
+          1,
+          "Pocket Casts"
+        ],
+        [
+          0,
+          [],
+          0,
+          "."
+        ]
+      ]
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Video Episode"
+        ]
+      ]
+    ],
+    [
+      10,
+      1
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "We’re looking for new podcast sponsors, if you’re interested in sponsoring TechieBytes, please "
+        ],
+        [
+          0,
+          [
+            11
+          ],
+          1,
+          "get in touch"
+        ],
+        [
+          0,
+          [],
+          0,
+          "."
+        ]
+      ]
+    ]
+  ],
+  "ghostVersion": "3.0"
+}

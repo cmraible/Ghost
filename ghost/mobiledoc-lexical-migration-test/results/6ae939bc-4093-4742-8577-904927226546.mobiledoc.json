@@ -1,0 +1,442 @@
+{
+  "version": "0.3.1",
+  "atoms": [],
+  "cards": [
+    [
+      "hr",
+      {}
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "html",
+      {
+        "html": "<table id=\"production-numbers-table\">\n<tbody>\n\t<tr>\n\t\t<td>2-DR Sedan</td>\n\t\t<td>144,401</td>\n\t</tr>\n    \t<tr>\n\t\t<td>4-DR Sedan</td>\n\t\t<td>247,284</td>\n\t</tr>\n    \t<tr>\n\t\t<td>Conv Coupe</td>\n\t\t<td>24,047</td>\n\t</tr>\n    \t<tr>\n\t\t<td>Hardtop Coupe</td>\n\t\t<td>99,028</td>\n\t</tr>\n\t\t<td><b>Total Production</b></td>\n\t\t<td><b>514,760</b></td>\n\t</tr>\n</tbody>\n</table>"
+      }
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "html",
+      {
+        "html": "<table id=\"performance-specs-table\">\n<tbody>\n\t<tr>\n\t\t<th><b>Engine</b></th>\n\t\t<th><b>Size</b></td>\n\t\t<th><b>Carb.</b></td>\n\t\t<th><b>HP</b></td>\n\t\t<th><b>0 to 60</b></td>\n\t</tr>\n\t<tr>\n\t\t<td>I-6</td>\n\t\t<td>235.5ci</td>\n\t\t<td>1x1bbl</td>\n\t\t<td>108</td>\n\t\t<td>-</td>\n\t</tr>\n\t<tr>\n\t\t<td>I-6</td>\n\t\t<td>235.5ci</td>\n\t\t<td>-</td>\n\t\t<td>115</td>\n\t\t<td>16 sec</td>\n\t</tr>\n</tbody>\n</table>"
+      }
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "html",
+      {
+        "html": "<h4 id='colors-sub-heading'>Exterior</h4>\n<div class=\"colors-row\">\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #000000\"></div>\n        <div class=\"color-name\">Onyx Black</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #c0c2b5\"></div>\n        <div class=\"color-name\">Driftwood Gray</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #222c28\"></div>\n        <div class=\"color-name\">Dusk Gray</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #afc6b2\"></div>\n        <div class=\"color-name\">Surf Green</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #243935\"></div>\n        <div class=\"color-name\">Woodland Green</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #1b2434\"></div>\n        <div class=\"color-name\">Regatta Blue</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #879ba8\"></div>\n        <div class=\"color-name\">Horizon Blue</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #d1b172\"></div>\n        <div class=\"color-name\">Sahara Beige</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #351b18\"></div>\n        <div class=\"color-name\">Madeira Maroon</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #c94036\"></div>\n        <div class=\"color-name\">Target Red</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #e9e3ba\"></div>\n        <div class=\"color-name\">Campus Cream</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #a99552\"></div>\n        <div class=\"color-name\">Sungold</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #573c2d\"></div>\n        <div class=\"color-name\">Saddle Brown</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #dcdec9\"></div>\n        <div class=\"color-name\">India Ivory</div>\n    </div>\n</div>"
+      }
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "gallery",
+      {
+        "images": [
+          {
+            "fileName": "1028_1953chevrolet_01_low_res.jpg",
+            "row": 0,
+            "width": 790,
+            "height": 544,
+            "src": "__GHOST_URL__/content/images/2020/06/1028_1953chevrolet_01_low_res.jpg"
+          },
+          {
+            "fileName": "1029_1_low_res.jpg",
+            "row": 0,
+            "width": 590,
+            "height": 907,
+            "src": "__GHOST_URL__/content/images/2020/06/1029_1_low_res.jpg"
+          },
+          {
+            "fileName": "1030_5_low_res.jpg",
+            "row": 0,
+            "width": 598,
+            "height": 907,
+            "src": "__GHOST_URL__/content/images/2020/06/1030_5_low_res.jpg"
+          },
+          {
+            "fileName": "1031_8_low_res.jpg",
+            "row": 1,
+            "width": 623,
+            "height": 907,
+            "src": "__GHOST_URL__/content/images/2020/06/1031_8_low_res.jpg"
+          },
+          {
+            "fileName": "1032_53_1_low_res.jpg",
+            "row": 1,
+            "width": 684,
+            "height": 1024,
+            "src": "__GHOST_URL__/content/images/2020/06/1032_53_1_low_res.jpg"
+          },
+          {
+            "fileName": "1023_1953chevrolet_06_low_res.jpg",
+            "row": 1,
+            "width": 499,
+            "height": 1024,
+            "src": "__GHOST_URL__/content/images/2020/06/1023_1953chevrolet_06_low_res.jpg"
+          },
+          {
+            "fileName": "1024_1953chevrolet_05_low_res.jpg",
+            "row": 2,
+            "width": 511,
+            "height": 1024,
+            "src": "__GHOST_URL__/content/images/2020/06/1024_1953chevrolet_05_low_res.jpg"
+          },
+          {
+            "fileName": "1021_1953chevrolet_08_low_res.jpg",
+            "row": 2,
+            "width": 790,
+            "height": 536,
+            "src": "__GHOST_URL__/content/images/2020/06/1021_1953chevrolet_08_low_res.jpg"
+          },
+          {
+            "fileName": "1022_1953chevrolet_07_low_res.jpg",
+            "row": 2,
+            "width": 505,
+            "height": 1024,
+            "src": "__GHOST_URL__/content/images/2020/06/1022_1953chevrolet_07_low_res.jpg"
+          }
+        ],
+        "caption": "1953 Chevrolet Bel Air OEM Brochures"
+      }
+    ],
+    [
+      "gallery",
+      {
+        "images": [
+          {
+            "fileName": "1025_1953chevrolet_04_low_res.jpg",
+            "row": 0,
+            "width": 790,
+            "height": 541,
+            "src": "__GHOST_URL__/content/images/2020/06/1025_1953chevrolet_04_low_res.jpg"
+          },
+          {
+            "fileName": "1026_1953chevrolet_03_low_res.jpg",
+            "row": 0,
+            "width": 790,
+            "height": 544,
+            "src": "__GHOST_URL__/content/images/2020/06/1026_1953chevrolet_03_low_res.jpg"
+          },
+          {
+            "fileName": "1027_1953chevrolet_02_low_res.jpg",
+            "row": 0,
+            "width": 790,
+            "height": 544,
+            "src": "__GHOST_URL__/content/images/2020/06/1027_1953chevrolet_02_low_res.jpg"
+          }
+        ],
+        "caption": "1953 Chevrolet Bel Air OEM Brochures"
+      }
+    ],
+    [
+      "hr",
+      {}
+    ]
+  ],
+  "markups": [
+    [
+      "strong"
+    ],
+    [
+      "em"
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/tag/research/"
+      ]
+    ]
+  ],
+  "sections": [
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Overview"
+        ]
+      ]
+    ],
+    [
+      10,
+      0
+    ],
+    [
+      1,
+      "h3",
+      [
+        [
+          0,
+          [],
+          0,
+          "The 1953 Bel Air became its own line sporting several new models. It featured Fisher unisteel construction, high-compression engines, and new rear axle."
+        ]
+      ]
+    ],
+    [
+      10,
+      1
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "The 1953 Bel Air became its own line sporting several new models. It featured Fisher unisteel construction, high-compression engines, and new rear axle. The all new 150, 210, and Bel Air series were greeted with much enthusiasm and deemed the \"Hot Ones.\" Production more than quadrupled from the previous year."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Power steering and air conditioning were optional."
+        ]
+      ]
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Production Numbers"
+        ]
+      ]
+    ],
+    [
+      10,
+      2
+    ],
+    [
+      10,
+      3
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Performance Specs"
+        ]
+      ]
+    ],
+    [
+      10,
+      4
+    ],
+    [
+      10,
+      5
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Transmission"
+        ]
+      ]
+    ],
+    [
+      10,
+      6
+    ],
+    [
+      3,
+      "ul",
+      [
+        [
+          [
+            0,
+            [
+              0,
+              0
+            ],
+            2,
+            "3-Speed Manual"
+          ]
+        ],
+        [
+          [
+            0,
+            [
+              0,
+              0
+            ],
+            2,
+            "Powerglide Auto"
+          ]
+        ]
+      ]
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Paint & Colors"
+        ]
+      ]
+    ],
+    [
+      10,
+      7
+    ],
+    [
+      10,
+      8
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "OEM Brochures"
+        ]
+      ]
+    ],
+    [
+      10,
+      9
+    ],
+    [
+      10,
+      10
+    ],
+    [
+      10,
+      11
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "About the Knowledge Base"
+        ]
+      ]
+    ],
+    [
+      10,
+      12
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "The Motorious Knowledge Base provides a comprehensive vehicle overview for the 1953 Chevrolet Bel Air"
+        ],
+        [
+          0,
+          [
+            1,
+            1
+          ],
+          2,
+          " "
+        ],
+        [
+          0,
+          [],
+          0,
+          "including production numbers, performance specs, factory colors, and OEM brochures. Check out additional model years or related content linked to this article or view other Makes and Models in our "
+        ],
+        [
+          0,
+          [
+            2
+          ],
+          1,
+          "Research"
+        ],
+        [
+          0,
+          [],
+          0,
+          " center."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "If you have any interesting facts about the 1953 Chevrolet Bel Air"
+        ],
+        [
+          0,
+          [
+            1,
+            1
+          ],
+          2,
+          " "
+        ],
+        [
+          0,
+          [],
+          0,
+          "to add, want to tell us how we did covering the Bel Air, or want to tell us about yours, please leave a comment below."
+        ]
+      ]
+    ]
+  ],
+  "ghostVersion": "3.0"
+}

@@ -1,0 +1,515 @@
+{
+  "version": "0.3.1",
+  "atoms": [
+    [
+      "soft-return",
+      "",
+      {}
+    ]
+  ],
+  "cards": [
+    [
+      "image",
+      {
+        "src": "__GHOST_URL__/content/images/2018/11/Screen-Shot-2018-07-18-at-17.02.43.png"
+      }
+    ],
+    [
+      "image",
+      {
+        "src": "__GHOST_URL__/content/images/2018/11/fullsizeoutput_55790.jpeg"
+      }
+    ],
+    [
+      "image",
+      {
+        "src": "https://images.unsplash.com/photo-1534949752991-a065b0f5dfaa?ixlib=rb-0.3.5&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjExNzczfQ&s=c195d8a235f1c986acdac16a055e90e5",
+        "caption": "Photo by <a href=\"https://unsplash.com/@pemmax?utm_source=ghost&utm_medium=referral&utm_campaign=api-credit\">Przemyslaw Marczynski</a> / <a href=\"https://unsplash.com/?utm_source=ghost&utm_medium=referral&utm_campaign=api-credit\">Unsplash</a>",
+        "alt": "black portable speaker"
+      }
+    ]
+  ],
+  "markups": [
+    [
+      "em"
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://reutersinstitute.politics.ox.ac.uk/risj-review/new-report-future-voice-and-implications-news"
+      ]
+    ]
+  ],
+  "sections": [
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "This morning, the Reuters Institute at Oxford has published a new piece of research, authored by Nic Newman: "
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "The Future of Voice and the Implications for News"
+        ],
+        [
+          0,
+          [],
+          0,
+          ". "
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "I've been lucky enough to have had a copy for a few days now, and it's an interesting piece of reading, if only because this is "
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "exactly"
+        ],
+        [
+          0,
+          [],
+          0,
+          " the sort of research that the industry needs right now. Let's be clear: I doubt anyone will read this research, summon their product team and demand a voice strategy right now. But what it might well do is give people the comfort that they:"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "1. Now understand the emergent market"
+        ],
+        [
+          1,
+          [],
+          0,
+          0
+        ],
+        [
+          0,
+          [],
+          0,
+          "2. Know what to watch for in future"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "I've been involved in digital development for around 15 years now, and in the early part of that period, it was hard to get anyone interested in experimenting on new platforms. Now, though, the pressure is very much the other way around, with big publishers notably afraid of missing the boat on a new platform. (Somewhere, right now, some poor social media editor is being hassled for a TikTok strategy even as you read this…)"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Sadly, the net result of this shift is a lot of time and effort is being wasted on platforms which do not, and may never deliver the returns we might want. And early research like this makes that less likely, allowing publishers to make smarter decisions. "
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "The smart speaker platform is only just over three years old, with the Amazon Echo releasing in the US in June 2015. Google and Apple are in the market now. Clearly smart speakers are a platform that's worth paying attention to, given the remarkable growth of home penetration of these devices. But are they worth investing time and money in yet?"
+        ]
+      ]
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Key Findings on voice and news"
+        ]
+      ]
+    ],
+    [
+      10,
+      0
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "At the risk of invoking Nic's wrath by over-simplifying his research, you could boil it down to two facts:"
+        ]
+      ]
+    ],
+    [
+      3,
+      "ul",
+      [
+        [
+          [
+            0,
+            [],
+            0,
+            "Smart speakers are popular - and growing ever more so"
+          ]
+        ],
+        [
+          [
+            0,
+            [],
+            0,
+            "Listening to news on them is really much less popular"
+          ]
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Digging down further, we find that:"
+        ]
+      ]
+    ],
+    [
+      3,
+      "ul",
+      [
+        [
+          [
+            0,
+            [],
+            0,
+            "Smart speaker usage has doubled over the last year in the three analysed countries: the US, the UK and Germany. In the UK, about 1 in 10 households has one"
+          ]
+        ],
+        [
+          [
+            0,
+            [],
+            0,
+            "People do use them for news - but not frequently, and they don't seem satisfied by the experience"
+          ]
+        ],
+        [
+          [
+            0,
+            [],
+            0,
+            "Length seems to be a major issue - 5 minutes seems to be too long, with some people expressing a desire for one minute bulletins - as long as they are regularly updated"
+          ]
+        ],
+        [
+          [
+            0,
+            [],
+            0,
+            "There's a huge incumbent advantage — whichever news provider is set to the default for the speaker ends up dominating, because people rarely change their settings (this is tied to the discovery problems voice platforms have). The BBC is winning the UK because of this"
+          ]
+        ],
+        [
+          [
+            0,
+            [],
+            0,
+            "Podcasts haven't really got traction on the devices yet. This could be a discovery issue, or it could be that podcasts lend themselves more naturally to phone consumption while on the go"
+          ]
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "In short - it's a growing market, and one that bears watching — but you shouldn't necessarily feel pressured to be there right now. Your strategic development resources might well be better invested in more mature platforms."
+        ]
+      ]
+    ],
+    [
+      1,
+      "h3",
+      [
+        [
+          0,
+          [],
+          0,
+          "The future of the voice interface"
+        ]
+      ]
+    ],
+    [
+      10,
+      1
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "The growth of this field as a news market may well be dependent on two things, based on the report's findings:"
+        ]
+      ]
+    ],
+    [
+      3,
+      "ul",
+      [
+        [
+          [
+            0,
+            [],
+            0,
+            "Voice platforms finding a solution to the discovery issues"
+          ]
+        ],
+        [
+          [
+            0,
+            [],
+            0,
+            "What people actually end up using voice "
+          ],
+          [
+            0,
+            [
+              0
+            ],
+            1,
+            "for"
+          ]
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Let's address the latter point first. It's worth noting that new interfaces rarely replace old interfaces, but instead tend to be additive. The mouse added to the keyboard. Touch displaces the mouse, but the keyboard is still in play on touch devices. Voice is likely to come into play when you are issuing simple commands, or requesting simple information. For example, one key use of speakers is to control connected home devices. If you've filled your home with smart light bulbs, it's much easier to ask a speaker to dim the lights, or change their colour, than it is to mess around with an app. "
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "(I'm inclined to think Apple might actually be on to something with their approach of making a high quality speaker with voice built in. The HomePod is the most used device in our house — we also have an Amazon Echo and a Google Home — but mainly as a smart music system, and especially by my 6 year old daughter. My 3 year old would use it more, but her voice is still too young and high pitched to be detected and recognized reliably.)"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "However, the report does highlight some interesting ways forwards. The suggestion that you might extrapolate Quartz's interesting chat interface for news into a more interactive voice-based news experience is quite compelling:  "
+        ]
+      ]
+    ],
+    [
+      1,
+      "blockquote",
+      [
+        [
+          0,
+          [],
+          0,
+          "The US publisher Quartz has been experimenting with short question and answer text formats in its mobile app, but it may be that voice will ultimately be a more satisfying – or just an additional – output. Ultimately these formats could be applied to any number of news and current affairs subjects but success will require platforms and publishers to work together over time both to create valuable experiences and to educate users. "
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "It could be that we're in the \"shovelware\" stage of development for the platform. People are pushing variations on the traditional radio bulletin format onto the platform, while what might actually prove more compelling is a more interactive experience that you can navigate with you voice: the speaker offers you a limited, curated choice of top stories and you pick and choose what you want to hear. "
+        ]
+      ]
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Challenges and opportunities"
+        ]
+      ]
+    ],
+    [
+      10,
+      2
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "If you have the time, resources and will to experiment in this area there could be a first mover advantage - unless the incumbency factor proves too strong. And the whole question of monetisation has been dodged so far. "
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Even worse, the report makes it plain that all three main smart speaker vendors are not providing useful analytics about consumption levels. In particular, they are not disclosing any sort of useful contextual data that would allow publishers to assess how successful their offering had actually been. "
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "That said, "
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "The Guardian"
+        ],
+        [
+          0,
+          [],
+          0,
+          " has taken an interesting approach: "
+        ]
+      ]
+    ],
+    [
+      1,
+      "blockquote",
+      [
+        [
+          0,
+          [],
+          0,
+          "The Guardian is using Google funding to run a Voice Lab for six months (from November 2018).12 A product and editorial team of four will test a range of propositions around synthesised voices and interactive formats. The team will manage a weekly blog where they share learning with the rest of the industry and useful code that emerges will be open-sourced.\t\t\t\t\t\t\t\t\t\t\t\t"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "I'd recommend watching that experiment with interest. "
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [
+            0
+          ],
+          0,
+          "You can grab the whole report "
+        ],
+        [
+          0,
+          [
+            1
+          ],
+          1,
+          "from the Reuters site"
+        ],
+        [
+          0,
+          [],
+          1,
+          "."
+        ]
+      ]
+    ]
+  ],
+  "ghostVersion": "3.0"
+}

@@ -1,0 +1,464 @@
+{
+  "version": "0.3.1",
+  "atoms": [],
+  "cards": [
+    [
+      "hr",
+      {}
+    ],
+    [
+      "image",
+      {
+        "src": "__GHOST_URL__/content/images/2020/04/hoonifox-use.jpg",
+        "cardWidth": "wide",
+        "alt": "<img src=\"hoonifox-use.jpg\" alt=\"Ken Block debuted new Hoonifox concept for his latest creation\">"
+      }
+    ],
+    [
+      "embed",
+      {
+        "url": "https://www.youtube.com/watch?v=6DCY9n-Sdtc&feature=emb_logo",
+        "html": "<iframe width=\"480\" height=\"270\" src=\"https://www.youtube.com/embed/6DCY9n-Sdtc?feature=oembed\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+        "type": "video"
+      }
+    ],
+    [
+      "gallery",
+      {
+        "images": [
+          {
+            "fileName": "hoonifox-above.jpg",
+            "row": 0,
+            "width": 980,
+            "height": 551,
+            "src": "__GHOST_URL__/content/images/2020/04/hoonifox-above-1.jpg"
+          },
+          {
+            "fileName": "hoonifox-blower.jpeg",
+            "row": 0,
+            "width": 875,
+            "height": 492,
+            "src": "__GHOST_URL__/content/images/2020/04/hoonifox-blower.jpeg"
+          },
+          {
+            "fileName": "hoonifox-camo-2.jpeg",
+            "row": 0,
+            "width": 875,
+            "height": 492,
+            "src": "__GHOST_URL__/content/images/2020/04/hoonifox-camo-2.jpeg"
+          },
+          {
+            "fileName": "hoonifox-front.jpg",
+            "row": 1,
+            "width": 980,
+            "height": 551,
+            "src": "__GHOST_URL__/content/images/2020/04/hoonifox-front-1.jpg"
+          },
+          {
+            "fileName": "hoonifox-rad.jpeg",
+            "row": 1,
+            "width": 875,
+            "height": 492,
+            "src": "__GHOST_URL__/content/images/2020/04/hoonifox-rad.jpeg"
+          },
+          {
+            "fileName": "hoonifox-rear-three-quarters.jpg",
+            "row": 1,
+            "width": 980,
+            "height": 551,
+            "src": "__GHOST_URL__/content/images/2020/04/hoonifox-rear-three-quarters-1.jpg"
+          },
+          {
+            "fileName": "hoonifox-stealth.jpeg",
+            "row": 2,
+            "width": 875,
+            "height": 492,
+            "src": "__GHOST_URL__/content/images/2020/04/hoonifox-stealth.jpeg"
+          },
+          {
+            "fileName": "hoonifox-use.jpg",
+            "row": 2,
+            "width": 980,
+            "height": 551,
+            "src": "__GHOST_URL__/content/images/2020/04/hoonifox-use-2.jpg"
+          },
+          {
+            "fileName": "hoonifox-white-2.jpeg",
+            "row": 2,
+            "width": 875,
+            "height": 492,
+            "src": "__GHOST_URL__/content/images/2020/04/hoonifox-white-2.jpeg"
+          }
+        ],
+        "caption": ""
+      }
+    ],
+    [
+      "bookmark",
+      {
+        "url": "__GHOST_URL__/articles/handpicked/1993-mustang-feature-car/",
+        "metadata": {
+          "url": "__GHOST_URL__/articles/handpicked/1993-mustang-feature-car/",
+          "title": "Cruise Into The Sunset With A Rare 1993 Ford Mustang LX ’Vert Feature Car",
+          "description": "Rollin’ in your 5.0 with the drop-top down so your hair can blow.",
+          "author": "Amie Williams",
+          "publisher": "Motorious",
+          "thumbnail": "__GHOST_URL__/content/images/2020/04/1993-ford-mustang-feature-1.jpeg",
+          "icon": "__GHOST_URL__/favicon.png"
+        }
+      }
+    ],
+    [
+      "bookmark",
+      {
+        "url": "__GHOST_URL__/articles/news/ebay-7up-mustang/",
+        "metadata": {
+          "url": "__GHOST_URL__/articles/news/ebay-7up-mustang/",
+          "title": "eBay Find: A Rare 1990 Ford Mustang Special 7-Up Edition",
+          "description": "This special-edition Fox-body Mustang is looking for a new place to call home.",
+          "author": "Amie Williams",
+          "publisher": "Motorious",
+          "thumbnail": "__GHOST_URL__/content/images/2020/04/1990-mustang-3-2.jpg",
+          "icon": "__GHOST_URL__/favicon.png"
+        }
+      }
+    ]
+  ],
+  "markups": [
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/articles/handpicked/1965-ford-mustang-fastback-project-car/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/articles/handpicked/1967-mustang-super-snake/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/articles/news/1973-ford-mustang-pulled-from-water/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/articles/news/heres-the-muscle-car-batmobile/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/articles/news/revenge-mustang-gt/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/articles/news/watch-a-ford-mustang-cobra-r-review/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/articles/news/lambo-countach-sale/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://buy.motorious.com/vehicles/search/Ford/Mustang"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.roadandtrack.com/new-cars/a32330901/ken-block-hoonifox-foxbody-mustang-pictures/?utm_source=facebook&utm_medium=social-media&utm_campaign=socialflowR%26T"
+      ]
+    ]
+  ],
+  "sections": [
+    [
+      1,
+      "h3",
+      [
+        [
+          0,
+          [],
+          0,
+          "Meet the Hoonifox."
+        ]
+      ]
+    ],
+    [
+      10,
+      0
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Ken Block is at it again. We can always count on this Hoonigan to build the most creative and insane rally cars that have a style that can be described as, well, Ken Block. Behind the wheel of the insane builds in his internet-breaking Gymkhana series, the former rally driver shows off incredible driving ability while attempting all kinds of crazy and almost-impossible stunts all while looking like a work of art. Sometimes we wonder how the man is still alive as he always seems to tempt fate as his nail-biting escapades are wilder with each video released. Things just got crazier as Block has just introduced his newest "
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "project"
+        ],
+        [
+          0,
+          [],
+          0,
+          " based off the Fox-body "
+        ],
+        [
+          0,
+          [
+            1
+          ],
+          1,
+          "Mustang"
+        ],
+        [
+          0,
+          [],
+          0,
+          ", and man, does it look rad. Meet the Hoonifox."
+        ]
+      ]
+    ],
+    [
+      10,
+      1
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "This new Fox project was inspired by Block's Hoonicorn, the wide-body 1966 "
+        ],
+        [
+          0,
+          [
+            2
+          ],
+          1,
+          "Ford Mustang"
+        ],
+        [
+          0,
+          [],
+          0,
+          " equipped with all-wheel-drive. Of course, the new car will have a \"rally-spec\" all-wheel drive. Exterior-wise, we can see the boxed fenders, several air scoops, louvers galore, a massive rear wing, and a side-exit exhaust. "
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "The design was a collaborative effort between Ken and Ash Thorp, the brainchild behind Block's Ford Escort RS Cossie V2 and the all-new "
+        ],
+        [
+          0,
+          [
+            3
+          ],
+          1,
+          "Batmobile"
+        ],
+        [
+          0,
+          [],
+          0,
+          ". Block and Thorp teamed up to create the latest and most insane car yet, and we can't wait to see it in real-life form. "
+        ]
+      ]
+    ],
+    [
+      10,
+      2
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Block has yet to decide what he plans to stuff under the hood of this insane "
+        ],
+        [
+          0,
+          [
+            4
+          ],
+          1,
+          "Mustang"
+        ],
+        [
+          0,
+          [],
+          0,
+          ", but he has a few options in mind. One of those candidates is the EcoBoost V6 engine, which also powers his Hoonitruck with a pavement-stomping 914-horsepower. Another option is a Roush Yates-built V8 engine that can also be found in his Hoonicorn V1. The last version is a different route altogether, as it is the electric drivetrain used in the Mustang Mach-E. Which one do you think he should go with? Of course, this is still a concept, but big moves are being made."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Ken Block decided to use the Fox-body "
+        ],
+        [
+          0,
+          [
+            5
+          ],
+          1,
+          "Mustang"
+        ],
+        [
+          0,
+          [],
+          0,
+          " for his next build because of his love for the '80s. Since the '66 Mustang was so much fun to build, he figured that the Fox was just the next obvious choice for a new build. Even more, he said the "
+        ],
+        [
+          0,
+          [
+            6
+          ],
+          1,
+          "Lamborghini Contauch"
+        ],
+        [
+          0,
+          [],
+          0,
+          " is also an inspiration with the possibility of a white-on-white Fox "
+        ],
+        [
+          0,
+          [
+            7
+          ],
+          1,
+          "Mustang"
+        ],
+        [
+          0,
+          [],
+          0,
+          " and go full throttle Miami Vice style."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "“I absolutely want to build the Hoonifox,\" Block said in a statement. \"And do a Gymkhana video with it, of course. And, do it in an Eighties Miami Vice-style version if it. Down in Miami. There you have it—my current wish list!”"
+        ]
+      ]
+    ],
+    [
+      10,
+      3
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Ken Block in '80s Miami Vice style causing a smoke show in a retro-but-modern Fox-body Mustang. Now, that is something we can get onboard with. We will be waiting on the edge our seats for when we can see this rendering as a real-life Hoonifox."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Source: "
+        ],
+        [
+          0,
+          [
+            8
+          ],
+          1,
+          "Road & Track"
+        ]
+      ]
+    ],
+    [
+      1,
+      "h3",
+      [
+        [
+          0,
+          [],
+          0,
+          "More Car News Here..."
+        ]
+      ]
+    ],
+    [
+      10,
+      4
+    ],
+    [
+      10,
+      5
+    ],
+    [
+      1,
+      "p",
+      []
+    ]
+  ],
+  "ghostVersion": "3.0"
+}

@@ -1,0 +1,149 @@
+{
+  "version": "0.3.1",
+  "atoms": [],
+  "cards": [
+    [
+      "email-cta",
+      {
+        "showButton": true,
+        "showDividers": false,
+        "segment": "status:free",
+        "alignment": "center",
+        "html": "<p><strong><em>Please <a href=\"__GHOST_URL__/subscribe\">become a supporting subscriber</a>. You get exclusive podcasts, <a href=\"__GHOST_URL__/citizens-guide-to-holding-the-powerful-accountable/\">digital publications</a>, and live events – and you support this journalism.</em></strong></p>",
+        "buttonText": "Click Here To Upgrade",
+        "buttonUrl": "__GHOST_URL__/subscribe"
+      }
+    ],
+    [
+      "email-cta",
+      {
+        "showButton": true,
+        "showDividers": false,
+        "segment": "status:free",
+        "alignment": "center",
+        "html": "<p><em><strong>This is a short excerpt of </strong></em><strong>The Daily Poster</strong><em><strong>’s Weekend Reading List, which is <a href=\"__GHOST_URL__/weekend-reader-a-better-way-to-address-gas-prices/\">available to supporting subscribers here</a>. You can </strong></em><a href=\"__GHOST_URL__/subscribe\"><em><strong>click here</strong></em></a><em><strong> to become a </strong></em><strong>Daily Poster</strong><em><strong> supporting subscriber for $8 a month or $70 a year. When you subscribe, you are helping us do this reporting and hire more journalists.</strong></em></p>",
+        "buttonText": "Click Here To Upgrade",
+        "buttonUrl": "__GHOST_URL__/subscribe"
+      }
+    ]
+  ],
+  "markups": [
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/weekend-reader-a-better-way-to-address-gas-prices/"
+      ]
+    ],
+    [
+      "strong"
+    ]
+  ],
+  "sections": [
+    [
+      10,
+      0
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "As gas prices continue to spike, conservatives, and liberals alike have surfaced proposals to help address the sticker shock, such as offering tax rebates for drivers and suspending gas taxes. But as we highlight below in this edition of Weekend Reader, there is another promising solution that has yet to enter the national debate: “Pay people to get out of their cars.”"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Read all about it in "
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "this week’s Weekend Reader"
+        ],
+        [
+          0,
+          [],
+          0,
+          ", exclusively for supporting subscribers."
+        ]
+      ]
+    ],
+    [
+      1,
+      "h3",
+      [
+        [
+          0,
+          [
+            1
+          ],
+          0,
+          "Also In "
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "Today’s Weekend Reader"
+        ],
+        [
+          0,
+          [],
+          1,
+          ":"
+        ]
+      ]
+    ],
+    [
+      3,
+      "ul",
+      [
+        [
+          [
+            0,
+            [],
+            0,
+            "Goldman Sachs found an entirely legal way to profit from the war in Ukraine."
+          ]
+        ],
+        [
+          [
+            0,
+            [],
+            0,
+            "A small college’s outsized role in the war on public schools."
+          ]
+        ],
+        [
+          [
+            0,
+            [],
+            0,
+            "Highly infected poultry available at a grocery store near you!"
+          ]
+        ]
+      ]
+    ],
+    [
+      10,
+      1
+    ]
+  ],
+  "ghostVersion": "4.0"
+}

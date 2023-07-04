@@ -1,0 +1,1922 @@
+{
+  "version": "0.3.1",
+  "atoms": [
+    [
+      "soft-return",
+      "",
+      {}
+    ]
+  ],
+  "cards": [
+    [
+      "email",
+      {
+        "html": "<p>Friends:</p>"
+      }
+    ],
+    [
+      "button",
+      {
+        "alignment": "center",
+        "buttonText": "Become A Lever Leader Today",
+        "buttonUrl": "__GHOST_URL__/#/portal/account/plans"
+      }
+    ],
+    [
+      "product",
+      {
+        "productButtonEnabled": true,
+        "productRatingEnabled": true,
+        "productStarRating": 5,
+        "productImageSrc": "__GHOST_URL__/content/images/2022/08/Citizens-Guide-Mockup-1600x900-2-1.png",
+        "productTitle": "Learn All Our Investigative Tricks",
+        "productDescription": "<p>Score a copy of our<em><strong> Citizens’ Guide to Following the Money and Holding the Powerful Accountable</strong></em>, free with a paid subscription. The e-book gives you all the tools and tricks our reporting team uses to scrutinize power.</p>",
+        "productButton": "CLICK HERE TO GET YOUR COPY",
+        "productUrl": "__GHOST_URL__/citizens-guide/"
+      }
+    ],
+    [
+      "button",
+      {
+        "alignment": "center",
+        "buttonText": "Tip Jar",
+        "buttonUrl": "https://dailyposter.outpost.pub/ghost-integration/60818189ad12f332071054b8/tips"
+      }
+    ],
+    [
+      "email-cta",
+      {
+        "showButton": true,
+        "showDividers": true,
+        "segment": "status:free",
+        "alignment": "left",
+        "html": "<p>If you enjoyed the full Lever Weekly newsletter, consider <a href=\"__GHOST_URL__/membership/?utm_source=newsletter-email&amp;utm_medium=link&amp;utm_campaign=newsletter-upgrade\">becoming a paid supporting subscriber</a>. Not only do you directly finance critical journalism by <em>The Lever</em>, but you get great perks, like access to newsletters like this one that are usually not open to all.</p>",
+        "buttonText": "Upgrade Now",
+        "buttonUrl": "__GHOST_URL__/membership/?utm_source=newsletter-email&utm_medium=link&utm_campaign=newsletter-upgrade"
+      }
+    ],
+    [
+      "email-cta",
+      {
+        "showButton": true,
+        "showDividers": true,
+        "segment": "status:-free",
+        "alignment": "center",
+        "html": "",
+        "buttonText": "Click Here To Comment",
+        "buttonUrl": "__GHOST_URL__/lever-weekly-driving-the-narrative/#comments"
+      }
+    ],
+    [
+      "email",
+      {
+        "html": "<p><em><strong>Help us spread the word! </strong>Please forward this email to family and friends.</em></p><p><em><strong>Was this email forwarded to you? </strong><a href=\"https://levernews.com/membership/\">Sign up for free</a> to receive original reporting like this in your inbox every day.</em></p>"
+      }
+    ]
+  ],
+  "markups": [
+    [
+      "em"
+    ],
+    [
+      "strong"
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/buttigieg-pretends-hes-powerless-to-reduce-derailment-risks/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/bidens-doj-backing-norfolk-southern-case-to-block-lawsuits/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.nytimes.com/2023/02/17/opinion/ohio-train-derailment-safety-regulation.html"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/this-is-highway-robbery/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/the-corporate-campaign-to-greenwash-natural-gas/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/watch-and-share-our-videos-on-the-derailment-disaster/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/reminder-today-at-1pm-et-is-our-live-q-a-about-the-norfolk-southern-train-derailment/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/the-jfk-files-and-the-cia/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/children-of-men-w-chris-myers/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://podcasts.apple.com/us/podcast/the-ohio-train-disaster-a-tale-of-corporate/id1583132133?i=1000599729364"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.wnycstudios.org/podcasts/takeaway/segments/toxic-train-ohio-derail"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.wnycstudios.org/podcasts/otm/segments/ohio-train-derailment-reveals-structural-issues-on-the-media"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.democracynow.org/2023/2/14/east_palestine_ohio_train_crash"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.democracynow.org/2023/2/17/norfolk_southern_east_palestine_derailment"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://soundcloud.com/chapo-trap-house/bonus-ohio-toxic-train-disaster-feat-david-sirota?utm_source=twitter.com&utm_campaign=wtshare&utm_medium=widget&utm_content=https%253A%252F%252Fsoundcloud.com%252Fchapo-trap-house%252Fbonus-ohio-toxic-train-disaster-feat-david-sirota"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://majorityreportradio.com/2023/02/15/2-15-ohio-train-derailment-still-more-questions-than-answers-restaurant-union-busting-florida-book-banning-w-julia-rock-suzanne-nossel"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://thehill.com/hilltv/rising/3859249-rising-february-15-2023/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://kpfa.org/episode/upfront-feb-16-2023/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.kalw.org/show/your-call/2023-02-17/media-roundtable-the-norfolk-southern-train-derailment-in-oh-shines-a-light-on-the-industrys-history-of-fighting-safety-regulations"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://pod.link/1508202790/episode/618d0189f3ea71f6582235edeffee5c3"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://theinsurgents.substack.com/p/ep-150-the-ohio-train-derailment?utm_source=podcast-email%2Csubstack&publication_id=28705&post_id=102891641&utm_medium=email#details"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.shareable.net/podcasts/the-response-bomb-trains-and-death-plumes/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://twitter.com/DavidHughesTwit"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.mediamatters.org/cable-news/study-national-television-coverage-east-palestine-train-derailment-ignored-industry"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/rail-companies-blocked-safety-rules-before-ohio-derailment/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.huffpost.com/entry/ohio-train-disaster-deregulation-norfolk-southern_n_63ed16abe4b0255caaefab8a"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://newrepublic.com/post/170658/biden-officials-hesitate-update-rail-brake-guidelines-fear-pushback"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.thenation.com/article/society/buttigieg-palestine-train-disaster-paralysis-after-the-east-palestine-disaster-is-a-gift-to-hard-right/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/enviros-threaten-legal-action-if-buttigieg-doesnt-act/"
+      ]
+    ]
+  ],
+  "sections": [
+    [
+      10,
+      0
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "This is Lever Weekly, a recap of our work from the past week. If you only read one email from us all week, this should be it. "
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "The last week was one of the most notable for "
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "The Lever"
+        ],
+        [
+          0,
+          [],
+          0,
+          " to date. Below you will find a breakdown of our reporting, podcasts, videos, and live events that were critical to driving the national conversation in recent days. Following that, we are providing all subscribers with an original column this weekend, written by a member of "
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "The Lever"
+        ],
+        [
+          0,
+          [],
+          0,
+          ", connecting the dots on our coverage to deliver important takeaways."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "In this week’s column, Andrew Perez recaps how "
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "The Lever"
+        ],
+        [
+          0,
+          [],
+          0,
+          "’s investigative reporting team helped drive substantially better news coverage of Norfolk Southern’s hazardous train derailment in eastern Ohio. "
+        ],
+        [
+          0,
+          [
+            1
+          ],
+          1,
+          "(Scroll to the bottom to read the column.)"
+        ]
+      ]
+    ],
+    [
+      1,
+      "h3",
+      [
+        [
+          0,
+          [],
+          0,
+          "Stuff The Lever Reported This Week:"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "• "
+        ],
+        [
+          0,
+          [
+            2,
+            1
+          ],
+          2,
+          "Buttigieg Pretends He’s Powerless To Reduce Derailment Risks"
+        ],
+        [
+          0,
+          [],
+          0,
+          " —"
+        ],
+        [
+          0,
+          [
+            1
+          ],
+          1,
+          " "
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "Facing pressure to act, America’s chief rail regulator now insists he is “constrained.” He’s not."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "• "
+        ],
+        [
+          0,
+          [
+            1,
+            3
+          ],
+          1,
+          "Biden DOJ Backing Norfolk Southern’s Bid To Block Lawsuits"
+        ],
+        [
+          0,
+          [],
+          1,
+          " "
+        ],
+        [
+          0,
+          [],
+          0,
+          "— The company whose train derailed in Ohio is asking the Supreme Court to kill a suit by a sick rail worker — and help the firm block future lawsuits."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "•"
+        ],
+        [
+          0,
+          [
+            1
+          ],
+          0,
+          " "
+        ],
+        [
+          0,
+          [
+            4
+          ],
+          2,
+          "Over 1,000 Trains Derail Every Year in America. Let’s Bring That Number Down"
+        ],
+        [
+          0,
+          [],
+          0,
+          " (The New York Times) — The Lever "
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "team weighs in on how politicians of both parties helped lobbyists weaken rail safety rules in the lead up to the Ohio disaster."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "• "
+        ],
+        [
+          0,
+          [
+            5,
+            1
+          ],
+          2,
+          "“This Is Highway Robbery”"
+        ],
+        [
+          0,
+          [],
+          0,
+          " — "
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "After preying on nursing home residents, cost-cutting investor firms are going after “wellness housing” for healthy seniors."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "• "
+        ],
+        [
+          0,
+          [
+            6,
+            1
+          ],
+          2,
+          "The Corporate Campaign To Greenwash Natural Gas"
+        ],
+        [
+          0,
+          [],
+          0,
+          " — "
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "Fossil fuel-backed Democrats and Republicans are teaming up to promote natural gas as a clean energy source and maintain its use."
+        ]
+      ]
+    ],
+    [
+      1,
+      "h3",
+      [
+        [
+          0,
+          [],
+          0,
+          "Stuff To Watch & Listen To:"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "• "
+        ],
+        [
+          0,
+          [
+            7,
+            1
+          ],
+          2,
+          "Watch And Share Our Videos On The Derailment Disaster"
+        ],
+        [
+          0,
+          [],
+          0,
+          " — "
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "Videos from "
+        ],
+        [
+          0,
+          [],
+          0,
+          "The Lever "
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "expand on our reporting on the Norfolk Southern train derailment in East Palestine, Ohio."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "• "
+        ],
+        [
+          0,
+          [
+            8,
+            1
+          ],
+          2,
+          "LEVER LIVE: Q&A About The Norfolk Southern Train Derailment"
+        ],
+        [
+          0,
+          [],
+          0,
+          " — The Lever "
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "team breaks down their blockbuster reporting on Norfolk Southern’s Ohio derailment disaster."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "• "
+        ],
+        [
+          0,
+          [
+            9,
+            1
+          ],
+          2,
+          "LEVER TIME: The JFK Files And The CIA"
+        ],
+        [
+          0,
+          [],
+          0,
+          " — "
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "David speaks to an expert on the JFK assassination."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "• "
+        ],
+        [
+          0,
+          [
+            10,
+            1
+          ],
+          2,
+          "MOVIES VS. CAPITALISM: Children of Men (w/ Chris Myers)"
+        ],
+        [
+          0,
+          [],
+          0,
+          " — "
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "On our new pop culture podcast"
+        ],
+        [
+          0,
+          [],
+          0,
+          ", "
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "the team discusses Alfonso Cuarón's 2006 dystopian masterpiece, "
+        ],
+        [
+          0,
+          [],
+          0,
+          "Children of Men"
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "."
+        ]
+      ]
+    ],
+    [
+      1,
+      "h3",
+      [
+        [
+          0,
+          [],
+          0,
+          "Our Media Appearances This Week:"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "• "
+        ],
+        [
+          0,
+          [
+            1
+          ],
+          1,
+          "The Problem With Jon Stewart: "
+        ],
+        [
+          0,
+          [
+            11
+          ],
+          1,
+          "The Ohio Train Disaster: A Tale of Corporate Greed and Civil War-Era Brakes"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "• "
+        ],
+        [
+          0,
+          [
+            1
+          ],
+          1,
+          "The Takeaway: "
+        ],
+        [
+          0,
+          [
+            12
+          ],
+          1,
+          "Could Ohio's Toxic Train Disaster Have Been Prevented?"
+        ],
+        [
+          1,
+          [],
+          0,
+          0
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "• "
+        ],
+        [
+          0,
+          [
+            1
+          ],
+          1,
+          "On The Media"
+        ],
+        [
+          0,
+          [],
+          0,
+          ": "
+        ],
+        [
+          0,
+          [
+            13
+          ],
+          1,
+          "An Ohio Train Derailment Reveals Structural Issues"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "• "
+        ],
+        [
+          0,
+          [
+            1
+          ],
+          1,
+          "Democracy Now!"
+        ],
+        [
+          0,
+          [],
+          0,
+          ": "
+        ],
+        [
+          0,
+          [
+            14
+          ],
+          1,
+          "“Bomb Train” in Ohio Sickens Residents After Railroad Cutbacks, Corporate Greed Led to Toxic Disaster"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "• "
+        ],
+        [
+          0,
+          [
+            1
+          ],
+          1,
+          "Democracy Now!"
+        ],
+        [
+          0,
+          [],
+          0,
+          ": "
+        ],
+        [
+          0,
+          [
+            15
+          ],
+          1,
+          "Corporate Greed and Deregulation Fuel Threat of More Bomb Trains As East Palestine Demands Answers"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "• "
+        ],
+        [
+          0,
+          [
+            1
+          ],
+          1,
+          "Chapo Trap House"
+        ],
+        [
+          0,
+          [],
+          0,
+          ": "
+        ],
+        [
+          0,
+          [
+            16
+          ],
+          1,
+          "Ohio Toxic Train Disaster Feat. David Sirota"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "• "
+        ],
+        [
+          0,
+          [
+            1
+          ],
+          1,
+          "The Majority Report"
+        ],
+        [
+          0,
+          [],
+          0,
+          ": "
+        ],
+        [
+          0,
+          [
+            17
+          ],
+          1,
+          "Ohio Train Derailment: Still More Questions Than Answers; Restaurant Union Busting"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "• "
+        ],
+        [
+          0,
+          [
+            1
+          ],
+          1,
+          "Rising"
+        ],
+        [
+          0,
+          [],
+          0,
+          ": "
+        ],
+        [
+          0,
+          [
+            18
+          ],
+          1,
+          "Biden Admin's 'Wishy-Washy' Ohio Train Disaster Response Slammed By Critics"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "•"
+        ],
+        [
+          0,
+          [
+            1
+          ],
+          1,
+          " KPFA UpFront"
+        ],
+        [
+          0,
+          [],
+          0,
+          ": "
+        ],
+        [
+          0,
+          [
+            19
+          ],
+          1,
+          "East Palestine Derailment Chemical Safety"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "• "
+        ],
+        [
+          0,
+          [
+            1
+          ],
+          1,
+          "Your Call"
+        ],
+        [
+          0,
+          [],
+          0,
+          ": "
+        ],
+        [
+          0,
+          [
+            20
+          ],
+          1,
+          "The Norfolk Southern Train Derailment In OH Shines A Light On The Industry’s History Of Fighting Safety Regulations"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "• "
+        ],
+        [
+          0,
+          [
+            1
+          ],
+          1,
+          "The New Abnormal By The Daily Beast"
+        ],
+        [
+          0,
+          [],
+          0,
+          ":"
+        ],
+        [
+          0,
+          [
+            1
+          ],
+          1,
+          " "
+        ],
+        [
+          0,
+          [
+            21
+          ],
+          1,
+          "The DOJ Is Coming for Donald Trump Quicker Than Ever"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "• "
+        ],
+        [
+          0,
+          [
+            1
+          ],
+          1,
+          "The Insurgents"
+        ],
+        [
+          0,
+          [],
+          0,
+          ":"
+        ],
+        [
+          0,
+          [
+            1
+          ],
+          1,
+          " "
+        ],
+        [
+          0,
+          [
+            22
+          ],
+          1,
+          "The Ohio Train Derailment Ft. Matthew Cunningham-Cook"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "• "
+        ],
+        [
+          0,
+          [
+            1
+          ],
+          1,
+          "The Response"
+        ],
+        [
+          0,
+          [],
+          0,
+          ": "
+        ],
+        [
+          0,
+          [
+            23
+          ],
+          1,
+          "Bomb Trains And Death Plumes With Rebecca Burns"
+        ]
+      ]
+    ],
+    [
+      1,
+      "h3",
+      [
+        [
+          0,
+          [
+            1
+          ],
+          1,
+          "Thank You To Our Newest Lever Leaders"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Lever Leaders provide us with our highest level of support and score additional perks in return. Thank you to the following subscribers for stepping up and becoming Lever Leaders in the last week!"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "• "
+        ],
+        [
+          0,
+          [
+            1
+          ],
+          1,
+          "Vince Gomez: "
+        ],
+        [
+          0,
+          [],
+          0,
+          "“I want to help amplify and support the great work you are doing at "
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "The Lever."
+        ],
+        [
+          0,
+          [],
+          0,
+          "”"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "• "
+        ],
+        [
+          0,
+          [
+            1
+          ],
+          1,
+          "Michael C.: "
+        ],
+        [
+          0,
+          [],
+          0,
+          "“Mainstream media has proven itself entirely untrustworthy so I turn to "
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "The Lever "
+        ],
+        [
+          0,
+          [],
+          0,
+          "as one of the few news sources I can trust.”"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "• "
+        ],
+        [
+          0,
+          [
+            1
+          ],
+          1,
+          "Vinnie Bacon:"
+        ],
+        [
+          0,
+          [],
+          0,
+          " “We desperately need this kind of independent, investigative reporting!”"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "• "
+        ],
+        [
+          0,
+          [
+            24,
+            1
+          ],
+          2,
+          "@DavidHughesTwit"
+        ],
+        [
+          0,
+          [
+            1
+          ],
+          1,
+          ": "
+        ],
+        [
+          0,
+          [],
+          0,
+          "“Corporate media's hegemony must end!”"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "• "
+        ],
+        [
+          0,
+          [
+            1
+          ],
+          1,
+          "Jeff Rousset: "
+        ],
+        [
+          0,
+          [],
+          0,
+          "“"
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "The Lever "
+        ],
+        [
+          0,
+          [],
+          0,
+          "provides critical coverage to expose corporate power and strengthen working class people power!”"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "• "
+        ],
+        [
+          0,
+          [
+            1
+          ],
+          1,
+          "Mugly Wumple: "
+        ],
+        [
+          0,
+          [],
+          0,
+          "“Independent news isn't free, isn't easy. Don't be fooled by the half-truths of BigCorp reporting.”"
+        ]
+      ]
+    ],
+    [
+      10,
+      1
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [
+            0,
+            1
+          ],
+          1,
+          "NOTE:"
+        ],
+        [
+          0,
+          [],
+          1,
+          " You must be logged in to LeverNews.com when you click the button above to upgrade."
+        ]
+      ]
+    ],
+    [
+      1,
+      "h3",
+      [
+        [
+          0,
+          [],
+          0,
+          "Driving The National Narrative"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "By Andrew Perez"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "In the days after Norfolk Southern’s fiery train derailment in East Palestine, Ohio, corporate media outlets "
+        ],
+        [
+          0,
+          [
+            25
+          ],
+          1,
+          "largely ignored"
+        ],
+        [
+          0,
+          [],
+          0,
+          " the real story, covering it as some random accident rather than the inevitable byproduct of the railroad industry’s emphasis on rewarding shareholders over public safety."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Two weeks later, that’s no longer the case — and that’s because "
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "The Lever "
+        ],
+        [
+          0,
+          [],
+          0,
+          "team has been churning out powerful investigative story after story, providing necessary context about the lax regulatory environment and earnings-obsessed corporate culture that created the right conditions for this type of avoidable, toxic disaster."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "First, we revealed how Norfolk Southern and the railroad industry "
+        ],
+        [
+          0,
+          [
+            26
+          ],
+          1,
+          "watered down and then killed"
+        ],
+        [
+          0,
+          [],
+          0,
+          " regulations mandating that railroads start replacing the Civil War-era braking systems on some hazmat trains with electronic brakes that experts say could have averted or mitigated the Ohio derailment."
+        ]
+      ]
+    ],
+    [
+      10,
+      2
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "And we revealed that the Ohio train wasn’t being regulated as a \"high-hazard flammable train,” thanks to a chemical industry lobbying campaign — even though the train was hauling huge amounts of flammable, carcinogenic chemicals that necessitated local evacuations. Crews ultimately chose to release and burn those chemicals, creating a toxic mushroom cloud over eastern Ohio, instead of allowing the tank cars holding them to explode."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Our reporting helped shift the narrative and drive national coverage. As "
+        ],
+        [
+          0,
+          [
+            27,
+            0
+          ],
+          1,
+          "HuffPost"
+        ],
+        [
+          0,
+          [],
+          1,
+          " put it"
+        ],
+        [
+          0,
+          [],
+          0,
+          ", “The railroad industry’s history of fighting stricter safety regulations, which investigative news outlet "
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "The Lever"
+        ],
+        [
+          0,
+          [],
+          0,
+          " first reported last week, is taking center stage in the wake of a fiery derailment of a Norfolk Southern train in rural eastern Ohio.”"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "The Lever"
+        ],
+        [
+          0,
+          [],
+          0,
+          "’s reporters fielded nonstop interview requests this week — appearing on shows ranging from "
+        ],
+        [
+          0,
+          [
+            11
+          ],
+          1,
+          "The Problem with Jon Stewart"
+        ],
+        [
+          0,
+          [],
+          0,
+          " and "
+        ],
+        [
+          0,
+          [
+            15
+          ],
+          1,
+          "Democracy Now!"
+        ],
+        [
+          0,
+          [],
+          0,
+          ", to "
+        ],
+        [
+          0,
+          [
+            13
+          ],
+          1,
+          "On The Media"
+        ],
+        [
+          0,
+          [],
+          0,
+          ". They were even asked to write a "
+        ],
+        [
+          0,
+          [
+            4,
+            0
+          ],
+          1,
+          "New York Times"
+        ],
+        [
+          0,
+          [],
+          1,
+          " column"
+        ],
+        [
+          0,
+          [],
+          0,
+          " about what can be done to improve rail safety."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Our team managed to fit in all of these appearances as they continued to work around the clock reporting more stories — like one about how the Biden administration "
+        ],
+        [
+          0,
+          [
+            3
+          ],
+          1,
+          "has backed Norfolk Southern’s fight"
+        ],
+        [
+          0,
+          [],
+          0,
+          " at the Supreme Court to shut down lawsuits."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Our reporting forced "
+        ],
+        [
+          0,
+          [
+            28
+          ],
+          1,
+          "White House officials"
+        ],
+        [
+          0,
+          [],
+          0,
+          " and "
+        ],
+        [
+          0,
+          [
+            2
+          ],
+          1,
+          "Transportation Secretary Pete Buttigieg"
+        ],
+        [
+          0,
+          [],
+          0,
+          " to respond. Unfortunately, instead of pressing right now to markedly improve rail safety standards, they’ve stumbled to explain why they’re not doing that — "
+        ],
+        [
+          0,
+          [
+            29
+          ],
+          1,
+          "giving the far right an opportunity"
+        ],
+        [
+          0,
+          [],
+          0,
+          " to push their own false and dangerous narratives."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Environmental groups have said they "
+        ],
+        [
+          0,
+          [
+            30
+          ],
+          1,
+          "may take legal action"
+        ],
+        [
+          0,
+          [],
+          0,
+          " if the Transportation Department doesn’t act on the groups’ appeal of the Trump administration’s decision to overturn the brake rule."
+        ]
+      ]
+    ],
+    [
+      10,
+      3
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "The point of the journalism we do here at "
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "The Lever"
+        ],
+        [
+          0,
+          [],
+          0,
+          " is to report important stories that aren’t told in corporate media, and to create the right conditions moving forward so that the public can hold politicians and powerful interests accountable."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "We don’t know yet what will happen with the railroads — and whether politicians and regulators will finally force them to get their act together and prioritize public safety over short-term profits. It’s hard to imagine that prospect, but it’s with that hope that we do the work."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "For now, we are grateful that people are paying attention and asking the right questions — and we’ll keep doing what we do best: exposing how corporate interests influence policy to the detriment of people like the residents of East Palestine, Ohio, and all around the globe."
+        ]
+      ]
+    ],
+    [
+      10,
+      4
+    ],
+    [
+      10,
+      5
+    ],
+    [
+      10,
+      6
+    ],
+    [
+      1,
+      "p",
+      []
+    ]
+  ],
+  "ghostVersion": "4.0"
+}

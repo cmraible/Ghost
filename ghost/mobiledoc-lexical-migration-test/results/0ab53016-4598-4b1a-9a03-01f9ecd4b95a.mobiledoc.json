@@ -1,0 +1,922 @@
+{
+  "version": "0.3.1",
+  "atoms": [],
+  "cards": [
+    [
+      "hr",
+      {}
+    ],
+    [
+      "embed",
+      {
+        "url": "https://www.youtube.com/watch?time_continue=24&v=ERP3cWY03SU&feature=emb_title",
+        "html": "<iframe width=\"612\" height=\"344\" src=\"https://www.youtube.com/embed/ERP3cWY03SU?feature=oembed\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+        "type": "video",
+        "metadata": {
+          "thumbnail_width": 480,
+          "author_url": "https://www.youtube.com/user/MonsterWorldRally",
+          "height": 344,
+          "author_name": "Ken Block",
+          "title": "Ken Block's Entire Fleet Gets NEW Wheels - Full Tour!",
+          "provider_name": "YouTube",
+          "version": "1.0",
+          "thumbnail_url": "https://i.ytimg.com/vi/ERP3cWY03SU/hqdefault.jpg",
+          "provider_url": "https://www.youtube.com/",
+          "thumbnail_height": 360,
+          "width": 612
+        }
+      }
+    ],
+    [
+      "image",
+      {
+        "src": "__GHOST_URL__/content/images/2020/08/1986-ford-rs200.png",
+        "width": 1232,
+        "height": 762,
+        "cardWidth": "wide",
+        "caption": "1986 Ford RS200"
+      }
+    ],
+    [
+      "image",
+      {
+        "src": "__GHOST_URL__/content/images/2020/08/1978-ford-escort.png",
+        "width": 1136,
+        "height": 748,
+        "cardWidth": "wide",
+        "caption": "1978 Ford Escort MK2 RS",
+        "alt": "<img src=\"1978-ford-escort.png\" alt=\"1978 Ford Escort MK2 RS\">"
+      }
+    ],
+    [
+      "image",
+      {
+        "src": "__GHOST_URL__/content/images/2020/08/2017-ford-raptor.png",
+        "width": 1266,
+        "height": 952,
+        "caption": "2017 SVC Off-Road Ford Raptor F-150",
+        "cardWidth": "wide",
+        "alt": "<img src=\"2017-ford-raptor.jpg\" alt=\"2017 Ford Raptor SVC with wide-body\">"
+      }
+    ],
+    [
+      "image",
+      {
+        "src": "__GHOST_URL__/content/images/2020/08/2017-raptor.png",
+        "width": 1950,
+        "height": 1414,
+        "cardWidth": "wide",
+        "alt": "<img src=\"2017-raptor.png\" alt=\"Ken Block's 2017 Ford Raptor\">",
+        "caption": "2017 Ford Raptor"
+      }
+    ],
+    [
+      "image",
+      {
+        "alt": "<img src=\"1994-cossie.png\" alt=\"1994 Ford Escort RS Cossie V2\">",
+        "caption": "1994 Ford Escort RS Cossie V2",
+        "src": "__GHOST_URL__/content/images/2020/08/1994-cossie.png",
+        "width": 2380,
+        "height": 1574,
+        "cardWidth": "wide"
+      }
+    ],
+    [
+      "image",
+      {
+        "alt": "<img src=\"1965-mustang.png\" alt=\"1965 Ford Mustang RTR - The Hoonicorn\">",
+        "caption": "1965 Ford Mustang RTR \"Hoonicorn\"",
+        "src": "__GHOST_URL__/content/images/2020/08/1965-mustang.png",
+        "width": 2084,
+        "height": 1544,
+        "cardWidth": "wide"
+      }
+    ],
+    [
+      "image",
+      {
+        "alt": "<img src=\"ford-fiesta.png\" alt=\"2015 Ford Fiesta RX43\">",
+        "src": "__GHOST_URL__/content/images/2020/08/ford-fiesta.png",
+        "width": 2096,
+        "height": 1532,
+        "caption": "2015 Ford Fiesta ST RX43",
+        "cardWidth": "wide"
+      }
+    ],
+    [
+      "image",
+      {
+        "alt": "<img src=\"1977-ford-truck.png\" alt=\"1977 Ford Truck F-150 Hoonitruck\">",
+        "src": "__GHOST_URL__/content/images/2020/08/1977-ford-truck.png",
+        "width": 2036,
+        "height": 1334,
+        "cardWidth": "wide",
+        "caption": "1977 Ford F-150 Hoonitruck"
+      }
+    ],
+    [
+      "image",
+      {
+        "alt": "<img src=\"ford-f450.png\" alt=\"2017 Ford Super Duty F-450 Lariat\">",
+        "src": "__GHOST_URL__/content/images/2020/08/ford-f450.png",
+        "width": 1634,
+        "height": 1024,
+        "caption": "2017 Ford Super Duty F-450 Lariat",
+        "cardWidth": "wide"
+      }
+    ],
+    [
+      "image",
+      {
+        "alt": "<img src=\"2020-explorer-st.png\" alt=\"2020 Ford Explorer ST\">",
+        "src": "__GHOST_URL__/content/images/2020/08/2020-explorer-st.png",
+        "width": 2108,
+        "height": 1452,
+        "caption": "2020 Ford Explorer ST",
+        "cardWidth": "wide"
+      }
+    ],
+    [
+      "image",
+      {
+        "alt": "<img src=\"2016-ford.png\" alt=\"2016 Ford Focus RS\">",
+        "src": "__GHOST_URL__/content/images/2020/08/2016-focus.png",
+        "width": 1936,
+        "height": 1532,
+        "cardWidth": "wide",
+        "caption": "2016 Ford Focus RS"
+      }
+    ],
+    [
+      "image",
+      {
+        "alt": "<img src=\"2019-can-am.png\" alt=\"2019 Can-Am Maverick X3 X RS\">",
+        "src": "__GHOST_URL__/content/images/2020/08/2019-can-am.png",
+        "width": 1428,
+        "height": 972,
+        "caption": "2019 Can-Am Maverick X3 X RS",
+        "cardWidth": "wide"
+      }
+    ],
+    [
+      "image",
+      {
+        "alt": "<img src=\"1974-bronco.png\" alt=\"1974 Ford Bronco\">",
+        "caption": "1974 Ford Bronco",
+        "src": "__GHOST_URL__/content/images/2020/08/1974-bronco.png",
+        "width": 2192,
+        "height": 1552,
+        "cardWidth": "wide"
+      }
+    ]
+  ],
+  "markups": [
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/articles/news/ken-block-hoonifox/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://digitalconcours.com/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.hoonigan.com/pages/carcaine?utm_source=duPont_Registry&utm_medium=duPont_Daily_Article&utm_campaign=kenblockwheels"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/articles/news/300-car-collection/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/articles/all/amazing-car-collection-is-hidden-in-tennessee/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://buy.motorious.com/articles/news/394358/all-wheel-drive-trans-am/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/articles/research/1965-ford-mustang/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/articles/news/1967-mustang-ringbrothers/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/articles/handpicked/1957-oldsmobile-super-88-fiesta-auction/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/articles/handpicked/73-years-of-ford-f-series-trucks/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://buy.motorious.com/articles/news/383994/1930-ford-model-aa-truck/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/articles/handpicked/1974-ford-bronco-original/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://buy.motorious.com/articles/news/380264/ford-bronco-heritage/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://buy.motorious.com/articles/news/380598/jay-lenos-68-bronco/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/articles/news/elon-musk-collection/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://blog.dupontregistry.com/celebrity-cars/see-ken-blocks-car-collection-as-he-announces-a-new-partnership/"
+      ]
+    ]
+  ],
+  "sections": [
+    [
+      1,
+      "h3",
+      [
+        [
+          0,
+          [],
+          0,
+          "One would expect the Hoonigan himself to have an insane amount of toys."
+        ]
+      ]
+    ],
+    [
+      10,
+      0
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "Ken Block"
+        ],
+        [
+          0,
+          [],
+          0,
+          " is the hoonigan we all know and love known for his insane antics while piloting a bunch of high-horsepower and "
+        ],
+        [
+          0,
+          [
+            1
+          ],
+          1,
+          "epic rides"
+        ],
+        [
+          0,
+          [],
+          0,
+          " in his Gymkhana series. Recently, Block announced a new partnership with Wheel Pros, the parent company of Rotiform, American Racing, Fuel Off-Road, Kinesis, and American Force. Ken will be teaming up with these brands to release signature designs such as KB1 wheels to be offered by Rotiform and The Block by Fuel Off-Road which will be available for pre-order this fall through "
+        ],
+        [
+          0,
+          [
+            2
+          ],
+          1,
+          "Carcaine Part Supply"
+        ],
+        [
+          0,
+          [],
+          0,
+          "'s website. In celebration of this new collaboration and partnership, Block decided to grab his "
+        ],
+        [
+          0,
+          [
+            3
+          ],
+          1,
+          "massive fleet of cars"
+        ],
+        [
+          0,
+          [],
+          0,
+          " and show off their new shoes."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "One would think they might know what Ken Block's fleet looks like if they keep up with Gymkhana, but it may go deeper than you think. Check out Ken's "
+        ],
+        [
+          0,
+          [
+            4
+          ],
+          1,
+          "amazing car"
+        ],
+        [
+          0,
+          [],
+          0,
+          " collection below."
+        ]
+      ]
+    ],
+    [
+      10,
+      1
+    ],
+    [
+      1,
+      "h3",
+      [
+        [
+          0,
+          [],
+          0,
+          "1986 Ford RS200"
+        ]
+      ]
+    ],
+    [
+      10,
+      2
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "One of Ken's pride and joys is this 1986 Ford RS200. Only one of 200 built, this particular car is equipped with a 2.1-liter turbocharged four-cylinder that is just one of 24. Of course, in true Ken Block fashion, this little Blue Oval makes over 800-horsepower. This "
+        ],
+        [
+          0,
+          [
+            5
+          ],
+          1,
+          "car"
+        ],
+        [
+          0,
+          [],
+          0,
+          " wears Ken's new KB1 wheels wrapped with Toyo R888 rubber. Interesting fact, the indentations and logos of the wheels can be color-changed. They will only be available on pre-order on Carcaine's website."
+        ]
+      ]
+    ],
+    [
+      1,
+      "h3",
+      [
+        [
+          0,
+          [],
+          0,
+          "1978 Ford Escort MK2 RS"
+        ]
+      ]
+    ],
+    [
+      10,
+      3
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "The car that Ken Block has owned the longest in the fleet is this 1978 Ford Escort MK2 RS that he purchased in 2008. The car features bodywork designed by Japanese artist Ken Muira/Rocket Bunny. Powered by a naturally aspirated 2.5-litre four-cylinder Millington with a redline of 9,000-rpm, this car makes 333-horsepower and 246 ft/lb of torque. KB2"
+        ]
+      ]
+    ],
+    [
+      1,
+      "h3",
+      [
+        [
+          0,
+          [],
+          0,
+          "2017 SVC Off-Road Ford Raptor "
+        ]
+      ]
+    ],
+    [
+      10,
+      4
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "This video was the official debut of Ken Block's 2017 SVC Off-Road Ford Raptor you see here. Powered by the Ford Performance twin-turbocharged 3.5-liter EcoBoost V6, this bad Ford truck features an SVC off-road tune and a brand new Borla exhaust. SVC made the truck wider, and the truck was also given a new suspension, 40-inch Open Country MTs, and features more lights. This one features a set of Ken's new wheels by Fuel Off-Road."
+        ]
+      ]
+    ],
+    [
+      1,
+      "h3",
+      [
+        [
+          0,
+          [],
+          0,
+          "2017 Ford F-150 Raptor"
+        ]
+      ]
+    ],
+    [
+      10,
+      5
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Another 2017 Ford Raptor pickup among the fleet is this one with a 3.5-liter V6 high output backed by a Select Shift 10-speed automatic transmission with an output of 450-horsepower and 510 lb/ft of torque. Of course, this truck also features a set of Ken's new Fuel Off-Road wheels."
+        ]
+      ]
+    ],
+    [
+      1,
+      "h3",
+      [
+        [
+          0,
+          [],
+          0,
+          "1994 Ford Escort RS Cossie V2"
+        ]
+      ]
+    ],
+    [
+      10,
+      6
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Here we have Ken's beloved 1994 Ford Escort RS Cossie V2 that makes 350-horsepower (restricted in rally spec) and is shifted via a Sadev 6-speed sequential transmission. "
+        ]
+      ]
+    ],
+    [
+      1,
+      "h3",
+      [
+        [
+          0,
+          [],
+          0,
+          "1965 Ford Mustang Hoonicorn RTR"
+        ]
+      ]
+    ],
+    [
+      10,
+      7
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Seen in Ken's most popular Gymkhana videos is this incredible "
+        ],
+        [
+          0,
+          [
+            6
+          ],
+          1,
+          "1965 Ford Mustang "
+        ],
+        [
+          0,
+          [],
+          0,
+          "RTR that we all know as the \"Hoonicorn\". Powered by a 410-cubic-inch V8 engine by Roush Yates and boosted by a set of Garrett twin turbos that protrude from the hood, this insane "
+        ],
+        [
+          0,
+          [
+            7
+          ],
+          1,
+          "Mustang"
+        ],
+        [
+          0,
+          [],
+          0,
+          " makes 1,400-horsepower and 1,250 lb/ft of torque. According to Ken, there are big plans for this car in the near future."
+        ]
+      ]
+    ],
+    [
+      1,
+      "h3",
+      [
+        [
+          0,
+          [],
+          0,
+          "2015 Ford Fiesta ST RX43"
+        ]
+      ]
+    ],
+    [
+      10,
+      8
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Ken's 2015 Ford "
+        ],
+        [
+          0,
+          [
+            8
+          ],
+          1,
+          "Fiesta"
+        ],
+        [
+          0,
+          [],
+          0,
+          " ST RX43 is a Garrett-turbocharged Pipo-designed four-cylinder mated to a Sadev 6-speed sequential transmission. This zippy little car has 600-horsepower and 650 ft/lb of torque and zips from 0 to 60 in less than two seconds. This is one of Ken Block's favorite cars."
+        ]
+      ]
+    ],
+    [
+      1,
+      "h3",
+      [
+        [
+          0,
+          [],
+          0,
+          "1977 Ford F-150 Hoonitruck"
+        ]
+      ]
+    ],
+    [
+      10,
+      9
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Another recognizable Gymkhana vehicle is the 1977 "
+        ],
+        [
+          0,
+          [
+            9
+          ],
+          1,
+          "Ford F-150"
+        ],
+        [
+          0,
+          [],
+          0,
+          " Hoonitruck. Powered by a Ford Performance Roush Yates V6 EcoBoost engine, the truck makes 914-horsepower and 702 ft/lb of torque. The "
+        ],
+        [
+          0,
+          [
+            10
+          ],
+          1,
+          "truck"
+        ],
+        [
+          0,
+          [],
+          0,
+          " features hand-hammered military-grade aluminum bodywork and currently is wearing Ken Block-designed set of wheels by Fuel."
+        ]
+      ]
+    ],
+    [
+      1,
+      "h3",
+      [
+        [
+          0,
+          [],
+          0,
+          "2017 Ford Super Duty F-450 Lariat"
+        ]
+      ]
+    ],
+    [
+      10,
+      10
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "A massive truck that Ken Block has proven to be \"drift-able\" but can also tow toys around is this 2017 Ford Super Duty F-450 Lariat. Powered by a turbocharged 6.7-liter Powerstroke V8 diesel engine, the truck makes 440-horsepower and 925 ft/lb of torque."
+        ]
+      ]
+    ],
+    [
+      1,
+      "h3",
+      [
+        [
+          0,
+          [],
+          0,
+          "2020 Explorer ST"
+        ]
+      ]
+    ],
+    [
+      10,
+      11
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "This brand new high-performance SUV has a twin-turbocharged 3.0-liter EcoBoost V6 with the 10-speed automatic with Select Shift capability. It has an output of 415-horsepower and 380 lb/ft of torque."
+        ]
+      ]
+    ],
+    [
+      1,
+      "h3",
+      [
+        [
+          0,
+          [],
+          0,
+          "2016 Ford Focus RS"
+        ]
+      ]
+    ],
+    [
+      10,
+      12
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Also in Ken's fleet is this 2016 Ford Focus RS with the factory 2.3-liter four-cylinder EcoBoost shifted by a 6-speed manual with an output of 350-horsepower and 350 ft/lb of torque. Ken Block played a role in the development of the all-wheel-drive Ford Focus RS."
+        ]
+      ]
+    ],
+    [
+      1,
+      "h3",
+      [
+        [
+          0,
+          [],
+          0,
+          "2019 Can-Am Maverick X3 X RS"
+        ]
+      ]
+    ],
+    [
+      10,
+      13
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Ken also owns a 2019 Can-Am Maverick X3 X RS with a Rotax Ace 900cc Turbocharged 3-cylinder engine with 154-horsepower and 113 lb/ft of torque. It also has Fox 2.5 Podium QS3 shocks."
+        ]
+      ]
+    ],
+    [
+      1,
+      "h3",
+      [
+        [
+          0,
+          [
+            11
+          ],
+          1,
+          "1974 Ford Bronco"
+        ]
+      ]
+    ],
+    [
+      10,
+      14
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Ken's 1974 "
+        ],
+        [
+          0,
+          [
+            12
+          ],
+          1,
+          "Ford Bronco"
+        ],
+        [
+          0,
+          [],
+          0,
+          " sitting among his fleet is actually powered by a 5.0-liter Coyote V8 engine and shifted via a 6R80 6-speed automatic transmission. The "
+        ],
+        [
+          0,
+          [
+            13
+          ],
+          1,
+          "Bronco"
+        ],
+        [
+          0,
+          [],
+          0,
+          " makes 435-horsepower at 6,500-rpm and 400 ft/lb of torque at 4,250-rpm."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "That concludes Ken Block's insane "
+        ],
+        [
+          0,
+          [
+            14
+          ],
+          1,
+          "car collection"
+        ],
+        [
+          0,
+          [],
+          0,
+          " now sporting his new signature wheels from Rotiform and Fuel Off-Road. From his Gymkhana super stars to modified trucks, Ken Block has quite an impressive fleet in his hands."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Source: "
+        ],
+        [
+          0,
+          [
+            15
+          ],
+          1,
+          "Dupont Registry"
+        ]
+      ]
+    ]
+  ],
+  "ghostVersion": "3.0"
+}

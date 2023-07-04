@@ -1,0 +1,239 @@
+{
+  "version": "0.3.1",
+  "atoms": [],
+  "cards": [
+    [
+      "email-cta",
+      {
+        "showButton": true,
+        "showDividers": false,
+        "segment": "status:-free",
+        "alignment": "center",
+        "html": "",
+        "buttonText": "Click Here To Access The Live Chat",
+        "buttonUrl": "__GHOST_URL__/live-chat-our-new-monthly-happy-hour-2/"
+      }
+    ],
+    [
+      "email-cta",
+      {
+        "showButton": true,
+        "showDividers": false,
+        "segment": "status:free",
+        "alignment": "center",
+        "html": "<p><strong><em>Please <a href=\"https://levernews.com/membership\">become a supporting subscriber</a>. You get access to exclusive podcasts, <a href=\"__GHOST_URL__/citizens-guide/\">digital publications</a>, and live events like this one </em></strong>—<strong><em> and you support this journalism.</em></strong></p>",
+        "buttonText": "Upgrade",
+        "buttonUrl": "https://levernews.com/membership"
+      }
+    ],
+    [
+      "email",
+      {
+        "html": "<p><em><strong><a href=\"https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.levernews.com%2Flive-chat-our-new-monthly-happy-hour-2%2F&amp;amp;src=sdkpreparse\">Click to share on Facebook</a></strong></em></p>"
+      }
+    ],
+    [
+      "email-cta",
+      {
+        "showButton": false,
+        "showDividers": false,
+        "segment": "status:-free",
+        "alignment": "left",
+        "html": "<p><strong><em>To register and attend the event, <a href=\"__GHOST_URL__/live-chat-our-new-monthly-happy-hour-2/\">CLICK HERE</a> to access our live chat page.</em></strong></p>"
+      }
+    ],
+    [
+      "email-cta",
+      {
+        "showButton": true,
+        "showDividers": false,
+        "segment": "status:-free",
+        "alignment": "center",
+        "html": "",
+        "buttonText": "Click Here To Access The Live Chat",
+        "buttonUrl": "__GHOST_URL__/live-chat-our-new-monthly-happy-hour-2/"
+      }
+    ],
+    [
+      "email-cta",
+      {
+        "showButton": false,
+        "showDividers": false,
+        "segment": "status:free",
+        "alignment": "left",
+        "html": "<p><em><strong>If you would like to participate in the live chat, please <a href=\"https://levernews.com/membership\">become a supporting subscriber</a>. You will receive an email with login information for the event.</strong></em></p>"
+      }
+    ],
+    [
+      "email-cta",
+      {
+        "showButton": true,
+        "showDividers": false,
+        "segment": "status:free",
+        "alignment": "center",
+        "html": "",
+        "buttonText": "Upgrade",
+        "buttonUrl": "https://levernews.com/membership"
+      }
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "email",
+      {
+        "html": "<p><em><strong>Help us spread the word! </strong>Please forward this email to family and friends.</em></p><p><em><strong>Was this email forwarded to you? </strong><a href=\"https://levernews.com/membership/\">Sign up for free</a> to receive original reporting like this in your inbox every day.</em></p>"
+      }
+    ]
+  ],
+  "markups": [
+    [
+      "em"
+    ],
+    [
+      "strong"
+    ]
+  ],
+  "sections": [
+    [
+      10,
+      0
+    ],
+    [
+      10,
+      1
+    ],
+    [
+      10,
+      2
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "As we previously announced, tonight at 3/24 at 7 pm ET (4 pm PT), "
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "The Lever "
+        ],
+        [
+          0,
+          [],
+          0,
+          "is kicking off its new monthly happy hour series, where supporting subscribers will get to chat with our reporters and editors about anything and everything. David Sirota, "
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "The Lever"
+        ],
+        [
+          0,
+          [],
+          0,
+          "’s founder and editor in chief, will lead the chat from Los Angeles, where he is attending the Academy Awards as an Oscar nominee for "
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "Don’t Look Up"
+        ],
+        [
+          0,
+          [],
+          0,
+          "."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "These happy hours will occur every month, allowing our supporting subscribers to interact in real-time with our staff about news of the day and to help us plan our future coverage."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [
+            1
+          ],
+          1,
+          "Like all our live chats, these Happy Hours are exclusively for supporting subscribers of "
+        ],
+        [
+          0,
+          [
+            0,
+            1
+          ],
+          2,
+          "The Lever"
+        ],
+        [
+          0,
+          [
+            1
+          ],
+          1,
+          ", who get to watch the chat live, interact with our staff, and watch a replay after the event."
+        ]
+      ]
+    ],
+    [
+      10,
+      3
+    ],
+    [
+      10,
+      4
+    ],
+    [
+      10,
+      5
+    ],
+    [
+      10,
+      6
+    ],
+    [
+      10,
+      7
+    ],
+    [
+      10,
+      8
+    ],
+    [
+      1,
+      "p",
+      []
+    ]
+  ],
+  "ghostVersion": "4.0"
+}

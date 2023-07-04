@@ -1,0 +1,543 @@
+{
+  "version": "0.3.1",
+  "atoms": [],
+  "cards": [
+    [
+      "hr",
+      {}
+    ],
+    [
+      "embed",
+      {
+        "url": "https://twitter.com/YTimesMotoring/status/1608107998895034368?s=20&t=8jDJ_RY2phrOnJyNymcVEw",
+        "html": "<blockquote class=\"twitter-tweet\"><p lang=\"en\" dir=\"ltr\">Tesla tailback at Tebay.<br><br>Around 40 cars waiting to charge yesterday. The future?<br><br>Pic C/O Metro newspaper. <a href=\"https://t.co/HRMQByFLb1\">pic.twitter.com/HRMQByFLb1</a></p>&mdash; Andy Harris (@YTimesMotoring) <a href=\"https://twitter.com/YTimesMotoring/status/1608107998895034368?ref_src=twsrc%5Etfw\">December 28, 2022</a></blockquote>\n<script async src=\"https://platform.twitter.com/widgets.js\" charset=\"utf-8\"></script>\n",
+        "type": "twitter",
+        "metadata": {
+          "url": "https://twitter.com/YTimesMotoring/status/1608107998895034368",
+          "author_name": "Andy Harris",
+          "author_url": "https://twitter.com/YTimesMotoring",
+          "width": 550,
+          "height": null,
+          "cache_age": "3153600000",
+          "provider_name": "Twitter",
+          "provider_url": "http://www.twitter.com/",
+          "version": "1.0",
+          "tweet_data": {
+            "entities": {
+              "annotations": [
+                {
+                  "start": 0,
+                  "end": 4,
+                  "probability": 0.9773,
+                  "type": "Organization",
+                  "normalized_text": "Tesla"
+                },
+                {
+                  "start": 18,
+                  "end": 22,
+                  "probability": 0.542,
+                  "type": "Place",
+                  "normalized_text": "Tebay"
+                }
+              ],
+              "urls": [
+                {
+                  "start": 108,
+                  "end": 131,
+                  "url": "https://t.co/HRMQByFLb1",
+                  "expanded_url": "https://twitter.com/YTimesMotoring/status/1608107998895034368/photo/1",
+                  "display_url": "pic.twitter.com/HRMQByFLb1",
+                  "media_key": "3_1608107992288821250"
+                }
+              ]
+            },
+            "context_annotations": [
+              {
+                "domain": {
+                  "id": "46",
+                  "name": "Business Taxonomy",
+                  "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+                },
+                "entity": {
+                  "id": "1557696420500541440",
+                  "name": "Automotive, Aircraft & Boat Business",
+                  "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to automobile, spacecraft, aircraft and boat manufacturing"
+                }
+              },
+              {
+                "domain": {
+                  "id": "46",
+                  "name": "Business Taxonomy",
+                  "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+                },
+                "entity": {
+                  "id": "1557697121477832705",
+                  "name": "Publisher & News Business",
+                  "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to  marketing and advertiser agencies, publishers of magazines, newspapers, blogs, books"
+                }
+              },
+              {
+                "domain": {
+                  "id": "131",
+                  "name": "Unified Twitter Taxonomy",
+                  "description": "A taxonomy of user interests. "
+                },
+                "entity": {
+                  "id": "1046545033657081857",
+                  "name": "News",
+                  "description": "News"
+                }
+              },
+              {
+                "domain": {
+                  "id": "131",
+                  "name": "Unified Twitter Taxonomy",
+                  "description": "A taxonomy of user interests. "
+                },
+                "entity": {
+                  "id": "1196447117297905665",
+                  "name": "News outlets"
+                }
+              },
+              {
+                "domain": {
+                  "id": "30",
+                  "name": "Entities [Entity Service]",
+                  "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain"
+                },
+                "entity": {
+                  "id": "781972125179518977",
+                  "name": "Auto Manufacturer - Auto"
+                }
+              },
+              {
+                "domain": {
+                  "id": "47",
+                  "name": "Brand",
+                  "description": "Brands and Companies"
+                },
+                "entity": {
+                  "id": "10044199219",
+                  "name": "Tesla Motors"
+                }
+              },
+              {
+                "domain": {
+                  "id": "65",
+                  "name": "Interests and Hobbies Vertical",
+                  "description": "Top level interests and hobbies groupings, like Food or Travel"
+                },
+                "entity": {
+                  "id": "847528391163092993",
+                  "name": "Automotive",
+                  "description": "Car culture"
+                }
+              },
+              {
+                "domain": {
+                  "id": "66",
+                  "name": "Interests and Hobbies Category",
+                  "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+                },
+                "entity": {
+                  "id": "847528576551337984",
+                  "name": "Hybrid and electric vehicles",
+                  "description": "Hybrid and electric vehicles"
+                }
+              },
+              {
+                "domain": {
+                  "id": "66",
+                  "name": "Interests and Hobbies Category",
+                  "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+                },
+                "entity": {
+                  "id": "847528646185070592",
+                  "name": "Luxury Cars",
+                  "description": "Luxury"
+                }
+              },
+              {
+                "domain": {
+                  "id": "131",
+                  "name": "Unified Twitter Taxonomy",
+                  "description": "A taxonomy of user interests. "
+                },
+                "entity": {
+                  "id": "10044199219",
+                  "name": "Tesla Motors"
+                }
+              },
+              {
+                "domain": {
+                  "id": "131",
+                  "name": "Unified Twitter Taxonomy",
+                  "description": "A taxonomy of user interests. "
+                },
+                "entity": {
+                  "id": "847528391163092993",
+                  "name": "Automotive",
+                  "description": "Car culture"
+                }
+              },
+              {
+                "domain": {
+                  "id": "131",
+                  "name": "Unified Twitter Taxonomy",
+                  "description": "A taxonomy of user interests. "
+                },
+                "entity": {
+                  "id": "1196845866138533888",
+                  "name": "Automobile Brands"
+                }
+              }
+            ],
+            "conversation_id": "1608107998895034368",
+            "public_metrics": {
+              "retweet_count": 427,
+              "reply_count": 271,
+              "like_count": 1659,
+              "quote_count": 146,
+              "impression_count": 481917
+            },
+            "id": "1608107998895034368",
+            "lang": "en",
+            "reply_settings": "everyone",
+            "edit_history_tweet_ids": [
+              "1608107998895034368"
+            ],
+            "created_at": "2022-12-28T14:29:58.000Z",
+            "text": "Tesla tailback at Tebay.\n\nAround 40 cars waiting to charge yesterday. The future?\n\nPic C/O Metro newspaper. https://t.co/HRMQByFLb1",
+            "attachments": {
+              "media_keys": [
+                "3_1608107992288821250"
+              ]
+            },
+            "possibly_sensitive": false,
+            "author_id": "258528767",
+            "includes": {
+              "media": [
+                {
+                  "media_key": "3_1608107992288821250",
+                  "type": "photo",
+                  "width": 1536,
+                  "url": "https://pbs.twimg.com/media/FlElsujXgAIocyC.jpg",
+                  "height": 1193
+                }
+              ],
+              "users": [
+                {
+                  "description": "Group Motoring Editor of The Yorkshire Times, Lancashire Times, Cumbria Times & North East Post. Chair of the Northern Group of Motoring Writers @ngmwcars.",
+                  "id": "258528767",
+                  "profile_image_url": "https://pbs.twimg.com/profile_images/1545463223813562368/QnGMVpNt_normal.jpg",
+                  "entities": {
+                    "url": {
+                      "urls": [
+                        {
+                          "start": 0,
+                          "end": 23,
+                          "url": "https://t.co/KgNqHaJvfc",
+                          "expanded_url": "http://www.yorkshiretimes.co.uk/cars",
+                          "display_url": "yorkshiretimes.co.uk/cars"
+                        }
+                      ]
+                    },
+                    "description": {
+                      "mentions": [
+                        {
+                          "start": 145,
+                          "end": 154,
+                          "username": "ngmwcars"
+                        }
+                      ]
+                    }
+                  },
+                  "created_at": "2011-02-27T22:55:58.000Z",
+                  "public_metrics": {
+                    "followers_count": 6052,
+                    "following_count": 1173,
+                    "tweet_count": 25425,
+                    "listed_count": 106
+                  },
+                  "name": "Andy Harris",
+                  "username": "YTimesMotoring",
+                  "location": "Skipton, North Yorkshire",
+                  "verified": false,
+                  "url": "https://t.co/KgNqHaJvfc",
+                  "protected": false
+                }
+              ]
+            }
+          }
+        }
+      }
+    ],
+    [
+      "embed",
+      {
+        "url": "https://www.youtube.com/watch?v=_hF0Yy6jZHA",
+        "html": "<iframe width=\"200\" height=\"150\" src=\"https://www.youtube.com/embed/_hF0Yy6jZHA?feature=oembed\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen title=\"More Race Track Closings, Reckless Drivers Are Crashing Everywhere, And The Challenger Is Still King\"></iframe>",
+        "type": "video",
+        "metadata": {
+          "title": "More Race Track Closings, Reckless Drivers Are Crashing Everywhere, And The Challenger Is Still King",
+          "author_name": "Motorious",
+          "author_url": "https://www.youtube.com/@Motorious",
+          "height": 150,
+          "width": 200,
+          "version": "1.0",
+          "provider_name": "YouTube",
+          "provider_url": "https://www.youtube.com/",
+          "thumbnail_height": 360,
+          "thumbnail_width": 480,
+          "thumbnail_url": "https://i.ytimg.com/vi/_hF0Yy6jZHA/hqdefault.jpg"
+        }
+      }
+    ]
+  ],
+  "markups": [
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/articles/features-3/stellantis-ceo-electric-cars/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/articles/features-3/classic-cars-greener/"
+      ]
+    ],
+    [
+      "strong"
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/articles/news/tesla-model-y-prices/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/articles/features-3/british-private-car-restrictions/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.the-sun.com/motors/7372218/drivers-ditch-electric-cars-lack-charging-stations/"
+      ]
+    ]
+  ],
+  "sections": [
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "You could say they’re unplugging once and for all…"
+        ]
+      ]
+    ],
+    [
+      10,
+      0
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "A shocking report from The Sun claims “droves” of "
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "electric car"
+        ],
+        [
+          0,
+          [],
+          0,
+          " owners in the island nation are switching back to gas-burning vehicles. Depending on how you view EVs this claim could be infuriating or "
+        ],
+        [
+          0,
+          [
+            1
+          ],
+          1,
+          "elating"
+        ],
+        [
+          0,
+          [],
+          0,
+          ", with either claims of bias or a feeling of validation. We’re more interested in what this means for EVs there and here moving forward."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [
+            2
+          ],
+          0,
+          "Learn why Tesla jacked up Model Y prices "
+        ],
+        [
+          0,
+          [
+            3
+          ],
+          1,
+          "here"
+        ],
+        [
+          0,
+          [],
+          1,
+          "."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "According to the report, a surge in new car sales for the "
+        ],
+        [
+          0,
+          [
+            4
+          ],
+          1,
+          "UK "
+        ],
+        [
+          0,
+          [],
+          0,
+          "is being driven by petrol models, not EVs. That’s believable considering electric vehicles are still quite niche. After all, for 2022 only 5.8% of the US new car market constituted EVs."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "According to The Sun, ICE vehicles in the UK saw an increase in registrations during January while EVs saw more modest growth. To be fair, a single month snapshot versus figures from all of 2022 isn’t an entirely fair measure."
+        ]
+      ]
+    ],
+    [
+      10,
+      1
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "More disturbing is the claim that for every public car charger in the UK there are 30 EVs. Obviously, in some areas charging stations are going to be more crowded than others. Apparently during the Christmas season Tesla drivers there had to wait in three-hour lines for the privilege of plugging their ride in. We’ve seen similar backups in some parts of the US."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "That kind of inconvenience is enough to make some people sell their EV and never look back, at least for now. But others see this problem as just a growing pain, arguing it’s better than the virtually empty charging stations you might see in some areas. So there’s more than one way to look at the crowds."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Are we seeing a great EV exodus or is this just a few owners throwing a hissy fit over waiting in lines? The numbers cited by The Sun don’t back up any claims of some mass abandonment of EVs in the UK."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Source: "
+        ],
+        [
+          0,
+          [
+            5
+          ],
+          1,
+          "The Sun"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Image via Tesla"
+        ]
+      ]
+    ],
+    [
+      10,
+      2
+    ],
+    [
+      1,
+      "p",
+      []
+    ]
+  ],
+  "ghostVersion": "4.0"
+}

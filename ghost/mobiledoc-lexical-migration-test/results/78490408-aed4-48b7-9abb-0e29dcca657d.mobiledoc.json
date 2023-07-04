@@ -1,0 +1,516 @@
+{
+  "version": "0.3.1",
+  "atoms": [
+    [
+      "soft-return",
+      "",
+      {}
+    ],
+    [
+      "soft-return",
+      "",
+      {}
+    ]
+  ],
+  "cards": [
+    [
+      "hr",
+      {}
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "html",
+      {
+        "html": "<table id=\"production-numbers-table\">\n<tbody>\n\t<tr>\n\t\t<td>AMX</td>\n\t\t<td>6,725</td>\n\t</tr>\n\t\t<td><b>Total Production</b></td>\n\t\t<td><b>6,725</b></td>\n\t</tr>\n</tbody>\n</table>"
+      }
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "html",
+      {
+        "html": "<table id=\"performance-specs-table\">\n<tbody>\n\t<tr>\n\t\t<th><b>Size</b></td>\n\t\t<th><b>Carb.</b></td>\n\t\t<th><b>HP</b></td>\n\t\t<th><b>Torque</b></td>\n\t\t<th><b>0 to 60</b></td>\n\t\t<th><b>Quarter mile</b></td>\n\t</tr>\n\t<tr>\n\t\t<td>290ci</td>\n\t\t<td>1x4bbl</td>\n\t\t<td>225</td>\n\t\t<td>300 lb-ft</td>\n\t\t<td>-</td>\n\t\t<td>-</td>\n\t</tr>\n\t<tr>\n\t\t<td>343ci</td>\n\t\t<td>1x4bbl</td>\n\t\t<td>290</td>\n\t\t<td>365 lb-ft</td>\n\t\t<td>-</td>\n\t\t<td>-</td>\n\t</tr>\n\t<tr>\n\t\t<td>390ci</td>\n\t\t<td>1x4bbl</td>\n\t\t<td>315</td>\n\t\t<td>425 lb-ft</td>\n\t\t<td>6.2 sec</td>\n\t\t<td>14.6 sec</td>\n\t</tr>\n</tbody>\n</table>"
+      }
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "html",
+      {
+        "html": "<h4 id='colors-sub-heading'>Exterior</h4>\n<div class=\"colors-row\">\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #000000\"></div>\n        <div class=\"color-name\">Classic Black</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #701013\"></div>\n        <div class=\"color-name\">Matador Red</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #496678\"></div>\n        <div class=\"color-name\">Saturn Blue</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #20405f\"></div>\n        <div class=\"color-name\">Caravelle Blue</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #161c2a\"></div>\n        <div class=\"color-name\">Blazer Blue</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #6c7149\"></div>\n        <div class=\"color-name\">Laurel Green</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #222629\"></div>\n        <div class=\"color-name\">Rally Green</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #386970\"></div>\n        <div class=\"color-name\">Tahiti Turquoise</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #806e5a\"></div>\n        <div class=\"color-name\">Laredo Tan</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #491f20\"></div>\n        <div class=\"color-name\">Calcutta Russet</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #847240\"></div>\n        <div class=\"color-name\">Scarab Gold</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #81868c\"></div>\n        <div class=\"color-name\">Turbo Silver</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #dcd086\"></div>\n        <div class=\"color-name\">Hialeah Yellow</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #e8e1c7\"></div>\n        <div class=\"color-name\">Frost White</div>\n    </div>\n</div>\n\n<h4 id='colors-sub-heading'>Interior</h4>\n<div class=\"colors-row\">\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #000000\"></div>\n        <div class=\"color-name\">Black</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #20405f\"></div>\n        <div class=\"color-name\">Dark Blue</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #6c7149\"></div>\n        <div class=\"color-name\">Dark Green</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #701013\"></div>\n        <div class=\"color-name\">Red</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #491f20\"></div>\n        <div class=\"color-name\">Dark Russet</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #847240\"></div>\n        <div class=\"color-name\">Medium Gold</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #806e5a\"></div>\n        <div class=\"color-name\">Medium Tan</div>\n    </div>\n</div>\n"
+      }
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "gallery",
+      {
+        "images": [
+          {
+            "fileName": "3079_68_amc_book1_low_res.jpg",
+            "row": 0,
+            "width": 768,
+            "height": 1024,
+            "src": "__GHOST_URL__/content/images/2020/06/3079_68_amc_book1_low_res.jpg"
+          },
+          {
+            "fileName": "3080_68_amc_book2_low_res.jpg",
+            "row": 0,
+            "width": 768,
+            "height": 1024,
+            "src": "__GHOST_URL__/content/images/2020/06/3080_68_amc_book2_low_res.jpg"
+          },
+          {
+            "fileName": "3081_68_amc_book3_low_res.jpg",
+            "row": 0,
+            "width": 790,
+            "height": 593,
+            "src": "__GHOST_URL__/content/images/2020/06/3081_68_amc_book3_low_res.jpg"
+          }
+        ],
+        "caption": "1968 AMC AMX OEM brochures"
+      }
+    ],
+    [
+      "hr",
+      {}
+    ]
+  ],
+  "markups": [
+    [
+      "strong"
+    ],
+    [
+      "em"
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/tag/research/"
+      ]
+    ]
+  ],
+  "sections": [
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Overview"
+        ]
+      ]
+    ],
+    [
+      10,
+      0
+    ],
+    [
+      1,
+      "h3",
+      [
+        [
+          0,
+          [],
+          0,
+          "The AMC AMX was a two-seat GT-style sports car that was produced by American Motors Corporation for the 1968 through 1970 model years. The AMX was also classified as a muscle car, but was unique among other American cars at the time due to its short wheelbase."
+        ]
+      ]
+    ],
+    [
+      10,
+      1
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "The AMC AMX was a two-seat GT-style sports car that was produced by American Motors Corporation for the 1968 through 1970 model years. The AMX was also classified as a muscle car, but was unique among other American cars at the time due to its short wheelbase. The AMX was also the only American-built steel-bodied two-seater of its time, the first since the 1955-1957 Ford Thunderbird. To a degree, the AMX was a competitor with America's only other two-seater of the era, the Chevrolet Corvette for substantially less money."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Fitted with the optional high-compression medium block 390 cu in AMC V8 engine, the AMX offered top-notch performance at an affordable price. In spite of this value and enthusiastic initial reception by automotive media and enthusiasts, sales never thrived. However, the automaker's larger objectives to refocus AMC's image on performance and to bring younger customers into its dealer showrooms was achieved."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "The AMX name originates from the \"American Motors eXperimental\" code used on a concept vehicle and then on two prototypes shown on the company's \"Project IV\" automobile show tour in 1966. One was a fiberglass two-seat \"AMX\", and the other was a four-seat \"AMX II\". Both of these radically styled offerings reflected the company's strategy to shed its \"economy car\" image and appeal to a more youthful, performance-oriented market."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "The original AMX full-scale models were developed in 1965 by AMC's advanced styling studios under the direction of Charles Mashigan. The two-seat AMX was a big hit on the auto show circuit in 1966 and featured a rumble seat that opened out from the rear deck lid for extra passengers called a \"Ramble\" seat. AMC executives saw the opportunity to change the consumers' perception of the automaker from Romney's economy car image, to the realities of the new marketplace interested in sporty, performance oriented vehicles. Robert B. Evans requested a car like the AMX to be put into production quickly."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "The AMX was introduced to the press at Daytona International Speedway on 15 February 1968. In the demonstrations on the race track, the new AMXs ran at speeds up to 130 mph. American Motors' Group Vice President, Vic Raviolo, described the AMX as \"the Walter Mitty Ferrari.\" The AMX was designed to \"appeal to both muscle car and sports car enthusiasts, two camps that rarely acknowledged each other's existences.\" The problem was the \"tire-melting\" acceleration of the 2-seater made it \"a quick car that handled like a sports car, confusing the buying public.\" Automotive journalist Tom McCahill summed up, \"the AMX is the hottest thing to ever come out of Wisconsin and ... you can whip through corners and real hard bends better than with many out-and-out sports cars.\""
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "In January 1968, two specially-prepared AMXs set 106 world speed and endurance records at Goodyear's track in Texas driven by World Land Speed Record holder Craig Breedlove, his wife Lee, and Ron Dykes. As a way to promote the new car, AMC's Performance activities manager, Carl Chakmakian, asked Breedlove to put the AMX through its paces before it was even available for sale. Breedlove's \"Spirit of America\" crew and Traco Engineering had six weeks to prepare the cars before they were to be displayed at the Chicago Auto Show in February."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "The AMC V8 engines, such as the 290 cu in engine in one car was bored out to 304 cu in and the 390 cu in in the other to 397 cu in. The shop installed exhaust headers, eight-quart oil pans, oil coolers, hi-rise intake manifolds, racing camshafts with solid lifters and stronger springs, and larger carburetors. The cars had engine and rear-end oil coolers, and 37 gallon cell-type safety fuel tanks. Engine components were X-rayed and Magnafluxed to check for cracks, as were chassis components."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Chassis preparation included heavy-duty front and rear springs (part of the factory's optional handling package), rear spring traction control arms, heavy-duty shock absorbers and a \"panhard\" type track bar in the rear to eliminate side sway. Stock wheels and tires were replaced by wide magnesium racing wheels and Goodyear racing tires. The cars were aerodynamically modified: the front ends were lowered, the hoods were slanted down and spoilers were installed below the front bumpers. The car interiors had structure-stiffening roll cages for driver protection, a stock bucket seat modified for additional support, and supplementary engine-monitoring instruments"
+        ],
+        [
+          1,
+          [],
+          0,
+          0
+        ],
+        [
+          0,
+          [],
+          0,
+          "."
+        ],
+        [
+          1,
+          [],
+          0,
+          1
+        ],
+        [
+          0,
+          [],
+          0,
+          "Breedlove also took the AMX to Bonneville reaching 189 mph in a United States Auto Club (USAC) sanctioned run, as well as an unofficial run of over 200 mph."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "All AMXs came with a 4-barrel carbureted small block AMC V8 engines in several versions. A 290 cu in with 225 hp N-code, a 343 cu in with 290 hp T-code, as well as the 390 cu in \"AMX\" featuring 315 hp with 425 pound force-feet of torque X-code. All derived from the same external sized block. However, the three engines differed vastly internally, with the smallest engine having small intake and exhaust valves, thin block webbing, and a cast nodular iron crankshaft; the 343 used larger valves with a thicker block webbing; and the 390 moved up to a forged steel crankshaft and connecting rods, as well as larger rod bearings, 2.250 in compared to 2.090 in on the smaller two versions."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "A BorgWarner T-10 four-speed manual transmission was standard, as were special traction bars, dual exhaust system, and fatter tires for better traction. A \"Shift-Command\" three-speed automatic transmission with the capability of manual shifting (BorgWarner model M-11B or M-12) was optional together with a floor console mounted shifter."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "A popular \"Go-Package\" option came with either the four-barrel 343 or 390 engine, and included power assisted front disk brakes, \"Twin-Grip\" differential, E70x14 red-stripe performance tires on \"Magnum 500\" styled-steel wheels, heavy-duty suspension with thicker sway-bars, heavy-duty cooling, and other performance enhancements. A wide range of specialized performance parts were also available through AMC dealers for installation on customer's cars. These were known as \"Group 19\" parts because of the way AMC organized its parts books."
+        ]
+      ]
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Production Numbers"
+        ]
+      ]
+    ],
+    [
+      10,
+      2
+    ],
+    [
+      10,
+      3
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Performance Specs"
+        ]
+      ]
+    ],
+    [
+      10,
+      4
+    ],
+    [
+      10,
+      5
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Transmission"
+        ]
+      ]
+    ],
+    [
+      10,
+      6
+    ],
+    [
+      3,
+      "ul",
+      [
+        [
+          [
+            0,
+            [
+              0,
+              0
+            ],
+            2,
+            "4-Speed Manual Borg Warner"
+          ]
+        ],
+        [
+          [
+            0,
+            [
+              0,
+              0
+            ],
+            1,
+            "\"Shift-Command\" 3-Speed Automatic"
+          ],
+          [
+            0,
+            [],
+            1,
+            " Transmission"
+          ]
+        ]
+      ]
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Paint & Colors"
+        ]
+      ]
+    ],
+    [
+      10,
+      7
+    ],
+    [
+      10,
+      8
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "OEM Brochures"
+        ]
+      ]
+    ],
+    [
+      10,
+      9
+    ],
+    [
+      10,
+      10
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "About the Knowledge Base"
+        ]
+      ]
+    ],
+    [
+      10,
+      11
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "The Motorious Knowledge Base provides a comprehensive vehicle overview for the 1968 AMC AMX"
+        ],
+        [
+          0,
+          [
+            1,
+            1
+          ],
+          2,
+          " "
+        ],
+        [
+          0,
+          [],
+          0,
+          "including production numbers, performance specs, factory colors, and OEM brochures. Check out additional model years or related content linked to this article or view other Makes and Models in our "
+        ],
+        [
+          0,
+          [
+            2
+          ],
+          1,
+          "Research"
+        ],
+        [
+          0,
+          [],
+          0,
+          " center."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "If you have any interesting facts about the 1968 AMC AMX"
+        ],
+        [
+          0,
+          [
+            1,
+            1
+          ],
+          2,
+          " "
+        ],
+        [
+          0,
+          [],
+          0,
+          "to add, want to tell us how we did covering the AMX, or want to tell us about yours, please leave a comment below."
+        ]
+      ]
+    ]
+  ],
+  "ghostVersion": "3.0"
+}

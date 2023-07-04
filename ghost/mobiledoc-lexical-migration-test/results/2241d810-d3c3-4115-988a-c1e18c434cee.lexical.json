@@ -1,0 +1,458 @@
+{
+  "root": {
+    "children": [
+      {
+        "children": [
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": "Overview",
+            "type": "text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "heading",
+        "tag": "h3",
+        "version": 1
+      },
+      {
+        "type": "horizontalrule"
+      },
+      {
+        "children": [
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": "Remember that little movie, ",
+            "type": "text",
+            "version": 1
+          },
+          {
+            "detail": 0,
+            "format": 2,
+            "mode": "normal",
+            "style": "",
+            "text": "Smokey and the Bandit",
+            "type": "text",
+            "version": 1
+          },
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": "? The real star was the 1977 Trans Am, more specifically, the black and gold Bandit/Special edition.",
+            "type": "text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "heading",
+        "tag": "h3",
+        "version": 1
+      },
+      {
+        "type": "horizontalrule"
+      },
+      {
+        "children": [
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": "All the Firebird models were updated receiving a new grille containing four square headlamps, replacing the single round ones of previous years. The 455 was gone, but a remarkable new 400 option, called the W72, matched the 455’s 200hp.",
+            "type": "text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "paragraph",
+        "version": 1
+      },
+      {
+        "children": [
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": "Production Numbers",
+            "type": "text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "heading",
+        "tag": "h2",
+        "version": 1
+      },
+      {
+        "type": "horizontalrule"
+      },
+      {
+        "type": "html",
+        "html": "<table id=\"production-numbers-table\">\n<tbody>\n\t<tr>\n\t\t<td>Coupe</td>\n\t\t<td>30,642</td>\n\t</tr>\n    \t<tr>\n\t\t<td>Esprit</td>\n\t\t<td>34,548</td>\n\t</tr>\n    \t<tr>\n\t\t<td>Formula</td>\n\t\t<td>21,801</td>\n\t</tr>\n    \t<tr>\n\t\t<td>CUST SDN 4D</td>\n\t\t<td>9,924</td>\n\t</tr>\n    \t<tr>\n\t\t<td>Trans Am</td>\n\t\t<td>68,744</td>\n\t</tr>\n    \t<tr>\n\t\t<td>CSpecial Edition Trans Am (Included in Trans Am figure above)</td>\n\t\t<td>15,567</td>\n\t</tr>\n\t\t<td><b>Total Production</b></td>\n\t\t<td><b>171,302</b></td>\n\t</tr>\n</tbody>\n</table>"
+      },
+      {
+        "children": [
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": "Performance Specs",
+            "type": "text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "heading",
+        "tag": "h2",
+        "version": 1
+      },
+      {
+        "type": "horizontalrule"
+      },
+      {
+        "type": "html",
+        "html": "<table id=\"performance-specs-table\">\n<tbody>\n\t<tr>\n\t\t<th><b>Engine</b></th>\n\t\t<th><b>Size</b></td>\n\t\t<th><b>Carb.</b></td>\n\t\t<th><b>HP</b></td>\n\t\t<th><b>Torque</b></td>\n\t\t<th><b>0 to 60</b></td>\n\t\t<th><b>Quarter mile</b></td>\n\t</tr>\n\t<tr>\n\t\t<td>V6</td>\n\t\t<td>231ci</td>\n\t\t<td>1x2bbl</td>\n\t\t<td>105 hp</td>\n\t\t<td>185 lb-ft</td>\n\t\t<td>-</td>\n\t\t<td>-</td>\n\t</tr>\n\t<tr>\n\t\t<td>V8</td>\n\t\t<td>301ci</td>\n\t\t<td>1x2bbl</td>\n\t\t<td>135 hp</td>\n\t\t<td>235 lb-ft</td>\n\t\t<td>9.5 sec</td>\n\t\t<td>17.3 sec</td>\n\t</tr>\n\t<tr>\n\t\t<td>V8</td>\n\t\t<td>305ci</td>\n\t\t<td>1x2bbl</td>\n\t\t<td>145 hp</td>\n\t\t<td>245 lb-ft</td>\n\t\t<td>-</td>\n\t\t<td>-</td>\n\t</tr>\n\t<tr>\n\t\t<td>V8</td>\n\t\t<td>350ci</td>\n\t\t<td>1x4bbl</td>\n\t\t<td>170 hp</td>\n\t\t<td>280 lb-ft</td>\n\t\t<td>-</td>\n\t\t<td>-</td>\n\t</tr>\n\t<tr>\n\t\t<td>V8</td>\n\t\t<td>400ci</td>\n\t\t<td>1x4bbl</td>\n\t\t<td>180 hp</td>\n\t\t<td>325 lb-ft</td>\n\t\t<td>-</td>\n\t\t<td>-</td>\n\t</tr>\n\t<tr>\n\t\t<td>V8</td>\n\t\t<td>403ci</td>\n\t\t<td>1x4bbl</td>\n\t\t<td>185 hp</td>\n\t\t<td>320 lb-ft</td>\n\t\t<td>-</td>\n\t\t<td>-</td>\n\t</tr>\n\t<tr>\n\t\t<td>W72 V8</td>\n\t\t<td>400ci</td>\n\t\t<td>1x4bbl</td>\n\t\t<td>200 hp</td>\n\t\t<td>n/a</td>\n\t\t<td>-</td>\n\t\t<td>-</td>\n\t</tr>\n</tbody>\n</table>"
+      },
+      {
+        "children": [
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": "Transmission",
+            "type": "text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "heading",
+        "tag": "h2",
+        "version": 1
+      },
+      {
+        "type": "horizontalrule"
+      },
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "detail": 0,
+                "format": 0,
+                "mode": "normal",
+                "style": "",
+                "text": "3-Speed Manual",
+                "type": "text",
+                "version": 1
+              }
+            ],
+            "direction": "ltr",
+            "format": "",
+            "indent": 0,
+            "type": "listitem",
+            "value": 1,
+            "version": 1
+          },
+          {
+            "children": [
+              {
+                "detail": 0,
+                "format": 0,
+                "mode": "normal",
+                "style": "",
+                "text": "H.D. 4-Speed Manual",
+                "type": "text",
+                "version": 1
+              }
+            ],
+            "direction": "ltr",
+            "format": "",
+            "indent": 0,
+            "type": "listitem",
+            "value": 2,
+            "version": 1
+          },
+          {
+            "children": [
+              {
+                "detail": 0,
+                "format": 0,
+                "mode": "normal",
+                "style": "",
+                "text": "3-Speed Automatic",
+                "type": "text",
+                "version": 1
+              }
+            ],
+            "direction": "ltr",
+            "format": "",
+            "indent": 0,
+            "type": "listitem",
+            "value": 3,
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "tag": "ul",
+        "type": "list",
+        "listType": "bullet",
+        "start": 1,
+        "version": 1
+      },
+      {
+        "children": [
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": "Paint & Colors",
+            "type": "text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "heading",
+        "tag": "h2",
+        "version": 1
+      },
+      {
+        "type": "horizontalrule"
+      },
+      {
+        "type": "html",
+        "html": "<h4 id='colors-sub-heading'>Exterior</h4>\n<div class=\"colors-row\">\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #ece4d3\"></div>\n        <div class=\"color-name\">Cameo White</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #000000\"></div>\n        <div class=\"color-name\">Starlight Black</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #5c7184\"></div>\n        <div class=\"color-name\">Glacier Blue</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #6f2f2c\"></div>\n        <div class=\"color-name\">Firethorn Red</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #2d4056\"></div>\n        <div class=\"color-name\">Aquamarine</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #fbdd59\"></div>\n        <div class=\"color-name\">Goldenrod Yellow</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #8b7150\"></div>\n        <div class=\"color-name\">Buckskin</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #bd2924\"></div>\n        <div class=\"color-name\">Buccaneer Red</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #858990\"></div>\n        <div class=\"color-name\">Sterling Silver</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #8bbde7\"></div>\n        <div class=\"color-name\">Lombard Blue</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #2b3748\"></div>\n        <div class=\"color-name\">Nautilus Blue</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #522220\"></div>\n        <div class=\"color-name\">Cordovan Maroon</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #6c817a\"></div>\n        <div class=\"color-name\">Bahia Green</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #d5bf8f\"></div>\n        <div class=\"color-name\">Mohave Tan</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #372525\"></div>\n        <div class=\"color-name\">Brentwood Brown</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #9a583a\"></div>\n        <div class=\"color-name\">Mandarin Orange</div>\n    </div>\n</div>\n\n<h4 id='colors-sub-heading'>Interior</h4>\n<div class=\"colors-row\">\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #d3d3c7\"></div>\n        <div class=\"color-name\">White</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #99896a\"></div>\n        <div class=\"color-name\">Buckskin</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #7793a2\"></div>\n        <div class=\"color-name\">Blue</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #000000\"></div>\n        <div class=\"color-name\">Black</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #a92d37\"></div>\n        <div class=\"color-name\">Firethorn</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #188682\"></div>\n        <div class=\"color-name\">Turquoise</div>\n</div>"
+      },
+      {
+        "children": [
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": "OEM Brochures",
+            "type": "text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "heading",
+        "tag": "h2",
+        "version": 1
+      },
+      {
+        "type": "horizontalrule"
+      },
+      {
+        "type": "gallery",
+        "images": [
+          {
+            "fileName": "726_6_low_res.jpeg",
+            "row": 0,
+            "width": 790,
+            "height": 673,
+            "src": "__GHOST_URL__/content/images/2020/06/726_6_low_res.jpeg"
+          },
+          {
+            "fileName": "726_6_low_res5.jpeg",
+            "row": 0,
+            "width": 790,
+            "height": 673,
+            "src": "__GHOST_URL__/content/images/2020/06/726_6_low_res5.jpeg"
+          },
+          {
+            "fileName": "727_7_low_res1.jpeg",
+            "row": 0,
+            "width": 790,
+            "height": 679,
+            "src": "__GHOST_URL__/content/images/2020/06/727_7_low_res1.jpeg"
+          },
+          {
+            "fileName": "728_8_low_res2.jpeg",
+            "row": 1,
+            "width": 790,
+            "height": 675,
+            "src": "__GHOST_URL__/content/images/2020/06/728_8_low_res2.jpeg"
+          },
+          {
+            "fileName": "729_9_low_res3.jpeg",
+            "row": 1,
+            "width": 790,
+            "height": 683,
+            "src": "__GHOST_URL__/content/images/2020/06/729_9_low_res3.jpeg"
+          },
+          {
+            "fileName": "730_35_low_res4.jpeg",
+            "row": 1,
+            "width": 790,
+            "height": 673,
+            "src": "__GHOST_URL__/content/images/2020/06/730_35_low_res4.jpeg"
+          }
+        ]
+      },
+      {
+        "children": [
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": "About the Knowledge Base",
+            "type": "text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "heading",
+        "tag": "h2",
+        "version": 1
+      },
+      {
+        "type": "horizontalrule"
+      },
+      {
+        "children": [
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": "The Motorious Knowledge Base provides a comprehensive vehicle overview for the 1977 Pontiac Firebird",
+            "type": "text",
+            "version": 1
+          },
+          {
+            "detail": 0,
+            "format": 2,
+            "mode": "normal",
+            "style": "",
+            "text": " ",
+            "type": "text",
+            "version": 1
+          },
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": "including production numbers, performance specs, factory colors, and OEM brochures. Check out additional model years or related content linked to this article or view other Makes and Models in our ",
+            "type": "text",
+            "version": 1
+          },
+          {
+            "children": [
+              {
+                "detail": 0,
+                "format": 0,
+                "mode": "normal",
+                "style": "",
+                "text": "Research",
+                "type": "text",
+                "version": 1
+              }
+            ],
+            "direction": "ltr",
+            "format": "",
+            "indent": 0,
+            "type": "link",
+            "rel": null,
+            "target": null,
+            "title": null,
+            "url": "__GHOST_URL__/tag/research/",
+            "version": 1
+          },
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": " center.",
+            "type": "text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "paragraph",
+        "version": 1
+      },
+      {
+        "children": [
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": "If you have any interesting facts about the 1977 Pontiac Firebird",
+            "type": "text",
+            "version": 1
+          },
+          {
+            "detail": 0,
+            "format": 2,
+            "mode": "normal",
+            "style": "",
+            "text": " ",
+            "type": "text",
+            "version": 1
+          },
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": "to add, want to tell us how we did covering the Firebird, or want to tell us about yours, please leave a comment below.",
+            "type": "text",
+            "version": 1
+          },
+          {
+            "type": "linebreak",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "paragraph",
+        "version": 1
+      }
+    ],
+    "direction": "ltr",
+    "format": "",
+    "indent": 0,
+    "type": "root",
+    "version": 1
+  }
+}

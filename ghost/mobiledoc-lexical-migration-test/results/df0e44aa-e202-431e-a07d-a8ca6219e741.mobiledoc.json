@@ -1,0 +1,419 @@
+{
+  "version": "0.3.1",
+  "atoms": [],
+  "cards": [
+    [
+      "hr",
+      {}
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "html",
+      {
+        "html": "<table id=\"production-numbers-table\">\n<tbody>\n\t<tr>\n\t\t<td>Sport Coupe</td>\n\t\t<td>225,073</td>\n\t</tr>\n    <tr>\n\t\t<td>Landau Sport Coupe</td>\n\t\t<td>91,850</td>\n\t</tr>\n\t\t<td><b>Total Production</b></td>\n\t\t<td><b>316,923</b></td>\n\t</tr>\n</tbody>\n</table>"
+      }
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "html",
+      {
+        "html": "<table id=\"performance-specs-table\">\n<tbody>\n\t<tr>\n\t\t<th><b>Engine</b></th>\n\t\t<th><b>Size</b></td>\n\t\t<th><b>Carb.</b></td>\n\t\t<th><b>HP</b></td>\n\t\t<th><b>0 to 60</b></td>\n\t\t<th><b>Quarter mile</b></td>\n\t</tr>\n\t<tr>\n\t\t<td>V6</td>\n\t\t<td>200ci</td>\n\t\t<td>1x2bbl</td>\n\t\t<td>94</td>\n\t\t<td>-</td>\n\t\t<td>-</td>\n\t</tr>\n<tr>\n\t\t<td>V6</td>\n\t\t<td>231ci</td>\n\t\t<td>1x2bbl</td>\n\t\t<td>115</td>\n\t\t<td>-</td>\n\t\t<td>-</td>\n\t</tr>\n<tr>\n\t\t<td>V8</td>\n\t\t<td>267ci</td>\n\t\t<td>1x2bbl</td>\n\t\t<td>125</td>\n\t\t<td>-</td>\n\t\t<td>-</td>\n\t</tr>\n<tr>\n\t\t<td>V8</td>\n\t\t<td>305ci</td>\n\t\t<td>1x4bbl</td>\n\t\t<td>160</td>\n\t\t<td>11.2 sec</td>\n\t\t<td>18.4 sec</td>\n\t</tr>\n</tbody>\n</table>"
+      }
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "html",
+      {
+        "html": "<h4 id='colors-sub-heading'>Exterior</h4>\n<div class=\"colors-row\">\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #cbb28d\"></div>\n        <div class=\"color-name\">Beige</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #000000\"></div>\n        <div class=\"color-name\">Black</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #0f1e38\"></div>\n        <div class=\"color-name\">Dark Metallic Blue</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #7da1b9\"></div>\n        <div class=\"color-name\">Light Metallic Blue</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #d1f0fd\"></div>\n        <div class=\"color-name\">Pastel Blue</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #372428\"></div>\n        <div class=\"color-name\">Dark Brown Metallic</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #724a49\"></div>\n        <div class=\"color-name\">Camel Metallic</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #400c0e\"></div>\n        <div class=\"color-name\">Carmine Metallic</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #2e121f\"></div>\n        <div class=\"color-name\">Dark Carmine Metallic</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #d0e8d1\"></div>\n        <div class=\"color-name\">Light Green</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #565d3c\"></div>\n        <div class=\"color-name\">Medium Green Metallic</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #bcbcc6\"></div>\n        <div class=\"color-name\">Silver</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #f4f8f9\"></div>\n        <div class=\"color-name\">White</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #fbebb0\"></div>\n        <div class=\"color-name\">Light Yellow</div>\n    </div>\n</div>\n\n<h4 id='colors-sub-heading'>Interior</h4>\n<div class=\"colors-row\">\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #000000\"></div>\n        <div class=\"color-name\">Black</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #1f2a55\"></div>\n        <div class=\"color-name\">Blue</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #ece4d3\"></div>\n        <div class=\"color-name\">Oyster</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #6c817a\"></div>\n        <div class=\"color-name\">Green</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #7b5036\"></div>\n        <div class=\"color-name\">Camel</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #57272a\"></div>\n        <div class=\"color-name\">Carmine</div>\n    </div>\n</div>"
+      }
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "gallery",
+      {
+        "images": [
+          {
+            "fileName": "1467_1979_Chevrolet_Monte_Carlo-01_low_res.jpg",
+            "row": 0,
+            "width": 769,
+            "height": 992,
+            "src": "__GHOST_URL__/content/images/2020/06/1467_1979_Chevrolet_Monte_Carlo-01_low_res.jpg"
+          },
+          {
+            "fileName": "1468_1979_Chevrolet_Monte_Carlo-02_amp_03_low_res.jpg",
+            "row": 0,
+            "width": 790,
+            "height": 506,
+            "src": "__GHOST_URL__/content/images/2020/06/1468_1979_Chevrolet_Monte_Carlo-02_amp_03_low_res.jpg"
+          },
+          {
+            "fileName": "1469_1979_Chevrolet_Monte_Carlo-04_amp_05_low_res.jpg",
+            "row": 0,
+            "width": 790,
+            "height": 508,
+            "src": "__GHOST_URL__/content/images/2020/06/1469_1979_Chevrolet_Monte_Carlo-04_amp_05_low_res.jpg"
+          },
+          {
+            "fileName": "1470_1979_Chevrolet_Monte_Carlo-06_low_res.jpg",
+            "row": 1,
+            "width": 766,
+            "height": 992,
+            "src": "__GHOST_URL__/content/images/2020/06/1470_1979_Chevrolet_Monte_Carlo-06_low_res.jpg"
+          },
+          {
+            "fileName": "1471_1979_Chevrolet_Monte_Carlo-07_low_res.jpg",
+            "row": 1,
+            "width": 770,
+            "height": 992,
+            "src": "__GHOST_URL__/content/images/2020/06/1471_1979_Chevrolet_Monte_Carlo-07_low_res.jpg"
+          },
+          {
+            "fileName": "1472_1979_Chevrolet_Monte_Carlo-08_amp_09_low_res.jpg",
+            "row": 1,
+            "width": 790,
+            "height": 532,
+            "src": "__GHOST_URL__/content/images/2020/06/1472_1979_Chevrolet_Monte_Carlo-08_amp_09_low_res.jpg"
+          },
+          {
+            "fileName": "1473_1979_Chevrolet_Monte_Carlo-10_low_res.jpg",
+            "row": 2,
+            "width": 770,
+            "height": 992,
+            "src": "__GHOST_URL__/content/images/2020/06/1473_1979_Chevrolet_Monte_Carlo-10_low_res.jpg"
+          },
+          {
+            "fileName": "1474_1979_Chevrolet_Monte_Carlo-11_low_res.jpg",
+            "row": 2,
+            "width": 766,
+            "height": 992,
+            "src": "__GHOST_URL__/content/images/2020/06/1474_1979_Chevrolet_Monte_Carlo-11_low_res.jpg"
+          },
+          {
+            "fileName": "1475_1979_Chevrolet_Monte_Carlo-12_low_res.jpg",
+            "row": 2,
+            "width": 772,
+            "height": 992,
+            "src": "__GHOST_URL__/content/images/2020/06/1475_1979_Chevrolet_Monte_Carlo-12_low_res.jpg"
+          }
+        ],
+        "caption": "1979 Chevrolet Monte Carlo OEM Brochures"
+      }
+    ],
+    [
+      "image",
+      {
+        "src": "__GHOST_URL__/content/images/2020/06/1979MonteCarloOEMBrochure.jpg",
+        "width": 522,
+        "height": 763,
+        "caption": "1979 Chevrolet Monte Carlo Advertisement"
+      }
+    ],
+    [
+      "hr",
+      {}
+    ]
+  ],
+  "markups": [
+    [
+      "strong"
+    ],
+    [
+      "em"
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/tag/research/"
+      ]
+    ]
+  ],
+  "sections": [
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Overview"
+        ]
+      ]
+    ],
+    [
+      10,
+      0
+    ],
+    [
+      1,
+      "h3",
+      [
+        [
+          0,
+          [],
+          0,
+          "The 1979 Monte Carlo noticed only slight revisions with a redesigned grille, taillights, and front parking lights with dual headlights and turn blinkers."
+        ]
+      ]
+    ],
+    [
+      10,
+      1
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "The 1979 Monte Carlo noticed only slight revisions with a redesigned grille, taillights, and front parking lights with dual headlights and turn blinkers."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "A new Chevrolet 200ci V6 became the standard engine, with the 231ci as the standard in CA."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Transmissions carried over from the previous year with the exception of the 4-speed manual, and 1979 would be the last year for manual options due to low buyer interest."
+        ]
+      ]
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Production Numbers"
+        ]
+      ]
+    ],
+    [
+      10,
+      2
+    ],
+    [
+      10,
+      3
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Performance Specs"
+        ]
+      ]
+    ],
+    [
+      10,
+      4
+    ],
+    [
+      10,
+      5
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Transmission"
+        ]
+      ]
+    ],
+    [
+      10,
+      6
+    ],
+    [
+      3,
+      "ul",
+      [
+        [
+          [
+            0,
+            [
+              0,
+              0
+            ],
+            2,
+            "Turbo Hydra-Matic"
+          ]
+        ],
+        [
+          [
+            0,
+            [
+              0,
+              0
+            ],
+            2,
+            "3-Speed Manual"
+          ]
+        ]
+      ]
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Paint & Colors"
+        ]
+      ]
+    ],
+    [
+      10,
+      7
+    ],
+    [
+      10,
+      8
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "OEM Brochures"
+        ]
+      ]
+    ],
+    [
+      10,
+      9
+    ],
+    [
+      10,
+      10
+    ],
+    [
+      10,
+      11
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "About the Knowledge Base"
+        ]
+      ]
+    ],
+    [
+      10,
+      12
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "The Motorious Knowledge Base provides a comprehensive vehicle overview for the 1979 Chevrolet Monte Carlo"
+        ],
+        [
+          0,
+          [
+            1,
+            1
+          ],
+          2,
+          " "
+        ],
+        [
+          0,
+          [],
+          0,
+          "including production numbers, performance specs, factory colors, and OEM brochures. Check out additional model years or related content linked to this article or view other Makes and Models in our "
+        ],
+        [
+          0,
+          [
+            2
+          ],
+          1,
+          "Research"
+        ],
+        [
+          0,
+          [],
+          0,
+          " center."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "If you have any interesting facts about the 1979 Chevrolet Monte Carlo to add, want to tell us how we did covering the Monte Carlo, or want to tell us about yours, please leave a comment below."
+        ]
+      ]
+    ]
+  ],
+  "ghostVersion": "3.0"
+}

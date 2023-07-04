@@ -1,0 +1,1551 @@
+{
+  "version": "0.3.1",
+  "atoms": [],
+  "cards": [
+    [
+      "image",
+      {
+        "src": "__GHOST_URL__/content/images/2022/05/IMG_1454.jpeg",
+        "alt": "",
+        "title": "",
+        "caption": ""
+      }
+    ],
+    [
+      "image",
+      {
+        "src": "__GHOST_URL__/content/images/2022/05/IMG_1428.jpeg",
+        "alt": "",
+        "title": "",
+        "caption": ""
+      }
+    ],
+    [
+      "paywall",
+      {}
+    ],
+    [
+      "embed",
+      {
+        "url": "https://twitter.com/newsrewired/status/1529068571342647297?s=21&t=QqvScCpbmPV-apVRnKWpUA",
+        "html": "<blockquote class=\"twitter-tweet\"><p lang=\"en\" dir=\"ltr\">Group project time in the <a href=\"https://twitter.com/FtStrategies?ref_src=twsrc%5Etfw\">@FtStrategies</a> first party data workshop! Each group is working on their own part data roadmap <a href=\"https://twitter.com/hashtag/newsrw?src=hash&amp;ref_src=twsrc%5Etfw\">#newsrw</a> <a href=\"https://t.co/kB3MeUa8q1\">pic.twitter.com/kB3MeUa8q1</a></p>&mdash; newsrewired (@newsrewired) <a href=\"https://twitter.com/newsrewired/status/1529068571342647297?ref_src=twsrc%5Etfw\">May 24, 2022</a></blockquote>\n<script async src=\"https://platform.twitter.com/widgets.js\" charset=\"utf-8\"></script>\n",
+        "type": "twitter",
+        "metadata": {
+          "url": "https://twitter.com/newsrewired/status/1529068571342647297",
+          "author_name": "newsrewired",
+          "author_url": "https://twitter.com/newsrewired",
+          "width": 550,
+          "height": null,
+          "cache_age": "3153600000",
+          "provider_name": "Twitter",
+          "provider_url": "http://www.twitter.com/",
+          "version": "1.0",
+          "tweet_data": {
+            "entities": {
+              "urls": [
+                {
+                  "start": 128,
+                  "end": 151,
+                  "url": "https://t.co/kB3MeUa8q1",
+                  "expanded_url": "https://twitter.com/newsrewired/status/1529068571342647297/photo/1",
+                  "display_url": "pic.twitter.com/kB3MeUa8q1",
+                  "media_key": "3_1529068566850506754"
+                },
+                {
+                  "start": 128,
+                  "end": 151,
+                  "url": "https://t.co/kB3MeUa8q1",
+                  "expanded_url": "https://twitter.com/newsrewired/status/1529068571342647297/photo/1",
+                  "display_url": "pic.twitter.com/kB3MeUa8q1",
+                  "media_key": "3_1529068566867329025"
+                },
+                {
+                  "start": 128,
+                  "end": 151,
+                  "url": "https://t.co/kB3MeUa8q1",
+                  "expanded_url": "https://twitter.com/newsrewired/status/1529068571342647297/photo/1",
+                  "display_url": "pic.twitter.com/kB3MeUa8q1",
+                  "media_key": "3_1529068566867329031"
+                },
+                {
+                  "start": 128,
+                  "end": 151,
+                  "url": "https://t.co/kB3MeUa8q1",
+                  "expanded_url": "https://twitter.com/newsrewired/status/1529068571342647297/photo/1",
+                  "display_url": "pic.twitter.com/kB3MeUa8q1",
+                  "media_key": "3_1529068566867238914"
+                }
+              ],
+              "mentions": [
+                {
+                  "start": 26,
+                  "end": 39,
+                  "username": "FtStrategies",
+                  "id": "1191250184925335552"
+                }
+              ],
+              "hashtags": [
+                {
+                  "start": 120,
+                  "end": 127,
+                  "tag": "newsrw"
+                }
+              ]
+            },
+            "conversation_id": "1529068571342647297",
+            "possibly_sensitive": false,
+            "lang": "en",
+            "reply_settings": "everyone",
+            "created_at": "2022-05-24T11:55:30.000Z",
+            "public_metrics": {
+              "retweet_count": 1,
+              "reply_count": 1,
+              "like_count": 4,
+              "quote_count": 0
+            },
+            "attachments": {
+              "media_keys": [
+                "3_1529068566850506754",
+                "3_1529068566867329025",
+                "3_1529068566867329031",
+                "3_1529068566867238914"
+              ]
+            },
+            "text": "Group project time in the @FtStrategies first party data workshop! Each group is working on their own part data roadmap #newsrw https://t.co/kB3MeUa8q1",
+            "source": "Twitter for iPhone",
+            "id": "1529068571342647297",
+            "author_id": "61800365",
+            "includes": {
+              "media": [
+                {
+                  "type": "photo",
+                  "url": "https://pbs.twimg.com/media/FThXwpxXEAIqbdk.jpg",
+                  "width": 2048,
+                  "media_key": "3_1529068566850506754",
+                  "height": 1536
+                },
+                {
+                  "type": "photo",
+                  "url": "https://pbs.twimg.com/media/FThXwp1XwAEMwK2.jpg",
+                  "width": 2048,
+                  "media_key": "3_1529068566867329025",
+                  "height": 1536
+                },
+                {
+                  "type": "photo",
+                  "url": "https://pbs.twimg.com/media/FThXwp1XwAce0wG.jpg",
+                  "width": 2048,
+                  "media_key": "3_1529068566867329031",
+                  "height": 1536
+                },
+                {
+                  "type": "photo",
+                  "url": "https://pbs.twimg.com/media/FThXwp1WYAIRDOi.jpg",
+                  "width": 2048,
+                  "media_key": "3_1529068566867238914",
+                  "height": 1536
+                }
+              ],
+              "users": [
+                {
+                  "created_at": "2009-07-31T15:49:59.000Z",
+                  "profile_image_url": "https://pbs.twimg.com/profile_images/732229807199653888/cA0QdhXa_normal.jpg",
+                  "name": "newsrewired",
+                  "pinned_tweet_id": "1529391927128473601",
+                  "id": "61800365",
+                  "description": "The conference for digital media innovators run by @journalismnews. Join us on 24 May. Contact: @OliviaCrellin @CJREdwards ✉ olivia@journalism.co.uk",
+                  "public_metrics": {
+                    "followers_count": 18822,
+                    "following_count": 20826,
+                    "tweet_count": 13196,
+                    "listed_count": 738
+                  },
+                  "url": "https://t.co/RV12StHrxM",
+                  "location": "London, England",
+                  "protected": false,
+                  "username": "newsrewired",
+                  "verified": false,
+                  "entities": {
+                    "url": {
+                      "urls": [
+                        {
+                          "start": 0,
+                          "end": 23,
+                          "url": "https://t.co/RV12StHrxM",
+                          "expanded_url": "http://www.newsrewired.com",
+                          "display_url": "newsrewired.com"
+                        }
+                      ]
+                    },
+                    "description": {
+                      "mentions": [
+                        {
+                          "start": 51,
+                          "end": 66,
+                          "username": "journalismnews"
+                        },
+                        {
+                          "start": 96,
+                          "end": 110,
+                          "username": "OliviaCrellin"
+                        },
+                        {
+                          "start": 111,
+                          "end": 122,
+                          "username": "CJREdwards"
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "created_at": "2019-11-04T07:06:06.000Z",
+                  "profile_image_url": "https://pbs.twimg.com/profile_images/1420759754620555274/mMnYVdUN_normal.jpg",
+                  "name": "FT Strategies",
+                  "id": "1191250184925335552",
+                  "description": "The subscriptions consultancy from the Financial Times.",
+                  "public_metrics": {
+                    "followers_count": 743,
+                    "following_count": 252,
+                    "tweet_count": 134,
+                    "listed_count": 7
+                  },
+                  "url": "https://t.co/7Q3Oz5mvAu",
+                  "protected": false,
+                  "username": "FtStrategies",
+                  "verified": false,
+                  "entities": {
+                    "url": {
+                      "urls": [
+                        {
+                          "start": 0,
+                          "end": 23,
+                          "url": "https://t.co/7Q3Oz5mvAu",
+                          "expanded_url": "http://www.ftstrategies.com",
+                          "display_url": "ftstrategies.com"
+                        }
+                      ]
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    ],
+    [
+      "embed",
+      {
+        "url": "https://twitter.com/jofahy/status/1529114136545832962?s=21&t=QqvScCpbmPV-apVRnKWpUA",
+        "html": "<blockquote class=\"twitter-tweet\"><p lang=\"en\" dir=\"ltr\">Many exciting examples of prototypes made by newsrooms using AI to create different types of stories to meet different user needs shown by Mattia Peretti from <a href=\"https://twitter.com/PolisLSE?ref_src=twsrc%5Etfw\">@PolisLSE</a> <a href=\"https://twitter.com/hashtag/newsrw?src=hash&amp;ref_src=twsrc%5Etfw\">#newsrw</a> <a href=\"https://t.co/3wNsrYZITC\">pic.twitter.com/3wNsrYZITC</a></p>&mdash; Jo Fahy (@jofahy) <a href=\"https://twitter.com/jofahy/status/1529114136545832962?ref_src=twsrc%5Etfw\">May 24, 2022</a></blockquote>\n<script async src=\"https://platform.twitter.com/widgets.js\" charset=\"utf-8\"></script>\n",
+        "type": "twitter",
+        "metadata": {
+          "url": "https://twitter.com/jofahy/status/1529114136545832962",
+          "author_name": "Jo Fahy",
+          "author_url": "https://twitter.com/jofahy",
+          "width": 550,
+          "height": null,
+          "cache_age": "3153600000",
+          "provider_name": "Twitter",
+          "provider_url": "http://www.twitter.com/",
+          "version": "1.0",
+          "tweet_data": {
+            "possibly_sensitive": false,
+            "created_at": "2022-05-24T14:56:34.000Z",
+            "id": "1529114136545832962",
+            "author_id": "17680365",
+            "source": "Twitter for iPhone",
+            "lang": "en",
+            "in_reply_to_user_id": "17680365",
+            "attachments": {
+              "media_keys": [
+                "3_1529114130933764097"
+              ]
+            },
+            "conversation_id": "1529015441691185152",
+            "geo": {
+              "place_id": "0e7641b88fd50000"
+            },
+            "entities": {
+              "annotations": [
+                {
+                  "start": 61,
+                  "end": 62,
+                  "probability": 0.4285,
+                  "type": "Organization",
+                  "normalized_text": "AI"
+                },
+                {
+                  "start": 139,
+                  "end": 152,
+                  "probability": 0.9788,
+                  "type": "Person",
+                  "normalized_text": "Mattia Peretti"
+                }
+              ],
+              "mentions": [
+                {
+                  "start": 159,
+                  "end": 168,
+                  "username": "PolisLSE",
+                  "id": "36908459"
+                }
+              ],
+              "hashtags": [
+                {
+                  "start": 169,
+                  "end": 176,
+                  "tag": "newsrw"
+                }
+              ],
+              "urls": [
+                {
+                  "start": 177,
+                  "end": 200,
+                  "url": "https://t.co/3wNsrYZITC",
+                  "expanded_url": "https://twitter.com/jofahy/status/1529114136545832962/photo/1",
+                  "display_url": "pic.twitter.com/3wNsrYZITC",
+                  "media_key": "3_1529114130933764097"
+                }
+              ]
+            },
+            "public_metrics": {
+              "retweet_count": 0,
+              "reply_count": 0,
+              "like_count": 1,
+              "quote_count": 0
+            },
+            "reply_settings": "everyone",
+            "text": "Many exciting examples of prototypes made by newsrooms using AI to create different types of stories to meet different user needs shown by Mattia Peretti from @PolisLSE #newsrw https://t.co/3wNsrYZITC",
+            "referenced_tweets": [
+              {
+                "type": "replied_to",
+                "id": "1529103552311971840"
+              }
+            ],
+            "includes": {
+              "media": [
+                {
+                  "width": 2048,
+                  "url": "https://pbs.twimg.com/media/FTiBM1NWUAEzLEV.jpg",
+                  "media_key": "3_1529114130933764097",
+                  "height": 1152,
+                  "type": "photo"
+                }
+              ],
+              "users": [
+                {
+                  "protected": false,
+                  "username": "jofahy",
+                  "id": "17680365",
+                  "profile_image_url": "https://pbs.twimg.com/profile_images/856193369478975488/nU-YSfN5_normal.jpg",
+                  "url": "https://t.co/T4G0AVk1dz",
+                  "verified": true,
+                  "description": "Head of Distribution & Formats @swissinfo_en @swissinfo International service, Swiss Broadcasting Corp. | Diversity Board @SRGSSR | Podcaster @swissandchips |",
+                  "public_metrics": {
+                    "followers_count": 1939,
+                    "following_count": 1555,
+                    "tweet_count": 7963,
+                    "listed_count": 97
+                  },
+                  "name": "Jo Fahy",
+                  "entities": {
+                    "url": {
+                      "urls": [
+                        {
+                          "start": 0,
+                          "end": 23,
+                          "url": "https://t.co/T4G0AVk1dz",
+                          "expanded_url": "https://www.facebook.com/FahyJo/",
+                          "display_url": "facebook.com/FahyJo/"
+                        }
+                      ]
+                    },
+                    "description": {
+                      "mentions": [
+                        {
+                          "start": 31,
+                          "end": 44,
+                          "username": "swissinfo_en"
+                        },
+                        {
+                          "start": 45,
+                          "end": 55,
+                          "username": "swissinfo"
+                        },
+                        {
+                          "start": 122,
+                          "end": 129,
+                          "username": "SRGSSR"
+                        },
+                        {
+                          "start": 142,
+                          "end": 156,
+                          "username": "swissandchips"
+                        }
+                      ]
+                    }
+                  },
+                  "location": "Berne, Switzerland",
+                  "created_at": "2008-11-27T15:28:46.000Z"
+                },
+                {
+                  "pinned_tweet_id": "1527258372587761664",
+                  "protected": false,
+                  "username": "PolisLSE",
+                  "id": "36908459",
+                  "profile_image_url": "https://pbs.twimg.com/profile_images/1232686127594790914/TS9yKvcv_normal.jpg",
+                  "url": "https://t.co/MnKNvRfskt",
+                  "verified": false,
+                  "description": "Journalism think-tank at @LSEnews. Home of the #JournalismAI project. Follow for international #journalism events and research. #PolisTalks",
+                  "public_metrics": {
+                    "followers_count": 10579,
+                    "following_count": 1605,
+                    "tweet_count": 12935,
+                    "listed_count": 447
+                  },
+                  "name": "Polis@LSE",
+                  "entities": {
+                    "url": {
+                      "urls": [
+                        {
+                          "start": 0,
+                          "end": 23,
+                          "url": "https://t.co/MnKNvRfskt",
+                          "expanded_url": "https://mailchi.mp/lse.ac.uk/journalismai",
+                          "display_url": "mailchi.mp/lse.ac.uk/jour…"
+                        }
+                      ]
+                    },
+                    "description": {
+                      "hashtags": [
+                        {
+                          "start": 47,
+                          "end": 60,
+                          "tag": "JournalismAI"
+                        },
+                        {
+                          "start": 95,
+                          "end": 106,
+                          "tag": "journalism"
+                        },
+                        {
+                          "start": 128,
+                          "end": 139,
+                          "tag": "PolisTalks"
+                        }
+                      ],
+                      "mentions": [
+                        {
+                          "start": 25,
+                          "end": 33,
+                          "username": "LSEnews"
+                        }
+                      ]
+                    }
+                  },
+                  "location": "London, England",
+                  "created_at": "2009-05-01T08:19:42.000Z"
+                }
+              ],
+              "places": [
+                {
+                  "name": "News UK",
+                  "country_code": "GB",
+                  "country": "Verenigd Koninkrijk",
+                  "full_name": "News UK",
+                  "place_type": "poi",
+                  "geo": {
+                    "type": "Feature",
+                    "bbox": [
+                      -0.087696,
+                      51.505342,
+                      -0.087696,
+                      51.505342
+                    ],
+                    "properties": {}
+                  },
+                  "id": "0e7641b88fd50000"
+                }
+              ],
+              "tweets": [
+                {
+                  "possibly_sensitive": false,
+                  "created_at": "2022-05-24T14:14:30.000Z",
+                  "id": "1529103552311971840",
+                  "author_id": "17680365",
+                  "source": "Twitter for iPhone",
+                  "lang": "en",
+                  "in_reply_to_user_id": "17680365",
+                  "conversation_id": "1529015441691185152",
+                  "geo": {
+                    "place_id": "7f55e839e1715da2"
+                  },
+                  "entities": {
+                    "hashtags": [
+                      {
+                        "start": 236,
+                        "end": 243,
+                        "tag": "newsrw"
+                      }
+                    ]
+                  },
+                  "public_metrics": {
+                    "retweet_count": 1,
+                    "reply_count": 1,
+                    "like_count": 1,
+                    "quote_count": 0
+                  },
+                  "reply_settings": "everyone",
+                  "text": "…Key takeaways on reaching young people:\nGo to the platforms where they are\nSpeak a language they understand\nCome from a place of authenticity\nFind your own voice\nKnow the platform &amp; get basics right (no horizontal vids on Tik Tok)\n#newsrw",
+                  "referenced_tweets": [
+                    {
+                      "type": "replied_to",
+                      "id": "1529103550923546626"
+                    }
+                  ]
+                }
+              ]
+            }
+          }
+        }
+      }
+    ],
+    [
+      "embed",
+      {
+        "url": "https://twitter.com/jofahy/status/1529103552311971840?s=21&t=QqvScCpbmPV-apVRnKWpUA",
+        "html": "<blockquote class=\"twitter-tweet\"><p lang=\"en\" dir=\"ltr\">…Key takeaways on reaching young people:<br>Go to the platforms where they are<br>Speak a language they understand<br>Come from a place of authenticity<br>Find your own voice<br>Know the platform &amp; get basics right (no horizontal vids on Tik Tok)<a href=\"https://twitter.com/hashtag/newsrw?src=hash&amp;ref_src=twsrc%5Etfw\">#newsrw</a></p>&mdash; Jo Fahy (@jofahy) <a href=\"https://twitter.com/jofahy/status/1529103552311971840?ref_src=twsrc%5Etfw\">May 24, 2022</a></blockquote>\n<script async src=\"https://platform.twitter.com/widgets.js\" charset=\"utf-8\"></script>\n",
+        "type": "twitter",
+        "metadata": {
+          "url": "https://twitter.com/jofahy/status/1529103552311971840",
+          "author_name": "Jo Fahy",
+          "author_url": "https://twitter.com/jofahy",
+          "width": 550,
+          "height": null,
+          "cache_age": "3153600000",
+          "provider_name": "Twitter",
+          "provider_url": "http://www.twitter.com/",
+          "version": "1.0",
+          "tweet_data": {
+            "source": "Twitter for iPhone",
+            "public_metrics": {
+              "retweet_count": 1,
+              "reply_count": 1,
+              "like_count": 1,
+              "quote_count": 0
+            },
+            "reply_settings": "everyone",
+            "created_at": "2022-05-24T14:14:30.000Z",
+            "author_id": "17680365",
+            "entities": {
+              "hashtags": [
+                {
+                  "start": 236,
+                  "end": 243,
+                  "tag": "newsrw"
+                }
+              ]
+            },
+            "geo": {
+              "place_id": "7f55e839e1715da2"
+            },
+            "text": "…Key takeaways on reaching young people:\nGo to the platforms where they are\nSpeak a language they understand\nCome from a place of authenticity\nFind your own voice\nKnow the platform &amp; get basics right (no horizontal vids on Tik Tok)\n#newsrw",
+            "lang": "en",
+            "id": "1529103552311971840",
+            "conversation_id": "1529015441691185152",
+            "referenced_tweets": [
+              {
+                "type": "replied_to",
+                "id": "1529103550923546626"
+              }
+            ],
+            "possibly_sensitive": false,
+            "in_reply_to_user_id": "17680365",
+            "includes": {
+              "users": [
+                {
+                  "protected": false,
+                  "name": "Jo Fahy",
+                  "public_metrics": {
+                    "followers_count": 1939,
+                    "following_count": 1555,
+                    "tweet_count": 7963,
+                    "listed_count": 97
+                  },
+                  "location": "Berne, Switzerland",
+                  "created_at": "2008-11-27T15:28:46.000Z",
+                  "username": "jofahy",
+                  "description": "Head of Distribution & Formats @swissinfo_en @swissinfo International service, Swiss Broadcasting Corp. | Diversity Board @SRGSSR | Podcaster @swissandchips |",
+                  "profile_image_url": "https://pbs.twimg.com/profile_images/856193369478975488/nU-YSfN5_normal.jpg",
+                  "entities": {
+                    "url": {
+                      "urls": [
+                        {
+                          "start": 0,
+                          "end": 23,
+                          "url": "https://t.co/T4G0AVk1dz",
+                          "expanded_url": "https://www.facebook.com/FahyJo/",
+                          "display_url": "facebook.com/FahyJo/"
+                        }
+                      ]
+                    },
+                    "description": {
+                      "mentions": [
+                        {
+                          "start": 31,
+                          "end": 44,
+                          "username": "swissinfo_en"
+                        },
+                        {
+                          "start": 45,
+                          "end": 55,
+                          "username": "swissinfo"
+                        },
+                        {
+                          "start": 122,
+                          "end": 129,
+                          "username": "SRGSSR"
+                        },
+                        {
+                          "start": 142,
+                          "end": 156,
+                          "username": "swissandchips"
+                        }
+                      ]
+                    }
+                  },
+                  "url": "https://t.co/T4G0AVk1dz",
+                  "verified": true,
+                  "id": "17680365"
+                }
+              ],
+              "places": [
+                {
+                  "id": "7f55e839e1715da2",
+                  "full_name": "Camberwell, London",
+                  "country_code": "GB",
+                  "geo": {
+                    "type": "Feature",
+                    "bbox": [
+                      -0.1114755,
+                      51.4194247,
+                      -0.0297308,
+                      51.509947
+                    ],
+                    "properties": {}
+                  },
+                  "country": "Verenigd Koninkrijk",
+                  "name": "Camberwell",
+                  "place_type": "city"
+                }
+              ],
+              "tweets": [
+                {
+                  "source": "Twitter for iPhone",
+                  "public_metrics": {
+                    "retweet_count": 0,
+                    "reply_count": 1,
+                    "like_count": 0,
+                    "quote_count": 0
+                  },
+                  "reply_settings": "everyone",
+                  "created_at": "2022-05-24T14:14:30.000Z",
+                  "author_id": "17680365",
+                  "context_annotations": [
+                    {
+                      "domain": {
+                        "id": "46",
+                        "name": "Brand Category",
+                        "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+                      },
+                      "entity": {
+                        "id": "781974596752842752",
+                        "name": "Services"
+                      }
+                    },
+                    {
+                      "domain": {
+                        "id": "47",
+                        "name": "Brand",
+                        "description": "Brands and Companies"
+                      },
+                      "entity": {
+                        "id": "10045225402",
+                        "name": "Twitter"
+                      }
+                    }
+                  ],
+                  "entities": {
+                    "hashtags": [
+                      {
+                        "start": 67,
+                        "end": 74,
+                        "tag": "newsrw"
+                      }
+                    ]
+                  },
+                  "geo": {
+                    "place_id": "7f55e839e1715da2"
+                  },
+                  "text": "So many good points in session on young people, no time to tweet 😬 #newsrw",
+                  "lang": "en",
+                  "id": "1529103550923546626",
+                  "conversation_id": "1529015441691185152",
+                  "referenced_tweets": [
+                    {
+                      "type": "replied_to",
+                      "id": "1529096053911339009"
+                    }
+                  ],
+                  "possibly_sensitive": false,
+                  "in_reply_to_user_id": "17680365"
+                }
+              ]
+            }
+          }
+        }
+      }
+    ],
+    [
+      "bookmark",
+      {
+        "version": "1.0",
+        "type": "bookmark",
+        "url": "__GHOST_URL__/2022/05/the-future-of-newsletters/",
+        "metadata": {
+          "url": "__GHOST_URL__/2022/05/the-future-of-newsletters/",
+          "title": "The future of newsletters",
+          "description": "The newsletter boom of the last few years shows no sign of abating. What’s next for this critical auidnce tool, asked a panel at news:rewired.",
+          "author": "Adam Tinworth",
+          "publisher": "One Man & His Blog",
+          "thumbnail": "__GHOST_URL__/content/images/2022/05/IMG_0354.jpg",
+          "icon": "__GHOST_URL__/favicon.png"
+        }
+      }
+    ],
+    [
+      "bookmark",
+      {
+        "version": "1.0",
+        "type": "bookmark",
+        "url": "__GHOST_URL__/2022/05/zaina-erhaim-how-to-respect-local-journalists-in-crisis-zones/",
+        "metadata": {
+          "url": "__GHOST_URL__/2022/05/zaina-erhaim-how-to-respect-local-journalists-in-crisis-zones/",
+          "title": "Zaina Erhaim: how to respect local journalists in crisis zones",
+          "description": "The contrast between the coverage of war in Syrai and Ukraine is shocking and stark, argues the news:rewired keynoter. Here’s how we can do better.",
+          "author": "Adam Tinworth",
+          "publisher": "One Man & His Blog",
+          "thumbnail": "__GHOST_URL__/content/images/2022/05/IMG_0234.jpeg",
+          "icon": "__GHOST_URL__/favicon.png"
+        }
+      }
+    ],
+    [
+      "bookmark",
+      {
+        "version": "1.0",
+        "type": "bookmark",
+        "url": "__GHOST_URL__/2022/05/building-resilient-newsrooms/",
+        "metadata": {
+          "url": "__GHOST_URL__/2022/05/building-resilient-newsrooms/",
+          "title": "Building resilient newsrooms",
+          "description": "From grusome images on social media to war reporting and pandemics — journalists are under more stress than ever. How do we help keep our newrooms productive, and our staff healthy?",
+          "author": "Adam Tinworth",
+          "publisher": "One Man & His Blog",
+          "thumbnail": "__GHOST_URL__/content/images/2022/05/A6194063-ABDC-45C9-A644-D4A0713F9339.jpeg",
+          "icon": "__GHOST_URL__/favicon.png"
+        }
+      }
+    ],
+    [
+      "bookmark",
+      {
+        "version": "1.0",
+        "type": "bookmark",
+        "url": "__GHOST_URL__/2022/05/platforms-and-publishers-the-best-of-frenemies/",
+        "metadata": {
+          "url": "__GHOST_URL__/2022/05/platforms-and-publishers-the-best-of-frenemies/",
+          "title": "Platforms and Publishers: the best of frenemies?",
+          "description": "Are we any nearer buidling a more healthy relationship between news publishers and social media platforms? The outlook is not good, suggests a news:rewired panel…",
+          "author": "Adam Tinworth",
+          "publisher": "One Man & His Blog",
+          "thumbnail": "__GHOST_URL__/content/images/2022/05/IMG_1443.jpg",
+          "icon": "__GHOST_URL__/favicon.png"
+        }
+      }
+    ],
+    [
+      "bookmark",
+      {
+        "version": "1.0",
+        "type": "bookmark",
+        "url": "__GHOST_URL__/2022/05/can-news-tackle-polarisation-and-mend-democracy/",
+        "metadata": {
+          "url": "__GHOST_URL__/2022/05/can-news-tackle-polarisation-and-mend-democracy/",
+          "title": "Can news tackle polarisation and mend democracy?",
+          "description": "Polarisation has been on the rise in many societies for the past decade. Is news stoking the conflict — and can better reporting be part of the solution?",
+          "author": "Adam Tinworth",
+          "publisher": "One Man & His Blog",
+          "thumbnail": "__GHOST_URL__/content/images/2022/05/IMG_0330.jpg",
+          "icon": "__GHOST_URL__/favicon.png"
+        }
+      }
+    ],
+    [
+      "bookmark",
+      {
+        "version": "1.0",
+        "type": "bookmark",
+        "url": "__GHOST_URL__/2022/05/subscriber-revenue-what-the-future-and-the-limit/",
+        "metadata": {
+          "url": "__GHOST_URL__/2022/05/subscriber-revenue-what-the-future-and-the-limit/",
+          "title": "Subscriber revenue: what’s the future — and the limit?",
+          "description": "How do you win an audience. convert them to subscribers — and retain them in tough economic times? A news:rewired panel explores past sucesses and future strategies.",
+          "author": "Adam Tinworth",
+          "publisher": "One Man & His Blog",
+          "thumbnail": "__GHOST_URL__/content/images/2022/05/IMG_1450.jpeg",
+          "icon": "__GHOST_URL__/favicon.png"
+        }
+      }
+    ],
+    [
+      "bookmark",
+      {
+        "version": "1.0",
+        "type": "bookmark",
+        "url": "__GHOST_URL__/2022/05/training-and-retaining-the-journalists-of-the-future/",
+        "metadata": {
+          "url": "__GHOST_URL__/2022/05/training-and-retaining-the-journalists-of-the-future/",
+          "title": "Training and retaining the journalists of the future",
+          "description": "How do we recruit and retain a more skilled, diverse staff of journalists? The final panel of news:rewired set out to answer that question.",
+          "author": "Adam Tinworth",
+          "publisher": "One Man & His Blog",
+          "thumbnail": "__GHOST_URL__/content/images/2022/05/IMG_0426.jpg",
+          "icon": "__GHOST_URL__/favicon.png"
+        }
+      }
+    ],
+    [
+      "embed",
+      {
+        "url": "https://twitter.com/videojournalist/status/1529080940915568640?s=21&t=QqvScCpbmPV-apVRnKWpUA",
+        "html": "<blockquote class=\"twitter-tweet\"><p lang=\"en\" dir=\"ltr\">Some of the Cinematic drama at <a href=\"https://twitter.com/hashtag/NewsRW?src=hash&amp;ref_src=twsrc%5Etfw\">#NewsRW</a> captured with my iPhone at lunch. <a href=\"https://twitter.com/journalism?ref_src=twsrc%5Etfw\">@Journalism</a> <a href=\"https://twitter.com/newsrewired?ref_src=twsrc%5Etfw\">@newsrewired</a> <a href=\"https://t.co/6NjkapgSDy\">pic.twitter.com/6NjkapgSDy</a></p>&mdash; Robb Montgomery (@videojournalist) <a href=\"https://twitter.com/videojournalist/status/1529080940915568640?ref_src=twsrc%5Etfw\">May 24, 2022</a></blockquote>\n<script async src=\"https://platform.twitter.com/widgets.js\" charset=\"utf-8\"></script>\n",
+        "type": "twitter",
+        "metadata": {
+          "url": "https://twitter.com/videojournalist/status/1529080940915568640",
+          "author_name": "Robb Montgomery",
+          "author_url": "https://twitter.com/videojournalist",
+          "width": 550,
+          "height": null,
+          "cache_age": "3153600000",
+          "provider_name": "Twitter",
+          "provider_url": "http://www.twitter.com/",
+          "version": "1.0",
+          "tweet_data": {
+            "geo": {
+              "place_id": "7f55e839e1715da2"
+            },
+            "public_metrics": {
+              "retweet_count": 0,
+              "reply_count": 1,
+              "like_count": 2,
+              "quote_count": 1
+            },
+            "author_id": "14579511",
+            "entities": {
+              "mentions": [
+                {
+                  "start": 73,
+                  "end": 84,
+                  "username": "journalism",
+                  "id": "3942881"
+                },
+                {
+                  "start": 85,
+                  "end": 97,
+                  "username": "newsrewired",
+                  "id": "61800365"
+                }
+              ],
+              "urls": [
+                {
+                  "start": 98,
+                  "end": 121,
+                  "url": "https://t.co/6NjkapgSDy",
+                  "expanded_url": "https://twitter.com/videojournalist/status/1529080940915568640/video/1",
+                  "display_url": "pic.twitter.com/6NjkapgSDy",
+                  "media_key": "7_1529080876629381121"
+                }
+              ],
+              "hashtags": [
+                {
+                  "start": 31,
+                  "end": 38,
+                  "tag": "NewsRW"
+                }
+              ],
+              "annotations": [
+                {
+                  "start": 56,
+                  "end": 61,
+                  "probability": 0.8723,
+                  "type": "Product",
+                  "normalized_text": "iPhone"
+                }
+              ]
+            },
+            "id": "1529080940915568640",
+            "text": "Some of the Cinematic drama at #NewsRW captured with my iPhone at lunch. @Journalism @newsrewired https://t.co/6NjkapgSDy",
+            "lang": "en",
+            "attachments": {
+              "media_keys": [
+                "7_1529080876629381121"
+              ]
+            },
+            "reply_settings": "everyone",
+            "conversation_id": "1529080940915568640",
+            "created_at": "2022-05-24T12:44:39.000Z",
+            "context_annotations": [
+              {
+                "domain": {
+                  "id": "47",
+                  "name": "Brand",
+                  "description": "Brands and Companies"
+                },
+                "entity": {
+                  "id": "10026364281",
+                  "name": "Apple"
+                }
+              },
+              {
+                "domain": {
+                  "id": "30",
+                  "name": "Entities [Entity Service]",
+                  "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain"
+                },
+                "entity": {
+                  "id": "1006588701193879552",
+                  "name": "Lunch",
+                  "description": "This entity tracks all conversations that mention lunch."
+                }
+              },
+              {
+                "domain": {
+                  "id": "47",
+                  "name": "Brand",
+                  "description": "Brands and Companies"
+                },
+                "entity": {
+                  "id": "10026364281",
+                  "name": "Apple"
+                }
+              },
+              {
+                "domain": {
+                  "id": "48",
+                  "name": "Product",
+                  "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone."
+                },
+                "entity": {
+                  "id": "10024011738",
+                  "name": "Apple - iPhone"
+                }
+              },
+              {
+                "domain": {
+                  "id": "30",
+                  "name": "Entities [Entity Service]",
+                  "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain"
+                },
+                "entity": {
+                  "id": "848920371311001600",
+                  "name": "Technology",
+                  "description": "Technology and computing"
+                }
+              },
+              {
+                "domain": {
+                  "id": "30",
+                  "name": "Entities [Entity Service]",
+                  "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain"
+                },
+                "entity": {
+                  "id": "848985956778561538",
+                  "name": "Mobile",
+                  "description": "Mobile"
+                }
+              }
+            ],
+            "possibly_sensitive": false,
+            "source": "Twitter for iPhone",
+            "includes": {
+              "media": [
+                {
+                  "media_key": "7_1529080876629381121",
+                  "width": 1280,
+                  "public_metrics": {
+                    "view_count": 108
+                  },
+                  "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1529080876629381121/pu/img/2LT7W5QEXAxSe7Ja.jpg",
+                  "type": "video",
+                  "duration_ms": 53166,
+                  "height": 720
+                }
+              ],
+              "users": [
+                {
+                  "verified": false,
+                  "name": "Robb Montgomery",
+                  "protected": false,
+                  "public_metrics": {
+                    "followers_count": 15640,
+                    "following_count": 292,
+                    "tweet_count": 3705,
+                    "listed_count": 232
+                  },
+                  "username": "videojournalist",
+                  "profile_image_url": "https://pbs.twimg.com/profile_images/1511766534041088011/ARazwYXE_normal.jpg",
+                  "url": "https://t.co/1C3bZcx8at",
+                  "location": "Berlin, Germany",
+                  "created_at": "2008-04-29T02:53:14.000Z",
+                  "pinned_tweet_id": "1524309958233399298",
+                  "id": "14579511",
+                  "description": "#MobileJournalism #NewsProduct trainer for Reuters, InterNews, Journalism Co UK, Axel Springer, Mediacorp, Hindustan Times, United Nations, WAN-IFRA.",
+                  "entities": {
+                    "url": {
+                      "urls": [
+                        {
+                          "start": 0,
+                          "end": 23,
+                          "url": "https://t.co/1C3bZcx8at",
+                          "expanded_url": "https://robbmontgomery.com",
+                          "display_url": "robbmontgomery.com"
+                        }
+                      ]
+                    },
+                    "description": {
+                      "hashtags": [
+                        {
+                          "start": 0,
+                          "end": 17,
+                          "tag": "MobileJournalism"
+                        },
+                        {
+                          "start": 18,
+                          "end": 30,
+                          "tag": "NewsProduct"
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "verified": false,
+                  "name": "Journalism.co.uk",
+                  "protected": false,
+                  "public_metrics": {
+                    "followers_count": 5293,
+                    "following_count": 5012,
+                    "tweet_count": 76995,
+                    "listed_count": 347
+                  },
+                  "username": "journalism",
+                  "profile_image_url": "https://pbs.twimg.com/profile_images/1158722186/twitter_avatar_normal.png",
+                  "url": "http://t.co/IwC5yPZBhF",
+                  "location": "Brighton, UK",
+                  "created_at": "2007-04-09T20:52:56.000Z",
+                  "id": "3942881",
+                  "description": "An aggregation of the best journalism and news publishing-related blogs and sites. Suggestions to twitter(at)journalism(dot)co(dot)uk. See also @journalismnews",
+                  "entities": {
+                    "url": {
+                      "urls": [
+                        {
+                          "start": 0,
+                          "end": 22,
+                          "url": "http://t.co/IwC5yPZBhF",
+                          "expanded_url": "http://www.journalism.co.uk",
+                          "display_url": "journalism.co.uk"
+                        }
+                      ]
+                    },
+                    "description": {
+                      "mentions": [
+                        {
+                          "start": 144,
+                          "end": 159,
+                          "username": "journalismnews"
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "verified": false,
+                  "name": "newsrewired",
+                  "protected": false,
+                  "public_metrics": {
+                    "followers_count": 18822,
+                    "following_count": 20826,
+                    "tweet_count": 13196,
+                    "listed_count": 738
+                  },
+                  "username": "newsrewired",
+                  "profile_image_url": "https://pbs.twimg.com/profile_images/732229807199653888/cA0QdhXa_normal.jpg",
+                  "url": "https://t.co/RV12StHrxM",
+                  "location": "London, England",
+                  "created_at": "2009-07-31T15:49:59.000Z",
+                  "pinned_tweet_id": "1529391927128473601",
+                  "id": "61800365",
+                  "description": "The conference for digital media innovators run by @journalismnews. Join us on 24 May. Contact: @OliviaCrellin @CJREdwards ✉ olivia@journalism.co.uk",
+                  "entities": {
+                    "url": {
+                      "urls": [
+                        {
+                          "start": 0,
+                          "end": 23,
+                          "url": "https://t.co/RV12StHrxM",
+                          "expanded_url": "http://www.newsrewired.com",
+                          "display_url": "newsrewired.com"
+                        }
+                      ]
+                    },
+                    "description": {
+                      "mentions": [
+                        {
+                          "start": 51,
+                          "end": 66,
+                          "username": "journalismnews"
+                        },
+                        {
+                          "start": 96,
+                          "end": 110,
+                          "username": "OliviaCrellin"
+                        },
+                        {
+                          "start": 111,
+                          "end": 122,
+                          "username": "CJREdwards"
+                        }
+                      ]
+                    }
+                  }
+                }
+              ],
+              "places": [
+                {
+                  "country": "Verenigd Koninkrijk",
+                  "place_type": "city",
+                  "country_code": "GB",
+                  "full_name": "Camberwell, London",
+                  "geo": {
+                    "type": "Feature",
+                    "bbox": [
+                      -0.1114755,
+                      51.4194247,
+                      -0.0297308,
+                      51.509947
+                    ],
+                    "properties": {}
+                  },
+                  "id": "7f55e839e1715da2",
+                  "name": "Camberwell"
+                }
+              ]
+            }
+          }
+        }
+      }
+    ]
+  ],
+  "markups": [
+    [
+      "a",
+      [
+        "href",
+        "https://www.newsrewired.com"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://twitter.com/SarahMarshall?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://twitter.com/g_piechota"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://twitter.com/nicnewman"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://twitter.com/ajreid"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://twitter.com/videojournalist?s=21&t=QqvScCpbmPV-apVRnKWpUA"
+      ]
+    ],
+    [
+      "em"
+    ]
+  ],
+  "sections": [
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "For the first time in over two years, yesterday I went to an actual, "
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "real-world conference"
+        ],
+        [
+          0,
+          [],
+          0,
+          ". It couldn’t quite escape the touch of Zoom: one speaker had to use it to join her panel, due to a dose of COVID-19. But it was great to sit and listen to people talking intelligently about journalism again."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Of course, as with so many conferences, the “lobby con” was one of the best parts. It was great to catch up with people like "
+        ],
+        [
+          0,
+          [
+            1
+          ],
+          1,
+          "Sarah"
+        ],
+        [
+          0,
+          [],
+          0,
+          ", "
+        ],
+        [
+          0,
+          [
+            2
+          ],
+          1,
+          "Greg"
+        ],
+        [
+          0,
+          [],
+          0,
+          ", "
+        ],
+        [
+          0,
+          [
+            3
+          ],
+          1,
+          "Nic"
+        ],
+        [
+          0,
+          [],
+          0,
+          ", "
+        ],
+        [
+          0,
+          [
+            4
+          ],
+          1,
+          "Alistair, and"
+        ],
+        [
+          0,
+          [],
+          0,
+          " many others, including a couple of people who might be reading this now… I also got to meet "
+        ],
+        [
+          0,
+          [
+            5
+          ],
+          1,
+          "MoJo mastermind Robb"
+        ],
+        [
+          0,
+          [],
+          0,
+          " in person for the first time."
+        ]
+      ]
+    ],
+    [
+      10,
+      0
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Ironically, I’m fairly sure the last event I attended before the pandemic hit was also in News UK’s building by London Bridge. So, it was nice to be back above London, hearing "
+        ],
+        [
+          0,
+          [
+            6
+          ],
+          1,
+          "Times"
+        ],
+        [
+          0,
+          [],
+          0,
+          " editor John Witherow call this a “golden age for serious journalism” to what I think it would be fair to call a mixed reaction."
+        ]
+      ]
+    ],
+    [
+      10,
+      1
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "That’s one thing you miss when a conference is on Zoom. The whispered discussions, the intakes of breath, that distinct feeling of stillness when a speaker has everyone’s attention — and the feel of the room when they disagree with what you’re saying."
+        ]
+      ]
+    ],
+    [
+      10,
+      2
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "It was far from the busiest news:rewired in terms of attendees. I genuinely hope that will change for future iterations — and other conferences in our field. For all the benefits home and hybrid working brings many of us, the chance to gather and discuss things with your peers is invaluable."
+        ]
+      ]
+    ],
+    [
+      1,
+      "h3",
+      [
+        [
+          0,
+          [],
+          0,
+          "Hang on, why didn’t I get yesterday’s posts in my inbox?"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Oh, you noticed that, did you?"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Rather than spamming your inboxes with half a dozen posts yesterday, I decided to just publish them on the site, and send you an aggregate newsletter today. The links to the liveblogs of the sessions I attended are below."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Let me know if this is a good approach for you."
+        ]
+      ]
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Things I missed"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "I do somewhat regret not attending the session on first party data, which Nic was enthusiastic about over lunch. That sounded like an excellent session."
+        ]
+      ]
+    ],
+    [
+      10,
+      3
+    ],
+    [
+      10,
+      4
+    ],
+    [
+      10,
+      5
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "My highlight"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "This, for me, was the most interesting session of the day, with some real insight into newsletter strategy, and how it's changing:"
+        ]
+      ]
+    ],
+    [
+      10,
+      6
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "The sessions I caught"
+        ]
+      ]
+    ],
+    [
+      10,
+      7
+    ],
+    [
+      10,
+      8
+    ],
+    [
+      10,
+      9
+    ],
+    [
+      10,
+      10
+    ],
+    [
+      10,
+      11
+    ],
+    [
+      10,
+      12
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "And finally…"
+        ]
+      ]
+    ],
+    [
+      10,
+      13
+    ],
+    [
+      1,
+      "p",
+      []
+    ]
+  ],
+  "ghostVersion": "4.0"
+}

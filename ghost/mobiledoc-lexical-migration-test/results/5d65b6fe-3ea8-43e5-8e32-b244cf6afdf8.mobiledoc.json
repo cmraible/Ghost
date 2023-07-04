@@ -1,0 +1,1205 @@
+{
+  "version": "0.3.1",
+  "atoms": [],
+  "cards": [
+    [
+      "email-cta",
+      {
+        "showButton": false,
+        "showDividers": false,
+        "segment": "status:free",
+        "alignment": "left",
+        "html": "<p><em>If you appreciate this reporting, please consider </em><a href=\"https://dailyposter.outpost.pub/public/promo-subscription/048cc06618f4fb43ee0\"><em>clicking here for a discount</em></a><em> to become a supporting subscriber to help us do more of this work in 2022. We are a reader-supported independent media outlet, which means we cannot do this accountability journalism without your help. And remember, when you subscribe, you get all sorts of exclusive stuff, including access to our </em><a href=\"__GHOST_URL__/1-5-live-chat/\"><em>live events</em></a><em>, our podcasts, and our </em><a href=\"__GHOST_URL__/citizens-guide-to-holding-the-powerful-accountable/\"><em>Citizens Guide To Holding The Powerful Accountable</em></a><em>.</em></p>",
+        "buttonText": "Subscribe",
+        "buttonUrl": ""
+      }
+    ],
+    [
+      "email-cta",
+      {
+        "showButton": true,
+        "showDividers": false,
+        "segment": "status:free",
+        "alignment": "center",
+        "buttonText": "Subscribe",
+        "buttonUrl": "https://dailyposter.outpost.pub/public/promo-subscription/048cc06618f4fb43ee0#/"
+      }
+    ],
+    [
+      "email-cta",
+      {
+        "showButton": false,
+        "showDividers": false,
+        "segment": "status:-free",
+        "alignment": "left",
+        "html": "<p><em>Thank you for being a supporting subscriber <strong>—</strong> we couldn’t do this work without you pitching in. To help us spread the word, please consider forwarding this email to three friends or family members to show them what we’re all about and encourage them to subscribe by </em><a href=\"__GHOST_URL__/subscribe\"><em>clicking here</em></a><em>.</em></p>"
+      }
+    ],
+    [
+      "email-cta",
+      {
+        "showButton": true,
+        "showDividers": false,
+        "segment": "status:-free",
+        "alignment": "center",
+        "buttonText": "Received This Email From A Friend? Subscribe Here!",
+        "buttonUrl": "__GHOST_URL__/subscribe"
+      }
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "email-cta",
+      {
+        "showButton": true,
+        "showDividers": false,
+        "segment": "status:-free",
+        "alignment": "center",
+        "html": "",
+        "buttonText": "Tip Jar",
+        "buttonUrl": "https://dailyposter.outpost.pub/ghost-integration/60818189ad12f332071054b8/tips"
+      }
+    ],
+    [
+      "email-cta",
+      {
+        "showButton": true,
+        "showDividers": false,
+        "segment": "status:free",
+        "alignment": "center",
+        "html": "",
+        "buttonText": "Subscribe",
+        "buttonUrl": "__GHOST_URL__/subscribe/"
+      }
+    ],
+    [
+      "html",
+      {
+        "html": "<div class=\"outpost-pub-container\" data-btn-allmembers></div>"
+      }
+    ]
+  ],
+  "markups": [
+    [
+      "em"
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/manchin-mocks-sanders-15-wage-bill/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/otherposts/podcast-how-they-killed-a-15-minimum-524/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/fast-food-giant-claims-credit-for/"
+      ]
+    ],
+    [
+      "strong"
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.gao.gov/assets/gao-21-45.pdf"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.cspdailynews.com/foodservice/inspire-brands-acquires-dunkin-113-billion"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/the-american-rescue-plans-money-cannon/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.npr.org/2021/03/09/975259434/house-democrats-pass-bill-that-would-protect-worker-organizing-efforts"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.epi.org/publication/pro-act-problem-solution-chart/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.epi.org/publication/raising-the-federal-minimum-wage-to-15-by-2025-would-lift-the-pay-of-32-million-workers/#:~:text=Summary,to%20workers%20and%20the%20economy."
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/breaking-secret-memo-shows-how-harris/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://money.cnn.com/2015/07/23/news/dunkin-ceo-minimum-wage/index.html"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://m.usw.org/blog/2015/dunkin-donuts-ceo-who-makes-4887-an-hour-outraged-at-15-minimum-wage"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.cbsnews.com/news/ohio-sonic-employees-quit-near-columbus-leave-scathing-notes-over-paychecks/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.payscale.com/research/US/Employer=Dunkin%27_Donuts/Hourly_Rate"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://inspirebrands.com/wp-content/uploads/2020/12/Inspire-Brands-Fact-Sheet_December-2020.pdf"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.huffpost.com/entry/jimmy-johns-union-fight_n_5707e5f4e4b0447a7dbc2d17"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://jimmyjohnliautaud.com/news/jimmy-john-liautaud-included-on-the-forbes-list-of-the-worlds-wealthiest-people/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www1.salary.com/David-Hoffmann-Salary-Bonus-Stock-Options-for-DUNKIN-BRANDS-GROUP-INC.html"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.franchisetimes.com/franchise_news/dunkin-ceo-out-but-stock-payout-up-169-from-years-low/article_4d605b44-40a3-11eb-96dc-a7e5e235a745.html"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.sec.gov/ix?doc=/Archives/edgar/data/0001357204/000135720420000015/dnkn-20191228x10k.htm"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "http://www.roarkcapital.com/files/Inspire%20Brands%20Completes%20Acquisition%20of%20Dunkin.pdf"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.opensecrets.org/orgs/roark-capital-group/totals?id=D000028753"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://sec.report/Document/1357204/000119312520293739/d12583dex99d2.htm"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.oregon.gov/treasury/invested-for-oregon/Documents/Invested-for-OR-Performance-and-Holdings/2020/FOIA-Q2-2020-OPERF-Private-Equity.pdf"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://sra.maryland.gov/sites/main/files/file-attachments/investment_section_2020_cafr.pdf?1609772692"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.lacers.org/sites/main/files/file-attachments/private_equity_performance_as-of_june_30_2020.pdf?1606953495"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://files.adviserinfo.sec.gov/IAPD/Content/Common/crd_iapd_Brochure.aspx?BRCHR_VRSN_ID=635259"
+      ]
+    ]
+  ],
+  "sections": [
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "During this holiday break, The Daily Poster is resurfacing some of our best, most widely read reporting of 2021 that remains relevant to the current moment. We will be back to our normal publishing schedule after the New Year."
+        ]
+      ]
+    ],
+    [
+      10,
+      0
+    ],
+    [
+      10,
+      1
+    ],
+    [
+      10,
+      2
+    ],
+    [
+      10,
+      3
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "EDITOR’S NOTE: Joe Biden and Democrats won the 2020 elections on a promise to enact a $15 minimum wage. But upon taking office, the president and his party quickly discarded the idea. "
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "The Daily Poster"
+        ],
+        [
+          0,
+          [],
+          0,
+          " followed the money and published a series "
+        ],
+        [
+          0,
+          [
+            1
+          ],
+          1,
+          "showing corporate interests"
+        ],
+        [
+          0,
+          [],
+          0,
+          " courting key Corporate Democrats. Our series included "
+        ],
+        [
+          0,
+          [
+            2
+          ],
+          1,
+          "this podcast episode"
+        ],
+        [
+          0,
+          [],
+          0,
+          ". In "
+        ],
+        [
+          0,
+          [
+            3
+          ],
+          1,
+          "this blockbuster report"
+        ],
+        [
+          0,
+          [],
+          0,
+          " from March 2021, we exposed how a powerful private equity firm’s fast food conglomerate took credit for blocking the minimum wage measure."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "Originally published on March 26, 2021"
+        ]
+      ]
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Fast Food Giant Claims Credit For Killing $15 Minimum Wage"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [
+            4,
+            0
+          ],
+          2,
+          "In internal company documents, a private-equity owned conglomerate is bragging to its employees about successfully blocking a boost in pay for low-wage workers."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "By Walker Bragman, Andrew Perez, and David Sirota"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "The parent company of some of America’s largest fast food chains is claiming credit for convincing Congress to exclude a $15 minimum wage from the recent COVID relief bill, according to internal company documents reviewed by "
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "The Daily Poster"
+        ],
+        [
+          0,
+          [],
+          0,
+          ". The company, which is owned by a private equity firm named after an Ayn Rand character, also says it is now working to thwart new union rights legislation."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "The company’s boasts come just a few months after a "
+        ],
+        [
+          0,
+          [
+            5,
+            4
+          ],
+          2,
+          "government report"
+        ],
+        [
+          0,
+          [],
+          0,
+          " found that some of its chains had among the highest percentage of workers relying on food stamps."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Inspire Brands — which owns Jimmy Johns, Arby’s, Sonic, and Buffalo Wild Wings, plus "
+        ],
+        [
+          0,
+          [
+            6,
+            4
+          ],
+          2,
+          "recently acquired"
+        ],
+        [
+          0,
+          [],
+          0,
+          " Dunkin’ Donuts for "
+        ],
+        [
+          0,
+          [
+            6,
+            4
+          ],
+          2,
+          "$11.3 billion in November"
+        ],
+        [
+          0,
+          [],
+          0,
+          " — on Thursday sent employees and franchisees a review of its government lobbying activity that highlighted its success in keeping the $15 minimum wage out of Democrats’ American Rescue Plan, the COVID-19 relief bill President Joe Biden "
+        ],
+        [
+          0,
+          [
+            7,
+            4
+          ],
+          2,
+          "signed earlier this month"
+        ],
+        [
+          0,
+          [],
+          0,
+          "."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "“We were successful in our advocacy efforts to remove the Raise the Wage Act, which would have increased the federal minimum wage to $15 and eliminated the tip credit,” reads the report."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Further down, the report notes the company’s ongoing lobbying campaign in the Senate against "
+        ],
+        [
+          0,
+          [
+            8,
+            4
+          ],
+          2,
+          "the PRO Act"
+        ],
+        [
+          0,
+          [],
+          0,
+          ", which recently passed the House and contains a laundry list of organized labor’s goals, such as eliminating right-to-work laws and "
+        ],
+        [
+          0,
+          [
+            9,
+            4
+          ],
+          2,
+          "banning"
+        ],
+        [
+          0,
+          [],
+          0,
+          " mandatory company-sponsored meetings that are designed to discourage union activity."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "“Under this proposed rule, franchisors could be considered the direct employer of the franchise owners in their system, as well as the restaurant workers those owners employ, taking away the independence of small business owners,” the document said."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "“You get the impression that they’re actively spitting in our eye, saying ‘Yes, we worked to suppress wages of our employees and we’re just going to brazenly tell you,’” one Inspire Brands worker told "
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "The Daily Poster"
+        ],
+        [
+          0,
+          [],
+          0,
+          ". “I really do think that a line was crossed. You’re just going to brazenly tell your employees, ‘not only did we work to kill wages, but going forward we’re also going to make sure that the PRO Act doesn’t pass either.’”"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Inspire Brands did not immediately respond to a request for comment."
+        ]
+      ]
+    ],
+    [
+      1,
+      "h3",
+      [
+        [
+          0,
+          [],
+          0,
+          "Government Report On Low Wages Spotlighted Inspire Brands’ Companies"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "During the 2020 campaign, Democrats pledged to raise the minimum wage to $15 an hour, which would boost the wages of "
+        ],
+        [
+          0,
+          [
+            10,
+            4
+          ],
+          2,
+          "32 million"
+        ],
+        [
+          0,
+          [],
+          0,
+          " workers nationwide, according to a recent report by the Economic Policy Institute (EPI)."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "However, efforts to include a $15 minimum wage in Biden’s pandemic aid bill failed after the Senate parliamentarian advised Democrats such a hike should not be passed by budget reconciliation and Vice President Kamala Harris declined to "
+        ],
+        [
+          0,
+          [
+            11,
+            4
+          ],
+          2,
+          "use her authority"
+        ],
+        [
+          0,
+          [],
+          0,
+          " to override the decision."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Inspire Brands’ success in eliminating the minimum wage hike from the bill follows Dunkin’ Brands’ then-CEO Nigel Travis saying in 2015 that a "
+        ],
+        [
+          0,
+          [
+            12,
+            4
+          ],
+          2,
+          "$15 wage"
+        ],
+        [
+          0,
+          [],
+          0,
+          " would be “absolutely outrageous.” At the time, "
+        ],
+        [
+          0,
+          [
+            13,
+            4
+          ],
+          2,
+          "unions"
+        ],
+        [
+          0,
+          [],
+          0,
+          " noted that Travis was being paid more than $4,000 every hour."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "The minimum wage defeat also follows an October 2020 "
+        ],
+        [
+          0,
+          [
+            5,
+            4
+          ],
+          2,
+          "report"
+        ],
+        [
+          0,
+          [],
+          0,
+          " from the Government Accountability Office finding that low-wage workers at Dunkin’ Donuts, Arby’s, and Sonic were among those relying most heavily on food stamps in states where those franchises operate. In 2019, some Sonic workers "
+        ],
+        [
+          0,
+          [
+            14,
+            4
+          ],
+          2,
+          "walked off the job"
+        ],
+        [
+          0,
+          [],
+          0,
+          " in Ohio in protest of low pay."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "While paying many of its workers "
+        ],
+        [
+          0,
+          [
+            15,
+            4
+          ],
+          2,
+          "below $15"
+        ],
+        [
+          0,
+          [],
+          0,
+          ", Inspire Brands’ franchises are generating "
+        ],
+        [
+          0,
+          [
+            16,
+            4
+          ],
+          2,
+          "$26 billion"
+        ],
+        [
+          0,
+          [],
+          0,
+          " in annual revenue and enriching top executives. The founder of Jimmy John’s — which has been "
+        ],
+        [
+          0,
+          [
+            17,
+            4
+          ],
+          2,
+          "accused"
+        ],
+        [
+          0,
+          [],
+          0,
+          " of busting worker union drives — recently boasted on his "
+        ],
+        [
+          0,
+          [
+            18,
+            4
+          ],
+          2,
+          "website"
+        ],
+        [
+          0,
+          [],
+          0,
+          " that he was named one of the planet’s wealthiest men."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "In the year before Inspire acquired his company, Dunkin’ Brands’ CEO was "
+        ],
+        [
+          0,
+          [
+            19,
+            4
+          ],
+          2,
+          "paid millions"
+        ],
+        [
+          0,
+          [],
+          0,
+          " and then "
+        ],
+        [
+          0,
+          [
+            20,
+            4
+          ],
+          2,
+          "made millions more"
+        ],
+        [
+          0,
+          [],
+          0,
+          " when the deal closed."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "In "
+        ],
+        [
+          0,
+          [
+            21,
+            4
+          ],
+          2,
+          "government filings"
+        ],
+        [
+          0,
+          [],
+          0,
+          " that year, Dunkin’ Brands warned investors about the prospect of low-wage workers being paid better."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "“A significant number of our franchisees’ food-service employees are paid at rates related to the U.S. federal minimum wage and applicable minimum wages in foreign jurisdictions and past increases in the U.S. federal minimum wage and foreign jurisdiction minimum wage have increased labor costs, as would future such increases,” the company wrote. “Any increases in labor costs might result in franchisees inadequately staffing restaurants. Understaffed restaurants could reduce sales at such restaurants, decrease royalty payments, and adversely affect our brands.”"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "The company also bragged that “none of our employees are represented by a labor union, and we believe our relationships with our employees are healthy.”"
+        ]
+      ]
+    ],
+    [
+      1,
+      "h3",
+      [
+        [
+          0,
+          [],
+          0,
+          "“Our Name Signifies Our Admiration For The Qualities Embodied By Howard Roark”"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Inspire Brands is "
+        ],
+        [
+          0,
+          [
+            22,
+            4
+          ],
+          2,
+          "majority owned"
+        ],
+        [
+          0,
+          [],
+          0,
+          " by Roark Capital — a $23 billion private equity giant named after the self-centered protagonist of Ayn Rand novel "
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "The Fountainhead"
+        ],
+        [
+          0,
+          [],
+          0,
+          ", which is considered a foundational conservative text for the defense of billionaires and economic inequality."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "“Our name signifies our admiration for the qualities embodied by Howard Roark,” the firm says on its website. “We are committed to being a good partner in good times, and an even better partner in bad times.”"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Donors from Roark-linked companies delivered more than $800,000 of campaign contributions in the 2020 election cycle, mostly to Republicans, according to data compiled by "
+        ],
+        [
+          0,
+          [
+            23,
+            4
+          ],
+          2,
+          "OpenSecrets"
+        ],
+        [
+          0,
+          [],
+          0,
+          "."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Several state and local retirement systems have invested public employees’ retirement savings in the Roark funds "
+        ],
+        [
+          0,
+          [
+            24,
+            4
+          ],
+          2,
+          "involved"
+        ],
+        [
+          0,
+          [],
+          0,
+          " in Inspire Brands’ takeover of Dunkin’ Brands last year, including the "
+        ],
+        [
+          0,
+          [
+            25,
+            4
+          ],
+          2,
+          "Oregon State Treasury"
+        ],
+        [
+          0,
+          [],
+          0,
+          ", the "
+        ],
+        [
+          0,
+          [
+            26,
+            4
+          ],
+          2,
+          "Maryland State Retirement and Pension System"
+        ],
+        [
+          0,
+          [],
+          0,
+          ", and the "
+        ],
+        [
+          0,
+          [
+            27,
+            4
+          ],
+          2,
+          "Los Angeles City Employees' Retirement System"
+        ],
+        [
+          0,
+          [],
+          0,
+          "."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "In its "
+        ],
+        [
+          0,
+          [
+            28,
+            4
+          ],
+          2,
+          "filings"
+        ],
+        [
+          0,
+          [],
+          0,
+          " with the Securities and Exchange Commission, Roark advised investors that “portfolio companies of the type targeted” by the firm can be “adversely affected by changes in governmental policies” including the minimum wage."
+        ]
+      ]
+    ],
+    [
+      10,
+      4
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [
+            0,
+            4
+          ],
+          2,
+          "This newsletter relies on readers pitching in to support our journalism. If you like this story, please support "
+        ],
+        [
+          0,
+          [
+            4
+          ],
+          1,
+          "The Daily Poster"
+        ],
+        [
+          0,
+          [
+            0,
+            4
+          ],
+          2,
+          "'s work."
+        ]
+      ]
+    ],
+    [
+      10,
+      5
+    ],
+    [
+      10,
+      6
+    ],
+    [
+      10,
+      7
+    ]
+  ],
+  "ghostVersion": "4.0"
+}

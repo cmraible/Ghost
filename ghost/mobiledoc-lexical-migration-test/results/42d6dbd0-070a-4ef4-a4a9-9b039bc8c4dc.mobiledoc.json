@@ -1,0 +1,168 @@
+{
+  "version": "0.3.1",
+  "atoms": [],
+  "cards": [
+    [
+      "email-cta",
+      {
+        "showButton": true,
+        "showDividers": false,
+        "segment": "status:free",
+        "alignment": "center",
+        "html": "<p><strong><em>Please <a href=\"__GHOST_URL__/subscribe\">become a supporting subscriber</a>. You get exclusive podcasts, <a href=\"__GHOST_URL__/citizens-guide-to-holding-the-powerful-accountable/\">digital publications</a>, and live events – and you support this journalism.</em></strong></p>",
+        "buttonText": "Click Here To Subscribe",
+        "buttonUrl": "__GHOST_URL__/subscribe"
+      }
+    ],
+    [
+      "email-cta",
+      {
+        "showButton": true,
+        "showDividers": false,
+        "segment": "status:free",
+        "alignment": "center",
+        "html": "<p><em><strong>This is a short excerpt of </strong></em><strong>The Daily Poster</strong><em><strong>’s Weekend Reading List, which is <a href=\"__GHOST_URL__/weekend-reader-a-pro-korean-war-operatives-shadowy-hustle/\">available to supporting subscribers here</a>. You can </strong></em><a href=\"__GHOST_URL__/subscribe\"><em><strong>click here</strong></em></a><em><strong> to become a </strong></em><strong>Daily Poster</strong><em><strong> supporting subscriber for $8 a month or $70 a year. When you subscribe, you are helping us do this reporting and hire more journalists.</strong></em></p>",
+        "buttonText": "Click Here To Subscribe",
+        "buttonUrl": "__GHOST_URL__/subscribe"
+      }
+    ]
+  ],
+  "markups": [
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/weekend-reader-a-pro-korean-war-operatives-shadowy-hustle/"
+      ]
+    ],
+    [
+      "strong"
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://dailyposter.xyz/about/"
+      ]
+    ]
+  ],
+  "sections": [
+    [
+      10,
+      0
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "When a pair of federal bills were introduced last year — one pressing for diplomatic talks to end the state of war between North Korea, South Korea, and the U.S., and the other urging the U.S. to prioritize Korean family reunification — a digital ad ran in Times Square warning that the bills would “Benefit North Korea and China” and “Dismantle the UN Command and Remove US Troops from S. Korea.” "
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "The messengers? One Korea Network and the Korea Conservative Political Action Conference, wealthy pressure groups working to gin up tensions here and abroad. And as we highlight below in this edition of Weekend Reader, one Honolulu resident is the chief operative pulling the strings behind the scenes — and she may have a personal stake in the matter."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Read all about it in "
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "this week’s Weekend Reader"
+        ],
+        [
+          0,
+          [],
+          0,
+          ", exclusively for supporting subscribers."
+        ]
+      ]
+    ],
+    [
+      1,
+      "h3",
+      [
+        [
+          0,
+          [
+            1
+          ],
+          0,
+          "Also In "
+        ],
+        [
+          0,
+          [
+            2
+          ],
+          1,
+          "Today’s Weekend Reader"
+        ],
+        [
+          0,
+          [],
+          1,
+          ":"
+        ]
+      ]
+    ],
+    [
+      3,
+      "ul",
+      [
+        [
+          [
+            0,
+            [],
+            0,
+            "Can Biden hold the line on no “no-fly zone” in Ukraine as warmongers grow louder?"
+          ]
+        ],
+        [
+          [
+            0,
+            [],
+            0,
+            "Republicans are betting on an “awake, not woke” strategy."
+          ]
+        ],
+        [
+          [
+            0,
+            [],
+            0,
+            "Descendants of West Ford want Virginians to know his name."
+          ]
+        ]
+      ]
+    ],
+    [
+      10,
+      1
+    ]
+  ],
+  "ghostVersion": "4.0"
+}

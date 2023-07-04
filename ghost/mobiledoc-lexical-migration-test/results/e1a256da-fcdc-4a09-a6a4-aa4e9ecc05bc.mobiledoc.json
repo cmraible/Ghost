@@ -1,0 +1,198 @@
+{
+  "version": "0.3.1",
+  "atoms": [],
+  "cards": [
+    [
+      "image",
+      {
+        "src": "__GHOST_URL__/content/images/2023/05/paywalled.jpg",
+        "width": 2582,
+        "height": 2104,
+        "caption": "You've hit the memberwall",
+        "alt": "What hitting the Ghost memberwall looks like"
+      }
+    ],
+    [
+      "image",
+      {
+        "src": "__GHOST_URL__/content/images/2023/05/click-here.jpg",
+        "width": 3094,
+        "height": 1054,
+        "caption": "Here's where you click for access",
+        "alt": "How subscribers access a Ghost site"
+      }
+    ],
+    [
+      "image",
+      {
+        "src": "__GHOST_URL__/content/images/2023/05/email-sign-in-link.jpg",
+        "width": 2114,
+        "height": 1600,
+        "caption": "Your login email",
+        "alt": "A ghost login email"
+      }
+    ],
+    [
+      "image",
+      {
+        "src": "__GHOST_URL__/content/images/2023/05/and-you-re-in.jpg",
+        "width": 2445,
+        "height": 2245,
+        "caption": "The notes are yours!",
+        "alt": "A logged in page on OM&HB"
+      }
+    ],
+    [
+      "image",
+      {
+        "src": "__GHOST_URL__/content/images/2023/05/account-management.jpg",
+        "width": 1102,
+        "height": 1260,
+        "caption": "Account management in Ghost",
+        "alt": "Account management in Ghost"
+      }
+    ]
+  ],
+  "markups": [
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/#/portal/account"
+      ]
+    ]
+  ],
+  "sections": [
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "When you click on the link to the course notes, you'll see a screen like this:"
+        ]
+      ]
+    ],
+    [
+      10,
+      0
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Don't worry — I'm not asking you to pay! You just need to click the “login” button under the big green “Subscribe” button:"
+        ]
+      ]
+    ],
+    [
+      10,
+      1
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "You'll be asked to put in your email address: use the same one all your course correspondence was delivered to. "
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "A few moments later, you should get an email that looks like this:"
+        ]
+      ]
+    ],
+    [
+      10,
+      2
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Click on the Sign in link, and you should come staright back to the page you were on — but with full access:"
+        ]
+      ]
+    ],
+    [
+      10,
+      3
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "You can also change your email address (if you move jobs, for example) or subscribe to my newsletters (you're unsubscribed by default)  just by clicking the account button in the top right — or "
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "clicking here"
+        ],
+        [
+          0,
+          [],
+          0,
+          ". "
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "That will pop up a window like this:"
+        ]
+      ]
+    ],
+    [
+      10,
+      4
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Any problems? Drop me a line."
+        ]
+      ]
+    ]
+  ],
+  "ghostVersion": "4.0"
+}

@@ -1,0 +1,892 @@
+{
+  "version": "0.3.1",
+  "atoms": [],
+  "cards": [
+    [
+      "hr",
+      {}
+    ],
+    [
+      "image",
+      {
+        "src": "__GHOST_URL__/content/images/2023/03/Untitled.png",
+        "width": 1600,
+        "height": 900
+      }
+    ],
+    [
+      "button",
+      {
+        "alignment": "center",
+        "buttonText": "Click Here To Listen To This Week’s Episode",
+        "buttonUrl": "https://share.transistor.fm/s/c1b53074"
+      }
+    ],
+    [
+      "button",
+      {
+        "alignment": "center",
+        "buttonUrl": "__GHOST_URL__/subscribe-to-lever-time/",
+        "buttonText": "Click Here To Subscribe To Lever Time"
+      }
+    ],
+    [
+      "email-cta",
+      {
+        "showButton": false,
+        "showDividers": false,
+        "segment": "status:free",
+        "alignment": "left",
+        "html": "<p><strong>BONUS: </strong><em><strong>Lever Time Premium</strong></em><strong> &nbsp;(the extended version of </strong><em><strong>Lever Time </strong></em><strong>which is exclusively available for supporting subscribers) features additional interviews and exclusive political analysis.</strong></p>",
+        "buttonText": "Upgrade Now",
+        "buttonUrl": "__GHOST_URL__/lever-time-premium/"
+      }
+    ],
+    [
+      "email-cta",
+      {
+        "showButton": true,
+        "showDividers": false,
+        "segment": "status:free",
+        "alignment": "center",
+        "buttonText": "Upgrade Now",
+        "buttonUrl": "__GHOST_URL__/lever-time-premium/"
+      }
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "image",
+      {
+        "src": "__GHOST_URL__/content/images/2023/03/MVC_WIDE_4k-2-5.jpg",
+        "width": 2000,
+        "height": 1125
+      }
+    ],
+    [
+      "button",
+      {
+        "alignment": "center",
+        "buttonText": "Click Here To Listen To This Week’s Episode",
+        "buttonUrl": "https://share.transistor.fm/s/7a030dc3"
+      }
+    ],
+    [
+      "button",
+      {
+        "alignment": "center",
+        "buttonText": "Click Here To Subscribe To Movies vs. Capitalism",
+        "buttonUrl": "https://linktr.ee/movies_vs_capitalism"
+      }
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "image",
+      {
+        "src": "https://lh3.googleusercontent.com/39JArbjJWxlXLNbrYmUCGAQmhYIz17vtTnbFeD5exNTfizb3UQZHtpBTRK7t9EL0qHBwNeVV3MQOwdsedxYMrJkPug7a1_ICoFhaGzm5D8LzR9OkPnueNVXV7BlN6v6z825OG1KAjrYRl3hwsT1EaAM",
+        "width": 337,
+        "height": 189
+      }
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "button",
+      {
+        "alignment": "center",
+        "buttonText": "Tip Jar",
+        "buttonUrl": "https://dailyposter.outpost.pub/ghost-integration/60818189ad12f332071054b8/tips"
+      }
+    ],
+    [
+      "email",
+      {
+        "html": "<p><em><strong>Help us spread the word! </strong>Please forward this email to family and friends.<strong>Was this email forwarded to you?</strong></em><a href=\"https://levernews.com/membership/?utm_source=daily&amp;utm_medium=link&amp;utm_campaign=forward-signup\"><em><strong> </strong>Sign up for free</em></a><em> to receive original reporting like this in your inbox every day.</em></p>"
+      }
+    ]
+  ],
+  "markups": [
+    [
+      "em"
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://histsci.fas.harvard.edu/people/naomi-oreskes"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.bloomsbury.com/us/big-myth-9781635573572/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://share.transistor.fm/s/c1b53074/transcript"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.instagram.com/rythatblackguy/?igshid=YmMyMTA2M2Y%3D"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://otter.ai/u/NbP_6eExj9wceXue14SSQ95E-Z8?utm_source=copy_url"
+      ]
+    ],
+    [
+      "strong"
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://podcasts.apple.com/us/podcast/the-audit/id1646493564"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://open.spotify.com/show/4fK4XZf9IdtmMVtJ2CFFO9"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy50cmFuc2lzdG9yLmZtL3RoZS1hdWRpdA"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.iheart.com/podcast/269-the-audit-102363375/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://music.amazon.com/podcasts/3e63f3ef-d604-48c2-bfe5-44dc0b1f24d8/the-audit"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.stitcher.com/show/1026978"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://overcast.fm/itunes1646493564/the-audit"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://pca.st/aahlx8sb"
+      ]
+    ]
+  ],
+  "sections": [
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "This week, we dig into key moments in history that are all too often overlooked. On "
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "Lever Time"
+        ],
+        [
+          0,
+          [],
+          0,
+          ", David talks with Harvard University’s Naomi Oreskes about the pernicious developments that led the idea of “market fundamentalism” to become central to the U.S. way of life. And on "
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "Movies vs. Capitalism"
+        ],
+        [
+          0,
+          [],
+          0,
+          ", Rivka and Frank explore the life and death of Black activist Fred Hampton in their discussion of the 2021 biopic "
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "Judas and the Black Messiah"
+        ],
+        [
+          0,
+          [],
+          0,
+          "."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Learn more and find the episode links below."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Rock the boat"
+        ]
+      ]
+    ],
+    [
+      10,
+      0
+    ],
+    [
+      1,
+      "h3",
+      [
+        [
+          0,
+          [],
+          0,
+          "LEVER TIME: Who Created America’s Free Market Mythology?"
+        ]
+      ]
+    ],
+    [
+      10,
+      1
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "In the new episode of our weekly podcast "
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "Lever Time"
+        ],
+        [
+          0,
+          [],
+          0,
+          ", David Sirota speaks with "
+        ],
+        [
+          0,
+          [
+            1
+          ],
+          1,
+          "Harvard"
+        ],
+        [
+          0,
+          [],
+          0,
+          " Professor Naomi Oreskes about the mythology of “market fundamentalism” that exists deep within the American psyche."
+        ]
+      ]
+    ],
+    [
+      10,
+      2
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Where did the idea of an unfettered free market really come from? Oreskes explains how the total belief in the wisdom of free markets went from being on the fringes of public debate to a dogmatic ideology that is unique to the United States."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "It’s a fascinating history involving key figures of the 20th century, including Herbert Hoover, industry groups, and a massively popular show called “General Electric Theatre,” which starred a Hollywood actor named Ronald Reagan."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Oreskes is co-author of the new "
+        ],
+        [
+          0,
+          [
+            2
+          ],
+          1,
+          "book"
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          ", “The Big Myth: How American Business Taught Us to Loathe Government and Love the Free Market.”"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Read a rough transcript of this episode "
+        ],
+        [
+          0,
+          [
+            3
+          ],
+          1,
+          "here"
+        ],
+        [
+          0,
+          [],
+          0,
+          "."
+        ]
+      ]
+    ],
+    [
+      10,
+      3
+    ],
+    [
+      10,
+      4
+    ],
+    [
+      10,
+      5
+    ],
+    [
+      10,
+      6
+    ],
+    [
+      1,
+      "h3",
+      [
+        [
+          0,
+          [],
+          0,
+          "MOVIES VS. CAPITALISM: Judas and the Black Messiah (w/ Ryan Christian)"
+        ]
+      ]
+    ],
+    [
+      10,
+      7
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "On this week’s "
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "Movies vs. Capitalism"
+        ],
+        [
+          0,
+          [],
+          0,
+          ", Rivka and Frank are joined by "
+        ],
+        [
+          0,
+          [
+            4
+          ],
+          1,
+          "Ryan Christian"
+        ],
+        [
+          0,
+          [],
+          0,
+          " (actor, writer, activist) for a weighty conversation about the 2021 Fred Hampton biopic, "
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "Judas and the Black Messiah"
+        ],
+        [
+          0,
+          [],
+          0,
+          "."
+        ]
+      ]
+    ],
+    [
+      10,
+      8
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "The group breaks down how the film leans into its revolutionary politics, how rare it is to see a non-whitewashed version of Black radicalism in pop culture, the history of violence and repression perpetrated by U.S. intelligence agencies, and how the film deftly balances pathos along with its political messaging."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Rivka and Frank also speak about “doomerism” and the emotional and psychological toll that late stage capitalism can have on the human psyche."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "A rough transcript of the episode is available "
+        ],
+        [
+          0,
+          [
+            5
+          ],
+          1,
+          "here"
+        ],
+        [
+          0,
+          [],
+          0,
+          "."
+        ]
+      ]
+    ],
+    [
+      10,
+      9
+    ],
+    [
+      10,
+      10
+    ],
+    [
+      1,
+      "h3",
+      [
+        [
+          0,
+          [],
+          0,
+          "THE AUDIT: Catch Up On All Of The Episodes"
+        ]
+      ]
+    ],
+    [
+      10,
+      11
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "The Audit"
+        ],
+        [
+          0,
+          [],
+          0,
+          "’s study group has now completed two separate mini-seasons. First, the team audited George W. Bush’s MasterClass on authentic leadership (which was terrible), and then they audited political consultants David Axelrod and Karl Rove’s MasterClass on campaign strategy and messaging (which was somehow worse). Make sure to catch up on all of the episodes below!"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [
+            6
+          ],
+          1,
+          "Find "
+        ],
+        [
+          0,
+          [
+            0,
+            6
+          ],
+          2,
+          "The Audit"
+        ],
+        [
+          0,
+          [
+            6
+          ],
+          1,
+          " on your preferred podcast player:"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [
+            7,
+            6
+          ],
+          2,
+          "Apple Podcasts"
+        ],
+        [
+          0,
+          [
+            6
+          ],
+          1,
+          " ~"
+        ],
+        [
+          0,
+          [
+            8,
+            6
+          ],
+          0,
+          " "
+        ],
+        [
+          0,
+          [],
+          2,
+          "Spotify"
+        ],
+        [
+          0,
+          [
+            6
+          ],
+          1,
+          " ~"
+        ],
+        [
+          0,
+          [
+            9,
+            6
+          ],
+          0,
+          " "
+        ],
+        [
+          0,
+          [],
+          2,
+          "Google Podcasts"
+        ],
+        [
+          0,
+          [
+            6
+          ],
+          1,
+          " ~"
+        ],
+        [
+          0,
+          [
+            10,
+            6
+          ],
+          0,
+          " "
+        ],
+        [
+          0,
+          [],
+          2,
+          "iHeartRadio"
+        ],
+        [
+          0,
+          [
+            6
+          ],
+          0,
+          " "
+        ],
+        [
+          0,
+          [],
+          1,
+          "\t"
+        ],
+        [
+          0,
+          [
+            11,
+            6
+          ],
+          2,
+          "Amazon"
+        ],
+        [
+          0,
+          [
+            6
+          ],
+          1,
+          " ~"
+        ],
+        [
+          0,
+          [
+            12,
+            6
+          ],
+          0,
+          " "
+        ],
+        [
+          0,
+          [],
+          2,
+          "Stitcher"
+        ],
+        [
+          0,
+          [
+            6
+          ],
+          1,
+          " ~"
+        ],
+        [
+          0,
+          [
+            13,
+            6
+          ],
+          0,
+          " "
+        ],
+        [
+          0,
+          [],
+          2,
+          "Overcast"
+        ],
+        [
+          0,
+          [
+            6
+          ],
+          1,
+          " ~"
+        ],
+        [
+          0,
+          [
+            14,
+            6
+          ],
+          0,
+          " "
+        ],
+        [
+          0,
+          [],
+          2,
+          "Pocket Casts"
+        ]
+      ]
+    ],
+    [
+      10,
+      12
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "If you enjoy "
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "The Lever"
+        ],
+        [
+          0,
+          [],
+          0,
+          "’s original podcasts, feel free to pitch into the tip jar — it helps us do this kind of reporting:"
+        ]
+      ]
+    ],
+    [
+      10,
+      13
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Thanks so much for supporting the work we do at "
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "The Lever"
+        ],
+        [
+          0,
+          [],
+          0,
+          " — you’re helping us build a powerful independent voice to take on corporate media."
+        ]
+      ]
+    ],
+    [
+      10,
+      14
+    ]
+  ],
+  "ghostVersion": "4.0"
+}

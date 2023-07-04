@@ -1,0 +1,876 @@
+{
+  "version": "0.3.1",
+  "atoms": [],
+  "cards": [
+    [
+      "image",
+      {
+        "src": "__GHOST_URL__/content/images/2019/10/revenue.png",
+        "alt": "Newspaper advertising revenue versus Google and Facebook between the 1950s and 2020",
+        "cardWidth": "wide"
+      }
+    ],
+    [
+      "embed",
+      {
+        "url": "https://twitter.com/johnonolan/status/1180325220969639936?s=21",
+        "html": "<blockquote class=\"twitter-tweet\"><p lang=\"en\" dir=\"ltr\">I&#39;m launching a private (paid) publication / blog / newsletter in the next couple of weeks and honestly this is the most excited I&#39;ve been about a new thing in a long time.<br><br>Super bullish on the future of small, engaged audiences rather than massive, anonymous, fleeting views.</p>&mdash; John O&#39;Nolan (@JohnONolan) <a href=\"https://twitter.com/JohnONolan/status/1180325220969639936?ref_src=twsrc%5Etfw\">October 5, 2019</a></blockquote>\n<script async src=\"https://platform.twitter.com/widgets.js\" charset=\"utf-8\"></script>\n",
+        "type": "rich"
+      }
+    ],
+    [
+      "image",
+      {
+        "src": "__GHOST_URL__/content/images/2019/10/redacted-members-ghost.png",
+        "cardWidth": "wide",
+        "alt": "Membership management in Ghost 3.0"
+      }
+    ],
+    [
+      "image",
+      {
+        "src": "__GHOST_URL__/content/images/2019/10/ghost-members-settings.png",
+        "cardWidth": "wide",
+        "alt": "The membership management see settings in Ghost"
+      }
+    ],
+    [
+      "image",
+      {
+        "src": "__GHOST_URL__/content/images/2019/10/Ghost-stripe.png",
+        "alt": "Using Stripe to pay for a subscription in Ghost 3.0",
+        "cardWidth": "wide"
+      }
+    ],
+    [
+      "image",
+      {
+        "src": "__GHOST_URL__/content/images/2019/10/67228748-1fdd1400-f464-11e9-921f-ecbf5f412ed5.png",
+        "cardWidth": "wide"
+      }
+    ]
+  ],
+  "markups": [
+    [
+      "a",
+      [
+        "href",
+        "https://ghost.org/blog/3-0/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://ghost.org/members/"
+      ]
+    ],
+    [
+      "em"
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://substack.com/about?utm_source=menu-dropdown"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.getrevue.co"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://forum.ghost.org/t/memberships-subscriptions/377"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://ghost.org/blog/admin-api/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://zapier.com"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://ghost.org/integrations/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://ghost.org/pricing/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://on.substack.com/p/the-future-of-substack"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/2013/04/kickstarting_ghost_-_a_blog_platform/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.axate.com"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://theaircurrent.com"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://memberful.com"
+      ]
+    ]
+  ],
+  "sections": [
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Today, "
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "Ghost 3.0 launches"
+        ],
+        [
+          0,
+          [],
+          0,
+          " — and it's a significant release for small and independent publishers. With this release, all the key tech you need to "
+        ],
+        [
+          0,
+          [
+            1
+          ],
+          1,
+          "build a membership site is built in"
+        ],
+        [
+          0,
+          [],
+          0,
+          " — including the out-of-the-box ability to create paywalled articles. "
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Given the major shift towards reader revenue as a key structural plank of supporting our industry, having an out-of-the-box solution that can get you up and running with a members-site in a matter of hours is a "
+        ],
+        [
+          0,
+          [
+            2
+          ],
+          1,
+          "huge"
+        ],
+        [
+          0,
+          [],
+          0,
+          " boon for smaller and independent publishers — and quite possibly something medium-size publisher should pay attention to as well, as a means of keeping their technology costs under control."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Regular readers here will be deeply familiar with the problem this is aiming to solve. The Ghost team have summed it up nicely like this:"
+        ]
+      ]
+    ],
+    [
+      10,
+      0
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "The shift to memberships and other forms of recurring reader revenue is an inevitable result of that. Up until now, most of the solutions that allow you to get up and going on a single platform have focused on newsletters, with "
+        ],
+        [
+          0,
+          [
+            3
+          ],
+          1,
+          "Substack"
+        ],
+        [
+          0,
+          [],
+          0,
+          " and "
+        ],
+        [
+          0,
+          [
+            4
+          ],
+          1,
+          "Revue"
+        ],
+        [
+          0,
+          [],
+          0,
+          " being two examples. "
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "This brings that idea to the web — but with some critical differences. One of those is that Ghost isn't charging you a penny for any of your subscribers. More on that later.  "
+        ]
+      ]
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "How Ghost memberships work"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Well over a year ago, the Ghost team announced that memberships and subscription were coming to the platform, but then everything went very quite on that front, other than the idea remaining resolutely as "
+        ],
+        [
+          0,
+          [
+            5
+          ],
+          1,
+          "\"planned\" on their forums"
+        ],
+        [
+          0,
+          [],
+          0,
+          ". And then, just a few weeks ago, their co-founder, John O'Nolan tweeted this:"
+        ]
+      ]
+    ],
+    [
+      10,
+      1
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "A clear sign that the functionality was on its way in the very near future. Indeed it was, and it releases today. Over the weekend, O'Nolan was kind enough to give me a tour of the new version of Ghost. "
+        ]
+      ]
+    ],
+    [
+      1,
+      "h3",
+      [
+        [
+          0,
+          [],
+          0,
+          "From subscribers to members"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "In version 2, Ghost had a rather anaemic \"subscribers\" section, where people could sign up for email notifications of your posts. But toa ctually deliver anything, you had to sync that list to another service — I use MailChimp here, for example."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "In 3.0 those subscriptions are upgraded to members, and become what O'Nolan described to me as an \"equal data type\" to the existing posts and pages. This matters, because they aren't seen as additional to the publishing platform conceptually — they're integrated into the heart of it. You can see this here in the revamped admin:"
+        ]
+      ]
+    ],
+    [
+      10,
+      2
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "And here's the membership settings screen:"
+        ]
+      ]
+    ],
+    [
+      10,
+      3
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "The membership is a password-free system. When you want to login on a new device, the system send you an email with a magic link in it that logs you in. If you've used Slack or Micro.blog, you'll be familiar with this. If people want to upgrade a free membership to a paid subscription,  subscriptions are processed through Stripe:"
+        ]
+      ]
+    ],
+    [
+      10,
+      4
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "I particularly like the Apple Pay integration - that's going to make impulse-subcriptions much easier. "
+        ]
+      ]
+    ],
+    [
+      1,
+      "h3",
+      [
+        [
+          0,
+          [],
+          0,
+          "Choosing content availability"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Once you have a growing member base, you can publish posts at three levels:"
+        ]
+      ]
+    ],
+    [
+      3,
+      "ul",
+      [
+        [
+          [
+            0,
+            [],
+            0,
+            "Free for everyone"
+          ]
+        ],
+        [
+          [
+            0,
+            [],
+            0,
+            "Available to registered members"
+          ]
+        ],
+        [
+          [
+            0,
+            [],
+            0,
+            "Available to paying members"
+          ]
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "It's obviously useful to have all three, but you can pick between them. You don't "
+        ],
+        [
+          0,
+          [
+            2
+          ],
+          1,
+          "have"
+        ],
+        [
+          0,
+          [],
+          0,
+          " to offer registration-only posts, or free posts, if you don't want to. I'd always advise giving at the very least "
+        ],
+        [
+          0,
+          [
+            2
+          ],
+          1,
+          "some"
+        ],
+        [
+          0,
+          [],
+          0,
+          " free posts. It's very hard for people to gain any clear impression of the value of what you're asking them to pay for without those. "
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "If people try to access a post at above their member level, this is what they see:"
+        ]
+      ]
+    ],
+    [
+      10,
+      5
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "The tech is straightforward at the moment — there's no ability to set a limit of the number of posts you can have as a registered member, for example. The restriction is on a per-post basis. "
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "You can set the monthly or yearly subscription amounts as you see fit. In the first version, you're limited to working in US dollars, but that will change in later version, according to O'Nolan. "
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Designating the availability level of posts is simply done in the same post sidebar interface that you set other details of a Ghost post (like the SEO metadata or Open Graph information)."
+        ]
+      ]
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Integrating your membership site with other platforms"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "One of the interesting things that's been happening over the past year with Ghost is the release of a couple of really robust APIs:"
+        ]
+      ]
+    ],
+    [
+      3,
+      "ul",
+      [
+        [
+          [
+            0,
+            [],
+            0,
+            "A content API for getting content out of your database - great if you want run GHost \"headless\" - as a content store, but published out using a different tool."
+          ]
+        ],
+        [
+          [
+            0,
+            [],
+            0,
+            "An "
+          ],
+          [
+            0,
+            [
+              6
+            ],
+            1,
+            "admin API"
+          ],
+          [
+            0,
+            [],
+            0,
+            " for managing your site - and putting content into the database (for example, I often write in Ulysses and publish into Ghost from there via the API.)"
+          ]
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "This become more significant with the launch of memberships. You can sync your member and subscriber lists with other sevrices via "
+        ],
+        [
+          0,
+          [
+            7
+          ],
+          1,
+          "Zapier"
+        ],
+        [
+          0,
+          [],
+          0,
+          ". Thus, for example, you could publish newsletters to members using the content API to push posts into a newsletter platform, and using Zapier to keep the email addresses in sync."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "There are other "
+        ],
+        [
+          0,
+          [
+            8
+          ],
+          1,
+          "possible integrations you could use"
+        ],
+        [
+          0,
+          [],
+          0,
+          ", too. Your members aren't restricted to just reading content on the web; you can angage with them in other ways, too. "
+        ]
+      ]
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Why this matters"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "So, yes, you can build something like this out of, say WordPress. But that requires assembling the moving parts from a range of plugins and components. That can be fine — but it can also be a nightmare, if one critical element of that chain breaks, or isn't updated for a new release of the platform. The only dependencey at the moment is on Stripe as a backend payment processor. And, critically, Ghost themselves don't take "
+        ],
+        [
+          0,
+          [
+            2
+          ],
+          1,
+          "any"
+        ],
+        [
+          0,
+          [],
+          0,
+          " cut of your recuriing revenue. Stripe will, of course, but you're not paying for the membership functionality. "
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Ghost, although you can pay to have it run and hosted by the Ghost Foundation at "
+        ],
+        [
+          0,
+          [
+            9
+          ],
+          1,
+          "ghost(pro)"
+        ],
+        [
+          0,
+          [],
+          0,
+          " (which is where this very site is hosted), is also available as open source software - and all the membership tech is built in. So, you are not dependent on the continued existence of the Ghost Foundation for your site to keep running, not do you need to pay them anything. If you wnat to grab the software, install it on your own servers and start publishing, you're free to do so. "
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "In a world of publishing platforms that are dominated by venture capital-backed operations, (even the newsletter platform "
+        ],
+        [
+          0,
+          [
+            10
+          ],
+          1,
+          "Substack has raised $17.5m in VC funding"
+        ],
+        [
+          0,
+          [],
+          0,
+          ") this is a refreshing state-of-affairs. The Ghost Foundation has an annual run rate of $1.73m (and posts this publicly) — and hasn't taken VC money. Ghost was actually launched as a Kickstarter, which "
+        ],
+        [
+          0,
+          [
+            11
+          ],
+          1,
+          "long-term readers might remember"
+        ],
+        [
+          0,
+          [],
+          0,
+          "…   "
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Fundementally, for most journalism businesses, tech is NOT their key competitive advantage, nor should it be. The more easy to install and use publishing platfroms we have, the more likely we are to be able to build a greater diversity of sustainable publishing businesses. Ghost joins a growing number of organisations providing solutions to make that possible, like "
+        ],
+        [
+          0,
+          [
+            12
+          ],
+          1,
+          "Axate"
+        ],
+        [
+          0,
+          [],
+          0,
+          " the digital wallet provider. "
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "O'Nolan suggested that he thought the platform is one viable route for local news to thrive. He's probably right, but my passion has always been niche publishing, and the ability to get a member-supported niche site up and going just became an awful lot easier. My former collegue John Ostrower runs a site called "
+        ],
+        [
+          0,
+          [
+            13
+          ],
+          1,
+          "The Air Current"
+        ],
+        [
+          0,
+          [],
+          0,
+          ", for example, that's build on top of WordPress with a "
+        ],
+        [
+          0,
+          [
+            14
+          ],
+          1,
+          "Memberful"
+        ],
+        [
+          0,
+          [],
+          0,
+          " susbscription system. You could replicate that in Ghost without having to connect those two parts. "
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "I'm really excited to see in the coming months what sorts of businesses this will enable — and to see how the platform itself develops. This is just the very first release of the member-centric functionality. How it will develop in the future will be very interesting indeed."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      []
+    ]
+  ],
+  "ghostVersion": "3.0"
+}

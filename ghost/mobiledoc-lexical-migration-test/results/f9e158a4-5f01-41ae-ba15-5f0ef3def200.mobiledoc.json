@@ -1,0 +1,438 @@
+{
+  "version": "0.3.1",
+  "atoms": [],
+  "cards": [
+    [
+      "hr",
+      {}
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "html",
+      {
+        "html": "<table id=\"production-numbers-table\">\n<tbody>\n\t<tr>\n\t\t<td>Coupe</td>\n\t\t<td>135,819</td>\n\t</tr>\n    <tr>\n\t\t<td>4-Dr. Sedan</td>\n\t\t<td>60,283</td>\n\t</tr>\n    <tr>\n\t\t<td>Hatchback Coupe</td>\n\t\t<td>44,954</td>\n\t</tr>\n    <tr>\n\t\t<td>Custom Hatchback</td>\n\t\t<td>46,058</td>\n\t</tr>\n    <tr>\n\t\t<td>Custom Coupe</td>\n\t\t<td>58,378</td>\n\t</tr>\n    <tr>\n\t\t<td>Custom 4-Dr. Sedan</td>\n\t\t<td>24,017</td>\n\t</tr>\n\t\t<td><b>Total Production</b></td>\n\t\t<td><b>393,526</b></td>\n\t</tr>\n</tbody>\n</table>"
+      }
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "html",
+      {
+        "html": "<table id=\"performance-specs-table\">\n<tbody>\n\t<tr>\n\t\t<th><b>Engine</b></th>\n\t\t<th><b>Size</b></td>\n\t\t<th><b>Carb.</b></td>\n\t\t<th><b>HP</b></td>\n\t\t<th><b>Torque</b></td>\n\t\t<th><b>0 to 60</b></td>\n\t\t<th><b>Quarter mile</b></td>\n\t</tr>\n\t<tr>\n\t\t<td>Turbo-Fire 307</td>\n\t\t<td>307ci</td>\n\t\t<td>1x2bbl</td>\n\t\t<td>115hp</td>\n\t\t<td>-</td>\n\t\t<td>-</td>\n\t\t<td>-</td>\n\t</tr>\n    <tr>\n\t\t<td>Turbo-Thrift 250</td>\n\t\t<td>250ci</td>\n\t\t<td>1x1bbl</td>\n\t\t<td>100hp</td>\n\t\t<td>-</td>\n\t\t<td>-</td>\n\t\t<td>-</td>\n\t</tr>\n    <tr>\n\t\t<td>Turbo-Fire 350</td>\n\t\t<td>350ci</td>\n\t\t<td>1x2bbl/1x4bbl</td>\n\t\t<td>145/175hp</td>\n\t\t<td>-</td>\n\t\t<td>-</td>\n\t\t<td>15.47 sec @89.93 mph</td>\n\t</tr>\n</tbody>\n</table>"
+      }
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "html",
+      {
+        "html": "<h4 id='colors-sub-heading'>Exterior</h4>\n<div class=\"colors-row\">\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #ecedf0\"></div>\n        <div class=\"color-name\">Antique White</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #8db2d5\"></div>\n        <div class=\"color-name\">Light Blue Metallic</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #377bba\"></div>\n        <div class=\"color-name\">Dark Blue Metallic</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #01152f\"></div>\n        <div class=\"color-name\">Midnight Blue Metallic</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #00660e\"></div>\n        <div class=\"color-name\">Dark Green Metallic</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #94beac\"></div>\n        <div class=\"color-name\">Light Green Metallic</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #828e4d\"></div>\n        <div class=\"color-name\">Green-Gold Metallic</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #001701\"></div>\n        <div class=\"color-name\">Midnight Green</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #dfe17e\"></div>\n        <div class=\"color-name\">Light Yellow</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #b9a54e\"></div>\n        <div class=\"color-name\">Chamois</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #b28a44\"></div>\n        <div class=\"color-name\">Light Copper Metallic</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #adbab8\"></div>\n        <div class=\"color-name\">Silver Metallic</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #4e1a02\"></div>\n        <div class=\"color-name\">Dark Brown Metallic</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #680103\"></div>\n        <div class=\"color-name\">Dark Red Metallic</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #bf2001\"></div>\n        <div class=\"color-name\">Medium Red</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #b67d12\"></div>\n        <div class=\"color-name\">Medium Orange Metallic</div>\n    </div>\n</div>\n\n<h4 id='colors-sub-heading'>Interior</h4>\n<div class=\"colors-row\">\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #000000\"></div>\n        <div class=\"color-name\">Black</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #193942\"></div>\n        <div class=\"color-name\">Blue</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #3d756c\"></div>\n        <div class=\"color-name\">Green</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #a9a582\"></div>\n        <div class=\"color-name\">Neutral</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #b9a54e\"></div>\n        <div class=\"color-name\">Chamois</div>\n    </div>\n</div>\n"
+      }
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "gallery",
+      {
+        "images": [
+          {
+            "fileName": "1604_1973nova_01_low_res.jpg",
+            "row": 0,
+            "width": 790,
+            "height": 1020,
+            "src": "__GHOST_URL__/content/images/2020/07/1604_1973nova_01_low_res.jpg"
+          },
+          {
+            "fileName": "1605_1973nova_02_low_res.jpg",
+            "row": 0,
+            "width": 790,
+            "height": 511,
+            "src": "__GHOST_URL__/content/images/2020/07/1605_1973nova_02_low_res.jpg"
+          },
+          {
+            "fileName": "1606_1973nova_03_low_res.jpg",
+            "row": 0,
+            "width": 789,
+            "height": 1024,
+            "src": "__GHOST_URL__/content/images/2020/07/1606_1973nova_03_low_res.jpg"
+          },
+          {
+            "fileName": "1607_1973nova_04_low_res.jpg",
+            "row": 1,
+            "width": 790,
+            "height": 1023,
+            "src": "__GHOST_URL__/content/images/2020/07/1607_1973nova_04_low_res.jpg"
+          },
+          {
+            "fileName": "1608_1973nova_05_low_res.jpg",
+            "row": 1,
+            "width": 790,
+            "height": 1018,
+            "src": "__GHOST_URL__/content/images/2020/07/1608_1973nova_05_low_res.jpg"
+          },
+          {
+            "fileName": "1609_1973nova_06_low_res.jpg",
+            "row": 1,
+            "width": 786,
+            "height": 1024,
+            "src": "__GHOST_URL__/content/images/2020/07/1609_1973nova_06_low_res.jpg"
+          },
+          {
+            "fileName": "1610_1973nova_07_low_res.jpg",
+            "row": 2,
+            "width": 790,
+            "height": 1023,
+            "src": "__GHOST_URL__/content/images/2020/07/1610_1973nova_07_low_res.jpg"
+          },
+          {
+            "fileName": "1611_1973nova_08_low_res.jpg",
+            "row": 2,
+            "width": 790,
+            "height": 1020,
+            "src": "__GHOST_URL__/content/images/2020/07/1611_1973nova_08_low_res.jpg"
+          },
+          {
+            "fileName": "1612_1973nova_09_low_res.jpg",
+            "row": 2,
+            "width": 790,
+            "height": 1018,
+            "src": "__GHOST_URL__/content/images/2020/07/1612_1973nova_09_low_res.jpg"
+          }
+        ]
+      }
+    ],
+    [
+      "gallery",
+      {
+        "images": [
+          {
+            "fileName": "1613_1973nova_10_low_res.jpg",
+            "row": 0,
+            "width": 790,
+            "height": 1023,
+            "src": "__GHOST_URL__/content/images/2020/07/1613_1973nova_10_low_res.jpg"
+          },
+          {
+            "fileName": "1614_1973nova_11_low_res.jpg",
+            "row": 0,
+            "width": 790,
+            "height": 1022,
+            "src": "__GHOST_URL__/content/images/2020/07/1614_1973nova_11_low_res.jpg"
+          }
+        ],
+        "caption": "1973 Chevrolet Nova OEM Brochures"
+      }
+    ],
+    [
+      "hr",
+      {}
+    ]
+  ],
+  "markups": [
+    [
+      "em"
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/tag/research/"
+      ]
+    ]
+  ],
+  "sections": [
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Overview"
+        ]
+      ]
+    ],
+    [
+      10,
+      0
+    ],
+    [
+      1,
+      "h3",
+      [
+        [
+          0,
+          [],
+          0,
+          "The 1973 Nova introduced a hatchback body style based on the 2-door coupe."
+        ]
+      ]
+    ],
+    [
+      10,
+      1
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "The 1973 Nova introduced a hatchback body style based on the 2-door coupe. The front and rear of the Nova got a restyle with new government mandated bumpers. To go with the new bumpers was a new grille with a loosely patterned crosshatch insert and parking lights located inboard of the headlights."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "The SS option was still available, but it was just a dress-up package with a blacked out grille and Rally wheels. It could be ordered with any engine. 35,542 SS packages were installed."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Every Nova received side guard door beams and additional sound insulation, as well as flow-through ventilation."
+        ]
+      ]
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Production Numbers"
+        ]
+      ]
+    ],
+    [
+      10,
+      2
+    ],
+    [
+      10,
+      3
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Performance Specs"
+        ]
+      ]
+    ],
+    [
+      10,
+      4
+    ],
+    [
+      10,
+      5
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Transmission"
+        ]
+      ]
+    ],
+    [
+      10,
+      6
+    ],
+    [
+      3,
+      "ul",
+      [
+        [
+          [
+            0,
+            [],
+            0,
+            "Powerglide"
+          ]
+        ],
+        [
+          [
+            0,
+            [],
+            0,
+            "4-Speed Manual (fully synch)"
+          ]
+        ],
+        [
+          [
+            0,
+            [],
+            0,
+            "3-Speed Manual (fully synch)"
+          ]
+        ],
+        [
+          [
+            0,
+            [],
+            0,
+            "Turbo Hydra-Matic"
+          ]
+        ]
+      ]
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Paint & Colors"
+        ]
+      ]
+    ],
+    [
+      10,
+      7
+    ],
+    [
+      10,
+      8
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "OEM Brochures"
+        ]
+      ]
+    ],
+    [
+      10,
+      9
+    ],
+    [
+      10,
+      10
+    ],
+    [
+      10,
+      11
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "About the Knowledge Base"
+        ]
+      ]
+    ],
+    [
+      10,
+      12
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "The Motorious Knowledge Base provides a comprehensive vehicle overview for the 1973 Chevrolet Nova"
+        ],
+        [
+          0,
+          [
+            0,
+            0
+          ],
+          2,
+          " "
+        ],
+        [
+          0,
+          [],
+          0,
+          "including production numbers, performance specs, factory colors, and OEM brochures. Check out additional model years or related content linked to this article or view other Makes and Models in our "
+        ],
+        [
+          0,
+          [
+            1
+          ],
+          1,
+          "Research"
+        ],
+        [
+          0,
+          [],
+          0,
+          " center."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "If you have any interesting facts about the 1973 Chevrolet Nova to add, want to tell us how we did covering the Nova, or want to tell us about yours, please leave a comment below."
+        ]
+      ]
+    ]
+  ],
+  "ghostVersion": "3.0"
+}

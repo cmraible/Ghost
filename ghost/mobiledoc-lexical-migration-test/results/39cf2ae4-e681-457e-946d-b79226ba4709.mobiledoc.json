@@ -1,0 +1,458 @@
+{
+  "version": "0.3.1",
+  "atoms": [],
+  "cards": [
+    [
+      "hr",
+      {}
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "html",
+      {
+        "html": "<table id=\"production-numbers-table\">\n<tbody>\n\t<tr>\n\t\t<td>2-DR Convertible</td>\n\t\t<td>15,631</td>\n\t</tr>\n\t\t<td><b>Total Production</b></td>\n\t\t<td><b>15,631</b></td>\n\t</tr>\n</tbody>\n</table>"
+      }
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "html",
+      {
+        "html": "<table id=\"performance-specs-table\">\n<tbody>\n\t<tr>\n\t\t<th><b>Engine</b></th>\n\t\t<th><b>Size</b></td>\n\t\t<th><b>Carb.</b></td>\n\t\t<th><b>HP</b></td>\n\t\t<th><b>Torque</b></td>\n\t</tr>\n\t<tr>\n\t\t<td>V8</td>\n\t\t<td>292ci</td>\n\t\t<td>1x4bbl</td>\n\t\t<td>202 at 4600</td>\n\t\t<td>289 lb-ft at 2600</td>\n\t</tr>\n</tbody>\n</table>"
+      }
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "html",
+      {
+        "html": "<h4 id='colors-sub-heading'>Exterior</h4>\n<div class=\"colors-row\">\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #151b31\"></div>\n        <div class=\"color-name\">Nocturne Blue Poly</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #efe1c7\"></div>\n        <div class=\"color-name\">Colonial White</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #173132\"></div>\n        <div class=\"color-name\">Pine Ridge Green</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #9e9d9c\"></div>\n        <div class=\"color-name\">Platinum Gray</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #2a6082\"></div>\n        <div class=\"color-name\">Peacock Blue</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #446e99\"></div>\n        <div class=\"color-name\">Bermuda Blue</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #e67b71\"></div>\n        <div class=\"color-name\">Sunset Coral</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #325b49\"></div>\n        <div class=\"color-name\">Berkshire Green</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #7b7e83\"></div>\n        <div class=\"color-name\">Navajo Gray</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #96d09e\"></div>\n        <div class=\"color-name\">Medowmist Green</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #bc856e\"></div>\n        <div class=\"color-name\">Buckskin Tan</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #8cb6cc\"></div>\n        <div class=\"color-name\">Diamond BLue</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #c8302a\"></div>\n        <div class=\"color-name\">Fiesta Red</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #f3da5b\"></div>\n        <div class=\"color-name\">Goldenglow Yellow</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #cc5436\"></div>\n        <div class=\"color-name\">Mandarin Orange</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #96d0a0\"></div>\n        <div class=\"color-name\">Springmist Green</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #495259\"></div>\n        <div class=\"color-name\">Thunderbird Gray</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #708d4d\"></div>\n        <div class=\"color-name\">Sage Green</div>\n    </div>\n</div>\n\n<h4 id='colors-sub-heading'>Interior</h4>\n<div class=\"colors-row\">\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #222c38\"></div>\n        <div class=\"color-name\">Black</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #901d21\"></div>\n        <div class=\"color-name\">Fiesta</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #237198\"></div>\n        <div class=\"color-name\">Peacock Blue</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #a0aa78\"></div>\n        <div class=\"color-name\">Green</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #925d4d\"></div>\n        <div class=\"color-name\">Brown</div>\n    </div>\n</div>\n"
+      }
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "gallery",
+      {
+        "images": [
+          {
+            "fileName": "1805_1956_Ford_Thunderbird-10-11_low_res.jpg",
+            "row": 0,
+            "width": 790,
+            "height": 289,
+            "src": "__GHOST_URL__/content/images/2020/08/1805_1956_Ford_Thunderbird-10-11_low_res.jpg"
+          },
+          {
+            "fileName": "1806_1956_Ford_Thunderbird-08-09_low_res.jpg",
+            "row": 0,
+            "width": 790,
+            "height": 289,
+            "src": "__GHOST_URL__/content/images/2020/08/1806_1956_Ford_Thunderbird-08-09_low_res.jpg"
+          },
+          {
+            "fileName": "1807_1956_Ford_Thunderbird-06-07_low_res.jpg",
+            "row": 0,
+            "width": 790,
+            "height": 290,
+            "src": "__GHOST_URL__/content/images/2020/08/1807_1956_Ford_Thunderbird-06-07_low_res.jpg"
+          },
+          {
+            "fileName": "1808_1956_Ford_Thunderbird-02-03_low_res.jpg",
+            "row": 1,
+            "width": 790,
+            "height": 289,
+            "src": "__GHOST_URL__/content/images/2020/08/1808_1956_Ford_Thunderbird-02-03_low_res.jpg"
+          },
+          {
+            "fileName": "1809_1956_Ford_Thunderbird-01_low_res.jpg",
+            "row": 1,
+            "width": 790,
+            "height": 580,
+            "src": "__GHOST_URL__/content/images/2020/08/1809_1956_Ford_Thunderbird-01_low_res.jpg"
+          },
+          {
+            "fileName": "1801_1956_Ford_Thunderbird-01__1__low_res.jpg",
+            "row": 1,
+            "width": 712,
+            "height": 338,
+            "src": "__GHOST_URL__/content/images/2020/08/1801_1956_Ford_Thunderbird-01__1__low_res.jpg"
+          },
+          {
+            "fileName": "1802_1956_Ford_Thunderbird-16_low_res.jpg",
+            "row": 2,
+            "width": 790,
+            "height": 580,
+            "src": "__GHOST_URL__/content/images/2020/08/1802_1956_Ford_Thunderbird-16_low_res.jpg"
+          },
+          {
+            "fileName": "1803_1956_Ford_Thunderbird-14-15_low_res.jpg",
+            "row": 2,
+            "width": 790,
+            "height": 290,
+            "src": "__GHOST_URL__/content/images/2020/08/1803_1956_Ford_Thunderbird-14-15_low_res.jpg"
+          },
+          {
+            "fileName": "1804_1956_Ford_Thunderbird-12-13_low_res.jpg",
+            "row": 2,
+            "width": 790,
+            "height": 291,
+            "src": "__GHOST_URL__/content/images/2020/08/1804_1956_Ford_Thunderbird-12-13_low_res.jpg"
+          }
+        ],
+        "caption": "1956 Ford Thunderbird OEM Brochures"
+      }
+    ],
+    [
+      "gallery",
+      {
+        "images": [
+          {
+            "fileName": "1810_1956_Ford_Thunderbird-04-05_low_res.jpg",
+            "row": 0,
+            "width": 790,
+            "height": 289,
+            "src": "__GHOST_URL__/content/images/2020/08/1810_1956_Ford_Thunderbird-04-05_low_res.jpg"
+          },
+          {
+            "fileName": "1811_photo__4__low_res.jpg",
+            "row": 0,
+            "width": 774,
+            "height": 1024,
+            "src": "__GHOST_URL__/content/images/2020/08/1811_photo__4__low_res.jpg"
+          }
+        ],
+        "caption": "1956 Ford Thunderbird OEM Brochures"
+      }
+    ],
+    [
+      "hr",
+      {}
+    ]
+  ],
+  "markups": [
+    [
+      "strong"
+    ],
+    [
+      "em"
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/tag/research/"
+      ]
+    ]
+  ],
+  "sections": [
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Overview"
+        ]
+      ]
+    ],
+    [
+      10,
+      0
+    ],
+    [
+      1,
+      "h3",
+      [
+        [
+          0,
+          [],
+          0,
+          "Not much changed from 1955 to 1956 with the Thunderbird, considering that sales for the Thunderbird were fantastic for its first year of production."
+        ]
+      ]
+    ],
+    [
+      10,
+      1
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Not much changed from 1955 to 1956 with the Thunderbird, considering that sales for the Thunderbird were fantastic for its first year of production."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "However, the few changes that Ford did make to the Thunderbird were significant. Removing the spare tire from the trunk to create more trunk space and moved it to a stylish, rear spare tire carrier."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "The other addition to the Thunderbird Ford made was the iconic port window. Ford actually listened to what their customers were saying about how hard it was to see and created the port window, now one of the more iconic styling features of any 50's car."
+        ]
+      ]
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Production Numbers"
+        ]
+      ]
+    ],
+    [
+      10,
+      2
+    ],
+    [
+      10,
+      3
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Performance Specs"
+        ]
+      ]
+    ],
+    [
+      10,
+      4
+    ],
+    [
+      10,
+      5
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Transmission"
+        ]
+      ]
+    ],
+    [
+      10,
+      6
+    ],
+    [
+      3,
+      "ul",
+      [
+        [
+          [
+            0,
+            [
+              0,
+              0
+            ],
+            2,
+            "3-Speed Manual"
+          ]
+        ],
+        [
+          [
+            0,
+            [
+              0,
+              0
+            ],
+            2,
+            "Overdrive"
+          ]
+        ],
+        [
+          [
+            0,
+            [
+              0,
+              0
+            ],
+            2,
+            "Ford-O-Matic"
+          ]
+        ]
+      ]
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Paint & Colors"
+        ]
+      ]
+    ],
+    [
+      10,
+      7
+    ],
+    [
+      10,
+      8
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "OEM Brochures"
+        ]
+      ]
+    ],
+    [
+      10,
+      9
+    ],
+    [
+      10,
+      10
+    ],
+    [
+      10,
+      11
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "About the Knowledge Base"
+        ]
+      ]
+    ],
+    [
+      10,
+      12
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "The Motorious Knowledge Base provides a comprehensive vehicle overview for the 1956 Ford Thunderbird"
+        ],
+        [
+          0,
+          [
+            1,
+            1
+          ],
+          2,
+          " "
+        ],
+        [
+          0,
+          [],
+          0,
+          "including production numbers, performance specs, factory colors, and OEM brochures. Check out additional model years or related content linked to this article or view other Makes and Models in our "
+        ],
+        [
+          0,
+          [
+            2
+          ],
+          1,
+          "Research"
+        ],
+        [
+          0,
+          [],
+          0,
+          " center."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "If you have any interesting facts about the 1956 Ford Thunderbird"
+        ],
+        [
+          0,
+          [
+            1,
+            1
+          ],
+          2,
+          " "
+        ],
+        [
+          0,
+          [],
+          0,
+          "to add, want to tell us how we did covering the Thunderbird, or want to tell us about yours, please leave a comment below."
+        ]
+      ]
+    ]
+  ],
+  "ghostVersion": "3.0"
+}

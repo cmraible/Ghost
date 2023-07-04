@@ -1,0 +1,411 @@
+{
+  "version": "0.3.1",
+  "atoms": [],
+  "cards": [
+    [
+      "hr",
+      {}
+    ],
+    [
+      "image",
+      {
+        "src": "__GHOST_URL__/content/images/2020/07/1962_Chevrolet_BelAir.jpg",
+        "width": 1170,
+        "height": 597,
+        "caption": "1962 Chevrolet Bel Air (GM Heritage Center)"
+      }
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "html",
+      {
+        "html": "<table id=\"production-numbers-table\">\n<tbody>\n\t<tr>\n\t\t<td>4-DR Sedan</td>\n\t\t<td>533,349</td>\n\t</tr>\n    \t<tr>\n\t\t<td>Sport Coupe</td>\n\t\t<td>323,427</td>\n\t</tr>\n    \t<tr>\n\t\t<td>4-DR Station Wagon</td>\n\t\t<td>187,566</td>\n\t</tr>\n    \t<tr>\n\t\t<td>2-DR Sedan</td>\n\t\t<td>127,870</td>\n\t</tr>\n\t\t<td><b>Total Production</b></td>\n\t\t<td><b>1,172,212</b></td>\n\t</tr>\n</tbody>\n</table>"
+      }
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "html",
+      {
+        "html": "<table id=\"performance-specs-table\">\n<tbody>\n\t<tr>\n\t\t<th><b>Engine</b></th>\n\t\t<th><b>Size</b></td>\n\t\t<th><b>Carb.</b></td>\n\t\t<th><b>HP</b></td>\n\t\t<th><b>Torque</b></td>\n\t</tr>\n\t<tr>\n\t\t<td>I-6</td>\n\t\t<td>235.5ci</td>\n\t\t<td>1x2bbl</td>\n\t\t<td>135</td>\n\t\t<td>217 lb-ft</td>\n\t</tr>\n\t<tr>\n\t\t<td>V8</td>\n\t\t<td>283ci</td>\n\t\t<td>1x2bbl</td>\n\t\t<td>170</td>\n\t\t<td>275 lb-ft</td>\n\t</tr>\n\t<tr>\n\t\t<td>V8</td>\n\t\t<td>327ci</td>\n\t\t<td>1x4bbl</td>\n\t\t<td>250-300</td>\n\t\t<td>350-360 lb-ft</td>\n\t</tr>\n\t<tr>\n\t\t<td>V8</td>\n\t\t<td>409ci</td>\n\t\t<td>1x4bbl</td>\n\t\t<td>380-409</td>\n\t\t<td>420 lb-ft</td>\n\t</tr>\n\t<tr>\n\t\t<td>V8</td>\n\t\t<td>409ci</td>\n\t\t<td>2x4bbl</td>\n\t\t<td>380-409</td>\n\t\t<td>420 lb-ft</td>\n\t</tr>\n</tbody>\n</table>"
+      }
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "html",
+      {
+        "html": "<h4 id='colors-sub-heading'>Exterior</h4>\n<div class=\"colors-row\">\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #000000\"></div>\n        <div class=\"color-name\">Tuxedo Black</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #afdcc8\"></div>\n        <div class=\"color-name\">Seafoam Green</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #aac0a6\"></div>\n        <div class=\"color-name\">Surf Green</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #67786d\"></div>\n        <div class=\"color-name\">Laurel Green</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #627389\"></div>\n        <div class=\"color-name\">Silver Blue</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #303d5a\"></div>\n        <div class=\"color-name\">Nassau Blue</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #96c1ca\"></div>\n        <div class=\"color-name\">Twilight Turquoise</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #547784\"></div>\n        <div class=\"color-name\">Twilight Blue</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #848073\"></div>\n        <div class=\"color-name\">Autumn Gold</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #9d271e\"></div>\n        <div class=\"color-name\">Roman Red</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #f2e096\"></div>\n        <div class=\"color-name\">Coronna Cream</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #937c36\"></div>\n        <div class=\"color-name\">Anniversary Gold</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #e3deca\"></div>\n        <div class=\"color-name\">Ermine White</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #cfcaae\"></div>\n        <div class=\"color-name\">Adobe Beige</div>\n    </div>    \n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #889097\"></div>\n        <div class=\"color-name\">Satin Silver</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #702828\"></div>\n        <div class=\"color-name\">Honduras Maroon</div>\n    </div>\n</div>\n\n<h4 id='colors-sub-heading'>Interior</h4>\n<div class=\"colors-row\">\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #9c1914\"></div>\n        <div class=\"color-name\">Red</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #000000\"></div>\n        <div class=\"color-name\">Black</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #937c36\"></div>\n        <div class=\"color-name\">Gold</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #303d5a\"></div>\n        <div class=\"color-name\">Blue</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #d5a56a\"></div>\n        <div class=\"color-name\">Fawn</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #003f10\"></div>\n        <div class=\"color-name\">Green</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #77ddda\"></div>\n        <div class=\"color-name\">Aqua</div>\n    </div>\n</div>\n"
+      }
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "gallery",
+      {
+        "images": [
+          {
+            "fileName": "1142_1__1__low_res.jpg",
+            "row": 0,
+            "width": 759,
+            "height": 992,
+            "src": "__GHOST_URL__/content/images/2020/06/1142_1__1__low_res.jpg"
+          },
+          {
+            "fileName": "1143_4_low_res.jpg",
+            "row": 0,
+            "width": 743,
+            "height": 992,
+            "src": "__GHOST_URL__/content/images/2020/06/1143_4_low_res.jpg"
+          },
+          {
+            "fileName": "1144_16_low_res.jpg",
+            "row": 0,
+            "width": 753,
+            "height": 992,
+            "src": "__GHOST_URL__/content/images/2020/06/1144_16_low_res.jpg"
+          }
+        ],
+        "caption": "1962 Chevrolet Bel Air OEM Brochure"
+      }
+    ],
+    [
+      "hr",
+      {}
+    ]
+  ],
+  "markups": [
+    [
+      "strong"
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/tag/research/"
+      ]
+    ],
+    [
+      "em"
+    ]
+  ],
+  "sections": [
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Overview"
+        ]
+      ]
+    ],
+    [
+      10,
+      0
+    ],
+    [
+      1,
+      "h3",
+      [
+        [
+          0,
+          [],
+          0,
+          "For 1962, new sheet metal except the door panels was changed contributing to what most collectors believe to be one of the cleanest and important Chevys of yester-year."
+        ]
+      ]
+    ],
+    [
+      10,
+      1
+    ],
+    [
+      10,
+      2
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "For 1962, new sheet metal except the door panels was changed contributing to what most collectors believe to be one of the cleanest and important Chevys of yester-year."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Overall length was increased to 209.6 in and the 4-Door Sport Hardtop was dropped."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "The 348ci V8 was dropped and Chevy began to focus on the 327ci V8. Another new engine was introduced, the 409ci V8 that increased output from 380 or 409 hp."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Full carpeting returned as standard equipment."
+        ]
+      ]
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Production Numbers"
+        ]
+      ]
+    ],
+    [
+      10,
+      3
+    ],
+    [
+      10,
+      4
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Performance Specs"
+        ]
+      ]
+    ],
+    [
+      10,
+      5
+    ],
+    [
+      10,
+      6
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Transmission"
+        ]
+      ]
+    ],
+    [
+      10,
+      7
+    ],
+    [
+      3,
+      "ul",
+      [
+        [
+          [
+            0,
+            [
+              0,
+              0
+            ],
+            2,
+            "3-Speed Manual"
+          ]
+        ],
+        [
+          [
+            0,
+            [
+              0,
+              0
+            ],
+            2,
+            "Powerglide Auto"
+          ]
+        ],
+        [
+          [
+            0,
+            [
+              0,
+              0
+            ],
+            2,
+            "4-Speed Manual"
+          ]
+        ],
+        [
+          [
+            0,
+            [
+              0,
+              0
+            ],
+            2,
+            "Overdrive"
+          ]
+        ]
+      ]
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Paint & Colors"
+        ]
+      ]
+    ],
+    [
+      10,
+      8
+    ],
+    [
+      10,
+      9
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "OEM Brochures"
+        ]
+      ]
+    ],
+    [
+      10,
+      10
+    ],
+    [
+      10,
+      11
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "About the Knowledge Base"
+        ]
+      ]
+    ],
+    [
+      10,
+      12
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "The Motorious Knowledge Base provides a comprehensive vehicle overview for the 1962 Chevrolet Bel Air including production numbers, performance specs, factory colors, and OEM brochures. Check out additional model years or related content linked to this article or view other Makes and Models in our "
+        ],
+        [
+          0,
+          [
+            1
+          ],
+          1,
+          "Research"
+        ],
+        [
+          0,
+          [],
+          0,
+          " center."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "If you have any interesting facts about the 1962 Chevrolet Bel Air"
+        ],
+        [
+          0,
+          [
+            2,
+            2
+          ],
+          2,
+          " "
+        ],
+        [
+          0,
+          [],
+          0,
+          "to add, want to tell us how we did covering the Bel Air, or want to tell us about yours, please leave a comment below."
+        ]
+      ]
+    ]
+  ],
+  "ghostVersion": "3.0"
+}

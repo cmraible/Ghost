@@ -1,0 +1,1112 @@
+{
+  "root": {
+    "children": [
+      {
+        "type": "email",
+        "html": "<p>Morning {first_name, \"all\"},</p><p>A cautionary tale to start your morning: lax security at a publisher has led to their website being down for over 24 hours, and caused them to embarass Apple. Not a situation you'd want to be in…</p><p>Also in today's issue:</p><ul><li>Parse.ly adds the one feature I wish all analytics packages had</li><li>Some news about changes Google is making (yes, more)</li><li>And a former student changes the game on AI art</li></ul><p>Enjoy!</p>"
+      },
+      {
+        "children": [
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": "Fast Company gets hacked — and makes Apple News racist",
+            "type": "text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "heading",
+        "tag": "h2",
+        "version": 1
+      },
+      {
+        "children": [
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": "Oh, this isn't a tweet anyone wants to send — or be the subject of:",
+            "type": "text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "paragraph",
+        "version": 1
+      },
+      {
+        "type": "embed",
+        "url": "https://twitter.com/applenews/status/1574935109630918661?s=21&t=Fg5hdKjed1SqyHBY86Paag",
+        "html": "<blockquote class=\"twitter-tweet\"><p lang=\"en\" dir=\"ltr\">An incredibly offensive alert was sent by Fast Company, which has been hacked. Apple News has disabled their channel.</p>&mdash; Apple News (@AppleNews) <a href=\"https://twitter.com/AppleNews/status/1574935109630918661?ref_src=twsrc%5Etfw\">September 28, 2022</a></blockquote>\n<script async src=\"https://platform.twitter.com/widgets.js\" charset=\"utf-8\"></script>\n",
+        "metadata": {
+          "url": "https://twitter.com/AppleNews/status/1574935109630918661",
+          "author_name": "Apple News",
+          "author_url": "https://twitter.com/AppleNews",
+          "width": 550,
+          "height": null,
+          "cache_age": "3153600000",
+          "provider_name": "Twitter",
+          "provider_url": "http://www.twitter.com/",
+          "version": "1.0",
+          "tweet_data": {
+            "text": "An incredibly offensive alert was sent by Fast Company, which has been hacked. Apple News has disabled their channel.",
+            "conversation_id": "1574935109630918661",
+            "possibly_sensitive": false,
+            "source": "Sprinklr",
+            "public_metrics": {
+              "retweet_count": 144,
+              "reply_count": 52,
+              "like_count": 582,
+              "quote_count": 53
+            },
+            "id": "1574935109630918661",
+            "lang": "en",
+            "reply_settings": "everyone",
+            "context_annotations": [
+              {
+                "domain": {
+                  "id": "47",
+                  "name": "Brand",
+                  "description": "Brands and Companies"
+                },
+                "entity": {
+                  "id": "10026364281",
+                  "name": "Apple"
+                }
+              },
+              {
+                "domain": {
+                  "id": "48",
+                  "name": "Product",
+                  "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone."
+                },
+                "entity": {
+                  "id": "1460738489926832128",
+                  "name": "Apple News"
+                }
+              },
+              {
+                "domain": {
+                  "id": "131",
+                  "name": "Unified Twitter Taxonomy",
+                  "description": "A taxonomy view into the Semantic Core knowledge graph"
+                },
+                "entity": {
+                  "id": "10026364281",
+                  "name": "Apple"
+                }
+              },
+              {
+                "domain": {
+                  "id": "131",
+                  "name": "Unified Twitter Taxonomy",
+                  "description": "A taxonomy view into the Semantic Core knowledge graph"
+                },
+                "entity": {
+                  "id": "1460738489926832128",
+                  "name": "Apple News"
+                }
+              }
+            ],
+            "author_id": "3257608936",
+            "entities": {
+              "annotations": [
+                {
+                  "start": 42,
+                  "end": 53,
+                  "probability": 0.9155,
+                  "type": "Organization",
+                  "normalized_text": "Fast Company"
+                },
+                {
+                  "start": 79,
+                  "end": 88,
+                  "probability": 0.8974,
+                  "type": "Organization",
+                  "normalized_text": "Apple News"
+                }
+              ]
+            },
+            "created_at": "2022-09-28T01:32:45.000Z",
+            "includes": {
+              "users": [
+                {
+                  "profile_image_url": "https://pbs.twimg.com/profile_images/1110228024954245120/OTdcTC9Y_normal.png",
+                  "public_metrics": {
+                    "followers_count": 340322,
+                    "following_count": 492,
+                    "tweet_count": 19406,
+                    "listed_count": 3235
+                  },
+                  "name": "Apple News",
+                  "url": "https://t.co/ApJxvTJyXK",
+                  "username": "AppleNews",
+                  "id": "3257608936",
+                  "protected": false,
+                  "verified": true,
+                  "entities": {
+                    "url": {
+                      "urls": [
+                        {
+                          "start": 0,
+                          "end": 23,
+                          "url": "https://t.co/ApJxvTJyXK",
+                          "expanded_url": "http://apple.co/News",
+                          "display_url": "apple.co/News"
+                        }
+                      ]
+                    }
+                  },
+                  "location": "Cupertino, CA",
+                  "description": "The world of news and magazines, in your hand. Stories selected by our U.S. editors.",
+                  "created_at": "2015-05-15T18:27:31.000Z"
+                }
+              ]
+            }
+          }
+        },
+        "embedType": "twitter"
+      },
+      {
+        "children": [
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": "Yes, somebody managed to hack into ",
+            "type": "text",
+            "version": 1
+          },
+          {
+            "detail": 0,
+            "format": 2,
+            "mode": "normal",
+            "style": "",
+            "text": "Fast Company",
+            "type": "text",
+            "version": 1
+          },
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": "'s Apple News account. A few minutes later, the title sent their own tweet on it:",
+            "type": "text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "paragraph",
+        "version": 1
+      },
+      {
+        "type": "embed",
+        "url": "https://twitter.com/fastcompany/status/1574938173708201985?s=21&t=KZCtLDV6AUM_aiDladrK0g",
+        "html": "<blockquote class=\"twitter-tweet\"><p lang=\"en\" dir=\"ltr\">We are investigating the situation and have suspended the feed &amp; shutdown <a href=\"https://t.co/U9iS8QOhkW\">https://t.co/U9iS8QOhkW</a> until we are certain the situation has been resolved.</p>&mdash; Fast Company (@FastCompany) <a href=\"https://twitter.com/FastCompany/status/1574938173708201985?ref_src=twsrc%5Etfw\">September 28, 2022</a></blockquote>\n<script async src=\"https://platform.twitter.com/widgets.js\" charset=\"utf-8\"></script>\n",
+        "metadata": {
+          "url": "https://twitter.com/FastCompany/status/1574938173708201985",
+          "author_name": "Fast Company",
+          "author_url": "https://twitter.com/FastCompany",
+          "width": 550,
+          "height": null,
+          "cache_age": "3153600000",
+          "provider_name": "Twitter",
+          "provider_url": "http://www.twitter.com/",
+          "version": "1.0",
+          "tweet_data": {
+            "author_id": "2735591",
+            "id": "1574938173708201985",
+            "referenced_tweets": [
+              {
+                "type": "replied_to",
+                "id": "1574938145237639168"
+              }
+            ],
+            "reply_settings": "everyone",
+            "in_reply_to_user_id": "2735591",
+            "possibly_sensitive": false,
+            "text": "We are investigating the situation and have suspended the feed &amp; shutdown https://t.co/U9iS8QOhkW until we are certain the situation has been resolved.",
+            "created_at": "2022-09-28T01:44:56.000Z",
+            "lang": "en",
+            "public_metrics": {
+              "retweet_count": 23,
+              "reply_count": 8,
+              "like_count": 77,
+              "quote_count": 3
+            },
+            "source": "Twitter Web App",
+            "conversation_id": "1574938145237639168",
+            "entities": {
+              "urls": [
+                {
+                  "start": 78,
+                  "end": 101,
+                  "url": "https://t.co/U9iS8QOhkW",
+                  "expanded_url": "http://FastCompany.com",
+                  "display_url": "FastCompany.com",
+                  "images": [
+                    {
+                      "url": "https://pbs.twimg.com/news_img/1574920192928399365/S069kVrg?format=jpg&name=orig",
+                      "width": 1200,
+                      "height": 630
+                    },
+                    {
+                      "url": "https://pbs.twimg.com/news_img/1574920192928399365/S069kVrg?format=jpg&name=150x150",
+                      "width": 150,
+                      "height": 150
+                    }
+                  ],
+                  "status": 200,
+                  "title": "Fast Company | Business News, Innovation, Technology, Work Life and Design",
+                  "description": "Fast Company is the world's leading progressive business media brand, with a unique editorial focus on innovation in technology, leadership, and design.",
+                  "unwound_url": "https://www.fastcompany.com/"
+                }
+              ]
+            },
+            "includes": {
+              "users": [
+                {
+                  "description": "Inspiring readers to think beyond traditional boundaries & create the future of business. Subscribe to our daily newsletter: https://t.co/BpH3KmBae9",
+                  "profile_image_url": "https://pbs.twimg.com/profile_images/1051826427837014017/v2TLU4mf_normal.jpg",
+                  "name": "Fast Company",
+                  "pinned_tweet_id": "1575215452368019456",
+                  "created_at": "2007-03-28T22:39:21.000Z",
+                  "protected": false,
+                  "location": "New York, NY",
+                  "public_metrics": {
+                    "followers_count": 2347578,
+                    "following_count": 4240,
+                    "tweet_count": 296863,
+                    "listed_count": 42486
+                  },
+                  "id": "2735591",
+                  "entities": {
+                    "url": {
+                      "urls": [
+                        {
+                          "start": 0,
+                          "end": 23,
+                          "url": "https://t.co/TnX79ODnqf",
+                          "expanded_url": "http://www.fastcompany.com",
+                          "display_url": "fastcompany.com"
+                        }
+                      ]
+                    },
+                    "description": {
+                      "urls": [
+                        {
+                          "start": 125,
+                          "end": 148,
+                          "url": "https://t.co/BpH3KmBae9",
+                          "expanded_url": "http://fastcompany.com/newsletters",
+                          "display_url": "fastcompany.com/newsletters"
+                        }
+                      ]
+                    }
+                  },
+                  "username": "FastCompany",
+                  "verified": true,
+                  "url": "https://t.co/TnX79ODnqf"
+                }
+              ],
+              "tweets": [
+                {
+                  "author_id": "2735591",
+                  "entities": {
+                    "annotations": [
+                      {
+                        "start": 15,
+                        "end": 24,
+                        "probability": 0.5253,
+                        "type": "Organization",
+                        "normalized_text": "Apple News"
+                      }
+                    ]
+                  },
+                  "id": "1574938145237639168",
+                  "reply_settings": "everyone",
+                  "possibly_sensitive": false,
+                  "text": "Fast Company's Apple News account was hacked on Tuesday evening. Two obscene and racist push notifications were sent about a minute apart.\n\nThe messages are vile and not in line with the content and ethos of Fast Company. (continued below)",
+                  "created_at": "2022-09-28T01:44:49.000Z",
+                  "lang": "en",
+                  "public_metrics": {
+                    "retweet_count": 102,
+                    "reply_count": 29,
+                    "like_count": 206,
+                    "quote_count": 25
+                  },
+                  "context_annotations": [
+                    {
+                      "domain": {
+                        "id": "47",
+                        "name": "Brand",
+                        "description": "Brands and Companies"
+                      },
+                      "entity": {
+                        "id": "10026364281",
+                        "name": "Apple"
+                      }
+                    },
+                    {
+                      "domain": {
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy",
+                        "description": "A taxonomy view into the Semantic Core knowledge graph"
+                      },
+                      "entity": {
+                        "id": "10026364281",
+                        "name": "Apple"
+                      }
+                    }
+                  ],
+                  "source": "Twitter Web App",
+                  "conversation_id": "1574938145237639168"
+                }
+              ]
+            }
+          }
+        },
+        "embedType": "twitter"
+      },
+      {
+        "children": [
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": "That first tweet seems to be slightly inaccurate. ",
+            "type": "text",
+            "version": 1
+          },
+          {
+            "children": [
+              {
+                "detail": 0,
+                "format": 0,
+                "mode": "normal",
+                "style": "",
+                "text": "As ",
+                "type": "text",
+                "version": 1
+              },
+              {
+                "detail": 0,
+                "format": 2,
+                "mode": "normal",
+                "style": "",
+                "text": "MacRumors",
+                "type": "text",
+                "version": 1
+              },
+              {
+                "detail": 0,
+                "format": 0,
+                "mode": "normal",
+                "style": "",
+                "text": " reports",
+                "type": "text",
+                "version": 1
+              }
+            ],
+            "direction": "ltr",
+            "format": "",
+            "indent": 0,
+            "type": "link",
+            "rel": null,
+            "target": null,
+            "title": null,
+            "url": "https://www.macrumors.com/2022/09/28/apple-news-offensive-alerts-fast-company-hack/",
+            "version": 1
+          },
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": ", the whole website was compromised (as, indeed, the second tweet in the thread implies):",
+            "type": "text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "paragraph",
+        "version": 1
+      },
+      {
+        "children": [
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": "Before it disappeared, ",
+            "type": "text",
+            "version": 1
+          },
+          {
+            "detail": 0,
+            "format": 2,
+            "mode": "normal",
+            "style": "",
+            "text": "Fast Company",
+            "type": "text",
+            "version": 1
+          },
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": "'s website included a message from the hackers \"postpixel\" in which they described how they had been able to execute the attack by infiltrating ",
+            "type": "text",
+            "version": 1
+          },
+          {
+            "detail": 0,
+            "format": 2,
+            "mode": "normal",
+            "style": "",
+            "text": "Fast Company",
+            "type": "text",
+            "version": 1
+          },
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": "'s WordPress back-end, and ridiculed the publication's efforts to secure its publishing tools and administrator portal.",
+            "type": "text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "quote",
+        "version": 1
+      },
+      {
+        "children": [
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": "Another reminder that ",
+            "type": "text",
+            "version": 1
+          },
+          {
+            "detail": 0,
+            "format": 2,
+            "mode": "normal",
+            "style": "",
+            "text": "any ",
+            "type": "text",
+            "version": 1
+          },
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": "system that you use to publish to a high volume of people is a potential target of hackers, and you need to be really careful about security. And WordPress, in particular, is a target, because it's so widely used that it's worth figuring out its vulnerabilities. People's reliance on plugins and themes to make it operate the way they want it to can also introduce so many extra vulnerabilities. The core of WordPress tends to be fair secure. It's the bad add-on choices you make that put you at risk. ",
+            "type": "text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "paragraph",
+        "version": 1
+      },
+      {
+        "children": [
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": "At the time of writing the ",
+            "type": "text",
+            "version": 1
+          },
+          {
+            "detail": 0,
+            "format": 2,
+            "mode": "normal",
+            "style": "",
+            "text": "FastCompany",
+            "type": "text",
+            "version": 1
+          },
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": " website is still down and showing this message:",
+            "type": "text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "paragraph",
+        "version": 1
+      },
+      {
+        "type": "image",
+        "src": "__GHOST_URL__/content/images/2022/09/fast-comany-hack.jpg",
+        "width": 857,
+        "height": 480,
+        "caption": "A notice on the Fast Company website after it was hacked.",
+        "alt": "A notice on the Fast Company website after it was hacked."
+      },
+      {
+        "children": [
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": "Nobody can really afford to lose over 24 hours of traffic, can then?",
+            "type": "text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "paragraph",
+        "version": 1
+      },
+      {
+        "type": "horizontalrule"
+      },
+      {
+        "children": [
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": "Parse.ly gets to the bottom of your traffic",
+            "type": "text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "heading",
+        "tag": "h2",
+        "version": 1
+      },
+      {
+        "children": [
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": "Anyone who has been on one of ",
+            "type": "text",
+            "version": 1
+          },
+          {
+            "children": [
+              {
+                "detail": 0,
+                "format": 0,
+                "mode": "normal",
+                "style": "",
+                "text": "my analytics courses",
+                "type": "text",
+                "version": 1
+              }
+            ],
+            "direction": "ltr",
+            "format": "",
+            "indent": 0,
+            "type": "link",
+            "rel": null,
+            "target": null,
+            "title": null,
+            "url": "https://www.journalism.co.uk/vocational-skills-study/analytics-for-journalists/s43/a555836/",
+            "version": 1
+          },
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": " knows how much I value the bottom end of the traffic figures. Knowing what content ",
+            "type": "text",
+            "version": 1
+          },
+          {
+            "detail": 0,
+            "format": 2,
+            "mode": "normal",
+            "style": "",
+            "text": "isn't",
+            "type": "text",
+            "version": 1
+          },
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": " working is so useful — but is pretty hard to find out in most packages. And that makes this ",
+            "type": "text",
+            "version": 1
+          },
+          {
+            "children": [
+              {
+                "detail": 0,
+                "format": 0,
+                "mode": "normal",
+                "style": "",
+                "text": "great news",
+                "type": "text",
+                "version": 1
+              }
+            ],
+            "direction": "ltr",
+            "format": "",
+            "indent": 0,
+            "type": "link",
+            "rel": null,
+            "target": null,
+            "title": null,
+            "url": "https://www.parse.ly/help/kb/bottom-listings-report?utm_source=onemanandhisblog",
+            "version": 1
+          },
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": " for Parse.ly users:",
+            "type": "text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "paragraph",
+        "version": 1
+      },
+      {
+        "children": [
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": "The Bottom Listings Report shows a list of potentially underperforming posts. It can be repeated (weekly, daily, monthly) or generated once, in either HTML format or PDF format, which is the same as any other report in the Parse.ly dashboard.",
+            "type": "text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "quote",
+        "version": 1
+      },
+      {
+        "children": [
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": "The analytics package can now deliver scheduled reports on under-performing content on a schedule you choose. Such a great opportunity to revise, improve and — most importantly — learn from what went wrong. ",
+            "type": "text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "paragraph",
+        "version": 1
+      },
+      {
+        "type": "horizontalrule"
+      },
+      {
+        "children": [
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": "A few Google announcements",
+            "type": "text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "heading",
+        "tag": "h2",
+        "version": 1
+      },
+      {
+        "children": [
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": "Some things to keep an eye on in here:",
+            "type": "text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "paragraph",
+        "version": 1
+      },
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "detail": 0,
+                "format": 0,
+                "mode": "normal",
+                "style": "",
+                "text": "Discussions and forums being pulled out as a separate listing item",
+                "type": "text",
+                "version": 1
+              }
+            ],
+            "direction": "ltr",
+            "format": "",
+            "indent": 0,
+            "type": "listitem",
+            "value": 1,
+            "version": 1
+          },
+          {
+            "children": [
+              {
+                "detail": 0,
+                "format": 0,
+                "mode": "normal",
+                "style": "",
+                "text": "More focus on visual content",
+                "type": "text",
+                "version": 1
+              }
+            ],
+            "direction": "ltr",
+            "format": "",
+            "indent": 0,
+            "type": "listitem",
+            "value": 2,
+            "version": 1
+          },
+          {
+            "children": [
+              {
+                "detail": 0,
+                "format": 0,
+                "mode": "normal",
+                "style": "",
+                "text": "In particular, the auto-translation of local and international news is ",
+                "type": "text",
+                "version": 1
+              },
+              {
+                "detail": 0,
+                "format": 2,
+                "mode": "normal",
+                "style": "",
+                "text": "very",
+                "type": "text",
+                "version": 1
+              },
+              {
+                "detail": 0,
+                "format": 0,
+                "mode": "normal",
+                "style": "",
+                "text": " interesting.",
+                "type": "text",
+                "version": 1
+              }
+            ],
+            "direction": "ltr",
+            "format": "",
+            "indent": 0,
+            "type": "listitem",
+            "value": 3,
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "tag": "ul",
+        "type": "list",
+        "listType": "bullet",
+        "start": 1,
+        "version": 1
+      },
+      {
+        "type": "bookmark",
+        "version": "1.0",
+        "url": "https://searchengineland.com/google-search-on-22-recap-388296",
+        "metadata": {
+          "url": "https://searchengineland.com/google-search-on-22-recap-388296",
+          "title": "10 biggest announcements from Google Search On 22",
+          "description": "Here’s a recap of the biggest updates from Google Search On 2022 event, including Multisearch, Lens, autocomplete, search filters and more.",
+          "author": "Barry Schwartz",
+          "publisher": "Search Engine Land",
+          "thumbnail": "https://searchengineland.com/wp-content/seloads/2019/12/google-search-bar-stock-1920.jpg",
+          "icon": "https://searchengineland.com/apple-touch-icon.png"
+        }
+      },
+      {
+        "type": "horizontalrule"
+      },
+      {
+        "children": [
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": "The AI-powered creative",
+            "type": "text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "heading",
+        "tag": "h2",
+        "version": 1
+      },
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "detail": 0,
+                "format": 0,
+                "mode": "normal",
+                "style": "",
+                "text": "Kris Kashtanova",
+                "type": "text",
+                "version": 1
+              }
+            ],
+            "direction": "ltr",
+            "format": "",
+            "indent": 0,
+            "type": "link",
+            "rel": null,
+            "target": null,
+            "title": null,
+            "url": "https://www.kris.art",
+            "version": 1
+          },
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": " is a graduate of the journalism BA at City whom I had the pleasure to teach a few years ago, and is one of the most talented creatives I know. They shot a bunch of excellent headshots for me, which remained my defaults for years until I aged beyond the images, alas.",
+            "type": "text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "paragraph",
+        "version": 1
+      },
+      {
+        "children": [
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": "They've now gone one step further, creating an entire graphic novel whose art was generated in ",
+            "type": "text",
+            "version": 1
+          },
+          {
+            "children": [
+              {
+                "detail": 0,
+                "format": 0,
+                "mode": "normal",
+                "style": "",
+                "text": "Midjourney",
+                "type": "text",
+                "version": 1
+              }
+            ],
+            "direction": "ltr",
+            "format": "",
+            "indent": 0,
+            "type": "link",
+            "rel": null,
+            "target": null,
+            "title": null,
+            "url": "https://www.midjourney.com/home/",
+            "version": 1
+          },
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": ", one of the new breed of AI image generators. And Kris has successfully obtained copyright on it:",
+            "type": "text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "paragraph",
+        "version": 1
+      },
+      {
+        "type": "bookmark",
+        "version": "1.0",
+        "url": "https://arstechnica.com/information-technology/2022/09/artist-receives-first-known-us-copyright-registration-for-generative-ai-art/",
+        "metadata": {
+          "url": "https://arstechnica.com/information-technology/2022/09/artist-receives-first-known-us-copyright-registration-for-generative-ai-art/",
+          "title": "Artist receives first known US copyright registration for latent diffusion AI art",
+          "description": "Registration of AI-assisted comic comes amid fierce online debate about AI art ethics.",
+          "author": "Benj Edwards",
+          "publisher": "Ars Technica",
+          "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2022/09/zarya_hero-760x380.jpg",
+          "icon": "https://cdn.arstechnica.net/wp-content/themes/ars/assets/img/material-ars-db41652381.png"
+        }
+      },
+      {
+        "children": [
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": "This field is moving forward at an incredible pace. I was lucky enough to catch an interview with the creator of another AI system, Stable Diffusion, while I was at ",
+            "type": "text",
+            "version": 1
+          },
+          {
+            "children": [
+              {
+                "detail": 0,
+                "format": 0,
+                "mode": "normal",
+                "style": "",
+                "text": "NEXT in Hamburg",
+                "type": "text",
+                "version": 1
+              }
+            ],
+            "direction": "ltr",
+            "format": "",
+            "indent": 0,
+            "type": "link",
+            "rel": null,
+            "target": null,
+            "title": null,
+            "url": "https://nextconf.eu/",
+            "version": 1
+          },
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": " last week:",
+            "type": "text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "paragraph",
+        "version": 1
+      },
+      {
+        "type": "bookmark",
+        "version": "1.0",
+        "url": "https://nextconf.eu/2022/09/ai-the-future-of-creativity/",
+        "metadata": {
+          "url": "https://nextconf.eu/2022/09/ai-the-future-of-creativity/",
+          "title": "AI: the future of creativity? - NEXT Conference",
+          "description": "AI-generated art and text are exploding in use — and quality. What does this mean for the future of artists and creativity? The NEXT Creative Stage explored this…",
+          "author": "Adam Tinworth",
+          "publisher": "NEXT Conference",
+          "thumbnail": "https://nextconf.eu/wp-content/uploads/2022/09/IMG_2764-scaled.jpg",
+          "icon": "https://nextconf.eu/wp-content/uploads/2020/06/cropped-FAVICON_NEXT3-1-270x270.png"
+        }
+      },
+      {
+        "children": [
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": "Are there ethical issues? Yes. Is this tech going away? No.",
+            "type": "text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "paragraph",
+        "version": 1
+      }
+    ],
+    "direction": "ltr",
+    "format": "",
+    "indent": 0,
+    "type": "root",
+    "version": 1
+  }
+}

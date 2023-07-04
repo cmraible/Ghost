@@ -1,0 +1,1034 @@
+{
+  "version": "0.3.1",
+  "atoms": [],
+  "cards": [
+    [
+      "email",
+      {
+        "html": "<p>Friends:</p>"
+      }
+    ],
+    [
+      "email-cta",
+      {
+        "showButton": false,
+        "showDividers": false,
+        "segment": "status:-free",
+        "alignment": "left",
+        "html": "<p><strong>• SPREAD THE WORD: </strong>Share this article on <u><a href=\"https://twitter.com/intent/tweet?text=LEVER%20WEEKLY%3A%20Heckuva%20Job%2C%20Pete%20https%3A%2F%2Fwww.levernews.com%2Flever-weekly-heckuva-job-pete%2F%3Futm_source%3Dtwitter%26utm_medium%3Dlink%26utm_campaign%3Dtw-prefill\">Twitter</a></u> and forward this email<em> </em>to encourage others <a href=\"https://levernews.com/membership/?utm_source=daily&amp;utm_medium=link&amp;utm_campaign=forward-signup\">to subscribe to <em>The Lever</em></a>.</p><p>Rock The Boat.</p>",
+        "buttonText": "",
+        "buttonUrl": ""
+      }
+    ],
+    [
+      "email-cta",
+      {
+        "showButton": false,
+        "showDividers": false,
+        "segment": "status:free",
+        "alignment": "left",
+        "html": "<p>Read a preview and then click the button below for full access.</p><p>Rock The Boat.</p>",
+        "buttonText": "Click Here To Upgrade",
+        "buttonUrl": "https://levernews.com/membership/?utm_source=daily&utm_medium=link&utm_campaign=upgrade"
+      }
+    ],
+    [
+      "button",
+      {
+        "alignment": "center",
+        "buttonText": "Tip Jar",
+        "buttonUrl": "https://dailyposter.outpost.pub/ghost-integration/60818189ad12f332071054b8/tips"
+      }
+    ],
+    [
+      "embed",
+      {
+        "url": "https://www.youtube.com/watch?v=nMa9qTrV9qA",
+        "html": "<iframe width=\"200\" height=\"113\" src=\"https://www.youtube.com/embed/nMa9qTrV9qA?feature=oembed\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen title=\"New York Nurses Strike for More Staff &amp; Better Pay as Hospital CEOs Make Millions, Cut Charity Care\"></iframe>",
+        "type": "video",
+        "metadata": {
+          "title": "New York Nurses Strike for More Staff & Better Pay as Hospital CEOs Make Millions, Cut Charity Care",
+          "author_name": "Democracy Now!",
+          "author_url": "https://www.youtube.com/@DemocracyNow",
+          "height": 113,
+          "width": 200,
+          "version": "1.0",
+          "provider_name": "YouTube",
+          "provider_url": "https://www.youtube.com/",
+          "thumbnail_height": 360,
+          "thumbnail_width": 480,
+          "thumbnail_url": "https://i.ytimg.com/vi/nMa9qTrV9qA/hqdefault.jpg"
+        }
+      }
+    ],
+    [
+      "email-cta",
+      {
+        "showButton": false,
+        "showDividers": false,
+        "segment": "status:free",
+        "alignment": "left",
+        "html": "<p>The episode underscores precisely why key regulatory roles should not be doled out as...</p>"
+      }
+    ],
+    [
+      "paywall",
+      {}
+    ],
+    [
+      "callout",
+      {
+        "calloutEmoji": "👉",
+        "calloutText": "<strong>HELP US GROW, FOLLOW US ON SOCIAL MEDIA:</strong><br>• <a href=\"https://www.twitter.com/LeverNews\"><strong>Twitter</strong></a><br>• <a href=\"https://www.facebook.com/TheLeverNews\"><strong>Facebook</strong></a><br>• <a href=\"https://www.instagram.com/LeverNews\"><strong>Instagram</strong></a><br>• <a href=\"https://www.youtube.com/c/LeverNews\"><strong>YouTube</strong></a>",
+        "backgroundColor": "grey"
+      }
+    ],
+    [
+      "product",
+      {
+        "productButtonEnabled": true,
+        "productRatingEnabled": false,
+        "productStarRating": 5,
+        "productTitle": "The Audit Season Two, Featuring Nina Turner!",
+        "productDescription": "<p>Dave, Josh, and Senator Turner dig into David Axelrod and Karl Rove's MasterClass on campaign strategy and messaging. Yes, we’re also very upset by this.</p><p>Listen now in your podcast player of choice.</p>",
+        "productImageSrc": "__GHOST_URL__/content/images/2022/12/Axelrod-Rove-Cover-Art-2-1-1.png",
+        "productImageWidth": 2000,
+        "productImageHeight": 2000,
+        "productButton": "Learn More About The Audit",
+        "productUrl": "https://the.levernews.com/podcasts/#the-audit"
+      }
+    ],
+    [
+      "email-cta",
+      {
+        "showButton": true,
+        "showDividers": false,
+        "segment": "status:-free",
+        "alignment": "center",
+        "html": "",
+        "buttonText": "Click Here To Comment",
+        "buttonUrl": "__GHOST_URL__/lever-weekly-heckuva-job-pete/#comments"
+      }
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "email",
+      {
+        "html": "<p><em><strong>Help us spread the word! </strong>Please forward this email to family and friends.</em></p><p><em><strong>Was this email forwarded to you? </strong><a href=\"https://levernews.com/membership/\">Sign up for free</a> to receive original reporting like this in your inbox every day.</em></p>"
+      }
+    ]
+  ],
+  "markups": [
+    [
+      "em"
+    ],
+    [
+      "strong"
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/lever-weekly-heckuva-job-pete/?utm_source=newsletter-email&utm_medium=link&utm_campaign=newsletter-article"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/as-nurses-strike-hospital-ceos-pocket-millions/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/insurers-are-fighting-to-protect-their-medicare-fraud/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/the-corporate-merger-no-ones-talking-about-2/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/lever-time-premium-will-ups-workers-go-on-strike/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.youtube.com/watch?v=nMa9qTrV9qA"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://soundcloud.com/this-is-hell/not-all-crypto-bros-esme-von-hoffman-1"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/i-heard-it-was-safe/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/author/andrew-perez/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/state-officials-warned-buttigieg-about-airline-mess/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.washingtonpost.com/transportation/2022/12/28/southwest-airlines-flight-cancellations/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://twitter.com/WilliamJMcGee/status/1608736623507951617?s=20&t=dUfCFw4SS7unoUUBL43y0g"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://khanna.house.gov/media/press-releases/release-khanna-joins-senator-sanders-calling-secretary-buttigieg-hold-airlines"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.politico.com/news/2023/01/12/ro-khanna-says-hes-looking-at-the-senate-his-allies-are-talking-about-the-white-house-00077672"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.washingtonpost.com/blogs/political-bookworm/post/heck-of-a-job-brownie-spreads-the-katrina-blame-in-new-book/2011/06/13/AGgFebUH_blog.html"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://journals.ametsoc.org/view/journals/bams/95/3/bams-d-12-00074.1.xml"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.axios.com/2023/01/12/buttigieg-faa-transportation-crises"
+      ]
+    ]
+  ],
+  "sections": [
+    [
+      10,
+      0
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "This is Lever Weekly, a recap of our work from the past week. If you only read one email from us all week, this should be it."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Below you will find a breakdown of our reporting, podcasts, videos, and live events — a feature now open to all subscribers. Following that, we are providing paid subscribers with an original column, written by a member of "
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "The Lever"
+        ],
+        [
+          0,
+          [],
+          0,
+          ", connecting the dots on our coverage to deliver important takeaways."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "In "
+        ],
+        [
+          0,
+          [
+            1,
+            2
+          ],
+          2,
+          "this week’s column"
+        ],
+        [
+          0,
+          [],
+          0,
+          ", exclusively for paid subscribers, Andrew Perez explores the selfish reasons why Washington news outlets and Democratic consultants can’t accept much-needed scrutiny of Pete Buttigieg’s performance as the nation’s top transportation regulator."
+        ]
+      ]
+    ],
+    [
+      10,
+      1
+    ],
+    [
+      10,
+      2
+    ],
+    [
+      1,
+      "h3",
+      [
+        [
+          0,
+          [],
+          0,
+          "Stuff The Lever Reported This Week:"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "• "
+        ],
+        [
+          0,
+          [
+            3,
+            1
+          ],
+          2,
+          "As Nurses Strike, Hospital CEOs Pocket Millions"
+        ],
+        [
+          0,
+          [
+            1
+          ],
+          1,
+          " "
+        ],
+        [
+          0,
+          [],
+          0,
+          "— “"
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "As nurses from two New York hospitals fight for better treatment, the executives in charge have been boosting their own pay and slashing charity care."
+        ],
+        [
+          0,
+          [],
+          0,
+          "”"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "• "
+        ],
+        [
+          0,
+          [
+            4,
+            1
+          ],
+          2,
+          "Insurers Are Fighting To Protect Their Medicare Fraud"
+        ],
+        [
+          0,
+          [
+            1
+          ],
+          1,
+          " "
+        ],
+        [
+          0,
+          [],
+          0,
+          "— “"
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "Health insurers are ready to sue the government if Biden officials don’t let them keep years of overpayments from Medicare."
+        ],
+        [
+          0,
+          [],
+          0,
+          "”"
+        ]
+      ]
+    ],
+    [
+      10,
+      3
+    ],
+    [
+      1,
+      "h3",
+      [
+        [
+          0,
+          [],
+          0,
+          "Stuff To Watch & Listen To:"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "• "
+        ],
+        [
+          0,
+          [
+            5,
+            1
+          ],
+          2,
+          "LEVER TIME: The Corporate Merger No One’s Talking About"
+        ],
+        [
+          0,
+          [
+            1
+          ],
+          1,
+          " "
+        ],
+        [
+          0,
+          [],
+          0,
+          "— "
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "David explores the ramifications of the potential Kroger/Albertsons merger."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "• "
+        ],
+        [
+          0,
+          [
+            6,
+            1
+          ],
+          2,
+          "LEVER TIME PREMIUM: Will UPS Workers Go On Strike?"
+        ],
+        [
+          0,
+          [
+            1
+          ],
+          1,
+          " "
+        ],
+        [
+          0,
+          [],
+          0,
+          "— The Lever"
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          " team discusses the potential UPS strike, how to hold a ‘liberal intervention,’ and Larry Summers’ call for more unemployment while literally on vacation."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "• "
+        ],
+        [
+          0,
+          [
+            7,
+            1
+          ],
+          2,
+          "New York Nurses Strike For More Staff & Better Pay As Hospital CEOs Make Millions, Cut Charity Care"
+        ],
+        [
+          0,
+          [],
+          0,
+          " (Democracy Now) — "
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "Matthew Cunningham-Cook details his "
+        ],
+        [
+          0,
+          [
+            3,
+            0
+          ],
+          2,
+          "investigation"
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          " into how hospital CEOs have received millions in raises and perks while medical staff have been pushed to their breaking point during COVID."
+        ]
+      ]
+    ],
+    [
+      10,
+      4
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "• "
+        ],
+        [
+          0,
+          [
+            8,
+            1
+          ],
+          2,
+          "Not All Crypto Bros"
+        ],
+        [
+          0,
+          [
+            1
+          ],
+          1,
+          " "
+        ],
+        [
+          0,
+          [],
+          0,
+          "(This Is Hell) — Lever "
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "contributor Esmé von Hoffman talks with Chuck Mertz about her recent article “"
+        ],
+        [
+          0,
+          [
+            9,
+            0
+          ],
+          2,
+          "I Heard it was Safe"
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          ".”"
+        ]
+      ]
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Heckuva Job, Pete"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "By "
+        ],
+        [
+          0,
+          [
+            10
+          ],
+          1,
+          "Andrew Perez"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "As the Secretary of Transportation, Pete Buttigieg’s job is to oversee the U.S. transportation system, including as the nation’s top airline regulator. He was selected for the job not because of his experience, but because he ran for president and is seen as a future candidate for higher office."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "As a result, all scrutiny of Buttigieg’s increasingly disastrous record as the nation’s transportation czar is now being treated in Washington as an attack on a political rival — and Democratic consultants who might want a role on a future Buttigieg campaign are stepping up to lavish praise on the guy."
+        ]
+      ]
+    ],
+    [
+      10,
+      5
+    ],
+    [
+      10,
+      6
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "The episode underscores precisely why key regulatory roles should not be doled out as political gifts: By selecting a former small city mayor with national ambitions and no relevant experience to lead the nation’s transportation department, President Joe Biden set up the department for failure — while effectively insulating his appointee from criticism."
+        ]
+      ]
+    ],
+    [
+      10,
+      7
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "As we’ve documented at "
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "The Lever,"
+        ],
+        [
+          0,
+          [],
+          0,
+          " Democratic lawmakers and state officials from both parties were "
+        ],
+        [
+          0,
+          [
+            11
+          ],
+          1,
+          "begging Buttigieg to crack down"
+        ],
+        [
+          0,
+          [],
+          0,
+          " on the airline industry months before the Southwest Airlines debacle, in which thousands of flights were canceled over the holiday season because the company had failed to upgrade its "
+        ],
+        [
+          0,
+          [
+            12
+          ],
+          1,
+          "antiquated computer systems"
+        ],
+        [
+          0,
+          [],
+          0,
+          "."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "As William McGee, senior fellow for aviation and travel at the American Economic Liberties Project, "
+        ],
+        [
+          0,
+          [
+            13
+          ],
+          1,
+          "wrote"
+        ],
+        [
+          0,
+          [],
+          0,
+          ": “Southwest was inevitable after [Buttigieg] failed to punish awful behavior all year.”"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Throughout last year, airlines were criticized for repeatedly selling tickets for flights for which they didn’t have enough staff, then canceling the flights at the last minute."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "One of the lawmakers calling on Buttigieg to act was Rep. Ro Khanna (D-Calif.), who wrote a "
+        ],
+        [
+          0,
+          [
+            14
+          ],
+          1,
+          "letter"
+        ],
+        [
+          0,
+          [],
+          0,
+          " last June imploring the transportation secretary to “consider utilizing every tool available to minimize mass cancellations and flight delays.”"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Yet, Khanna’s criticisms of Buttigieg are now being perceived as an attempt to “draw contrasts” with a potential 2024 presidential rival, according to "
+        ],
+        [
+          0,
+          [
+            15,
+            0
+          ],
+          2,
+          "Politico"
+        ],
+        [
+          0,
+          [],
+          0,
+          ". Democratic consultants used the opportunity to pitch their future services to Buttigieg."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "“Buttigieg literally was way ahead of the curve on this — months and months and months ahead of the curve, and to most consumers, Pete Buttigieg is a fucking hero,” said John Anzalone, a pollster for President Joe Biden’s campaign."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Anzalone’s quote brought back memories of former President George W. Bush telling Michael Brown, the disgraced one-time administrator of the Federal Emergency Management Agency, that he was doing "
+        ],
+        [
+          0,
+          [
+            16
+          ],
+          1,
+          "“a heckuva job”"
+        ],
+        [
+          0,
+          [],
+          0,
+          " in the aftermath of Hurricane Katrina, which left "
+        ],
+        [
+          0,
+          [
+            17
+          ],
+          1,
+          "at least 1,100"
+        ],
+        [
+          0,
+          [],
+          0,
+          " dead."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "Axios"
+        ],
+        [
+          0,
+          [],
+          0,
+          " released its own "
+        ],
+        [
+          0,
+          [
+            18
+          ],
+          1,
+          "piece"
+        ],
+        [
+          0,
+          [],
+          0,
+          " fretting that Buttigieg’s “modest Cabinet role has become a political albatross for one of the Democratic Party's brightest young stars.”"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "There, Jill Zuckman, a partner at the Biden campaign consulting firm SKDK, said that Republicans are criticizing Buttigieg now simply because he could run for president. “That’s not how past Transportation secretaries were treated,” she said."
+        ]
+      ]
+    ],
+    [
+      10,
+      8
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "In a more rational world, when a political appointee with limited experience is chosen as the nation’s top transportation regulator and the system he oversees experiences a series of unprecedented crises, it might be expected that appointee would face some criticism in Washington."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "But Buttigieg isn’t a normal regulator. He might run for Senate or even president again one day. So reporters and lawmakers doing their jobs and applying scrutiny will be portrayed as launching unfair political attacks on a man who, Democratic consultants will tell you, is doing a heckuva job."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "That may not be a recipe for good governance or a functioning transportation system — but politics take precedence."
+        ]
+      ]
+    ],
+    [
+      10,
+      9
+    ],
+    [
+      10,
+      10
+    ],
+    [
+      10,
+      11
+    ]
+  ],
+  "ghostVersion": "4.0"
+}

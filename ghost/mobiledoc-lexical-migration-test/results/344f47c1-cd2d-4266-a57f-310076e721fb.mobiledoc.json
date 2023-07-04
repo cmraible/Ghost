@@ -1,0 +1,396 @@
+{
+  "version": "0.3.1",
+  "atoms": [
+    [
+      "soft-return",
+      "",
+      {}
+    ]
+  ],
+  "cards": [
+    [
+      "hr",
+      {}
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "html",
+      {
+        "html": "<table id=\"production-numbers-table\">\n<tbody>\n\t<tr>\n\t\t<td>Challenger: 2-Dr Hardtop</td>\n\t\t<td>11,354</td>\n\t</tr>\n\t\t<td><b>Total Production</b></td>\n\t\t<td><b>11,354</b></td>\n\t</tr>\n</tbody>\n</table>"
+      }
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "html",
+      {
+        "html": "<table id=\"performance-specs-table\">\n<tbody>\n\t<tr>\n\t\t<th><b>Engine</b></th>\n\t\t<th><b>Size</b></td>\n\t\t<th><b>Carb.</b></td>\n\t\t<th><b>HP</b></td>\n\t\t<th><b>0 to 60</b></td>\n\t\t<th><b>Quarter mile</b></td>\n\t</tr>\n\t<tr>\n\t\t<td>318 V8</td>\n\t\t<td>318ci</td>\n\t\t<td>1x2bbl</td>\n\t\t<td>150 hp @ 3600</td>\n\t\t<td>9.6 sec</td>\n\t\t<td>16.9</td>\n\t</tr>\n    <tr>\n\t\t<td>360 V8</td>\n\t\t<td>360ci</td>\n\t\t<td>-</td>\n\t\t<td>245 hp</td>\n\t\t<td>9.5 sec</td>\n\t\t<td>16.7</td>\n\t</tr>\n</tbody>\n</table>"
+      }
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "html",
+      {
+        "html": "<h4 id='colors-sub-heading'>Exterior</h4>\n<div class=\"colors-row\">\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #cbb858\"></div>\n        <div class=\"color-name\">Yellow Blaze</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #a49761\"></div>\n        <div class=\"color-name\">Golden Fawn</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #bcaf8b\"></div>\n        <div class=\"color-name\">Parchment</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #640205\"></div>\n        <div class=\"color-name\">Bright Red</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #001200\"></div>\n        <div class=\"color-name\">Dark Sherwood Metallic</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #e1ded8\"></div>\n        <div class=\"color-name\">Eggshell White</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #b5c3ce\"></div>\n        <div class=\"color-name\">Light Blue</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #000000\"></div>\n        <div class=\"color-name\">Black</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #24627b\"></div>\n        <div class=\"color-name\">Lucerene Blue Metallic</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #a38c31\"></div>\n        <div class=\"color-name\">Gold Metallic</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #282306\"></div>\n        <div class=\"color-name\">Dark Gold Metallic</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #606119\"></div>\n        <div class=\"color-name\">Avocado Gold Metallic</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #8aaf7b\"></div>\n        <div class=\"color-name\">Frosty Green Metallic</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #1d2d1b\"></div>\n        <div class=\"color-name\">Dark Moonstone Metallic</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #673d09\"></div>\n        <div class=\"color-name\">Sienna Metallic</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #bc3831\"></div>\n        <div class=\"color-name\">Burnished Red Metallic</div>\n    </div>\n</div>\n\n<h4 id='colors-sub-heading'>Interior</h4>\n<div class=\"colors-row\">\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #4a6986\"></div>\n        <div class=\"color-name\">Blue</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #353822\"></div>\n        <div class=\"color-name\">Green</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #b6966b\"></div>\n        <div class=\"color-name\">Gold</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #ded2bd\"></div>\n        <div class=\"color-name\">White</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #1b1513\"></div>\n        <div class=\"color-name\">Black</div>\n    </div>\n</div>"
+      }
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "gallery",
+      {
+        "images": [
+          {
+            "fileName": "1147_15_low_res.jpeg",
+            "row": 0,
+            "width": 790,
+            "height": 311,
+            "src": "__GHOST_URL__/content/images/2020/06/1147_15_low_res.jpeg"
+          },
+          {
+            "fileName": "1145_2074_low_res.jpeg",
+            "row": 0,
+            "width": 790,
+            "height": 305,
+            "src": "__GHOST_URL__/content/images/2020/06/1145_2074_low_res.jpeg"
+          },
+          {
+            "fileName": "1146_1974_low_res.jpeg",
+            "row": 0,
+            "width": 790,
+            "height": 308,
+            "src": "__GHOST_URL__/content/images/2020/06/1146_1974_low_res.jpeg"
+          }
+        ],
+        "caption": "1974 Dodge Challenger OEM Brochures"
+      }
+    ],
+    [
+      "hr",
+      {}
+    ]
+  ],
+  "markups": [
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/articles/news/c5-corvette-tackles-dodge-demon/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/articles/features-3/is-the-vanishing-point-challenger-gone-forever/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/tag/research/"
+      ]
+    ]
+  ],
+  "sections": [
+    [
+      1,
+      "p",
+      []
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Overview"
+        ]
+      ]
+    ],
+    [
+      10,
+      0
+    ],
+    [
+      1,
+      "h3",
+      [
+        [
+          0,
+          [],
+          0,
+          "The Rallye package still included the side scoops, the side stripes, two simulated hood scoops and special wheels."
+        ]
+      ]
+    ],
+    [
+      10,
+      1
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Styling and trim-wise, virtually nothing was changed from ‘73 – 74."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "The Rallye package still included the side scoops, the side stripes, two simulated hood scoops and special wheels. The big news was under the hood: The 340, which had been emasculated in ’72-’73, was replaced with a longer-stroke LA engine option: the 360-4. With significantly more low-end torque, this proved a much better fit with the mid’70s, scene, and performance significantly improved, as did drivability, producing one of the best-rounded “smog era” performance cars."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "This would be the last year for the E-body "
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "Dodge"
+        ],
+        [
+          0,
+          [],
+          0,
+          " Challenger “muscle car.” It was sad to say goodbye, but safety, emissions, and insurance headaches and taken a lot of the fun out of ponycars, and sales had dwindled. The "
+        ],
+        [
+          0,
+          [
+            1
+          ],
+          1,
+          "Challenger"
+        ],
+        [
+          0,
+          [],
+          0,
+          " was discontinued mid-year."
+        ],
+        [
+          1,
+          [],
+          0,
+          0
+        ]
+      ]
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Production Numbers"
+        ]
+      ]
+    ],
+    [
+      10,
+      2
+    ],
+    [
+      10,
+      3
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Performance Specs"
+        ]
+      ]
+    ],
+    [
+      10,
+      4
+    ],
+    [
+      10,
+      5
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Transmission"
+        ]
+      ]
+    ],
+    [
+      10,
+      6
+    ],
+    [
+      3,
+      "ul",
+      [
+        [
+          [
+            0,
+            [],
+            0,
+            "3-Speed Automatic"
+          ]
+        ],
+        [
+          [
+            0,
+            [],
+            0,
+            "4-Speed Manual"
+          ]
+        ]
+      ]
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Paint & Colors"
+        ]
+      ]
+    ],
+    [
+      10,
+      7
+    ],
+    [
+      10,
+      8
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "OEM Brochures"
+        ]
+      ]
+    ],
+    [
+      10,
+      9
+    ],
+    [
+      10,
+      10
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "About the Knowledge Base"
+        ]
+      ]
+    ],
+    [
+      10,
+      11
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "The Motorious Knowledge Base provides a comprehensive vehicle overview for the 1974 Dodge Challenger including production numbers, performance specs, factory colors, and OEM brochures. Check out additional model years or related content linked to this article or view other Makes and Models in our "
+        ],
+        [
+          0,
+          [
+            2
+          ],
+          1,
+          "Research"
+        ],
+        [
+          0,
+          [],
+          0,
+          " center."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "If you have any interesting facts about the 1974 Dodge Challenger to add, want to tell us how we did covering the Challenger, or want to tell us about yours, please leave a comment below."
+        ]
+      ]
+    ]
+  ],
+  "ghostVersion": "3.0"
+}

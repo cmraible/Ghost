@@ -1,0 +1,781 @@
+{
+  "version": "0.3.1",
+  "atoms": [],
+  "cards": [
+    [
+      "hr",
+      {}
+    ],
+    [
+      "embed",
+      {
+        "url": "https://www.youtube.com/watch?time_continue=49&v=Y_Wc_m06pG8&feature=emb_title",
+        "html": "<iframe width=\"480\" height=\"270\" src=\"https://www.youtube.com/embed/Y_Wc_m06pG8?feature=oembed\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+        "type": "video"
+      }
+    ],
+    [
+      "image",
+      {
+        "src": "__GHOST_URL__/content/images/2020/04/collection-use.png",
+        "cardWidth": "wide",
+        "alt": "<img src=\"collection-use.jpg\" alt=\"A 300-car collection discovered\">"
+      }
+    ],
+    [
+      "gallery",
+      {
+        "images": [
+          {
+            "fileName": "1955-chevy-truck.png",
+            "row": 0,
+            "width": 1842,
+            "height": 994,
+            "src": "__GHOST_URL__/content/images/2020/04/1955-chevy-truck.png"
+          },
+          {
+            "fileName": "bmw-collection.png",
+            "row": 0,
+            "width": 1828,
+            "height": 990,
+            "src": "__GHOST_URL__/content/images/2020/04/bmw-collection.png"
+          },
+          {
+            "fileName": "collection.png",
+            "row": 0,
+            "width": 1852,
+            "height": 970,
+            "src": "__GHOST_URL__/content/images/2020/04/collection-1.png"
+          },
+          {
+            "fileName": "collection-2.png",
+            "row": 1,
+            "width": 1834,
+            "height": 996,
+            "src": "__GHOST_URL__/content/images/2020/04/collection-2.png"
+          },
+          {
+            "fileName": "ferrari-308.png",
+            "row": 1,
+            "width": 1918,
+            "height": 974,
+            "src": "__GHOST_URL__/content/images/2020/04/ferrari-308.png"
+          },
+          {
+            "fileName": "ferris-bueller.png",
+            "row": 1,
+            "width": 1864,
+            "height": 980,
+            "src": "__GHOST_URL__/content/images/2020/04/ferris-bueller.png"
+          },
+          {
+            "fileName": "matra.png",
+            "row": 2,
+            "width": 1526,
+            "height": 960,
+            "src": "__GHOST_URL__/content/images/2020/04/matra.png"
+          },
+          {
+            "fileName": "plymouth-superbird.png",
+            "row": 2,
+            "width": 1894,
+            "height": 994,
+            "src": "__GHOST_URL__/content/images/2020/04/plymouth-superbird.png"
+          },
+          {
+            "fileName": "porsche.png",
+            "row": 2,
+            "width": 1446,
+            "height": 924,
+            "src": "__GHOST_URL__/content/images/2020/04/porsche.png"
+          }
+        ]
+      }
+    ],
+    [
+      "bookmark",
+      {
+        "url": "__GHOST_URL__/articles/news/exotic-collection-coronavirus/",
+        "metadata": {
+          "url": "__GHOST_URL__/articles/news/exotic-collection-coronavirus/",
+          "title": "Amazing Exotic Car Collection Will Sell To Help Those Affected By Covid-19",
+          "description": "Seven new and classic high-profile cars to be sold off to help those hit hard by the current pandemic.",
+          "author": "Amie Williams",
+          "publisher": "Motorious",
+          "thumbnail": "__GHOST_URL__/content/images/2020/04/ash-crest-car-collection-2.jpg",
+          "icon": "__GHOST_URL__/favicon.png"
+        }
+      }
+    ],
+    [
+      "bookmark",
+      {
+        "url": "__GHOST_URL__/articles/news/mr-bean-has-superc/",
+        "metadata": {
+          "url": "__GHOST_URL__/articles/news/mr-bean-has-superc/",
+          "title": "Who Knew Mr. Bean Collected Supercars",
+          "description": "Comedian and actor Rowan Atkinson loves cars and racing even owning a McLaren F1.",
+          "author": "Amie Williams",
+          "publisher": "Motorious",
+          "thumbnail": "__GHOST_URL__/content/images/2020/02/rowan-atkinson-mclaren-f1-4.jpg",
+          "icon": "__GHOST_URL__/favicon.png"
+        }
+      }
+    ]
+  ],
+  "markups": [
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/articles/news/bronco-barn-find/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/articles/news/140-car-collection-heading-to-auction-this-fall/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/articles/news/watch-two-barn-find-classic-porsches-get-rescued/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/articles/handpicked/1973-oldsmobile-hurst-w30/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://buy.motorious.com/vehicles/186079/1970-plymouth-superbird"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/articles/news/rolls-royce-reveals-dawn-silver-bullet-collection/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/articles/handpicked/1955-chevy-210-restomod/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/articles/handpicked/rip-it-with-a-1967-chevy-camaro-restomod/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://buy.motorious.com/vehicles/189452/1955-chevrolet-3100-pickup"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/articles/news/dream-giveaway-shelbys/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://buy.motorious.com/vehicles/2333/1967-chevrolet-impala-ss-427"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://buy.motorious.com/vehicles/192753/1965-cobra-superformance-mkiii-r"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/articles/handpicked/1970-dodge-charger-r-t-looks-factory-fresh/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/articles/news/2020-ford-gt-gets-660-hp-exposed-carbon-fiber-body-option/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://buy.motorious.com/vehicles/search/Chevrolet/Camaro"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://buy.motorious.com/vehicles/search/Chevrolet/Corvette"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/articles/handpicked/1973-porsche-911-targa/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/articles/news/wildbody-daytona-rendering/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://buy.motorious.com/vehicles/search/BMW"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/articles/news/rolls-royce-maseratis-stolen-in-tx-recovered-in-ga/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/articles/news/lambo-countach-sale/"
+      ]
+    ],
+    [
+      "em"
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/articles/news/17-car-garage/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://buy.motorious.com/vehicles/188140/2000-bmw-z3"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.carscoops.com/2020/04/see-a-300-car-collection-that-has-been-tucked-away-for-decades/"
+      ]
+    ],
+    [
+      "strong"
+    ]
+  ],
+  "sections": [
+    [
+      1,
+      "h3",
+      [
+        [
+          0,
+          [],
+          0,
+          "Just 1 of 3 buildings full of Ferraris, Corvettes, Camaros, Ford GTs, Chargers, Porsches, a Lambo possibly connected to Nicolas Cage, and plenty more."
+        ]
+      ]
+    ],
+    [
+      10,
+      0
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "Barn finds"
+        ],
+        [
+          0,
+          [],
+          0,
+          " that usually involve some rare or highly desired car that was stashed away years ago only to resurface decades later seem to be more commonplace as time goes on. What about entire collections? We've posted stories about a few "
+        ],
+        [
+          0,
+          [
+            1
+          ],
+          1,
+          "collections"
+        ],
+        [
+          0,
+          [],
+          0,
+          " involving a few cars being uncovered. This one may take the cake as a colossal \""
+        ],
+        [
+          0,
+          [
+            2
+          ],
+          1,
+          "barn find"
+        ],
+        [
+          0,
+          [],
+          0,
+          "\" collection was recently uncovered, and by colossal we mean approximately 300 cars. No, your eyes do not deceive you - 300 cars! A YouTube video by AMMO NYC gives a tour of this collection car by car in just one of three buildings filled to the brim with cars."
+        ]
+      ]
+    ],
+    [
+      10,
+      1
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "There is very little information regarding the collection, but it is said that this collection began sometime in the late '70s. Also, several of these cars have never been moved at all, detailed, or seen for more than three decades. "
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "So, what kind of cars are in this collection? Or better yet, what cars aren't in this collection? The tour starts off with a bone-stock all-original 1974 "
+        ],
+        [
+          0,
+          [
+            3
+          ],
+          1,
+          "Hurst Olds"
+        ],
+        [
+          0,
+          [],
+          0,
+          " under a Plymouth street rod stored on a lift. A Matra D'Jet V sits on a lift next to a yellow "
+        ],
+        [
+          0,
+          [
+            4
+          ],
+          1,
+          "Plymouth Superbird "
+        ],
+        [
+          0,
+          [],
+          0,
+          "that appears to be in great condition. Next to that is a "
+        ],
+        [
+          0,
+          [
+            5
+          ],
+          1,
+          "Rolls-Royce"
+        ],
+        [
+          0,
+          [],
+          0,
+          " that was originally intended as a Pro Street car with a '55 "
+        ],
+        [
+          0,
+          [
+            6
+          ],
+          1,
+          "Chevy restomod"
+        ],
+        [
+          0,
+          [],
+          0,
+          " below it protected in plastic."
+        ]
+      ]
+    ],
+    [
+      10,
+      2
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Other notable cars include a classic white "
+        ],
+        [
+          0,
+          [
+            7
+          ],
+          1,
+          "Camaro"
+        ],
+        [
+          0,
+          [],
+          0,
+          " RS with a houndstooth interior, a yellow Pinto, a "
+        ],
+        [
+          0,
+          [
+            8
+          ],
+          1,
+          "'55 Chevy pickup"
+        ],
+        [
+          0,
+          [],
+          0,
+          ", two classic "
+        ],
+        [
+          0,
+          [
+            9
+          ],
+          1,
+          "Shelby GT500 Mustangs"
+        ],
+        [
+          0,
+          [],
+          0,
+          ", Ferrari race car, "
+        ],
+        [
+          0,
+          [
+            10
+          ],
+          1,
+          "'67 Impala"
+        ],
+        [
+          0,
+          [],
+          0,
+          ", steel-bodied Willys, and "
+        ],
+        [
+          0,
+          [
+            11
+          ],
+          1,
+          "Shelby Cobras"
+        ],
+        [
+          0,
+          [],
+          0,
+          ". The owner had a soft spot for "
+        ],
+        [
+          0,
+          [
+            12
+          ],
+          1,
+          "Dodge Chargers"
+        ],
+        [
+          0,
+          [],
+          0,
+          ", "
+        ],
+        [
+          0,
+          [
+            13
+          ],
+          1,
+          "Ford GTs"
+        ],
+        [
+          0,
+          [],
+          0,
+          ", "
+        ],
+        [
+          0,
+          [
+            14
+          ],
+          1,
+          "Camaros"
+        ],
+        [
+          0,
+          [],
+          0,
+          ", and "
+        ],
+        [
+          0,
+          [
+            15
+          ],
+          1,
+          "Corvettes"
+        ],
+        [
+          0,
+          [],
+          0,
+          " as several models are in his hoard. Even more, there are a few Ferrari 308s and "
+        ],
+        [
+          0,
+          [
+            16
+          ],
+          1,
+          "Porsche 911s"
+        ],
+        [
+          0,
+          [],
+          0,
+          "."
+        ]
+      ]
+    ],
+    [
+      10,
+      3
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Another car that has been in the collection for a long time is another "
+        ],
+        [
+          0,
+          [
+            17
+          ],
+          1,
+          "Plymouth Superbird"
+        ],
+        [
+          0,
+          [],
+          0,
+          " that the owner found in a barn when he was 20 years old with just a few hundred miles on the clock. Another beautiful car is an all-wheel-drive red "
+        ],
+        [
+          0,
+          [
+            18
+          ],
+          1,
+          "BMW"
+        ],
+        [
+          0,
+          [],
+          0,
+          ", just one of 10 in the entire country, that has been sitting in this collection for about twenty years wrapped in plastic. Many of these cars are in mint condition and sit under plastic coverings such as a "
+        ],
+        [
+          0,
+          [
+            19
+          ],
+          1,
+          "Rolls-Royce"
+        ],
+        [
+          0,
+          [],
+          0,
+          " Corniche convertible. "
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Also, there is a "
+        ],
+        [
+          0,
+          [
+            20
+          ],
+          1,
+          "Lamborghini"
+        ],
+        [
+          0,
+          [],
+          0,
+          " LM 002 that is rumored to have been owned by Nicolas Cage, and another car that is believed to have been in "
+        ],
+        [
+          0,
+          [
+            21,
+            22
+          ],
+          2,
+          "Ferris Bueller's Day Off"
+        ],
+        [
+          0,
+          [],
+          0,
+          ". A rare Oldsmobile Aurora GTS-1 race car, a 1950s Devin race car, a Morgan roadster, and a "
+        ],
+        [
+          0,
+          [
+            23
+          ],
+          1,
+          "BMW Z3"
+        ],
+        [
+          0,
+          [],
+          0,
+          " with low mileage between 100 to 1,000 miles."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "While plenty of other cars are in this video that is just one out of three buildings worth of cars, there's no doubt that this car collection is nothing less than impressive. "
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Source: "
+        ],
+        [
+          0,
+          [
+            24
+          ],
+          1,
+          "CarScoops"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [
+            25
+          ],
+          1,
+          "More Car Collection News Here..."
+        ]
+      ]
+    ],
+    [
+      10,
+      4
+    ],
+    [
+      10,
+      5
+    ],
+    [
+      1,
+      "p",
+      []
+    ]
+  ],
+  "ghostVersion": "3.0"
+}

@@ -1,0 +1,1529 @@
+{
+  "version": "0.3.1",
+  "atoms": [],
+  "cards": [
+    [
+      "email-cta",
+      {
+        "showButton": true,
+        "showDividers": false,
+        "segment": "status:-free",
+        "alignment": "center",
+        "html": "",
+        "buttonText": "Click Here To Comment",
+        "buttonUrl": "__GHOST_URL__/so-this-is-pramila-jayapals-strategy/#comments"
+      }
+    ],
+    [
+      "email-cta",
+      {
+        "showButton": true,
+        "showDividers": false,
+        "segment": "status:free",
+        "alignment": "center",
+        "html": "<p><strong><em>Please <a href=\"https://levernews.com/membership\">become a supporting subscriber</a>. You get exclusive podcasts, <a href=\"__GHOST_URL__/citizens-guide/\">digital publications</a>, and live events </em></strong>—<strong><em> and you support this journalism.</em></strong></p>",
+        "buttonText": "Upgrade",
+        "buttonUrl": "https://levernews.com/membership"
+      }
+    ],
+    [
+      "email",
+      {
+        "html": "<p><em><strong><a href=\"https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.levernews.com%2Fso-this-is-pramila-jayapals-strategy%2F&amp;amp;src=sdkpreparse\">Click to share on Facebook</a></strong></em></p>"
+      }
+    ],
+    [
+      "embed",
+      {
+        "url": "https://twitter.com/ninaturner/status/1387052512985829382",
+        "html": "<blockquote class=\"twitter-tweet\"><p lang=\"en\" dir=\"ltr\">I&#39;m proud to receive the endorsement of <a href=\"https://twitter.com/PramilaJayapal?ref_src=twsrc%5Etfw\">@PramilaJayapal</a><br><br>Her leadership and bold vision are a testament to the strength of the progressive movement in Congress. She continues to show us that we must have the courage to ask for more and that now is the time to do it!  <br><br>Thank you! <a href=\"https://t.co/fIh1OHj3gT\">pic.twitter.com/fIh1OHj3gT</a></p>&mdash; Nina Turner (@ninaturner) <a href=\"https://twitter.com/ninaturner/status/1387052512985829382?ref_src=twsrc%5Etfw\">April 27, 2021</a></blockquote>\n<script async src=\"https://platform.twitter.com/widgets.js\" charset=\"utf-8\"></script>\n",
+        "type": "twitter",
+        "metadata": {
+          "url": "https://twitter.com/ninaturner/status/1387052512985829382",
+          "author_name": "Nina Turner",
+          "author_url": "https://twitter.com/ninaturner",
+          "width": 550,
+          "height": null,
+          "cache_age": "3153600000",
+          "provider_name": "Twitter",
+          "provider_url": "http://www.twitter.com/",
+          "version": "1.0",
+          "tweet_data": {
+            "public_metrics": {
+              "retweet_count": 203,
+              "reply_count": 39,
+              "like_count": 1406,
+              "quote_count": 21
+            },
+            "text": "I'm proud to receive the endorsement of @PramilaJayapal\n\nHer leadership and bold vision are a testament to the strength of the progressive movement in Congress. She continues to show us that we must have the courage to ask for more and that now is the time to do it!  \n\nThank you! https://t.co/fIh1OHj3gT",
+            "author_id": "188793260",
+            "source": "Twitter for iPhone",
+            "entities": {
+              "urls": [
+                {
+                  "start": 281,
+                  "end": 304,
+                  "url": "https://t.co/fIh1OHj3gT",
+                  "expanded_url": "https://twitter.com/ninaturner/status/1387052512985829382/photo/1",
+                  "display_url": "pic.twitter.com/fIh1OHj3gT"
+                }
+              ],
+              "mentions": [
+                {
+                  "start": 40,
+                  "end": 55,
+                  "username": "PramilaJayapal",
+                  "id": "193441812"
+                }
+              ]
+            },
+            "possibly_sensitive": false,
+            "context_annotations": [
+              {
+                "domain": {
+                  "id": "10",
+                  "name": "Person",
+                  "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                  "id": "998652361747849218",
+                  "name": "Pramila Jayapal",
+                  "description": "US Representative Pramila Jayapal (WA-07)"
+                }
+              },
+              {
+                "domain": {
+                  "id": "10",
+                  "name": "Person",
+                  "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                  "id": "1070735184071249920",
+                  "name": "Nina Turner",
+                  "description": "American politician"
+                }
+              },
+              {
+                "domain": {
+                  "id": "35",
+                  "name": "Politician",
+                  "description": "Politicians in the world, like Joe Biden"
+                },
+                "entity": {
+                  "id": "998652361747849218",
+                  "name": "Pramila Jayapal",
+                  "description": "US Representative Pramila Jayapal (WA-07)"
+                }
+              },
+              {
+                "domain": {
+                  "id": "35",
+                  "name": "Politician",
+                  "description": "Politicians in the world, like Joe Biden"
+                },
+                "entity": {
+                  "id": "1070735184071249920",
+                  "name": "Nina Turner",
+                  "description": "American politician"
+                }
+              }
+            ],
+            "created_at": "2021-04-27T14:34:23.000Z",
+            "conversation_id": "1387052512985829382",
+            "reply_settings": "everyone",
+            "attachments": {
+              "media_keys": [
+                "3_1387052509441658884"
+              ]
+            },
+            "id": "1387052512985829382",
+            "lang": "en",
+            "includes": {
+              "media": [
+                {
+                  "width": 2048,
+                  "type": "photo",
+                  "height": 1072,
+                  "url": "https://pbs.twimg.com/media/Ez_M6I4VkAQstsi.jpg",
+                  "media_key": "3_1387052509441658884"
+                }
+              ],
+              "users": [
+                {
+                  "public_metrics": {
+                    "followers_count": 510793,
+                    "following_count": 6954,
+                    "tweet_count": 65674,
+                    "listed_count": 3077
+                  },
+                  "location": "Cleveland, OH",
+                  "profile_image_url": "https://pbs.twimg.com/profile_images/1367243229993701376/bYwmCEtp_normal.jpg",
+                  "protected": false,
+                  "url": "https://t.co/89tv6Ptfmx",
+                  "pinned_tweet_id": "1513909131303960580",
+                  "name": "Nina Turner",
+                  "id": "188793260",
+                  "entities": {
+                    "url": {
+                      "urls": [
+                        {
+                          "start": 0,
+                          "end": 23,
+                          "url": "https://t.co/89tv6Ptfmx",
+                          "expanded_url": "http://ninaturner.com",
+                          "display_url": "ninaturner.com"
+                        }
+                      ]
+                    },
+                    "description": {
+                      "urls": [
+                        {
+                          "start": 113,
+                          "end": 136,
+                          "url": "https://t.co/1rjmNMnF79",
+                          "expanded_url": "http://bit.ly/3nZoaww",
+                          "display_url": "bit.ly/3nZoaww"
+                        }
+                      ]
+                    }
+                  },
+                  "created_at": "2010-09-09T16:15:09.000Z",
+                  "description": "Blessed By God! Hell Raising Humanitarian! Former Ohio State Senator, Professor. Candidate for Congress. Donate: https://t.co/1rjmNMnF79",
+                  "username": "ninaturner",
+                  "verified": true
+                },
+                {
+                  "public_metrics": {
+                    "followers_count": 253383,
+                    "following_count": 9271,
+                    "tweet_count": 19689,
+                    "listed_count": 1677
+                  },
+                  "location": "Seattle, WA",
+                  "profile_image_url": "https://pbs.twimg.com/profile_images/1184978551877111809/XywuDdbv_normal.jpg",
+                  "protected": false,
+                  "url": "https://t.co/0Jdj2gavZE",
+                  "name": "Pramila Jayapal",
+                  "id": "193441812",
+                  "entities": {
+                    "url": {
+                      "urls": [
+                        {
+                          "start": 0,
+                          "end": 23,
+                          "url": "https://t.co/0Jdj2gavZE",
+                          "expanded_url": "http://www.pramilaforcongress.com",
+                          "display_url": "pramilaforcongress.com"
+                        }
+                      ]
+                    }
+                  },
+                  "created_at": "2010-09-21T20:41:29.000Z",
+                  "description": "Congressmember for WA-07 and lifelong organizer for immigrant, civil, and human rights. Progressive Caucus Chair. Bold, unafraid, and a proud mom. She/her.",
+                  "username": "PramilaJayapal",
+                  "verified": true
+                }
+              ]
+            }
+          }
+        }
+      }
+    ],
+    [
+      "email-cta",
+      {
+        "showButton": true,
+        "showDividers": false,
+        "segment": "status:-free",
+        "alignment": "center",
+        "html": "",
+        "buttonText": "Click Here To Comment",
+        "buttonUrl": "__GHOST_URL__/so-this-is-pramila-jayapals-strategy/#comments"
+      }
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "email-cta",
+      {
+        "showButton": true,
+        "showDividers": false,
+        "segment": "status:-free",
+        "alignment": "center",
+        "html": "",
+        "buttonText": "Tip Jar",
+        "buttonUrl": "https://dailyposter.outpost.pub/ghost-integration/60818189ad12f332071054b8/tips"
+      }
+    ],
+    [
+      "email-cta",
+      {
+        "showButton": true,
+        "showDividers": false,
+        "segment": "status:free",
+        "alignment": "center",
+        "html": "",
+        "buttonText": "Upgrade",
+        "buttonUrl": "https://levernews.com/membership"
+      }
+    ],
+    [
+      "email",
+      {
+        "html": "<p><em><strong>Help us spread the word! </strong>Please forward this email to family and friends.</em></p><p><em><strong>Was this email forwarded to you? </strong><a href=\"https://levernews.com/membership/\">Sign up for free</a> to receive original reporting like this in your inbox every day.</em></p>"
+      }
+    ]
+  ],
+  "markups": [
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/dems-launch-proxy-war-on-medicare-for-all/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://twitter.com/ninaturner/status/1387052512985829382"
+      ]
+    ],
+    [
+      "em"
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://twitter.com/aidachavez/status/1354855384897339393?s=20&t=d9orB_VAdp0tsfBALzP9vQ"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://jayapal.house.gov/2021/02/25/senate-parliamentarian-ruling/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/breaking-secret-memo-shows-how-harris/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.npr.org/2021/03/03/973120107/progressives-show-patience-with-biden-at-least-until-relief-bill-passes"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.mediaite.com/radio/rep-jayapal-reveals-biden-committed-to-fighting-to-raise-minimum-wage-in-private-call/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/emanuel-headlines-event-for-group/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/fast-food-giant-claims-credit-for/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://rollcall.com/2021/04/08/pelosi-backs-two-bill-infrastructure-strategy-amid-progressives-push-for-one/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://theintercept.com/2021/08/24/reconciliation-infrastructure-gottheimer-democrats-unbreakable-nine/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://thehill.com/business-a-lobbying/business-a-lobbying/568539-no-labels-praises-unbreakable-nine-moderate-democrats/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://theintercept.com/2021/08/26/no-labels-billionaire-donors-josh-gottheimer/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/will-they-hold-out/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/whip-count-the-democrats-who-support-the-progressive-reconciliation-strategy/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://theintercept.com/2021/12/20/build-back-better-manchin-democrats/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.npr.org/2021/11/06/1053239109/rep-pramila-jayapal-on-what-led-her-to-throw-support-behind-infrastructure-bill"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.nytimes.com/2021/11/19/us/politics/house-passes-reconciliation-bill.html"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.cnn.com/2021/12/19/politics/joe-manchin-build-back-better/index.html"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://theintercept.com/2021/07/16/nina-turner-shontel-brown-dmfi/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://theintercept.com/2021/05/08/nina-turner-shontel-brown-super-pac/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://theintercept.com/2021/07/27/nina-turner-shontel-brown-ohio-gop/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://theintercept.com/2021/04/14/cleveland-cuyahoga-shontel-brown-contracts-nina-turner/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.newsweek.com/hillary-clinton-endorsed-candidate-shontel-brown-faces-potential-ethics-probe-1613460"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://docquery.fec.gov/cgi-bin/fecimg/?202108019465820414"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://docquery.fec.gov/cgi-bin/fecimg/?202107309452399866"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.congress.gov/bill/117th-congress/house-bill/1976/cosponsors?q=%7B%22search%22%3A%5B%22medicare+for+all%22%2C%22medicare%22%2C%22for%22%2C%22all%22%5D%7D&r=2&s=1"
+      ]
+    ],
+    [
+      "strong"
+    ]
+  ],
+  "sections": [
+    [
+      10,
+      0
+    ],
+    [
+      10,
+      1
+    ],
+    [
+      10,
+      2
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "The campaign apparatus representing Washington, D.C.’s most prominent progressive lawmakers on Wednesday spurned Nina Turner, one of the highest-profile progressive candidates in the country."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "The group, the Congressional Progressive Caucus PAC, has painted the decision as a pro forma one. But progressive lawmakers are now intervening in a hotly contested House race to back a corporate-aligned Democrat over a progressive candidate who co-chaired Bernie Sanders’ presidential campaign and who the party’s conservative wing "
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "set out to"
+        ],
+        [
+          0,
+          [],
+          0,
+          " destroy last year."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Pro forma or not, the refusal to endorse Turner may be the logical endpoint of where progressive leader Rep. Pramila Jayapal (D-Wash.) has led her caucus over the past year — prioritizing inside-game strategies and fealty to Democratic Party norms, even when such tactics conflict with progressive goals."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Last year, the special election for Ohio's 11th District between Rep. Shontel Brown and Turner, a former Ohio state senator, became a proxy war between the establishment and progressive flanks of the Democratic Party. Outside groups tied to the Democratic establishment unleashed a torrent of negative messages to take down Turner, who co-chaired Sen. Bernie Sanders’ (Ind.-Vt.) 2020 presidential campaign."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "The efforts worked — Brown won by roughly 6 percent."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Now, with Turner once again challenging Brown in the regular election for the seat, the CPC has picked sides, endorsing the incumbent — who belongs to both the CPC and the rival, pro-business New Democrat Coalition — even though CPC Chair Jayapal "
+        ],
+        [
+          0,
+          [
+            1
+          ],
+          1,
+          "endorsed"
+        ],
+        [
+          0,
+          [],
+          0,
+          " Turner in the special election less than a year ago."
+        ]
+      ]
+    ],
+    [
+      10,
+      3
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "According to the CPC, the endorsement was simply business as usual. Evan Brown, executive director of the Congressional Progressive Caucus PAC, told "
+        ],
+        [
+          0,
+          [
+            2
+          ],
+          1,
+          "The Lever"
+        ],
+        [
+          0,
+          [],
+          0,
+          ": “Endorsements are put to the PAC for consideration when the incumbent CPC member requests it, and the CPC PAC regularly endorses members who ask.”"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "A look at Jayapal and her caucus’ recent behavior suggests that the move was no aberration from her caucus’ tactics, however. While the CPC represents the nascent progessive wing of the party, over the past year, under Jayapal’s direction, the organization has worked closely with the Democratic establishment with few clear legislative victories to show for it."
+        ]
+      ]
+    ],
+    [
+      1,
+      "h3",
+      [
+        [
+          0,
+          [],
+          0,
+          "“It's Been A Very Good Relationship”"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Over a year into his presidency, Biden has failed to enact most of the key agenda items he campaigned on. In almost every case, Jayapal, who has represented the Seattle area since 2017, has been party to those failures — rhetorically positioning congressional progressives as the true defenders of Biden’s agenda against the corporate flank of the caucus. But that rhetorical position, as it turned out, was also a strategic alliance: When Biden folded, so did the CPC."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "A preview of this lockstep strategy came in the first few months of the Biden administration, when a provision to raise the minimum wage to $15 an hour — a policy that Biden and a laundry list of other democrats campaigned on — was struck from key Democratic legislation."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "In early February, Jayapal "
+        ],
+        [
+          0,
+          [
+            3
+          ],
+          1,
+          "announced"
+        ],
+        [
+          0,
+          [],
+          0,
+          " that the wage hike would be a top demand by her caucus for the planned $1.9 trillion COVID-19 relief package, known as the American Rescue Plan. However, a hurdle soon arose when the Senate Parliamentarian advised Democrats they couldn’t pass the minimum wage measure under budget reconciliation rules. (The reconciliation process allows bills to pass the Senate by simple majority, but only measures pertaining to spending rather than policy.)"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Jayapal put out a "
+        ],
+        [
+          0,
+          [
+            4
+          ],
+          1,
+          "statement"
+        ],
+        [
+          0,
+          [],
+          0,
+          " arguing that the “White House and Senate leadership can and should still include the minimum wage increase in the bill,” likely referencing Vice President Kamala Harris’ "
+        ],
+        [
+          0,
+          [
+            5
+          ],
+          1,
+          "ability to ignore the parliamentarian"
+        ],
+        [
+          0,
+          [],
+          0,
+          ". But when the Biden administration announced it would not push Democrats to override the parliamentarian’s decision, Jayapal deferred to the White House’s leadership."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "“It's been a very good relationship,” Jayapal "
+        ],
+        [
+          0,
+          [
+            6
+          ],
+          0,
+          "told "
+        ],
+        [
+          0,
+          [
+            2
+          ],
+          2,
+          "NPR"
+        ],
+        [
+          0,
+          [
+            2
+          ],
+          1,
+          " "
+        ],
+        [
+          0,
+          [],
+          0,
+          "after the White House’s announcement. “That doesn't mean we're not going to tussle and tangle at times.\""
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "After the bill passed without the minimum wage hike, Jayapal said she trusted Biden would get it done. “I will just say one hopeful thing the President called me today to thank me for the work on the [COVID] bill and we talked about a $15 minimum wage and he again re-committed to me how committed he is to getting this done and getting it done quickly and getting a $15 minimum wage passed,” "
+        ],
+        [
+          0,
+          [
+            7
+          ],
+          1,
+          "she said"
+        ],
+        [
+          0,
+          [],
+          0,
+          " on the "
+        ],
+        [
+          0,
+          [
+            2
+          ],
+          1,
+          "Dean Obeidallah Show"
+        ],
+        [
+          0,
+          [],
+          0,
+          "."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Meanwhile, the "
+        ],
+        [
+          0,
+          [
+            8
+          ],
+          1,
+          "restaurant industry"
+        ],
+        [
+          0,
+          [],
+          0,
+          " "
+        ],
+        [
+          0,
+          [
+            9
+          ],
+          1,
+          "took credit for the"
+        ],
+        [
+          0,
+          [],
+          0,
+          " removal of a $15 minimum wage from the American Rescue Plan. Since then, a $15 federal minimum wage has almost entirely disappeared from the national political conversation."
+        ]
+      ]
+    ],
+    [
+      1,
+      "h3",
+      [
+        [
+          0,
+          [],
+          0,
+          "A Second Surrender"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "A similar series of events played out over Biden’s Build Back Better legislation, an ambitious social spending bill that would have made community college free, made the expanded Child Tax Credit permanent, invested in clean energy and forced utilities to cut carbon emissions, invested in child care, and allowed Medicare to negotiate some prescription drug prices."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "In April last year, House Speaker Nancy Pelosi "
+        ],
+        [
+          0,
+          [
+            10
+          ],
+          1,
+          "agreed to separate"
+        ],
+        [
+          0,
+          [],
+          0,
+          " the Democrats’ social spending bill and their infrastructure agenda into two separate pieces of legislation because the White House wanted to gain Republican votes for the infrastructure spending."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "At the time, Pelosi committed to passing both bills at once."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "But in August, a group of "
+        ],
+        [
+          0,
+          [
+            11
+          ],
+          1,
+          "about nine renegade corporate Democrats"
+        ],
+        [
+          0,
+          [],
+          0,
+          " led by Rep. Josh Gottheimer of New Jersey and backed by the "
+        ],
+        [
+          0,
+          [
+            12
+          ],
+          1,
+          "dark money group"
+        ],
+        [
+          0,
+          [],
+          0,
+          " "
+        ],
+        [
+          0,
+          [
+            13
+          ],
+          1,
+          "No Labels"
+        ],
+        [
+          0,
+          [],
+          0,
+          " attempted to split the bills by demanding that Pelosi hold a vote on the infrastructure measure before Build Back Better."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "In order to hold Pelosi to that promise, "
+        ],
+        [
+          0,
+          [
+            14
+          ],
+          1,
+          "the CPC said"
+        ],
+        [
+          0,
+          [],
+          0,
+          " that at least half of its 96 members would not vote for the infrastructure bill unless the reconciliation bill passed first. Democrats hold a small margin in the House of Representatives, so such a promise had teeth if enough progressives stuck to it."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "At the time, "
+        ],
+        [
+          0,
+          [
+            2
+          ],
+          1,
+          "The Lever, The Intercept, "
+        ],
+        [
+          0,
+          [],
+          0,
+          "and "
+        ],
+        [
+          0,
+          [
+            2
+          ],
+          1,
+          "The American Prospect "
+        ],
+        [
+          0,
+          [],
+          0,
+          "contacted every CPC member "
+        ],
+        [
+          0,
+          [
+            15
+          ],
+          1,
+          "and determined that"
+        ],
+        [
+          0,
+          [],
+          0,
+          " the CPC did indeed have enough members committed to the strategy to ensure that the bills passed together."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "For a moment, it looked like progressive lawmakers might hold the line. But after Democrats lost the Virginia governor’s race, Pelosi brought the infrastructure bill to a vote without Build Back Better."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Jayapal caved, taking Biden at his word that Build Back Better had the necessary votes in the Senate, according to "
+        ],
+        [
+          0,
+          [
+            16
+          ],
+          0,
+          "reporting by "
+        ],
+        [
+          0,
+          [
+            2
+          ],
+          2,
+          "The Intercept"
+        ],
+        [
+          0,
+          [],
+          0,
+          ", and that the social spending legislation would get a vote in the House after the bill’s budget score was released."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "“I feel so good. This is really a victory for the country. We delivered this trillion dollar infrastructure package,” Jayapal "
+        ],
+        [
+          0,
+          [
+            17
+          ],
+          0,
+          "told "
+        ],
+        [
+          0,
+          [
+            2
+          ],
+          2,
+          "NPR"
+        ],
+        [
+          0,
+          [
+            2
+          ],
+          1,
+          " "
+        ],
+        [
+          0,
+          [],
+          0,
+          "after voting to pass the infrastructure bill. She later added, “We now have a commitment from everyone in our caucus that [Build Back Better] will move forward in 10 days and go to the Senate.”"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Build Back Better "
+        ],
+        [
+          0,
+          [
+            18
+          ],
+          1,
+          "did pass"
+        ],
+        [
+          0,
+          [],
+          0,
+          " the House, but still hasn’t received a vote in the Senate."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Jayapal defended her choice, arguing that "
+        ],
+        [
+          0,
+          [
+            16
+          ],
+          1,
+          "her caucus did its job"
+        ],
+        [
+          0,
+          [],
+          0,
+          " of getting the legislation through the House, and that it was up to Biden to get the Senate to pass the bill."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Sen. Joe Manchin of West Virginia ultimately said he would not vote for the bill at all, after he reportedly committed his support to Biden. “I cannot vote to continue with this piece of legislation,” "
+        ],
+        [
+          0,
+          [
+            19
+          ],
+          1,
+          "he said"
+        ],
+        [
+          0,
+          [],
+          0,
+          " in December. “I just can't. I've tried everything humanly possible. I can't get there.\""
+        ]
+      ]
+    ],
+    [
+      1,
+      "h3",
+      [
+        [
+          0,
+          [],
+          0,
+          "The Inside Game Has Gone Awry"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Along with backing down at key moments, Jayapal and the CPC have also proven unwilling to challenge the culture of the Democratic Party, which is wedded to norms and hostile to radical change."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "That culminated this week in the CPC’s endorsement of Brown."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Brown joined the CPC when she took office in January, after defeating Turner in a primary battle in which Brown racked up support from the "
+        ],
+        [
+          0,
+          [
+            20
+          ],
+          1,
+          "fossil fuel-funded, pro-Israel DMFI PAC"
+        ],
+        [
+          0,
+          [],
+          0,
+          " (support she "
+        ],
+        [
+          0,
+          [
+            21
+          ],
+          1,
+          "requested"
+        ],
+        [
+          0,
+          [],
+          0,
+          "), "
+        ],
+        [
+          0,
+          [
+            22
+          ],
+          1,
+          "Ohio Republicans"
+        ],
+        [
+          0,
+          [],
+          0,
+          ", and "
+        ],
+        [
+          0,
+          [
+            23
+          ],
+          1,
+          "a contractor"
+        ],
+        [
+          0,
+          [],
+          0,
+          " that she had awarded $17 million to as a city councilor, a potential tit-for-tat that resulted in "
+        ],
+        [
+          0,
+          [
+            24
+          ],
+          1,
+          "an ethics probe"
+        ],
+        [
+          0,
+          [],
+          0,
+          "."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "After Turner aired an advertisement touting her support for Medicare for All, corporate lobbyists — including those representing Big Pharma — "
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "held a fundraiser"
+        ],
+        [
+          0,
+          [],
+          0,
+          " for Brown, and the anti-Medicare for All lawmaker Rep. Jim Clyburn (D-S.C.) intervened to support her campaign."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "DMFI PAC and the corporatist dark money group Third Way spent "
+        ],
+        [
+          0,
+          [
+            25
+          ],
+          1,
+          "$2.4"
+        ],
+        [
+          0,
+          [],
+          0,
+          " "
+        ],
+        [
+          0,
+          [
+            26
+          ],
+          1,
+          "million"
+        ],
+        [
+          0,
+          [],
+          0,
+          " promoting Brown and opposing Turner."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Even so, the CPC welcomed Brown with open arms. She also joined the CPC’s adversary caucus, the New Democrat Coalition, which includes several CPC members."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Perhaps it’s not a bad thing to welcome any member who is willing to vote with the caucus. Brown signed on as a "
+        ],
+        [
+          0,
+          [
+            27
+          ],
+          1,
+          "co-sponsor"
+        ],
+        [
+          0,
+          [],
+          0,
+          " to Jayapal’s Medicare for All legislation in early February, for example."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "But if the strategy ends up with the caucus endorsing a candidate who ran a campaign backed by pharmaceutical lobbyists, the pro-Israel lobby, and Republicans — all constituencies whose interests are vehemently opposed to the CPC’s agenda — against a progressive like Turner, the inside game has gone awry."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Sanders, meanwhile, the only Senate member of the CPC, endorsed Turner just one day before the CPC endorsed Brown."
+        ]
+      ]
+    ],
+    [
+      10,
+      4
+    ],
+    [
+      10,
+      5
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [
+            2,
+            28
+          ],
+          1,
+          "Our news organization relies on readers pitching in to support our journalism. "
+        ],
+        [
+          0,
+          [
+            2,
+            28
+          ],
+          3,
+          "If you like this story, please support "
+        ],
+        [
+          0,
+          [
+            28,
+            2,
+            28
+          ],
+          3,
+          "our"
+        ],
+        [
+          0,
+          [
+            2,
+            2,
+            28
+          ],
+          3,
+          " work."
+        ]
+      ]
+    ],
+    [
+      10,
+      6
+    ],
+    [
+      10,
+      7
+    ],
+    [
+      10,
+      8
+    ]
+  ],
+  "ghostVersion": "4.0"
+}

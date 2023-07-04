@@ -1,0 +1,291 @@
+{
+  "version": "0.3.1",
+  "atoms": [],
+  "cards": [
+    [
+      "hr",
+      {}
+    ],
+    [
+      "image",
+      {
+        "src": "__GHOST_URL__/content/images/2023/04/Thieves-Are-Hacking-Cars-Through-Headlights-2.jpg",
+        "width": 1920,
+        "height": 1080
+      }
+    ],
+    [
+      "image",
+      {
+        "src": "__GHOST_URL__/content/images/2023/04/Thieves-Are-Hacking-Cars-Through-Headlights-3.jpg",
+        "width": 1920,
+        "height": 1080
+      }
+    ]
+  ],
+  "markups": [
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/articles/features-3/kia-hyundai-theft-ballooning/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/articles/news/car-thieves-hide-devices/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/articles/features-3/vandalized-muscle-cars/"
+      ]
+    ],
+    [
+      "strong"
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/articles/news/young-car-theft-magnets/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.thetimes.co.uk/article/luxury-cars-are-gone-in-90-seconds-with-thief-kit-z300g0njf?ref=motorious.com"
+      ]
+    ]
+  ],
+  "sections": [
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "The wonders of modern technology!"
+        ]
+      ]
+    ],
+    [
+      10,
+      0
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "We’ve covered before how "
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "thieves"
+        ],
+        [
+          0,
+          [],
+          0,
+          " are using seemingly ordinary-looking devices to hack into cars’ CAN bus and start the engine without a key, but a new wave of reports is shining a light on this problem again. They’re actually referencing a story "
+        ],
+        [
+          0,
+          [
+            1
+          ],
+          1,
+          "which broke back in January"
+        ],
+        [
+          0,
+          [],
+          0,
+          " from the UK after a cybersecurity specialist had his Toyota RAV4 stolen after it was seemingly "
+        ],
+        [
+          0,
+          [
+            2
+          ],
+          1,
+          "vandalized"
+        ],
+        [
+          0,
+          [],
+          0,
+          " twice before."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [
+            3
+          ],
+          0,
+          "Learn why young drivers are being called car theft magnets "
+        ],
+        [
+          0,
+          [
+            4
+          ],
+          1,
+          "here"
+        ],
+        [
+          0,
+          [],
+          1,
+          "."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "The guy didn’t realize until the vehicle was gone those “vandalisms” were actually thieves unsuccessfully attempting to hack the CAN bus and get the vehicle unlocked and started. They had pulled off trim pieces around the headlight, pulling out cables which connect the headlight to the computer which control them."
+        ]
+      ]
+    ],
+    [
+      10,
+      1
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "That’s how you can have adaptive headlights and other advanced features on modern cars: everything is connected through the CAN bus or the Controller Area Network. Acting like the nervous system for a vehicle’s different systems, it connects ECUs so they can share information and coordinate responses to on-road conditions, etc. together."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "What most people don’t realize is there are relatively inexpensive devices which are supposed to only be used by locksmiths but can be purchased by anyone and are capable of unlocking and even starting a vehicle by hacking into the CAN bus."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Thieves are going after the connections to the headlights because they’re especially easy to reach, although they can do the same thing using other connections. To reach the wires which provide access to the CAN, thieves have to pry back or remove trim pieces on the vehicle, including the front or rear bumper covers. If you find someone has done that to your car, they were probably trying to steal it."
+        ]
+      ]
+    ],
+    [
+      10,
+      2
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Without going into too much detail, these “locksmith” devices can be purchased already embedded in seemingly innocent things like Bluetooth speakers, a cell phone, etc. If police stop suspects, they might not realize they’re carrying one of these devices used for stealing cars."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Using the device, a thief can unlock a car and have it started in under 30 seconds, if they’re good. This should be concerning. Supposedly, automakers are working to develop software updates which would close this security loophole. However, just like with your computer or smartphone, that’s always a cat and mouse game."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "In the meantime, you can take steps to secure your car in all the usual ways: park inside a garage whenever possible, use motion-sensor lights, cameras, steering wheel locks, etc. to slow down and deter thieves."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Source: "
+        ],
+        [
+          0,
+          [
+            5
+          ],
+          1,
+          "The Times"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Images via Facebook"
+        ]
+      ]
+    ]
+  ],
+  "ghostVersion": "4.0"
+}

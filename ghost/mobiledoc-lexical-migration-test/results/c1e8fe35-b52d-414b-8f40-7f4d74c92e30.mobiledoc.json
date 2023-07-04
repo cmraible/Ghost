@@ -1,0 +1,1252 @@
+{
+  "version": "0.3.1",
+  "atoms": [],
+  "cards": [
+    [
+      "email",
+      {
+        "html": "<p>Hello {first_name, \"there\"},</p><p>And a partiulalry warm welcome to the new subscribers who have joined us since last issue, some from my soon-t0-be-extinct <a href=\"https://www.getrevue.co/\">Revue</a> newsletter, <a href=\"http://www.engagedreadingtime.com\">Engaged Reading Time</a>. Great to have you here - do let me know what you think of the issue, either by hitting “reply\" or by using the feedback buttons at the end of the email.</p>"
+      }
+    ],
+    [
+      "embed",
+      {
+        "url": "https://twitter.com/jopayton/status/1615432114685501449?s=61&t=te2pdSGRCzAhFWIuXCVPFA",
+        "html": "<blockquote class=\"twitter-tweet\"><p lang=\"en\" dir=\"ltr\">Two big chinks in the AI&#39;s armour. 1. it is risk averse. 2. in the context of stories/art/poetry etc. it may give a human the possibility to make things beyond their own capability at the push of a button, but it provides zero creative &#39;flow&#39;. Where&#39;s the joy in that?</p>&mdash; Johanna Payton (@jopayton) <a href=\"https://twitter.com/jopayton/status/1615432114685501449?ref_src=twsrc%5Etfw\">January 17, 2023</a></blockquote>\n<script async src=\"https://platform.twitter.com/widgets.js\" charset=\"utf-8\"></script>\n",
+        "type": "twitter",
+        "metadata": {
+          "url": "https://twitter.com/jopayton/status/1615432114685501449",
+          "author_name": "Johanna Payton",
+          "author_url": "https://twitter.com/jopayton",
+          "width": 550,
+          "height": null,
+          "cache_age": "3153600000",
+          "provider_name": "Twitter",
+          "provider_url": "http://www.twitter.com/",
+          "version": "1.0",
+          "tweet_data": {
+            "lang": "en",
+            "created_at": "2023-01-17T19:33:24.000Z",
+            "id": "1615432114685501449",
+            "text": "Two big chinks in the AI's armour. 1. it is risk averse. 2. in the context of stories/art/poetry etc. it may give a human the possibility to make things beyond their own capability at the push of a button, but it provides zero creative 'flow'. Where's the joy in that?",
+            "entities": {
+              "annotations": [
+                {
+                  "start": 22,
+                  "end": 23,
+                  "probability": 0.8005,
+                  "type": "Organization",
+                  "normalized_text": "AI"
+                }
+              ]
+            },
+            "reply_settings": "everyone",
+            "edit_history_tweet_ids": [
+              "1615432114685501449"
+            ],
+            "conversation_id": "1615432114685501449",
+            "possibly_sensitive": false,
+            "public_metrics": {
+              "retweet_count": 2,
+              "reply_count": 2,
+              "like_count": 4,
+              "quote_count": 0,
+              "impression_count": 911
+            },
+            "context_annotations": [
+              {
+                "domain": {
+                  "id": "131",
+                  "name": "Unified Twitter Taxonomy",
+                  "description": "A taxonomy of user interests. "
+                },
+                "entity": {
+                  "id": "1265660441822281728",
+                  "name": "Art"
+                }
+              },
+              {
+                "domain": {
+                  "id": "131",
+                  "name": "Unified Twitter Taxonomy",
+                  "description": "A taxonomy of user interests. "
+                },
+                "entity": {
+                  "id": "1537182142450372608",
+                  "name": "AI image generation"
+                }
+              }
+            ],
+            "author_id": "19498014",
+            "includes": {
+              "users": [
+                {
+                  "description": "Lifestyle writer. Lecturer @cityjournalism Swimmer. Arts & slow fashion fan 🌎 PhD candidate: #journalism #education #creativity. She-hulk.",
+                  "username": "jopayton",
+                  "location": "Tooting",
+                  "profile_image_url": "https://pbs.twimg.com/profile_images/1610794244351954944/q7klNpAA_normal.jpg",
+                  "name": "Johanna Payton",
+                  "created_at": "2009-01-25T18:22:03.000Z",
+                  "pinned_tweet_id": "1541819426563055618",
+                  "public_metrics": {
+                    "followers_count": 6775,
+                    "following_count": 2938,
+                    "tweet_count": 18855,
+                    "listed_count": 178
+                  },
+                  "id": "19498014",
+                  "url": "https://t.co/Cx0FKVp5c6",
+                  "protected": false,
+                  "entities": {
+                    "url": {
+                      "urls": [
+                        {
+                          "start": 0,
+                          "end": 23,
+                          "url": "https://t.co/Cx0FKVp5c6",
+                          "expanded_url": "http://www.johannapayton.co.uk",
+                          "display_url": "johannapayton.co.uk"
+                        }
+                      ]
+                    },
+                    "description": {
+                      "hashtags": [
+                        {
+                          "start": 93,
+                          "end": 104,
+                          "tag": "journalism"
+                        },
+                        {
+                          "start": 105,
+                          "end": 115,
+                          "tag": "education"
+                        },
+                        {
+                          "start": 116,
+                          "end": 127,
+                          "tag": "creativity"
+                        }
+                      ],
+                      "mentions": [
+                        {
+                          "start": 27,
+                          "end": 42,
+                          "username": "cityjournalism"
+                        }
+                      ]
+                    }
+                  },
+                  "verified": false
+                }
+              ]
+            }
+          }
+        }
+      }
+    ],
+    [
+      "bookmark",
+      {
+        "version": "1.0",
+        "type": "bookmark",
+        "url": "https://www.algorithmic.news",
+        "metadata": {
+          "url": "https://www.algorithmic.news",
+          "title": "Home - Towards responsible AI for local journalism",
+          "description": null,
+          "author": null,
+          "publisher": "Towards responsible AI for local journalism",
+          "thumbnail": "https://www.algorithmic.news/assets/images/0/1033-7bc7112a.jpg",
+          "icon": "https://www.algorithmic.news/share/favicon-towards-responsible-ai-for-local-journalism.ico"
+        }
+      }
+    ],
+    [
+      "bookmark",
+      {
+        "version": "1.0",
+        "type": "bookmark",
+        "url": "https://searchengineland.com/google-ranking-signals-complete-breakdown-391784",
+        "metadata": {
+          "url": "https://searchengineland.com/google-ranking-signals-complete-breakdown-391784",
+          "title": "Google ranking signals: A complete breakdown of all confirmed, rumored and false factors",
+          "description": "An easy-to-read, highly condensed analysis of all the known, confirmed, rumored, and absolute myth-level Google ranking factors.",
+          "author": "Brad Smith",
+          "publisher": "Search Engine Land",
+          "thumbnail": "https://searchengineland.com/wp-content/seloads/2023/01/Google-ranking-factors.png",
+          "icon": "https://searchengineland.com/apple-touch-icon.png"
+        }
+      }
+    ],
+    [
+      "bookmark",
+      {
+        "version": "1.0",
+        "type": "bookmark",
+        "url": "https://www.icopilots.com/the-digital-native-myth/",
+        "metadata": {
+          "url": "https://www.icopilots.com/the-digital-native-myth/",
+          "title": "🤖 The digital native myth",
+          "description": "Today, a quick note for future reference as I still hear a lot of marketers still strategizing about “digital natives.” The digital native demography is a common target of many incumbent companies trying to get more into digital. How to address the digital natives effectively has been the main them…",
+          "author": "Philippe MEDA",
+          "publisher": "Innovation Copilots",
+          "thumbnail": "https://images.unsplash.com/photo-1530825894095-9c184b068fcb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDM0fHxkaWdpdGFsJTIwa2lkc3xlbnwwfHx8fDE2NzQwMjg2NjA&ixlib=rb-4.0.3&q=80&w=2000",
+          "icon": "https://www.icopilots.com/content/images/size/w256h256/2022/02/icopilots-logo-BIG.png"
+        }
+      }
+    ],
+    [
+      "embed",
+      {
+        "url": "https://twitter.com/ejcnet/status/1615333563955810304?s=61&t=te2pdSGRCzAhFWIuXCVPFA",
+        "html": "<blockquote class=\"twitter-tweet\"><p lang=\"en\" dir=\"ltr\">Call for applications!<br>Starting today, opinion-forming media organisations in France, Germany or the United Kingdom can apply for grants of up to €130,000 together with mentoring and coaching for each grantee. Application deadline: 21 Feb<a href=\"https://t.co/svzATbg48y\">https://t.co/svzATbg48y</a> <a href=\"https://t.co/rIzsssOfCR\">pic.twitter.com/rIzsssOfCR</a></p>&mdash; European Journalism Centre (@ejcnet) <a href=\"https://twitter.com/ejcnet/status/1615333563955810304?ref_src=twsrc%5Etfw\">January 17, 2023</a></blockquote>\n<script async src=\"https://platform.twitter.com/widgets.js\" charset=\"utf-8\"></script>\n",
+        "type": "twitter",
+        "metadata": {
+          "url": "https://twitter.com/ejcnet/status/1615333563955810304",
+          "author_name": "European Journalism Centre",
+          "author_url": "https://twitter.com/ejcnet",
+          "width": 550,
+          "height": null,
+          "cache_age": "3153600000",
+          "provider_name": "Twitter",
+          "provider_url": "http://www.twitter.com/",
+          "version": "1.0",
+          "tweet_data": {
+            "public_metrics": {
+              "retweet_count": 9,
+              "reply_count": 1,
+              "like_count": 10,
+              "quote_count": 4,
+              "impression_count": 3167
+            },
+            "conversation_id": "1615333563955810304",
+            "lang": "en",
+            "id": "1615333563955810304",
+            "edit_history_tweet_ids": [
+              "1615333563955810304"
+            ],
+            "created_at": "2023-01-17T13:01:47.000Z",
+            "text": "Call for applications!\nStarting today, opinion-forming media organisations in France, Germany or the United Kingdom can apply for grants of up to €130,000 together with mentoring and coaching for each grantee. Application deadline: 21 Feb\nhttps://t.co/svzATbg48y https://t.co/rIzsssOfCR",
+            "possibly_sensitive": false,
+            "reply_settings": "everyone",
+            "entities": {
+              "annotations": [
+                {
+                  "start": 78,
+                  "end": 83,
+                  "probability": 0.9127,
+                  "type": "Place",
+                  "normalized_text": "France"
+                },
+                {
+                  "start": 86,
+                  "end": 92,
+                  "probability": 0.9563,
+                  "type": "Place",
+                  "normalized_text": "Germany"
+                },
+                {
+                  "start": 101,
+                  "end": 114,
+                  "probability": 0.8616,
+                  "type": "Place",
+                  "normalized_text": "United Kingdom"
+                }
+              ],
+              "urls": [
+                {
+                  "start": 239,
+                  "end": 262,
+                  "url": "https://t.co/svzATbg48y",
+                  "expanded_url": "https://grant.ejc.net/s/solutions-journalism-accelerator-23",
+                  "display_url": "grant.ejc.net/s/solutions-jo…",
+                  "status": 200,
+                  "title": "Solutions Journalism Accelerator 2023",
+                  "description": "The European Journalism Centre (EJC) in partnership with the Solutions Journalism Network (SJN) has launched the Solutions Journalism Accelerator that is supporting up to 18 European media organisations/ consortiums reporting on long-term solutions-focused development journalism. Purpose: The Solutions Journalism Accelerator is a programme delivering grant funding, mentoring, coaching, resources and knowledge transfer to support solutions-focused development journalism in European news organisations.",
+                  "unwound_url": "https://grant.ejc.net/s/solutions-journalism-accelerator-23"
+                },
+                {
+                  "start": 263,
+                  "end": 286,
+                  "url": "https://t.co/rIzsssOfCR",
+                  "expanded_url": "https://twitter.com/ejcnet/status/1615333563955810304/video/1",
+                  "display_url": "pic.twitter.com/rIzsssOfCR",
+                  "media_key": "7_1615330875515846656"
+                }
+              ]
+            },
+            "attachments": {
+              "media_keys": [
+                "7_1615330875515846656"
+              ]
+            },
+            "author_id": "22495264",
+            "context_annotations": [
+              {
+                "domain": {
+                  "id": "131",
+                  "name": "Unified Twitter Taxonomy",
+                  "description": "A taxonomy of user interests. "
+                },
+                "entity": {
+                  "id": "1237072960952750081",
+                  "name": "Journalism"
+                }
+              },
+              {
+                "domain": {
+                  "id": "131",
+                  "name": "Unified Twitter Taxonomy",
+                  "description": "A taxonomy of user interests. "
+                },
+                "entity": {
+                  "id": "1278000653416099840",
+                  "name": "Writing"
+                }
+              }
+            ],
+            "includes": {
+              "media": [
+                {
+                  "height": 1200,
+                  "width": 1200,
+                  "public_metrics": {
+                    "view_count": 429
+                  },
+                  "media_key": "7_1615330875515846656",
+                  "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1615330875515846656/pu/img/cUbptt1KQ7V_-lD1.jpg",
+                  "type": "video",
+                  "duration_ms": 5000
+                }
+              ],
+              "users": [
+                {
+                  "entities": {
+                    "url": {
+                      "urls": [
+                        {
+                          "start": 0,
+                          "end": 23,
+                          "url": "https://t.co/x8fNdTp0Ss",
+                          "expanded_url": "http://ejc.net/newsletters",
+                          "display_url": "ejc.net/newsletters"
+                        }
+                      ]
+                    }
+                  },
+                  "description": "The European Journalism Centre connects journalists to new people, skills, funding and ideas. We support careers, newsrooms, and the industry.",
+                  "username": "ejcnet",
+                  "id": "22495264",
+                  "protected": false,
+                  "public_metrics": {
+                    "followers_count": 38726,
+                    "following_count": 704,
+                    "tweet_count": 20371,
+                    "listed_count": 1642
+                  },
+                  "name": "European Journalism Centre",
+                  "profile_image_url": "https://pbs.twimg.com/profile_images/892299990663663617/1UbYzVnS_normal.jpg",
+                  "created_at": "2009-03-02T15:39:59.000Z",
+                  "pinned_tweet_id": "1593544551825899520",
+                  "location": "Maastricht",
+                  "verified": true,
+                  "url": "https://t.co/x8fNdTp0Ss"
+                }
+              ]
+            }
+          }
+        }
+      }
+    ],
+    [
+      "embed",
+      {
+        "url": "https://twitter.com/wanderingsal/status/1615335498918010881?s=61&t=te2pdSGRCzAhFWIuXCVPFA",
+        "html": "<blockquote class=\"twitter-tweet\"><p lang=\"en\" dir=\"ltr\"><a href=\"https://twitter.com/hashtag/journalist?src=hash&amp;ref_src=twsrc%5Etfw\">#journalist</a> <a href=\"https://twitter.com/hashtag/Barbie?src=hash&amp;ref_src=twsrc%5Etfw\">#Barbie</a> &#39;delivers headlines with a professional look and matching accessory&#39; <a href=\"https://t.co/MzFMSAugpe\">pic.twitter.com/MzFMSAugpe</a></p>&mdash; Sally Howard ✍️ (@WanderingSal) <a href=\"https://twitter.com/WanderingSal/status/1615335498918010881?ref_src=twsrc%5Etfw\">January 17, 2023</a></blockquote>\n<script async src=\"https://platform.twitter.com/widgets.js\" charset=\"utf-8\"></script>\n",
+        "type": "twitter",
+        "metadata": {
+          "url": "https://twitter.com/WanderingSal/status/1615335498918010881",
+          "author_name": "Sally Howard ✍️",
+          "author_url": "https://twitter.com/WanderingSal",
+          "width": 550,
+          "height": null,
+          "cache_age": "3153600000",
+          "provider_name": "Twitter",
+          "provider_url": "http://www.twitter.com/",
+          "version": "1.0",
+          "tweet_data": {
+            "entities": {
+              "urls": [
+                {
+                  "start": 89,
+                  "end": 112,
+                  "url": "https://t.co/MzFMSAugpe",
+                  "expanded_url": "https://twitter.com/WanderingSal/status/1615335498918010881/photo/1",
+                  "display_url": "pic.twitter.com/MzFMSAugpe",
+                  "media_key": "3_1615335135070588928"
+                }
+              ],
+              "annotations": [
+                {
+                  "start": 13,
+                  "end": 18,
+                  "probability": 0.4737,
+                  "type": "Person",
+                  "normalized_text": "Barbie"
+                }
+              ],
+              "hashtags": [
+                {
+                  "start": 0,
+                  "end": 11,
+                  "tag": "journalist"
+                },
+                {
+                  "start": 12,
+                  "end": 19,
+                  "tag": "Barbie"
+                }
+              ]
+            },
+            "public_metrics": {
+              "retweet_count": 5,
+              "reply_count": 3,
+              "like_count": 17,
+              "quote_count": 2,
+              "impression_count": 6571
+            },
+            "reply_settings": "everyone",
+            "created_at": "2023-01-17T13:09:29.000Z",
+            "author_id": "190633736",
+            "context_annotations": [
+              {
+                "domain": {
+                  "id": "131",
+                  "name": "Unified Twitter Taxonomy",
+                  "description": "A taxonomy of user interests. "
+                },
+                "entity": {
+                  "id": "1046545033657081857",
+                  "name": "News",
+                  "description": "News"
+                }
+              },
+              {
+                "domain": {
+                  "id": "131",
+                  "name": "Unified Twitter Taxonomy",
+                  "description": "A taxonomy of user interests. "
+                },
+                "entity": {
+                  "id": "1074755369530880001",
+                  "name": "Journalists",
+                  "description": "Journalism"
+                }
+              }
+            ],
+            "id": "1615335498918010881",
+            "lang": "en",
+            "edit_history_tweet_ids": [
+              "1615335498918010881"
+            ],
+            "possibly_sensitive": false,
+            "conversation_id": "1615335498918010881",
+            "attachments": {
+              "media_keys": [
+                "3_1615335135070588928"
+              ]
+            },
+            "text": "#journalist #Barbie 'delivers headlines with a professional look and matching accessory' https://t.co/MzFMSAugpe",
+            "includes": {
+              "media": [
+                {
+                  "height": 1110,
+                  "width": 666,
+                  "url": "https://pbs.twimg.com/media/FmrSvzcXEAAuc65.jpg",
+                  "media_key": "3_1615335135070588928",
+                  "type": "photo"
+                }
+              ],
+              "users": [
+                {
+                  "entities": {
+                    "url": {
+                      "urls": [
+                        {
+                          "start": 0,
+                          "end": 23,
+                          "url": "https://t.co/eRVmDYsR3m",
+                          "expanded_url": "https://docs.google.com/document/d/1TbvA-QIyX0ojzoJ4CrKdD7dOXwInoD5xmv_mK6GRerc/edit",
+                          "display_url": "docs.google.com/document/d/1Tb…"
+                        }
+                      ]
+                    },
+                    "description": {
+                      "mentions": [
+                        {
+                          "start": 79,
+                          "end": 88,
+                          "username": "guardian"
+                        },
+                        {
+                          "start": 89,
+                          "end": 100,
+                          "username": "bmj_latest"
+                        },
+                        {
+                          "start": 101,
+                          "end": 108,
+                          "username": "obsmag"
+                        }
+                      ]
+                    }
+                  },
+                  "name": "Sally Howard ✍️",
+                  "profile_image_url": "https://pbs.twimg.com/profile_images/1572872940005343234/xdnG-0wh_normal.jpg",
+                  "created_at": "2010-09-14T13:15:51.000Z",
+                  "url": "https://t.co/eRVmDYsR3m",
+                  "username": "WanderingSal",
+                  "verified": false,
+                  "description": "Journalist specialising in global health, social affairs and social travel for @guardian @bmj_latest @obsmag and others. PR pitching guidelines 👇",
+                  "protected": false,
+                  "id": "190633736",
+                  "public_metrics": {
+                    "followers_count": 2165,
+                    "following_count": 4574,
+                    "tweet_count": 6599,
+                    "listed_count": 0
+                  },
+                  "location": "London and roving "
+                }
+              ]
+            }
+          }
+        }
+      }
+    ]
+  ],
+  "markups": [
+    [
+      "em"
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/2023/01/lunchnlink-3-newsletters-1-twitter-api-0/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.theverge.com/23551060/elon-musk-twitter-takeover-layoffs-workplace-salute-emoji"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.axios.com/2023/01/17/twitter-media-sports-content-deals"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.ft.com/content/25f67d89-2940-43b9-9a42-bfc34d262631"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/2023/01/lunchnlink-2-ai-journalism/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.cnet.com/tech/cnet-is-experimenting-with-an-ai-assist-heres-why/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://futurism.com/cnet-ai-errors"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.theverge.com/2023/1/17/23558563/discord-gas-app-social-media-acquisition"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://blog.parse.ly/content-metrics/"
+      ]
+    ]
+  ],
+  "sections": [
+    [
+      10,
+      0
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Life inside Musk's Twitter"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Look, I try not to allow Felton Mush and his takeover of Twitter dominate this email, but somethimes things are just too damn good not to share. "
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "The Verge"
+        ],
+        [
+          0,
+          [],
+          0,
+          " and "
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "New York Magazine"
+        ],
+        [
+          0,
+          [],
+          0,
+          " have worked together on a superb long feature on the behind-the-scenes chaos of the Tesla Toddler's takeover of Twitter. "
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "There's "
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "so many"
+        ],
+        [
+          0,
+          [],
+          0,
+          " sections I could quote, but one particular narrative thread is interesting to anyone whose preferred "
+        ],
+        [
+          0,
+          [
+            1
+          ],
+          1,
+          "Twitter app stopped working"
+        ],
+        [
+          0,
+          [],
+          0,
+          " last week. It follows Amir Shevat, who is waiting for his meeting with the new Twitter owner:"
+        ]
+      ]
+    ],
+    [
+      1,
+      "blockquote",
+      [
+        [
+          0,
+          [],
+          0,
+          "Every hour, an assistant messaged Shevat to say the meeting was delayed. When it finally began, around 8 p.m., ­Shevat explained what his team did — they ran the services that allowed outside developers to create apps that connected to Twitter, a feature of any major platform. It would be a crucial component if Musk pursued his publicly stated aspiration to make Twitter a “super-app” like WeChat, which has a thriving economy of mini-apps made by outside engineers."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "And how did that meeting go?"
+        ]
+      ]
+    ],
+    [
+      1,
+      "blockquote",
+      [
+        [
+          0,
+          [],
+          0,
+          "Shevat thought Sacks seemed bored — he spent most of the meeting checking his phone. “He didn’t want to understand anything,” Shevat says. It made him want to cry, especially since he had actually been eager to work with Musk. “I would have worked really hard for him,” he says."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Shevat “would” have worked really hard for him? Uh-oh. "
+        ]
+      ]
+    ],
+    [
+      1,
+      "blockquote",
+      [
+        [
+          0,
+          [],
+          0,
+          "The layoffs wiped out Shevat and his entire team."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "And just weeks later, a whole bunch of apps get kicked off that API. That's not going to help anyone trust Twitter if it does try to become a WeChat-style mega app.  "
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Anyway, procure a tasty beverage and "
+        ],
+        [
+          0,
+          [
+            2
+          ],
+          1,
+          "go read the whole damn thing"
+        ],
+        [
+          0,
+          [],
+          0,
+          ". It's great reporting. "
+        ]
+      ]
+    ],
+    [
+      1,
+      "h3",
+      [
+        [
+          0,
+          [],
+          0,
+          "More Twitter links"
+        ]
+      ]
+    ],
+    [
+      3,
+      "ul",
+      [
+        [
+          [
+            0,
+            [],
+            0,
+            "Twitter has managed to bag a "
+          ],
+          [
+            0,
+            [
+              3
+            ],
+            1,
+            "whole bunch of content partnerships"
+          ],
+          [
+            0,
+            [],
+            0,
+            ", despite the chaos. "
+          ]
+        ],
+        [
+          [
+            0,
+            [],
+            0,
+            "They might need them. As the "
+          ],
+          [
+            0,
+            [
+              0
+            ],
+            1,
+            "FT"
+          ],
+          [
+            0,
+            [],
+            0,
+            " reports, the "
+          ],
+          [
+            0,
+            [
+              4
+            ],
+            1,
+            "first bill for the take-over"
+          ],
+          [
+            0,
+            [],
+            0,
+            " is coming due. "
+          ]
+        ]
+      ]
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "AI Journalism: going great so far!"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Last week, I linked to a piece pointing out that "
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "CNET"
+        ],
+        [
+          0,
+          [],
+          0,
+          " had been "
+        ],
+        [
+          0,
+          [
+            5
+          ],
+          1,
+          "quietly using growing amounts of AI-generated copy"
+        ],
+        [
+          0,
+          [],
+          0,
+          ". The site's editor in chief Connie Guglielmo "
+        ],
+        [
+          0,
+          [
+            6
+          ],
+          1,
+          "expained what they're doing"
+        ],
+        [
+          0,
+          [],
+          0,
+          " with AI in a post:"
+        ]
+      ]
+    ],
+    [
+      1,
+      "blockquote",
+      [
+        [
+          0,
+          [],
+          0,
+          "I use the term \"AI assist\" because while the AI engine compiled the story draft or gathered some of the information in the story, every article on CNET – and we publish thousands of new and updated stories each month – is reviewed, fact-checked and edited by an editor with topical expertise before we hit publish. That will remain true as our policy no matter what tools or tech we use to create those stories."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "And she went on to give some examples of the kinds of story they're using AI for. All good, right? Well, maaaaaaybe not. "
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "Futurism"
+        ],
+        [
+          0,
+          [],
+          0,
+          "'s Jon Christian:"
+        ]
+      ]
+    ],
+    [
+      1,
+      "blockquote",
+      [
+        [
+          0,
+          [],
+          0,
+          "But we couldn't help but notice that one of the very same AI-generated articles that Guglielmo highlighted in her post makes a series of boneheaded errors that drag the concept of replacing human writers with AI down to earth."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "How wrong? "
+        ],
+        [
+          0,
+          [
+            7
+          ],
+          1,
+          "Very wrong"
+        ],
+        [
+          0,
+          [],
+          0,
+          ". "
+        ]
+      ]
+    ],
+    [
+      1,
+      "h3",
+      [
+        [
+          0,
+          [],
+          0,
+          "The chinks in AI's armour"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Talking of AI, my City colleague Jo Payton had a good insight:"
+        ]
+      ]
+    ],
+    [
+      10,
+      1
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Responsible AI in local news"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "This is very cool: a team of academics has pulled together a new site starting a research-driven dialogue about responsible AI use in local news. Annoyingly, there's no newsletter to sign up for and no RSS feed to subscribe to, so I'm going to have to keep it bookmarked and check for new posts manually — like an ANIMAL. "
+        ]
+      ]
+    ],
+    [
+      10,
+      2
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "SEO: a complete guide to ranking signals"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Why, this is very, very handy:"
+        ]
+      ]
+    ],
+    [
+      10,
+      3
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Digital Natives are a myth"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "This has been said before. This will be said again. But it keeps needing to be said:"
+        ]
+      ]
+    ],
+    [
+      1,
+      "blockquote",
+      [
+        [
+          0,
+          [],
+          0,
+          "Now to some extent, we can empirically see that the introduction of digital tools has really challenged the generation born around 1940. But there is certainly no generation that was born with an innate understanding of them. Just as much as boomers had to learn reading and writing, they didn't \"get newspapers\" better because they were born with them."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Just because people grew up with tools, doesn't mean they are inherently more skilled with them. Us Gen Xers weren't born with the web: but we're largely the ones who built businesses on top of it. "
+        ]
+      ]
+    ],
+    [
+      10,
+      4
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Quickies"
+        ]
+      ]
+    ],
+    [
+      3,
+      "ul",
+      [
+        [
+          [
+            0,
+            [
+              8
+            ],
+            1,
+            "Discord acquires Gas"
+          ],
+          [
+            0,
+            [],
+            0,
+            ". For those of you who might be getting on a bit, Discord is a Slack-like chat app, and Gas is an app beloved of secondary schoolers. if you're in audience, you need to know what thate are. "
+          ]
+        ],
+        [
+          [
+            0,
+            [],
+            0,
+            "A useful Parse.ly guide to "
+          ],
+          [
+            0,
+            [
+              9
+            ],
+            1,
+            "key metrics you should be using"
+          ],
+          [
+            0,
+            [],
+            0,
+            "."
+          ]
+        ]
+      ]
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Opportunity corner"
+        ]
+      ]
+    ],
+    [
+      10,
+      5
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "And finally… Journo Barbie"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Presented without comment:"
+        ]
+      ]
+    ],
+    [
+      10,
+      6
+    ],
+    [
+      1,
+      "p",
+      []
+    ]
+  ],
+  "ghostVersion": "4.0"
+}

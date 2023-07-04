@@ -1,0 +1,1930 @@
+{
+  "version": "0.3.1",
+  "atoms": [],
+  "cards": [
+    [
+      "embed",
+      {
+        "url": "https://twitter.com/beastmode/status/1637613704312242176?s=61&t=XGo0pwia-FJuCmfc-ELPgg",
+        "html": "<blockquote class=\"twitter-tweet\"><p lang=\"en\" dir=\"ltr\">This is crazy and absolutely surreal!<br><br>I trained an AI on Steve Jobs’ voice…<br><br>…and then connected it to the chatGPT API 🤯<br><br>…and finally, connected it all to Facebook Messenger to allow for 2-way voice conversations with Steve Jobs about anything!  🤖<br><br>Final product (sound… <a href=\"https://t.co/tQ8Qha9map\">pic.twitter.com/tQ8Qha9map</a></p>&mdash; John H. Meyer 🚀 (@BEASTMODE) <a href=\"https://twitter.com/BEASTMODE/status/1637613704312242176?ref_src=twsrc%5Etfw\">March 20, 2023</a></blockquote>\n<script async src=\"https://platform.twitter.com/widgets.js\" charset=\"utf-8\"></script>\n",
+        "type": "twitter",
+        "metadata": {
+          "url": "https://twitter.com/BEASTMODE/status/1637613704312242176",
+          "author_name": "John H. Meyer 🚀",
+          "author_url": "https://twitter.com/BEASTMODE",
+          "width": 550,
+          "height": null,
+          "cache_age": "3153600000",
+          "provider_name": "Twitter",
+          "provider_url": "http://www.twitter.com/",
+          "version": "1.0",
+          "tweet_data": {
+            "edit_history_tweet_ids": [
+              "1637613704312242176"
+            ],
+            "lang": "en",
+            "id": "1637613704312242176",
+            "entities": {
+              "urls": [
+                {
+                  "start": 273,
+                  "end": 296,
+                  "url": "https://t.co/2tWPSK2Oks",
+                  "expanded_url": "https://twitter.com/i/web/status/1637613704312242176",
+                  "display_url": "twitter.com/i/web/status/1…"
+                },
+                {
+                  "start": 297,
+                  "end": 320,
+                  "url": "https://t.co/tQ8Qha9map",
+                  "expanded_url": "https://twitter.com/BEASTMODE/status/1637613704312242176/video/1",
+                  "display_url": "pic.twitter.com/tQ8Qha9map",
+                  "media_key": "13_1637613603380510722"
+                }
+              ],
+              "annotations": [
+                {
+                  "start": 52,
+                  "end": 53,
+                  "probability": 0.5684,
+                  "type": "Organization",
+                  "normalized_text": "AI"
+                },
+                {
+                  "start": 58,
+                  "end": 67,
+                  "probability": 0.5984,
+                  "type": "Person",
+                  "normalized_text": "Steve Jobs"
+                },
+                {
+                  "start": 108,
+                  "end": 114,
+                  "probability": 0.6157,
+                  "type": "Other",
+                  "normalized_text": "chatGPT"
+                },
+                {
+                  "start": 157,
+                  "end": 164,
+                  "probability": 0.8718,
+                  "type": "Other",
+                  "normalized_text": "Facebook"
+                },
+                {
+                  "start": 220,
+                  "end": 224,
+                  "probability": 0.7525,
+                  "type": "Person",
+                  "normalized_text": "Steve"
+                }
+              ]
+            },
+            "author_id": "18855108",
+            "reply_settings": "everyone",
+            "possibly_sensitive": false,
+            "conversation_id": "1637613704312242176",
+            "created_at": "2023-03-20T00:35:07.000Z",
+            "context_annotations": [
+              {
+                "domain": {
+                  "id": "10",
+                  "name": "Person",
+                  "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                  "id": "1032977830613676034",
+                  "name": "Steve Jobs",
+                  "description": "Steve Jobs"
+                }
+              },
+              {
+                "domain": {
+                  "id": "30",
+                  "name": "Entities [Entity Service]",
+                  "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain"
+                },
+                "entity": {
+                  "id": "781974596752842752",
+                  "name": "Services"
+                }
+              },
+              {
+                "domain": {
+                  "id": "46",
+                  "name": "Business Taxonomy",
+                  "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+                },
+                "entity": {
+                  "id": "1557696848252391426",
+                  "name": "Financial Services Business",
+                  "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks "
+                }
+              },
+              {
+                "domain": {
+                  "id": "46",
+                  "name": "Business Taxonomy",
+                  "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+                },
+                "entity": {
+                  "id": "1557697333571112960",
+                  "name": "Technology Business",
+                  "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares"
+                }
+              },
+              {
+                "domain": {
+                  "id": "47",
+                  "name": "Brand",
+                  "description": "Brands and Companies"
+                },
+                "entity": {
+                  "id": "10029202045",
+                  "name": "Facebook"
+                }
+              },
+              {
+                "domain": {
+                  "id": "47",
+                  "name": "Brand",
+                  "description": "Brands and Companies"
+                },
+                "entity": {
+                  "id": "1631434932688920576",
+                  "name": "OpenAI"
+                }
+              },
+              {
+                "domain": {
+                  "id": "48",
+                  "name": "Product",
+                  "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone."
+                },
+                "entity": {
+                  "id": "1620189216029163524",
+                  "name": "ChatGPT"
+                }
+              },
+              {
+                "domain": {
+                  "id": "65",
+                  "name": "Interests and Hobbies Vertical",
+                  "description": "Top level interests and hobbies groupings, like Food or Travel"
+                },
+                "entity": {
+                  "id": "781974596148793345",
+                  "name": "Business & finance"
+                }
+              },
+              {
+                "domain": {
+                  "id": "65",
+                  "name": "Interests and Hobbies Vertical",
+                  "description": "Top level interests and hobbies groupings, like Food or Travel"
+                },
+                "entity": {
+                  "id": "781974596148793345",
+                  "name": "Business & finance"
+                }
+              },
+              {
+                "domain": {
+                  "id": "66",
+                  "name": "Interests and Hobbies Category",
+                  "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+                },
+                "entity": {
+                  "id": "857878777191211008",
+                  "name": "Leadership",
+                  "description": "Leadership"
+                }
+              },
+              {
+                "domain": {
+                  "id": "67",
+                  "name": "Interests and Hobbies",
+                  "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks"
+                },
+                "entity": {
+                  "id": "1486470043353239552",
+                  "name": "Jobs"
+                }
+              },
+              {
+                "domain": {
+                  "id": "131",
+                  "name": "Unified Twitter Taxonomy",
+                  "description": "A taxonomy of user interests. "
+                },
+                "entity": {
+                  "id": "10029202045",
+                  "name": "Facebook"
+                }
+              },
+              {
+                "domain": {
+                  "id": "131",
+                  "name": "Unified Twitter Taxonomy",
+                  "description": "A taxonomy of user interests. "
+                },
+                "entity": {
+                  "id": "848920371311001600",
+                  "name": "Technology",
+                  "description": "Technology and computing"
+                }
+              },
+              {
+                "domain": {
+                  "id": "131",
+                  "name": "Unified Twitter Taxonomy",
+                  "description": "A taxonomy of user interests. "
+                },
+                "entity": {
+                  "id": "1032977830613676034",
+                  "name": "Steve Jobs",
+                  "description": "Steve Jobs"
+                }
+              },
+              {
+                "domain": {
+                  "id": "131",
+                  "name": "Unified Twitter Taxonomy",
+                  "description": "A taxonomy of user interests. "
+                },
+                "entity": {
+                  "id": "1166406108623163392",
+                  "name": "Business personalities"
+                }
+              },
+              {
+                "domain": {
+                  "id": "131",
+                  "name": "Unified Twitter Taxonomy",
+                  "description": "A taxonomy of user interests. "
+                },
+                "entity": {
+                  "id": "1196446161223028736",
+                  "name": "Social media"
+                }
+              },
+              {
+                "domain": {
+                  "id": "165",
+                  "name": "Technology",
+                  "description": "for individual and types of technology, e.g., food technology, 3D printing"
+                },
+                "entity": {
+                  "id": "848920371311001600",
+                  "name": "Technology",
+                  "description": "Technology and computing"
+                }
+              },
+              {
+                "domain": {
+                  "id": "165",
+                  "name": "Technology",
+                  "description": "for individual and types of technology, e.g., food technology, 3D printing"
+                },
+                "entity": {
+                  "id": "1196446161223028736",
+                  "name": "Social media"
+                }
+              }
+            ],
+            "public_metrics": {
+              "retweet_count": 1412,
+              "reply_count": 349,
+              "like_count": 6669,
+              "quote_count": 699,
+              "impression_count": 1573163
+            },
+            "attachments": {
+              "media_keys": [
+                "13_1637613603380510722"
+              ]
+            },
+            "text": "This is crazy and absolutely surreal!\n\nI trained an AI on Steve Jobs’ voice…\n\n…and then connected it to the chatGPT API 🤯\n\n…and finally, connected it all to Facebook Messenger to allow for 2-way voice conversations with Steve Jobs about anything!  🤖\n\nFinal product (sound… https://t.co/2tWPSK2Oks https://t.co/tQ8Qha9map",
+            "includes": {
+              "media": [
+                {
+                  "public_metrics": {
+                    "view_count": 412155
+                  },
+                  "height": 1920,
+                  "media_key": "13_1637613603380510722",
+                  "type": "video",
+                  "duration_ms": 163068,
+                  "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1637613603380510722/img/w9iyk_4L8fy-qb5Q.jpg",
+                  "width": 888
+                }
+              ],
+              "users": [
+                {
+                  "profile_image_url": "https://pbs.twimg.com/profile_images/1541251589691817984/zOTj2bvS_normal.jpg",
+                  "entities": {
+                    "url": {
+                      "urls": [
+                        {
+                          "start": 0,
+                          "end": 23,
+                          "url": "https://t.co/fFyyVsb8Nm",
+                          "expanded_url": "http://johnmeyer.tech",
+                          "display_url": "johnmeyer.tech"
+                        }
+                      ]
+                    },
+                    "description": {
+                      "hashtags": [
+                        {
+                          "start": 136,
+                          "end": 143,
+                          "tag": "teamAI"
+                        }
+                      ],
+                      "mentions": [
+                        {
+                          "start": 11,
+                          "end": 27,
+                          "username": "ghost_financial"
+                        },
+                        {
+                          "start": 100,
+                          "end": 105,
+                          "username": "cnbc"
+                        },
+                        {
+                          "start": 108,
+                          "end": 120,
+                          "username": "foxbusiness"
+                        }
+                      ]
+                    }
+                  },
+                  "public_metrics": {
+                    "followers_count": 18777,
+                    "following_count": 618,
+                    "tweet_count": 9816,
+                    "listed_count": 303
+                  },
+                  "name": "John H. Meyer 🚀",
+                  "protected": false,
+                  "location": "Austin, TX",
+                  "username": "BEASTMODE",
+                  "pinned_tweet_id": "1511592694593855490",
+                  "url": "https://t.co/fFyyVsb8Nm",
+                  "created_at": "2009-01-11T02:47:42.000Z",
+                  "verified": true,
+                  "description": "Founder of @ghost_financial (acquired 2023), Homebound, 40 apps & more. National TV tech analyst on @cnbc & @foxbusiness. Thiel Fellow. #teamAI.",
+                  "id": "18855108"
+                }
+              ]
+            }
+          }
+        }
+      }
+    ],
+    [
+      "embed",
+      {
+        "url": "https://twitter.com/EliotHiggins/status/1637927681734987777?s=20",
+        "html": "<blockquote class=\"twitter-tweet\"><p lang=\"en\" dir=\"ltr\">Making pictures of Trump getting arrested while waiting for Trump&#39;s arrest. <a href=\"https://t.co/4D2QQfUpLZ\">pic.twitter.com/4D2QQfUpLZ</a></p>&mdash; Eliot Higgins (@EliotHiggins) <a href=\"https://twitter.com/EliotHiggins/status/1637927681734987777?ref_src=twsrc%5Etfw\">March 20, 2023</a></blockquote>\n<script async src=\"https://platform.twitter.com/widgets.js\" charset=\"utf-8\"></script>\n",
+        "type": "twitter",
+        "metadata": {
+          "url": "https://twitter.com/EliotHiggins/status/1637927681734987777",
+          "author_name": "Eliot Higgins",
+          "author_url": "https://twitter.com/EliotHiggins",
+          "width": 550,
+          "height": null,
+          "cache_age": "3153600000",
+          "provider_name": "Twitter",
+          "provider_url": "http://www.twitter.com/",
+          "version": "1.0",
+          "tweet_data": {
+            "attachments": {
+              "media_keys": [
+                "3_1637927675808432128",
+                "3_1637927679209926656"
+              ]
+            },
+            "created_at": "2023-03-20T21:22:45.000Z",
+            "author_id": "288755234",
+            "id": "1637927681734987777",
+            "reply_settings": "everyone",
+            "possibly_sensitive": false,
+            "edit_history_tweet_ids": [
+              "1637927681734987777"
+            ],
+            "entities": {
+              "annotations": [
+                {
+                  "start": 19,
+                  "end": 23,
+                  "probability": 0.9766,
+                  "type": "Person",
+                  "normalized_text": "Trump"
+                },
+                {
+                  "start": 60,
+                  "end": 64,
+                  "probability": 0.9744,
+                  "type": "Person",
+                  "normalized_text": "Trump"
+                }
+              ],
+              "urls": [
+                {
+                  "start": 76,
+                  "end": 99,
+                  "url": "https://t.co/4D2QQfUpLZ",
+                  "expanded_url": "https://twitter.com/EliotHiggins/status/1637927681734987777/photo/1",
+                  "display_url": "pic.twitter.com/4D2QQfUpLZ",
+                  "media_key": "3_1637927675808432128"
+                },
+                {
+                  "start": 76,
+                  "end": 99,
+                  "url": "https://t.co/4D2QQfUpLZ",
+                  "expanded_url": "https://twitter.com/EliotHiggins/status/1637927681734987777/photo/1",
+                  "display_url": "pic.twitter.com/4D2QQfUpLZ",
+                  "media_key": "3_1637927679209926656"
+                }
+              ]
+            },
+            "conversation_id": "1637927681734987777",
+            "public_metrics": {
+              "retweet_count": 4161,
+              "reply_count": 1175,
+              "like_count": 34500,
+              "quote_count": 1658,
+              "impression_count": 4864104
+            },
+            "lang": "en",
+            "text": "Making pictures of Trump getting arrested while waiting for Trump's arrest. https://t.co/4D2QQfUpLZ",
+            "context_annotations": [
+              {
+                "domain": {
+                  "id": "10",
+                  "name": "Person",
+                  "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                  "id": "799022225751871488",
+                  "name": "Donald Trump",
+                  "description": "45th US President, Donald Trump"
+                }
+              },
+              {
+                "domain": {
+                  "id": "10",
+                  "name": "Person",
+                  "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                  "id": "1070710943665901568",
+                  "name": "Eliot Higgins",
+                  "description": "British citizen journalist and blogger"
+                }
+              },
+              {
+                "domain": {
+                  "id": "35",
+                  "name": "Politician",
+                  "description": "Politicians in the world, like Joe Biden"
+                },
+                "entity": {
+                  "id": "799022225751871488",
+                  "name": "Donald Trump",
+                  "description": "45th US President, Donald Trump"
+                }
+              },
+              {
+                "domain": {
+                  "id": "94",
+                  "name": "Journalist",
+                  "description": "A journalist like 'Anderson Cooper'"
+                },
+                "entity": {
+                  "id": "1070710943665901568",
+                  "name": "Eliot Higgins",
+                  "description": "British citizen journalist and blogger"
+                }
+              },
+              {
+                "domain": {
+                  "id": "131",
+                  "name": "Unified Twitter Taxonomy",
+                  "description": "A taxonomy of user interests. "
+                },
+                "entity": {
+                  "id": "799022225751871488",
+                  "name": "Donald Trump",
+                  "description": "45th US President, Donald Trump"
+                }
+              },
+              {
+                "domain": {
+                  "id": "131",
+                  "name": "Unified Twitter Taxonomy",
+                  "description": "A taxonomy of user interests. "
+                },
+                "entity": {
+                  "id": "847878884917886977",
+                  "name": "Politics",
+                  "description": "Politics"
+                }
+              },
+              {
+                "domain": {
+                  "id": "131",
+                  "name": "Unified Twitter Taxonomy",
+                  "description": "A taxonomy of user interests. "
+                },
+                "entity": {
+                  "id": "1046545033657081857",
+                  "name": "News",
+                  "description": "News"
+                }
+              },
+              {
+                "domain": {
+                  "id": "131",
+                  "name": "Unified Twitter Taxonomy",
+                  "description": "A taxonomy of user interests. "
+                },
+                "entity": {
+                  "id": "1070032753834438656",
+                  "name": "Political figures",
+                  "description": "Politician"
+                }
+              },
+              {
+                "domain": {
+                  "id": "131",
+                  "name": "Unified Twitter Taxonomy",
+                  "description": "A taxonomy of user interests. "
+                },
+                "entity": {
+                  "id": "1070710943665901568",
+                  "name": "Eliot Higgins",
+                  "description": "British citizen journalist and blogger"
+                }
+              },
+              {
+                "domain": {
+                  "id": "131",
+                  "name": "Unified Twitter Taxonomy",
+                  "description": "A taxonomy of user interests. "
+                },
+                "entity": {
+                  "id": "1074755369530880001",
+                  "name": "Journalists",
+                  "description": "Journalism"
+                }
+              }
+            ],
+            "includes": {
+              "media": [
+                {
+                  "url": "https://pbs.twimg.com/media/FrsWiwRXwAAi6Qq.jpg",
+                  "height": 1024,
+                  "type": "photo",
+                  "width": 1024,
+                  "media_key": "3_1637927675808432128"
+                },
+                {
+                  "url": "https://pbs.twimg.com/media/FrsWi88WcAAx-4C.jpg",
+                  "height": 1024,
+                  "type": "photo",
+                  "width": 1024,
+                  "media_key": "3_1637927679209926656"
+                }
+              ],
+              "users": [
+                {
+                  "verified": true,
+                  "pinned_tweet_id": "1638169464977104897",
+                  "profile_image_url": "https://pbs.twimg.com/profile_images/1638547444098015233/8N2MPkax_normal.jpg",
+                  "username": "EliotHiggins",
+                  "created_at": "2011-04-27T12:18:25.000Z",
+                  "description": "Founder and creative director of Bellingcat and director of Bellingcat Productions BV. Author of We Are Bellingcat. Tonal Whiplash Zone.",
+                  "id": "288755234",
+                  "public_metrics": {
+                    "followers_count": 288060,
+                    "following_count": 3364,
+                    "tweet_count": 286524,
+                    "listed_count": 5971
+                  },
+                  "entities": {
+                    "url": {
+                      "urls": [
+                        {
+                          "start": 0,
+                          "end": 23,
+                          "url": "https://t.co/ZoOPpVAJcd",
+                          "expanded_url": "http://www.bellingcat.com",
+                          "display_url": "bellingcat.com"
+                        }
+                      ]
+                    }
+                  },
+                  "name": "Eliot Higgins",
+                  "protected": false,
+                  "url": "https://t.co/ZoOPpVAJcd",
+                  "location": "In front of a laptop."
+                }
+              ]
+            }
+          }
+        }
+      }
+    ],
+    [
+      "image",
+      {
+        "src": "__GHOST_URL__/content/images/2023/03/Boris-and-the-coppers.jpeg",
+        "width": 1344,
+        "height": 896,
+        "caption": "Absolutely not Boris Johnson being arrested",
+        "alt": "A Midjourney-illustrated image of Boris Johnson with the police"
+      }
+    ],
+    [
+      "image",
+      {
+        "src": "__GHOST_URL__/content/images/2023/03/Boris-in-jail.jpeg",
+        "width": 1344,
+        "height": 896,
+        "caption": "A surprisingly convincing image of Boris Johnson in jail via Midjourney",
+        "alt": "A Midjourney-generated image of Boris Johnson in jail"
+      }
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "bookmark",
+      {
+        "version": "1.0",
+        "type": "bookmark",
+        "url": "https://searchengineland.com/google-releases-march-2023-broad-core-update-394316",
+        "metadata": {
+          "url": "https://searchengineland.com/google-releases-march-2023-broad-core-update-394316",
+          "title": "Google releases March 2023 broad core update",
+          "description": "This is the first Google core update of 2023 and the first in more than six months. The rollout may take up to 2 weeks to complete.",
+          "author": "Barry Schwartz",
+          "publisher": "Search Engine Land",
+          "thumbnail": "https://searchengineland.com/wp-content/seloads/2016/03/google-code-seo-algorithm3-ss-1920.jpg",
+          "icon": "https://searchengineland.com/apple-touch-icon.png"
+        }
+      }
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "bookmark",
+      {
+        "url": "https://www.cjchilvers.com/blog/the-c-word/",
+        "metadata": {
+          "url": "https://www.cjchilvers.com/blog/the-c-word/",
+          "title": "The C Word",
+          "description": "“Curation” shouldn’t be a dirty word, but it is. In the last decade, it has come to mean slapped-together-links, or outright-stolen content, used to fill space and capture just enough attention to convert free onlookers into consumers. There’s a lot of truth behind that association. In fact, I’",
+          "author": "CJ Chilvers",
+          "publisher": "CJ Chilvers",
+          "thumbnail": null,
+          "icon": "https://www.cjchilvers.com/content/images/size/w256h256/2022/09/cj-illustration.png"
+        }
+      }
+    ],
+    [
+      "embed",
+      {
+        "url": "https://www.youtube.com/watch?v=feMd_GvZSf4",
+        "html": "<iframe width=\"200\" height=\"113\" src=\"https://www.youtube.com/embed/feMd_GvZSf4?feature=oembed\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen title=\"Create a Podcast in YouTube Studio\"></iframe>",
+        "type": "video",
+        "metadata": {
+          "title": "Create a Podcast in YouTube Studio",
+          "author_name": "YouTube Creators",
+          "author_url": "https://www.youtube.com/@youtubecreators",
+          "height": 113,
+          "width": 200,
+          "version": "1.0",
+          "provider_name": "YouTube",
+          "provider_url": "https://www.youtube.com/",
+          "thumbnail_height": 360,
+          "thumbnail_width": 480,
+          "thumbnail_url": "https://i.ytimg.com/vi/feMd_GvZSf4/hqdefault.jpg"
+        }
+      }
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "embed",
+      {
+        "url": "https://twitter.com/brendancarrfcc/status/1638269975336222720?s=61&t=XGo0pwia-FJuCmfc-ELPgg ",
+        "html": "<blockquote class=\"twitter-tweet\"><p lang=\"en\" dir=\"ltr\">NEW: a TikTok employee revealed to <a href=\"https://twitter.com/Forbes?ref_src=twsrc%5Etfw\">@forbes</a> that TikTok maintains an internal mapping tool—which the employee calls “NSA To Go”—that allows TikTok to obtain sensitive info on users, including real-time updates on U.S. users<br><br>“a key to building a ‘digital dossier’” <a href=\"https://twitter.com/Ali_Lev?ref_src=twsrc%5Etfw\">@Ali_Lev</a> reports <a href=\"https://t.co/FpghKfsZoC\">https://t.co/FpghKfsZoC</a></p>&mdash; Brendan Carr (@BrendanCarrFCC) <a href=\"https://twitter.com/BrendanCarrFCC/status/1638269975336222720?ref_src=twsrc%5Etfw\">March 21, 2023</a></blockquote>\n<script async src=\"https://platform.twitter.com/widgets.js\" charset=\"utf-8\"></script>\n",
+        "type": "twitter",
+        "metadata": {
+          "url": "https://twitter.com/BrendanCarrFCC/status/1638269975336222720",
+          "author_name": "Brendan Carr",
+          "author_url": "https://twitter.com/BrendanCarrFCC",
+          "width": 550,
+          "height": null,
+          "cache_age": "3153600000",
+          "provider_name": "Twitter",
+          "provider_url": "http://www.twitter.com/",
+          "version": "1.0",
+          "tweet_data": {
+            "referenced_tweets": [
+              {
+                "type": "quoted",
+                "id": "1638226627405422598"
+              }
+            ],
+            "reply_settings": "everyone",
+            "text": "NEW: a TikTok employee revealed to @forbes that TikTok maintains an internal mapping tool—which the employee calls “NSA To Go”—that allows TikTok to obtain sensitive info on users, including real-time updates on U.S. users\n\n“a key to building a ‘digital dossier’” @Ali_Lev reports https://t.co/FpghKfsZoC",
+            "entities": {
+              "mentions": [
+                {
+                  "start": 35,
+                  "end": 42,
+                  "username": "Forbes",
+                  "id": "91478624"
+                },
+                {
+                  "start": 264,
+                  "end": 272,
+                  "username": "Ali_Lev",
+                  "id": "252310341"
+                }
+              ],
+              "urls": [
+                {
+                  "start": 281,
+                  "end": 304,
+                  "url": "https://t.co/FpghKfsZoC",
+                  "expanded_url": "https://twitter.com/forbes/status/1638226627405422598",
+                  "display_url": "twitter.com/forbes/status/…"
+                }
+              ]
+            },
+            "possibly_sensitive": false,
+            "edit_history_tweet_ids": [
+              "1638269975336222720"
+            ],
+            "context_annotations": [
+              {
+                "domain": {
+                  "id": "47",
+                  "name": "Brand",
+                  "description": "Brands and Companies"
+                },
+                "entity": {
+                  "id": "1286296657135468545",
+                  "name": "TikTok"
+                }
+              }
+            ],
+            "lang": "en",
+            "id": "1638269975336222720",
+            "conversation_id": "1638269975336222720",
+            "public_metrics": {
+              "retweet_count": 243,
+              "reply_count": 32,
+              "like_count": 441,
+              "quote_count": 50,
+              "impression_count": 112233
+            },
+            "created_at": "2023-03-21T20:02:54.000Z",
+            "author_id": "2651190312",
+            "includes": {
+              "users": [
+                {
+                  "public_metrics": {
+                    "followers_count": 41092,
+                    "following_count": 2905,
+                    "tweet_count": 7448,
+                    "listed_count": 320
+                  },
+                  "location": "Washington DC",
+                  "profile_image_url": "https://pbs.twimg.com/profile_images/1580710009176035329/7V8OcedX_normal.jpg",
+                  "created_at": "2014-07-16T14:23:50.000Z",
+                  "username": "BrendanCarrFCC",
+                  "name": "Brendan Carr",
+                  "entities": {
+                    "url": {
+                      "urls": [
+                        {
+                          "start": 0,
+                          "end": 23,
+                          "url": "https://t.co/eE6tlQ9H91",
+                          "expanded_url": "https://www.fcc.gov/about/leadership/brendan-carr",
+                          "display_url": "fcc.gov/about/leadersh…"
+                        }
+                      ]
+                    }
+                  },
+                  "url": "https://t.co/eE6tlQ9H91",
+                  "protected": false,
+                  "id": "2651190312",
+                  "verified": true,
+                  "description": "Commissioner, Federal Communications Commission. Previously, General Counsel of the FCC.  ⚾️⚽️+🏀 coach."
+                },
+                {
+                  "public_metrics": {
+                    "followers_count": 18812203,
+                    "following_count": 5027,
+                    "tweet_count": 467411,
+                    "listed_count": 64020
+                  },
+                  "location": "New York, NY",
+                  "profile_image_url": "https://pbs.twimg.com/profile_images/1577646609923543041/NcCeduIc_normal.jpg",
+                  "created_at": "2009-11-21T02:09:57.000Z",
+                  "username": "Forbes",
+                  "pinned_tweet_id": "1638524108076994562",
+                  "name": "Forbes",
+                  "entities": {
+                    "url": {
+                      "urls": [
+                        {
+                          "start": 0,
+                          "end": 23,
+                          "url": "https://t.co/6qjZ8PCpvM",
+                          "expanded_url": "http://forbes.com",
+                          "display_url": "forbes.com"
+                        }
+                      ]
+                    }
+                  },
+                  "url": "https://t.co/6qjZ8PCpvM",
+                  "protected": false,
+                  "id": "91478624",
+                  "verified": true,
+                  "description": "Official account of Forbes, the world’s leading voice for entrepreneurial success and free enterprise, and home to breaking news, business, money and more."
+                },
+                {
+                  "public_metrics": {
+                    "followers_count": 6795,
+                    "following_count": 2058,
+                    "tweet_count": 2340,
+                    "listed_count": 218
+                  },
+                  "location": "Los Angeles, CA",
+                  "profile_image_url": "https://pbs.twimg.com/profile_images/1465370770184409089/fPj4UgOt_normal.jpg",
+                  "created_at": "2011-02-14T23:03:03.000Z",
+                  "username": "Ali_Lev",
+                  "pinned_tweet_id": "1487050317631995904",
+                  "name": "Alexandra S. Levine",
+                  "entities": {
+                    "url": {
+                      "urls": [
+                        {
+                          "start": 0,
+                          "end": 23,
+                          "url": "https://t.co/BJoTqiLATV",
+                          "expanded_url": "http://alexandrasophielevine.com",
+                          "display_url": "alexandrasophielevine.com"
+                        }
+                      ]
+                    },
+                    "description": {
+                      "mentions": [
+                        {
+                          "start": 14,
+                          "end": 21,
+                          "username": "Forbes"
+                        },
+                        {
+                          "start": 50,
+                          "end": 59,
+                          "username": "Politico"
+                        },
+                        {
+                          "start": 60,
+                          "end": 68,
+                          "username": "NYTimes"
+                        }
+                      ]
+                    }
+                  },
+                  "url": "https://t.co/BJoTqiLATV",
+                  "protected": false,
+                  "id": "252310341",
+                  "verified": true,
+                  "description": "Tech reporter @Forbes covering social media; past @Politico @NYTimes. Got a tip? Signal/WhatsApp: 310-526-1242 | Email: ALevine@forbes.com"
+                }
+              ],
+              "tweets": [
+                {
+                  "reply_settings": "everyone",
+                  "text": "India Banned TikTok In 2020. TikTok Still Has Access To Years Of Indians’ Data. https://t.co/QOJRNeGRth https://t.co/ggilACM6He",
+                  "entities": {
+                    "annotations": [
+                      {
+                        "start": 0,
+                        "end": 4,
+                        "probability": 0.6997,
+                        "type": "Place",
+                        "normalized_text": "India"
+                      },
+                      {
+                        "start": 13,
+                        "end": 18,
+                        "probability": 0.986,
+                        "type": "Other",
+                        "normalized_text": "TikTok"
+                      },
+                      {
+                        "start": 29,
+                        "end": 34,
+                        "probability": 0.9781,
+                        "type": "Other",
+                        "normalized_text": "TikTok"
+                      }
+                    ],
+                    "urls": [
+                      {
+                        "start": 80,
+                        "end": 103,
+                        "url": "https://t.co/QOJRNeGRth",
+                        "expanded_url": "https://www.forbes.com/sites/alexandralevine/2023/03/21/tiktok-india-ban-bytedance-data-access/?utm_campaign=forbes&utm_source=twitter&utm_medium=social&utm_term=Valerie",
+                        "display_url": "forbes.com/sites/alexandr…",
+                        "images": [
+                          {
+                            "url": "https://pbs.twimg.com/news_img/1638218208451633153/UTLJhNVC?format=jpg&name=orig",
+                            "width": 1200,
+                            "height": 675
+                          },
+                          {
+                            "url": "https://pbs.twimg.com/news_img/1638218208451633153/UTLJhNVC?format=jpg&name=150x150",
+                            "width": 150,
+                            "height": 150
+                          }
+                        ],
+                        "status": 200,
+                        "title": "India Banned TikTok In 2020. TikTok Still Has Access To Years Of Indians’ Data.",
+                        "description": "India’s 150 million users were forced to stop using TikTok in 2020, but employees at the company and its parent ByteDance can still mine some of Indian users' most sensitive data.",
+                        "unwound_url": "https://www.forbes.com/sites/alexandralevine/2023/03/21/tiktok-india-ban-bytedance-data-access/?utm_campaign=forbes&utm_source=twitter&utm_medium=social&utm_term=Valerie"
+                      },
+                      {
+                        "start": 104,
+                        "end": 127,
+                        "url": "https://t.co/ggilACM6He",
+                        "expanded_url": "https://twitter.com/Forbes/status/1638226627405422598/photo/1",
+                        "display_url": "pic.twitter.com/ggilACM6He",
+                        "media_key": "3_1638226626168205312"
+                      }
+                    ]
+                  },
+                  "possibly_sensitive": false,
+                  "edit_history_tweet_ids": [
+                    "1638226627405422598"
+                  ],
+                  "context_annotations": [
+                    {
+                      "domain": {
+                        "id": "45",
+                        "name": "Brand Vertical",
+                        "description": "Top level entities that describe a Brands industry"
+                      },
+                      "entity": {
+                        "id": "781974596148793345",
+                        "name": "Business & finance"
+                      }
+                    },
+                    {
+                      "domain": {
+                        "id": "46",
+                        "name": "Business Taxonomy",
+                        "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+                      },
+                      "entity": {
+                        "id": "1557696848252391426",
+                        "name": "Financial Services Business",
+                        "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks "
+                      }
+                    },
+                    {
+                      "domain": {
+                        "id": "46",
+                        "name": "Business Taxonomy",
+                        "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+                      },
+                      "entity": {
+                        "id": "1557696888568045569",
+                        "name": "Food & Beverage Business",
+                        "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers."
+                      }
+                    },
+                    {
+                      "domain": {
+                        "id": "47",
+                        "name": "Brand",
+                        "description": "Brands and Companies"
+                      },
+                      "entity": {
+                        "id": "1286296657135468545",
+                        "name": "TikTok"
+                      }
+                    },
+                    {
+                      "domain": {
+                        "id": "65",
+                        "name": "Interests and Hobbies Vertical",
+                        "description": "Top level interests and hobbies groupings, like Food or Travel"
+                      },
+                      "entity": {
+                        "id": "781974596148793345",
+                        "name": "Business & finance"
+                      }
+                    },
+                    {
+                      "domain": {
+                        "id": "69",
+                        "name": "News Vertical",
+                        "description": "News Categories like Entertainment or Technology"
+                      },
+                      "entity": {
+                        "id": "1046545033657081857",
+                        "name": "News",
+                        "description": "News"
+                      }
+                    },
+                    {
+                      "domain": {
+                        "id": "69",
+                        "name": "News Vertical",
+                        "description": "News Categories like Entertainment or Technology"
+                      },
+                      "entity": {
+                        "id": "1585285924069335040",
+                        "name": "Business & finance news"
+                      }
+                    },
+                    {
+                      "domain": {
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy",
+                        "description": "A taxonomy of user interests. "
+                      },
+                      "entity": {
+                        "id": "781974596148793345",
+                        "name": "Business & finance"
+                      }
+                    },
+                    {
+                      "domain": {
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy",
+                        "description": "A taxonomy of user interests. "
+                      },
+                      "entity": {
+                        "id": "1046545033657081857",
+                        "name": "News",
+                        "description": "News"
+                      }
+                    },
+                    {
+                      "domain": {
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy",
+                        "description": "A taxonomy of user interests. "
+                      },
+                      "entity": {
+                        "id": "1585285924069335040",
+                        "name": "Business & finance news"
+                      }
+                    }
+                  ],
+                  "lang": "en",
+                  "id": "1638226627405422598",
+                  "attachments": {
+                    "media_keys": [
+                      "3_1638226626168205312"
+                    ]
+                  },
+                  "conversation_id": "1638226627405422598",
+                  "public_metrics": {
+                    "retweet_count": 45,
+                    "reply_count": 11,
+                    "like_count": 91,
+                    "quote_count": 11,
+                    "impression_count": 168932
+                  },
+                  "created_at": "2023-03-21T17:10:39.000Z",
+                  "author_id": "91478624"
+                }
+              ]
+            }
+          }
+        }
+      }
+    ]
+  ],
+  "markups": [
+    [
+      "em"
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://daringfireball.net/2023/03/game_over_vocal_deepfakes"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.dailydot.com/debug/trump-arrest-photos-ai/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.standard.co.uk/news/politics/boris-johnson-watch-pmqs-live-privileges-committee-partygate-latest-b1069049.html"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.midjourney.com/app/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://support.google.com/youtube/answer/12751636"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        ""
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://techcrunch.com/2023/03/03/meta-rolls-out-new-facebook-reels-features-expands-max-video-length-to-90-seconds/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://artifact.news/s/AQV5pFrkC2k="
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.semafor.com/newsletter/03/19/2023/secrets-of-vice"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.niemanlab.org/2023/03/goodbye-newspapers-on-kindle-amazon-stops-selling-newspaper-and-magazine-subscriptions/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.bbc.co.uk/news/technology-64989720"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.theguardian.com/world/2023/mar/21/ecuador-journalist-usb-bomb-ecuavisa"
+      ]
+    ]
+  ],
+  "sections": [
+    [
+      1,
+      "p",
+      []
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "The laptop lie factories are here"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Forget AI’s threat to our business models — or our jobs. It’s rapidly becoming the single most powerful tool for disinformation you can imagine. You quite genuine can’t believe your ears any more."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "John Gruber, of "
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "Daring Fireball"
+        ],
+        [
+          0,
+          [],
+          0,
+          ", one of the most successful and long-running Apple commentators, has been sent an "
+        ],
+        [
+          0,
+          [
+            1
+          ],
+          1,
+          "AI-generated audio clip of Steve Jobs"
+        ],
+        [
+          0,
+          [],
+          0,
+          " being, um, disparaging about him. It was done to prove a point about how effective the tech is — but it’s an uncanny and worryingly accurate reproduction."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Gruber goes on to point to a thread of tweets doing much the same:"
+        ]
+      ]
+    ],
+    [
+      10,
+      0
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Well now, that’s a problem, isn’t it? Recordings of people saying things are no longer proof that they said it, given how accurate these reproductions can be. And given that extensive voice samples are available for most public figures, this will just be too damn easy to do."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "And the camera may not lie (often), but AI-generated photos certainly do. Over in the US, rumours are swirling of the imminent arrest of former president Trump. But why wait for the event to happen to get photos? As "
+        ],
+        [
+          0,
+          [
+            2
+          ],
+          0,
+          "the "
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "Daily Dot"
+        ],
+        [
+          0,
+          [],
+          1,
+          " reports"
+        ],
+        [
+          0,
+          [],
+          0,
+          ", people have been hard at work using generative AI to create photos in advance:"
+        ]
+      ]
+    ],
+    [
+      10,
+      1
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Although that was done in jest, people quickly started sharing them as if they were real. And that's what can happen with no malice. "
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Let’s have a quick play at doing the British version, shall we? As Boris Johnson is in front of the "
+        ],
+        [
+          0,
+          [
+            3
+          ],
+          1,
+          "privileges committee today"
+        ],
+        [
+          0,
+          [],
+          0,
+          ", pleading to save his political career,  let’s play to the fantasies of some and visualise him getting arrested. I’m using "
+        ],
+        [
+          0,
+          [
+            4
+          ],
+          1,
+          "Midjourney"
+        ],
+        [
+          0,
+          [],
+          0,
+          " — and it won’t allow me to use “arrested” as a prompt. "
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Well, that’s good, I suppose, if slightly annoying for this exercise. Some basic guardrails are in place to stop really obvious misinformation. And it means the best I can manage initially is this, which looks like a pretty standard walk-about, just with excessive numbers of police:"
+        ]
+      ]
+    ],
+    [
+      10,
+      2
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "So, how about the former PM in jail?"
+        ]
+      ]
+    ],
+    [
+      10,
+      3
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Ah, much better. And certainly fairly convincing at first glance. It's literally the work of three or four minutes to generate using my Midjourney account."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "As Gruber put it:"
+        ]
+      ]
+    ],
+    [
+      1,
+      "blockquote",
+      [
+        [
+          0,
+          [],
+          0,
+          "Real recordings will be called fake and fake recordings will be leaked as purportedly real. I don’t think the general population is prepared for this, and I worry that news media organizations aren’t either."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "That applies to images, too. And, I’m certain, video pretty soon. We weren’t exactly on the front foot in the war against disinformation before the advent of generative AI. Things are only going to get worse."
+        ]
+      ]
+    ],
+    [
+      10,
+      4
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Google core update underway"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Google has a major update rolling out right now, the first in six months. The September 2022 update was absolutely brutal for some major newspapers, so it’s worth keeping a close eye on your search traffic in the coming weeks."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "There are no easy answers on what you need to “fix” if you are hit. Generally, the best advice is that you should look for the areas of your site have been hit, rather than rushing round after quick fixes that might make things worse. Then focus on producing better content on those topics, while optimising and improving the existing content within those sections that already has good search traffic."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Still a nerve-wracking time…"
+        ]
+      ]
+    ],
+    [
+      10,
+      5
+    ],
+    [
+      10,
+      6
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "That “C” word"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "No, not that one. "
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "Curation"
+        ],
+        [
+          0,
+          [],
+          0,
+          ". It’s an important word, especially in this age of the newsletter boom. And CJ Chilvers has some interesting thoughts about how to do it well:"
+        ]
+      ]
+    ],
+    [
+      10,
+      7
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "YouTube’s new podcasting features"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "YouTube’s new podcasting features should be available to all by the end of the week. Here’s what they offer."
+        ]
+      ]
+    ],
+    [
+      10,
+      8
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "More specific information in "
+        ],
+        [
+          0,
+          [
+            5
+          ],
+          1,
+          "this support document"
+        ],
+        [
+          0,
+          [],
+          0,
+          "."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [
+            6
+          ],
+          1,
+          "[via PodNews]"
+        ]
+      ]
+    ],
+    [
+      10,
+      9
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Quickies"
+        ]
+      ]
+    ],
+    [
+      3,
+      "ul",
+      [
+        [
+          [
+            0,
+            [],
+            0,
+            "💃🏼 Facebook Reels "
+          ],
+          [
+            0,
+            [
+              7
+            ],
+            1,
+            "getting parity with their Instagram cousins"
+          ],
+          [
+            0,
+            [],
+            0,
+            "."
+          ]
+        ],
+        [
+          [
+            0,
+            [],
+            0,
+            "📱 TikTok CEO taking the "
+          ],
+          [
+            0,
+            [
+              8
+            ],
+            1,
+            "possibility of a ban in the US"
+          ],
+          [
+            0,
+            [],
+            0,
+            " seriously."
+          ]
+        ],
+        [
+          [
+            0,
+            [],
+            0,
+            "💸 "
+          ],
+          [
+            0,
+            [
+              0
+            ],
+            1,
+            "Vice"
+          ],
+          [
+            0,
+            [],
+            0,
+            " and its other brands are almost universally loved among journalism students — but the "
+          ],
+          [
+            0,
+            [
+              9
+            ],
+            1,
+            "company itself is in a financial hole"
+          ],
+          [
+            0,
+            [],
+            0,
+            "."
+          ]
+        ],
+        [
+          [
+            0,
+            [],
+            0,
+            "🗞️ Amazon is out of the "
+          ],
+          [
+            0,
+            [
+              10
+            ],
+            1,
+            "newspaper and magazine subscription business"
+          ],
+          [
+            0,
+            [],
+            0,
+            ". It seemed an unloved and neglected feature."
+          ]
+        ],
+        [
+          [
+            0,
+            [],
+            0,
+            "👿 If you have any doubt that Musk isn’t a fit steward of a platform of Twitter’s importance, "
+          ],
+          [
+            0,
+            [
+              11
+            ],
+            1,
+            "then just read this"
+          ],
+          [
+            0,
+            [],
+            0,
+            "."
+          ]
+        ]
+      ]
+    ],
+    [
+      10,
+      10
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "The USB stick threat"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [
+            12
+          ],
+          1,
+          "Flippin’ ‘eck"
+        ],
+        [
+          0,
+          [],
+          0,
+          ":"
+        ]
+      ]
+    ],
+    [
+      1,
+      "blockquote",
+      [
+        [
+          0,
+          [],
+          0,
+          "An Ecuadorian television presenter was wounded after a bomb disguised as a USB stick exploded when he inserted it in his computer, after explosive devices were sent to journalists across the country."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "A reminder from "
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "The Guardian"
+        ],
+        [
+          0,
+          [],
+          0,
+          " that some journalists have it so much worse than the rest of us."
+        ]
+      ]
+    ],
+    [
+      10,
+      11
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "More on the TikTok threat"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "A little more context for yesterday's big think piece about post-TikTok social video."
+        ]
+      ]
+    ],
+    [
+      10,
+      12
+    ],
+    [
+      1,
+      "p",
+      []
+    ]
+  ],
+  "ghostVersion": "4.0"
+}

@@ -1,0 +1,890 @@
+{
+  "version": "0.3.1",
+  "atoms": [],
+  "cards": [
+    [
+      "image",
+      {
+        "src": "__GHOST_URL__/content/images/2023/01/borg-star-trek.jpg",
+        "width": 700,
+        "height": 350
+      }
+    ],
+    [
+      "bookmark",
+      {
+        "version": "1.0",
+        "type": "bookmark",
+        "url": "https://pressgazette.co.uk/newsletters/metro-co-uk-newsletters/",
+        "metadata": {
+          "url": "https://pressgazette.co.uk/newsletters/metro-co-uk-newsletters/",
+          "title": "Newsletter strategy helps Metro direct online readership overtake Google",
+          "description": "Newsletters are helping Metro to change its relationship with its readers as social and search traffic becomes less reliable.",
+          "author": "Charlotte Tobitt",
+          "publisher": "Press Gazette",
+          "thumbnail": "https://pressgazette.co.uk/wp-content/uploads/sites/7/2023/01/Deborah-byline-pic-500x418.jpg?1675091389",
+          "icon": "https://pressgazette.co.uk/wp-content/uploads/sites/7/2022/09/cropped-Press-Gazette_favicon-270x270.jpg"
+        }
+      }
+    ],
+    [
+      "embed",
+      {
+        "url": "https://twitter.com/verapeneda/status/1619985246237376512?s=61&t=1X1Zn4ibuFZ5uPrNJRJBfA",
+        "html": "<blockquote class=\"twitter-tweet\"><p lang=\"en\" dir=\"ltr\">Women’s voices continue to be underrepresented &amp; their stories underreported in news media. Let&#39;s fill in this short survey by <a href=\"https://twitter.com/IMPACT_Glo?ref_src=twsrc%5Etfw\">@IMPACT_Glo</a> to understand the needs of the <a href=\"https://twitter.com/hashtag/gender?src=hash&amp;ref_src=twsrc%5Etfw\">#gender</a> <a href=\"https://twitter.com/hashtag/journalism?src=hash&amp;ref_src=twsrc%5Etfw\">#journalism</a> ecosystem &amp; work toward a more diverse, free global news landscape<a href=\"https://t.co/vjF9ne4cXA\">https://t.co/vjF9ne4cXA</a></p>&mdash; Vera Penêda (@verapeneda) <a href=\"https://twitter.com/verapeneda/status/1619985246237376512?ref_src=twsrc%5Etfw\">January 30, 2023</a></blockquote>\n<script async src=\"https://platform.twitter.com/widgets.js\" charset=\"utf-8\"></script>\n",
+        "type": "twitter",
+        "metadata": {
+          "url": "https://twitter.com/verapeneda/status/1619985246237376512",
+          "author_name": "Vera Penêda",
+          "author_url": "https://twitter.com/verapeneda",
+          "width": 550,
+          "height": null,
+          "cache_age": "3153600000",
+          "provider_name": "Twitter",
+          "provider_url": "http://www.twitter.com/",
+          "version": "1.0",
+          "tweet_data": {
+            "entities": {
+              "hashtags": [
+                {
+                  "start": 174,
+                  "end": 181,
+                  "tag": "gender"
+                },
+                {
+                  "start": 182,
+                  "end": 193,
+                  "tag": "journalism"
+                }
+              ],
+              "urls": [
+                {
+                  "start": 265,
+                  "end": 288,
+                  "url": "https://t.co/vjF9ne4cXA",
+                  "expanded_url": "https://docs.google.com/forms/d/e/1FAIpQLSfIxON7oF7NuSxkTBuDTl9qnc0OpMNsduYBZYDwsRyq7EsWnQ/viewform?usp=sf_link",
+                  "display_url": "docs.google.com/forms/d/e/1FAI…",
+                  "images": [
+                    {
+                      "url": "https://pbs.twimg.com/news_img/1619985251618652162/6DPhlaol?format=jpg&name=orig",
+                      "width": 1200,
+                      "height": 630
+                    },
+                    {
+                      "url": "https://pbs.twimg.com/news_img/1619985251618652162/6DPhlaol?format=jpg&name=150x150",
+                      "width": 150,
+                      "height": 150
+                    }
+                  ],
+                  "status": 200,
+                  "title": "Survey: Mapping the Gender Journalism Landscape",
+                  "description": "Hi there, We're getting touch because we think you have important insights to share about journalism. We are The Gender Beat: a collective of journalists who are interested in journalism that centers the experiences of women and gender-diverse people. We want to know who's doing this work, who's supporting it and who's funding it. To find out, we are conducting a short survey to understand the needs of the various members of the gender journalism ecosystem. We would be very grateful if you could spare the time to fill out this Google Form about your experiences. It will only take around 10 minutes. If you know someone whose insights you think would be useful to this project, please forward this survey to them. Alternatively, let us know by emailing thegenderbeat@protonmail.com and we'll get in touch directly. Please also let us know if you would rather take this survey in another language, and we will see if we can arrange a translated version for you. Best wishes, The team at The Gend",
+                  "unwound_url": "https://docs.google.com/forms/d/e/1FAIpQLSfIxON7oF7NuSxkTBuDTl9qnc0OpMNsduYBZYDwsRyq7EsWnQ/viewform?usp=sf_link"
+                }
+              ],
+              "mentions": [
+                {
+                  "start": 131,
+                  "end": 142,
+                  "username": "IMPACT_Glo",
+                  "id": "1499013369608740868"
+                }
+              ]
+            },
+            "possibly_sensitive": false,
+            "edit_history_tweet_ids": [
+              "1619985246237376512"
+            ],
+            "lang": "en",
+            "text": "Women’s voices continue to be underrepresented &amp; their stories underreported in news media. Let's fill in this short survey by @IMPACT_Glo to understand the needs of the #gender #journalism ecosystem &amp; work toward a more diverse, free global news landscape\nhttps://t.co/vjF9ne4cXA",
+            "reply_settings": "everyone",
+            "created_at": "2023-01-30T09:05:55.000Z",
+            "context_annotations": [
+              {
+                "domain": {
+                  "id": "131",
+                  "name": "Unified Twitter Taxonomy",
+                  "description": "A taxonomy of user interests. "
+                },
+                "entity": {
+                  "id": "840159616101044224",
+                  "name": "World news",
+                  "description": "General Worldwide News"
+                }
+              },
+              {
+                "domain": {
+                  "id": "131",
+                  "name": "Unified Twitter Taxonomy",
+                  "description": "A taxonomy of user interests. "
+                },
+                "entity": {
+                  "id": "1046545033657081857",
+                  "name": "News",
+                  "description": "News"
+                }
+              },
+              {
+                "domain": {
+                  "id": "131",
+                  "name": "Unified Twitter Taxonomy",
+                  "description": "A taxonomy of user interests. "
+                },
+                "entity": {
+                  "id": "1237072960952750081",
+                  "name": "Journalism"
+                }
+              },
+              {
+                "domain": {
+                  "id": "131",
+                  "name": "Unified Twitter Taxonomy",
+                  "description": "A taxonomy of user interests. "
+                },
+                "entity": {
+                  "id": "1278000653416099840",
+                  "name": "Writing"
+                }
+              }
+            ],
+            "author_id": "221566985",
+            "id": "1619985246237376512",
+            "public_metrics": {
+              "retweet_count": 7,
+              "reply_count": 1,
+              "like_count": 8,
+              "quote_count": 0,
+              "impression_count": 1042
+            },
+            "conversation_id": "1619985246237376512",
+            "includes": {
+              "users": [
+                {
+                  "created_at": "2010-12-01T00:38:30.000Z",
+                  "profile_image_url": "https://pbs.twimg.com/profile_images/840055593087975424/EaIqfMkl_normal.jpg",
+                  "url": "https://t.co/4YFLEqjagu",
+                  "username": "verapeneda",
+                  "location": "Maastricht, The Netherlands",
+                  "public_metrics": {
+                    "followers_count": 1560,
+                    "following_count": 2686,
+                    "tweet_count": 5444,
+                    "listed_count": 66
+                  },
+                  "entities": {
+                    "url": {
+                      "urls": [
+                        {
+                          "start": 0,
+                          "end": 23,
+                          "url": "https://t.co/4YFLEqjagu",
+                          "expanded_url": "http://mx.linkedin.com/in/verapeneda",
+                          "display_url": "mx.linkedin.com/in/verapeneda"
+                        }
+                      ]
+                    },
+                    "description": {
+                      "mentions": [
+                        {
+                          "start": 32,
+                          "end": 39,
+                          "username": "ejcnet"
+                        },
+                        {
+                          "start": 45,
+                          "end": 50,
+                          "username": "IWPR"
+                        }
+                      ]
+                    }
+                  },
+                  "verified": false,
+                  "description": "Director of Programmes & Impact @ejcnet Prev @IWPR Now in Maastricht, Netherlands, after 5 years in Mexico & 6 in China. Homeland 🇵🇹",
+                  "id": "221566985",
+                  "name": "Vera Penêda",
+                  "protected": false
+                },
+                {
+                  "created_at": "2022-03-02T13:27:39.000Z",
+                  "profile_image_url": "https://pbs.twimg.com/profile_images/1594624075510517763/w6E5SyC__normal.jpg",
+                  "url": "https://t.co/p0Gbbc3bAX",
+                  "username": "IMPACT_Glo",
+                  "public_metrics": {
+                    "followers_count": 370,
+                    "following_count": 747,
+                    "tweet_count": 335,
+                    "listed_count": 2
+                  },
+                  "entities": {
+                    "url": {
+                      "urls": [
+                        {
+                          "start": 0,
+                          "end": 23,
+                          "url": "https://t.co/p0Gbbc3bAX",
+                          "expanded_url": "https://lesglorieuses.fr/les-newsletters/impact-eng/",
+                          "display_url": "lesglorieuses.fr/les-newsletter…"
+                        }
+                      ]
+                    },
+                    "description": {
+                      "mentions": [
+                        {
+                          "start": 139,
+                          "end": 154,
+                          "username": "Les_Glorieuses"
+                        }
+                      ]
+                    }
+                  },
+                  "verified": false,
+                  "description": "Impact is a newsletter covering gender and politics. We bring you the latest in women's rights worldwide, every Monday. Sister newsletter: @Les_Glorieuses.",
+                  "id": "1499013369608740868",
+                  "name": "The Impact Newsletter",
+                  "protected": false
+                }
+              ]
+            }
+          }
+        }
+      }
+    ]
+  ],
+  "markups": [
+    [
+      "em"
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.wsj.com/articles/buzzfeed-to-use-chatgpt-creator-openai-to-help-create-some-of-its-content-11674752660"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://boingboing.net/2023/01/27/buzzfeed-discloses-use-of-ai-to-write-stories.html"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://edition.cnn.com/2023/01/26/media/buzzfeed-ai-content-creation/index.html"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.linkedin.com/in/sophiemurraymorris/?originalSubdomain=uk"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.linkedin.com/in/emily-shackleton-7bba0361/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.city.ac.uk/prospective-students/courses/postgraduate/interactive-journalism"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.similarweb.com/website/metro.co.uk/#traffic-sources",
+        "rel",
+        "noopener"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://product.beehiiv.com/p/meet-new-text-editor"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://post.news"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://post.news/article/2KYU1JwMHpaeL3z355EqSLKnVbg"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.holdthefrontpage.co.uk/2023/news/news-website-rapped-over-user-generated-comment-on-court-report/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://searchengineland.com/yandex-search-ranking-factors-leak-392323"
+      ]
+    ]
+  ],
+  "sections": [
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Right, let's get right on with the depressing news. Buzzfeed came up with yet another way of getting rid of actual journalists — and the stock market loved it. "
+        ]
+      ]
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "We are Buzzfeed, we will add your biological and technological distinctiveness to our own"
+        ]
+      ]
+    ],
+    [
+      10,
+      0
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Over the years, "
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "Buzzfeed "
+        ],
+        [
+          0,
+          [],
+          0,
+          "has gained a reputation for hiring great people — and then firing them as the strategy shifts. And then hiring more great people. And then firing them as the strategy shifts. And then…"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Well, it looks like they've "
+        ],
+        [
+          0,
+          [
+            1
+          ],
+          1,
+          "decided to break the cycle"
+        ],
+        [
+          0,
+          [],
+          0,
+          "… "
+        ]
+      ]
+    ],
+    [
+      1,
+      "blockquote",
+      [
+        [
+          0,
+          [],
+          0,
+          "In a memo to staff sent Thursday morning, which was reviewed by "
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "The Wall Street Journal"
+        ],
+        [
+          0,
+          [],
+          0,
+          ", Chief Executive Jonah Peretti said he intends for AI to play a larger role in the company’s editorial and business operations this year."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Of course, the AI will need some human… assistants?"
+        ]
+      ]
+    ],
+    [
+      1,
+      "blockquote",
+      [
+        [
+          0,
+          [],
+          0,
+          "Mr. Peretti expects AI to assist the creative process and enhance the company’s content, while humans play the role of providing ideas, “cultural currency,” and “inspired prompts,” he wrote in his memo."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "As "
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "Boing Boing"
+        ],
+        [
+          0,
+          [],
+          0,
+          "'s "
+        ],
+        [
+          0,
+          [
+            2
+          ],
+          1,
+          "Rob Beschizza puts it"
+        ],
+        [
+          0,
+          [],
+          0,
+          ", it was “an admission that saw its "
+        ],
+        [
+          0,
+          [
+            3
+          ],
+          1,
+          "stock price soar"
+        ],
+        [
+          0,
+          [],
+          0,
+          " as investors slavered at the prospect of replacing human writers with generative content”."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "I've been trying to think of a witty payoff line here, but frankly, it's all too depressing. "
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "There was a time when "
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "Buzzfeed"
+        ],
+        [
+          0,
+          [],
+          0,
+          " was building a news operation that could compete with the best reporting teams in the UK. That it's slowly moving to the point where the site is largely filled with generative content, somewhat guided by people, is really not an inspiring journey — unless you're an investor, it seems. "
+        ]
+      ]
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Metro's email future"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "On to happier things. I've been watching "
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "Metro"
+        ],
+        [
+          0,
+          [],
+          0,
+          "'s development of a stable of newsletters with interest, in part because its two most recent heads of audience, "
+        ],
+        [
+          0,
+          [
+            4
+          ],
+          1,
+          "Sophie Murray-Morris"
+        ],
+        [
+          0,
+          [],
+          0,
+          " and "
+        ],
+        [
+          0,
+          [
+            5
+          ],
+          1,
+          "Emily Shackleton"
+        ],
+        [
+          0,
+          [],
+          0,
+          ", are former students from the "
+        ],
+        [
+          0,
+          [
+            6
+          ],
+          1,
+          "MA Interactive Journalism"
+        ],
+        [
+          0,
+          [],
+          0,
+          " at City."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "Press Gazette "
+        ],
+        [
+          0,
+          [],
+          0,
+          "has an interesting interview with "
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "Metro"
+        ],
+        [
+          0,
+          [],
+          0,
+          " editor Deborah Arthurs, putting that work in context. And it seems to be paying off nicely:"
+        ]
+      ]
+    ],
+    [
+      1,
+      "blockquote",
+      [
+        [
+          0,
+          [],
+          0,
+          "According to digital intelligence platform Similarweb, "
+        ],
+        [
+          0,
+          [
+            7
+          ],
+          1,
+          "43% of Metro.co.uk’s traffic now comes directly"
+        ],
+        [
+          0,
+          [],
+          0,
+          ", followed by 41% from search and 10% from social media. Metro claims to have a global millennial audience of 50 million."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "So yes, that's still over 50% of their traffic from algorithmic sources — but 43% direct is really interesting. But I'd be even more intrigued to know how much was newsletters, and how much is the other unknown source traffic that gets lumped into “direct”."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "But, unlike the AI news, this is all good. As Arthurs puts it:"
+        ]
+      ]
+    ],
+    [
+      1,
+      "blockquote",
+      [
+        [
+          0,
+          [],
+          0,
+          "I think all businesses and media organisations benefit from knowing more about their consumers and their readers. It just means you can deliver them more of what they like and I think newsletters give you a really nice way of learning more about your audience. There’s instant feedback. Are they reading your newsletter? Are they clicking?"
+        ]
+      ]
+    ],
+    [
+      10,
+      1
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Quickies"
+        ]
+      ]
+    ],
+    [
+      3,
+      "ul",
+      [
+        [
+          [
+            0,
+            [],
+            0,
+            "⌨️ Beehiiv has "
+          ],
+          [
+            0,
+            [
+              8
+            ],
+            1,
+            "a new text editor for its emails"
+          ],
+          [
+            0,
+            [],
+            0,
+            " — that looks, well, quite like a lot of others. There's a real consensus about what a modern CMS interface looks like emerging."
+          ]
+        ],
+        [
+          [
+            0,
+            [],
+            0,
+            "📰 Would-be Twitter replacement "
+          ],
+          [
+            0,
+            [
+              9
+            ],
+            1,
+            "Post"
+          ],
+          [
+            0,
+            [],
+            0,
+            " is open to everyone, and has "
+          ],
+          [
+            0,
+            [
+              10
+            ],
+            1,
+            "launched a news feed with an impressive list of (US) news partners"
+          ],
+          [
+            0,
+            [],
+            0,
+            "."
+          ]
+        ],
+        [
+          [
+            0,
+            [],
+            0,
+            "👨🏼‍⚖️ A reminder of why "
+          ],
+          [
+            0,
+            [
+              11
+            ],
+            1,
+            "you need to act on complaints about comments"
+          ],
+          [
+            0,
+            [],
+            0,
+            "…"
+          ]
+        ],
+        [
+          [
+            0,
+            [],
+            0,
+            "🇷🇺 A big leak appears to have exposed the "
+          ],
+          [
+            0,
+            [
+              12
+            ],
+            1,
+            "inner workings of the Yandex search algorithm"
+          ],
+          [
+            0,
+            [],
+            0,
+            ". This would have been more useful to know before Russia did, well, what it did. "
+          ]
+        ]
+      ]
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Towards amplifying women's voices"
+        ]
+      ]
+    ],
+    [
+      10,
+      2
+    ],
+    [
+      1,
+      "p",
+      []
+    ]
+  ],
+  "ghostVersion": "4.0"
+}

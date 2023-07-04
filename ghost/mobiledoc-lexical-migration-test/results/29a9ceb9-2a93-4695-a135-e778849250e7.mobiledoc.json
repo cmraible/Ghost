@@ -1,0 +1,255 @@
+{
+  "version": "0.3.1",
+  "atoms": [],
+  "cards": [
+    [
+      "email-cta",
+      {
+        "showButton": true,
+        "showDividers": false,
+        "segment": "status:free",
+        "alignment": "center",
+        "html": "<p><strong><em>Please <a href=\"https://levernews.com/membership\">become a supporting subscriber</a>. You get access to exclusive content like this, <a href=\"__GHOST_URL__/citizens-guide/\">digital publications</a>, and live events </em></strong>—<strong><em> and you support this journalism.</em></strong></p>",
+        "buttonText": "Upgrade",
+        "buttonUrl": "https://levernews.com/membership"
+      }
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "email-cta",
+      {
+        "showButton": true,
+        "showDividers": false,
+        "segment": "status:free",
+        "alignment": "center",
+        "html": "",
+        "buttonText": "Upgrade",
+        "buttonUrl": "https://levernews.com/membership"
+      }
+    ],
+    [
+      "email",
+      {
+        "html": "<p><em><strong>Help us spread the word! </strong>Please forward this email to family and friends.</em></p><p><em><strong>Was this email forwarded to you? </strong><a href=\"https://levernews.com/membership/\">Sign up for free</a> to receive original reporting like this in your inbox every day.</em></p>"
+      }
+    ]
+  ],
+  "markups": [
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/cheat-sheet-whats-really-driving-inflation/"
+      ]
+    ],
+    [
+      "strong"
+    ],
+    [
+      "em"
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://levernews.com/membership/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/citizens-guide/"
+      ]
+    ]
+  ],
+  "sections": [
+    [
+      10,
+      0
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "This week’s Cheat Sheet for supporting subscribers cuts through corporate media noise about inflation and shows what’s really driving the phenomenon. It includes a stunning statistic about corporations and workers that tells the larger story."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Give us five minutes of your time to read this new edition of Cheat Sheet, and we will give you all the facts you need to know what’s actually going on."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Learn more in "
+        ],
+        [
+          0,
+          [
+            0,
+            1
+          ],
+          2,
+          "today’s Cheat Sheet"
+        ],
+        [
+          0,
+          [],
+          0,
+          ", exclusively for supporting subscribers."
+        ]
+      ]
+    ],
+    [
+      1,
+      "h3",
+      [
+        [
+          0,
+          [
+            1
+          ],
+          1,
+          "Takeaways Include:"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "• Refuting the biggest lies about inflation."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "• Damning data suggests corporate profits deserve much of the blame."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "• The steps Democrats could take right now to address the crisis."
+        ]
+      ]
+    ],
+    [
+      10,
+      1
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [
+            2,
+            1
+          ],
+          0,
+          "If you’d like to read "
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "the full Cheat Sheet"
+        ],
+        [
+          0,
+          [],
+          0,
+          ", please "
+        ],
+        [
+          0,
+          [
+            3
+          ],
+          1,
+          "click here"
+        ],
+        [
+          0,
+          [],
+          2,
+          " to become an $8-a-month or $70-a-year supporting subscriber. When you become a supporting subscriber, you get this kind of exclusive content, you get access to our live events, you get our "
+        ],
+        [
+          0,
+          [
+            1,
+            4
+          ],
+          2,
+          "Citizens' Guide To Holding The Powerful Accountable"
+        ],
+        [
+          0,
+          [
+            2,
+            1
+          ],
+          2,
+          " — and you are helping us hire more journalists."
+        ]
+      ]
+    ],
+    [
+      10,
+      2
+    ],
+    [
+      10,
+      3
+    ],
+    [
+      1,
+      "p",
+      []
+    ]
+  ],
+  "ghostVersion": "4.0"
+}

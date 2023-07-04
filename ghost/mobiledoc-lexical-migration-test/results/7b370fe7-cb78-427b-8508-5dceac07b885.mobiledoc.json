@@ -1,0 +1,675 @@
+{
+  "version": "0.3.1",
+  "atoms": [],
+  "cards": [
+    [
+      "html",
+      {
+        "html": "<div class=\"podcast-embed\"><iframe src=\"https://anchor.fm/besttechie/embed/episodes/What-is-the-best-CMS-in-2021-epev25\" height=\"162px\" width=\"400px\" frameborder=\"0\" scrolling=\"no\"></iframe></div>"
+      }
+    ],
+    [
+      "embed",
+      {
+        "url": "https://www.youtube.com/watch?v=r0qJoZYU4iY",
+        "html": "<iframe width=\"356\" height=\"200\" src=\"https://www.youtube.com/embed/r0qJoZYU4iY?feature=oembed\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+        "type": "video",
+        "metadata": {
+          "title": "What is the best CMS in 2021?",
+          "author_name": "TechieBytes",
+          "author_url": "https://www.youtube.com/channel/UCWvgW-lX5kIVmWZ2vsfyKVA",
+          "height": 200,
+          "width": 356,
+          "version": "1.0",
+          "provider_name": "YouTube",
+          "provider_url": "https://www.youtube.com/",
+          "thumbnail_height": 360,
+          "thumbnail_width": 480,
+          "thumbnail_url": "https://i.ytimg.com/vi/r0qJoZYU4iY/hqdefault.jpg"
+        }
+      }
+    ],
+    [
+      "email",
+      {
+        "html": "<p><strong>Reminder:</strong></p><p>I'd love to have you <a href=\"__GHOST_URL__/join-our-members-only-discord/\">join us on the BestTechie Discord server</a>! It's completely free to sign up and join.</p><p>While we do have <a href=\"__GHOST_URL__/plus/\">paid membership options</a> (which are also very good and start at $5/month or $40/year!), if you just want to explore the Discord and meet other like-minded people who are interested in technology and startups than the free membership is a great place to start.</p>"
+      }
+    ],
+    [
+      "hr",
+      {}
+    ]
+  ],
+  "markups": [
+    [
+      "em"
+    ],
+    [
+      "strong"
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://podcasts.apple.com/us/podcast/techiebytes/id1352142386?mt=2"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://anchor.fm/besttechie"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://play.google.com/music/m/Iggddfgyikir2p3s2rxyd3jrebm?t=TechieBytes"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://overcast.fm/itunes1352142386/techiebytes"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://open.spotify.com/show/1smGCurjTwO59EAFuvb60V?si=cDs7fiD3SD2Hg4cUUFLpjw"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.stitcher.com/podcast/besttechie/techiebytes?refid=stpr",
+        "rel",
+        "noreferrer noopener"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "http://pca.st/0Gc3"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/advertise/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://rocket.net/?ref=besttechie"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://wpengine.com"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://m.do.co/c/2098adb00493"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://ongloat.com"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/wix-review/"
+      ]
+    ]
+  ],
+  "sections": [
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Welcome to TechieBytes episode 76 titled "
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "What is the best CMS in 2021?"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "I want to continue to make this podcast even better for all of you! So, going forward, in week’s where we don’t have a scheduled guest I’ll be answering questions from listeners or talking about topics near and dear to me. Today I’m answering a question from Doug, who wants to know "
+        ],
+        [
+          0,
+          [
+            1
+          ],
+          1,
+          "what is the best CMS (Content Management System) in 2021"
+        ],
+        [
+          0,
+          [],
+          0,
+          "?"
+        ]
+      ]
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Audio Episode"
+        ]
+      ]
+    ],
+    [
+      10,
+      0
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [
+            1
+          ],
+          1,
+          "LISTEN & SUBSCRIBE: "
+        ],
+        [
+          0,
+          [],
+          0,
+          "TechieBytes is available on "
+        ],
+        [
+          0,
+          [
+            2
+          ],
+          1,
+          "Apple Podcasts"
+        ],
+        [
+          0,
+          [],
+          0,
+          ", "
+        ],
+        [
+          0,
+          [
+            3
+          ],
+          1,
+          "Anchor.fm"
+        ],
+        [
+          0,
+          [],
+          0,
+          ", "
+        ],
+        [
+          0,
+          [
+            4
+          ],
+          1,
+          "Google Play"
+        ],
+        [
+          0,
+          [],
+          0,
+          ", "
+        ],
+        [
+          0,
+          [
+            5
+          ],
+          1,
+          "Overcast"
+        ],
+        [
+          0,
+          [],
+          0,
+          ", "
+        ],
+        [
+          0,
+          [
+            6
+          ],
+          1,
+          "Spotify"
+        ],
+        [
+          0,
+          [],
+          0,
+          ", "
+        ],
+        [
+          0,
+          [
+            7
+          ],
+          1,
+          "Stitcher"
+        ],
+        [
+          0,
+          [],
+          0,
+          ", and "
+        ],
+        [
+          0,
+          [
+            8
+          ],
+          1,
+          "Pocket Casts"
+        ],
+        [
+          0,
+          [],
+          0,
+          "."
+        ]
+      ]
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Video Episode"
+        ]
+      ]
+    ],
+    [
+      10,
+      1
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "We’re looking for new podcast sponsors, if you’re interested in sponsoring TechieBytes, please "
+        ],
+        [
+          0,
+          [
+            9
+          ],
+          1,
+          "get in touch"
+        ],
+        [
+          0,
+          [],
+          0,
+          "."
+        ]
+      ]
+    ],
+    [
+      10,
+      2
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "More info"
+        ]
+      ]
+    ],
+    [
+      1,
+      "h3",
+      [
+        [
+          0,
+          [],
+          0,
+          "WordPress"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Free and open source. Requires hosting though."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "The most popular CMS, powers almost 30% of the web. This means it’s easy to find support for and also means there’s a large ecosystem of plugins and themes."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Honestly, WordPress has gotten a bit bloated in recent years. I moved from WordPress to Ghost (which we’ll talk about next) over the summer. I do miss certain things about WordPress such as the plethora of plugins, but those can come at a cost… more plugins = more to load, meaning your site can slow down (significantly in some cases)."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "If you're looking for great WordPress managed hosting, check out either "
+        ],
+        [
+          0,
+          [
+            10
+          ],
+          1,
+          "Rocket.net"
+        ],
+        [
+          0,
+          [],
+          0,
+          " or "
+        ],
+        [
+          0,
+          [
+            11
+          ],
+          1,
+          "WPEngine"
+        ],
+        [
+          0,
+          [],
+          0,
+          ". If you're looking to host it yourself, "
+        ],
+        [
+          0,
+          [
+            12
+          ],
+          1,
+          "DigitalOcean"
+        ],
+        [
+          0,
+          [],
+          0,
+          " is a great place to spin up a VPS. "
+        ]
+      ]
+    ],
+    [
+      1,
+      "h3",
+      [
+        [
+          0,
+          [],
+          0,
+          "Ghost"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "I like Ghost a lot. It’s very simple though. That being said, if you’re looking to build a membership-based business it’s a solid choice as it has membership functionality and Stripe integration built right in. It's also open source. "
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Ghost PRO Pricing starts at $29/month billed annually. $36/month if billed monthly. There are certain limitations to this such as the number of staff users you can have as well as the number of members you can have per plan. Starting plan is 2 staff users and 1,000 members. This is great if you’re just getting off the ground but obviously not as great if you have multiple writers and an existing membership. The other plans are more catered to that. Plus, with Ghost PRO you get support from the Ghost team which is actually very good and also very responsive. I’ve communicated with them more than a dozen times and they’re always helpful."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Or you can self-host Ghost which doesn’t have any restrictions on staff users or members but you need to host everything yourself. I chose not to because I no longer wanted to deal with the hassle/headache of managing a server. There are good services out there such as "
+        ],
+        [
+          0,
+          [
+            13
+          ],
+          1,
+          "Gloat run by Dan Rowden"
+        ],
+        [
+          0,
+          [],
+          0,
+          " (who I’ve hired and worked with in the past, great guy) and he has a service called OnGloat where he’ll setup your Ghost install and manage it for a reasonable fee."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Last thing of note, I misspoke when I mentioned they don't have plugin support in Ghost – they do, in their own way, it's called Integrations. "
+        ]
+      ]
+    ],
+    [
+      1,
+      "h3",
+      [
+        [
+          0,
+          [],
+          0,
+          "Squarespace"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Squarespace is kind of in this weird place — they want to be WordPress but they’re not. That doesn’t mean their platform is bad though — it’s not. They’ve recently added membership functionality and SEO tools to the platform and they have a nice getting started flow that helps identify good templates that you can build off of. "
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Pricing starts at $12/month, realistically, you should go with at least the $18/month business plan (if you pay annually) — it's $16 and $26 / month if you pay monthly."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "I think one of the things that sets Squarespace apart is their themes, they have some really beautiful designs especially with a real focus on utilizing great photography. If you run a site where photos are a key part of your business (for example a photography business, if you sell unique products online, or creative agency-type work), then Squarespace may be a good bet for you."
+        ]
+      ]
+    ],
+    [
+      1,
+      "h3",
+      [
+        [
+          0,
+          [],
+          0,
+          "Wix"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Wix is a great no code solution. I’ve "
+        ],
+        [
+          0,
+          [
+            14
+          ],
+          1,
+          "reviewed it"
+        ],
+        [
+          0,
+          [],
+          0,
+          " in the past and found it to be a nice platform with a lot of features and functionality — pretty much all of it drag and drop. If you’re looking to build a simple website (like for a restaurant or real estate office) or landing page, Wix is a good bet. Otherwise I’d stick with WordPress, Ghost, or Squarespace."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Pricing starts at $14/month."
+        ]
+      ]
+    ],
+    [
+      10,
+      3
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Ultimately you need to identify what you’re looking to accomplish with your site and then use this information to make an informed decision."
+        ]
+      ]
+    ]
+  ],
+  "ghostVersion": "3.0"
+}

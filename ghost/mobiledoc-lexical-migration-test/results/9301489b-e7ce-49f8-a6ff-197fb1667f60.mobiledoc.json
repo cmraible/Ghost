@@ -1,0 +1,417 @@
+{
+  "version": "0.3.1",
+  "atoms": [
+    [
+      "soft-return",
+      "",
+      {}
+    ],
+    [
+      "soft-return",
+      "",
+      {}
+    ]
+  ],
+  "cards": [
+    [
+      "hr",
+      {}
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "html",
+      {
+        "html": "<table id=\"production-numbers-table\">\n<tbody>\n\t<tr>\n\t\t<td>Hardtop Coupe</td>\n\t\t<td>6,285</td>\n\t</tr>\n    <tr>\n\t\t<td>Convertible</td>\n\t\t<td>1,304</td>\n\t</tr>\n\t\t<td><b>Total Production</b></td>\n\t\t<td><b>7,589</b></td>\n\t</tr>\n</tbody>\n</table>"
+      }
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "html",
+      {
+        "html": "<table id=\"performance-specs-table\">\n<tbody>\n\t<tr>\n\t\t<th><b>Engine</b></th>\n\t\t<th><b>Size</b></td>\n\t\t<th><b>Carb.</b></td>\n\t\t<th><b>HP</b></td>\n\t\t<th><b>0 to 60</b></td>\n\t\t<th><b>Quarter mile</b></td>\n\t</tr>\n\t<tr>\n\t\t<td>W-30</td>\n\t\t<td>455ci</td>\n\t\t<td>1x4bbl</td>\n\t\t<td>350</td>\n\t\t<td>n/a</td>\n\t\t<td>n/a</td>\n\t</tr>\n<tr>\n\t\t<td>Standard V8</td>\n\t\t<td>455ci</td>\n\t\t<td>1x4bbl</td>\n\t\t<td>340</td>\n\t\t<td>8.9 sec</td>\n\t\t<td>15.2 sec @ 99 mph</td>\n\t</tr>\n</tbody>\n</table>"
+      }
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "html",
+      {
+        "html": "<h4 id='colors-sub-heading'>Exterior</h4>\n<div class=\"colors-row\">\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #000000\"></div>\n        <div class=\"color-name\">Ebony Black</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #eadbd6\"></div>\n        <div class=\"color-name\">Cameo White</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #adb2b1\"></div>\n        <div class=\"color-name\">Sterling Silver</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #719bad\"></div>\n        <div class=\"color-name\">Oxford Gray</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #9dc6dc\"></div>\n        <div class=\"color-name\">Nordic Blue</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #103457\"></div>\n        <div class=\"color-name\">Monarch Blue</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #247550\"></div>\n        <div class=\"color-name\">Capri Aqua</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #cac661\"></div>\n        <div class=\"color-name\">Palm Green</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #414115\"></div>\n        <div class=\"color-name\">Antique Jade</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #d1d28c\"></div>\n        <div class=\"color-name\">Sandalwood</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #fef1ef\"></div>\n        <div class=\"color-name\">Sienna</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #3a1c12\"></div>\n        <div class=\"color-name\">Sable Brown</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #b1170f\"></div>\n        <div class=\"color-name\">Matador Red</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #4b2010\"></div>\n        <div class=\"color-name\">Antique Briar</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #1973af\"></div>\n        <div class=\"color-name\">Viking Blue</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #aba91c\"></div>\n        <div class=\"color-name\">Lime Green</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #bd4b0e\"></div>\n        <div class=\"color-name\">Bittersweet</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #e8b015\"></div>\n        <div class=\"color-name\">Saturn Gold</div>\n    </div>\n</div>\n\n<h4 id='colors-sub-heading'>Interior</h4>\n<div class=\"colors-row\">\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #000000\"></div>\n        <div class=\"color-name\">Black</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #c2c3b5\"></div>\n        <div class=\"color-name\">Pearl</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #863c23\"></div>\n        <div class=\"color-name\">Sienna</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #194d5b\"></div>\n        <div class=\"color-name\">Dark Blue</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #626748\"></div>\n        <div class=\"color-name\">Jade Green</div>\n    </div>\n</div>"
+      }
+    ],
+    [
+      "gallery",
+      {
+        "images": [
+          {
+            "fileName": "1706_1971_Oldsmobile_Prestige-38-39_low_res.jpg",
+            "row": 0,
+            "width": 790,
+            "height": 415,
+            "src": "__GHOST_URL__/content/images/2020/06/1706_1971_Oldsmobile_Prestige-38-39_low_res.jpg"
+          },
+          {
+            "fileName": "1707_1971_Oldsmobile_Prestige-36-37_low_res.jpg",
+            "row": 0,
+            "width": 790,
+            "height": 413,
+            "src": "__GHOST_URL__/content/images/2020/06/1707_1971_Oldsmobile_Prestige-36-37_low_res.jpg"
+          },
+          {
+            "fileName": "1708_1971_Oldsmobile_Prestige-34-35_low_res.jpg",
+            "row": 0,
+            "width": 790,
+            "height": 413,
+            "src": "__GHOST_URL__/content/images/2020/06/1708_1971_Oldsmobile_Prestige-34-35_low_res.jpg"
+          },
+          {
+            "fileName": "1709_1971_Oldsmobile_Prestige-28-29_low_res.jpg",
+            "row": 1,
+            "width": 790,
+            "height": 411,
+            "src": "__GHOST_URL__/content/images/2020/06/1709_1971_Oldsmobile_Prestige-28-29_low_res.jpg"
+          },
+          {
+            "fileName": "1710_1971_Oldsmobile_Prestige-26-27_low_res.jpg",
+            "row": 1,
+            "width": 790,
+            "height": 413,
+            "src": "__GHOST_URL__/content/images/2020/06/1710_1971_Oldsmobile_Prestige-26-27_low_res.jpg"
+          },
+          {
+            "fileName": "1711_1971_Oldsmobile_Prestige-24-25_low_res.jpg",
+            "row": 1,
+            "width": 790,
+            "height": 412,
+            "src": "__GHOST_URL__/content/images/2020/06/1711_1971_Oldsmobile_Prestige-24-25_low_res.jpg"
+          }
+        ],
+        "caption": "1971 Oldsmobile 442 OEM Brochures"
+      }
+    ],
+    [
+      "hr",
+      {}
+    ]
+  ],
+  "markups": [
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/tag/research/"
+      ]
+    ]
+  ],
+  "sections": [
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Overview"
+        ]
+      ]
+    ],
+    [
+      10,
+      0
+    ],
+    [
+      1,
+      "h3",
+      [
+        [
+          0,
+          [],
+          0,
+          "The 1971 442 was available in a hardtop coupe and convertible body type because the sport coupe disappeared for the first time since 1964."
+        ]
+      ]
+    ],
+    [
+      10,
+      1
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          1,
+          [],
+          0,
+          0
+        ],
+        [
+          0,
+          [],
+          0,
+          "The 1971 Olds 442 received only minor revisions from the previous year like lower compression due to GM's policy requiring all engines to run on lower-octane regular leaded, low-lead, or unleaded gasoline in preparation for the introduction of the catalytic converter on 1975 model cars."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "The base 455ci was rated at 340 hp, while the W-30 achieved a rating of 350 hp."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "The 1971 442 was available in a hardtop coupe and convertible body type because the sport coupe disappeared for the first time since 1964."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "To spot a 1971 look for a black grille with silver surrounding, silver headlight bezels, round parking lights in front bumper, and horizontal taillights."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          1,
+          [],
+          0,
+          1
+        ]
+      ]
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Production Numbers"
+        ]
+      ]
+    ],
+    [
+      10,
+      2
+    ],
+    [
+      10,
+      3
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Performance Specs"
+        ]
+      ]
+    ],
+    [
+      10,
+      4
+    ],
+    [
+      10,
+      5
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Transmission"
+        ]
+      ]
+    ],
+    [
+      10,
+      6
+    ],
+    [
+      3,
+      "ul",
+      [
+        [
+          [
+            0,
+            [],
+            0,
+            "4-Speed Manual Wide Ratio"
+          ]
+        ],
+        [
+          [
+            0,
+            [],
+            0,
+            "3-Speed Turbo Hydra-Matic"
+          ]
+        ],
+        [
+          [
+            0,
+            [],
+            0,
+            "4-Speed Manual Close Ratio"
+          ]
+        ],
+        [
+          [
+            0,
+            [],
+            0,
+            "Heavy-Duty 3-Speed Manual"
+          ]
+        ]
+      ]
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Paint & Colors"
+        ]
+      ]
+    ],
+    [
+      10,
+      7
+    ],
+    [
+      10,
+      8
+    ],
+    [
+      1,
+      "h2",
+      []
+    ],
+    [
+      1,
+      "h2",
+      []
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "OEM Brochures"
+        ]
+      ]
+    ],
+    [
+      10,
+      9
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "About the Knowledge Base"
+        ]
+      ]
+    ],
+    [
+      10,
+      10
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "The Motorious Knowledge Base provides a comprehensive vehicle overview for the 1971 Oldsmobile 442 including production numbers, performance specs, factory colors, and OEM brochures. Check out additional model years or related content linked to this article or view other Makes and Models in our "
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "Research"
+        ],
+        [
+          0,
+          [],
+          0,
+          " center."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "If you have any interesting facts about the 1971 Oldsmobile 442 to add, want to tell us how we did covering the Olds 442, or want to tell us about yours, please leave a comment below."
+        ]
+      ]
+    ]
+  ],
+  "ghostVersion": "3.0"
+}

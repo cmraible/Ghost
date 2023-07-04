@@ -1,0 +1,1225 @@
+{
+  "version": "0.3.1",
+  "atoms": [],
+  "cards": [
+    [
+      "image",
+      {
+        "src": "https://images.unsplash.com/photo-1521513919009-be90ad555598?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=2000&fit=max&ixid=eyJhcHBfaWQiOjExNzczfQ",
+        "width": 4662,
+        "height": 3386,
+        "caption": "Photo by <a href=\"https://unsplash.com/@wifecooky?utm_source=ghost&utm_medium=referral&utm_campaign=api-credit\">wenping wang</a> / <a href=\"https://unsplash.com/?utm_source=ghost&utm_medium=referral&utm_campaign=api-credit\">Unsplash</a>",
+        "alt": "fried eggs"
+      }
+    ],
+    [
+      "image",
+      {
+        "src": "__GHOST_URL__/content/images/2020/09/wsj-subs-apple-news-.jpeg",
+        "alt": "",
+        "title": "",
+        "caption": ""
+      }
+    ],
+    [
+      "image",
+      {
+        "src": "__GHOST_URL__/content/images/2020/09/wsj-podcast-news.jpeg",
+        "alt": "",
+        "title": "",
+        "caption": ""
+      }
+    ],
+    [
+      "image",
+      {
+        "src": "__GHOST_URL__/content/images/2020/09/wsj-calendars-apple-news.jpeg",
+        "alt": "",
+        "title": "",
+        "caption": ""
+      }
+    ]
+  ],
+  "markups": [
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/2018/03/apples-acquisition-of-texture-and-what-it-might-mean-for-the-ios-news-ecosystem/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.macworld.com/article/1002145/11soundjam.html"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://appleinsider.com/articles/20/09/08/smart-banners-point-to-apple-news-instead-of-publisher-apps-in-ios-14"
+      ]
+    ],
+    [
+      "em"
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://whatsnewinpublishing.com/apple-news-was-deeply-flawed-from-the-start-is-there-really-a-future-for-publishers-on-the-platform/"
+      ]
+    ],
+    [
+      "strong"
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://nypost.com/2020/08/12/wall-street-journal-will-stick-by-apple-news-news-corp-ceo/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/2020/08/whos-afraid-of-the-small-average-apple-news/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://subs.ft.com/spa3_weekendx?segmentId=f41acb70-e0cf-a8af-0be8-fa591da55ba1"
+      ]
+    ]
+  ],
+  "sections": [
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Apple News+ is a strange product, even by the standards of news aggregators. It was rapidly built out of Apple’s "
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "acquisition of Texture"
+        ],
+        [
+          0,
+          [],
+          0,
+          ", but then, Apple has form in this area. A very long time ago, iTunes was rebuilt out an app "
+        ],
+        [
+          0,
+          [
+            1
+          ],
+          1,
+          "called Soundjam"
+        ],
+        [
+          0,
+          [],
+          0,
+          ", and then it had a music store, and various other stores, built on top of it."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "That alone should give us pause. Apple upended an industry 15 years ago, on some fairly odd software. And yes, Apple News is not a perfect, shining example of Apple UI. And it’s unlikely to ever be an iTunes-level success. But it is part of Apple’s big services revenue push, and they’re pushing it forwards with "
+        ],
+        [
+          0,
+          [
+            2
+          ],
+          1,
+          "some integrations"
+        ],
+        [
+          0,
+          [],
+          0,
+          " in this autumn’s big software updates. Oh, and unlike, say, Facebook and Twitter, it actually "
+        ],
+        [
+          0,
+          [
+            3
+          ],
+          1,
+          "does"
+        ],
+        [
+          0,
+          [],
+          0,
+          " push money to publishers."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "So, why are publishers so very determined to hate it? When we "
+        ],
+        [
+          0,
+          [
+            3
+          ],
+          1,
+          "know"
+        ],
+        [
+          0,
+          [],
+          0,
+          " some publishers are doing well out of it, might it not make more sense to figure out "
+        ],
+        [
+          0,
+          [
+            3
+          ],
+          1,
+          "how"
+        ],
+        [
+          0,
+          [],
+          0,
+          " to make it work for you?"
+        ]
+      ]
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "The Doom of Apple News+"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Esther Kezia Thorpe’s recent piece for "
+        ],
+        [
+          0,
+          [
+            3
+          ],
+          1,
+          "What’s New in Publishing"
+        ],
+        [
+          0,
+          [],
+          0,
+          " is a classic of the genre. It captures perfectly"
+        ],
+        [
+          0,
+          [
+            4
+          ],
+          1,
+          " many publishers’ view on Apple News+"
+        ],
+        [
+          0,
+          [],
+          0,
+          ". Firstly, the headline does not beat about the bush:"
+        ]
+      ]
+    ],
+    [
+      1,
+      "blockquote",
+      [
+        [
+          0,
+          [],
+          0,
+          "Apple News+ was deeply flawed from the start. Is there really a future for publishers on the platform?"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Doom. DOOM. "
+        ],
+        [
+          0,
+          [
+            5
+          ],
+          1,
+          "DOOOOM"
+        ],
+        [
+          0,
+          [],
+          0,
+          "."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Flawed product, no future. Alas. Alack."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "And the conclusion does not hold back, either:"
+        ]
+      ]
+    ],
+    [
+      1,
+      "blockquote",
+      [
+        [
+          0,
+          [],
+          0,
+          "Apple News+ is not a failure of paid-for content. It’s a product failure, designed by people who don’t understand the complexities of the publishing industry."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Yikes."
+        ]
+      ]
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Where’s the WSJ in all this?"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "The only problem being, that just a week before, "
+        ],
+        [
+          0,
+          [
+            6
+          ],
+          1,
+          "I’d read this"
+        ],
+        [
+          0,
+          [],
+          0,
+          ":"
+        ]
+      ]
+    ],
+    [
+      1,
+      "blockquote",
+      [
+        [
+          0,
+          [],
+          0,
+          "News Corp. will continue to allow tech giant Apple to disseminate its news articles through the Apple News platform because the arrangement is helping introduce new readers to The Wall Street Journal, CEO Robert Thomson said."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Not bad for a product failure. A major paywalled financial newspaper considers it a useful revenue and audience acquisition source? There must be something more to this than product failure."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "And the "
+        ],
+        [
+          0,
+          [
+            3
+          ],
+          1,
+          "WSJ"
+        ],
+        [
+          0,
+          [],
+          0,
+          " is not alone. I’m aware of other publishers doing well from the platform, but who are reluctant to make too much noise about it. So, what’s going on here? Why the polarisation around "
+        ],
+        [
+          0,
+          [
+            7
+          ],
+          1,
+          "this mediocre product"
+        ],
+        [
+          0,
+          [],
+          0,
+          "?"
+        ]
+      ]
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Understanding the WSJ’s content model"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Could there be a particular characteristic of the "
+        ],
+        [
+          0,
+          [
+            3
+          ],
+          1,
+          "WSJ"
+        ],
+        [
+          0,
+          [],
+          0,
+          "’s content that makes it a better match for the Apple News+ model than the people Esther talked to?"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Oh, yes. One clue is in the fact that the "
+        ],
+        [
+          0,
+          [
+            3
+          ],
+          1,
+          "WSJ"
+        ],
+        [
+          0,
+          [],
+          0,
+          ", much like the "
+        ],
+        [
+          0,
+          [
+            3
+          ],
+          1,
+          "Financial Times,"
+        ],
+        [
+          0,
+          [],
+          0,
+          " is as much as B2B title for the financial industry as it is a mainstream newspaper. In fact, you could characterise it as having, broadly, two sets of content: "
+        ]
+      ]
+    ],
+    [
+      3,
+      "ol",
+      [
+        [
+          [
+            0,
+            [],
+            0,
+            "mainstream news and features journalism"
+          ]
+        ],
+        [
+          [
+            0,
+            [],
+            0,
+            "the core financial journalism."
+          ]
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "With that context, look at this quote:"
+        ]
+      ]
+    ],
+    [
+      1,
+      "blockquote",
+      [
+        [
+          0,
+          [],
+          0,
+          "“That Apple News partnership allows us to focus on that "
+        ],
+        [
+          0,
+          [
+            5
+          ],
+          1,
+          "tier of content"
+        ],
+        [
+          0,
+          [],
+          0,
+          " and bring in a "
+        ],
+        [
+          0,
+          [
+            5
+          ],
+          1,
+          "significantly new audience"
+        ],
+        [
+          0,
+          [],
+          0,
+          " that we would hope to graduate to a paid WSJ subscription over time,” Thomson said in an earnings call last week. “And it is a "
+        ],
+        [
+          0,
+          [
+            5
+          ],
+          1,
+          "genuinely different audience"
+        ],
+        [
+          0,
+          [],
+          0,
+          ". It’s actually, of late, more women than men. For The Wall Street Journal ­itself, it’s more men than women.”"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [
+            3
+          ],
+          1,
+          "(Emphasis mine.)"
+        ]
+      ]
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "The Fried Egg model"
+        ]
+      ]
+    ],
+    [
+      10,
+      0
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "That phrase —“tier of content” — is the give-away here. This is a “fried egg” model. There are two distinct audiences:"
+        ]
+      ]
+    ],
+    [
+      3,
+      "ul",
+      [
+        [
+          [
+            0,
+            [],
+            0,
+            "The egg yolk is the "
+          ],
+          [
+            0,
+            [
+              3
+            ],
+            1,
+            "WSJ"
+          ],
+          [
+            0,
+            [],
+            0,
+            "’s traditional audience: financial sector and business people, who are willing to pay for a full WSJ sub. These are the core audience, and the content they value is the publication’s crown jewels."
+          ]
+        ],
+        [
+          [
+            0,
+            [],
+            0,
+            "The egg white is "
+          ],
+          [
+            0,
+            [
+              3
+            ],
+            1,
+            "other"
+          ],
+          [
+            0,
+            [],
+            0,
+            " people, a mix of potential "
+          ],
+          [
+            0,
+            [
+              3
+            ],
+            1,
+            "WSJ"
+          ],
+          [
+            0,
+            [],
+            0,
+            " subscribers, and people who might be interested in elements of the paper’s reporting, but not the whole package."
+          ]
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Framed in that way, the News+ deal is offering two advantages to the "
+        ],
+        [
+          0,
+          [
+            3
+          ],
+          1,
+          "WSJ"
+        ],
+        [
+          0,
+          [],
+          0,
+          ":"
+        ]
+      ]
+    ],
+    [
+      3,
+      "ol",
+      [
+        [
+          [
+            0,
+            [],
+            0,
+            "The ability to monetise their general reporting, features and lifestyle content via people who wouldn’t consider being "
+          ],
+          [
+            0,
+            [
+              3
+            ],
+            1,
+            "WSJ"
+          ],
+          [
+            0,
+            [],
+            0,
+            " subscribers. It’s extra money for existing content without cannibalising your core audience."
+          ]
+        ],
+        [
+          [
+            0,
+            [],
+            0,
+            "The ability to start bringing in new subscribers, who wouldn’t have considered the "
+          ],
+          [
+            0,
+            [
+              3
+            ],
+            1,
+            "WSJ"
+          ],
+          [
+            0,
+            [],
+            0,
+            " but find they like what they read in Apple News+."
+          ]
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Like I said, a fried egg strategy: monetise a non-core audience, and move some of them into becoming subscribers in that creamy, protein rich yolk."
+        ]
+      ]
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Upselling the News+ reader"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "You can see that in action on "
+        ],
+        [
+          0,
+          [
+            3
+          ],
+          1,
+          "WSJ"
+        ],
+        [
+          0,
+          [],
+          0,
+          " pages in News+. Every few articles you consume you get a call-to-action:"
+        ]
+      ]
+    ],
+    [
+      10,
+      1
+    ],
+    [
+      10,
+      2
+    ],
+    [
+      10,
+      3
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Right there we can see three different ways that you can start moving readers into a more direct relationship with the brand:"
+        ]
+      ]
+    ],
+    [
+      3,
+      "ul",
+      [
+        [
+          [
+            0,
+            [],
+            0,
+            "a subscription (obviously)"
+          ]
+        ],
+        [
+          [
+            0,
+            [],
+            0,
+            "a podcast"
+          ]
+        ],
+        [
+          [
+            0,
+            [],
+            0,
+            "a calendar"
+          ]
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "One of those is a direct conversion, the other two indirect ones that move the potential subscriber that bit closer to closing the deal. "
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "It seems likely to me that the "
+        ],
+        [
+          0,
+          [
+            3
+          ],
+          1,
+          "WSJ"
+        ],
+        [
+          0,
+          [],
+          0,
+          " sees the direct revenue as incidental (but welcome), while it’s the audience growth they’re actually after."
+        ]
+      ]
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Could you make Apple News+ work?"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "So, let’s look at the characteristics that make this work:"
+        ]
+      ]
+    ],
+    [
+      3,
+      "ul",
+      [
+        [
+          [
+            0,
+            [],
+            0,
+            "Core content not in Apple News+"
+          ]
+        ],
+        [
+          [
+            0,
+            [],
+            0,
+            "Non-core content there, and earning additional revenue"
+          ]
+        ],
+        [
+          [
+            0,
+            [],
+            0,
+            "Access to new audiences, and multiple opportunities to move them up the engagement pathway"
+          ]
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "If I was a B2B title with a level on potential consumer interest — aviation, hospitality, beauty, even farming — I’d be taking a serious look at this. They’re the classic kinds of publication that have core content that’s valuable enough for people to pay for, but also some content that crosses over into more general consumer interest as well."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "You can both monetise some of that content, and use News+ as a filtering mechanism, building a funnel to acquire subscribers."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "The problem here, I suspect, is that most publishers don’t actually know what their core content "
+        ],
+        [
+          0,
+          [
+            3
+          ],
+          1,
+          "is"
+        ],
+        [
+          0,
+          [],
+          0,
+          ". What’s the “nice to have” stuff, and what’s the stuff that "
+        ],
+        [
+          0,
+          [
+            3
+          ],
+          1,
+          "really"
+        ],
+        [
+          0,
+          [],
+          0,
+          " matters, that people will pay for? Unless you understand that, you’re not in position to make that fried egg into a nutritious subscriber meal."
+        ]
+      ]
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "What is your “crown jewel” content?"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Conversely, if you really understand your content dynamics, you’re in a better position to take advantage of a fried egg strategy like this. For example, this is the reason that the "
+        ],
+        [
+          0,
+          [
+            3
+          ],
+          1,
+          "Financial Times"
+        ],
+        [
+          0,
+          [],
+          0,
+          " has some "
+        ],
+        [
+          0,
+          [
+            8
+          ],
+          1,
+          "weekend-based subscription packages"
+        ],
+        [
+          0,
+          [],
+          0,
+          ", looking to attract people who enjoy their lifestyle and features reporting, but don’t need the rest of it."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "You could contrast this with the statement in the WNiP piece:"
+        ]
+      ]
+    ],
+    [
+      1,
+      "blockquote",
+      [
+        [
+          0,
+          [],
+          0,
+          "Even if the bundles are enough to tempt a wave of new subscribers, not enough of the money will get back to publishers to make it worth it."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Sure. But what if the potential is "
+        ],
+        [
+          0,
+          [
+            3
+          ],
+          1,
+          "not"
+        ],
+        [
+          0,
+          [],
+          0,
+          " as a major revenue source in its own right, but as a showcase for your content, and a possibility to find new readers out there? In that sense, it’s a bit like Facebook or Twitter — a shopfront for your journalism, but one "
+        ],
+        [
+          0,
+          [
+            3
+          ],
+          1,
+          "you get paid for"
+        ],
+        [
+          0,
+          [],
+          0,
+          "."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "If I may be as bold as to rewrite Esther’s conclusion:"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [
+            3
+          ],
+          1,
+          "Apple News+ is not a failure of product design. It’s a publishing failure, limited by publishers without the imagination to understand their own content and audience engagement strategies."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "There’s currently over 1 billion active iOS users worldwide. Now, only a fraction of those will use Apple News or subscribe to Apple News+. But a fraction of a very large number still tends to be a very large number. That’s a huge surface for audience development work, with the right strategy, that we can ill-afford to ignore."
+        ]
+      ]
+    ]
+  ],
+  "ghostVersion": "3.0"
+}

@@ -1,0 +1,595 @@
+{
+  "root": {
+    "children": [
+      {
+        "type": "email-cta",
+        "showButton": true,
+        "showDividers": false,
+        "segment": "status:-free",
+        "alignment": "center",
+        "html": "",
+        "buttonText": "Click Here To Comment",
+        "buttonUrl": "__GHOST_URL__/introducing-left-wondering/#comments"
+      },
+      {
+        "type": "email-cta",
+        "showButton": true,
+        "showDividers": false,
+        "segment": "status:free",
+        "alignment": "center",
+        "html": "<p><strong><em>Please <a href=\"https://levernews.com/membership\">become a supporting subscriber</a>. You get exclusive podcasts, <a href=\"__GHOST_URL__/citizens-guide/\">digital publications</a>, and live events </em></strong>—<strong><em> and you support this journalism.</em></strong></p>",
+        "buttonText": "Upgrade",
+        "buttonUrl": "https://levernews.com/membership"
+      },
+      {
+        "type": "email",
+        "html": "<p><em><strong><a href=\"https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.levernews.com%2Fintroducing-left-wondering%2F&amp;amp;src=sdkpreparse&quot; class=&quot;fb-xfbml-parse-ignore\">Click to share on Facebook</a></strong></em></p>"
+      },
+      {
+        "children": [
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": "Welcome to the first installment of Left Wondering, a new semi-weekly column I’ll be writing for ",
+            "type": "text",
+            "version": 1
+          },
+          {
+            "detail": 0,
+            "format": 2,
+            "mode": "normal",
+            "style": "",
+            "text": "The Lever",
+            "type": "text",
+            "version": 1
+          },
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": " in which I'll answer subscriber questions about trying to live a decent life under capitalism.",
+            "type": "text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "paragraph",
+        "version": 1
+      },
+      {
+        "children": [
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": "Who am I and why am I writing an advice column? For one, the wonderful team behind this great website asked and I was too flattered to say no. And it’s a refreshing bi-monthly change of pace from my day job writing about climate politics for ",
+            "type": "text",
+            "version": 1
+          },
+          {
+            "detail": 0,
+            "format": 2,
+            "mode": "normal",
+            "style": "",
+            "text": "The New Republic",
+            "type": "text",
+            "version": 1
+          },
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": ". (I’ve ",
+            "type": "text",
+            "version": 1
+          },
+          {
+            "children": [
+              {
+                "detail": 0,
+                "format": 0,
+                "mode": "normal",
+                "style": "",
+                "text": "written",
+                "type": "text",
+                "version": 1
+              }
+            ],
+            "direction": "ltr",
+            "format": "",
+            "indent": 0,
+            "type": "link",
+            "rel": null,
+            "target": null,
+            "title": null,
+            "url": "https://bookshop.org/books/overheated-how-capitalism-broke-the-planet-and-how-we-fight-back/9781568589473",
+            "version": 1
+          },
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": ", ",
+            "type": "text",
+            "version": 1
+          },
+          {
+            "children": [
+              {
+                "detail": 0,
+                "format": 0,
+                "mode": "normal",
+                "style": "",
+                "text": "co-written",
+                "type": "text",
+                "version": 1
+              }
+            ],
+            "direction": "ltr",
+            "format": "",
+            "indent": 0,
+            "type": "link",
+            "rel": null,
+            "target": null,
+            "title": null,
+            "url": "https://www.versobooks.com/books/3107-a-planet-to-win",
+            "version": 1
+          },
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": " and ",
+            "type": "text",
+            "version": 1
+          },
+          {
+            "children": [
+              {
+                "detail": 0,
+                "format": 0,
+                "mode": "normal",
+                "style": "",
+                "text": "co-edited",
+                "type": "text",
+                "version": 1
+              }
+            ],
+            "direction": "ltr",
+            "format": "",
+            "indent": 0,
+            "type": "link",
+            "rel": null,
+            "target": null,
+            "title": null,
+            "url": "https://bookshop.org/books/we-own-the-future-democratic-socialism-american-style/9781620975213?aid=1215&listref=we-own-the-future-democratic-socialism-american-style",
+            "version": 1
+          },
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": " some books about this, too.) But it’s also because the ",
+            "type": "text",
+            "version": 1
+          },
+          {
+            "children": [
+              {
+                "detail": 0,
+                "format": 0,
+                "mode": "normal",
+                "style": "",
+                "text": "seven-odd years I’ve spent on the climate beat",
+                "type": "text",
+                "version": 1
+              }
+            ],
+            "direction": "ltr",
+            "format": "",
+            "indent": 0,
+            "type": "link",
+            "rel": null,
+            "target": null,
+            "title": null,
+            "url": "https://newrepublic.com/authors/kate-aronoff",
+            "version": 1
+          },
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": " has transformed me, on occasion, into a one-woman confessional-slash-help line for the anxious and well-intentioned.",
+            "type": "text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "paragraph",
+        "version": 1
+      },
+      {
+        "children": [
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": "It usually goes something like this: When prompted early on into some small talk, I’ll mention that I write about the climate crisis for a living. The other person will mention some loosely green change they have made or are attempting to make in their personal life, like composting or eating less red meat. “I recycle,” a distant relative informed me in the drinks line at a family wedding. People I barely know have asked me — a childless spinster who’s killed several succulents — whether or not they should have kids.",
+            "type": "text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "paragraph",
+        "version": 1
+      },
+      {
+        "children": [
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": "This is all to say that the world sucks, people know it and, in many cases, would like to feel like they are playing a positive role in making it better. The climate crisis is an awe-inspiring problem — a “hyperobject” too massive to comprehend on its own, epoch-defining terms. For good reason, ",
+            "type": "text",
+            "version": 1
+          },
+          {
+            "children": [
+              {
+                "detail": 0,
+                "format": 0,
+                "mode": "normal",
+                "style": "",
+                "text": "60 percent",
+                "type": "text",
+                "version": 1
+              }
+            ],
+            "direction": "ltr",
+            "format": "",
+            "indent": 0,
+            "type": "link",
+            "rel": null,
+            "target": null,
+            "title": null,
+            "url": "https://theconversation.com/pews-new-global-survey-of-climate-change-attitudes-finds-promising-trends-but-deep-divides-167847",
+            "version": 1
+          },
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": " of people in the U.S. are “somewhat” or “very” worried about it.",
+            "type": "text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "paragraph",
+        "version": 1
+      },
+      {
+        "children": [
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": "There’s an old lefty aphorism that if you’re not angry, you’re not paying attention. My gingerly edit would be: If you’re not deeply troubled, apoplectic, or depressed about a world rapidly losing its capacity to maintain life, then you’re either not aware it’s happening, a billionaire, and/or have become alienated — by no fault of your own —from what it means to be a human being.",
+            "type": "text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "paragraph",
+        "version": 1
+      },
+      {
+        "children": [
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": "So it’s understandable that people want to feel like they’re part of the solution. Neoliberalism has posited individuals as the basic unit of societal change. Capitalist realism, as the late Mark Fisher put it in his oft-bastardized ",
+            "type": "text",
+            "version": 1
+          },
+          {
+            "children": [
+              {
+                "detail": 0,
+                "format": 0,
+                "mode": "normal",
+                "style": "",
+                "text": "short book",
+                "type": "text",
+                "version": 1
+              }
+            ],
+            "direction": "ltr",
+            "format": "",
+            "indent": 0,
+            "type": "link",
+            "rel": null,
+            "target": null,
+            "title": null,
+            "url": "https://bookshop.org/books/capitalist-realism-is-there-no-alternative/9781846943171?gclid=CjwKCAjwo8-SBhAlEiwAopc9W1u11iWRevvg8FJKpsx4UaZ7Q1PjGU_le-UO7PA5pi2vkBM1wQJAChoCKr0QAvD_BwE",
+            "version": 1
+          },
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": ", posits that it’s naive to believe that any meaningful change is possible. And as subjects of capitalism in the 21st century, we’re conditioned to believe that our dollars are our strongest weapon to fight back against whatever ails us.",
+            "type": "text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "paragraph",
+        "version": 1
+      },
+      {
+        "children": [
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": "I came to the climate movement in an era when mainstream environmentalism was fixated on biking to work and changing light bulbs. Occupy Wall Street and the fight against the Keystone XL pipeline took off shortly afterward, injecting a broader swath of the climate movement with an anti-corporate spirit that put the target rightfully on the people and institutions shaping flows of carbon and capital. Bernie Sanders’ 2016 presidential run raised the possibility that elected officials could further the same goals. We’re all creatures of circumstance and the historical junctures in which we happen to land.",
+            "type": "text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "paragraph",
+        "version": 1
+      },
+      {
+        "children": [
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": "My basic view of the world, accordingly, is that capitalism structures our decision-making at every turn and that macro-level societal change to eliminate poverty, smash white supremacy, and keep emissions below 1.5 degrees celsius will require massive social movements to pressure, capture and democratize the state. Unless you’re a billionaire, your individual personal consumption choices will not make or break the health of the planet.",
+            "type": "text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "paragraph",
+        "version": 1
+      },
+      {
+        "children": [
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": "So, once again, why write an advice column? I can’t claim to offer any great wealth of life experience so much as empathy, solidarity, and an abiding interest in what it takes to live a good life under capitalism — hopefully on the way to something better. At our best, journalists are professional dilettantes. Some things I’ll be able to speak to from personal experience. In lots of cases I can’t, and in the service of answering your questions will call up people who can.",
+            "type": "text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "paragraph",
+        "version": 1
+      },
+      {
+        "children": [
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": "Think of Left Wondering as less “Dear Abby” than a slightly obsessive acquaintance with enough basic research skills, brilliant sources, wisened friends, and lack of stake in your life to offer up answers that are — at the very least — honest and nuanced. I’ll read bone-dry 40-page PDFs, consult experts of all pedigrees and do a bit of soul-searching to get to the bottom of your most burning questions: Is it irresponsible to bring children up in a world racked by the climate crisis? How can I politely tell the smelliest member of my polycule that a bi-weekly shower won’t destroy the planet? Is there really ",
+            "type": "text",
+            "version": 1
+          },
+          {
+            "detail": 0,
+            "format": 2,
+            "mode": "normal",
+            "style": "",
+            "text": "no ",
+            "type": "text",
+            "version": 1
+          },
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": "ethical consumption under capitalism?",
+            "type": "text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "paragraph",
+        "version": 1
+      },
+      {
+        "children": [
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": "Left Wondering is a place to raise your big existential questions, petty beefs, lifestyle questions, and everything in between. Ask me anything and I will do my best to find you an answer. Creative pseudonyms are encouraged.",
+            "type": "text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "paragraph",
+        "version": 1
+      },
+      {
+        "children": [
+          {
+            "detail": 0,
+            "format": 3,
+            "mode": "normal",
+            "style": "",
+            "text": "Have a question you’d like me to answer? Send it to ",
+            "type": "text",
+            "version": 1
+          },
+          {
+            "children": [
+              {
+                "detail": 0,
+                "format": 3,
+                "mode": "normal",
+                "style": "",
+                "text": "LeftWondering@levernews.com",
+                "type": "text",
+                "version": 1
+              }
+            ],
+            "direction": "ltr",
+            "format": "",
+            "indent": 0,
+            "type": "link",
+            "rel": null,
+            "target": null,
+            "title": null,
+            "url": "mailto:LeftWondering@levernews.com",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "paragraph",
+        "version": 1
+      },
+      {
+        "type": "email-cta",
+        "showButton": true,
+        "showDividers": false,
+        "segment": "status:-free",
+        "alignment": "center",
+        "html": "",
+        "buttonText": "Click Here To Comment",
+        "buttonUrl": "__GHOST_URL__/introducing-left-wondering/#comments"
+      },
+      {
+        "type": "horizontalrule"
+      },
+      {
+        "children": [
+          {
+            "detail": 0,
+            "format": 3,
+            "mode": "normal",
+            "style": "",
+            "text": "Our news organization relies on readers pitching in to support our journalism. ",
+            "type": "text",
+            "version": 1
+          },
+          {
+            "detail": 0,
+            "format": 3,
+            "mode": "normal",
+            "style": "",
+            "text": "If you like this story, please support ",
+            "type": "text",
+            "version": 1
+          },
+          {
+            "detail": 0,
+            "format": 3,
+            "mode": "normal",
+            "style": "",
+            "text": "our",
+            "type": "text",
+            "version": 1
+          },
+          {
+            "detail": 0,
+            "format": 3,
+            "mode": "normal",
+            "style": "",
+            "text": " work.",
+            "type": "text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "paragraph",
+        "version": 1
+      },
+      {
+        "type": "email-cta",
+        "showButton": true,
+        "showDividers": false,
+        "segment": "status:-free",
+        "alignment": "center",
+        "html": "",
+        "buttonText": "Tip Jar",
+        "buttonUrl": "https://dailyposter.outpost.pub/ghost-integration/60818189ad12f332071054b8/tips"
+      },
+      {
+        "type": "email-cta",
+        "showButton": true,
+        "showDividers": false,
+        "segment": "status:free",
+        "alignment": "center",
+        "html": "",
+        "buttonText": "Upgrade",
+        "buttonUrl": "https://levernews.com/membership"
+      },
+      {
+        "type": "email",
+        "html": "<p><em><strong>Help us spread the word! </strong>Please forward this email to family and friends.</em></p><p><em><strong>Was this email forwarded to you? </strong><a href=\"https://levernews.com/membership/\">Sign up for free</a> to receive original reporting like this in your inbox every day.</em></p>"
+      }
+    ],
+    "direction": "ltr",
+    "format": "",
+    "indent": 0,
+    "type": "root",
+    "version": 1
+  }
+}

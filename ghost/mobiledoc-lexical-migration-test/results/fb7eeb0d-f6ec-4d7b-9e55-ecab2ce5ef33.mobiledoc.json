@@ -1,0 +1,430 @@
+{
+  "version": "0.3.1",
+  "atoms": [],
+  "cards": [
+    [
+      "hr",
+      {}
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "html",
+      {
+        "html": "<table id=\"production-numbers-table\">\n<tbody>\n\t<tr>\n\t\t<td>SS</td>\n\t\t<td>12,309</td>\n\t</tr>\n    <tr>\n\t\t<td>2-Dr. Sedan</td>\n\t\t<td>260,215</td>\n\t</tr>\n    <tr>\n\t\t<td>4-Dr. Sedan</td>\n\t\t<td>89,518</td>\n\t</tr>\n\t\t<td><b>Total Production</b></td>\n\t\t<td><b>362,042</b></td>\n\t</tr>\n</tbody>\n</table>"
+      }
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "html",
+      {
+        "html": "<table id=\"performance-specs-table\">\n<tbody>\n\t<tr>\n\t\t<th><b>Engine</b></th>\n\t\t<th><b>Size</b></td>\n\t\t<th><b>Carb.</b></td>\n\t\t<th><b>HP</b></td>\n\t\t<th><b>Torque</b></td>\n\t\t<th><b>0 to 60</b></td>\n\t\t<th><b>Quarter mile</b></td>\n\t</tr>\n\t<tr>\n\t\t<td>Turbo-Fire 307</td>\n\t\t<td>307ci</td>\n\t\t<td>1x2bbl</td>\n\t\t<td>130hp</td>\n\t\t<td>-</td>\n\t\t<td>-</td>\n\t\t<td>-</td>\n\t</tr>\n    <tr>\n\t\t<td>Turbo-Fire 250</td>\n\t\t<td>250ci</td>\n\t\t<td>1x1bbl</td>\n\t\t<td>110hp</td>\n\t\t<td>-</td>\n\t\t<td>-</td>\n\t\t<td>-</td>\n\t</tr>\n    <tr>\n\t\t<td>Turbo-Fire 350</td>\n\t\t<td>350ci</td>\n\t\t<td>1x2bbl/1x4bbl</td>\n\t\t<td>165/200hp</td>\n\t\t<td>-</td>\n\t\t<td>-</td>\n\t\t<td>15.47 sec @ 88.93 mph</td>\n\t</tr>\n</tbody>\n</table>"
+      }
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "html",
+      {
+        "html": "<h4 id='colors-sub-heading'>Exterior</h4>\n<div class=\"colors-row\">\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #000000\"></div>\n        <div class=\"color-name\">Tuxedo Black</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #eeeeee\"></div>\n        <div class=\"color-name\">Antique White</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #7a8c93\"></div>\n        <div class=\"color-name\">Pewter Silver</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #3a8db4\"></div>\n        <div class=\"color-name\">Ascot Blue</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #006da3\"></div>\n        <div class=\"color-name\">Mulsanne Blue</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #00893b\"></div>\n        <div class=\"color-name\">Spring Green</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #70a15c\"></div>\n        <div class=\"color-name\">Gulf Green</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #014001\"></div>\n        <div class=\"color-name\">Sequoia Green</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #a3a068\"></div>\n        <div class=\"color-name\">Covert Tan</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #b6a101\"></div>\n        <div class=\"color-name\">Placer Gold</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #e9df74\"></div>\n        <div class=\"color-name\">Cream Yellow</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #503606\"></div>\n        <div class=\"color-name\">Golden Brown</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #8e5a12\"></div>\n        <div class=\"color-name\">Mohave Gold</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #ad2d02\"></div>\n        <div class=\"color-name\">Orange Flame</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #0f0000\"></div>\n        <div class=\"color-name\">Midnight Bronze</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #9b0c02\"></div>\n        <div class=\"color-name\">Cranberry Red</div>\n    </div>\n</div>\n\n<h4 id='colors-sub-heading'>Interior</h4>\n<div class=\"colors-row\">\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #000000\"></div>\n        <div class=\"color-name\">Black</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #193942\"></div>\n        <div class=\"color-name\">Dark Blue</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #3d756c\"></div>\n        <div class=\"color-name\">Dark Green</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #a3a068\"></div>\n        <div class=\"color-name\">Light Covert</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #865935\"></div>\n        <div class=\"color-name\">Medium Tan</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #eeeeee\"></div>\n        <div class=\"color-name\">White</div>\n    </div>\n</div>\n"
+      }
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "gallery",
+      {
+        "images": [
+          {
+            "fileName": "1594_1972nova_01_low_res.jpg",
+            "row": 0,
+            "width": 777,
+            "height": 1000,
+            "src": "__GHOST_URL__/content/images/2020/07/1594_1972nova_01_low_res.jpg"
+          },
+          {
+            "fileName": "1595_1972nova_02_low_res.jpg",
+            "row": 0,
+            "width": 790,
+            "height": 508,
+            "src": "__GHOST_URL__/content/images/2020/07/1595_1972nova_02_low_res.jpg"
+          },
+          {
+            "fileName": "1596_1972nova_03_low_res.jpg",
+            "row": 0,
+            "width": 790,
+            "height": 508,
+            "src": "__GHOST_URL__/content/images/2020/07/1596_1972nova_03_low_res.jpg"
+          },
+          {
+            "fileName": "1597_1972nova_04_low_res.jpg",
+            "row": 1,
+            "width": 775,
+            "height": 1000,
+            "src": "__GHOST_URL__/content/images/2020/07/1597_1972nova_04_low_res.jpg"
+          },
+          {
+            "fileName": "1598_1972nova_05_low_res.jpg",
+            "row": 1,
+            "width": 776,
+            "height": 1000,
+            "src": "__GHOST_URL__/content/images/2020/07/1598_1972nova_05_low_res.jpg"
+          },
+          {
+            "fileName": "1599_1972nova_06_low_res.jpg",
+            "row": 1,
+            "width": 774,
+            "height": 1000,
+            "src": "__GHOST_URL__/content/images/2020/07/1599_1972nova_06_low_res.jpg"
+          },
+          {
+            "fileName": "1600_1972nova_07_low_res.jpg",
+            "row": 2,
+            "width": 775,
+            "height": 1000,
+            "src": "__GHOST_URL__/content/images/2020/07/1600_1972nova_07_low_res.jpg"
+          },
+          {
+            "fileName": "1601_1972nova_08_low_res.jpg",
+            "row": 2,
+            "width": 774,
+            "height": 1000,
+            "src": "__GHOST_URL__/content/images/2020/07/1601_1972nova_08_low_res.jpg"
+          },
+          {
+            "fileName": "1602_1972nova_09_low_res.jpg",
+            "row": 2,
+            "width": 790,
+            "height": 1012,
+            "src": "__GHOST_URL__/content/images/2020/07/1602_1972nova_09_low_res.jpg"
+          }
+        ]
+      }
+    ],
+    [
+      "gallery",
+      {
+        "images": [
+          {
+            "fileName": "1603_1972nova_10_low_res.jpg",
+            "row": 0,
+            "width": 782,
+            "height": 1000,
+            "src": "__GHOST_URL__/content/images/2020/07/1603_1972nova_10_low_res.jpg"
+          }
+        ],
+        "caption": "1972 Chevrolet Nova OEM Brochures"
+      }
+    ],
+    [
+      "hr",
+      {}
+    ]
+  ],
+  "markups": [
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/tag/research/"
+      ]
+    ]
+  ],
+  "sections": [
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Overview"
+        ]
+      ]
+    ],
+    [
+      10,
+      0
+    ],
+    [
+      1,
+      "h3",
+      [
+        [
+          0,
+          [],
+          0,
+          "The 1972 Nova received only minor trim changes. The Rally option with special suspension returned and was a rather popular choice with 33,319 sold."
+        ]
+      ]
+    ],
+    [
+      10,
+      1
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "The 1972 Nova received only minor trim changes. The Rally option with special suspension returned and was a rather popular choice with 33,319 sold."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Super Sport equipment went on 12,309 coupes, some of which also had the Rally package."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Mid-year a sunroof option became available on two-door models, and production moved to Norwood, OH to be produced alongside the Camaro."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "The Torque Drive transmission was dropped from the list of options, and all horsepower ratings were now written as SAE net."
+        ]
+      ]
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Production Numbers"
+        ]
+      ]
+    ],
+    [
+      10,
+      2
+    ],
+    [
+      10,
+      3
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Performance Specs"
+        ]
+      ]
+    ],
+    [
+      10,
+      4
+    ],
+    [
+      10,
+      5
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Transmission"
+        ]
+      ]
+    ],
+    [
+      10,
+      6
+    ],
+    [
+      3,
+      "ul",
+      [
+        [
+          [
+            0,
+            [],
+            0,
+            "Powerglide"
+          ]
+        ],
+        [
+          [
+            0,
+            [],
+            0,
+            "4-Speed Manual (fully synch)"
+          ]
+        ],
+        [
+          [
+            0,
+            [],
+            0,
+            "3-Speed Manual (fully synch)"
+          ]
+        ],
+        [
+          [
+            0,
+            [],
+            0,
+            "Turbo Hydra-Matic"
+          ]
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      []
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Paint & Colors"
+        ]
+      ]
+    ],
+    [
+      10,
+      7
+    ],
+    [
+      10,
+      8
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "OEM Brochures"
+        ]
+      ]
+    ],
+    [
+      10,
+      9
+    ],
+    [
+      10,
+      10
+    ],
+    [
+      10,
+      11
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "About the Knowledge Base"
+        ]
+      ]
+    ],
+    [
+      10,
+      12
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "The Motorious Knowledge Base provides a comprehensive vehicle overview for the 1972 Chevrolet Nova including production numbers, performance specs, factory colors, and OEM brochures. Check out additional model years or related content linked to this article or view other Makes and Models in our "
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "Research"
+        ],
+        [
+          0,
+          [],
+          0,
+          " center."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "If you have any interesting facts about the 1972 Chevrolet Nova to add, want to tell us how we did covering the Nova, or want to tell us about yours, please leave a comment below."
+        ]
+      ]
+    ]
+  ],
+  "ghostVersion": "3.0"
+}

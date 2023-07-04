@@ -1,0 +1,360 @@
+{
+  "version": "0.3.1",
+  "atoms": [],
+  "cards": [
+    [
+      "hr",
+      {}
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "html",
+      {
+        "html": "<table id=\"production-numbers-table\">\n  <tbody>\n      <tr><td>2-Dr Hardtop</td><td>90,152</td></tr>\n      <tr><td>2-Dr Convertible</td><td>11,657</td></tr>\n      <tr><td>2-Dr Coupe Trans Am</td><td>689</td></tr>\n      <tr><td>2-Dr Convertible Trans Am</td><td>8</td></tr>\n      </tr><td><b>Total Production</b></td><td><b>88,405</b></td></tr>     </tbody>\n</table>"
+      }
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "html",
+      {
+        "html": "<table id=\"performance-specs-table\">\n<tbody>\n\t<tr>\n\t\t<th><b>Engine</b></th>\n\t\t<th><b>Size</b></td>\n\t\t<th><b>Carb.</b></td>\n\t\t<th><b>HP</b></td>\n\t\t<th><b>Torque</b></td>\n\t\t<th><b>0 to 60</b></td>\n\t\t<th><b>Quarter mile</b></td>\n\t</tr>\n\t<tr>\n\t\t<td>I6-Firebird</td>\n\t\t<td>250ci</td>\n\t\t<td>1x1bbl</td>\n\t\t<td>175 hp</td>\n\t\t<td>240 lb-ft</td>\n\t\t<td>-</td>\n        <td>-</td>\n\t</tr>\n\t<tr>\n\t\t<td>I6-Firebird Sprint</td>\n\t\t<td>250ci</td>\n\t\t<td>1x4bbl</td>\n\t\t<td>215 hp</td>\n\t\t<td>255 lb-ft</td>\n\t\t<td>-</td>\n        <td>-</td>\n\t</tr>\n<tr>\n\t\t<td>Firebird 350</td>\n\t\t<td>350ci</td>\n\t\t<td>1x2bbl</td>\n\t\t<td>265 hp</td>\n\t\t<td>355 lb-ft</td>\n\t\t<td>-</td>\n    \t<td>-</td>\n\t</tr>\n<tr>\n\t\t<td>Firebird HO</td>\n\t\t<td>350ci</td>\n\t\t<td>1x4bbl</td>\n\t\t<td>325 hp</td>\n\t\t<td>380 lb-ft</td>\n\t\t<td>-</td>\n    \t<td>-</td>\n\t</tr>\n<tr>\n\t\t<td>Firebird 400</td>\n\t\t<td>400ci</td>\n\t\t<td>1x4bbl</td>\n\t\t<td>330 hp</td>\n\t\t<td>430 lb-ft</td>\n\t\t<td>-</td>\n    \t<td>-</td>\n\t</tr>\n<tr>\n\t\t<td>Firebird 400</td>\n\t\t<td>400ci</td>\n\t\t<td>1x4bbl</td>\n\t\t<td>335 hp</td>\n\t\t<td>430 lb-ft</td>\n\t\t<td>-</td>\n    \t<td>-</td>\n\t</tr>\n<tr>\n\t\t<td>Firebird 400</td>\n\t\t<td>400ci</td>\n\t\t<td>1x4bbl</td>\n\t\t<td>345 hp</td>\n\t\t<td>430 lb-ft</td>\n\t\t<td>5.6 sec</td>\n    \t<td>14.1 sec @ 100.8 mph</td>\n\t</tr>\n<tr>\n</tbody>\n</table>"
+      }
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "html",
+      {
+        "html": "<h4 id='colors-sub-heading'>Exterior</h4>\n<div class=\"colors-row\">   \n    <div class=\"color-pair \">       \n        <div class=\"color-chip\" style=\"background: #000000\"></div>       \t\t<div class=\"color-name\">Starlight Black</div>   \n\t</div>\n    <div class=\"color-pair \">       \n        <div class=\"color-chip\" style=\"background: #ece4d3\"></div>       \t\t<div class=\"color-name\">Cameo Ivory</div>   \n\t</div>\n    <div class=\"color-pair \">       \n        <div class=\"color-chip\" style=\"background: #7a2220\"></div>       \t\t<div class=\"color-name\">Matador Red</div>   \n\t</div>\n    <div class=\"color-pair \">       \n        <div class=\"color-chip\" style=\"background: #3a6e7b\"></div>       \t\t<div class=\"color-name\">Crystal Turquoise</div>   \n\t</div>\n    <div class=\"color-pair \">       \n        <div class=\"color-chip\" style=\"background: #828b6c\"></div>       \t\t<div class=\"color-name\">Limelight Green</div>   \n\t</div>\n    <div class=\"color-pair \">       \n        <div class=\"color-chip\" style=\"background: #a79675\"></div>       \t\t<div class=\"color-name\">Champagne</div>   \n\t</div>\n    <div class=\"color-pair \">       \n        <div class=\"color-chip\" style=\"background: #391d1c\"></div>       \t\t<div class=\"color-name\">Burgundy</div>   \n\t</div>\n    <div class=\"color-pair \">       \n        <div class=\"color-chip\" style=\"background: #c73e22\"></div>       \t\t<div class=\"color-name\">Carousel Red</div>   \n\t</div>\n    <div class=\"color-pair \">       \n        <div class=\"color-chip\" style=\"background: #fdf142\"></div>       \t\t<div class=\"color-name\">Goldenrod Yellow</div>   \n\t</div>\n    <div class=\"color-pair \">       \n        <div class=\"color-chip\" style=\"background: #fdeda5\"></div>       \t\t<div class=\"color-name\">Mayfair Maze</div>   \n\t</div>\n    <div class=\"color-pair \">       \n        <div class=\"color-chip\" style=\"background: #212a42\"></div>       \t\t<div class=\"color-name\">Liberty Blue</div>   \n\t</div>\n    <div class=\"color-pair \">       \n        <div class=\"color-chip\" style=\"background: #526685\"></div>       \t\t<div class=\"color-name\">Warwick Blue</div>    \n\t</div>\n    <div class=\"color-pair \">       \n        <div class=\"color-chip\" style=\"background: #222a1d\"></div>       \t\t<div class=\"color-name\">Midnight Green</div>    \n\t</div>\n    <div class=\"color-pair \">       \n        <div class=\"color-chip\" style=\"background: #2f2e29\"></div>       \t\t<div class=\"color-name\">Expresso Brown</div>    \n\t</div>\n    <div class=\"color-pair \">       \n        <div class=\"color-chip\" style=\"background: #8e7d55\"></div>       \t\t<div class=\"color-name\">Antique Gold</div>    \n\t</div>\n    <div class=\"color-pair \">       \n        <div class=\"color-chip\" style=\"background: #747b80\"></div>       \t\t<div class=\"color-name\">Palladium Silver</div>    \n\t</div>\n    <div class=\"color-pair \">       \n        <div class=\"color-chip\" style=\"background: #4e523b\"></div>       \t\t<div class=\"color-name\">Verdoro Green</div>    \n\t</div>\n    <div class=\"color-pair \">       \n        <div class=\"color-chip\" style=\"background: #293b58\"></div>       \t\t<div class=\"color-name\">Windward Blue</div>    \n\t</div>\n<h4 id='colors-sub-heading'>Interior</h4>\n<div class=\"colors-row\">\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #5081a2\"></div>\n        <div class=\"color-name\">Blue</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #717a5f\"></div>\n        <div class=\"color-name\">Green</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #000000\"></div>\n        <div class=\"color-name\">Black</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #be8c41\"></div>\n        <div class=\"color-name\">Gold</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #d0c3b0\"></div>\n        <div class=\"color-name\">Parchment</div>\n    </div>\n</div>"
+      }
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "gallery",
+      {
+        "images": [
+          {
+            "fileName": "674_12_low_res4.jpeg",
+            "row": 0,
+            "width": 790,
+            "height": 420,
+            "src": "__GHOST_URL__/content/images/2020/06/674_12_low_res4.jpeg"
+          },
+          {
+            "fileName": "675_13_low_res1.jpeg",
+            "row": 0,
+            "width": 790,
+            "height": 403,
+            "src": "__GHOST_URL__/content/images/2020/06/675_13_low_res1.jpeg"
+          },
+          {
+            "fileName": "676_14_low_res2.jpeg",
+            "row": 0,
+            "width": 790,
+            "height": 420,
+            "src": "__GHOST_URL__/content/images/2020/06/676_14_low_res2.jpeg"
+          },
+          {
+            "fileName": "677_69pont_low_res3.jpeg",
+            "row": 1,
+            "width": 444,
+            "height": 595,
+            "src": "__GHOST_URL__/content/images/2020/06/677_69pont_low_res3.jpeg"
+          }
+        ],
+        "caption": "1969 Pontiac firebird OEM Brochures"
+      }
+    ],
+    [
+      "hr",
+      {}
+    ]
+  ],
+  "markups": [
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/tag/research/"
+      ]
+    ]
+  ],
+  "sections": [
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Overview"
+        ]
+      ]
+    ],
+    [
+      10,
+      0
+    ],
+    [
+      1,
+      "h3",
+      [
+        [
+          0,
+          [],
+          0,
+          "Many changes were made to the ’69 Firebird over the last year, even though GM was planning a full restyle in 1970 for the Camaro and Firebird."
+        ]
+      ]
+    ],
+    [
+      10,
+      1
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "The risk paid off however, because both cars were still selling relatively well."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "The most notable change was the front of the car where the headlights were now separated from the grill, and the use of a new bumper. The broader fenders and wider look gave the car a more muscular look."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "The biggest news was the introduction of the performance and appearance package; the Trans Am. They weren’t more powerful than the standard Firebirds, but they did have beefed up suspension and tires enabling a better handling car than the Firebirds. The car featured a special hood scoop, deck spoiler, and fender vents."
+        ]
+      ]
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Production Numbers"
+        ]
+      ]
+    ],
+    [
+      10,
+      2
+    ],
+    [
+      10,
+      3
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Performance Specs"
+        ]
+      ]
+    ],
+    [
+      10,
+      4
+    ],
+    [
+      10,
+      5
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Transmission"
+        ]
+      ]
+    ],
+    [
+      10,
+      6
+    ],
+    [
+      3,
+      "ul",
+      [
+        [
+          [
+            0,
+            [],
+            0,
+            "3-Speed Manual"
+          ]
+        ],
+        [
+          [
+            0,
+            [],
+            0,
+            "4-Speed Manual"
+          ]
+        ],
+        [
+          [
+            0,
+            [],
+            0,
+            "2-Speed Auto (not 400 model)"
+          ]
+        ],
+        [
+          [
+            0,
+            [],
+            0,
+            "3-Speed Turbo Hydra-Matic"
+          ]
+        ]
+      ]
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Paint & Colors"
+        ]
+      ]
+    ],
+    [
+      10,
+      7
+    ],
+    [
+      10,
+      8
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "OEM Brochures"
+        ]
+      ]
+    ],
+    [
+      10,
+      9
+    ],
+    [
+      10,
+      10
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "About the Knowledge Base"
+        ]
+      ]
+    ],
+    [
+      10,
+      11
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "The Motorious Knowledge Base provides a comprehensive vehicle overview for the 1969 Pontiac Firebird including production numbers, performance specs, factory colors, and OEM brochures. Check out additional model years or related content linked to this article or view other Makes and Models in our "
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "Research"
+        ],
+        [
+          0,
+          [],
+          0,
+          " center."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "If you have any interesting facts about the 1969 Pontiac Firebird to add, want to tell us how we did covering the Firebird, or want to tell us about yours, please leave a comment below."
+        ]
+      ]
+    ]
+  ],
+  "ghostVersion": "3.0"
+}

@@ -1,0 +1,525 @@
+{
+  "version": "0.3.1",
+  "atoms": [],
+  "cards": [
+    [
+      "hr",
+      {}
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "html",
+      {
+        "html": "<table id=\"production-numbers-table\">\n<tbody>\n\t<tr>\n\t\t<td>2-DR Hardtop Sedan</td>\n\t\t<td>18,079</td>\n\t</tr>\n    \t<tr>\n\t\t<td>2-DR Convertible</td>\n\t\t<td>7,080</td>\n\t</tr>\n    \t<tr>\n\t\t<td>4-DR Sedan</td>\n\t\t<td>21,292</td>\n\t</tr>\n    \t<tr>\n\t\t<td>4-DR Hardtop Sedan</td>\n\t\t<td>9,036</td>\n\t</tr>\n    \t<tr>\n\t\t<td>4-DR Station Wagon - 6P</td>\n\t\t<td>3,333</td>\n\t</tr>\n    \t<tr>\n\t\t<td>4-DR Station Wagon - 9P</td>\n\t\t<td>4,253</td>\n\t</tr>\n\t\t<td><b>Total Production</b></td>\n\t\t<td><b>63,073</b></td>\n\t</tr>\n</tbody>\n</table>"
+      }
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "html",
+      {
+        "html": "<table id=\"performance-specs-table\">\n<tbody>\n\t<tr>\n\t\t<th><b>Engine</b></th>\n\t\t<th><b>Size</b></td>\n\t\t<th><b>Carb.</b></td>\n\t\t<th><b>HP</b></td>\n\t\t<th><b>Torque</b></td>\n\t\t<th><b>0 to 60</b></td>\n\t</tr>\n\t<tr>\n\t\t<td>V800</td>\n\t\t<td>318ci</td>\n\t\t<td>1x2bbl</td>\n\t\t<td>230 at 4400</td>\n\t\t<td>340 lb-ft at 2400</td>\n\t\t<td>11.2 sec</td>\n\t</tr>\n\t<tr>\n\t\t<td>V800 Super Pak</td>\n\t\t<td>318ci</td>\n\t\t<td>1x4bbl</td>\n\t\t<td>260 at 4400</td>\n\t\t<td>345 lb-ft at 2800</td>\n\t\t<td>10.5 sec</td>\n\t</tr>\n\t<tr>\n\t\t<td>Golden Commando 395</td>\n\t\t<td>361ci</td>\n\t\t<td>2x4bbl</td>\n\t\t<td>305 at 4600</td>\n\t\t<td>395 lb-ft at 3000</td>\n\t\t<td>8 sec</td>\n\t</tr>\n\t<tr>\n\t\t<td>30-D Economy Six</td>\n\t\t<td>225ci</td>\n\t\t<td>-</td>\n\t\t<td>145 at 4000</td>\n\t\t<td>-</td>\n\t\t<td>17 sec</td>\n\t</tr>\n\t<tr>\n\t\t<td>SonoRamic Commando</td>\n\t\t<td>383ci</td>\n\t\t<td>-</td>\n\t\t<td>330</td>\n\t\t<td>460 lb-ft</td>\n\t\t<td>7.5 sec</td>\n\t</tr>\n</tbody>\n</table>"
+      }
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "html",
+      {
+        "html": "<h4 id='colors-sub-heading'>Exterior</h4>\n<div class=\"colors-row\">\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #000000\"></div>\n        <div class=\"color-name\">Jet Black</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #ecdc9c\"></div>\n        <div class=\"color-name\">Buttercup Yellow</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #93c1cd\"></div>\n        <div class=\"color-name\">Sky Blue</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #6a93a6\"></div>\n        <div class=\"color-name\">Twilight Blue</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #9bcdba\"></div>\n        <div class=\"color-name\">Spring Green</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #587869\"></div>\n        <div class=\"color-name\">Chrome Green</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #b6dfda\"></div>\n        <div class=\"color-name\">Aqua Mist</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #587f81\"></div>\n        <div class=\"color-name\">Turquoise</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #a0a6ac\"></div>\n        <div class=\"color-name\">Platinum</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #7d1d23\"></div>\n        <div class=\"color-name\">Plum Red</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #d3ccb8\"></div>\n        <div class=\"color-name\">Desert Beige</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #fcfdf5\"></div>\n        <div class=\"color-name\">Oyster White</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #8f7762\"></div>\n        <div class=\"color-name\">Caramel</div>\n    </div>\n</div>\n\n<h4 id='colors-sub-heading'>Interior</h4>\n<div class=\"colors-row\">\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #57728d\"></div>\n        <div class=\"color-name\">Blue</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #41888d\"></div>\n        <div class=\"color-name\">Green</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #df2f3b\"></div>\n        <div class=\"color-name\">Red</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #8f7762\"></div>\n        <div class=\"color-name\">Caramel</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #587f81\"></div>\n        <div class=\"color-name\">Turquoise</div>\n    </div>\n</div>\n"
+      }
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "gallery",
+      {
+        "images": [
+          {
+            "fileName": "2688_1960plymouth_02_low_res.jpg",
+            "row": 0,
+            "width": 790,
+            "height": 367,
+            "src": "__GHOST_URL__/content/images/2020/09/2688_1960plymouth_02_low_res.jpg"
+          },
+          {
+            "fileName": "2689_1960plymouth_03_low_res.jpg",
+            "row": 0,
+            "width": 790,
+            "height": 367,
+            "src": "__GHOST_URL__/content/images/2020/09/2689_1960plymouth_03_low_res.jpg"
+          },
+          {
+            "fileName": "2690_1960plymouth_04_low_res.jpg",
+            "row": 0,
+            "width": 790,
+            "height": 367,
+            "src": "__GHOST_URL__/content/images/2020/09/2690_1960plymouth_04_low_res.jpg"
+          },
+          {
+            "fileName": "2691_1960plymouth_05_low_res.jpg",
+            "row": 1,
+            "width": 790,
+            "height": 367,
+            "src": "__GHOST_URL__/content/images/2020/09/2691_1960plymouth_05_low_res.jpg"
+          },
+          {
+            "fileName": "2692_1960plymouth_06_low_res.jpg",
+            "row": 1,
+            "width": 790,
+            "height": 369,
+            "src": "__GHOST_URL__/content/images/2020/09/2692_1960plymouth_06_low_res.jpg"
+          },
+          {
+            "fileName": "2693_1960plymouth_07_low_res.jpg",
+            "row": 1,
+            "width": 790,
+            "height": 369,
+            "src": "__GHOST_URL__/content/images/2020/09/2693_1960plymouth_07_low_res.jpg"
+          },
+          {
+            "fileName": "2694_1960plymouth_08_low_res.jpg",
+            "row": 2,
+            "width": 790,
+            "height": 368,
+            "src": "__GHOST_URL__/content/images/2020/09/2694_1960plymouth_08_low_res.jpg"
+          },
+          {
+            "fileName": "2686_60ply_low_res.jpg",
+            "row": 2,
+            "width": 408,
+            "height": 595,
+            "src": "__GHOST_URL__/content/images/2020/09/2686_60ply_low_res.jpg"
+          },
+          {
+            "fileName": "2687_1960plymouth_01_low_res.jpg",
+            "row": 2,
+            "width": 790,
+            "height": 368,
+            "src": "__GHOST_URL__/content/images/2020/09/2687_1960plymouth_01_low_res.jpg"
+          }
+        ],
+        "caption": "1960 Plymouth Fury OEM Brochures"
+      }
+    ],
+    [
+      "gallery",
+      {
+        "images": [
+          {
+            "fileName": "2695_1960plymouth_09_low_res.jpg",
+            "row": 0,
+            "width": 790,
+            "height": 367,
+            "src": "__GHOST_URL__/content/images/2020/09/2695_1960plymouth_09_low_res.jpg"
+          },
+          {
+            "fileName": "2696_1960plymouth_10_low_res.jpg",
+            "row": 0,
+            "width": 790,
+            "height": 371,
+            "src": "__GHOST_URL__/content/images/2020/09/2696_1960plymouth_10_low_res.jpg"
+          },
+          {
+            "fileName": "2697_1960plymouth_20_low_res.jpg",
+            "row": 0,
+            "width": 790,
+            "height": 368,
+            "src": "__GHOST_URL__/content/images/2020/09/2697_1960plymouth_20_low_res.jpg"
+          },
+          {
+            "fileName": "2698_1960plymouth_21_low_res.jpg",
+            "row": 1,
+            "width": 790,
+            "height": 368,
+            "src": "__GHOST_URL__/content/images/2020/09/2698_1960plymouth_21_low_res.jpg"
+          },
+          {
+            "fileName": "2699_1960plymouth_22_low_res.jpg",
+            "row": 1,
+            "width": 790,
+            "height": 369,
+            "src": "__GHOST_URL__/content/images/2020/09/2699_1960plymouth_22_low_res.jpg"
+          },
+          {
+            "fileName": "2700_1960plymouth_23_low_res.jpg",
+            "row": 1,
+            "width": 790,
+            "height": 370,
+            "src": "__GHOST_URL__/content/images/2020/09/2700_1960plymouth_23_low_res.jpg"
+          },
+          {
+            "fileName": "2701_1960plymouth_24_low_res.jpg",
+            "row": 2,
+            "width": 790,
+            "height": 368,
+            "src": "__GHOST_URL__/content/images/2020/09/2701_1960plymouth_24_low_res.jpg"
+          }
+        ],
+        "caption": "1960 Plymouth Fury OEM Brochures"
+      }
+    ],
+    [
+      "hr",
+      {}
+    ]
+  ],
+  "markups": [
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/articles/handpicked/restomod-plymouth-1967-sport-fury/"
+      ]
+    ],
+    [
+      "strong"
+    ],
+    [
+      "em"
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/tag/research/"
+      ]
+    ]
+  ],
+  "sections": [
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Overview"
+        ]
+      ]
+    ],
+    [
+      10,
+      0
+    ],
+    [
+      1,
+      "h3",
+      [
+        [
+          0,
+          [],
+          0,
+          "In 1960, the Fury was no longer a high performance sports sedan, but a whole line of top-series Plymouths. Sport Fury took up the Fury performance banner."
+        ]
+      ]
+    ],
+    [
+      10,
+      1
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "In 1960, the Fury was no longer a high performance sports sedan, but a whole line of top-series Plymouths. Sport Fury took up the Fury performance banner."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "This year, Chrysler introduced an induction system of tuned intake cross-ram manifolds, which increased low end torque for drag racing but reduced high-RPM power (James C. Tessin). More important, it moved to unit-body construction for greater rigidity and better cornering. Engine-wise, the 318 Poly “A” engine (badged “V800”) continued, which saw production thru 1966 (1967 in Canada), and the B-series 361 and 383 (up to 330HP) were available, which, with a slight overbore to 400 CID in 1972, continued basically unchanged thru 1978. Base models received the groundbreaking 225 CID all-new slant six, producing 145 HP at 4000 rpm."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Inside each "
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "Plymouth Fury"
+        ],
+        [
+          0,
+          [],
+          0,
+          " there is embossing on the upholstery with a choice of 5 different colors; blue, green, red, caramel and turquoise. An additional feature includes an RCA automatic record player that fits underneath the instrument panel. It played up to fourteen 45 RPM 7” records consecutively."
+        ]
+      ]
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Production Numbers"
+        ]
+      ]
+    ],
+    [
+      10,
+      2
+    ],
+    [
+      10,
+      3
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Performance Specs"
+        ]
+      ]
+    ],
+    [
+      10,
+      4
+    ],
+    [
+      10,
+      5
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Transmission"
+        ]
+      ]
+    ],
+    [
+      10,
+      6
+    ],
+    [
+      3,
+      "ul",
+      [
+        [
+          [
+            0,
+            [
+              1,
+              1
+            ],
+            2,
+            "3-speed Manual"
+          ]
+        ],
+        [
+          [
+            0,
+            [
+              1,
+              1
+            ],
+            2,
+            "TorqueFlite Auto"
+          ]
+        ],
+        [
+          [
+            0,
+            [
+              1,
+              1
+            ],
+            2,
+            "PowerFlite Auto"
+          ]
+        ],
+        [
+          [
+            0,
+            [
+              1,
+              1
+            ],
+            2,
+            "TorqueFlite-6"
+          ]
+        ]
+      ]
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Paint & Colors"
+        ]
+      ]
+    ],
+    [
+      10,
+      7
+    ],
+    [
+      10,
+      8
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "OEM Brochures"
+        ]
+      ]
+    ],
+    [
+      10,
+      9
+    ],
+    [
+      10,
+      10
+    ],
+    [
+      10,
+      11
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "About the Knowledge Base"
+        ]
+      ]
+    ],
+    [
+      10,
+      12
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "The Motorious Knowledge Base provides a comprehensive vehicle overview for the 1960 Plymouth Fury"
+        ],
+        [
+          0,
+          [
+            2,
+            2
+          ],
+          2,
+          " "
+        ],
+        [
+          0,
+          [],
+          0,
+          "including production numbers, performance specs, factory colors, and OEM brochures. Check out additional model years or related content linked to this article or view other Makes and Models in our "
+        ],
+        [
+          0,
+          [
+            3
+          ],
+          1,
+          "Research"
+        ],
+        [
+          0,
+          [],
+          0,
+          " center."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "If you have any interesting facts about the 1960 Plymouth Fury"
+        ],
+        [
+          0,
+          [
+            2,
+            2
+          ],
+          2,
+          " "
+        ],
+        [
+          0,
+          [],
+          0,
+          "to add, want to tell us how we did covering the Fury, or want to tell us about yours, please leave a comment below."
+        ]
+      ]
+    ]
+  ],
+  "ghostVersion": "3.0"
+}

@@ -1,0 +1,612 @@
+{
+  "version": "0.3.1",
+  "atoms": [],
+  "cards": [
+    [
+      "bookmark",
+      {
+        "type": "bookmark",
+        "url": "https://substack.com",
+        "metadata": {
+          "url": "https://substack.com",
+          "title": "Substack",
+          "description": "Substack makes it simple for a writer to start an email newsletter that makes money from subscriptions.",
+          "author": "Substack",
+          "publisher": "Substack",
+          "thumbnail": "https://substack.com/img/substack.png",
+          "icon": "https://substack.com/icons/substack/apple-touch-icon-1024x1024.png"
+        }
+      }
+    ],
+    [
+      "bookmark",
+      {
+        "url": "https://ghost.org",
+        "metadata": {
+          "url": "https://ghost.org",
+          "title": "Ghost: Turn your audience into a business",
+          "description": "The world’s most popular modern publishing platform for creating a new media platform. Used by Apple, SkyNews, Buffer, OpenAI, and thousands more.",
+          "author": "Albert Henk van Urkalberthenk.com",
+          "publisher": "Ghost",
+          "thumbnail": "https://ghost.org/images/meta/Ghost.png",
+          "icon": "https://ghost.org/icons/icon-512x512.png?v=7b7c010c4f88a275be80db697657cff6"
+        }
+      }
+    ],
+    [
+      "bookmark",
+      {
+        "url": "https://www.getrevue.co",
+        "metadata": {
+          "url": "https://www.getrevue.co",
+          "title": "Revue - An editorial newsletter tool for writers and publishers.",
+          "description": "No algorithms or fighting to be seen in a news feed, just your writing in front of your subscribers, without the guesswork.",
+          "author": null,
+          "publisher": "An editorial newsletter tool for writers and publishers.Combined Shape",
+          "thumbnail": "https://d3jbm9h03wxzi9.cloudfront.net/assets/logo-54de083d6a27559767ca9354c50c44f47b1d52cb0b5d2fbdbd203a9fbf689764.svg",
+          "icon": "https://d3jbm9h03wxzi9.cloudfront.net/assets/favicon-84fc7f228d52c2410eb7aa839e279caeaa491588c7c75229ed33e1c7f69fe75d.ico"
+        }
+      }
+    ],
+    [
+      "hr",
+      {}
+    ]
+  ],
+  "markups": [
+    [
+      "a",
+      [
+        "href",
+        "https://mailchimp.com"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://tinyletter.com"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://blog.substack.com/p/legal-support-for-substack-writers"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://techcrunch.com/2019/07/16/substack-series-a/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://rediverge.com/ghost-2020/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://ghost.org/pricing/"
+      ]
+    ],
+    [
+      "em"
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.getrevue.co/profile/bigrevolution"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.getrevue.co/profile/MediaVoices"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.getrevue.co/pricing"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/newsletters-the-basics/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/newsletters-structure/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/newsletters-titles-and-a-b-testing/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/newsletters-analytics/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/example-newsletters/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/newsletter-resources/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/newsletter-platforms/"
+      ]
+    ]
+  ],
+  "sections": [
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Newsletters have been a core marketing tool for decades. Many platforms exist that allow you to do sophisticated email marketing and segementation using them. You can find guides to those all over the internet. Many have been successfully adopted to editirial newslleter use, like "
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "MailChimp"
+        ],
+        [
+          0,
+          [],
+          0,
+          ", and "
+        ],
+        [
+          0,
+          [
+            1
+          ],
+          1,
+          "Tinyletter"
+        ],
+        [
+          0,
+          [],
+          0,
+          " was a beloved platform for many. "
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "However, the resurgence of interest in editorial newsletters has led to a group of new platforms geared towards the individual jorunalist, or, at least, small teams of journalists. "
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "So, let’s look at three major examples:"
+        ]
+      ]
+    ],
+    [
+      1,
+      "h3",
+      [
+        [
+          0,
+          [],
+          0,
+          "Substack"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "The current darling of the newsletter auteur set, SubStack offers a fairly basic CMS — notice how “samey” most SubStack newsletters look? — coupled with robust membership management and newsletter delivery. For the price, they take 10% of any membership fees you earn, but also deliver things like "
+        ],
+        [
+          0,
+          [
+            2
+          ],
+          1,
+          "legal support"
+        ],
+        [
+          0,
+          [],
+          0,
+          " with more services planned:"
+        ]
+      ]
+    ],
+    [
+      1,
+      "blockquote",
+      [
+        [
+          0,
+          [],
+          0,
+          "We will make a large investment in a services program that includes initiatives related to healthcare, personal finance, editing, distribution, design, and coworking spaces. In our view, being independent shouldn’t mean being alone."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "So, this is very clearly designed as a way of launching a newsletter-centric publication, with a supporting web presence. And they're deploying "
+        ],
+        [
+          0,
+          [
+            3
+          ],
+          1,
+          "their venture capital money"
+        ],
+        [
+          0,
+          [],
+          0,
+          " carefully to make themselves an effective support operation for an independent publisher. "
+        ]
+      ]
+    ],
+    [
+      10,
+      0
+    ],
+    [
+      1,
+      "h3",
+      [
+        [
+          0,
+          [],
+          0,
+          "Ghost"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Ghost is a CMS with built in membership support (in beta right now, but due to exit beta with the "
+        ],
+        [
+          0,
+          [
+            4
+          ],
+          1,
+          "Ghost 4.0 release next year"
+        ],
+        [
+          0,
+          [],
+          0,
+          "), and supporting newsletter features. So, this is the conceptual reverse of SubStack: Ghost is a tool for building a website, with the tools you need to add subscriptions and newsletters built-in. It’s available as open source, so you can download it and install it on your own hosting if you wish, or the Ghost Foundation will host it for you on "
+        ],
+        [
+          0,
+          [
+            5
+          ],
+          1,
+          "their Ghost(pro) service"
+        ],
+        [
+          0,
+          [],
+          0,
+          "."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "You don’t need to pay Ghost anything for your members if you self-host, only giving up a small part of your income to the payment processor Stripe, and paying newsletter delivery fees via Mailgun. However, the hosted service has tiers which have number of members as a delineating factor, so you will end up paying more the more successfully you are, but not on a percentage basis."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "For an example, well, you’re looking at it. If you’re reading these words in anything other than a RSS reader, be it in your email or on the web, you’re experiencing Ghost, because it’s what I use to run this site. It works for me, because I’m not running a newsletter "
+        ],
+        [
+          0,
+          [
+            6,
+            6
+          ],
+          2,
+          "per se"
+        ],
+        [
+          0,
+          [],
+          0,
+          ", I’m running a site, with a newsletter as a central element of that."
+        ]
+      ]
+    ],
+    [
+      10,
+      1
+    ],
+    [
+      1,
+      "h3",
+      [
+        [
+          0,
+          [],
+          0,
+          "Revue"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Revue is, like Substack, a newsletter-centric platform, with robust member support, and a CMS that is largely designed around curation. For example, look at "
+        ],
+        [
+          0,
+          [
+            7
+          ],
+          0,
+          "Martin Bryant’s "
+        ],
+        [
+          0,
+          [
+            6,
+            6
+          ],
+          3,
+          "Big Revolution"
+        ],
+        [
+          0,
+          [],
+          0,
+          " or the "
+        ],
+        [
+          0,
+          [
+            8
+          ],
+          0,
+          "Media Voices team’s "
+        ],
+        [
+          0,
+          [
+            6,
+            6
+          ],
+          3,
+          "Media Roundup"
+        ],
+        [
+          0,
+          [],
+          0,
+          "."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Again, this is a "
+        ],
+        [
+          0,
+          [
+            9
+          ],
+          1,
+          "tiered system for payment"
+        ],
+        [
+          0,
+          [],
+          0,
+          ", with a 6% transaction fee on subscriptions."
+        ]
+      ]
+    ],
+    [
+      10,
+      2
+    ],
+    [
+      10,
+      3
+    ],
+    [
+      1,
+      "h3",
+      [
+        [
+          0,
+          [],
+          0,
+          "Newsletter Course Notes"
+        ]
+      ]
+    ],
+    [
+      3,
+      "ul",
+      [
+        [
+          [
+            0,
+            [
+              10
+            ],
+            1,
+            "The Basics"
+          ]
+        ],
+        [
+          [
+            0,
+            [
+              11
+            ],
+            1,
+            "Structure"
+          ]
+        ],
+        [
+          [
+            0,
+            [
+              12
+            ],
+            1,
+            "Headlines and A/B testing"
+          ]
+        ],
+        [
+          [
+            0,
+            [
+              13
+            ],
+            1,
+            "Analytics"
+          ]
+        ],
+        [
+          [
+            0,
+            [
+              14
+            ],
+            1,
+            "Example Newsletters"
+          ]
+        ],
+        [
+          [
+            0,
+            [
+              15
+            ],
+            1,
+            "Newsletter Resources"
+          ]
+        ],
+        [
+          [
+            0,
+            [
+              16
+            ],
+            1,
+            "Newsletter Platforms"
+          ]
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      []
+    ]
+  ],
+  "ghostVersion": "3.0"
+}

@@ -1,0 +1,457 @@
+{
+  "version": "0.3.1",
+  "atoms": [],
+  "cards": [
+    [
+      "hr",
+      {}
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "html",
+      {
+        "html": "<table id=\"production-numbers-table\">\n<tbody>\n\t<tr>\n\t\t<td>2-Dr Hardtop</td>\n\t\t<td>409,260</td>\n\t</tr>\n    <tr>\n\t\t<td>2-Dr Fastback</td>\n\t\t<td>77,079</td>\n\t</tr>\n    <tr>\n\t\t<td>2-Dr Convertible</td>\n\t\t<td>73,112</td>\n\t</tr>\n\t\t<td><b>Total Production</b></td>\n\t\t<td><b>559,451</b></td>\n\t</tr>\n</tbody>\n</table>"
+      }
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "html",
+      {
+        "html": "<table id=\"performance-specs-table\">\n<tbody>\n\t<tr>\n\t\t<th><b>Engine</b></th>\n\t\t<th><b>Size</b></td>\n\t\t<th><b>Carb.</b></td>\n\t\t<th><b>HP</b></td>\n\t\t<th><b>Torque</b></td>\n\t\t<th><b>0 to 60</b></td>\n\t\t<th><b>Quarter mile</b></td>\n\t</tr>\n\t<tr>\n\t\t<td>I6</td>\n\t\t<td>200ci</td>\n\t\t<td>1x1bbl</td>\n\t\t<td>120hp @ 4400rpm</td>\n\t\t<td>190 lb-ft @ 2400rpm</td>\n\t\t<td>-</td>\n\t\t<td>-</td>\n\t</tr>\n<tr>\n\t\t<td>GT-350R</td>\n\t\t<td>289ci</td>\n\t\t<td>1x4bbl</td>\n\t\t<td>360hp</td>\n\t\t<td>n/a</td>\n\t\t<td>-</td>\n\t\t<td>-</td>\n\t</tr>\n<tr>\n\t\t<td>GT-350</td>\n\t\t<td>289ci</td>\n\t\t<td>1x4bbl</td>\n\t\t<td>306hp</td>\n\t\t<td>n/a</td>\n\t\t<td>6.5 sec</td>\n\t\t<td>14.9 sec @ 95 mph</td>\n\t</tr>\n<tr>\n\t\t<td>Challenger High Performance V8</td>\n\t\t<td>289ci</td>\n\t\t<td>1x4bbl</td>\n\t\t<td>271hp</td>\n\t\t<td>n/a</td>\n\t\t<td>7.6 sec</td>\n\t\t<td>15.9 sec @ 89 mph</td>\n\t</tr>\n<tr>\n\t\t<td>Challenger Special V8</td>\n\t\t<td>289ci</td>\n\t\t<td>1x4bbl</td>\n\t\t<td>225hp</td>\n\t\t<td>n/a</td>\n\t\t<td>-</td>\n\t\t<td>-</td>\n\t</tr>\n<tr>\n\t\t<td>Challenger V8</td>\n\t\t<td>289ci</td>\n\t\t<td>1x2bbl</td>\n\t\t<td>200hp</td>\n\t\t<td>n/a</td>\n\t\t<td>-</td>\n\t\t<td>-</td>\n\t</tr>\n</tbody>\n</table>\n"
+      }
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "html",
+      {
+        "html": "<h4 id='colors-sub-heading'>Exterior</h4>\n<div class=\"colors-row\">\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #000000\"></div>\n        <div class=\"color-name\">Raven Black</div>\n    </div>\n     <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #a6b78d\"></div>\n        <div class=\"color-name\">Honey Gold</div>\n    </div>\n     <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #489989\"></div>\n        <div class=\"color-name\">Dynasty Green</div>\n    </div>\n     <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #162135\"></div>\n        <div class=\"color-name\">Caspian Blue</div>\n    </div>\n     <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #b4a696\"></div>\n        <div class=\"color-name\">Champagne Beige</div>\n    </div>\n     <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #cc0000\"></div>\n        <div class=\"color-name\">Rangoon Red</div>\n    </div>\n     <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #e83600\"></div>\n        <div class=\"color-name\">Poppy Red</div>\n    </div>\n     <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #a4b5b5\"></div>\n        <div class=\"color-name\">Silversmoke Gray</div>\n    </div>\n     <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #ffffe8\"></div>\n        <div class=\"color-name\">Wimbeldon White</div>\n    </div>\n     <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #7dbcb1\"></div>\n        <div class=\"color-name\">Tropical Turquoise</div>\n    </div>\n     <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #aa7d69\"></div>\n        <div class=\"color-name\">Prairie Bronze</div>\n    </div>\n     <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #003300\"></div>\n        <div class=\"color-name\">Ivy Green</div>\n    </div>\n     <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #e3ddaa\"></div>\n        <div class=\"color-name\">Sunlight Yellow</div>\n    </div>\n     <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #620000\"></div>\n        <div class=\"color-name\">Vintage Burgundy</div>\n    </div>\n     <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #6b89a1\"></div>\n        <div class=\"color-name\">Silver Blue</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #ffffa7\"></div>\n        <div class=\"color-name\">Springtime Yellow</div>\n    </div>\n</div>\n\n<h4 id='colors-sub-heading'>Interior</h4>\n<div class=\"colors-row\">\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #292323\"></div>\n        <div class=\"color-name\">Black</div>\n    </div>\n      <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #3f4c5d\"></div>\n        <div class=\"color-name\">Blue</div>\n    </div>\n      <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #953d2b\"></div>\n        <div class=\"color-name\">Red</div>\n    </div>\n      <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #697b85\"></div>\n        <div class=\"color-name\">Aqua</div>\n    </div>\n      <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #868370\"></div>\n        <div class=\"color-name\">Ivy Gold</div>\n    </div>\n      <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #535447\"></div>\n        <div class=\"color-name\">Gold</div>\n    </div>\n      <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #917f67\"></div>\n        <div class=\"color-name\">Palomino</div>\n    </div>\n      <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #481e1f\"></div>\n        <div class=\"color-name\">Burgundy</div>\n    </div>\n      <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #cdcab7\"></div>\n        <div class=\"color-name\">White</div>\n    </div>\n      <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #ba7658\"></div>\n        <div class=\"color-name\">Emberglo</div>\n    </div>\n</div>"
+      }
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "gallery",
+      {
+        "images": [
+          {
+            "fileName": "836_1_low_res.jpeg",
+            "row": 0,
+            "width": 790,
+            "height": 665,
+            "src": "__GHOST_URL__/content/images/2020/06/836_1_low_res.jpeg"
+          },
+          {
+            "fileName": "837_2_low_res.jpeg",
+            "row": 0,
+            "width": 790,
+            "height": 331,
+            "src": "__GHOST_URL__/content/images/2020/06/837_2_low_res.jpeg"
+          },
+          {
+            "fileName": "838_3_low_res.jpeg",
+            "row": 0,
+            "width": 790,
+            "height": 331,
+            "src": "__GHOST_URL__/content/images/2020/06/838_3_low_res.jpeg"
+          },
+          {
+            "fileName": "839_4_low_res.jpeg",
+            "row": 1,
+            "width": 790,
+            "height": 331,
+            "src": "__GHOST_URL__/content/images/2020/06/839_4_low_res.jpeg"
+          },
+          {
+            "fileName": "840_5_low_res.jpeg",
+            "row": 1,
+            "width": 790,
+            "height": 331,
+            "src": "__GHOST_URL__/content/images/2020/06/840_5_low_res.jpeg"
+          },
+          {
+            "fileName": "841_6_low_res.jpeg",
+            "row": 1,
+            "width": 790,
+            "height": 331,
+            "src": "__GHOST_URL__/content/images/2020/06/841_6_low_res.jpeg"
+          },
+          {
+            "fileName": "842_7_low_res.jpeg",
+            "row": 2,
+            "width": 790,
+            "height": 331,
+            "src": "__GHOST_URL__/content/images/2020/06/842_7_low_res.jpeg"
+          },
+          {
+            "fileName": "843_8_low_res.jpeg",
+            "row": 2,
+            "width": 790,
+            "height": 331,
+            "src": "__GHOST_URL__/content/images/2020/06/843_8_low_res.jpeg"
+          },
+          {
+            "fileName": "844_9_low_res.jpeg",
+            "row": 2,
+            "width": 790,
+            "height": 661,
+            "src": "__GHOST_URL__/content/images/2020/06/844_9_low_res.jpeg"
+          }
+        ],
+        "caption": ""
+      }
+    ],
+    [
+      "gallery",
+      {
+        "images": [
+          {
+            "fileName": "845_65fstang_low_res.jpeg",
+            "row": 0,
+            "width": 406,
+            "height": 595,
+            "src": "__GHOST_URL__/content/images/2020/06/845_65fstang_low_res.jpeg"
+          },
+          {
+            "fileName": "846_65mustang_low_res.jpeg",
+            "row": 0,
+            "width": 453,
+            "height": 595,
+            "src": "__GHOST_URL__/content/images/2020/06/846_65mustang_low_res.jpeg"
+          },
+          {
+            "fileName": "847_65mustang1_low_res.jpeg",
+            "row": 0,
+            "width": 411,
+            "height": 595,
+            "src": "__GHOST_URL__/content/images/2020/06/847_65mustang1_low_res.jpeg"
+          },
+          {
+            "fileName": "848_65mustang2_low_res.jpeg",
+            "row": 1,
+            "width": 469,
+            "height": 595,
+            "src": "__GHOST_URL__/content/images/2020/06/848_65mustang2_low_res.jpeg"
+          },
+          {
+            "fileName": "849_65mustang3_low_res.jpeg",
+            "row": 1,
+            "width": 458,
+            "height": 595,
+            "src": "__GHOST_URL__/content/images/2020/06/849_65mustang3_low_res.jpeg"
+          },
+          {
+            "fileName": "850_65mustang4_low_res.jpeg",
+            "row": 1,
+            "width": 468,
+            "height": 595,
+            "src": "__GHOST_URL__/content/images/2020/06/850_65mustang4_low_res.jpeg"
+          },
+          {
+            "fileName": "851_65stang_low_res.jpeg",
+            "row": 2,
+            "width": 401,
+            "height": 595,
+            "src": "__GHOST_URL__/content/images/2020/06/851_65stang_low_res.jpeg"
+          }
+        ],
+        "caption": "1965 Ford Mustang OEM Brochures"
+      }
+    ],
+    [
+      "hr",
+      {}
+    ]
+  ],
+  "markups": [
+    [
+      "em"
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/tag/research/"
+      ]
+    ]
+  ],
+  "sections": [
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Overview"
+        ]
+      ]
+    ],
+    [
+      10,
+      0
+    ],
+    [
+      1,
+      "h3",
+      [
+        [
+          0,
+          [],
+          0,
+          "The 1965 Mustang saw the introduction of a new style, the 2+2 Fastback. Originally named after the P-51 Mustang fighter plane, a Mustang horse served as the emblem"
+        ]
+      ]
+    ],
+    [
+      10,
+      1
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "The 1965 Mustang saw the introduction of a new style, the 2+2 Fastback. Originally named after the P-51 Mustang fighter plane, a Mustang horse served as the emblem. Carroll Shelby and Ford collaborated to produce the GT-350 that was a fastback specially tuned by Shelby and produced 306hp in street tune, but 360hp in special GT-350R race tune. The Shelbys had no back seat, and were only available in white and were fully race ready. A new package, the GT, was introduced and included an upgraded instrument cluster, dual straight-through exhaust system with flared, chrome tailpipe extensions and four-inch fog lights in the grille, among other features."
+        ]
+      ]
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Production Numbers"
+        ]
+      ]
+    ],
+    [
+      10,
+      2
+    ],
+    [
+      10,
+      3
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Performance Specs"
+        ]
+      ]
+    ],
+    [
+      10,
+      4
+    ],
+    [
+      10,
+      5
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Transmission"
+        ]
+      ]
+    ],
+    [
+      10,
+      6
+    ],
+    [
+      3,
+      "ul",
+      [
+        [
+          [
+            0,
+            [],
+            0,
+            "3-Speed Manual"
+          ]
+        ],
+        [
+          [
+            0,
+            [],
+            0,
+            "4-Speed Manual"
+          ]
+        ],
+        [
+          [
+            0,
+            [],
+            0,
+            "Cruise-O-Matic"
+          ]
+        ]
+      ]
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Paint & Colors"
+        ]
+      ]
+    ],
+    [
+      10,
+      7
+    ],
+    [
+      10,
+      8
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "OEM Brochures"
+        ]
+      ]
+    ],
+    [
+      10,
+      9
+    ],
+    [
+      10,
+      10
+    ],
+    [
+      10,
+      11
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "About the Knowledge Base"
+        ]
+      ]
+    ],
+    [
+      10,
+      12
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "The Motorious Knowledge Base provides a comprehensive vehicle overview for the 1965 Ford Mustang"
+        ],
+        [
+          0,
+          [
+            0,
+            0
+          ],
+          2,
+          " "
+        ],
+        [
+          0,
+          [],
+          0,
+          "including production numbers, performance specs, factory colors, and OEM brochures. Check out additional model years or related content linked to this article or view other Makes and Models in our "
+        ],
+        [
+          0,
+          [
+            1
+          ],
+          1,
+          "Research"
+        ],
+        [
+          0,
+          [],
+          0,
+          " center."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "If you have any interesting facts about the 1965 Ford Mustang"
+        ],
+        [
+          0,
+          [
+            0,
+            0
+          ],
+          2,
+          " "
+        ],
+        [
+          0,
+          [],
+          0,
+          "to add, want to tell us how we did covering the Mustang, or want to tell us about yours, please leave a comment below."
+        ]
+      ]
+    ]
+  ],
+  "ghostVersion": "3.0"
+}

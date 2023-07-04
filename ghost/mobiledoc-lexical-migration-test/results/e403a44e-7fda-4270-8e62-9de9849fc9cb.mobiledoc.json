@@ -1,0 +1,518 @@
+{
+  "version": "0.3.1",
+  "atoms": [],
+  "cards": [
+    [
+      "hr",
+      {}
+    ],
+    [
+      "image",
+      {
+        "src": "__GHOST_URL__/content/images/2023/04/Formula-One-Driver-Chases-Thieves-In-His-Ferrari-2.jpg",
+        "width": 1920,
+        "height": 1080
+      }
+    ],
+    [
+      "embed",
+      {
+        "url": "https://twitter.com/_Carabinieri_/status/1643236992392794114?s=20",
+        "html": "<blockquote class=\"twitter-tweet\"><p lang=\"it\" dir=\"ltr\">Da Napoli alla Versilia per rapinare orologi di pregio: i <a href=\"https://twitter.com/hashtag/Carabinieri?src=hash&amp;ref_src=twsrc%5Etfw\">#Carabinieri</a> arrestano 4 persone. Tra gli episodi documentati, la rapina di un prezioso orologio compiuta ai danni del pilota Charles Leclerc -&gt; <a href=\"https://t.co/Hdzu5cUe9q\">https://t.co/Hdzu5cUe9q</a> <a href=\"https://t.co/0wAIIuPFm1\">pic.twitter.com/0wAIIuPFm1</a></p>&mdash; Arma dei Carabinieri (@_Carabinieri_) <a href=\"https://twitter.com/_Carabinieri_/status/1643236992392794114?ref_src=twsrc%5Etfw\">April 4, 2023</a></blockquote>\n<script async src=\"https://platform.twitter.com/widgets.js\" charset=\"utf-8\"></script>\n",
+        "type": "twitter",
+        "metadata": {
+          "url": "https://twitter.com/_Carabinieri_/status/1643236992392794114",
+          "author_name": "Arma dei Carabinieri",
+          "author_url": "https://twitter.com/_Carabinieri_",
+          "width": 550,
+          "height": null,
+          "cache_age": "3153600000",
+          "provider_name": "Twitter",
+          "provider_url": "http://www.twitter.com/",
+          "version": "1.0",
+          "tweet_data": {
+            "entities": {
+              "hashtags": [
+                {
+                  "start": 58,
+                  "end": 70,
+                  "tag": "Carabinieri"
+                }
+              ],
+              "urls": [
+                {
+                  "start": 206,
+                  "end": 229,
+                  "url": "https://t.co/Hdzu5cUe9q",
+                  "expanded_url": "https://www.carabinieri.it/in-vostro-aiuto/informazioni/comunicati-stampa/rapine-di-orologi-di-pregio.-eseguite-quattro-misure-cautelari",
+                  "display_url": "carabinieri.it/in-vostro-aiut…",
+                  "images": [
+                    {
+                      "url": "https://pbs.twimg.com/news_img/1643237030347030528/Ry1aXSD7?format=png&name=orig",
+                      "width": 1323,
+                      "height": 1235
+                    },
+                    {
+                      "url": "https://pbs.twimg.com/news_img/1643237030347030528/Ry1aXSD7?format=png&name=150x150",
+                      "width": 150,
+                      "height": 150
+                    }
+                  ],
+                  "status": 200,
+                  "title": "Comunicati Stampa",
+                  "description": "Sito istituzionale dell'Arma dei Carabinieri",
+                  "unwound_url": "https://www.carabinieri.it/in-vostro-aiuto/informazioni/comunicati-stampa/rapine-di-orologi-di-pregio.-eseguite-quattro-misure-cautelari"
+                },
+                {
+                  "start": 230,
+                  "end": 253,
+                  "url": "https://t.co/0wAIIuPFm1",
+                  "expanded_url": "https://twitter.com/_Carabinieri_/status/1643236992392794114/video/1",
+                  "display_url": "pic.twitter.com/0wAIIuPFm1",
+                  "media_key": "7_1643203648988626945"
+                }
+              ]
+            },
+            "edit_history_tweet_ids": [
+              "1643236992392794114"
+            ],
+            "id": "1643236992392794114",
+            "public_metrics": {
+              "retweet_count": 491,
+              "reply_count": 50,
+              "like_count": 6549,
+              "quote_count": 561,
+              "impression_count": 1151717
+            },
+            "text": "Da Napoli alla Versilia per rapinare orologi di pregio: i #Carabinieri arrestano 4 persone. Tra gli episodi documentati, la rapina di un prezioso orologio compiuta ai danni del pilota Charles Leclerc -&gt; https://t.co/Hdzu5cUe9q https://t.co/0wAIIuPFm1",
+            "reply_settings": "everyone",
+            "created_at": "2023-04-04T13:00:03.000Z",
+            "conversation_id": "1643236992392794114",
+            "possibly_sensitive": false,
+            "context_annotations": [
+              {
+                "domain": {
+                  "id": "10",
+                  "name": "Person",
+                  "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                  "id": "1034157504689627136",
+                  "name": "Charles Leclerc",
+                  "description": "Charles Leclerc"
+                }
+              },
+              {
+                "domain": {
+                  "id": "11",
+                  "name": "Sport",
+                  "description": "Types of sports, like soccer and basketball"
+                },
+                "entity": {
+                  "id": "1058103880376971264",
+                  "name": "Racing",
+                  "description": "Racing"
+                }
+              },
+              {
+                "domain": {
+                  "id": "26",
+                  "name": "Sports League",
+                  "description": ""
+                },
+                "entity": {
+                  "id": "854701577994616832",
+                  "name": "Formula 1",
+                  "description": "Formula 1"
+                }
+              },
+              {
+                "domain": {
+                  "id": "46",
+                  "name": "Business Taxonomy",
+                  "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+                },
+                "entity": {
+                  "id": "1557697289971322880",
+                  "name": "Sports & Fitness Business",
+                  "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues"
+                }
+              },
+              {
+                "domain": {
+                  "id": "60",
+                  "name": "Athlete",
+                  "description": "An athlete in the world, like Serena Williams or Lionel Messi"
+                },
+                "entity": {
+                  "id": "1034157504689627136",
+                  "name": "Charles Leclerc",
+                  "description": "Charles Leclerc"
+                }
+              },
+              {
+                "domain": {
+                  "id": "131",
+                  "name": "Unified Twitter Taxonomy",
+                  "description": "A taxonomy of user interests. "
+                },
+                "entity": {
+                  "id": "847900493514891265",
+                  "name": "Sports",
+                  "description": "Sports"
+                }
+              },
+              {
+                "domain": {
+                  "id": "131",
+                  "name": "Unified Twitter Taxonomy",
+                  "description": "A taxonomy of user interests. "
+                },
+                "entity": {
+                  "id": "847900599387430912",
+                  "name": "Auto racing",
+                  "description": "Auto racing"
+                }
+              },
+              {
+                "domain": {
+                  "id": "131",
+                  "name": "Unified Twitter Taxonomy",
+                  "description": "A taxonomy of user interests. "
+                },
+                "entity": {
+                  "id": "854701577994616832",
+                  "name": "Formula 1",
+                  "description": "Formula 1"
+                }
+              },
+              {
+                "domain": {
+                  "id": "131",
+                  "name": "Unified Twitter Taxonomy",
+                  "description": "A taxonomy of user interests. "
+                },
+                "entity": {
+                  "id": "1034157504689627136",
+                  "name": "Charles Leclerc",
+                  "description": "Charles Leclerc"
+                }
+              },
+              {
+                "domain": {
+                  "id": "131",
+                  "name": "Unified Twitter Taxonomy",
+                  "description": "A taxonomy of user interests. "
+                },
+                "entity": {
+                  "id": "1497266565669998594",
+                  "name": "Open-wheel racing"
+                }
+              },
+              {
+                "domain": {
+                  "id": "131",
+                  "name": "Unified Twitter Taxonomy",
+                  "description": "A taxonomy of user interests. "
+                },
+                "entity": {
+                  "id": "1509530211146088466",
+                  "name": "Motorsport"
+                }
+              }
+            ],
+            "lang": "it",
+            "attachments": {
+              "media_keys": [
+                "7_1643203648988626945"
+              ]
+            },
+            "author_id": "2965811733",
+            "includes": {
+              "media": [
+                {
+                  "media_key": "7_1643203648988626945",
+                  "width": 848,
+                  "duration_ms": 48066,
+                  "height": 480,
+                  "type": "video",
+                  "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1643203648988626945/pu/img/MciNau4TkwROacIH.jpg",
+                  "public_metrics": {
+                    "view_count": 963565
+                  }
+                }
+              ],
+              "users": [
+                {
+                  "created_at": "2015-01-07T11:28:44.000Z",
+                  "location": "Roma (ITALIA)",
+                  "entities": {
+                    "url": {
+                      "urls": [
+                        {
+                          "start": 0,
+                          "end": 23,
+                          "url": "https://t.co/crTd92nXib",
+                          "expanded_url": "http://www.carabinieri.it/social",
+                          "display_url": "carabinieri.it/social"
+                        }
+                      ]
+                    },
+                    "description": {
+                      "hashtags": [
+                        {
+                          "start": 127,
+                          "end": 139,
+                          "tag": "Carabinieri"
+                        }
+                      ]
+                    }
+                  },
+                  "name": "Arma dei Carabinieri",
+                  "protected": false,
+                  "description": "Account ufficiale. Questo profilo non tratta segnalazioni o denunce. In caso di urgenza, chiama il 112 o contatta una Stazione #Carabinieri",
+                  "public_metrics": {
+                    "followers_count": 181156,
+                    "following_count": 306,
+                    "tweet_count": 10827,
+                    "listed_count": 559
+                  },
+                  "profile_image_url": "https://pbs.twimg.com/profile_images/1324616825611706369/OB1AEPNu_normal.jpg",
+                  "verified": true,
+                  "username": "_Carabinieri_",
+                  "id": "2965811733",
+                  "url": "https://t.co/crTd92nXib"
+                }
+              ]
+            }
+          }
+        }
+      }
+    ]
+  ],
+  "markups": [
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/articles/news/cars-dumped-italian-lake/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/articles/news/formula-one-cancels-russia/"
+      ]
+    ],
+    [
+      "strong"
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/articles/news/lewis-hamilton-feel-sorry/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.drive.com.au/news/video-charles-leclerc-chases-thieves-in-ferrari/"
+      ]
+    ]
+  ],
+  "sections": [
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "They had zero chance of losing him…"
+        ]
+      ]
+    ],
+    [
+      10,
+      0
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Theft is a problem all over the place, including in "
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "Italy"
+        ],
+        [
+          0,
+          [],
+          0,
+          ", and people are getting sick of it. That might be why "
+        ],
+        [
+          0,
+          [
+            1
+          ],
+          1,
+          "Formula One"
+        ],
+        [
+          0,
+          [],
+          0,
+          " driver Charles Leclerc decided to give chase to some guys who allegedly stole a luxury watch from him. Making the scene even more spectacular was the fact Leclerc used his Ferrari 488 Pista Spider for the pursuit."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [
+            2
+          ],
+          0,
+          "Find out why Lewis Hamilton wants you to feel sorry for him "
+        ],
+        [
+          0,
+          [
+            3
+          ],
+          1,
+          "here"
+        ],
+        [
+          0,
+          [],
+          1,
+          "."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Chase scenes involving F1 drivers are usually quite exciting – just watch the movie Ronan for some great examples. Unfortunately, the surveillance footage of this pursuit that was released by Italian police is a little choppy, so we don’t get the full effect of the action. Still, it’s pretty interesting to watch."
+        ]
+      ]
+    ],
+    [
+      10,
+      1
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "The incident in question reportedly happened back on April 18, 2022 when the F1 driver was meeting with fans in a Tuscan town. As Leclerc was moving through the crowd, shaking hands and such, someone slipped the bespoke Richard Mille RM67-02 watch off his wrist and took off running."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Thinking he would get away, the guy jumped onto a scooter with an accomplice and they sped off. Police say two more accomplices jumped into a rented SUV and also fled the scene. When Leclerc jumped into his Ferrari to chase the scooter, the guys in the SUV tried slowing him down."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Ultimately, police caught all four suspects, but without Leclerc making the collar. Instead, they poked a little fun at the driver’s vigilante efforts. Considering things could’ve turned out far worse, Leclerc is a lucky man."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "While we understand the frustration everyone feels about crime continuing to rise and prosecutors who think playing catch and release with repeat offenders is justice, we’re not advocating anyone chase down thieves like this. After all, plenty of criminals won’t hesitate to use deadly force."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Source: "
+        ],
+        [
+          0,
+          [
+            4
+          ],
+          1,
+          "Drive"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Images via Twitter"
+        ]
+      ]
+    ],
+    [
+      10,
+      2
+    ],
+    [
+      1,
+      "p",
+      []
+    ]
+  ],
+  "ghostVersion": "4.0"
+}

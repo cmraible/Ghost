@@ -1,0 +1,556 @@
+{
+  "version": "0.3.1",
+  "atoms": [],
+  "cards": [
+    [
+      "email-cta",
+      {
+        "showButton": true,
+        "showDividers": false,
+        "segment": "status:-free",
+        "alignment": "center",
+        "html": "",
+        "buttonText": "Click Here To Comment",
+        "buttonUrl": "__GHOST_URL__/just-look-up/#comments"
+      }
+    ],
+    [
+      "email-cta",
+      {
+        "showButton": true,
+        "showDividers": false,
+        "segment": "status:free",
+        "alignment": "center",
+        "html": "<p><strong><em>Please <a href=\"https://levernews.com/membership\">become a supporting subscriber</a>. You get exclusive podcasts, <a href=\"__GHOST_URL__/citizens-guide/\">digital publications</a>, and live events </em></strong>—<strong><em> and you support this journalism.</em></strong></p>",
+        "buttonText": "Upgrade",
+        "buttonUrl": "https://levernews.com/membership"
+      }
+    ],
+    [
+      "email",
+      {
+        "html": "<p><em><strong><a href=\"https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.levernews.com%2Fjust-look-up%2F&amp;amp;src=sdkpreparse\">Click to share on Facebook</a></strong></em></p>"
+      }
+    ],
+    [
+      "callout",
+      {
+        "calloutEmoji": "",
+        "calloutText": "<strong>“The shredding of the social contract between the public and its government is both a product of a right-wing ideology that has beat the drum about how inherently evil government is, at least since the Reagan era, and also a product of crises in which the government has absolutely failed and, at times, completely lied to people… Rebuilding that trust is necessary if we’re going to deal with all these crises. We need to rebuild trust between the government, media institutions, and the public in order to ensure that science, especially climate science, lands and actually motivates the right policies.”</strong>",
+        "backgroundColor": "grey"
+      }
+    ],
+    [
+      "email-cta",
+      {
+        "showButton": true,
+        "showDividers": false,
+        "segment": "status:-free",
+        "alignment": "center",
+        "html": "",
+        "buttonText": "Click Here To Comment",
+        "buttonUrl": "__GHOST_URL__/just-look-up/#comments"
+      }
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "email-cta",
+      {
+        "showButton": true,
+        "showDividers": false,
+        "segment": "status:-free",
+        "alignment": "center",
+        "html": "",
+        "buttonText": "Tip Jar",
+        "buttonUrl": "https://dailyposter.outpost.pub/ghost-integration/60818189ad12f332071054b8/tips"
+      }
+    ],
+    [
+      "email-cta",
+      {
+        "showButton": true,
+        "showDividers": false,
+        "segment": "status:free",
+        "alignment": "center",
+        "html": "",
+        "buttonText": "Upgrade",
+        "buttonUrl": "https://levernews.com/membership"
+      }
+    ],
+    [
+      "email",
+      {
+        "html": "<p><em><strong>Help us spread the word! </strong>Please forward this email to family and friends.</em></p><p><em><strong>Was this email forwarded to you? </strong><a href=\"https://levernews.com/membership/\">Sign up for free</a> to receive original reporting like this in your inbox every day.</em></p>"
+      }
+    ]
+  ],
+  "markups": [
+    [
+      "em"
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.theguardian.com/environment/2022/mar/12/tens-of-thousands-take-part-in-climate-protests-across-france"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://deadline.com/2022/03/2022-writers-guild-awards-winners-list-wga-1234982737/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.youtube.com/watch?v=9hy6oAERyLM"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.cbsnews.com/losangeles/news/the-climate-crisis-is-right-now-adam-mckay-join-climate-rally-in-downtown-la/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.oscars.org/how-to-watch/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.vox.com/vox-conversations-podcast/22922423/vox-conversations-dont-look-up-oscars-david-sirota"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://6abc.com/oscars-2022-david-sirota-bradley-cooper-east-abington-little-league/11633621/"
+      ]
+    ],
+    [
+      "strong"
+    ]
+  ],
+  "sections": [
+    [
+      10,
+      0
+    ],
+    [
+      10,
+      1
+    ],
+    [
+      10,
+      2
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Friends:"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Over the last few months, our movie "
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "Don’t Look Up"
+        ],
+        [
+          0,
+          [],
+          0,
+          " was a "
+        ],
+        [
+          0,
+          [
+            1
+          ],
+          1,
+          "boost to the global climate movement"
+        ],
+        [
+          0,
+          [],
+          0,
+          ", nominated for four Oscars, and given the prestigious "
+        ],
+        [
+          0,
+          [
+            2
+          ],
+          1,
+          "Writers Guild of America’s award for best screenplay"
+        ],
+        [
+          0,
+          [],
+          0,
+          ". It’s been  thrilling to see our comet apocalypse allegory make such an impact (pun intended) and sound such a loud alarm about the crises threatening our world. And I’ve really enjoyed "
+        ],
+        [
+          0,
+          [
+            3
+          ],
+          1,
+          "campaigning for climate justice"
+        ],
+        [
+          0,
+          [],
+          0,
+          " with my friend "
+        ],
+        [
+          0,
+          [
+            4
+          ],
+          1,
+          "Adam McKay"
+        ],
+        [
+          0,
+          [],
+          0,
+          ", the driving force behind "
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "Don’t Look Up"
+        ],
+        [
+          0,
+          [],
+          0,
+          "."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "I’m currently in Los Angeles for "
+        ],
+        [
+          0,
+          [
+            5
+          ],
+          1,
+          "Sunday’s Academy Awards"
+        ],
+        [
+          0,
+          [],
+          0,
+          ", and some folks here have asked me whether helping produce and write the story of this film was a departure from my regular work. Yes, it’s true: Going from working on Capitol Hill to working as an investigative reporter to writing speeches for Bernie Sanders’ presidential campaign, to helping create a movie and being nominated for an Oscar is a zig-zagged life path — but there is a throughline."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "All of the twists and turns in the journey have been part of the same work I’ve been doing for decades and am doing right here as we build "
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "The Lever"
+        ],
+        [
+          0,
+          [],
+          0,
+          ": the work of challenging power and fighting for justice."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Of course, my personal journey in this struggle has not been all smiles and sunshine - I’ve had trouble at times dealing with the emotional ups and downs and was frankly so demoralized two years ago I was ready to give up. But my friends and family picked me up and got me back on track - and so did you, our subscribers. I absolutely couldn’t do this work without your support. I’m eternally grateful that you are pitching in to help "
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "The Lever"
+        ],
+        [
+          0,
+          [],
+          0,
+          " do what we can to get our society to just look up - and act."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "I recently talked to "
+        ],
+        [
+          0,
+          [
+            6
+          ],
+          1,
+          "Vox Conversations"
+        ],
+        [
+          0,
+          [],
+          0,
+          " about the themes of the movie, and how we arrived at this moment of peril. I think a lot of it boils down to the point I made here:"
+        ]
+      ]
+    ],
+    [
+      10,
+      3
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "If you have a bit of time, "
+        ],
+        [
+          0,
+          [
+            6
+          ],
+          1,
+          "please listen to the entire podcast here,"
+        ],
+        [
+          0,
+          [],
+          0,
+          " and share it with your friends. Also, reply to this email to let me know what you think of it."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "As Sunday’s awards ceremony approaches, I’ve been thinking a lot about how we are not at the climax of "
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "Don’t Look Up."
+        ],
+        [
+          0,
+          [],
+          0,
+          " The comet is heading for us, but it is not yet here. We still have time to halt the emergencies. We still can create a better world — it’s just going to require the courage to challenge power and a commitment to working together."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Thanks for being part of that effort — and part of our team. Onward."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Rock the boat,"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Sirota"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "P.S. "
+        ],
+        [
+          0,
+          [
+            7
+          ],
+          1,
+          "Watch this local news segment"
+        ],
+        [
+          0,
+          [],
+          0,
+          " for a fun peek into my own personal Oscar experience — what a small world, huh?"
+        ]
+      ]
+    ],
+    [
+      10,
+      4
+    ],
+    [
+      10,
+      5
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [
+            0,
+            8
+          ],
+          1,
+          "Our news organization relies on readers pitching in to support our journalism. "
+        ],
+        [
+          0,
+          [
+            0,
+            8
+          ],
+          3,
+          "If you like this story, please support "
+        ],
+        [
+          0,
+          [
+            8,
+            0,
+            8
+          ],
+          3,
+          "our"
+        ],
+        [
+          0,
+          [
+            0,
+            0,
+            8
+          ],
+          3,
+          " work."
+        ]
+      ]
+    ],
+    [
+      10,
+      6
+    ],
+    [
+      10,
+      7
+    ],
+    [
+      10,
+      8
+    ]
+  ],
+  "ghostVersion": "4.0"
+}

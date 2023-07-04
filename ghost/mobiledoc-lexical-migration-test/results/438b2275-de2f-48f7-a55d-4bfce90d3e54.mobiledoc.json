@@ -1,0 +1,433 @@
+{
+  "version": "0.3.1",
+  "atoms": [],
+  "cards": [
+    [
+      "hr",
+      {}
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "html",
+      {
+        "html": "<table id=\"production-numbers-table\">\n<tbody>\n\t<tr>\n\t\t<td>Sport Coupe</td>\n\t\t<td>134,491</td>\n\t</tr>\n    \t<tr>\n\t\t<td>RS</td>\n\t\t<td>11,902</td>\n\t</tr>\n    \t<tr>\n\t\t<td>Z/28</td>\n\t\t<td>54,907</td>\n\t</tr>\n    \t<tr>\n\t\t<td>LT RS</td>\n\t\t<td>5,696</td>\n</tr>\n    \t<tr>\n\t\t<td>LT</td>\n\t\t<td>65,635</td>\n\t</tr>\n\t\t<td><b>Total Production</b></td>\n\t\t<td><b>272,631</b></td>\n\t</tr>\n</tbody>\n</table>"
+      }
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "html",
+      {
+        "html": "<table id=\"performance-specs-table\">\n<tbody>\n\t<tr>\n\t\t<th><b>Engine</b></th>\n\t\t<th><b>Size</b></td>\n\t\t<th><b>Carb.</b></td>\n\t\t<th><b>HP</b></td>\n\t\t<th><b>Torque</b></td>\n\t</tr>\n\t<tr>\n\t\t<td>LD5 V6</td>\n\t\t<td>231ci</td>\n\t\t<td>1x2bbl</td>\n\t\t<td>110</td>\n\t\t<td>170 lb-ft</td>\n\t</tr>\n\t<tr>\n\t\t<td>LC3 V6</td>\n\t\t<td>229ci</td>\n\t\t<td>1x2bbl</td>\n\t\t<td>110</td>\n\t\t<td>190 lb-ft</td>\n\t</tr>\n\t<tr>\n\t\t<td>L39</td>\n\t\t<td>267ci</td>\n\t\t<td>1x2bbl</td>\n\t\t<td>115 hp</td>\n\t\t<td>200 lb-ft</td>\n\t</tr>\n\t<tr>\n\t\t<td>LG4</td>\n\t\t<td>305ci</td>\n\t\t<td>1x4bbl</td>\n\t\t<td>165 hp</td>\n\t\t<td>245 lb-ft</td>\n\t</tr>\n\t<tr>\n\t\t<td>LG4</td>\n\t\t<td>305ci</td>\n\t\t<td>1x4bbl</td>\n\t\t<td>150 hp</td>\n\t\t<td>240 lb-ft</td>\n\t</tr>\n\t<tr>\n\t\t<td>LM1</td>\n\t\t<td>350ci</td>\n\t\t<td>1x4bbl</td>\n\t\t<td>175 hp</td>\n\t\t<td>275 lb-ft</td>\n\t</tr>\n</tbody>\n</table>"
+      }
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "html",
+      {
+        "html": "<h4 id='colors-sub-heading'>Exterior</h4>\n<div class=\"colors-row\">\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #ece4d3\"></div>\n        <div class=\"color-name\">White</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #858990\"></div>\n        <div class=\"color-name\">Silver</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #000000\"></div>\n        <div class=\"color-name\">Black</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #edbe3c\"></div>\n        <div class=\"color-name\">Bright Yellow</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #2b3748\"></div>\n        <div class=\"color-name\">Dark Blue</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #4777a3\"></div>\n        <div class=\"color-name\">Light Blue</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #882815\"></div>\n        <div class=\"color-name\">Bronze</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #28619e\"></div>\n        <div class=\"color-name\">Bright Blue</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #24221d\"></div>\n        <div class=\"color-name\">Dark Brown</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #a29764\"></div>\n        <div class=\"color-name\">Gold</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #b62e27\"></div>\n        <div class=\"color-name\">Red</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #b52d15\"></div>\n        <div class=\"color-name\">Orange</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #313a43\"></div>\n        <div class=\"color-name\">Charcoal</div>\n    </div>       \n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #20000e\"></div>\n        <div class=\"color-name\">Maroon</div>\n    </div>\n</div>\n\n<h4 id='colors-sub-heading'>Interior</h4>\n<div class=\"colors-row\">\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #b8b8c3\"></div>\n        <div class=\"color-name\">Silver</div>\n    </div>    \n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #827f97\"></div>\n        <div class=\"color-name\">Blue</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #0a1113\"></div>\n        <div class=\"color-name\">Black</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #b49374\"></div>\n        <div class=\"color-name\">Camel</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #a81a28\"></div>\n        <div class=\"color-name\">Red</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #b6a7a0\"></div>\n        <div class=\"color-name\">Beige</div>\n    </div>\n</div>"
+      }
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "gallery",
+      {
+        "images": [
+          {
+            "fileName": "145_81ca1_low_res.jpeg",
+            "row": 0,
+            "width": 629,
+            "height": 624,
+            "src": "__GHOST_URL__/content/images/2020/08/145_81ca1_low_res.jpeg"
+          },
+          {
+            "fileName": "146_81ca2_low_res.jpeg",
+            "row": 0,
+            "width": 637,
+            "height": 624,
+            "src": "__GHOST_URL__/content/images/2020/08/146_81ca2_low_res.jpeg"
+          },
+          {
+            "fileName": "147_81ca3_low_res.jpeg",
+            "row": 0,
+            "width": 633,
+            "height": 624,
+            "src": "__GHOST_URL__/content/images/2020/08/147_81ca3_low_res.jpeg"
+          },
+          {
+            "fileName": "148_81ca4_low_res.jpeg",
+            "row": 1,
+            "width": 790,
+            "height": 389,
+            "src": "__GHOST_URL__/content/images/2020/08/148_81ca4_low_res.jpeg"
+          },
+          {
+            "fileName": "149_81ca5_low_res.jpeg",
+            "row": 1,
+            "width": 790,
+            "height": 391,
+            "src": "__GHOST_URL__/content/images/2020/08/149_81ca5_low_res.jpeg"
+          },
+          {
+            "fileName": "150_81ca6_low_res.jpeg",
+            "row": 1,
+            "width": 633,
+            "height": 624,
+            "src": "__GHOST_URL__/content/images/2020/08/150_81ca6_low_res.jpeg"
+          },
+          {
+            "fileName": "151_81ca7_low_res.jpeg",
+            "row": 2,
+            "width": 618,
+            "height": 624,
+            "src": "__GHOST_URL__/content/images/2020/08/151_81ca7_low_res.jpeg"
+          },
+          {
+            "fileName": "152_81ca8_low_res.jpeg",
+            "row": 2,
+            "width": 649,
+            "height": 624,
+            "src": "__GHOST_URL__/content/images/2020/08/152_81ca8_low_res.jpeg"
+          }
+        ]
+      }
+    ],
+    [
+      "hr",
+      {}
+    ]
+  ],
+  "markups": [
+    [
+      "strong"
+    ],
+    [
+      "em"
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/tag/research/"
+      ]
+    ]
+  ],
+  "sections": [
+    [
+      1,
+      "h3",
+      [
+        [
+          0,
+          [],
+          0,
+          "Overview"
+        ]
+      ]
+    ],
+    [
+      10,
+      0
+    ],
+    [
+      1,
+      "h3",
+      [
+        [
+          0,
+          [],
+          0,
+          "Marking the last year of the second-generation Camaros, the 1981 model was much the same as the previous years."
+        ]
+      ]
+    ],
+    [
+      10,
+      1
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Marking the last year of the second-generation Camaros, the 1981 model was much the same as the previous years. The RS model was dropped and wouldn’t be seen again until 1989. Also, a new engine control computer was included in all models."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Production dropped once again due to aged styling, oil crises, and declining economy."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "The Z/28’s performance characteristics remained unchanged."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "The Berlinetta was the only model to increase in production for 1981."
+        ]
+      ]
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Production Numbers"
+        ]
+      ]
+    ],
+    [
+      10,
+      2
+    ],
+    [
+      10,
+      3
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Performance Specs"
+        ]
+      ]
+    ],
+    [
+      10,
+      4
+    ],
+    [
+      10,
+      5
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Transmission"
+        ]
+      ]
+    ],
+    [
+      10,
+      6
+    ],
+    [
+      3,
+      "ul",
+      [
+        [
+          [
+            0,
+            [
+              0
+            ],
+            1,
+            "3-Speed Manual"
+          ]
+        ],
+        [
+          [
+            0,
+            [
+              0
+            ],
+            1,
+            "4-Speed Manual"
+          ]
+        ],
+        [
+          [
+            0,
+            [
+              0
+            ],
+            1,
+            "Turbo Hydra-Matic"
+          ]
+        ]
+      ]
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Paint & Colors"
+        ]
+      ]
+    ],
+    [
+      10,
+      7
+    ],
+    [
+      10,
+      8
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "OEM Brochures"
+        ]
+      ]
+    ],
+    [
+      10,
+      9
+    ],
+    [
+      10,
+      10
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "About the Knowledge Base"
+        ]
+      ]
+    ],
+    [
+      10,
+      11
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "The Motorious Knowledge Base provides a comprehensive vehicle overview for the 1981 Chevrolet Camaro"
+        ],
+        [
+          0,
+          [
+            1,
+            1
+          ],
+          2,
+          " "
+        ],
+        [
+          0,
+          [],
+          0,
+          "including production numbers, performance specs, factory colors, and OEM brochures. Check out additional model years or related content linked to this article or view other Makes and Models in our "
+        ],
+        [
+          0,
+          [
+            2
+          ],
+          1,
+          "Research"
+        ],
+        [
+          0,
+          [],
+          0,
+          " center."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "If you have any interesting facts about the 1981 Chevrolet Camaro"
+        ],
+        [
+          0,
+          [
+            1,
+            1
+          ],
+          2,
+          " "
+        ],
+        [
+          0,
+          [],
+          0,
+          "to add, want to tell us how we did covering the Camaro, or want to tell us about yours, please leave a comment below."
+        ]
+      ]
+    ]
+  ],
+  "ghostVersion": "3.0"
+}

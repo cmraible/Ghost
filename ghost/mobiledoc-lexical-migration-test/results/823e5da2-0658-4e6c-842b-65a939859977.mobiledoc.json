@@ -1,0 +1,454 @@
+{
+  "version": "0.3.1",
+  "atoms": [],
+  "cards": [
+    [
+      "hr",
+      {}
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "html",
+      {
+        "html": "<table id=\"production-numbers-table\">\n<tbody>\n\t<tr>\n\t\t<td>S Sport Coupe</td>\n\t\t<td>148,529</td>\n\t</tr>\n    \t<tr>\n\t\t<td>Landau Sport Coupe</td>\n\t\t<td>110,380</td>\n\t</tr>\n\t\t<td><b>Total Production</b></td>\n\t\t<td><b>258,909</b></td>\n\t</tr>\n</tbody>\n</table>"
+      }
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "html",
+      {
+        "html": "<table id=\"performance-specs-table\">\n<tbody>\n\t<tr>\n\t\t<th><b>Engine</b></th>\n\t\t<th><b>Size</b></td>\n\t\t<th><b>Carb.</b></td>\n\t\t<th><b>HP</b></td>\n\t\t<th><b>0 to 60</b></td>\n\t\t<th><b>Quarter mile</b></td>\n\t</tr>\n\t<tr>\n\t\t<td>Turbo Fire</td>\n\t\t<td>350ci</td>\n\t\t<td>1x2bbl</td>\n\t\t<td>145</td>\n\t\t<td>-</td>\n\t\t<td>-</td>\n\t</tr>\n\t<tr>\n\t\t<td>Turbo Fire</td>\n\t\t<td>350ci</td>\n\t\t<td>1x4bbl</td>\n\t\t<td>155</td>\n\t\t<td>-</td>\n\t\t<td>-</td>\n\t</tr>\n\t<tr>\n\t\t<td>Turbo Jet</td>\n\t\t<td>454ci</td>\n\t\t<td>1x4bbl</td>\n\t\t<td>215</td>\n\t\t<td>-</td>\n\t\t<td>-</td>\n\t</tr>\n\t<tr>\n\t\t<td>Turbo Fire</td>\n\t\t<td>400ci</td>\n\t\t<td>1x4bbl</td>\n\t\t<td>175</td>\n\t\t<td>11.5 sec</td>\n\t\t<td>18.4 sec</td>\n\t</tr>\n</tbody>\n</table>"
+      }
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "html",
+      {
+        "html": "<h4 id='colors-sub-heading'>Exterior</h4>\n<div class=\"colors-row\">\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #dcc795\"></div>\n        <div class=\"color-name\">Cream Beige</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #000000\"></div>\n        <div class=\"color-name\">Black</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #7a91a4\"></div>\n        <div class=\"color-name\">Medium Blue</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #304e72\"></div>\n        <div class=\"color-name\">Bright Blue Metallic</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #2a2f3f\"></div>\n        <div class=\"color-name\">Midnight Blue Metallic</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #b99e75\"></div>\n        <div class=\"color-name\">Sandstone</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #332b25\"></div>\n        <div class=\"color-name\">Dark Brown Metallic</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #859869\"></div>\n        <div class=\"color-name\">Medium Green</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #384239\"></div>\n        <div class=\"color-name\">Dark Green Metallic</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #9e2422\"></div>\n        <div class=\"color-name\">Medium Red</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #8c3031\"></div>\n        <div class=\"color-name\">Dark Red Metallic</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #7f5f47\"></div>\n        <div class=\"color-name\">Light Saddle Metallic</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #9d4f33\"></div>\n        <div class=\"color-name\">Medium Orange Metallic</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #858990\"></div>\n        <div class=\"color-name\">Silver</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #bcbdae\"></div>\n        <div class=\"color-name\">Light Gray</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #ece4d3\"></div>\n        <div class=\"color-name\">Antique White</div>\n    </div>\n</div>\n\n<h4 id='colors-sub-heading'>Interior</h4>\n<div class=\"colors-row\">\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #000000\"></div>\n        <div class=\"color-name\">Black</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #1f2a55\"></div>\n        <div class=\"color-name\">Blue</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #3f4c44\"></div>\n        <div class=\"color-name\">Green</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #bd2924\"></div>\n        <div class=\"color-name\">Red</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #b99e75\"></div>\n        <div class=\"color-name\">Sandstone</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #ece4d3\"></div>\n        <div class=\"color-name\">White</div>\n    </div>\n</div>\n"
+      }
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "gallery",
+      {
+        "images": [
+          {
+            "fileName": "1429_1975_Chevrolet_Monte_Carlo-01_low_res.jpg",
+            "row": 0,
+            "width": 769,
+            "height": 992,
+            "src": "__GHOST_URL__/content/images/2020/08/1429_1975_Chevrolet_Monte_Carlo-01_low_res.jpg"
+          },
+          {
+            "fileName": "1430_1975_Chevrolet_Monte_Carlo-02-03_low_res.jpg",
+            "row": 0,
+            "width": 790,
+            "height": 513,
+            "src": "__GHOST_URL__/content/images/2020/08/1430_1975_Chevrolet_Monte_Carlo-02-03_low_res.jpg"
+          },
+          {
+            "fileName": "1431_1975_Chevrolet_Monte_Carlo-04-05_low_res.jpg",
+            "row": 0,
+            "width": 790,
+            "height": 515,
+            "src": "__GHOST_URL__/content/images/2020/08/1431_1975_Chevrolet_Monte_Carlo-04-05_low_res.jpg"
+          },
+          {
+            "fileName": "1432_1975_Chevrolet_Monte_Carlo-06-07_low_res.jpg",
+            "row": 1,
+            "width": 790,
+            "height": 514,
+            "src": "__GHOST_URL__/content/images/2020/08/1432_1975_Chevrolet_Monte_Carlo-06-07_low_res.jpg"
+          },
+          {
+            "fileName": "1433_1975_Chevrolet_Monte_Carlo-08_low_res.jpg",
+            "row": 1,
+            "width": 765,
+            "height": 992,
+            "src": "__GHOST_URL__/content/images/2020/08/1433_1975_Chevrolet_Monte_Carlo-08_low_res.jpg"
+          },
+          {
+            "fileName": "1434_1975_Chevrolet_Monte_Carlo-09_low_res.jpg",
+            "row": 1,
+            "width": 766,
+            "height": 992,
+            "src": "__GHOST_URL__/content/images/2020/08/1434_1975_Chevrolet_Monte_Carlo-09_low_res.jpg"
+          },
+          {
+            "fileName": "1435_1975_Chevrolet_Monte_Carlo-10_low_res.jpg",
+            "row": 2,
+            "width": 763,
+            "height": 992,
+            "src": "__GHOST_URL__/content/images/2020/08/1435_1975_Chevrolet_Monte_Carlo-10_low_res.jpg"
+          },
+          {
+            "fileName": "1436_1975_Chevrolet_Monte_Carlo-11_low_res.jpg",
+            "row": 2,
+            "width": 769,
+            "height": 992,
+            "src": "__GHOST_URL__/content/images/2020/08/1436_1975_Chevrolet_Monte_Carlo-11_low_res.jpg"
+          },
+          {
+            "fileName": "1437_1975_Chevrolet_Monte_Carlo-12_low_res.jpg",
+            "row": 2,
+            "width": 769,
+            "height": 992,
+            "src": "__GHOST_URL__/content/images/2020/08/1437_1975_Chevrolet_Monte_Carlo-12_low_res.jpg"
+          }
+        ],
+        "caption": "1975 Chevrolet Monte Carlo OEM Brochures"
+      }
+    ],
+    [
+      "hr",
+      {}
+    ]
+  ],
+  "markups": [
+    [
+      "strong"
+    ],
+    [
+      "em"
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/tag/research/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/articles/handpicked/2002-camaro-z-28-vintage-mods/"
+      ]
+    ]
+  ],
+  "sections": [
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Overview"
+        ]
+      ]
+    ],
+    [
+      10,
+      0
+    ],
+    [
+      1,
+      "h3",
+      [
+        [
+          0,
+          [],
+          0,
+          "The 1975 Monte Carlo was revised only slightly from the previous year like a new grille with the Monte Carlo emblem moved to the center section and new vertically shaped taillights with horizontal louvers."
+        ]
+      ]
+    ],
+    [
+      10,
+      1
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "The 1975 Monte Carlo was revised only slightly from the previous year like a new grille with the Monte Carlo emblem moved to the center section and new vertically shaped taillights with horizontal louvers."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Catalytic converters were introduced as standard equipment to meet federal emissions requirements. It came with advantages like improved fuel economy and drivability, but required more expensive and lower-octane unleaded gasoline. The disadvantage was a loss in power, however."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Also new for 1975 was a Custom interior option that included a plusher cloth 50/50 bench seat with recliner on passenger side and lower door panel carpeting. A new gauge as part of the \"Econominder\" became optional that showed if one was using too much gas became optional."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Sales dropped due to an increased price and stiff competition from the Charger SE, but production would bounce back in 1976."
+        ]
+      ]
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Production Numbers"
+        ]
+      ]
+    ],
+    [
+      10,
+      2
+    ],
+    [
+      10,
+      3
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Performance Specs"
+        ]
+      ]
+    ],
+    [
+      10,
+      4
+    ],
+    [
+      10,
+      5
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Transmission"
+        ]
+      ]
+    ],
+    [
+      10,
+      6
+    ],
+    [
+      3,
+      "ul",
+      [
+        [
+          [
+            0,
+            [
+              0,
+              0
+            ],
+            2,
+            "3-Speed Manual"
+          ]
+        ],
+        [
+          [
+            0,
+            [
+              0,
+              0
+            ],
+            2,
+            "Turbo Hydra-Matic"
+          ]
+        ]
+      ]
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Paint & Colors"
+        ]
+      ]
+    ],
+    [
+      10,
+      7
+    ],
+    [
+      10,
+      8
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "OEM Brochures"
+        ]
+      ]
+    ],
+    [
+      10,
+      9
+    ],
+    [
+      10,
+      10
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "About the Knowledge Base"
+        ]
+      ]
+    ],
+    [
+      10,
+      11
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "The Motorious Knowledge Base provides a comprehensive vehicle overview for the 1975 Chevrolet Monte Carlo"
+        ],
+        [
+          0,
+          [
+            1,
+            1
+          ],
+          2,
+          " "
+        ],
+        [
+          0,
+          [],
+          0,
+          "including production numbers, performance specs, factory colors, and OEM brochures. Check out additional model years or related content linked to this article or view other Makes and Models in our "
+        ],
+        [
+          0,
+          [
+            2
+          ],
+          1,
+          "Research"
+        ],
+        [
+          0,
+          [],
+          0,
+          " center."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "If you have any interesting facts about the 1975 "
+        ],
+        [
+          0,
+          [
+            3
+          ],
+          1,
+          "Chevrolet"
+        ],
+        [
+          0,
+          [],
+          0,
+          " Monte Carlo"
+        ],
+        [
+          0,
+          [
+            1,
+            1
+          ],
+          2,
+          " "
+        ],
+        [
+          0,
+          [],
+          0,
+          "to add, want to tell us how we did covering the Monte Carlo, or want to tell us about yours, please leave a comment below."
+        ]
+      ]
+    ]
+  ],
+  "ghostVersion": "3.0"
+}

@@ -1,0 +1,519 @@
+{
+  "root": {
+    "children": [
+      {
+        "children": [
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": "Week 1: Core Concepts",
+            "type": "text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "heading",
+        "tag": "h2",
+        "version": 1
+      },
+      {
+        "children": [
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": "Video",
+            "type": "text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "heading",
+        "tag": "h3",
+        "version": 1
+      },
+      {
+        "type": "embed",
+        "url": "https://vimeo.com/adders/essana23-1",
+        "html": "<iframe src=\"https://player.vimeo.com/video/796969417?h=f7b4b372c6&amp;app_id=122963\" width=\"426\" height=\"224\" frameborder=\"0\" allow=\"autoplay; fullscreen; picture-in-picture\" allowfullscreen></iframe>",
+        "metadata": {
+          "version": "1.0",
+          "provider_name": "Vimeo",
+          "provider_url": "https://vimeo.com/",
+          "width": 426,
+          "height": 224,
+          "domain_status_code": 403,
+          "video_id": 796969417,
+          "uri": "/videos/796969417"
+        },
+        "embedType": "video"
+      },
+      {
+        "children": [
+          {
+            "detail": 0,
+            "format": 1,
+            "mode": "normal",
+            "style": "",
+            "text": "Password",
+            "type": "text",
+            "version": 1
+          },
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": ": c0unt1ng",
+            "type": "text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "paragraph",
+        "version": 1
+      },
+      {
+        "children": [
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": "Slides",
+            "type": "text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "heading",
+        "tag": "h3",
+        "version": 1
+      },
+      {
+        "type": "file",
+        "loop": false,
+        "src": "__GHOST_URL__/content/files/2023/02/Analytics-Slides-Week-1.pdf",
+        "fileName": "Analytics Slides Week 1.pdf",
+        "fileTitle": "Analytics Slides Week 1",
+        "fileCaption": "The slides used during the session",
+        "fileSize": 4745755
+      },
+      {
+        "children": [
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": "Links and resources",
+            "type": "text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "heading",
+        "tag": "h3",
+        "version": 1
+      },
+      {
+        "type": "embed",
+        "url": "https://www.youtube.com/watch?v=k-TO1VesYwY",
+        "html": "<iframe width=\"200\" height=\"113\" src=\"https://www.youtube.com/embed/k-TO1VesYwY?feature=oembed\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen title=\"Newsgeist Europe 15 Ignite Talks: Chris Moran, The Guardian\"></iframe>",
+        "metadata": {
+          "title": "Newsgeist Europe 15 Ignite Talks: Chris Moran, The Guardian",
+          "author_name": "Newsgeist",
+          "author_url": "https://www.youtube.com/@newsgeist",
+          "height": 113,
+          "width": 200,
+          "version": "1.0",
+          "provider_name": "YouTube",
+          "provider_url": "https://www.youtube.com/",
+          "thumbnail_height": 360,
+          "thumbnail_width": 480,
+          "thumbnail_url": "https://i.ytimg.com/vi/k-TO1VesYwY/hqdefault.jpg"
+        },
+        "embedType": "video"
+      },
+      {
+        "type": "bookmark",
+        "version": "1.0",
+        "url": "https://www.cjr.org/tow_center_reports/the_traffic_factories_metrics_at_chartbeat_gawker_media_and_the_new_york_times.php",
+        "metadata": {
+          "url": "https://www.cjr.org/tow_center_reports/the_traffic_factories_metrics_at_chartbeat_gawker_media_and_the_new_york_times.php/",
+          "title": "The Traffic Factories: Metrics at Chartbeat, Gawker Media, and The New York Times",
+          "description": "<p>To print or a read a PDF of this report, visit the Tow Center’s Gitbook page. Tip Sheet Audience metrics have become ubiquitous in news organizations, but there has been little empirical research on how the data is produced or how it affects newsroom culture and journalists’ daily work. The Tow C…",
+          "author": "Caitlin Petre",
+          "publisher": "Columbia Journalism Review",
+          "thumbnail": "https://www.cjr.org/wp-content/themes/cjr2017/_resources2015/images/global/CJR-social-1000-500.png",
+          "icon": "https://www.cjr.org/wp-content/themes/cjr2017/_resources2015/img/favicon-152.png"
+        }
+      },
+      {
+        "type": "bookmark",
+        "version": "1.0",
+        "url": "__GHOST_URL__/essential-analytics/",
+        "metadata": {
+          "url": "__GHOST_URL__/essential-analytics/",
+          "title": "Essential Analytics",
+          "description": "A guide to using analytics successfully in your journalism and publishing.",
+          "author": "Adam Tinworth",
+          "publisher": "One Man & His Blog",
+          "thumbnail": "https://images.unsplash.com/photo-1560472354-b33ff0c44a43?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=2000&fit=max&ixid=eyJhcHBfaWQiOjExNzczfQ",
+          "icon": "__GHOST_URL__/content/images/size/w256h256/2021/05/COV-1638-3865.png"
+        }
+      },
+      {
+        "type": "horizontalrule"
+      },
+      {
+        "children": [
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": "Week 2: Defining the Metrics",
+            "type": "text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "heading",
+        "tag": "h2",
+        "version": 1
+      },
+      {
+        "children": [
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": "Video",
+            "type": "text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "heading",
+        "tag": "h3",
+        "version": 1
+      },
+      {
+        "type": "embed",
+        "url": "https://vimeo.com/adders/essana23-2",
+        "html": "<iframe src=\"https://player.vimeo.com/video/799157003?h=605a324f44&amp;app_id=122963\" width=\"426\" height=\"224\" frameborder=\"0\" allow=\"autoplay; fullscreen; picture-in-picture\" allowfullscreen></iframe>",
+        "metadata": {
+          "version": "1.0",
+          "provider_name": "Vimeo",
+          "provider_url": "https://vimeo.com/",
+          "width": 426,
+          "height": 224,
+          "domain_status_code": 403,
+          "video_id": 799157003,
+          "uri": "/videos/799157003"
+        },
+        "embedType": "video"
+      },
+      {
+        "children": [
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": "Slides",
+            "type": "text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "heading",
+        "tag": "h3",
+        "version": 1
+      },
+      {
+        "type": "file",
+        "loop": false,
+        "src": "__GHOST_URL__/content/files/2023/02/Week-2-slides.pdf",
+        "fileName": "Week 2 slides.pdf",
+        "fileTitle": "Week 2 slides",
+        "fileCaption": "The slides used during the session",
+        "fileSize": 67770
+      },
+      {
+        "children": [
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": "Links & resources",
+            "type": "text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "heading",
+        "tag": "h3",
+        "version": 1
+      },
+      {
+        "type": "image",
+        "src": "__GHOST_URL__/content/images/2023/02/Loyalty.png",
+        "width": 2732,
+        "height": 2048
+      },
+      {
+        "type": "bookmark",
+        "version": "1.0",
+        "url": "__GHOST_URL__/analytics-key-terms/",
+        "metadata": {
+          "url": "__GHOST_URL__/analytics-key-terms/",
+          "title": "Analytics: Key Terms",
+          "description": "Digital journalism & the creator economy. By Adam Tinworth",
+          "author": "Adam Tinworth",
+          "publisher": "One Man & His Blog",
+          "thumbnail": "https://images.unsplash.com/photo-1434626881859-194d67b2b86f?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=2000&fit=max&ixid=eyJhcHBfaWQiOjExNzczfQ",
+          "icon": "__GHOST_URL__/content/images/size/w256h256/2021/05/COV-1638-3865.png"
+        }
+      },
+      {
+        "type": "horizontalrule"
+      },
+      {
+        "children": [
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": "Week 3: Analytics in action",
+            "type": "text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "heading",
+        "tag": "h2",
+        "version": 1
+      },
+      {
+        "children": [],
+        "direction": null,
+        "format": "",
+        "indent": 0,
+        "type": "paragraph",
+        "version": 1
+      },
+      {
+        "children": [
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": "Slides",
+            "type": "text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "heading",
+        "tag": "h3",
+        "version": 1
+      },
+      {
+        "type": "file",
+        "loop": false,
+        "src": "__GHOST_URL__/content/files/2023/02/Analytics-Course--Scenarios.pdf",
+        "fileName": "Analytics Course  Scenarios.pdf",
+        "fileTitle": "Analytics Course Scenarios",
+        "fileCaption": "The four scenarios we discussed",
+        "fileSize": 18978
+      },
+      {
+        "children": [
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": "Links & resources",
+            "type": "text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "heading",
+        "tag": "h3",
+        "version": 1
+      },
+      {
+        "type": "bookmark",
+        "version": "1.0",
+        "url": "__GHOST_URL__/analaytics/",
+        "metadata": {
+          "url": "__GHOST_URL__/analaytics/",
+          "title": "Analytics: the power of ”?”",
+          "description": "Understanding the power of campaign tracking, that’s unleashed by the humble question mark.",
+          "author": "Adam Tinworth",
+          "publisher": "One Man & His Blog",
+          "thumbnail": "__GHOST_URL__/content/images/2023/02/adders_a_question_mark_as_a_superhero_7570766d-8383-402d-9d0c-a231f5271371.jpeg",
+          "icon": "__GHOST_URL__/content/images/size/w256h256/2021/05/COV-1638-3865.png"
+        }
+      },
+      {
+        "children": [
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": "Campaign tracking URL builders",
+            "type": "text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "heading",
+        "tag": "h3",
+        "version": 1
+      },
+      {
+        "children": [
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": "Two places you can build campaign URLs:",
+            "type": "text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "paragraph",
+        "version": 1
+      },
+      {
+        "type": "bookmark",
+        "version": "1.0",
+        "url": "https://ga-dev-tools.google/ga4/campaign-url-builder/",
+        "metadata": {
+          "url": "https://ga-dev-tools.google/",
+          "title": "Campaign URL Builder",
+          "description": "This tool allows you to easily add campaign parameters to URLs so you can measure Custom Campaigns in Google Analytics.",
+          "author": null,
+          "publisher": null,
+          "thumbnail": null,
+          "icon": "https://ga-dev-tools.google/icons/icon-512x512.png?v=5ca3b219e853f3099dafaaf6ab021795"
+        }
+      },
+      {
+        "type": "bookmark",
+        "version": "1.0",
+        "url": "https://usefathom.com/utm-builder",
+        "metadata": {
+          "url": "https://usefathom.com/utm-builder",
+          "title": "UTM Campaign builder",
+          "description": "Free UTM Campaign code builder to track UTM URLs. Compatible with all analytics tools including Fathom Analytics, Google Analytics, Mixpanel, and Kissmetrics.",
+          "author": null,
+          "publisher": "Fathom Analytics",
+          "thumbnail": "https://usefathom.com/assets/images/pages/meta-utm-builder.png",
+          "icon": "https://usefathom.com/assets/images/favicon.svg"
+        }
+      },
+      {
+        "children": [
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": "Week 4: ",
+            "type": "text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "paragraph",
+        "version": 1
+      },
+      {
+        "children": [],
+        "direction": null,
+        "format": "",
+        "indent": 0,
+        "type": "paragraph",
+        "version": 1
+      },
+      {
+        "type": "embed",
+        "url": "https://www.youtube.com/watch?v=SfYSqozBy64",
+        "html": "<iframe width=\"200\" height=\"113\" src=\"https://www.youtube.com/embed/SfYSqozBy64?feature=oembed\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen title=\"Search Console for news sites\"></iframe>",
+        "metadata": {
+          "title": "Search Console for news sites",
+          "author_name": "Google Search Central",
+          "author_url": "https://www.youtube.com/@GoogleSearchCentral",
+          "height": 113,
+          "width": 200,
+          "version": "1.0",
+          "provider_name": "YouTube",
+          "provider_url": "https://www.youtube.com/",
+          "thumbnail_height": 360,
+          "thumbnail_width": 480,
+          "thumbnail_url": "https://i.ytimg.com/vi/SfYSqozBy64/hqdefault.jpg"
+        },
+        "embedType": "video"
+      },
+      {
+        "children": [],
+        "direction": null,
+        "format": "",
+        "indent": 0,
+        "type": "paragraph",
+        "version": 1
+      }
+    ],
+    "direction": "ltr",
+    "format": "",
+    "indent": 0,
+    "type": "root",
+    "version": 1
+  }
+}

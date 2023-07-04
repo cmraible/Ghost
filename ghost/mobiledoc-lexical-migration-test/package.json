@@ -7,6 +7,9 @@
   "main": "index.js",
   "scripts": {
     "dev": "echo \"Implement me!\"",
+    "go": "node .",
+    "load": "node ./lib/load-posts",
+    "diff": "node ./lib/show-diff",
     "test:unit": "NODE_ENV=testing c8 --all --check-coverage --100  --reporter text --reporter cobertura mocha './test/**/*.test.js'",
     "test": "yarn test:unit",
     "lint:code": "eslint *.js lib/ --ext .js --cache",
@@ -23,7 +26,11 @@
     "sinon": "15.1.2"
   },
   "dependencies": {
+    "diff2html": "^3.4.35",
+    "git-diff": "^2.0.6",
+    "html-entities": "^2.4.0",
     "js-beautify": "^1.14.8",
-    "mysql": "^2.18.1"
+    "mysql": "^2.18.1",
+    "node-htmldiff": "^0.9.4"
   }
 }

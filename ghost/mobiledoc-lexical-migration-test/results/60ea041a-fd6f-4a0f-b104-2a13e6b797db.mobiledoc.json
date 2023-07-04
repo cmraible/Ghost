@@ -1,0 +1,224 @@
+{
+  "version": "0.3.1",
+  "atoms": [],
+  "cards": [
+    [
+      "email-cta",
+      {
+        "showButton": true,
+        "showDividers": false,
+        "segment": "status:free",
+        "alignment": "center",
+        "html": "<p><strong><em>Please <a href=\"__GHOST_URL__/subscribe\">become a paid subscriber</a>. You get exclusive podcasts, <a href=\"__GHOST_URL__/citizens-guide-to-holding-the-powerful-accountable/\">digital publications</a>, and live events – and you support this journalism.</em></strong></p>",
+        "buttonText": "Click Here To Subscribe",
+        "buttonUrl": "__GHOST_URL__/subscribe"
+      }
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "email-cta",
+      {
+        "showButton": true,
+        "showDividers": false,
+        "segment": "status:free",
+        "alignment": "center",
+        "html": "",
+        "buttonText": "Click Here To Subscribe",
+        "buttonUrl": "__GHOST_URL__/subscribe"
+      }
+    ]
+  ],
+  "markups": [
+    [
+      "strong"
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/subscribe/"
+      ]
+    ],
+    [
+      "em"
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/how-dark-money-captured-the-supreme-court/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/new-the-citizens-guide-to-holding/"
+      ]
+    ]
+  ],
+  "sections": [
+    [
+      10,
+      0
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "A few weeks ago, the commission that President Joe Biden set up to examine court reform published draft documents expressing skepticism about adding justices to the court, suggesting that doing so “could further weaken national and international norms against tampering with independent judiciaries.”"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "But as a new report authored by Senate Majority Leader Chuck Schumer, D-N.Y., and Sens. Debbie Stabenow, D-Mich., and Sheldon Whitehouse, D-R.I. makes clear, the nation’s highest court is already being tampered with — thanks to dark money and corporate meddling."
+        ]
+      ]
+    ],
+    [
+      1,
+      "h3",
+      [
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "ADDITIONALLY FOR PAID SUBSCRIBERS ("
+        ],
+        [
+          0,
+          [
+            1,
+            0
+          ],
+          2,
+          "click here to subscribe"
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "):"
+        ]
+      ]
+    ],
+    [
+      3,
+      "ul",
+      [
+        [
+          [
+            0,
+            [],
+            0,
+            "Manchin attended a secret event with Big Coal."
+          ]
+        ],
+        [
+          [
+            0,
+            [],
+            0,
+            "A Catholic health system is not acting very catholic."
+          ]
+        ],
+        [
+          [
+            0,
+            [],
+            0,
+            "The Senate Parliamentarian may have a conflict of interest."
+          ]
+        ]
+      ]
+    ],
+    [
+      10,
+      1
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [
+            2,
+            0
+          ],
+          0,
+          "If you’d like to "
+        ],
+        [
+          0,
+          [
+            3
+          ],
+          1,
+          "read the full report"
+        ],
+        [
+          0,
+          [],
+          0,
+          ", please "
+        ],
+        [
+          0,
+          [
+            1
+          ],
+          1,
+          "click here"
+        ],
+        [
+          0,
+          [],
+          2,
+          " to become an $8-a-month or $70-a-year supporting subscriber. When you become a supporting subscriber, you get this kind of exclusive content, you get access to our live events, you get our new "
+        ],
+        [
+          0,
+          [
+            0,
+            4
+          ],
+          2,
+          "Citizens' Guide To Holding The Powerful Accountable"
+        ],
+        [
+          0,
+          [
+            2,
+            0
+          ],
+          2,
+          " – and you are helping us hire more journalists."
+        ]
+      ]
+    ],
+    [
+      10,
+      2
+    ]
+  ],
+  "ghostVersion": "4.0"
+}

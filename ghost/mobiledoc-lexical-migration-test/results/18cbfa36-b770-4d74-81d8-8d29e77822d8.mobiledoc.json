@@ -1,0 +1,238 @@
+{
+  "version": "0.3.1",
+  "atoms": [],
+  "cards": [
+    [
+      "email-cta",
+      {
+        "showButton": true,
+        "showDividers": false,
+        "segment": "status:free",
+        "alignment": "center",
+        "html": "<p><strong><em>Please <a href=\"https://levernews.com/membership\">become a supporting subscriber</a>. You get exclusive podcasts, <a href=\"__GHOST_URL__/citizens-guide/\">digital publications</a>, and live events </em></strong>—<strong><em> and you support this journalism.</em></strong></p>",
+        "buttonText": "Upgrade",
+        "buttonUrl": "https://levernews.com/membership"
+      }
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "email-cta",
+      {
+        "showButton": true,
+        "showDividers": false,
+        "segment": "status:-free",
+        "alignment": "center",
+        "html": "",
+        "buttonText": "Tip Jar",
+        "buttonUrl": "https://dailyposter.outpost.pub/ghost-integration/60818189ad12f332071054b8/tips"
+      }
+    ],
+    [
+      "email-cta",
+      {
+        "showButton": true,
+        "showDividers": false,
+        "segment": "status:free",
+        "alignment": "center",
+        "html": "",
+        "buttonText": "Upgrade",
+        "buttonUrl": "https://levernews.com/membership"
+      }
+    ],
+    [
+      "email",
+      {
+        "html": "<p><em><strong>Help us spread the word! </strong>Please forward this email to family and friends.</em></p><p><em><strong>Was this email forwarded to you? </strong><a href=\"https://levernews.com/membership/\">Sign up for free</a> to receive original reporting like this in your inbox every day.</em></p>"
+      }
+    ]
+  ],
+  "markups": [
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/biden-offers-amazon-workers-rhetoric-but-no-action/"
+      ]
+    ],
+    [
+      "em"
+    ],
+    [
+      "strong"
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/dont-break-our-prime-2/"
+      ]
+    ]
+  ],
+  "sections": [
+    [
+      10,
+      0
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "We have a double feature for you today — two major stories that our reporters dug out exploring how Big Tech interests like Amazon are working to shape federal policy. Huge thanks to our supporting subscribers for funding this work. Check out the stories:"
+        ]
+      ]
+    ],
+    [
+      1,
+      "h3",
+      [
+        [
+          0,
+          [],
+          0,
+          "1. Biden Offers Amazon Workers Rhetoric, But No Action"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "On Wednesday, President Joe Biden made headlines supporting Amazon workers trying to unionize and declaring, “Amazon, here we come.” But after Amazon-linked campaign cash has flooded into Democratic coffers, the president has refused to follow his own labor task force’s limited unionization recommendations, and he has failed to reinstate an Obama-era rule requiring companies like Amazon to disclose all of their union-busting spending. Such disclosures could help expose the anti-labor tactics of major law firms — including those that previously employed a key member of Biden’s labor task force."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [
+            0,
+            1,
+            2
+          ],
+          3,
+          "Click here to read the report on Biden’s failure to act..."
+        ]
+      ]
+    ],
+    [
+      1,
+      "h3",
+      [
+        [
+          0,
+          [],
+          0,
+          "2. Big Tech's Antitrust Ad Blitz"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "A misleading multi-million dollar ad campaign reveals how the tech industry is leveraging American consumerism and need for instant gratification in order to oppose landmark antitrust legislation that would make it easier for people and small businesses to sell products and services online. Big Tech’s rallying cry? “Don’t break our Prime.”"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [
+            3,
+            1,
+            2
+          ],
+          3,
+          "Click here to read the report on the ad blitz..."
+        ]
+      ]
+    ],
+    [
+      10,
+      1
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [
+            1,
+            2
+          ],
+          1,
+          "Our news organization relies on readers pitching in to support our journalism. "
+        ],
+        [
+          0,
+          [
+            1,
+            2
+          ],
+          3,
+          "If you like this story, please support "
+        ],
+        [
+          0,
+          [
+            2,
+            1,
+            2
+          ],
+          3,
+          "our"
+        ],
+        [
+          0,
+          [
+            1,
+            1,
+            2
+          ],
+          3,
+          " work."
+        ]
+      ]
+    ],
+    [
+      10,
+      2
+    ],
+    [
+      10,
+      3
+    ],
+    [
+      10,
+      4
+    ],
+    [
+      1,
+      "p",
+      []
+    ]
+  ],
+  "ghostVersion": "4.0"
+}

@@ -1,0 +1,247 @@
+{
+  "version": "0.3.1",
+  "atoms": [],
+  "cards": [
+    [
+      "email-cta",
+      {
+        "showButton": true,
+        "showDividers": false,
+        "segment": "status:free",
+        "alignment": "center",
+        "html": "<p><strong><em>Please <a href=\"__GHOST_URL__/subscribe\">become a paid subscriber</a>. You get exclusive podcasts, <a href=\"__GHOST_URL__/citizens-guide-to-holding-the-powerful-accountable/\">digital publications</a>, and live events – and you support this journalism.</em></strong></p>",
+        "buttonText": "Click Here To Subscribe",
+        "buttonUrl": "__GHOST_URL__/subscribe"
+      }
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "email-cta",
+      {
+        "showButton": true,
+        "showDividers": false,
+        "segment": "status:free",
+        "alignment": "center",
+        "html": "",
+        "buttonText": "Click Here To Subscribe",
+        "buttonUrl": "__GHOST_URL__/subscribe"
+      }
+    ]
+  ],
+  "markups": [
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/the-pharma-money-fueling-the-dem-party-machine/"
+      ]
+    ],
+    [
+      "strong"
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/subscribe/"
+      ]
+    ],
+    [
+      "em"
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/new-the-citizens-guide-to-holding/"
+      ]
+    ]
+  ],
+  "sections": [
+    [
+      10,
+      0
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "As we have repeatedly reported, Big Pharma has been funneling money to key corporate Democratic lawmakers who are doing the pharmaceutical industry’s bidding and working to water down the party’s drug pricing plan. But new campaign disclosures reveal the drug business’ influence-peddlers aren’t just funneling money to the individual lawmakers — they are also bankrolling core party infrastructure."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Find out how  and much more in "
+        ],
+        [
+          0,
+          [
+            0,
+            1
+          ],
+          2,
+          "today’s Midday Poster"
+        ],
+        [
+          0,
+          [],
+          0,
+          ", exclusive for subscribers."
+        ]
+      ]
+    ],
+    [
+      1,
+      "h3",
+      [
+        [
+          0,
+          [
+            1
+          ],
+          1,
+          "ADDITIONALLY FOR PAID SUBSCRIBERS ("
+        ],
+        [
+          0,
+          [
+            2,
+            1
+          ],
+          2,
+          "click here to subscribe"
+        ],
+        [
+          0,
+          [
+            1
+          ],
+          1,
+          "):"
+        ]
+      ]
+    ],
+    [
+      3,
+      "ul",
+      [
+        [
+          [
+            0,
+            [],
+            0,
+            "Biden’s private equity vacation."
+          ]
+        ],
+        [
+          [
+            0,
+            [],
+            0,
+            "Sinema speaks on pharma lobbying."
+          ]
+        ],
+        [
+          [
+            0,
+            [],
+            0,
+            "The racist roots of modern right-wing politics."
+          ]
+        ],
+        [
+          [
+            0,
+            [],
+            0,
+            "The birth of the Red Power movement."
+          ]
+        ]
+      ]
+    ],
+    [
+      10,
+      1
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [
+            3,
+            1
+          ],
+          0,
+          "If you’d like to "
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "read the full report"
+        ],
+        [
+          0,
+          [],
+          0,
+          ", please "
+        ],
+        [
+          0,
+          [
+            2
+          ],
+          1,
+          "click here"
+        ],
+        [
+          0,
+          [],
+          2,
+          " to become an $8-a-month or $70-a-year supporting subscriber. When you become a supporting subscriber, you get this kind of exclusive content, you get access to our live events, you get our new "
+        ],
+        [
+          0,
+          [
+            1,
+            4
+          ],
+          2,
+          "Citizens' Guide To Holding The Powerful Accountable"
+        ],
+        [
+          0,
+          [
+            3,
+            1
+          ],
+          2,
+          " – and you are helping us hire more journalists."
+        ]
+      ]
+    ],
+    [
+      10,
+      2
+    ]
+  ],
+  "ghostVersion": "4.0"
+}

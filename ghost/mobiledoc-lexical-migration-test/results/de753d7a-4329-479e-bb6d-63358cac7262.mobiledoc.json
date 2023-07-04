@@ -1,0 +1,660 @@
+{
+  "version": "0.3.1",
+  "atoms": [],
+  "cards": [
+    [
+      "image",
+      {
+        "src": "__GHOST_URL__/content/images/2022/10/Tweet-by-Deirdre-Bosa.png",
+        "caption": ""
+      }
+    ],
+    [
+      "image",
+      {
+        "src": "__GHOST_URL__/content/images/2022/10/Tweet-by-Yasmin-Khorram.png",
+        "caption": ""
+      }
+    ],
+    [
+      "image",
+      {
+        "src": "__GHOST_URL__/content/images/2022/10/Tweet-by-Ed-Ludlow.png",
+        "caption": ""
+      }
+    ],
+    [
+      "image",
+      {
+        "src": "__GHOST_URL__/content/images/2022/10/Tweet-by-Yasmin-Khorram-2.png",
+        "caption": ""
+      }
+    ],
+    [
+      "embed",
+      {
+        "url": "https://youtu.be/BjVEoD5WZWU?t=9332",
+        "html": "<iframe width=\"200\" height=\"113\" src=\"https://www.youtube.com/embed/BjVEoD5WZWU?start=9332&feature=oembed\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen title=\"LIVE: Outside Twitter&#39;s San Francisco HQ after Elon Musk takes over\"></iframe>",
+        "type": "video",
+        "metadata": {
+          "title": "LIVE: Outside Twitter's San Francisco HQ after Elon Musk takes over",
+          "author_name": "Reuters",
+          "author_url": "https://www.youtube.com/c/Reuters",
+          "height": 113,
+          "width": 200,
+          "version": "1.0",
+          "provider_name": "YouTube",
+          "provider_url": "https://www.youtube.com/",
+          "thumbnail_height": 360,
+          "thumbnail_width": 480,
+          "thumbnail_url": "https://i.ytimg.com/vi/BjVEoD5WZWU/hqdefault.jpg"
+        }
+      }
+    ],
+    [
+      "image",
+      {
+        "src": "__GHOST_URL__/content/images/2022/10/Tweet-by-Deirdre-Bosa-2.png",
+        "caption": ""
+      }
+    ],
+    [
+      "embed",
+      {
+        "url": "https://twitter.com/dee_bosa/status/1586042389851820034?s=61&t=7oXJPzBQZsybr_dbuouDbA",
+        "html": "<blockquote class=\"twitter-tweet\"><p lang=\"en\" dir=\"ltr\">It’s happening <br><br>Entire team of data engineers let go. These are two of them<a href=\"https://twitter.com/hashtag/TwitterTakeover?src=hash&amp;ref_src=twsrc%5Etfw\">#TwitterTakeover</a> <a href=\"https://t.co/gNSl6qSCKU\">pic.twitter.com/gNSl6qSCKU</a></p>&mdash; Deirdre Bosa (@dee_bosa) <a href=\"https://twitter.com/dee_bosa/status/1586042389851820034?ref_src=twsrc%5Etfw\">October 28, 2022</a></blockquote>\n<script async src=\"https://platform.twitter.com/widgets.js\" charset=\"utf-8\"></script>\n",
+        "type": "twitter",
+        "metadata": {
+          "url": "https://twitter.com/dee_bosa/status/1586042389851820034",
+          "author_name": "Deirdre Bosa",
+          "author_url": "https://twitter.com/dee_bosa",
+          "width": 550,
+          "height": null,
+          "cache_age": "3153600000",
+          "provider_name": "Twitter",
+          "provider_url": "http://www.twitter.com/",
+          "version": "1.0",
+          "tweet_data": {
+            "entities": {
+              "urls": [
+                {
+                  "start": 95,
+                  "end": 118,
+                  "url": "https://t.co/gNSl6qSCKU",
+                  "expanded_url": "https://twitter.com/dee_bosa/status/1586042389851820034/photo/1",
+                  "display_url": "pic.twitter.com/gNSl6qSCKU",
+                  "media_key": "3_1586042382465703938"
+                }
+              ],
+              "hashtags": [
+                {
+                  "start": 78,
+                  "end": 94,
+                  "tag": "TwitterTakeover"
+                }
+              ],
+              "annotations": [
+                {
+                  "start": 79,
+                  "end": 93,
+                  "probability": 0.9739,
+                  "type": "Other",
+                  "normalized_text": "TwitterTakeover"
+                }
+              ]
+            },
+            "public_metrics": {
+              "retweet_count": 15894,
+              "reply_count": 13565,
+              "like_count": 110250,
+              "quote_count": 5688
+            },
+            "edit_history_tweet_ids": [
+              "1586042389851820034"
+            ],
+            "conversation_id": "1586042389851820034",
+            "possibly_sensitive": false,
+            "created_at": "2022-10-28T17:09:07.000Z",
+            "text": "It’s happening \n\nEntire team of data engineers let go. These are two of them\n\n#TwitterTakeover https://t.co/gNSl6qSCKU",
+            "id": "1586042389851820034",
+            "attachments": {
+              "media_keys": [
+                "3_1586042382465703938"
+              ]
+            },
+            "author_id": "272317020",
+            "lang": "en",
+            "source": "Twitter for iPhone",
+            "reply_settings": "mentionedUsers",
+            "includes": {
+              "media": [
+                {
+                  "media_key": "3_1586042382465703938",
+                  "url": "https://pbs.twimg.com/media/FgLBJMWVIAIDIiz.jpg",
+                  "height": 2048,
+                  "width": 1536,
+                  "type": "photo"
+                }
+              ],
+              "users": [
+                {
+                  "entities": {
+                    "description": {
+                      "mentions": [
+                        {
+                          "start": 75,
+                          "end": 89,
+                          "username": "CNBCTechCheck"
+                        }
+                      ]
+                    }
+                  },
+                  "protected": false,
+                  "location": "SF",
+                  "name": "Deirdre Bosa",
+                  "pinned_tweet_id": "1567904530817237001",
+                  "id": "272317020",
+                  "username": "dee_bosa",
+                  "verified": true,
+                  "description": "Pronounced Dear-dra (formerly Wang Morris). Asia, Europe, now holding down @CNBCTechCheck at 1Market. Leafs fan 🇨🇦",
+                  "public_metrics": {
+                    "followers_count": 54826,
+                    "following_count": 4245,
+                    "tweet_count": 10450,
+                    "listed_count": 853
+                  },
+                  "profile_image_url": "https://pbs.twimg.com/profile_images/1364440198201806852/fFTPuWxa_normal.jpg",
+                  "created_at": "2011-03-26T07:53:48.000Z"
+                }
+              ]
+            }
+          }
+        }
+      }
+    ],
+    [
+      "image",
+      {
+        "src": "__GHOST_URL__/content/images/2022/10/Tweet-by-Elon-Musk.png",
+        "caption": ""
+      }
+    ]
+  ],
+  "markups": [
+    [
+      "a",
+      [
+        "href",
+        "https://www.washingtonpost.com/technology/2022/10/27/twitter-elon-musk/"
+      ]
+    ],
+    [
+      "em"
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.bloomberg.com/news/articles/2022-10-28/musk-starts-cutting-jobs-at-twitter-staff-leave-with-boxes?srnd=premium&sref=ExbtjcSG"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.cnbc.com/2022/10/28/musk-first-day-owning-twitter-leads-to-havoc-and-possible-hoax-.html"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://knowyourmeme.com/memes/ligma"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.theverge.com/2022/10/28/23428775/twitter-fake-employee-layoff-rahul-ligma-elon-musk"
+      ]
+    ]
+  ],
+  "sections": [
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "This morning I had plans to write some quick thoughts about the "
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "Musking of Twitter"
+        ],
+        [
+          0,
+          [],
+          0,
+          ". But events at City overtook me and, in the end, I’m just writing this up now as I wait for a train home. I’d initially planned to suggest we’d see a few days before we saw waves of layoffs because Musk is smart enough to know not to cut too fast in departments critical to the site’s functioning."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "And so, I was more than a little surprised to see reporters saying that an entire team of data engineers was gone:"
+        ]
+      ]
+    ],
+    [
+      10,
+      0
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "At first glance, I thought it was a good thing that I hadn’t posted this morning — I wasn’t expecting staff layoffs to start "
+        ],
+        [
+          0,
+          [
+            1
+          ],
+          1,
+          "that"
+        ],
+        [
+          0,
+          [],
+          0,
+          " quickly. But it looked like they had. And the tweets supporting the story kept coming:"
+        ]
+      ]
+    ],
+    [
+      10,
+      1
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [
+            2
+          ],
+          1,
+          "Bloomberg"
+        ],
+        [
+          0,
+          [],
+          0,
+          " and "
+        ],
+        [
+          0,
+          [
+            3
+          ],
+          1,
+          "CNBC"
+        ],
+        [
+          0,
+          [],
+          0,
+          " had written it up. It must be accurate, right?"
+        ]
+      ]
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Remember double-sourcing, anyone?"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "But the more I looked at it, the more odd it seemed. Just two people, no corroborating sources — was this what it seemed. Others were raising questions, based on contacts within Twitter:"
+        ]
+      ]
+    ],
+    [
+      10,
+      2
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "And then the climb-downs started:"
+        ]
+      ]
+    ],
+    [
+      10,
+      3
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "And then I saw the give-away on the Reuters Live Stream:"
+        ]
+      ]
+    ],
+    [
+      10,
+      4
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Ligma. "
+        ],
+        [
+          0,
+          [
+            1
+          ],
+          1,
+          "Ligma"
+        ],
+        [
+          0,
+          [],
+          0,
+          "? Oh, boy."
+        ]
+      ]
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Ligma was a clear signal this story is balls"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "It’s part of an "
+        ],
+        [
+          0,
+          [
+            4
+          ],
+          1,
+          "old internet joke"
+        ],
+        [
+          0,
+          [],
+          0,
+          ", where, if you get it, you reply “Balls”. Try it. Say “Ligma Balls” out loud (preferably not in an open-plan office). You’ll see the (rather juvenile) joke."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [
+            1
+          ],
+          1,
+          "It’s a fake."
+        ],
+        [
+          0,
+          [],
+          0,
+          " Those reporters outside Twitter have been trolled by two guys with a sense of humour and some boxes. And they ran the story without independent corroboration. That’s ending up on my verification slides…"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Journalists with a little more awareness of internet culture quickly "
+        ],
+        [
+          0,
+          [
+            5
+          ],
+          1,
+          "debunked the story"
+        ],
+        [
+          0,
+          [],
+          0,
+          ":"
+        ]
+      ]
+    ],
+    [
+      1,
+      "blockquote",
+      [
+        [
+          0,
+          [],
+          0,
+          "There are plenty of problems with what these two men say to reporters. The most glaring is that one man identifies himself as a software engineer named “Rahul Ligma.” "
+        ],
+        [
+          0,
+          [
+            1
+          ],
+          1,
+          "The Verge "
+        ],
+        [
+          0,
+          [],
+          0,
+          "has confirmed that name does not exist in Twitter’s Slack or email system. There is also no evidence that the employee exists on LinkedIn."
+        ]
+      ]
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "The apology you would rather not make"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Stories were quickly edited, and the journalists who had jumped too quickly had to start climbing down. This is not a tweet anybody wants to have to send:"
+        ]
+      ]
+    ],
+    [
+      10,
+      5
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "However, it’s rather terrifying that at least two major news outlets, without any other sources, reported that there were Twitter employees being laid off. "
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "This is the real danger when live reporting and social media intersect. Caught up in the excitement of the moment, Bosa tweeted out an essentially single-sourced story with no qualifications or caveats at all. I’ve used a screen grab above because I assume that this tweet will eventually be deleted, but it’s still live now:"
+        ]
+      ]
+    ],
+    [
+      10,
+      6
+    ],
+    [
+      1,
+      "blockquote",
+      [
+        [
+          0,
+          [],
+          0,
+          "It’s happening."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "No, it’s not. It might, and probably will. But you were trolled. And basic journalism practice would have saved embarrassment."
+        ]
+      ]
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Shitposter-in-chief"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Inevitably, Twitter’s new “Chief Twit” had to have the final word:"
+        ]
+      ]
+    ],
+    [
+      10,
+      7
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "And that, folks, is the sense of humour of the new guy in charge of Twitter."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "This is going to be a ride…"
+        ]
+      ]
+    ]
+  ],
+  "ghostVersion": "4.0"
+}

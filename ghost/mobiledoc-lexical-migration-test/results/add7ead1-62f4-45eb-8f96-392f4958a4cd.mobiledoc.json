@@ -1,0 +1,1096 @@
+{
+  "version": "0.3.1",
+  "atoms": [],
+  "cards": [
+    [
+      "header",
+      {
+        "size": "small",
+        "style": "image",
+        "buttonEnabled": false,
+        "header": "Week 1: Theory &amp; Intent",
+        "backgroundImageSrc": "__GHOST_URL__/content/images/2022/10/cristofer-maximilian-YK8Mvocj6yE-unsplash.jpg"
+      }
+    ],
+    [
+      "embed",
+      {
+        "url": "https://vimeo.com/760560423",
+        "html": "<iframe src=\"https://player.vimeo.com/video/760560423?h=c28df71e66&amp;app_id=122963\" width=\"426\" height=\"224\" frameborder=\"0\" allow=\"autoplay; fullscreen; picture-in-picture\" allowfullscreen></iframe>",
+        "type": "video",
+        "metadata": {
+          "version": "1.0",
+          "provider_name": "Vimeo",
+          "provider_url": "https://vimeo.com/",
+          "width": 426,
+          "height": 224,
+          "video_id": 760560423,
+          "uri": "/videos/760560423"
+        }
+      }
+    ],
+    [
+      "bookmark",
+      {
+        "version": "1.0",
+        "type": "bookmark",
+        "url": "__GHOST_URL__/seo-notes/",
+        "metadata": {
+          "url": "__GHOST_URL__/seo-notes/",
+          "title": "SEO - the basics",
+          "description": "Notes from the Essential SEO course and other SEO guidance",
+          "author": "Adam Tinworth",
+          "publisher": "One Man & His Blog",
+          "thumbnail": "https://images.unsplash.com/photo-1562577309-2592ab84b1bc?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=2000&fit=max&ixid=eyJhcHBfaWQiOjExNzczfQ",
+          "icon": "__GHOST_URL__/content/images/size/w256h256/2021/05/COV-1638-3865.png"
+        }
+      }
+    ],
+    [
+      "product",
+      {
+        "productButtonEnabled": true,
+        "productRatingEnabled": false,
+        "productStarRating": 5,
+        "productUrl": "https://amzn.to/3VFdO42",
+        "productButton": "Buy on Amazon",
+        "productTitle": "In The Plex",
+        "productDescription": "<p>A complelling story of the early days of Google, by journalist Steven Levy.</p>",
+        "productImageSrc": "__GHOST_URL__/content/images/2022/10/OB-NK448_bkrvpl_G_20110406172353.jpg",
+        "productImageWidth": 553,
+        "productImageHeight": 369
+      }
+    ],
+    [
+      "header",
+      {
+        "size": "small",
+        "style": "image",
+        "buttonEnabled": false,
+        "header": "Week 2: On-Page Optimisation",
+        "backgroundImageSrc": "__GHOST_URL__/content/images/2022/10/aryan-dhiman-iGLLtLINSkw-unsplash.jpg"
+      }
+    ],
+    [
+      "embed",
+      {
+        "url": "https://vimeo.com/adders/seoautumnonpage",
+        "html": "<iframe src=\"https://player.vimeo.com/video/764095338?h=dd9dfe6223&amp;app_id=122963\" width=\"426\" height=\"224\" frameborder=\"0\" allow=\"autoplay; fullscreen; picture-in-picture\" allowfullscreen></iframe>",
+        "type": "video",
+        "metadata": {
+          "version": "1.0",
+          "provider_name": "Vimeo",
+          "provider_url": "https://vimeo.com/",
+          "width": 426,
+          "height": 224,
+          "video_id": 764095338,
+          "uri": "/videos/764095338"
+        }
+      }
+    ],
+    [
+      "file",
+      {
+        "loop": false,
+        "src": "__GHOST_URL__/content/files/2022/10/SEO-Checklist.pdf",
+        "fileName": "SEO Checklist.pdf",
+        "fileTitle": "SEO Checklist",
+        "fileCaption": "A preflight checklist before you publish.",
+        "fileSize": 101223
+      }
+    ],
+    [
+      "bookmark",
+      {
+        "version": "1.0",
+        "type": "bookmark",
+        "url": "__GHOST_URL__/seo-on-page-optimisation/",
+        "metadata": {
+          "url": "__GHOST_URL__/seo-on-page-optimisation/",
+          "title": "SEO: On Page Optimisation",
+          "description": "How to make fully SEO-ready pages.",
+          "author": "Adam Tinworth",
+          "publisher": "One Man & His Blog",
+          "thumbnail": "https://images.unsplash.com/photo-1482062364825-616fd23b8fc1?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=2000&fit=max&ixid=eyJhcHBfaWQiOjExNzczfQ",
+          "icon": "__GHOST_URL__/content/images/size/w256h256/2021/05/COV-1638-3865.png"
+        }
+      }
+    ],
+    [
+      "bookmark",
+      {
+        "version": "1.0",
+        "type": "bookmark",
+        "url": "__GHOST_URL__/seo-links-and-linking/",
+        "metadata": {
+          "url": "__GHOST_URL__/seo-links-and-linking/",
+          "title": "SEO: Links and Linking",
+          "description": "How to link for SEO joy.",
+          "author": "Adam Tinworth",
+          "publisher": "One Man & His Blog",
+          "thumbnail": "https://images.unsplash.com/photo-1416543974351-c28453497ef4?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=2000&fit=max&ixid=eyJhcHBfaWQiOjExNzczfQ",
+          "icon": "__GHOST_URL__/content/images/size/w256h256/2021/05/COV-1638-3865.png"
+        }
+      }
+    ],
+    [
+      "bookmark",
+      {
+        "version": "1.0",
+        "type": "bookmark",
+        "url": "__GHOST_URL__/seo-with-wordpress-and-yoast/",
+        "metadata": {
+          "url": "__GHOST_URL__/seo-with-wordpress-and-yoast/",
+          "title": "SEO with WordPress and Yoast",
+          "description": "A quick guide to the technical bits of using Yoast to improve your WordPress SEO.",
+          "author": "Adam Tinworth",
+          "publisher": "One Man & His Blog",
+          "thumbnail": "https://images.unsplash.com/photo-1566207474742-de921626ad0c?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=2000&fit=max&ixid=eyJhcHBfaWQiOjExNzczfQ",
+          "icon": "__GHOST_URL__/content/images/size/w256h256/2021/05/COV-1638-3865.png"
+        }
+      }
+    ],
+    [
+      "bookmark",
+      {
+        "version": "1.0",
+        "type": "bookmark",
+        "url": "https://searchengineland.com/how-google-indexes-passages-of-a-page-and-what-it-means-for-seos-342215",
+        "metadata": {
+          "url": "https://searchengineland.com/how-google-indexes-passages-of-a-page-and-what-it-means-for-seos-342215",
+          "title": "How Google indexes passages of a page and what it means for SEO",
+          "description": "Google will begin passage based indexing later this year for English languages. It is a ranking change, not an indexing change.",
+          "author": "Barry Schwartz",
+          "publisher": "Search Engine Land",
+          "thumbnail": "https://searchengineland.com/wp-content/seloads/2017/08/content-design-website-mobile-ss-1920-e1505239549361.jpg",
+          "icon": "https://searchengineland.com/apple-touch-icon.png"
+        }
+      }
+    ],
+    [
+      "bookmark",
+      {
+        "version": "1.0",
+        "type": "bookmark",
+        "url": "https://developers.google.com/search/blog/2021/08/update-to-generating-page-titles",
+        "metadata": {
+          "url": "https://developers.google.com/search/blog/2021/08/update-to-generating-page-titles",
+          "title": "An update to how we generate web page titles | Google Search Central Blog | Google Developers",
+          "description": null,
+          "author": "Posted by Danny Sullivan, Search Liaison",
+          "publisher": "Google Developers",
+          "thumbnail": "https://developers.google.com/search/blog/images/social-share-blog.png",
+          "icon": "https://www.gstatic.com/devrel-devsite/prod/vab7ee6e3641f10848d404faa598f256587df1a361a1e70cd114230c2961b73d9/developers/images/favicon.png"
+        }
+      }
+    ],
+    [
+      "header",
+      {
+        "size": "small",
+        "style": "image",
+        "buttonEnabled": false,
+        "header": "Week 3: Content Clusters",
+        "backgroundImageSrc": "__GHOST_URL__/content/images/2022/11/kier-in-sight-Bqx_QDE-Kzk-unsplash.jpg"
+      }
+    ],
+    [
+      "embed",
+      {
+        "url": "https://vimeo.com/766432293",
+        "html": "<iframe src=\"https://player.vimeo.com/video/766432293?h=344559d559&amp;app_id=122963\" width=\"426\" height=\"224\" frameborder=\"0\" allow=\"autoplay; fullscreen; picture-in-picture\" allowfullscreen></iframe>",
+        "type": "video",
+        "metadata": {
+          "version": "1.0",
+          "provider_name": "Vimeo",
+          "provider_url": "https://vimeo.com/",
+          "width": 426,
+          "height": 224,
+          "video_id": 766432293,
+          "uri": "/videos/766432293"
+        }
+      }
+    ],
+    [
+      "file",
+      {
+        "loop": false,
+        "src": "__GHOST_URL__/content/files/2022/11/SEO-Week-3.pdf",
+        "fileName": "SEO Week 3.pdf",
+        "fileTitle": "SEO Week 3",
+        "fileCaption": "This week's slides",
+        "fileSize": 38659
+      }
+    ],
+    [
+      "bookmark",
+      {
+        "version": "1.0",
+        "type": "bookmark",
+        "url": "https://clappingdogmedia.com/the-best-content-strategy-content-clusters/",
+        "metadata": {
+          "url": "https://clappingdogmedia.com/the-best-content-strategy-content-clusters/",
+          "title": "The Best Content Strategy: Content Clusters - Clapping Dog Media",
+          "description": "Google made some ground breaking announcements recently that dictate what the best content strategy is.",
+          "author": "Meg Clarke",
+          "publisher": "Clapping Dog Media",
+          "thumbnail": "https://clappingdogmedia.com/wp-content/uploads/2021/09/IMG_2195_resize.jpg",
+          "icon": "https://clappingdogmedia.com/wp-content/uploads/2021/08/cropped-CDM_Favicon-01-270x270.png"
+        }
+      }
+    ],
+    [
+      "bookmark",
+      {
+        "version": "1.0",
+        "type": "bookmark",
+        "url": "https://sitecare.com/blog/how-do-content-clusters-strengthen-seo/",
+        "metadata": {
+          "url": "https://sitecare.com/blog/how-do-content-clusters-strengthen-seo/",
+          "title": "What Are Content Clusters? - How to use them to Power-up your SEO - SiteCare",
+          "description": "Wondering how a content cluster model strengthens your SEO efforts? Find out how topic modeling works, and learn how to build content clusters yourself.",
+          "author": "Catie Leary",
+          "publisher": "SiteCare",
+          "thumbnail": "https://sitecare.com/wp-content/uploads/2019/05/No-Content-Clusters-1.png",
+          "icon": "https://sitecare.com/wp-content/uploads/2020/10/cropped-favicon-270x270.png"
+        }
+      }
+    ],
+    [
+      "header",
+      {
+        "size": "small",
+        "style": "image",
+        "buttonEnabled": false,
+        "header": "Week 4: Tools &amp; Future",
+        "backgroundImageSrc": "__GHOST_URL__/content/images/2022/11/stephen-phillips-hostreviews-co-uk-shr_Xn8S8QU-unsplash.jpg"
+      }
+    ],
+    [
+      "embed",
+      {
+        "url": "https://vimeo.com/766889236",
+        "html": "<iframe src=\"https://player.vimeo.com/video/766889236?h=980aa26792&amp;app_id=122963\" width=\"426\" height=\"224\" frameborder=\"0\" allow=\"autoplay; fullscreen; picture-in-picture\" allowfullscreen></iframe>",
+        "type": "video",
+        "metadata": {
+          "version": "1.0",
+          "provider_name": "Vimeo",
+          "provider_url": "https://vimeo.com/",
+          "width": 426,
+          "height": 224,
+          "video_id": 766889236,
+          "uri": "/videos/766889236"
+        }
+      }
+    ],
+    [
+      "file",
+      {
+        "loop": false,
+        "src": "__GHOST_URL__/content/files/2022/11/SEO-Week-4.pdf",
+        "fileName": "SEO Week 4.pdf",
+        "fileTitle": "SEO Week 4",
+        "fileCaption": "This week's slides",
+        "fileSize": 1896731
+      }
+    ],
+    [
+      "bookmark",
+      {
+        "version": "1.0",
+        "type": "bookmark",
+        "url": "https://blog.hubspot.com/marketing/google-search-console",
+        "metadata": {
+          "url": "https://blog.hubspot.com/marketing/google-search-console",
+          "title": "The Ultimate Guide to Google Search Console in 2021",
+          "description": "Google Search Console (formerly Webmaster Tools) can help you monitor a site’s organic search presence on Google. Dive in with this guide.",
+          "author": "Aja Frost",
+          "publisher": "HubSpot",
+          "thumbnail": "https://blog.hubspot.com/hubfs/google-search-console-2.jpg#keepProtocol",
+          "icon": "https://blog.hubspot.com/hubfs/HubSpot_Logos/HubSpot-Inversed-Favicon.png"
+        }
+      }
+    ],
+    [
+      "image",
+      {
+        "src": "__GHOST_URL__/content/images/2022/11/SEO-Periodic-Table.jpg",
+        "width": 2200,
+        "height": 1700,
+        "caption": "<em>Search Engine Land</em>'s SEO Periodic Table - click for a larger version"
+      }
+    ],
+    [
+      "file",
+      {
+        "loop": false,
+        "src": "__GHOST_URL__/content/files/2022/11/SEO-Periodic-Table-2021.pdf",
+        "fileName": "SEO-Periodic-Table-2021.pdf",
+        "fileTitle": "SEO Periodic Table 2021",
+        "fileCaption": "The full PDF with more details",
+        "fileSize": 3785798
+      }
+    ],
+    [
+      "bookmark",
+      {
+        "version": "1.0",
+        "type": "bookmark",
+        "url": "https://developers.google.com/search/blog/2022/08/helpful-content-update",
+        "metadata": {
+          "url": "https://developers.google.com/search/blog/2022/08/helpful-content-update",
+          "title": "What creators should know about Google’s August 2022 helpful content update | Google Search Central Blog | Google Developers",
+          "description": null,
+          "author": "Posted by Chris Nelson, Search Quality",
+          "publisher": "Google Developers",
+          "thumbnail": "https://developers.google.com/search/blog/images/social-share-blog.png",
+          "icon": "https://www.gstatic.com/devrel-devsite/prod/vab7ee6e3641f10848d404faa598f256587df1a361a1e70cd114230c2961b73d9/developers/images/favicon.png"
+        }
+      }
+    ],
+    [
+      "bookmark",
+      {
+        "version": "1.0",
+        "type": "bookmark",
+        "url": "https://searchengineland.com/googles-september-2022-core-update-hit-fast-but-was-less-significant-than-previous-updates-388088",
+        "metadata": {
+          "url": "https://searchengineland.com/googles-september-2022-core-update-hit-fast-but-was-less-significant-than-previous-updates-388088",
+          "title": "Google’s September 2022 core update hit fast but was less significant than previous updates",
+          "description": "The data is in from the tracking tools and here is what these tools are showing with the latest Google algorithm update.",
+          "author": "Barry Schwartz",
+          "publisher": "Search Engine Land",
+          "thumbnail": "https://searchengineland.com/wp-content/seloads/2016/03/google-code-seo-algorithm8-ss-1920.jpg",
+          "icon": "https://searchengineland.com/apple-touch-icon.png"
+        }
+      }
+    ],
+    [
+      "header",
+      {
+        "size": "small",
+        "style": "image",
+        "buttonEnabled": false,
+        "header": "Extra Resources",
+        "backgroundImageSrc": "__GHOST_URL__/content/images/2022/11/brooke-cagle-uWVWQ8gF8PE-unsplash.jpg"
+      }
+    ],
+    [
+      "bookmark",
+      {
+        "version": "1.0",
+        "type": "bookmark",
+        "url": "__GHOST_URL__/seo-stop-words/",
+        "metadata": {
+          "url": "__GHOST_URL__/seo-stop-words/",
+          "title": "SEO: Stop Words and why you shouldn’t worry about them",
+          "description": "Should we be worrying about SEO in the 2020s?",
+          "author": "Adam Tinworth",
+          "publisher": "One Man & His Blog",
+          "thumbnail": "https://images.unsplash.com/photo-1523537444585-432d2bacc10d?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=2000&fit=max&ixid=eyJhcHBfaWQiOjExNzczfQ",
+          "icon": "__GHOST_URL__/content/images/size/w256h256/2021/05/COV-1638-3865.png"
+        }
+      }
+    ],
+    [
+      "bookmark",
+      {
+        "version": "1.0",
+        "type": "bookmark",
+        "url": "__GHOST_URL__/seo-paywalls/",
+        "metadata": {
+          "url": "__GHOST_URL__/seo-paywalls/",
+          "title": "SEO & Paywalls",
+          "description": "How does Google approach indexing paywalled content?",
+          "author": "Adam Tinworth",
+          "publisher": "One Man & His Blog",
+          "thumbnail": "https://images.unsplash.com/photo-1487088678257-3a541e6e3922?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=2000&fit=max&ixid=eyJhcHBfaWQiOjExNzczfQ",
+          "icon": "__GHOST_URL__/content/images/size/w256h256/2021/05/COV-1638-3865.png"
+        }
+      }
+    ],
+    [
+      "bookmark",
+      {
+        "version": "1.0",
+        "type": "bookmark",
+        "url": "__GHOST_URL__/seo-helps-hinderences/",
+        "metadata": {
+          "url": "__GHOST_URL__/seo-helps-hinderences/",
+          "title": "SEO: Helps & Hindrances",
+          "description": "Other factors to take into account in your SEO.",
+          "author": "Adam Tinworth",
+          "publisher": "One Man & His Blog",
+          "thumbnail": "https://images.unsplash.com/photo-1534078362425-387ae9668c17?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=2000&fit=max&ixid=eyJhcHBfaWQiOjExNzczfQ",
+          "icon": "__GHOST_URL__/content/images/size/w256h256/2021/05/COV-1638-3865.png"
+        }
+      }
+    ],
+    [
+      "image",
+      {
+        "src": "__GHOST_URL__/content/images/2022/11/Portal-button.jpg",
+        "width": 1208,
+        "height": 578,
+        "caption": "This is the Portal button"
+      }
+    ],
+    [
+      "image",
+      {
+        "src": "__GHOST_URL__/content/images/2022/11/portal-newsletter.jpg",
+        "width": 1394,
+        "height": 1303,
+        "caption": "Make sure the button turns green"
+      }
+    ],
+    [
+      "bookmark",
+      {
+        "version": "1.0",
+        "type": "bookmark",
+        "url": "https://wtfseo.substack.com",
+        "metadata": {
+          "url": "https://wtfseo.substack.com/",
+          "title": "WTF is SEO?",
+          "description": "Making sense of search for publishers. Click to read “WTF is SEO?”, a Substack publication with thousands of readers.",
+          "author": "WTF is SEO?",
+          "publisher": "WTF is SEO?",
+          "thumbnail": "https://substackcdn.com/image/fetch/w_1008,h_528,c_fill,f_jpg,q_auto:best,fl_progressive:steep/https%3A%2F%2Fwtfseo.substack.com%2Ftwitter%2Fsubscribe-card.svg%3Fv%3Ddd785eb030cbe59cc6c99a5622a07ac7%26version%3D7",
+          "icon": "https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/9fcd956f-3329-43ac-b51a-29e93ac92586/apple-touch-icon-1024x1024.png"
+        }
+      }
+    ],
+    [
+      "bookmark",
+      {
+        "version": "1.0",
+        "type": "bookmark",
+        "url": "https://www.seoforgooglenews.com",
+        "metadata": {
+          "url": "https://www.seoforgooglenews.com/",
+          "title": "SEO for Google News",
+          "description": "An irregular newsletter with insights, expertise, tips and updates for anyone interested in optimising for Google News. Click to read SEO for Google News, by Barry Adams, a Substack publication with thousands of readers.",
+          "author": "Barry Adams",
+          "publisher": "SEO for Google News",
+          "thumbnail": "https://substackcdn.com/image/fetch/w_1008,h_528,c_fill,f_jpg,q_auto:best,fl_progressive:steep/https%3A%2F%2Fwww.seoforgooglenews.com%2Ftwitter%2Fsubscribe-card.svg%3Fv%3Da0cd855c1f241f839d8309f4f571d4b8%26version%3D7",
+          "icon": "https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/1207c347-75ac-476a-8e37-4fb2216da45f/apple-touch-icon-1024x1024.png"
+        }
+      }
+    ]
+  ],
+  "markups": [
+    [
+      "a",
+      [
+        "href",
+        "https://trends.google.com/trends/?geo=GB"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.semrush.com/blog/how-to-use-search-intent-for-your-business/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://yoast.com/search-intent/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.semrush.com/blog/meta-description/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://answerthepublic.com"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://search.google.com/search-console/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://pagespeed.web.dev"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.sistrix.com"
+      ]
+    ]
+  ],
+  "sections": [
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Here's a week-by-week collection of resources to continue y0ur SEO journey from the discussions in our online course. "
+        ]
+      ]
+    ],
+    [
+      10,
+      0
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Session Video"
+        ]
+      ]
+    ],
+    [
+      10,
+      1
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Notes"
+        ]
+      ]
+    ],
+    [
+      10,
+      2
+    ],
+    [
+      1,
+      "h3",
+      [
+        [
+          0,
+          [],
+          0,
+          "Tools"
+        ]
+      ]
+    ],
+    [
+      3,
+      "ul",
+      [
+        [
+          [
+            0,
+            [
+              0
+            ],
+            1,
+            "Google Trends"
+          ]
+        ]
+      ]
+    ],
+    [
+      1,
+      "h3",
+      [
+        [
+          0,
+          [],
+          0,
+          "Further Reading"
+        ]
+      ]
+    ],
+    [
+      3,
+      "ul",
+      [
+        [
+          [
+            0,
+            [
+              1
+            ],
+            1,
+            "What is search intent?"
+          ],
+          [
+            0,
+            [],
+            0,
+            " (SEMRush)"
+          ]
+        ],
+        [
+          [
+            0,
+            [
+              2
+            ],
+            1,
+            "What is search intent and why is it important for search"
+          ],
+          [
+            0,
+            [],
+            0,
+            "? (Yoast)"
+          ]
+        ]
+      ]
+    ],
+    [
+      10,
+      3
+    ],
+    [
+      10,
+      4
+    ],
+    [
+      1,
+      "h3",
+      [
+        [
+          0,
+          [],
+          0,
+          "Video"
+        ]
+      ]
+    ],
+    [
+      10,
+      5
+    ],
+    [
+      1,
+      "h3",
+      [
+        [
+          0,
+          [],
+          0,
+          "Reference"
+        ]
+      ]
+    ],
+    [
+      10,
+      6
+    ],
+    [
+      1,
+      "h3",
+      [
+        [
+          0,
+          [],
+          0,
+          "Notes"
+        ]
+      ]
+    ],
+    [
+      10,
+      7
+    ],
+    [
+      10,
+      8
+    ],
+    [
+      10,
+      9
+    ],
+    [
+      1,
+      "h3",
+      [
+        [
+          0,
+          [],
+          0,
+          "Further Reading"
+        ]
+      ]
+    ],
+    [
+      3,
+      "ul",
+      [
+        [
+          [
+            0,
+            [],
+            0,
+            "Writing "
+          ],
+          [
+            0,
+            [
+              3
+            ],
+            1,
+            "good Metadescriptions"
+          ]
+        ]
+      ]
+    ],
+    [
+      10,
+      10
+    ],
+    [
+      10,
+      11
+    ],
+    [
+      10,
+      12
+    ],
+    [
+      1,
+      "h3",
+      [
+        [
+          0,
+          [],
+          0,
+          "Video"
+        ]
+      ]
+    ],
+    [
+      10,
+      13
+    ],
+    [
+      1,
+      "h3",
+      [
+        [
+          0,
+          [],
+          0,
+          "Slides"
+        ]
+      ]
+    ],
+    [
+      10,
+      14
+    ],
+    [
+      1,
+      "h3",
+      [
+        [
+          0,
+          [],
+          0,
+          "Tools"
+        ]
+      ]
+    ],
+    [
+      3,
+      "ul",
+      [
+        [
+          [
+            0,
+            [
+              4
+            ],
+            1,
+            "Answer the Public"
+          ],
+          [
+            0,
+            [],
+            0,
+            " [£]"
+          ]
+        ]
+      ]
+    ],
+    [
+      1,
+      "h3",
+      [
+        [
+          0,
+          [],
+          0,
+          "Links"
+        ]
+      ]
+    ],
+    [
+      10,
+      15
+    ],
+    [
+      10,
+      16
+    ],
+    [
+      10,
+      17
+    ],
+    [
+      1,
+      "h3",
+      [
+        [
+          0,
+          [],
+          0,
+          "Video"
+        ]
+      ]
+    ],
+    [
+      10,
+      18
+    ],
+    [
+      1,
+      "h3",
+      [
+        [
+          0,
+          [],
+          0,
+          "Slides"
+        ]
+      ]
+    ],
+    [
+      10,
+      19
+    ],
+    [
+      1,
+      "h3",
+      [
+        [
+          0,
+          [],
+          0,
+          "Tools"
+        ]
+      ]
+    ],
+    [
+      3,
+      "ul",
+      [
+        [
+          [
+            0,
+            [
+              5
+            ],
+            1,
+            "Google Search Console"
+          ]
+        ],
+        [
+          [
+            0,
+            [
+              6
+            ],
+            1,
+            "Page Speed Insights"
+          ]
+        ],
+        [
+          [
+            0,
+            [
+              7
+            ],
+            1,
+            "Sistrix"
+          ],
+          [
+            0,
+            [],
+            0,
+            " [£]"
+          ]
+        ]
+      ]
+    ],
+    [
+      10,
+      20
+    ],
+    [
+      1,
+      "h3",
+      [
+        [
+          0,
+          [],
+          0,
+          "The SEO Periodic Table"
+        ]
+      ]
+    ],
+    [
+      10,
+      21
+    ],
+    [
+      10,
+      22
+    ],
+    [
+      1,
+      "h3",
+      [
+        [
+          0,
+          [],
+          0,
+          "Recent Updates"
+        ]
+      ]
+    ],
+    [
+      10,
+      23
+    ],
+    [
+      10,
+      24
+    ],
+    [
+      10,
+      25
+    ],
+    [
+      1,
+      "h3",
+      [
+        [
+          0,
+          [],
+          0,
+          "Notes"
+        ]
+      ]
+    ],
+    [
+      10,
+      26
+    ],
+    [
+      10,
+      27
+    ],
+    [
+      10,
+      28
+    ],
+    [
+      1,
+      "h3",
+      [
+        [
+          0,
+          [],
+          0,
+          "Newsletters"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "You can sign up to my newsletter, which often has SEO updates in it by clicking the Portal button on the bottom right of the page:"
+        ]
+      ]
+    ],
+    [
+      10,
+      29
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Then you'll see the option to subscribe to the newsletter:"
+        ]
+      ]
+    ],
+    [
+      10,
+      30
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "I also recommend these two:"
+        ]
+      ]
+    ],
+    [
+      10,
+      31
+    ],
+    [
+      10,
+      32
+    ],
+    [
+      1,
+      "p",
+      []
+    ]
+  ],
+  "ghostVersion": "4.0"
+}

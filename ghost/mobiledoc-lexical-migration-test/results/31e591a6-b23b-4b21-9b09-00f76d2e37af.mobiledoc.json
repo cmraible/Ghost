@@ -1,0 +1,250 @@
+{
+  "version": "0.3.1",
+  "atoms": [],
+  "cards": [
+    [
+      "email-cta",
+      {
+        "showButton": true,
+        "showDividers": false,
+        "segment": "status:free",
+        "alignment": "center",
+        "html": "<p><strong><em>Please <a href=\"__GHOST_URL__/subscribe\">become a paid subscriber</a>. You get exclusive podcasts, <a href=\"__GHOST_URL__/citizens-guide-to-holding-the-powerful-accountable/\">digital publications</a>, and live events – and you support this journalism.</em></strong></p>",
+        "buttonText": "Click Here To Subscribe",
+        "buttonUrl": "__GHOST_URL__/subscribe"
+      }
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "email-cta",
+      {
+        "showButton": true,
+        "showDividers": false,
+        "segment": "status:free",
+        "alignment": "center",
+        "html": "",
+        "buttonText": "Click Here To Subscribe",
+        "buttonUrl": "__GHOST_URL__/subscribe"
+      }
+    ]
+  ],
+  "markups": [
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/midday-poster-pelosi-loves-the-market/"
+      ]
+    ],
+    [
+      "strong"
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/subscribe/"
+      ]
+    ],
+    [
+      "em"
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/new-the-citizens-guide-to-holding/"
+      ]
+    ]
+  ],
+  "sections": [
+    [
+      10,
+      0
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "On Wednesday, Democratic House Speaker Nancy Pelosi insisted there was no reason sitting lawmakers and their spouses should be banned from trading stocks “This is a free market,” she explained. “We're a free-market economy and they should be able to participate in that.”"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Pelosi knows what she’s talking about — since she and her husband have benefited greatly from participating in that free-market economy."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Find out about that and much more in "
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "today’s Midday Poster"
+        ],
+        [
+          0,
+          [],
+          0,
+          ", exclusively for subscribers."
+        ]
+      ]
+    ],
+    [
+      1,
+      "h3",
+      [
+        [
+          0,
+          [
+            1
+          ],
+          1,
+          "ADDITIONALLY FOR PAID SUBSCRIBERS ("
+        ],
+        [
+          0,
+          [
+            2,
+            1
+          ],
+          2,
+          "click here to subscribe"
+        ],
+        [
+          0,
+          [
+            1
+          ],
+          1,
+          "):"
+        ]
+      ]
+    ],
+    [
+      3,
+      "ul",
+      [
+        [
+          [
+            0,
+            [],
+            0,
+            "Migrant workers’ wages are being stolen on a grand scale."
+          ]
+        ],
+        [
+          [
+            0,
+            [],
+            0,
+            "The Senate is keeping the text of its bills under wraps."
+          ]
+        ],
+        [
+          [
+            0,
+            [],
+            0,
+            "European gig economy workers could soon see better treatment."
+          ]
+        ]
+      ]
+    ],
+    [
+      10,
+      1
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [
+            3,
+            1
+          ],
+          0,
+          "If you’d like to "
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "read the full report"
+        ],
+        [
+          0,
+          [],
+          0,
+          ", please "
+        ],
+        [
+          0,
+          [
+            2
+          ],
+          1,
+          "click here"
+        ],
+        [
+          0,
+          [],
+          2,
+          " to become an $8-a-month or $70-a-year supporting subscriber. When you become a supporting subscriber, you get this kind of exclusive content, you get access to our live events, you get our new "
+        ],
+        [
+          0,
+          [
+            1,
+            4
+          ],
+          2,
+          "Citizens' Guide To Holding The Powerful Accountable"
+        ],
+        [
+          0,
+          [
+            3,
+            1
+          ],
+          2,
+          " – and you are helping us hire more journalists."
+        ]
+      ]
+    ],
+    [
+      10,
+      2
+    ]
+  ],
+  "ghostVersion": "4.0"
+}

@@ -1,0 +1,951 @@
+{
+  "version": "0.3.1",
+  "atoms": [],
+  "cards": [
+    [
+      "callout",
+      {
+        "calloutEmoji": "📅",
+        "calloutText": "A quick programming note: this will be a quiet week for the blog. It’s half-term, and I have a sick daughter, so working time is at a premium. Full service will resume next week.",
+        "backgroundColor": "yellow"
+      }
+    ],
+    [
+      "image",
+      {
+        "src": "__GHOST_URL__/content/images/2023/02/adders_A_blue_Twitter_bird_which_has_been_gagg.jpeg",
+        "caption": ""
+      }
+    ],
+    [
+      "bookmark",
+      {
+        "url": "https://www.nytimes.com/2023/02/14/technology/twitter-china-elon-musk.html",
+        "metadata": {
+          "url": "https://www.nytimes.com/2023/02/14/technology/twitter-china-elon-musk.html",
+          "title": "The Toll That Twitter’s Glitches Are Taking on Chinese Activists",
+          "description": "As the Elon Musk-owned social media service encounters interruptions and bugs, Chinese dissidents and activists said they feared they were being muzzled.",
+          "author": "By",
+          "publisher": "NYTimes",
+          "thumbnail": "https://static01.nyt.com/images/2023/02/15/multimedia/14JPchina-twitter1-print/00china-twitter-02-vgqc-facebookJumbo.jpg",
+          "icon": "https://www.nytimes.com/vi-assets/static-assets/ios-ipad-144x144-28865b72953380a40aa43318108876cb.png"
+        }
+      }
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "bookmark",
+      {
+        "version": "1.0",
+        "type": "bookmark",
+        "url": "https://www.linkedin.com/posts/joe-shervell_how-the-sun-made-chatgpt-racist-activity-7029120296531951617-mMZf/",
+        "metadata": {
+          "url": "https://www.linkedin.com/posts/joe-shervell_how-the-sun-made-chatgpt-racist-activity-7029120296531951617-mMZf",
+          "title": "🌶️Joe Shervell on LinkedIn: How The Sun made ChatGPT Racist | 152 comments",
+          "description": "British Tabloids Made ChatGPT Racist. Can you guess which ones? Here&#39;s the story: Last year I attempted to build a chatbot whose entire knowledge-bank was… | 152 comments on LinkedIn",
+          "author": "🌶️Joe Shervell",
+          "publisher": "LinkedIn",
+          "thumbnail": "https://static.licdn.com/sc/h/c45fy346jw096z9pbphyyhdz7",
+          "icon": "https://static.licdn.com/sc/h/al2o9zrvru7aqj8e1x2rzsrca"
+        }
+      }
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "image",
+      {
+        "src": "__GHOST_URL__/content/images/2023/02/adders_a_robot_wearing_a_mask_of_an_attarctive_womans_face_ee42902a-83b5-495e-b92e-ae8d0be9473e.jpeg",
+        "width": 2304,
+        "height": 1536,
+        "alt": "A chat robot pretending to be an attractive woman"
+      }
+    ],
+    [
+      "bookmark",
+      {
+        "version": "1.0",
+        "type": "bookmark",
+        "url": "https://www.vice.com/en/article/7k8gqa/sex-chat-websites",
+        "metadata": {
+          "url": "https://www.vice.com/en/article/7k8gqa/sex-chat-websites",
+          "title": "‘Please Acknowledge the Dick’: These Workers Are Paid $0.06 a Message To Pretend To Be Hot Women on Sex Chat Sites",
+          "description": "VICE World News and the Bureau of Investigative Journalism went undercover to expose the truth behind sex-chat websites, where workers across the globe are paid cents per message to deal with explicit content.",
+          "author": "Jasper Jackson",
+          "publisher": "VICE",
+          "thumbnail": "https://video-images.vice.com/articles/63eb7340a0a319dcdf575a84/lede/1676375015831-catfish-factory-16x92.jpeg?image-resize-opts=Y3JvcD0xeHc6MXhoO2NlbnRlcixjZW50ZXImcmVzaXplPTEyMDA6KiZyZXNpemU9MTIwMDoq",
+          "icon": "https://vice-web-statics-cdn.vice.com/favicons/vice/coast-228x228.png"
+        }
+      }
+    ]
+  ],
+  "markups": [
+    [
+      "a",
+      [
+        "href",
+        "https://www.theverge.com/2023/2/13/23598514/twitter-algorithm-elon-musk-tweets"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.nytimes.com/2023/02/14/technology/twitter-china-elon-musk.html"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.theguardian.com/world/2011/feb/25/twitter-facebook-uprisings-arab-libya"
+      ]
+    ],
+    [
+      "em"
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://amzn.to/3YIqUhI"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://9to5mac.com/2023/02/14/twitter-delaying-changes-to-its-api/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://voices.media/tuesday-14th-february-british-tabloids-made-chatgpt-racist"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.fastcompany.com/90850277/bing-new-chatgpt-ai-chatbot-insulting-gaslighting-users"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://boingboing.net/2023/02/14/bing-is-having-bizarre-emotional-breakdowns-and-theres-a-subreddit-with-examples.html"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://dkb.blog/p/bing-ai-cant-be-trusted"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://writings.stephenwolfram.com/2023/02/what-is-chatgpt-doing-and-why-does-it-work/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://ghost.org/changelog/automatic-list-cleaning/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://ghost.org/changelog/email-troubleshooting/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.seoforgooglenews.com/p/best-practices-for-paywalls-and-seo"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://9to5mac.com/2023/02/14/ivory-mastodon-edit-posts/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.journalism.co.uk/news/headlines-network-releases-guide-for-covering-traumatic-breaking-news/s2/a1009304/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.thebureauinvestigates.com/stories/2023-02-14/please-acknowledge-the-dick-inside-a-catfishing-factory"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://theoverspill.blog/2023/02/15/chatbot-girls-catfishing-network-start-up-1952/"
+      ]
+    ]
+  ],
+  "sections": [
+    [
+      10,
+      0
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "The muting of China’s dissident Tweeters"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Elon has been suffering visibility problems on Twitter — ones he "
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "has seemingly solved"
+        ],
+        [
+          0,
+          [],
+          0,
+          ". Many of us are finding that the reach of our Tweets has collapsed. And it turns out that "
+        ],
+        [
+          0,
+          [
+            1
+          ],
+          1,
+          "protesters in China"
+        ],
+        [
+          0,
+          [],
+          0,
+          " are seeing the same — and worse:"
+        ]
+      ]
+    ],
+    [
+      1,
+      "blockquote",
+      [
+        [
+          0,
+          [],
+          0,
+          "More than 30 prominent Chinese dissidents and activists have experienced similar visibility problems on Twitter in recent months, according to interviews with nine of them and screenshots of search results. The activists’ accounts did not appear after a search of their Twitter names, the screenshots showed, though impostor accounts turned up. Three of the dissidents said their accounts had also been suspended with no warning and reinstated only after appeals."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "This is a far cry from the "
+        ],
+        [
+          0,
+          [
+            2
+          ],
+          1,
+          "days of the Arab Spring"
+        ],
+        [
+          0,
+          [],
+          0,
+          ", when the Obama State department, under Hilary Clinton, called Twitter people in. Why? To ask them to move scheduled maintenance to avoid impacting planned protests (as reported in Nick Bilton’s "
+        ],
+        [
+          0,
+          [
+            3,
+            4
+          ],
+          2,
+          "Hatching Twitter"
+        ],
+        [
+          0,
+          [],
+          0,
+          "). The point of reference is important because we are at a potentially pivotal moment in China:"
+        ]
+      ]
+    ],
+    [
+      1,
+      "blockquote",
+      [
+        [
+          0,
+          [],
+          0,
+          "The issues have also meant that leading Chinese voices on Twitter were muffled at a crucial political moment, even though Mr. Musk has championed free speech. In November, protesters in dozens of Chinese cities objected to President Xi Jinping’s restrictive “zero Covid” policies, in some of the most widespread demonstrations in a generation."
+        ]
+      ]
+    ],
+    [
+      10,
+      1
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "In theory, this "
+        ],
+        [
+          0,
+          [
+            3
+          ],
+          1,
+          "might"
+        ],
+        [
+          0,
+          [],
+          0,
+          " be a good thing in the medium term. It should encourage dissidents to move to decentralised systems like Mastodon, which it will be harder for Chinese authorities to block or censor. They might well end up in a “whack-a-mole” situation, trying to shut down or block instances as they pop up."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "But getting both the active voices and their engaged audience there will take time, and while that happens, Musk is helping stifle dissent. Something something free speech something something, eh Elon?"
+        ]
+      ]
+    ],
+    [
+      10,
+      2
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Oh, and the Twitter API changes have "
+        ],
+        [
+          0,
+          [
+            5
+          ],
+          0,
+          "been delayed "
+        ],
+        [
+          0,
+          [
+            3
+          ],
+          2,
+          "again"
+        ],
+        [
+          0,
+          [],
+          0,
+          "."
+        ]
+      ]
+    ],
+    [
+      10,
+      3
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "UK tabloids make ChatGPT racist"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Somebody decided to “interview” publications via ChatGPT"
+        ]
+      ]
+    ],
+    [
+      1,
+      "blockquote",
+      [
+        [
+          0,
+          [],
+          0,
+          "Unfortunately certain publications turned ChatGPT into something between a drunk uncle and a paranoid, xenophobic lunatic."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Go on. Guess which ones."
+        ]
+      ]
+    ],
+    [
+      10,
+      4
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "[via Peter at "
+        ],
+        [
+          0,
+          [
+            6
+          ],
+          1,
+          "Media Voices"
+        ],
+        [
+          0,
+          [],
+          0,
+          "]"
+        ]
+      ]
+    ],
+    [
+      1,
+      "h3",
+      [
+        [
+          0,
+          [],
+          0,
+          "Bing’s AI version is very much a beta"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "As more people get access to the AI-powered Bing chat interface (I have access now) that uses a variant of ChatGPT, it’s becoming clearer that it’s a way from being ready for mainstream use:"
+        ]
+      ]
+    ],
+    [
+      3,
+      "ul",
+      [
+        [
+          [
+            0,
+            [],
+            0,
+            "Turns out that Bing’s version of ChatGPT "
+          ],
+          [
+            0,
+            [
+              7
+            ],
+            1,
+            "can be downright rude"
+          ],
+          [
+            0,
+            [],
+            0,
+            "…"
+          ]
+        ],
+        [
+          [
+            0,
+            [],
+            0,
+            "Even more examples of "
+          ],
+          [
+            0,
+            [
+              8
+            ],
+            1,
+            "Bing having an emotional reaction to users"
+          ],
+          [
+            0,
+            [],
+            0,
+            "."
+          ]
+        ],
+        [
+          [
+            0,
+            [],
+            0,
+            "And it made "
+          ],
+          [
+            0,
+            [
+              9
+            ],
+            1,
+            "loads of mistakes even in its public demo"
+          ],
+          [
+            0,
+            [],
+            0,
+            "."
+          ]
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Again, this technology "
+        ],
+        [
+          0,
+          [
+            3
+          ],
+          1,
+          "could"
+        ],
+        [
+          0,
+          [],
+          0,
+          " be transformative. And it "
+        ],
+        [
+          0,
+          [
+            3
+          ],
+          1,
+          "will"
+        ],
+        [
+          0,
+          [],
+          0,
+          " get better. But it is "
+        ],
+        [
+          0,
+          [
+            3
+          ],
+          1,
+          "not"
+        ],
+        [
+          0,
+          [],
+          0,
+          " ready for prime time yet."
+        ]
+      ]
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "How ChatGPT really works."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "ChatGPT is basically making informed guesses as to what’s the most likely word to come next in a sentence. Stephen Wolfram has written "
+        ],
+        [
+          0,
+          [
+            10
+          ],
+          1,
+          "a surprisingly accessible explainer"
+        ],
+        [
+          0,
+          [],
+          0,
+          " about what’s happening behind the scenes:"
+        ]
+      ]
+    ],
+    [
+      1,
+      "blockquote",
+      [
+        [
+          0,
+          [],
+          0,
+          "And the remarkable thing is that when ChatGPT does something like write an essay what it’s essentially doing is just asking over and over again “given the text so far, what should the next word be?”—and each time adding a word. (More precisely, as I’ll explain, it’s adding a “token”, which could be just a part of a word, which is why it can sometimes “make up new words”.)"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "It also has some element of randomness to make what it writes more interesting:"
+        ]
+      ]
+    ],
+    [
+      1,
+      "blockquote",
+      [
+        [
+          0,
+          [],
+          0,
+          "Because for some reason—that maybe one day we’ll have a scientific-style understanding of—if we always pick the highest-ranked word, we’ll typically get a very “flat” essay, that never seems to “show any creativity” (and even sometimes repeats word for word). But if sometimes (at random) we pick lower-ranked words, we get a “more interesting” essay. The fact that there’s randomness here means that if we use the same prompt multiple times, we’re likely to get different essays each time."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "This is fascinating, and gives at least some insight into what’s happening — and the inherent limits of that process. And that should, in turn, help us think about where it makes sense to use this technology (highly formulaic pieces) and where it’s not yet going to be a threat."
+        ]
+      ]
+    ],
+    [
+      10,
+      5
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Quickies"
+        ]
+      ]
+    ],
+    [
+      3,
+      "ul",
+      [
+        [
+          [
+            0,
+            [],
+            0,
+            "👻Ghost has been doing a lot of work on email deliverability of late – they added "
+          ],
+          [
+            0,
+            [
+              11
+            ],
+            1,
+            "list cleaning"
+          ],
+          [
+            0,
+            [],
+            0,
+            ", and now they’ve built "
+          ],
+          [
+            0,
+            [
+              12
+            ],
+            1,
+            "a self-support system if emails aren’t arriving"
+          ],
+          [
+            0,
+            [],
+            0,
+            "."
+          ]
+        ],
+        [
+          [
+            0,
+            [],
+            0,
+            "🔎 Useful post from Barry, rounding up the best approaches to "
+          ],
+          [
+            0,
+            [
+              13
+            ],
+            1,
+            "SEO for different styles of paywall"
+          ],
+          [
+            0,
+            [],
+            0,
+            "."
+          ]
+        ],
+        [
+          [
+            0,
+            [],
+            0,
+            "🐘 Ivory – the iOS Mastodon client I wrote about a couple of weeks ago — "
+          ],
+          [
+            0,
+            [
+              14
+            ],
+            1,
+            "is getting better, fast"
+          ],
+          [
+            0,
+            [],
+            0,
+            ". If you have an iPhone, for the moment, this is the best way to experience Mastodon."
+          ]
+        ],
+        [
+          [
+            0,
+            [],
+            0,
+            "🫂 Some useful guidance from the Headlines Network about "
+          ],
+          [
+            0,
+            [
+              15
+            ],
+            1,
+            "reporting on traumatic breaking news"
+          ],
+          [
+            0,
+            [],
+            0,
+            "."
+          ]
+        ]
+      ]
+    ],
+    [
+      10,
+      6
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Hot journalism near you"
+        ]
+      ]
+    ],
+    [
+      10,
+      7
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Ever wonder what’s going on behind those “hot women near you” links that lurk in the chumboxes under articles on some websites? Well, you will be entirely unsurprised to discover it’s basically a catfishing scan — but how it operates is fantastic reading:"
+        ]
+      ]
+    ],
+    [
+      10,
+      8
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Great work from "
+        ],
+        [
+          0,
+          [
+            3
+          ],
+          1,
+          "VICE World News"
+        ],
+        [
+          0,
+          [],
+          0,
+          " and the "
+        ],
+        [
+          0,
+          [
+            16
+          ],
+          1,
+          "Bureau of Investigative Journalism"
+        ],
+        [
+          0,
+          [],
+          0,
+          ", found "
+        ],
+        [
+          0,
+          [
+            17
+          ],
+          1,
+          "via Charles Arthur"
+        ],
+        [
+          0,
+          [],
+          0,
+          "."
+        ]
+      ]
+    ]
+  ],
+  "ghostVersion": "4.0"
+}

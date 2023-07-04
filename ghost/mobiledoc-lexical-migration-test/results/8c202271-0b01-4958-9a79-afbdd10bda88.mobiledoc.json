@@ -1,0 +1,1175 @@
+{
+  "version": "0.3.1",
+  "atoms": [],
+  "cards": [
+    [
+      "email",
+      {
+        "html": "<p>Hey {first_name, \"there\"},</p>"
+      }
+    ],
+    [
+      "bookmark",
+      {
+        "version": "1.0",
+        "type": "bookmark",
+        "url": "https://podnews.net/press-release/partygate-itv-news",
+        "metadata": {
+          "url": "https://podnews.net/press-release/partygate-itv-news",
+          "title": "ITV News podcast reveals former British PM Boris Johnson joked about a ‘most unsocially distanced party’",
+          "description": "New explosive revelations have been uncovered in the Partygate scandal",
+          "author": "James Cridland",
+          "publisher": "Podnews",
+          "thumbnail": "https://i.podnews.network/r/a/2048/partygate-itv-news.jpeg",
+          "icon": "https://podnews.net/f/apple-icon.png"
+        }
+      }
+    ],
+    [
+      "bookmark",
+      {
+        "url": "https://www.holdthefrontpage.co.uk/2023/news/publisher-to-axe-200-jobs-due-to-unprecedented-cost-and-inflationary-pressures/",
+        "metadata": {
+          "url": "https://www.holdthefrontpage.co.uk/2023/news/publisher-to-axe-200-jobs-due-to-unprecedented-cost-and-inflationary-pressures/",
+          "title": "Reach plc announces plan to axe 200 jobs - Journalism News from HoldtheFrontPage",
+          "description": "Majority of under-threat role understood to be editorial",
+          "author": "David Sharman",
+          "publisher": "HoldtheFrontPage",
+          "thumbnail": "https://www.holdthefrontpage.co.uk/wp-content/uploads/Jim-Mullen-1-180x180.jpg",
+          "icon": "https://www.holdthefrontpage.co.uk/favicon.ico"
+        }
+      }
+    ],
+    [
+      "embed",
+      {
+        "url": "https://twitter.com/johncthompson/status/1613142649950568449?s=61&t=3tqDdYtm8-xGEY_feztyZA",
+        "html": "<blockquote class=\"twitter-tweet\"><p lang=\"en\" dir=\"ltr\">Approx 400 editorial jobs advertised in 2022, 730 in 2021 - biggest recruiter of journalists in the UK in that year (assuming they actually filled all those positions)</p>&mdash; John Thompson (@johncthompson) <a href=\"https://twitter.com/johncthompson/status/1613142649950568449?ref_src=twsrc%5Etfw\">January 11, 2023</a></blockquote>\n<script async src=\"https://platform.twitter.com/widgets.js\" charset=\"utf-8\"></script>\n",
+        "type": "twitter",
+        "metadata": {
+          "url": "https://twitter.com/johncthompson/status/1613142649950568449",
+          "author_name": "John Thompson",
+          "author_url": "https://twitter.com/johncthompson",
+          "width": 550,
+          "height": null,
+          "cache_age": "3153600000",
+          "provider_name": "Twitter",
+          "provider_url": "http://www.twitter.com/",
+          "version": "1.0",
+          "tweet_data": {
+            "created_at": "2023-01-11T11:55:53.000Z",
+            "conversation_id": "1613110061974396929",
+            "in_reply_to_user_id": "40523",
+            "edit_history_tweet_ids": [
+              "1613142649950568449"
+            ],
+            "context_annotations": [
+              {
+                "domain": {
+                  "id": "131",
+                  "name": "Unified Twitter Taxonomy",
+                  "description": "A taxonomy of user interests. "
+                },
+                "entity": {
+                  "id": "1046545033657081857",
+                  "name": "News",
+                  "description": "News"
+                }
+              },
+              {
+                "domain": {
+                  "id": "131",
+                  "name": "Unified Twitter Taxonomy",
+                  "description": "A taxonomy of user interests. "
+                },
+                "entity": {
+                  "id": "1074755369530880001",
+                  "name": "Journalists",
+                  "description": "Journalism"
+                }
+              }
+            ],
+            "text": "@adders Approx 400 editorial jobs advertised in 2022, 730 in 2021 - biggest recruiter of journalists in the UK in that year (assuming they actually filled all those positions)",
+            "lang": "en",
+            "entities": {
+              "mentions": [
+                {
+                  "start": 0,
+                  "end": 7,
+                  "username": "adders",
+                  "id": "40523"
+                }
+              ],
+              "annotations": [
+                {
+                  "start": 108,
+                  "end": 109,
+                  "probability": 0.9822,
+                  "type": "Place",
+                  "normalized_text": "UK"
+                }
+              ]
+            },
+            "referenced_tweets": [
+              {
+                "type": "replied_to",
+                "id": "1613110061974396929"
+              }
+            ],
+            "id": "1613142649950568449",
+            "possibly_sensitive": false,
+            "public_metrics": {
+              "retweet_count": 0,
+              "reply_count": 0,
+              "like_count": 0,
+              "quote_count": 0,
+              "impression_count": 22
+            },
+            "author_id": "3925681",
+            "reply_settings": "everyone",
+            "includes": {
+              "users": [
+                {
+                  "verified": false,
+                  "id": "3925681",
+                  "entities": {
+                    "url": {
+                      "urls": [
+                        {
+                          "start": 0,
+                          "end": 23,
+                          "url": "https://t.co/ztmsXRkGux",
+                          "expanded_url": "https://www.linkedin.com/in/johncthompson",
+                          "display_url": "linkedin.com/in/johncthomps…"
+                        }
+                      ]
+                    },
+                    "description": {
+                      "urls": [
+                        {
+                          "start": 86,
+                          "end": 108,
+                          "url": "http://t.co/WWIuf7WdFq",
+                          "expanded_url": "http://Journalism.co.uk",
+                          "display_url": "Journalism.co.uk"
+                        }
+                      ]
+                    }
+                  },
+                  "public_metrics": {
+                    "followers_count": 3701,
+                    "following_count": 4900,
+                    "tweet_count": 29117,
+                    "listed_count": 248
+                  },
+                  "description": "I am the owner and managing director of Mousetrap Media Ltd, publisher and founder of http://t.co/WWIuf7WdFq",
+                  "location": "iPhone: 50.829911,-0.131505",
+                  "url": "https://t.co/ztmsXRkGux",
+                  "profile_image_url": "https://pbs.twimg.com/profile_images/528982801450692609/87DVTM3A_normal.jpeg",
+                  "protected": false,
+                  "name": "John Thompson",
+                  "created_at": "2007-04-09T17:25:23.000Z",
+                  "username": "johncthompson"
+                },
+                {
+                  "verified": false,
+                  "id": "40523",
+                  "entities": {
+                    "url": {
+                      "urls": [
+                        {
+                          "start": 0,
+                          "end": 23,
+                          "url": "https://t.co/XE2TJfixKS",
+                          "expanded_url": "https://bio.site/adders",
+                          "display_url": "bio.site/adders"
+                        }
+                      ]
+                    },
+                    "description": {
+                      "hashtags": [
+                        {
+                          "start": 107,
+                          "end": 112,
+                          "tag": "FRSA"
+                        }
+                      ],
+                      "mentions": [
+                        {
+                          "start": 70,
+                          "end": 85,
+                          "username": "cityjournalism"
+                        }
+                      ]
+                    }
+                  },
+                  "public_metrics": {
+                    "followers_count": 8930,
+                    "following_count": 4026,
+                    "tweet_count": 44904,
+                    "listed_count": 770
+                  },
+                  "description": "Digital journalism strategy & training. Lecturer in audience strategy @cityjournalism. A good egg, mostly. #FRSA 🐘 @oneman@follow.onemanandhisblog.com",
+                  "location": "Shoreham-by-Sea",
+                  "pinned_tweet_id": "1440315071138131974",
+                  "url": "https://t.co/XE2TJfixKS",
+                  "profile_image_url": "https://pbs.twimg.com/profile_images/1524716597235138560/0_Ukt3gM_normal.jpg",
+                  "protected": false,
+                  "name": "Adam Tinworth ☕️",
+                  "created_at": "2006-12-04T14:51:52.000Z",
+                  "username": "adders"
+                }
+              ],
+              "tweets": [
+                {
+                  "created_at": "2023-01-11T09:46:23.000Z",
+                  "conversation_id": "1613110061974396929",
+                  "edit_history_tweet_ids": [
+                    "1613110061974396929"
+                  ],
+                  "entities": {
+                    "urls": [
+                      {
+                        "start": 30,
+                        "end": 53,
+                        "url": "https://t.co/qy5pZukiIi",
+                        "expanded_url": "https://www.holdthefrontpage.co.uk/2023/news/publisher-to-axe-200-jobs-due-to-unprecedented-cost-and-inflationary-pressures/",
+                        "display_url": "holdthefrontpage.co.uk/2023/news/publ…",
+                        "images": [
+                          {
+                            "url": "https://pbs.twimg.com/news_img/1613103546517393409/Hg7u7IEC?format=jpg&name=orig",
+                            "width": 180,
+                            "height": 180
+                          },
+                          {
+                            "url": "https://pbs.twimg.com/news_img/1613103546517393409/Hg7u7IEC?format=jpg&name=150x150",
+                            "width": 150,
+                            "height": 150
+                          }
+                        ],
+                        "status": 200,
+                        "title": "Reach plc announces plan to axe 200 jobs - Journalism News from HoldtheFrontPage",
+                        "description": "Majority of under-threat role understood to be editorial",
+                        "unwound_url": "https://www.holdthefrontpage.co.uk/2023/news/publisher-to-axe-200-jobs-due-to-unprecedented-cost-and-inflationary-pressures/"
+                      }
+                    ]
+                  },
+                  "text": "Ouch. Reach cutting 200 jobs: https://t.co/qy5pZukiIi",
+                  "lang": "en",
+                  "id": "1613110061974396929",
+                  "possibly_sensitive": false,
+                  "public_metrics": {
+                    "retweet_count": 1,
+                    "reply_count": 1,
+                    "like_count": 1,
+                    "quote_count": 0,
+                    "impression_count": 194
+                  },
+                  "author_id": "40523",
+                  "reply_settings": "everyone"
+                }
+              ]
+            }
+          }
+        }
+      }
+    ],
+    [
+      "bookmark",
+      {
+        "version": "1.0",
+        "type": "bookmark",
+        "url": "https://pressgazette.co.uk/news/city-am-to-end-friday-print-edition-as-commuters-stay-home/",
+        "metadata": {
+          "url": "https://pressgazette.co.uk/news/city-am-to-end-friday-print-edition-as-commuters-stay-home/",
+          "title": "City AM to end Friday print edition as commuters stay home",
+          "description": "Free business newspaper City AM is closing its Friday print edition as City workers continue to prefer working from home to finish the week.",
+          "author": "Charlotte Tobitt",
+          "publisher": "Press Gazette",
+          "thumbnail": "https://pressgazette.co.uk/wp-content/uploads/sites/7/2023/01/GettyImages-1242303586-1.jpg",
+          "icon": "https://pressgazette.co.uk/wp-content/uploads/sites/7/2022/09/cropped-Press-Gazette_favicon-270x270.jpg"
+        }
+      }
+    ],
+    [
+      "bookmark",
+      {
+        "version": "1.0",
+        "type": "bookmark",
+        "url": "https://www.bloomberg.com/news/articles/2023-01-10/tv-startup-gb-news-struggles-with-staff-ads-in-dash-for-viewers?leadSource=uverify%20wall",
+        "metadata": {
+          "url": "https://www.bloomberg.com/news/articles/2023-01-10/tv-startup-gb-news-struggles-with-staff-ads-in-dash-for-viewers",
+          "title": "TV Startup GB News Struggles With Staff, Ads in Dash for Viewers",
+          "description": "GB News burst onto the UK media scene with a mission to disrupt a broadcasting market dominated for decades by the same players. Two years on, the free-to-air TV and radio channel has built a niche audience at the cost of staff turmoil and wary advertisers.",
+          "author": "Thomas Seal",
+          "publisher": "Bloomberg",
+          "thumbnail": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iq0.ZsMZmUaw/v1/1200x800.jpg",
+          "icon": "https://assets.bwbx.io/s3/javelin/public/javelin/images/favicon-black-63fe5249d3.png"
+        }
+      }
+    ],
+    [
+      "embed",
+      {
+        "url": "https://twitter.com/MattNavarra/status/1613113030300291072",
+        "html": "<blockquote class=\"twitter-tweet\"><p lang=\"en\" dir=\"ltr\">Meta is shutting down Creator Studio<br><br>Its tools will be merged with Meta Business Suite <a href=\"https://t.co/t87abfptGR\">pic.twitter.com/t87abfptGR</a></p>&mdash; Matt Navarra (@MattNavarra) <a href=\"https://twitter.com/MattNavarra/status/1613113030300291072?ref_src=twsrc%5Etfw\">January 11, 2023</a></blockquote>\n<script async src=\"https://platform.twitter.com/widgets.js\" charset=\"utf-8\"></script>\n",
+        "type": "twitter",
+        "metadata": {
+          "url": "https://twitter.com/MattNavarra/status/1613113030300291072",
+          "author_name": "Matt Navarra",
+          "author_url": "https://twitter.com/MattNavarra",
+          "width": 550,
+          "height": null,
+          "cache_age": "3153600000",
+          "provider_name": "Twitter",
+          "provider_url": "http://www.twitter.com/",
+          "version": "1.0",
+          "tweet_data": {
+            "entities": {
+              "urls": [
+                {
+                  "start": 88,
+                  "end": 111,
+                  "url": "https://t.co/t87abfptGR",
+                  "expanded_url": "https://twitter.com/MattNavarra/status/1613113030300291072/photo/1",
+                  "display_url": "pic.twitter.com/t87abfptGR",
+                  "media_key": "3_1613112551616794624"
+                }
+              ],
+              "annotations": [
+                {
+                  "start": 0,
+                  "end": 3,
+                  "probability": 0.7678,
+                  "type": "Other",
+                  "normalized_text": "Meta"
+                },
+                {
+                  "start": 22,
+                  "end": 35,
+                  "probability": 0.8954,
+                  "type": "Other",
+                  "normalized_text": "Creator Studio"
+                },
+                {
+                  "start": 68,
+                  "end": 86,
+                  "probability": 0.9471,
+                  "type": "Other",
+                  "normalized_text": "Meta Business Suite"
+                }
+              ]
+            },
+            "context_annotations": [
+              {
+                "domain": {
+                  "id": "10",
+                  "name": "Person",
+                  "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                  "id": "1052308522572992512",
+                  "name": "Matt Navarra",
+                  "description": "Matt Navarra"
+                }
+              },
+              {
+                "domain": {
+                  "id": "94",
+                  "name": "Journalist",
+                  "description": "A journalist like 'Anderson Cooper'"
+                },
+                "entity": {
+                  "id": "1052308522572992512",
+                  "name": "Matt Navarra",
+                  "description": "Matt Navarra"
+                }
+              },
+              {
+                "domain": {
+                  "id": "131",
+                  "name": "Unified Twitter Taxonomy",
+                  "description": "A taxonomy of user interests. "
+                },
+                "entity": {
+                  "id": "1046545033657081857",
+                  "name": "News",
+                  "description": "News"
+                }
+              },
+              {
+                "domain": {
+                  "id": "131",
+                  "name": "Unified Twitter Taxonomy",
+                  "description": "A taxonomy of user interests. "
+                },
+                "entity": {
+                  "id": "1052308522572992512",
+                  "name": "Matt Navarra",
+                  "description": "Matt Navarra"
+                }
+              },
+              {
+                "domain": {
+                  "id": "131",
+                  "name": "Unified Twitter Taxonomy",
+                  "description": "A taxonomy of user interests. "
+                },
+                "entity": {
+                  "id": "1074755369530880001",
+                  "name": "Journalists",
+                  "description": "Journalism"
+                }
+              }
+            ],
+            "author_id": "16211566",
+            "conversation_id": "1613113030300291072",
+            "attachments": {
+              "media_keys": [
+                "3_1613112551616794624"
+              ]
+            },
+            "id": "1613113030300291072",
+            "created_at": "2023-01-11T09:58:11.000Z",
+            "possibly_sensitive": false,
+            "reply_settings": "everyone",
+            "text": "Meta is shutting down Creator Studio\n\nIts tools will be merged with Meta Business Suite https://t.co/t87abfptGR",
+            "lang": "en",
+            "geo": {
+              "place_id": "1981dc44d58103b8"
+            },
+            "edit_history_tweet_ids": [
+              "1613113030300291072"
+            ],
+            "public_metrics": {
+              "retweet_count": 1,
+              "reply_count": 1,
+              "like_count": 2,
+              "quote_count": 0,
+              "impression_count": 57
+            },
+            "includes": {
+              "media": [
+                {
+                  "url": "https://pbs.twimg.com/media/FmLtUa3X0AAV0Kv.png",
+                  "type": "photo",
+                  "height": 310,
+                  "media_key": "3_1613112551616794624",
+                  "width": 620
+                }
+              ],
+              "users": [
+                {
+                  "url": "https://t.co/uNznWoSw20",
+                  "entities": {
+                    "url": {
+                      "urls": [
+                        {
+                          "start": 0,
+                          "end": 23,
+                          "url": "https://t.co/uNznWoSw20",
+                          "expanded_url": "http://geekout.mattnavarra.com",
+                          "display_url": "geekout.mattnavarra.com"
+                        }
+                      ]
+                    },
+                    "description": {
+                      "mentions": [
+                        {
+                          "start": 51,
+                          "end": 57,
+                          "username": "GovUK"
+                        },
+                        {
+                          "start": 103,
+                          "end": 114,
+                          "username": "TheNextWeb"
+                        }
+                      ]
+                    }
+                  },
+                  "public_metrics": {
+                    "followers_count": 151836,
+                    "following_count": 5911,
+                    "tweet_count": 141419,
+                    "listed_count": 3286
+                  },
+                  "protected": false,
+                  "id": "16211566",
+                  "created_at": "2008-09-09T21:25:05.000Z",
+                  "location": "Cardiff, UK",
+                  "pinned_tweet_id": "1611384093651963905",
+                  "username": "MattNavarra",
+                  "verified": true,
+                  "profile_image_url": "https://pbs.twimg.com/profile_images/1604008782333460483/TbxLSYYU_normal.jpg",
+                  "description": "Social Media Consultant & Industry Analyst | Prev: @GovUK Digital Comms Advisor + Head of Social Media @TheNextWeb | Founder of Geekout Newsletter",
+                  "name": "Matt Navarra"
+                }
+              ],
+              "places": [
+                {
+                  "country": "Verenigd Koninkrijk",
+                  "full_name": "Penarth, Wales",
+                  "country_code": "GB",
+                  "place_type": "city",
+                  "id": "1981dc44d58103b8",
+                  "name": "Penarth",
+                  "geo": {
+                    "type": "Feature",
+                    "bbox": [
+                      -3.207316,
+                      51.41538,
+                      -3.164369,
+                      51.456395
+                    ],
+                    "properties": {}
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    ],
+    [
+      "embed",
+      {
+        "url": "https://twitter.com/AlexHixs/status/1612781757111181313",
+        "html": "<blockquote class=\"twitter-tweet\"><p lang=\"en\" dir=\"ltr\">Absolutely love that the world&#39;s media crowded the Waterstones in Piccadilly - but only one woman called Caroline turned up early to buy Prince Harry&#39;s new book <a href=\"https://t.co/PUH1beWo2N\">pic.twitter.com/PUH1beWo2N</a></p>&mdash; Alex Hickson (@AlexHixs) <a href=\"https://twitter.com/AlexHixs/status/1612781757111181313?ref_src=twsrc%5Etfw\">January 10, 2023</a></blockquote>\n<script async src=\"https://platform.twitter.com/widgets.js\" charset=\"utf-8\"></script>\n",
+        "type": "twitter",
+        "metadata": {
+          "url": "https://twitter.com/AlexHixs/status/1612781757111181313",
+          "author_name": "Alex Hickson",
+          "author_url": "https://twitter.com/AlexHixs",
+          "width": 550,
+          "height": null,
+          "cache_age": "3153600000",
+          "provider_name": "Twitter",
+          "provider_url": "http://www.twitter.com/",
+          "version": "1.0",
+          "tweet_data": {
+            "entities": {
+              "urls": [
+                {
+                  "start": 161,
+                  "end": 184,
+                  "url": "https://t.co/PUH1beWo2N",
+                  "expanded_url": "https://twitter.com/AlexHixs/status/1612781757111181313/photo/1",
+                  "display_url": "pic.twitter.com/PUH1beWo2N",
+                  "media_key": "3_1612781261176676352"
+                }
+              ],
+              "annotations": [
+                {
+                  "start": 51,
+                  "end": 61,
+                  "probability": 0.3831,
+                  "type": "Other",
+                  "normalized_text": "Waterstones"
+                },
+                {
+                  "start": 66,
+                  "end": 75,
+                  "probability": 0.6725,
+                  "type": "Place",
+                  "normalized_text": "Piccadilly"
+                },
+                {
+                  "start": 105,
+                  "end": 112,
+                  "probability": 0.5869,
+                  "type": "Other",
+                  "normalized_text": "Caroline"
+                },
+                {
+                  "start": 137,
+                  "end": 148,
+                  "probability": 0.9011,
+                  "type": "Person",
+                  "normalized_text": "Prince Harry"
+                }
+              ]
+            },
+            "id": "1612781757111181313",
+            "edit_history_tweet_ids": [
+              "1612781757111181313"
+            ],
+            "conversation_id": "1612781757111181313",
+            "author_id": "316106464",
+            "reply_settings": "everyone",
+            "created_at": "2023-01-10T12:01:49.000Z",
+            "context_annotations": [
+              {
+                "domain": {
+                  "id": "10",
+                  "name": "Person",
+                  "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                  "id": "934100345080262656",
+                  "name": "Prince Harry",
+                  "description": "Prince Harry"
+                }
+              },
+              {
+                "domain": {
+                  "id": "131",
+                  "name": "Unified Twitter Taxonomy",
+                  "description": "A taxonomy of user interests. "
+                },
+                "entity": {
+                  "id": "847878884917886977",
+                  "name": "Politics",
+                  "description": "Politics"
+                }
+              },
+              {
+                "domain": {
+                  "id": "131",
+                  "name": "Unified Twitter Taxonomy",
+                  "description": "A taxonomy of user interests. "
+                },
+                "entity": {
+                  "id": "934100345080262656",
+                  "name": "Prince Harry",
+                  "description": "Prince Harry"
+                }
+              },
+              {
+                "domain": {
+                  "id": "131",
+                  "name": "Unified Twitter Taxonomy",
+                  "description": "A taxonomy of user interests. "
+                },
+                "entity": {
+                  "id": "1070032753834438656",
+                  "name": "Political figures",
+                  "description": "Politician"
+                }
+              },
+              {
+                "domain": {
+                  "id": "131",
+                  "name": "Unified Twitter Taxonomy",
+                  "description": "A taxonomy of user interests. "
+                },
+                "entity": {
+                  "id": "1098692833333014528",
+                  "name": "British Royal Family",
+                  "description": "Royal Family"
+                }
+              }
+            ],
+            "lang": "en",
+            "attachments": {
+              "media_keys": [
+                "3_1612781261176676352"
+              ]
+            },
+            "public_metrics": {
+              "retweet_count": 261,
+              "reply_count": 71,
+              "like_count": 4057,
+              "quote_count": 82,
+              "impression_count": 439179
+            },
+            "possibly_sensitive": false,
+            "text": "Absolutely love that the world's media crowded the Waterstones in Piccadilly - but only one woman called Caroline turned up early to buy Prince Harry's new book https://t.co/PUH1beWo2N",
+            "includes": {
+              "media": [
+                {
+                  "type": "photo",
+                  "height": 2333,
+                  "media_key": "3_1612781261176676352",
+                  "width": 3500,
+                  "url": "https://pbs.twimg.com/media/FmHAAxzXoAAng5m.jpg"
+                }
+              ],
+              "users": [
+                {
+                  "description": "Deputy Picture Editor @Independent Previously @MetroUK\nEmail latest picture stories to alexander.hickson@independent.co.uk",
+                  "location": "London, England",
+                  "name": "Alex Hickson",
+                  "verified": false,
+                  "username": "AlexHixs",
+                  "entities": {
+                    "url": {
+                      "urls": [
+                        {
+                          "start": 0,
+                          "end": 23,
+                          "url": "https://t.co/5VeqWx8PYc",
+                          "expanded_url": "https://www.independent.co.uk/author/alex-hickson",
+                          "display_url": "independent.co.uk/author/alex-hi…"
+                        }
+                      ]
+                    },
+                    "description": {
+                      "mentions": [
+                        {
+                          "start": 22,
+                          "end": 34,
+                          "username": "Independent"
+                        },
+                        {
+                          "start": 46,
+                          "end": 54,
+                          "username": "MetroUK"
+                        }
+                      ]
+                    }
+                  },
+                  "id": "316106464",
+                  "profile_image_url": "https://pbs.twimg.com/profile_images/1508051237442363397/OLc4LwAt_normal.jpg",
+                  "protected": false,
+                  "public_metrics": {
+                    "followers_count": 813,
+                    "following_count": 915,
+                    "tweet_count": 4857,
+                    "listed_count": 25
+                  },
+                  "url": "https://t.co/5VeqWx8PYc",
+                  "created_at": "2011-06-12T23:24:47.000Z"
+                }
+              ]
+            }
+          }
+        }
+      }
+    ]
+  ],
+  "markups": [
+    [
+      "em"
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://mastodon.social/@baekdal/109659583086400289"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://s.yelvington.com/@steve/109666188397587375"
+      ]
+    ]
+  ],
+  "sections": [
+    [
+      10,
+      0
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "A new experiment for the new year. I've had in mind a more “bloggy” style of newsletter for a while now: links with quick commentary and analysis of relevant news stories and posts. Finding the timing has been the issue. "
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Why? Well, the morning slot is pretty well occupied, so I'm taking a punt on the early afternoon/lunchtime slot. That has the advantage of being lunchbreak in the UK and Europe and first thing in the morning in the US and Canada — a nice time when people have room to quickly browse some interesting internet stuff. "
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "I "
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "think"
+        ],
+        [
+          0,
+          [],
+          0,
+          " I have a workflow that will make this practical, even on days when I'm lecturing or running courses, but the proof will be in the publishing."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Let me know what you think…"
+        ]
+      ]
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "ITV News breaking stories on a podcast"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "With apologies to non-UK readers, it's very interesting to note that ITV News, one of the big broadcast news operators here, have chosen to break a story about our ex-prime minister (not, not the last one, the one before) on a podcast."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "The seven episode podcast series looks set to make the Tory party, already seriously on the political back foot, have a torrid start to 2023 just as they were hoping to move on. But it's worth us noting that here we have a broadcast news outlet treating a podcast series as a viable medium in its own right. The idea of podcasts as promotion for the “real” outlet is very much dead."
+        ]
+      ]
+    ],
+    [
+      10,
+      1
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Hard yards ahead for publishers in 2023"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "I think we've all been expecting stories like this to start emerging, but the news that Reach is laying off 200 people is still an “oof” moment. We're only three years out from the cutbacks and spending freezes during the onset of COVID. This is grim news:"
+        ]
+      ]
+    ],
+    [
+      10,
+      2
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "It's worth remembering that they were one of the big recruiters over the last couple of years:"
+        ]
+      ]
+    ],
+    [
+      10,
+      3
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "The Print Tipping Point"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Thomas Baekdal started an interesting thread on Mastodon about "
+        ],
+        [
+          0,
+          [
+            1
+          ],
+          1,
+          "the decline of newspapers"
+        ],
+        [
+          0,
+          [],
+          0,
+          ". He pointed out that, if you adjust for population growth, newspaper readership has been in steady decline since the 1960s, with a small acceleration thanks to the internet."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "In other words, we can't blame the internet for what's happening to printed newspapers. And it might now be too late to save most of them, as Steve Yelvington "
+        ],
+        [
+          0,
+          [
+            2
+          ],
+          1,
+          "pointed out in that thread"
+        ],
+        [
+          0,
+          [],
+          0,
+          ":"
+        ]
+      ]
+    ],
+    [
+      1,
+      "blockquote",
+      [
+        [
+          0,
+          [],
+          0,
+          "But we are now at a point where the business model breaks. Printing is no longer economically sustainable, so you see newspapers cutting editions, outsourcing the distant plants, and eventually going online-only. And since the online business model will not deliver the cash necessary to sustain large newsrooms and the content they create, we are seeing precipitous localized dropoffs along with the long-term trends."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "And then the final 🔥:"
+        ]
+      ]
+    ],
+    [
+      1,
+      "blockquote",
+      [
+        [
+          0,
+          [],
+          0,
+          "In other words, there's nothing to read in the paper, even if there is one."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Talking of which:"
+        ]
+      ]
+    ],
+    [
+      10,
+      4
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "I'm not very surprised by this. I lecture in London on most Fridays, and the trains are "
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "very"
+        ],
+        [
+          0,
+          [],
+          0,
+          " quiet. "
+        ]
+      ]
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "GB Bad News"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Launching a politically-aligned news channel in the YouTube age always seemed like an odd, nostalgic thing to do."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Nostalgia, my friends, is not a business model. "
+        ]
+      ]
+    ],
+    [
+      10,
+      5
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Bye Bye Creator Studio"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Facebook's consolidation of its tools continues:"
+        ]
+      ]
+    ],
+    [
+      10,
+      6
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Have you ever heard of… Amazon?"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "This is just flippin' wierd:"
+        ]
+      ]
+    ],
+    [
+      10,
+      7
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Folks, we're in the third decade of the 21st century. People do not queue up to get things on release day - they preorder them from Amazon. Sending out photographers to capture the earlier buyers is pointless."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Remember the “new iPhone” queue photos? Bet you haven't seen any in a while - and it's not because iPhones aren't still selling great."
+        ]
+      ]
+    ]
+  ],
+  "ghostVersion": "4.0"
+}

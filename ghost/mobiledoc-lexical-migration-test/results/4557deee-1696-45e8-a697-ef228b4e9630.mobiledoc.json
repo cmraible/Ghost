@@ -1,0 +1,965 @@
+{
+  "version": "0.3.1",
+  "atoms": [],
+  "cards": [
+    [
+      "email",
+      {
+        "html": "<p>Friends:</p>"
+      }
+    ],
+    [
+      "email-cta",
+      {
+        "showButton": false,
+        "showDividers": false,
+        "segment": "status:-free",
+        "alignment": "left",
+        "html": "<p><strong>• SPREAD THE WORD: </strong>Share this article on <u><a href=\"https://twitter.com/intent/tweet?text=YOU%20LOVE%20TO%20SEE%20IT%3A%20Amazon%E2%80%99s%20Anti-Union%20Campaign%20Backfires%20https%3A%2F%2Fwww.levernews.com%2Fyou-love-to-see-it-amazons-anti-union-campaign-backfires%2F%3Futm_source%3Dtwitter%26utm_medium%3Dlink%26utm_campaign%3Dtw-prefill%0A\">Twitter</a>,</u> and forward this email<em> </em>to encourage others <a href=\"https://levernews.com/membership/?utm_source=daily&amp;utm_medium=link&amp;utm_campaign=forward-signup\">to subscribe to <em>The Lever</em></a>.</p><p>Rock The Boat.</p>",
+        "buttonText": "",
+        "buttonUrl": ""
+      }
+    ],
+    [
+      "email-cta",
+      {
+        "showButton": true,
+        "showDividers": false,
+        "segment": "status:free",
+        "alignment": "left",
+        "html": "<p>Read a preview below and <a href=\"https://levernews.com/membership/?utm_source=daily&amp;utm_medium=link&amp;utm_campaign=upgrade\">click here to upgrade</a> for full access.</p><p>Rock The Boat.</p>",
+        "buttonText": "Click Here To Upgrade",
+        "buttonUrl": "https://levernews.com/membership/?utm_source=daily&utm_medium=link&utm_campaign=upgrade"
+      }
+    ],
+    [
+      "callout",
+      {
+        "calloutEmoji": "👉",
+        "calloutText": "<strong>HELP US GROW, FOLLOW US ON SOCIAL MEDIA:</strong><br>• <a href=\"https://www.twitter.com/LeverNews\"><strong>Twitter</strong></a><br>• <a href=\"https://www.facebook.com/TheLeverNews\"><strong>Facebook</strong></a><br>• <a href=\"https://www.instagram.com/LeverNews\"><strong>Instagram</strong></a><br>• <a href=\"https://www.youtube.com/c/LeverNews\"><strong>YouTube</strong></a>",
+        "backgroundColor": "grey"
+      }
+    ],
+    [
+      "paywall",
+      {}
+    ],
+    [
+      "button",
+      {
+        "alignment": "center",
+        "buttonText": "Give A Gift Subscription",
+        "buttonUrl": "https://dailyposter.outpost.pub/gift_subscription#/"
+      }
+    ],
+    [
+      "markdown",
+      {
+        "markdown": "I am so tired of waiting,\nAren't you,\nFor the world to become good\nAnd beautiful and kind?\nLet us take a knife\nAnd cut the world in two —\nAnd see what worms are eating\nAt the rind."
+      }
+    ],
+    [
+      "email-cta",
+      {
+        "showButton": true,
+        "showDividers": false,
+        "segment": "status:-free",
+        "alignment": "center",
+        "html": "",
+        "buttonText": "Click Here To Comment",
+        "buttonUrl": "__GHOST_URL__/you-love-to-see-it-amazons-anti-union-campaign-backfires/#comments"
+      }
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "email",
+      {
+        "html": "<p><em><strong>Help us spread the word! </strong>Please forward this email to family and friends.</em></p><p><em><strong>Was this email forwarded to you? </strong><a href=\"https://levernews.com/membership/\">Sign up for free</a> to receive original reporting like this in your inbox every day.</em></p>"
+      }
+    ]
+  ],
+  "markups": [
+    [
+      "em"
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://twitter.com/SethGoldstein13/status/1585433021724901377"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.nytimes.com/2022/09/21/business/economy/amazon-labor-union-nlrb.html"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.canarymedia.com/articles/energy-equity/power-by-the-people-week-introduction-overview"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.canarymedia.com/articles/energy-equity/building-resilient-communities-soulardaritys-plan-for-energy-democracy"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.canarymedia.com/articles/solar/how-neighborhoods-are-banding-together-to-get-cheaper-rooftop-solar"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.canarymedia.com/articles/energy-equity/power-by-the-people-native-energy-sovereignty"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.lemonde.fr/en/environment/article/2022/10/22/france-withdraws-from-the-energy-charter-treaty-to-meet-its-climate-ambitions_6001322_114.html"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.energycharter.org/process/energy-charter-treaty-1994/energy-charter-treaty/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/fossil-fuel-interests-are-suing-countries-for-taking-climate-action-and-winning/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.euronews.com/my-europe/2022/10/26/what-is-the-energy-charter-treaty-and-why-is-it-so-controversial"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://grist.org/beacon/page/5/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.washingtonpost.com/climate-solutions/2021/02/25/climate-curious-food-waste/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://perfectunion.us/t-mobile-workers-announce-independent-union/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.yesmagazine.org/environment/2022/10/19/climate-farming-detroit-resilience"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://genius.com/Langston-hughes-tired-annotated"
+      ]
+    ],
+    [
+      "strong"
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/#/portal/account/plans"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://levernews.lt.acemlnb.com/Prod/link-tracker?redirectUrl=aHR0cHMlM0ElMkYlMkZsZXZlcm5ld3MuY29tJTJGJTIzJTJGcG9ydGFsJTJGYWNjb3VudCUyRnBsYW5z&sig=FW2vgcwMxMtuMMy138M4obnC92PjsuHBGTU9M3oXvn5h&iat=1664478076&a=%7C%7C225857333%7C%7C&account=levernews%2Eactivehosted%2Ecom&email=8ccfNTSqTIb66WimbjyJ21W7sf8uj40nZXzDvcFyYC2L8u0%2BWBCfKIYwvb2riYN9&s=06356d3247574f8a979f8dc2178a2862&i=68A81A2A680"
+      ]
+    ]
+  ],
+  "sections": [
+    [
+      10,
+      0
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Good things are happening! Amazon’s CEO got knocked for his anti-union media messages. Meanwhile, grassroots organizing efforts are giving people a way to regain control over energy decisions. Also, a Cold War-era treaty that fossil fuel companies have used to stifle climate action is coming undone, and New York City’s largest borough just started the nation’s most ambitious composting initiative."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "All this and much more in this week’s edition of "
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "You Love To See It"
+        ],
+        [
+          0,
+          [],
+          0,
+          " below, a weekly feature reviewing good news, progress, and action steps that’s one of the many features available only to "
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "Lever"
+        ],
+        [
+          0,
+          [],
+          0,
+          " supporting subscribers."
+        ]
+      ]
+    ],
+    [
+      10,
+      1
+    ],
+    [
+      10,
+      2
+    ],
+    [
+      1,
+      "h3",
+      [
+        [
+          0,
+          [],
+          0,
+          "NLRB Stands Up To Amazon CEO Andy Jassy"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "On Wednesday, the National Labor Relations Board (NLRB) issued a complaint against Amazon CEO Andy Jassy, charging him with violating labor law by disparaging unions in two media interviews this year. On air, Jassy has repeatedly claimed that Amazon employees would be better off without a union, in a blatant attempt to undermine union organizers gaining momentum in the company’s warehouses."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "“These plutocrats will no longer threaten workers in interviews with the media,” "
+        ],
+        [
+          0,
+          [
+            1
+          ],
+          1,
+          "said"
+        ],
+        [
+          0,
+          [],
+          0,
+          " Amazon Labor Union (ALU) attorney Seth Goldstein in response to the filing. “They’re being held accountable.”"
+        ]
+      ]
+    ],
+    [
+      10,
+      3
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "The complaint is one of several filed by the NLRB against the corporate behemoth this year. "
+        ],
+        [
+          0,
+          [
+            2
+          ],
+          1,
+          "In September,"
+        ],
+        [
+          0,
+          [],
+          0,
+          " regulators fought back against an Amazon policy that dictates how employees can use “nonwork areas,” arguing that the rule is disproportionately used to quell ALU’s union activity. Recent federal support has been an important tool for grassroots organizers standing up against some of the most powerful corporations in the world."
+        ]
+      ]
+    ],
+    [
+      1,
+      "h3",
+      [
+        [
+          0,
+          [],
+          0,
+          "Grassroots Clean Energy"
+        ]
+      ]
+    ],
+    [
+      10,
+      4
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "A recent "
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "Canary Media"
+        ],
+        [
+          0,
+          [],
+          0,
+          " "
+        ],
+        [
+          0,
+          [
+            3
+          ],
+          1,
+          "report"
+        ],
+        [
+          0,
+          [],
+          0,
+          " shed light on the various ways people all over the country are shaping the clean energy transition in their communities by using overlooked tools such as community-owned solar while utilities and the state have failed to deliver solutions."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Solar initiatives from "
+        ],
+        [
+          0,
+          [
+            4
+          ],
+          1,
+          "Highland Park, Michigan"
+        ],
+        [
+          0,
+          [],
+          0,
+          ", to "
+        ],
+        [
+          0,
+          [
+            5
+          ],
+          1,
+          "Houston, Texas"
+        ],
+        [
+          0,
+          [],
+          0,
+          ", which involve co-ops and neighbors banding together for buying power, are lowering energy costs and giving folks a say in how their cities can build reliable and equitable energy. Meanwhile, Indigenous communities are "
+        ],
+        [
+          0,
+          [
+            6
+          ],
+          1,
+          "creating paths"
+        ],
+        [
+          0,
+          [],
+          0,
+          " to energy sovereignty by building solar projects to replace coal plants and hydropower that have destroyed fish populations."
+        ]
+      ]
+    ],
+    [
+      1,
+      "h3",
+      [
+        [
+          0,
+          [],
+          0,
+          "France Sheds A Barrier To Climate Action"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [
+            7
+          ],
+          1,
+          "France"
+        ],
+        [
+          0,
+          [],
+          0,
+          " is now the latest country to withdraw from the "
+        ],
+        [
+          0,
+          [
+            8
+          ],
+          1,
+          "Energy Charter Treaty"
+        ],
+        [
+          0,
+          [],
+          0,
+          " (ECT), a Cold War-era agreement that international fossil fuel interests have used to argue that climate change policies are "
+        ],
+        [
+          0,
+          [
+            9
+          ],
+          1,
+          "cutting into their profits"
+        ],
+        [
+          0,
+          [],
+          0,
+          " and demand that governments compensate them for their loss."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Italy was the "
+        ],
+        [
+          0,
+          [
+            10
+          ],
+          1,
+          "first"
+        ],
+        [
+          0,
+          [],
+          0,
+          " country to withdraw from the ECT in 2016, with Spain, Poland, the Netherlands, and now France following suit. The growing number of countries withdrawing from the treaty will help strip fossil fuel companies of their power to block or discourage drilling bans and climate planning."
+        ]
+      ]
+    ],
+    [
+      10,
+      5
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "“The ECT fully embodies the rules and institutions of globalization in the 1990s and 2000s that delay, increase the cost of or block the energy transition,\" Maxime Combes, an economist with the International Organization of Technicians, Experts and Researchers, "
+        ],
+        [
+          0,
+          [
+            7
+          ],
+          1,
+          "told"
+        ],
+        [
+          0,
+          [],
+          0,
+          " "
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "Le Monde"
+        ],
+        [
+          0,
+          [],
+          0,
+          ". \"It allows investors to sue states that decide to shut down coal-fired power plants or manage support mechanisms for renewable energies more carefully, which they need to do.\""
+        ]
+      ]
+    ],
+    [
+      1,
+      "h3",
+      [
+        [
+          0,
+          [],
+          0,
+          "NYC’s Queens Becomes Compost King"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "With 2.2 million residents, Queens is New York City’s largest borough. As of this month, it is also home to the biggest curbside "
+        ],
+        [
+          0,
+          [
+            11
+          ],
+          1,
+          "composting initiative"
+        ],
+        [
+          0,
+          [],
+          0,
+          " in the country, marking the first time New York will provide free composting services to an entire borough."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Climate pollution from food waste is "
+        ],
+        [
+          0,
+          [
+            12
+          ],
+          1,
+          "greater"
+        ],
+        [
+          0,
+          [],
+          0,
+          " than that produced by the airline industry. In order to reduce NYC’s emissions, Queens residents will be able to toss their food, food-soiled paper, and yard waste — all of which account for about a third of landfill waste — into bins provided by the state’s Department of Sanitation."
+        ]
+      ]
+    ],
+    [
+      1,
+      "h3",
+      [
+        [
+          0,
+          [],
+          0,
+          "In Other Good News…"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "• "
+        ],
+        [
+          0,
+          [
+            13
+          ],
+          1,
+          "T-Mobile Workers Announce Independent Union"
+        ],
+        [
+          0,
+          [],
+          0,
+          " ("
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "More Perfect Union"
+        ],
+        [
+          0,
+          [],
+          0,
+          ")"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "• "
+        ],
+        [
+          0,
+          [
+            14
+          ],
+          1,
+          "Supporting Young Farmers of Color Can Help the U.S. Meet Its Climate Goals"
+        ],
+        [
+          0,
+          [],
+          0,
+          " ("
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "YES! Magazine"
+        ],
+        [
+          0,
+          [],
+          0,
+          ")"
+        ]
+      ]
+    ],
+    [
+      1,
+      "h3",
+      [
+        [
+          0,
+          [],
+          0,
+          "Finally:"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "After all the news this week, take a moment to read Langston Hughes’ poem about action, “"
+        ],
+        [
+          0,
+          [
+            15
+          ],
+          1,
+          "Tired"
+        ],
+        [
+          0,
+          [],
+          0,
+          "”:"
+        ]
+      ]
+    ],
+    [
+      10,
+      6
+    ],
+    [
+      1,
+      "h3",
+      [
+        [
+          0,
+          [],
+          0,
+          "A special shout-out to our new Lever Leaders!"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "We recently launched a new higher-level subscription tier, with special exclusive benefits, for those who wish to support "
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "The Lever"
+        ],
+        [
+          0,
+          [],
+          0,
+          " beyond their current subscription level."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "This week, we want to highlight "
+        ],
+        [
+          0,
+          [
+            16
+          ],
+          1,
+          "Doug Morrison"
+        ],
+        [
+          0,
+          [],
+          0,
+          " for taking that step. Thanks, Doug!"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "We'd also like to thank "
+        ],
+        [
+          0,
+          [
+            16
+          ],
+          1,
+          "Mazen Hamza"
+        ],
+        [
+          0,
+          [],
+          0,
+          " for becoming a Leader, and who had this to say about "
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "The Lever"
+        ],
+        [
+          0,
+          [],
+          0,
+          ": \"I love the interviews and learning about the real stories happening now.\""
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [
+            0,
+            16
+          ],
+          2,
+          "Want to become a Lever Leader? "
+        ],
+        [
+          0,
+          [
+            17,
+            0,
+            16
+          ],
+          3,
+          "Log in to LeverNews.com"
+        ],
+        [
+          0,
+          [
+            0,
+            16
+          ],
+          2,
+          ", then "
+        ],
+        [
+          0,
+          [
+            18,
+            0,
+            16
+          ],
+          3,
+          "click here to upgrade"
+        ],
+        [
+          0,
+          [
+            0,
+            16
+          ],
+          2,
+          "."
+        ]
+      ]
+    ],
+    [
+      10,
+      7
+    ],
+    [
+      10,
+      8
+    ],
+    [
+      10,
+      9
+    ]
+  ],
+  "ghostVersion": "4.0"
+}

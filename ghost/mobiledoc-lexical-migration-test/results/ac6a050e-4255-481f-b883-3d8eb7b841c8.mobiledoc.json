@@ -1,0 +1,1648 @@
+{
+  "version": "0.3.1",
+  "atoms": [],
+  "cards": [
+    [
+      "email",
+      {
+        "html": "<p>Friends:</p>"
+      }
+    ],
+    [
+      "email-cta",
+      {
+        "showButton": false,
+        "showDividers": false,
+        "segment": "status:-free",
+        "alignment": "left",
+        "html": "<p><strong>• SPREAD THE WORD: </strong>Share this article on <u><a href=\"https://twitter.com/intent/tweet?text=From%20the%20Ohio%20derailment%20disaster%20to%20the%20holiday%20flight%20meltdown%2C%20Pete%20Buttigieg%20has%20failed%20at%20his%20job.%20https%3A%2F%2Fwww.levernews.com%2Flever-weekly-the-man-responsible%2F%3Futm_source%3Dtwitter%26utm_medium%3Dlink%26utm_campaign%3Dtw-prefill\">Twitter</a></u> and forward this email<em> </em>to encourage others <a href=\"https://levernews.com/membership/?utm_source=daily&amp;utm_medium=link&amp;utm_campaign=forward-signup\">to subscribe to <em>The Lever</em></a>.</p><p>Rock The Boat.</p>",
+        "buttonText": "",
+        "buttonUrl": ""
+      }
+    ],
+    [
+      "email-cta",
+      {
+        "showButton": true,
+        "showDividers": false,
+        "segment": "status:free",
+        "alignment": "left",
+        "html": "<p>Read a preview below and <a href=\"https://levernews.com/membership/?utm_source=daily&amp;utm_medium=link&amp;utm_campaign=upgrade\">click here to upgrade</a> for full access.</p><p>Rock The Boat.</p>",
+        "buttonText": "Click Here To Upgrade",
+        "buttonUrl": "https://levernews.com/membership/?utm_source=daily&utm_medium=link&utm_campaign=upgrade"
+      }
+    ],
+    [
+      "button",
+      {
+        "alignment": "center",
+        "buttonText": "Become A Lever Leader Today",
+        "buttonUrl": "__GHOST_URL__/#/portal/account/plans"
+      }
+    ],
+    [
+      "email-cta",
+      {
+        "showButton": false,
+        "showDividers": false,
+        "segment": "status:free",
+        "alignment": "left",
+        "html": "<p>Buttigieg, as you might remember, was the McKinsey wunderkind who, as mayor of South Bend, Indiana, <a href=\"https://thehill.com/hilltv/rising/463614-young-turks-jonathan-larsen-documents-raise-questions-about-buttigiegs-record/\">fired</a> a Black police chief and...</p>"
+      }
+    ],
+    [
+      "paywall",
+      {}
+    ],
+    [
+      "callout",
+      {
+        "calloutEmoji": "💡",
+        "calloutText": "Follow us on <a href=\"https://apple.news/TeRci1RtoQfWCNA5h7NTBlg\"><strong>Apple News</strong></a> and <a href=\"https://news.google.com/publications/CAAqBwgKMPvKngswktW2Aw\"><strong>Google News</strong></a> to make sure you see our stories first, and to help make sure others see our breaking news as well.",
+        "backgroundColor": "grey"
+      }
+    ],
+    [
+      "button",
+      {
+        "alignment": "center",
+        "buttonText": "Tip Jar",
+        "buttonUrl": "https://dailyposter.outpost.pub/ghost-integration/60818189ad12f332071054b8/tips"
+      }
+    ],
+    [
+      "email-cta",
+      {
+        "showButton": true,
+        "showDividers": false,
+        "segment": "status:-free",
+        "alignment": "center",
+        "html": "",
+        "buttonText": "Click Here To Comment",
+        "buttonUrl": "__GHOST_URL__/lever-weekly-the-man-responsible/#comments"
+      }
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "email",
+      {
+        "html": "<p><em><strong>Help us spread the word! </strong>Please forward this email to family and friends.</em></p><p><em><strong>Was this email forwarded to you? </strong><a href=\"https://levernews.com/membership/\">Sign up for free</a> to receive original reporting like this in your inbox every day.</em></p>"
+      }
+    ]
+  ],
+  "markups": [
+    [
+      "em"
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/rail-companies-blocked-safety-rules-before-ohio-derailment/"
+      ]
+    ],
+    [
+      "strong"
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/there-will-be-more-derailments/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/heres-who-will-be-talking-about-jesus-on-super-bowl-sunday/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/at-this-jersey-factory-pension-backed-private-equity-takes-on-union-workers/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/meet-alaskas-first-democratic-rep-in-almost-50-years-w-rep-mary-peltola/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/introducing-our-new-podcast-movies-vs-capitalism/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/lever-time-premium-the-gettys-and-the-whistleblower/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.youtube.com/watch?v=ggd9nN0pjSY"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.youtube.com/watch?v=dZoDr4w6RPk"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://tyt.com/watch/c5d128fd80718054c/dc526c1e5e3c5f68f/episodes/b3592af375499000"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/fear-and-loathing-among-the-union-busters/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://podcasts.apple.com/us/podcast/dsr-2-4-23-a-room-full-of-sad-union-busters/id1000875171?i=1000597984821"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.cnbc.com/2022/02/03/why-freight-railroads-are-so-successful-in-the-us.html"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://thehill.com/hilltv/rising/463614-young-turks-jonathan-larsen-documents-raise-questions-about-buttigiegs-record/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/airline-ceo-admits-ticket-scam-permitted-by-buttigieg/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.foxnews.com/politics/transportation-secretary-buttigieg-took-personal-trip-europe-intense-rail-strike-negotiations"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.masslive.com/politics/2022/09/marty-walsh-reveals-how-the-rail-strike-was-averted-food-was-involved.html"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/cheat-sheet-whats-really-driving-inflation/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/the-fed-declares-war-on-workers/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.cnn.com/2022/12/11/economy/freight-railroad-service-problems/index.html"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.stb.gov/news-communications/latest-news/pr-22-49/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.ft.com/content/8a7cdc0d-99aa-4ef6-ba9a-fd1a1180dc82"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://wagingnonviolence.org/2012/10/how-workers-are-using-globalization-against-walmart/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/powell-lets-wall-street-pay-skyrocket-while-targeting-workers-wages/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.forbes.com/advisor/investing/fed-funds-rate-history/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/the-fed-chairs-november-surprise/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://railroads.dot.gov/train-crew-staffing-nprm#:~:text=A%20minimum%20requirement%20of%20two,the%20public%2C%20or%20the%20environment."
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.callin.com/episode/how-to-fix-americas-transit-woes-w-peter-defazio-yqcJoTSMub"
+      ]
+    ]
+  ],
+  "sections": [
+    [
+      10,
+      0
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "This is Lever Weekly, a recap of our work from the past week. If you only read one email from us all week, this should be it."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Below you will find a breakdown of our reporting, podcasts, videos, and live events — a feature open to all subscribers. Following that, we are providing paid subscribers with an original column, written by a member of "
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "The Lever"
+        ],
+        [
+          0,
+          [],
+          0,
+          ", connecting the dots on our coverage to deliver important takeaways."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "In this week’s column, exclusively for paid subscribers, Matthew Cunningham-Cook explores how all the transportation woes we’ve been reporting on can be traced back to one person: Transportation Secretary Pete Buttigieg."
+        ]
+      ]
+    ],
+    [
+      10,
+      1
+    ],
+    [
+      10,
+      2
+    ],
+    [
+      1,
+      "h3",
+      [
+        [
+          0,
+          [],
+          0,
+          "Stuff "
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "The Lever"
+        ],
+        [
+          0,
+          [],
+          0,
+          " Reported This Week:"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "• "
+        ],
+        [
+          0,
+          [
+            1,
+            2
+          ],
+          2,
+          "Rail Companies Blocked Safety Rules Before Ohio Derailment"
+        ],
+        [
+          0,
+          [],
+          0,
+          " —"
+        ],
+        [
+          0,
+          [
+            2
+          ],
+          1,
+          " "
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "Norfolk Southern helped convince government officials to repeal brake rules — and corporate lobbyists watered down hazmat safety regs."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "• "
+        ],
+        [
+          0,
+          [
+            3,
+            2
+          ],
+          2,
+          "“There Will Be More Derailments”"
+        ],
+        [
+          0,
+          [],
+          0,
+          " —"
+        ],
+        [
+          0,
+          [
+            2
+          ],
+          1,
+          " "
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "Pete Buttigieg’s Transportation Department has no plans to revive an Obama-era safety rule that could help prevent future train accidents."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "• "
+        ],
+        [
+          0,
+          [
+            4,
+            2
+          ],
+          2,
+          "Here’s Who Will Be Talking About Jesus On Super Bowl Sunday"
+        ],
+        [
+          0,
+          [],
+          0,
+          " — "
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "The foundation behind a $20 million Christian Super Bowl ad campaign has funded a group fighting to limit abortion access and allow anti-LGBTQ+ discrimination."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "• "
+        ],
+        [
+          0,
+          [
+            5,
+            2
+          ],
+          2,
+          "At This Jersey Factory, Pension-Backed Private Equity Takes On Union Workers"
+        ],
+        [
+          0,
+          [],
+          0,
+          " — "
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "At a Refresco plant outside of New York City, KKR masters of the universe say that weekends come only six times a year."
+        ]
+      ]
+    ],
+    [
+      1,
+      "h3",
+      [
+        [
+          0,
+          [],
+          0,
+          "Stuff To Watch & Listen To:"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "• "
+        ],
+        [
+          0,
+          [
+            6,
+            2
+          ],
+          2,
+          "LEVER TIME: Meet Alaska’s First Democratic Rep. In Almost 50 Years"
+        ],
+        [
+          0,
+          [],
+          0,
+          " — "
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "David Sirota interviews Rep. Mary Peltola (D-Alaska); and speaks with Getty whistleblower Marlena Sonn."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "• "
+        ],
+        [
+          0,
+          [
+            7,
+            2
+          ],
+          2,
+          "MOVIES VS. CAPITALISM: Ghostbusters"
+        ],
+        [
+          0,
+          [],
+          0,
+          " — "
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "In their inaugural episode, Rivka Rivera and Frank Cappello welcome David to the show to discuss everyone’s favorite Reagan-era ghost-busting classic."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "• "
+        ],
+        [
+          0,
+          [
+            8,
+            2
+          ],
+          2,
+          "LEVER TIME PREMIUM: The Gettys And The Whistleblower"
+        ],
+        [
+          0,
+          [
+            2
+          ],
+          1,
+          " "
+        ],
+        [
+          0,
+          [],
+          0,
+          "— "
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "David explores the shady, and potentially illegal, investment practices being carried out by one of America’s most famous wealthy families."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "• "
+        ],
+        [
+          0,
+          [
+            9,
+            2
+          ],
+          2,
+          "CATASTROPHIC Ohio Train Derailment Caused By Wall Street GREED"
+        ],
+        [
+          0,
+          [
+            2
+          ],
+          1,
+          " "
+        ],
+        [
+          0,
+          [],
+          0,
+          "(Breaking Points) "
+        ],
+        [
+          0,
+          [
+            2
+          ],
+          1,
+          " "
+        ],
+        [
+          0,
+          [],
+          0,
+          "—  "
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "Julia Rock discusses "
+        ],
+        [
+          0,
+          [],
+          0,
+          "The Lever"
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "’s "
+        ],
+        [
+          0,
+          [
+            1,
+            0
+          ],
+          2,
+          "train derailment investigation"
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "• "
+        ],
+        [
+          0,
+          [
+            10,
+            2
+          ],
+          2,
+          "How Corporate Greed Led to the Hazardous Train Derailment in Ohio"
+        ],
+        [
+          0,
+          [
+            2
+          ],
+          1,
+          " "
+        ],
+        [
+          0,
+          [],
+          0,
+          "(The Young Turks)  — "
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "David discusses our "
+        ],
+        [
+          0,
+          [
+            1,
+            0
+          ],
+          2,
+          "derailment reporting"
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "• "
+        ],
+        [
+          0,
+          [
+            11,
+            2
+          ],
+          2,
+          "Unbossed with Nina Turner: February 7, 2023"
+        ],
+        [
+          0,
+          [
+            2
+          ],
+          1,
+          " "
+        ],
+        [
+          0,
+          [],
+          0,
+          "(The Young Turks) — "
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "Julia discusses "
+        ],
+        [
+          0,
+          [
+            12,
+            0
+          ],
+          2,
+          "her reporting"
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          " on the National Restaurant Association’s annual legal summit."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "• "
+        ],
+        [
+          0,
+          [
+            13,
+            2
+          ],
+          2,
+          "A Room Full of Sad Union Busters"
+        ],
+        [
+          0,
+          [],
+          0,
+          " (District Sentinel Radio) — "
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "Julia shares more information about her National Restaurant Association "
+        ],
+        [
+          0,
+          [
+            12,
+            0
+          ],
+          2,
+          "exposé"
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "."
+        ]
+      ]
+    ],
+    [
+      1,
+      "h3",
+      [
+        [
+          0,
+          [],
+          0,
+          "Thank You To Our Newest Lever Leaders"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Lever Leaders provide us with our highest level of support and score additional perks in return. Thank you to the following subscribers for stepping up and becoming Lever Leaders in the last week!"
+        ]
+      ]
+    ],
+    [
+      3,
+      "ul",
+      [
+        [
+          [
+            0,
+            [
+              2
+            ],
+            1,
+            "Rafael: "
+          ],
+          [
+            0,
+            [],
+            0,
+            "“I’ve come to deeply value David Sirota’s work and focus, including his understanding of the major power systems and players that shape life in the 21st century — namely, the intersection of finance, politics, media, and corruption."
+          ],
+          [
+            0,
+            [
+              0
+            ],
+            1,
+            " The Lever"
+          ],
+          [
+            0,
+            [],
+            0,
+            " routinely penetrates the corporate news cycle and forces mainstream media to pay attention to issues that force broader conversations. I’m fortunate enough to have the means to support this organization’s great work, and endeavor to continue doing so while I’m able.”"
+          ]
+        ],
+        [
+          [
+            0,
+            [
+              2
+            ],
+            1,
+            "Stephanie Kass: "
+          ],
+          [
+            0,
+            [],
+            0,
+            "“I became a Lever Leader to help fight the power :)”"
+          ]
+        ],
+        [
+          [
+            0,
+            [
+              2
+            ],
+            1,
+            "Cort Welch"
+          ]
+        ],
+        [
+          [
+            0,
+            [
+              2
+            ],
+            1,
+            "Dave Markham: "
+          ],
+          [
+            0,
+            [],
+            0,
+            "\"In a world of ghouls effin around, we need "
+          ],
+          [
+            0,
+            [
+              0
+            ],
+            1,
+            "The Lever"
+          ],
+          [
+            0,
+            [],
+            0,
+            " to ensure that they all find out.\""
+          ]
+        ]
+      ]
+    ],
+    [
+      10,
+      3
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "NOTE: You must be logged in to LeverNews.com when you click the button above to upgrade."
+        ]
+      ]
+    ],
+    [
+      1,
+      "h3",
+      [
+        [
+          0,
+          [],
+          0,
+          "The Man Responsible"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "By Mathew Cunningham-Cook"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "This week, the 4,761 residents of East Palestine, Ohio were left grappling with another instance of corporate greed poisoning communities, after a Norfolk Southern freight train derailment led to mass evacuations and a fiery “controlled release” of toxic chemicals."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "What will be the public health impacts of this disaster on the local community? On the frontline workers who rushed in to contain the damage? Nobody knows for sure."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "This is just the latest transportation woe to befall the country. In December, millions of Americans had their holiday travel plans derailed thanks to lax oversight and aggressive industry cost cutting. The previous month, the Biden administration forced a contract down struggling rail workers’ throats, despite the fact that many of them had rejected it, barring the workers from striking for their rights."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "On top of that, you have the nation’s beleaguered freight rail industry, which moves about "
+        ],
+        [
+          0,
+          [
+            14
+          ],
+          1,
+          "40 percent"
+        ],
+        [
+          0,
+          [],
+          0,
+          " of the country’s long distance freight volume, contributing to the nation’s brittle supply chains and fueling aggressive inflation."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "In all these matters, all roads lead back to Pete Buttigieg, President Joe Biden’s transportation secretary."
+        ]
+      ]
+    ],
+    [
+      10,
+      4
+    ],
+    [
+      10,
+      5
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Buttigieg, as you might remember, was the McKinsey wunderkind who, as mayor of South Bend, Indiana, "
+        ],
+        [
+          0,
+          [
+            15
+          ],
+          1,
+          "fired"
+        ],
+        [
+          0,
+          [],
+          0,
+          " a Black police chief and replaced him with a racist. He was also the candidate who lied about winning the Iowa caucus in his 2020 presidential campaign, and who removed every interesting idea from his platform the moment that corporate CEO cash started flooding into his campaign coffers."
+        ]
+      ]
+    ],
+    [
+      10,
+      6
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Now, as the country’s top transportation official, he has ample regulatory powers at his disposal — but he has for the most part declined to use them, or done so only in the face of great pressure."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Take for example, his department’s response to the 2022 holiday airline crisis. Despite the thousands of flights canceled by airlines during the holidays, Buttigieg has yet to assess any fines on the industry for the morass. The Transportation Department has also failed to fine any major U.S. airlines for routinely posting flights they can’t fly due to staffing shortages and canceling those flights at the last minute — even after United Airlines’ CEO "
+        ],
+        [
+          0,
+          [
+            16
+          ],
+          1,
+          "called out"
+        ],
+        [
+          0,
+          [],
+          0,
+          " this practice last month."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Furthermore, instead of championing the critical role played by the country’s 100,000-plus railroad workers, Buttigieg took a "
+        ],
+        [
+          0,
+          [
+            17
+          ],
+          1,
+          "back seat"
+        ],
+        [
+          0,
+          [],
+          0,
+          " in the Biden administration’s railroad union negotiations, "
+        ],
+        [
+          0,
+          [
+            18
+          ],
+          1,
+          "delegating"
+        ],
+        [
+          0,
+          [],
+          0,
+          " much of the work to Labor Secretary Marty Walsh."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Buttigieg’s silence on the massive railroad labor dispute was critical in maintaining the corporate media’s preferred "
+        ],
+        [
+          0,
+          [
+            19
+          ],
+          1,
+          "narrative"
+        ],
+        [
+          0,
+          [],
+          0,
+          " about inflation: that the inflation problem was "
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "not"
+        ],
+        [
+          0,
+          [],
+          0,
+          " the result of supply chain bottlenecks and corporate greed — no, it was that workers’ wages "
+        ],
+        [
+          0,
+          [
+            20
+          ],
+          1,
+          "were rising"
+        ],
+        [
+          0,
+          [],
+          0,
+          " too quickly!"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Even CNN "
+        ],
+        [
+          0,
+          [
+            21
+          ],
+          1,
+          "noted"
+        ],
+        [
+          0,
+          [],
+          0,
+          ",“Many of the problems tangling up the supply chain, driving up prices, and slowing the economy can be traced to the steady decline in freight rail service in recent years.” More specifically, the federal Surface Transportation Board — which is independent of Buttigieg’s department — has drawn attention to the fact that “embargoes,” or significant delays that dramatically slow down rail traffic, "
+        ],
+        [
+          0,
+          [
+            22
+          ],
+          1,
+          "increased"
+        ],
+        [
+          0,
+          [],
+          0,
+          " from five in 2017 to more than 1,000 in 2022 at Union Pacific, the country’s second-largest railroad."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "In a “"
+        ],
+        [
+          0,
+          [
+            23
+          ],
+          1,
+          "just in time"
+        ],
+        [
+          0,
+          [],
+          0,
+          "” "
+        ],
+        [
+          0,
+          [
+            24
+          ],
+          1,
+          "economy"
+        ],
+        [
+          0,
+          [],
+          0,
+          ", whereby inventory is kept moving as quickly as possible with as few workers as possible, embargoes mean price increases."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "But by sidelining critical discussions about supply chains — including failing to acknowledge the critical role that railroad delays played in price increases — Buttigieg and his staff refused to participate in an honest discussion about inflation. Meanwhile, our "
+        ],
+        [
+          0,
+          [
+            25
+          ],
+          1,
+          "private equity executive"
+        ],
+        [
+          0,
+          [],
+          0,
+          " "
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "cum"
+        ],
+        [
+          0,
+          [],
+          0,
+          " Fed Chair, Jay Powell, was able to convince the people who mattered that the only way to address inflationary pressures was to “get wages down.” The Fed hiked interest rates "
+        ],
+        [
+          0,
+          [
+            26
+          ],
+          1,
+          "six"
+        ],
+        [
+          0,
+          [],
+          0,
+          " times from March through November, "
+        ],
+        [
+          0,
+          [
+            27
+          ],
+          1,
+          "resulting"
+        ],
+        [
+          0,
+          [],
+          0,
+          " in Republicans taking control of the House."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Now, back to Ohio. Instead of cracking down on railroad abuses, Buttigieg has remained in the background — although his Federal Railroad Administration has, to its credit, "
+        ],
+        [
+          0,
+          [
+            28
+          ],
+          1,
+          "revived"
+        ],
+        [
+          0,
+          [],
+          0,
+          " a long-overdue rule mandating a minimum two-person crew on trains. But there has been "
+        ],
+        [
+          0,
+          [
+            3
+          ],
+          1,
+          "no effort"
+        ],
+        [
+          0,
+          [],
+          0,
+          " from Buttigieg to "
+        ],
+        [
+          0,
+          [
+            1
+          ],
+          1,
+          "revive an Obama-era rule"
+        ],
+        [
+          0,
+          [],
+          0,
+          ", later killed by Donald Trump, mandating further adoption of electronically controlled pneumatic (ECP) brakes, which could have limited or even prevented the Ohio disaster — even after a former federal safety official "
+        ],
+        [
+          0,
+          [
+            3
+          ],
+          1,
+          "warned"
+        ],
+        [
+          0,
+          [],
+          0,
+          " Congress that without the better brakes, “there will be more derailments [and] more releases of hazardous materials.”"
+        ]
+      ]
+    ],
+    [
+      10,
+      7
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Instead, Buttigieg’s transportation regulators have been considering a rail-industry-backed proposal that could weaken existing brake safety rules."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "What would happen if Buttigieg was held accountable for his failures and shown the door? For one thing, there are enormously qualified successors waiting in the wings. For example, former House Transportation Committee Chair Peter DeFazio (D-Ore.), who recently retired, is extremely knowledgeable and boasts strong progressive credentials, as was showcased in his recent "
+        ],
+        [
+          0,
+          [
+            29
+          ],
+          1,
+          "appearance"
+        ],
+        [
+          0,
+          [],
+          0,
+          " on our weekly Callin show, "
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "Lever Live."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "But competence and knowledge aren’t what wins the day in Washington — it’s fealty to wealthy donors. So, for the time being, you should expect Buttigieg, the man who should be held primarily responsible for all this, to remain right where he is. But in the meantime, you can count on us at "
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "The Lever "
+        ],
+        [
+          0,
+          [],
+          0,
+          "to keep investigating."
+        ]
+      ]
+    ],
+    [
+      10,
+      8
+    ],
+    [
+      10,
+      9
+    ],
+    [
+      10,
+      10
+    ],
+    [
+      1,
+      "p",
+      []
+    ],
+    [
+      1,
+      "p",
+      []
+    ]
+  ],
+  "ghostVersion": "4.0"
+}

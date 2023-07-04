@@ -1,0 +1,1199 @@
+{
+  "version": "0.3.1",
+  "atoms": [
+    [
+      "soft-return",
+      "",
+      {}
+    ]
+  ],
+  "cards": [
+    [
+      "email-cta",
+      {
+        "showButton": true,
+        "showDividers": false,
+        "segment": "status:free",
+        "alignment": "left",
+        "html": "<p>Read a preview of the essay below and <a href=\"https://levernews.com/membership/?utm_source=daily&amp;utm_medium=link&amp;utm_campaign=upgrade\">click here to upgrade</a> for full access.</p>",
+        "buttonText": "Click Here To Upgrade",
+        "buttonUrl": "https://levernews.com/membership/?utm_source=daily&utm_medium=link&utm_campaign=upgrade"
+      }
+    ],
+    [
+      "email-cta",
+      {
+        "showButton": false,
+        "showDividers": false,
+        "segment": "status:-free",
+        "alignment": "left",
+        "html": "<p><strong>• SPREAD THE WORD: </strong>Share this article on <u><a href=\"https://twitter.com/intent/tweet?text=Brandon%20Johnson%E2%80%99s%20mayoral%20victory%20in%20Chicago%20proves%20that%20sometimes%2C%20passion%20and%20organizing%20can%20beat%20heaps%20of%20plutocrat%20cash.%20https%3A%2F%2Fwww.levernews.com%2Flever-weekly-an-exception-to-the-rule-in-chicago%2F%3Futm_source%3Dtwitter%26utm_medium%3Dlink%26utm_campaign%3Dtw-prefill\">Twitter</a></u> and <a href=\"https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.levernews.com%2Flever-weekly-an-exception-to-the-rule-in-chicago%2F&amp;amp;src=sdkpreparse\">Facebook</a>, and don't forget to forward this email<em> </em>to encourage others <a href=\"https://levernews.com/membership/?utm_source=daily&amp;utm_medium=link&amp;utm_campaign=forward-signup\">to subscribe to <em>The Lever</em></a>.</p>",
+        "buttonText": "",
+        "buttonUrl": ""
+      }
+    ],
+    [
+      "button",
+      {
+        "alignment": "center",
+        "buttonText": "Tip Jar",
+        "buttonUrl": "https://dailyposter.outpost.pub/ghost-integration/60818189ad12f332071054b8/tips"
+      }
+    ],
+    [
+      "button",
+      {
+        "alignment": "center",
+        "buttonText": "Become A Lever Leader Today",
+        "buttonUrl": "__GHOST_URL__/#/portal/account/plans"
+      }
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "email-cta",
+      {
+        "showButton": false,
+        "showDividers": false,
+        "segment": "status:free",
+        "alignment": "left",
+        "html": "<p>The secret to Johnson’s improbable success? Even Vallas’ camp was forced to admit that...</p>"
+      }
+    ],
+    [
+      "paywall",
+      {}
+    ],
+    [
+      "callout",
+      {
+        "calloutEmoji": "💡",
+        "calloutText": "Follow us on <a href=\"https://apple.news/TeRci1RtoQfWCNA5h7NTBlg\"><strong>Apple News</strong></a> and <a href=\"https://news.google.com/publications/CAAqBwgKMPvKngswktW2Aw\"><strong>Google News</strong></a> to make sure you see our stories first, and to help make sure others see our breaking news as well.",
+        "backgroundColor": "grey"
+      }
+    ],
+    [
+      "email-cta",
+      {
+        "showButton": true,
+        "showDividers": false,
+        "segment": "status:-free",
+        "alignment": "center",
+        "html": "",
+        "buttonText": "Click Here To Comment",
+        "buttonUrl": "__GHOST_URL__/lever-weekly-an-exception-to-the-rule-in-chicago/#comments"
+      }
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "email",
+      {
+        "html": "<p><em><strong>Help us spread the word! </strong>Please forward this email to family and friends.</em></p><p><em><strong>Was this email forwarded to you? </strong><a href=\"https://levernews.com/membership/\">Sign up for free</a> to receive original reporting like this in your inbox every day.</em></p>"
+      }
+    ]
+  ],
+  "markups": [
+    [
+      "em"
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/lever-time-aoc-slams-bidens-rightward-lurch/"
+      ]
+    ],
+    [
+      "strong"
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/lever-time-premium-aoc-on-dcs-psychologically-manipulative-environment/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/movies-vs-capitalism/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/analyzing-brandon-johnsons-surprise-victory-in-chicago/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/hochul-is-helping-her-fossil-fuel-donors-gut-key-climate-law/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/californias-crypto-champion/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/we-just-won-something-huge/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/author/rebecca/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://prospect.org/politics/2023-04-05-brandon-johnson-defeats-obama-machine-chicago/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.chicagotribune.com/opinion/editorials/ct-editorial-paul-vallas-mayor-runoff-endorsement-20230317-n3kmsazzqfd4jchpft3ngyza3u-story.html"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/how-vallas-helped-wall-street-loot-chicagos-schools/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/in-chicago-mayoral-race-plutocrats-spend-big-against-new-taxes/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://chicago.suntimes.com/city-hall/2023/4/4/23670664/chicago-mayor-election-johnson-defeats-vallas#:~:text=After%20an%20exhausting%2C%20five%2Dweek,Public%20Schools%20CEO%20Paul%20Vallas.&text=With%2099.6%25%20of%20precincts%20reporting,15%2C872%20votes%20of%20557%2C422%20cast."
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.chicagotribune.com/politics/elections/ct-chicago-mayoral-race-fox-32-forum-20230323-bqs2kyiltncyvpb2rdngpr64rm-story.html"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.chicagotribune.com/opinion/editorials/ct-editorial-paul-vallas-endorsement-mayor-chicago-20230203-eyt23pelurgmhceze5jtuqervy-story.html"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://news.wttw.com/2023/02/09/vallas-faces-questions-about-whether-he-lives-chicago-officials-launch-probe-tax-breaks"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.chicagotribune.com/politics/elections/ct-chicago-mayor-race-brandon-johnson-water-bills-20230401-rpqdisk74rfstkje3lrordg43i-story.html"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://apnews.com/article/chicago-mayor-election-brandon-johnson-paul-vallas-0f57a9345f66aaa2b1d3b2fbf6d7b6b5"
+      ]
+    ]
+  ],
+  "sections": [
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "This is Lever Weekly, a recap of all of "
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "The Lever"
+        ],
+        [
+          0,
+          [],
+          0,
+          "’s work from the past week. If you only read one email from us all week, this should be it."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Following links to all of our articles, you’ll find our weekly column, exclusively for paying subscribers, that connects the dots on our coverage to deliver important takeaways. "
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "In this week’s essay, "
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "The Lever"
+        ],
+        [
+          0,
+          [],
+          0,
+          "’s Rebecca Burns explores the important takeaways of Brandon Johnson’s surprise mayoral win in Chicago."
+        ]
+      ]
+    ],
+    [
+      10,
+      0
+    ],
+    [
+      10,
+      1
+    ],
+    [
+      1,
+      "h3",
+      [
+        [
+          0,
+          [],
+          0,
+          "Stuff To Listen To:"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "• "
+        ],
+        [
+          0,
+          [
+            1,
+            2
+          ],
+          2,
+          "LEVER TIME: AOC Sounds The Alarm About Biden 2024"
+        ],
+        [
+          0,
+          [],
+          0,
+          " — "
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "Alexandria Ocasio-Cortez discusses Biden’s latest moves, the new Clarence Thomas bombshell, the Squad’s political strategies, and more. (Full transcript included.)"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "• "
+        ],
+        [
+          0,
+          [
+            3,
+            2
+          ],
+          2,
+          "LEVER TIME PREMIUM: AOC On DC’s “Psychologically Manipulative Environment”"
+        ],
+        [
+          0,
+          [],
+          0,
+          " — "
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "In a bonus podcast segment for supporting subscribers, the progressive lawmaker reveals the day-to-day impact of corporate money in Congress."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "• "
+        ],
+        [
+          0,
+          [
+            4,
+            2
+          ],
+          2,
+          "MOVIES VS. CAPITALISM: Clerks (w/ Branson Reese)"
+        ],
+        [
+          0,
+          [
+            2
+          ],
+          1,
+          " "
+        ],
+        [
+          0,
+          [],
+          0,
+          " — "
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "Rivka and Frank discuss Kevin Smith’s 1994 indie classic "
+        ],
+        [
+          0,
+          [],
+          0,
+          "Clerks"
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "• "
+        ],
+        [
+          0,
+          [
+            5,
+            2
+          ],
+          2,
+          "LEVER TIME PREMIUM: Analyzing Brandon Johnson’s Surprise Victory In Chicago"
+        ],
+        [
+          0,
+          [],
+          0,
+          " — "
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "The Lever team explores the big progressive win."
+        ]
+      ]
+    ],
+    [
+      10,
+      2
+    ],
+    [
+      1,
+      "h3",
+      [
+        [
+          0,
+          [],
+          0,
+          "Stuff The Lever Reported This Week:"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "• "
+        ],
+        [
+          0,
+          [
+            6,
+            2
+          ],
+          2,
+          "Hochul Tried To Help Her Fossil Fuel Donors Gut Key Climate Law"
+        ],
+        [
+          0,
+          [],
+          0,
+          " — "
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "After scoring half a million from oil and gas interests, New York’s Democratic governor wants to allow utilities to burn fossil fuels for decades longer than currently permitted."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "• "
+        ],
+        [
+          0,
+          [
+            7,
+            2
+          ],
+          2,
+          "California’s Crypto Champion"
+        ],
+        [
+          0,
+          [],
+          0,
+          " — "
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "Gov. Gavin Newsom has vetoed crypto regulations and spearheaded industry spin pieces for the benefit of his friends and donors in Big Tech."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "• "
+        ],
+        [
+          0,
+          [
+            8,
+            2
+          ],
+          2,
+          "We Just Won Something Huge"
+        ],
+        [
+          0,
+          [],
+          0,
+          " — The Lever"
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "’s “thorough and relentless” coverage is being honored with the 2023 Izzy Award for outstanding achievement in independent media."
+        ]
+      ]
+    ],
+    [
+      1,
+      "h3",
+      [
+        [
+          0,
+          [],
+          0,
+          "Thank You To Our Newest Lever Leaders:"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Lever Leaders provide us with our highest level of support and score additional perks in return.  Each week, we highlight folks who’ve taken that step, and the reasons they say they’ve done so."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [
+            2
+          ],
+          0,
+          "• "
+        ],
+        [
+          0,
+          [],
+          1,
+          "Fred Jonas"
+        ],
+        [
+          0,
+          [],
+          0,
+          ": “"
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "The Lever "
+        ],
+        [
+          0,
+          [],
+          0,
+          "provides a cold-water-splash-in-the-face, no-fucking-around exploration and revelation of many American problems.”"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [
+            2
+          ],
+          1,
+          "• Robert Lang, MD"
+        ],
+        [
+          0,
+          [],
+          0,
+          ": “"
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "The Lever"
+        ],
+        [
+          0,
+          [],
+          0,
+          " digs deep for the truth and the truth is essential for freedom.”"
+        ]
+      ]
+    ],
+    [
+      10,
+      3
+    ],
+    [
+      10,
+      4
+    ],
+    [
+      1,
+      "h3",
+      [
+        [
+          0,
+          [],
+          0,
+          "Read This Now:"
+        ]
+      ]
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "An Exception To The Rule In Chicago"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "By "
+        ],
+        [
+          0,
+          [
+            9
+          ],
+          1,
+          "Rebecca Burns"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "A $20 million war chest, the "
+        ],
+        [
+          0,
+          [
+            10
+          ],
+          1,
+          "backing of the political establishment"
+        ],
+        [
+          0,
+          [],
+          0,
+          ", and tacit anointment from "
+        ],
+        [
+          0,
+          [
+            11
+          ],
+          1,
+          "the corporate media"
+        ],
+        [
+          0,
+          [],
+          0,
+          " — when candidates enjoy all of those advantages, it’s vanishingly rare that they lose."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "But that’s exactly what happened in Chicago on Tuesday, when former public school teacher Brandon Johnson beat "
+        ],
+        [
+          0,
+          [
+            12
+          ],
+          1,
+          "serial school privatizer Paul Vallas"
+        ],
+        [
+          0,
+          [],
+          0,
+          " in the race to become the city’s next mayor."
+        ]
+      ]
+    ],
+    [
+      10,
+      5
+    ],
+    [
+      10,
+      6
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "The secret to Johnson’s improbable success? Even Vallas’ camp was forced to admit that, sometimes, organized people power can beat "
+        ],
+        [
+          0,
+          [
+            13
+          ],
+          1,
+          "heaps of plutocrat cash"
+        ],
+        [
+          0,
+          [],
+          0,
+          "."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Thousands of volunteer foot soldiers from unions and progressive groups provided “a level of dedication and passion that exceeds people being paid to do it,” Vallas backer and City Council member Brian Hopkins "
+        ],
+        [
+          0,
+          [
+            14
+          ],
+          0,
+          "told the "
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          2,
+          "Chicago Sun-Times"
+        ],
+        [
+          0,
+          [],
+          0,
+          " the morning after the election."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "“It’s the way they want to reshape society,” said Hopkins. “They believe it’s possible. And they’re fired up.”"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "What fired up many Johnson supporters is that he’s one of their own: a member-turned-organizer for the powerhouse Chicago Teachers Union whose campaign platform crystallized a decade of demands from the city’s unions and social movements."
+        ]
+      ]
+    ],
+    [
+      10,
+      7
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Challenges abound, but there’s "
+        ],
+        [
+          0,
+          [
+            15
+          ],
+          1,
+          "real reason to hope"
+        ],
+        [
+          0,
+          [],
+          0,
+          " the new administration will make quick work of passing some stalled progressive priorities, including funding homeless services with a “mansion tax” on the sale of luxury homes, as well as reopening public mental health clinics closed under former Mayor Rahm Emanuel."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "The Lever "
+        ],
+        [
+          0,
+          [],
+          0,
+          "doesn’t always cover local races, but Wall Street’s flagrant attempt to buy the mayor of the nation’s third-largest city — and much of the local media’s "
+        ],
+        [
+          0,
+          [
+            16
+          ],
+          1,
+          "fawning treatment "
+        ],
+        [
+          0,
+          [],
+          0,
+          "of Vallas, who "
+        ],
+        [
+          0,
+          [
+            17
+          ],
+          1,
+          "does not even reside"
+        ],
+        [
+          0,
+          [],
+          0,
+          " in Chicago — made the stakes of this contest crystal clear."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "So while the private equity-owned "
+        ],
+        [
+          0,
+          [
+            18,
+            0
+          ],
+          1,
+          "Chicago Tribune "
+        ],
+        [
+          0,
+          [],
+          1,
+          "zeroed in on the supposed scandal"
+        ],
+        [
+          0,
+          [],
+          0,
+          " of Johnson’s unpaid water bills and parking tickets, "
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "Lever "
+        ],
+        [
+          0,
+          [
+            12
+          ],
+          1,
+          "reporter Matthew Cunningham-Cook"
+        ],
+        [
+          0,
+          [],
+          0,
+          " exposed the staggering financial mismanagement of Chicago Public Schools under Vallas, who helped Wall Street firms extract more than $1 billion in excess interest payments from the school system."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [
+            13
+          ],
+          1,
+          "Matthew also reported"
+        ],
+        [
+          0,
+          [],
+          0,
+          " on the $1.6 million in campaign contributions that flowed to Vallas from executives at six financial trading firms that could be impacted by Johnson’s proposal to tax high-frequency financial trades as part of his plan to fund public services with"
+        ],
+        [
+          0,
+          [
+            19
+          ],
+          1,
+          " $800 million"
+        ],
+        [
+          0,
+          [],
+          0,
+          " in new taxes on corporations and financiers."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "On Wednesday, Matthew and I joined podcast producer Jared Jacang Maher for a "
+        ],
+        [
+          0,
+          [
+            5
+          ],
+          0,
+          "special "
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "Lever Time Premium "
+        ],
+        [
+          0,
+          [],
+          1,
+          "episode"
+        ],
+        [
+          0,
+          [],
+          0,
+          " breaking down the Chicago election and the lessons it holds for other cities. Among those lessons: This is no time to tack right. Johnson’s victory flies in the face of the corporate media narrative, pushed in the wake of Eric Adams’ win in New York, that even reliably Democratic voters are uniformly embracing tough-on-crime candidates and punishing progressives."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "The stunning victory in Chicago notwithstanding, the Democratic Party seems to be willfully ignoring that lesson."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "On Thursday, David Sirota "
+        ],
+        [
+          0,
+          [
+            1
+          ],
+          1,
+          "interviewed"
+        ],
+        [
+          0,
+          [],
+          0,
+          " Rep. Alexandria Ocasio-Cortez (D-N.Y.) and asked about President Biden’s rightward drift on issues ranging from the recent railroad labor dispute to drilling on public lands in Alaska. Ocasio-Cortez called this a “profound miscalculation.”"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "It’s also a predictably cynical one that prioritizes the party’s donors above the constituencies that get its politicians elected."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "That’s why it’s worth taking a moment to appreciate what just happened in Chicago, where a labor-grassroots coalition believed that a different way of doing politics was possible — and just happened to be right. "
+        ],
+        [
+          1,
+          [],
+          0,
+          0
+        ]
+      ]
+    ],
+    [
+      10,
+      8
+    ],
+    [
+      10,
+      9
+    ],
+    [
+      10,
+      10
+    ]
+  ],
+  "ghostVersion": "4.0"
+}

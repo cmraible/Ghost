@@ -1,0 +1,876 @@
+{
+  "version": "0.3.1",
+  "atoms": [],
+  "cards": [
+    [
+      "email",
+      {
+        "html": "<p>Hello {first_name, \"there\"},</p><p>I usually like to end the week on a positive note. But this week I'm not going to manage it, alas, because I found something that needs wider discussion.</p>"
+      }
+    ],
+    [
+      "image",
+      {
+        "src": "__GHOST_URL__/content/images/2020/09/Screenshot-2020-09-16-at-14.23.25.png",
+        "width": 1716,
+        "height": 642,
+        "cardWidth": "wide",
+        "alt": "A graph showing the percentage of newspaper front page stories written by BAME journalists"
+      }
+    ],
+    [
+      "markdown",
+      {
+        "markdown": "\n> * Out of the 174 front-page bylines counted, just one in four went to women.\n> * Out of the 111 people quoted on the front pages, just 16% were women. That’s one in six."
+      }
+    ],
+    [
+      "email",
+      {
+        "html": "<p>Alternatively, &nbsp;you can reach me on Signal or most messaging apps using my number: +44714109009, or on Telegram as @adamtinworth</p>"
+      }
+    ],
+    [
+      "bookmark",
+      {
+        "url": "https://gal-dem.com/how-a-new-survey-on-journalism-diversity-told-us-what-we-already-knew/",
+        "metadata": {
+          "url": "https://gal-dem.com/how-a-new-survey-on-journalism-diversity-told-us-what-we-already-knew/",
+          "title": "‘Black women are invisible’ – how a new survey on journalism diversity told us what we already knew | gal-dem",
+          "description": "A new week-long diversity survey from WIJ has found that Black voices and stories are still not seen as important by the media.",
+          "author": "Shakeena Johnson",
+          "publisher": "gal-dem",
+          "thumbnail": "https://gal-dem.com/wp-content/uploads/2020/09/maxresdefault-1.jpg",
+          "icon": "https://gal-dem.com/wp-content/themes/gal-dem/build/imgs/favicons/android-icon-192x192.png"
+        }
+      }
+    ],
+    [
+      "bookmark",
+      {
+        "url": "https://www.pressgazette.co.uk/new-research-finds-dearth-of-women-and-bame-voices-on-front-pages-and-in-prime-time-news-coverage/",
+        "metadata": {
+          "url": "https://www.pressgazette.co.uk/new-research-finds-dearth-of-women-and-bame-voices-on-front-pages-and-in-prime-time-news-coverage/",
+          "title": "New research finds dearth of women and BAME voices on front pages and in prime time news coverage - Press Gazette",
+          "description": "The UK’s 11 biggest newspapers failed to feature a single bylined black journalist on their front pages across one week in July, according to new research. Women in Journalism also discovered that just six of 174 bylines were for a journalist of BAME (black, Asian or minority ethnic) background – th…",
+          "author": "Charlotte Tobitt",
+          "publisher": "Press Gazette",
+          "thumbnail": "https://www.pressgazette.co.uk/wp-content/uploads/2020/05/Lockdown-newspapers-stand-PRESS-GAZETTE-scaled-e1589557859801-800x608.jpeg",
+          "icon": "https://www.pressgazette.co.uk/wp-content/uploads/2016/04/Press-Gazette-Twitter-Facebook-LOGO-300x300.jpg"
+        }
+      }
+    ]
+  ],
+  "markups": [
+    [
+      "a",
+      [
+        "href",
+        "https://womeninjournalism.co.uk"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://womeninjournalism.co.uk/lack-diversity-british-newsrooms/"
+      ]
+    ],
+    [
+      "strong"
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.theguardian.com/commentisfree/2020/sep/17/diverse-world-british-newspapers-white-news-media"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://womeninjournalism.co.uk/wp-content/uploads/2018/02/Seen_but_not_heard1.pdf"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.bbc.co.uk/news/uk-england-london-51965462"
+      ]
+    ],
+    [
+      "em"
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.linkedin.com/in/esashton/?originalSubdomain=uk"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://twitter.com/eliserwjohnson1?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.linkedin.com/in/sophiemurraymorris/?originalSubdomain=uk"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.theguardian.com/media/media-blog/2018/apr/29/journalism-class-private-education"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.dollaracademy.org.uk"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://twitter.com/FraserNelson?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "mailto:adam@onemanandhisblog.com"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "http://womeninjournalism.co.uk/wp-content/uploads/2020/09/WIJ-2020-full-report.pdf"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://spotthetroll.org/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.axios.com/facebook-launches-business-suite-to-link-messaging-apps-ee7a1271-f4ff-4784-a094-40d46b02a2b9.html"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.wsj.com/articles/facebook-to-curb-internal-debate-over-sensitive-issues-amid-employee-discord-11600368481"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.reuters.com/article/us-usa-tiktok-ban-exclusive-idUSKBN2691QO?utm_campaign=Geekout Newsletter&utm_medium=email&utm_source=Revue newsletter"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://medium.com/the-business-of-content/news-publishers-keep-abandoning-wordpress-for-other-cms-platforms-here-why-they-shouldnt-ae7e48cf1244"
+      ]
+    ]
+  ],
+  "sections": [
+    [
+      10,
+      0
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "Women in Journalism"
+        ],
+        [
+          0,
+          [],
+          0,
+          " undertook some "
+        ],
+        [
+          0,
+          [
+            1
+          ],
+          1,
+          "research into equality in journalism"
+        ],
+        [
+          0,
+          [],
+          0,
+          ", that was conducted back in July. And the results make for incredibly depressing reading:"
+        ]
+      ]
+    ],
+    [
+      1,
+      "blockquote",
+      [
+        [
+          0,
+          [
+            2,
+            2
+          ],
+          2,
+          "Not a single story by a Black reporter appeared on the front page of a UK newspaper"
+        ],
+        [
+          0,
+          [],
+          0,
+          ". And in that time only six front page stories were written by BAME reporters. Three BAME men wrote four of the stories (Vikram Dodd of the Guardian wrote two), and two were written by BAME women, Kana Inagaki in the Financial Times and Hanna Geissler of the Daily Express)."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "The graphical representations makes it clear that a handful of papers are doing much of the work here:"
+        ]
+      ]
+    ],
+    [
+      10,
+      1
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Still, at least the UK media is on top of gender balance, right?"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Uh, about that…"
+        ]
+      ]
+    ],
+    [
+      10,
+      2
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Only 25% of front page stories were by women. Now, there are a couple of things that are worth bearing in mind here:"
+        ]
+      ]
+    ],
+    [
+      3,
+      "ul",
+      [
+        [
+          [
+            0,
+            [],
+            0,
+            "This is a very print-centric, traditional media view of the world. Is the balance different in online media?"
+          ]
+        ],
+        [
+          [
+            0,
+            [],
+            0,
+            "Are women and BAME journalists better represented in other sections of the newspaper? "
+          ]
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Those issues would be worth looking into. But this is still pretty damn grim news in 2020. "
+        ]
+      ]
+    ],
+    [
+      1,
+      "h3",
+      [
+        [
+          0,
+          [],
+          0,
+          "Minuscule progress in journalism gender equality"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "The lack of progress in gender equality is particularly stark when you factor in "
+        ],
+        [
+          0,
+          [
+            3
+          ],
+          1,
+          "this from Jane Martinson"
+        ],
+        [
+          0,
+          [],
+          0,
+          ":"
+        ]
+      ]
+    ],
+    [
+      1,
+      "blockquote",
+      [
+        [
+          0,
+          [],
+          0,
+          "Eight years ago, I led a similar "
+        ],
+        [
+          0,
+          [
+            4
+          ],
+          1,
+          "project"
+        ],
+        [
+          0,
+          [],
+          0,
+          " looking into the number of women in journalism. In 2012, 78% of all front page bylines were male; now, after not just lawsuits but much high-profile outrage and the #MeToo movement, it’s 75%"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Those eight years are the period of time I've been teaching at City, and I've seen some amazingly talented women and BAME students come through the door (including one who has "
+        ],
+        [
+          0,
+          [
+            5
+          ],
+          1,
+          "sadly passed on"
+        ],
+        [
+          0,
+          [],
+          0,
+          "). Many of them have done incredibly well. One of my main areas of focus is audience development, and female former students are now in significant senior positions at "
+        ],
+        [
+          0,
+          [
+            6,
+            7
+          ],
+          2,
+          "The Independent"
+        ],
+        [
+          0,
+          [],
+          0,
+          ", "
+        ],
+        [
+          0,
+          [
+            6,
+            8
+          ],
+          2,
+          "The Telegraph"
+        ],
+        [
+          0,
+          [],
+          0,
+          " and"
+        ],
+        [
+          0,
+          [
+            6
+          ],
+          0,
+          " "
+        ],
+        [
+          0,
+          [
+            9
+          ],
+          2,
+          "Metro"
+        ],
+        [
+          0,
+          [],
+          0,
+          ", amongst others. "
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "But, equally, I've taught many students whose eye was firmly on the news, who had talent, skill and commitment to spare, and the idea that they are incapable of landing front page stories is clearly nonsense. What the hell is impeding progress for them?"
+        ]
+      ]
+    ],
+    [
+      1,
+      "h3",
+      [
+        [
+          0,
+          [],
+          0,
+          "The Usual (Editing) Suspects"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Martinson (who also teaches at City) again:"
+        ]
+      ]
+    ],
+    [
+      1,
+      "blockquote",
+      [
+        [
+          0,
+          [],
+          0,
+          "In an increasingly diverse world, the media has remained dominated by three overlapping rings of power: overwhelmingly "
+        ],
+        [
+          0,
+          [
+            10
+          ],
+          1,
+          "pale, male and posh"
+        ],
+        [
+          0,
+          [],
+          0,
+          ". In the two years since I wrote a piece headlined that way, it seems little has changed."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Indeed. "
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "And my opinion on this is…"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Actually, no. I'm just going to "
+        ],
+        [
+          0,
+          [
+            2
+          ],
+          1,
+          "shut right up"
+        ],
+        [
+          0,
+          [],
+          0,
+          " here. "
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "I'm pale, male and posh; a middle-aged white guy, from a fairly privileged background. (Yes, I went to the "
+        ],
+        [
+          0,
+          [
+            11
+          ],
+          1,
+          "same private school"
+        ],
+        [
+          0,
+          [],
+          0,
+          " as "
+        ],
+        [
+          0,
+          [
+            12
+          ],
+          1,
+          "the current editor"
+        ],
+        [
+          0,
+          [],
+          0,
+          " of "
+        ],
+        [
+          0,
+          [
+            6
+          ],
+          1,
+          "The Spectator"
+        ],
+        [
+          0,
+          [],
+          0,
+          ", a publication once edited by *checks notes* Boris Johnson…) My relevant experience is as close to non-existent as to make it irrelevant. "
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "So, for once, I just need to shut up and listen. "
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "If you're got experiences to share, or ideas of what's holding back progress here, I'd love to hear them. If you've a public opinion to share, there's a comments section right down there ⬇, and if you'd rather talk off-the-record "
+        ],
+        [
+          0,
+          [
+            13
+          ],
+          1,
+          "here's my email"
+        ],
+        [
+          0,
+          [],
+          0,
+          ". My DMs are open on Twitter, as well. "
+        ]
+      ]
+    ],
+    [
+      10,
+      3
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "I'd love to publish some people's experiences sometime next week. Do get in contact. "
+        ]
+      ]
+    ],
+    [
+      3,
+      "ul",
+      [
+        [
+          [
+            0,
+            [
+              14
+            ],
+            1,
+            "Download the full report"
+          ]
+        ]
+      ]
+    ],
+    [
+      1,
+      "h3",
+      [
+        [
+          0,
+          [],
+          0,
+          "Further Reading"
+        ]
+      ]
+    ],
+    [
+      10,
+      4
+    ],
+    [
+      10,
+      5
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Quick Links"
+        ]
+      ]
+    ],
+    [
+      3,
+      "ul",
+      [
+        [
+          [
+            0,
+            [],
+            0,
+            "👩🏽‍🏫 This is a "
+          ],
+          [
+            0,
+            [
+              15
+            ],
+            1,
+            "usefully educational quiz"
+          ],
+          [
+            0,
+            [],
+            0,
+            ", where you try to determine which accounts are real and which are misinformation actors. Worth sharing around. "
+          ]
+        ],
+        [
+          [
+            0,
+            [],
+            0,
+            "💬 The "
+          ],
+          [
+            0,
+            [
+              16
+            ],
+            1,
+            "integration of Facebook's messaging backend"
+          ],
+          [
+            0,
+            [],
+            0,
+            " across its products continues apace. "
+          ]
+        ],
+        [
+          [
+            0,
+            [],
+            0,
+            "😡 "
+          ],
+          [
+            0,
+            [
+              17
+            ],
+            1,
+            "Internal dissent is growing at Facebook"
+          ],
+          [
+            0,
+            [],
+            0,
+            ". This is about the only thing bar government intervention that could force the company to start behaving better. "
+          ]
+        ],
+        [
+          [
+            0,
+            [],
+            0,
+            "📲 TikTok (and WeChat) could be "
+          ],
+          [
+            0,
+            [
+              18
+            ],
+            1,
+            "blocked in the US"
+          ],
+          [
+            0,
+            [],
+            0,
+            " by the end of the weekend…"
+          ]
+        ],
+        [
+          [
+            0,
+            [],
+            0,
+            "👩🏻‍💻 A misleading headline on this, but some interesting thoughts "
+          ],
+          [
+            0,
+            [
+              19
+            ],
+            1,
+            "on WordPress as a journalism CMS"
+          ],
+          [
+            0,
+            [],
+            0,
+            "."
+          ]
+        ]
+      ]
+    ]
+  ],
+  "ghostVersion": "3.0"
+}

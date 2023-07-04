@@ -1,0 +1,1025 @@
+{
+  "version": "0.3.1",
+  "atoms": [],
+  "cards": [
+    [
+      "email-cta",
+      {
+        "showButton": true,
+        "showDividers": false,
+        "segment": "status:free",
+        "alignment": "left",
+        "html": "<p>We can only do the sort of reporting below, which holds the powerful accountable, because readers like you have stepped up and become paid subscribers. Please consider becoming a supporting subscriber right now. You get great perks and you directly fund <em>The Lever</em>’s work.</p>",
+        "buttonText": "Upgrade Now",
+        "buttonUrl": "__GHOST_URL__/membership/?utm_source=newsletter-email&utm_medium=link&utm_campaign=newsletter-upgrade"
+      }
+    ],
+    [
+      "email-cta",
+      {
+        "showButton": false,
+        "showDividers": false,
+        "segment": "status:-free",
+        "alignment": "left",
+        "html": "<p>President Joe Biden, who has long pushed to cut Social Security, could end up being to the right of conservative corporate Democrat Joe Manchin on how to support the vital government insurance program. Read more in today’s featured article from David Sirota, in full below.</p><p>Spread the word: Forward this email to encourage others<a href=\"https://levernews.com/membership/?utm_source=daily&amp;utm_medium=link&amp;utm_campaign=forward-signup\"> to subscribe to <em>The Lever</em></a>.</p>"
+      }
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "image",
+      {
+        "src": "__GHOST_URL__/content/images/2023/01/Manchin-Social-Security-1.png",
+        "width": 1600,
+        "height": 900,
+        "caption": "Joe Manchin at the World Economic Forum in Davos, Switzerland on Jan. 19, 2023. <em>(AP Photo/Markus Schreiber)</em>",
+        "href": "https://www.levernews.com/ending-the-social-security-tax-break-for-the-rich/?utm_source=newsletter-email&utm_medium=link&utm_campaign=newsletter-article"
+      }
+    ],
+    [
+      "callout",
+      {
+        "calloutEmoji": "👉",
+        "calloutText": "<strong><em>Share this article on <u><a href=\"https://twitter.com/intent/tweet?text=Joe%20Manchin%20just%20endorsed%20a%20proposal%20championed%20by%20progressives%20for%20two%20decades%20%E2%80%94%20will%20Biden%20seize%20the%20opportunity%3F%20https%3A%2F%2Fwww.levernews.com%2Fending-the-social-security-tax-break-for-the-rich%2F%3Futm_source%3Dtwitter%26utm_medium%3Dlink%26utm_campaign%3Dtw-prefill\">Twitter</a></u></em></strong>.",
+        "backgroundColor": "grey"
+      }
+    ],
+    [
+      "product",
+      {
+        "productButtonEnabled": true,
+        "productRatingEnabled": false,
+        "productStarRating": 5,
+        "productImageSrc": null,
+        "productTitle": "🎧 LEVER LIVE REPLAY: Peter DeFazio ON America’s Transit Woes",
+        "productDescription": "<p>On our last weekly Callin show, Sirota and the former Democratic congressman explore the issues plaguing the U.S. airline industry and railroad companies.</p>",
+        "productButton": "Listen to the Replay Here",
+        "productImageWidth": null,
+        "productImageHeight": null,
+        "productUrl": "https://www.callin.com/episode/how-to-fix-americas-transit-woes-w-peter-defazio-yqcJoTSMub"
+      }
+    ],
+    [
+      "button",
+      {
+        "alignment": "center",
+        "buttonText": "Tip Jar",
+        "buttonUrl": "https://dailyposter.outpost.pub/ghost-integration/60818189ad12f332071054b8/tips"
+      }
+    ],
+    [
+      "email-cta",
+      {
+        "showButton": true,
+        "showDividers": false,
+        "segment": "status:-free",
+        "alignment": "center",
+        "html": "",
+        "buttonText": "Click Here To Comment",
+        "buttonUrl": "__GHOST_URL__/ending-the-social-security-tax-break-for-the-rich/#comments"
+      }
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "email",
+      {
+        "html": "<p><em><strong>Help us spread the word! </strong>Please forward this email to family and friends.</em></p><p><em><strong>Was this email forwarded to you? </strong><a href=\"__GHOST_URL__/membership/?utm_source=newsletter-email&amp;utm_medium=link&amp;utm_campaign=newsletter-upgrade-forward\">Sign up for free</a> to receive original reporting like this in your inbox every day.</em></p>"
+      }
+    ]
+  ],
+  "markups": [
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/author/david-sirota/"
+      ]
+    ],
+    [
+      "em"
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/ending-the-social-security-tax-break-for-the-rich/?utm_source=newsletter-email&utm_medium=link&utm_campaign=newsletter-article"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://transcripts.cnn.com/show/sotu/date/2023-01-22/segment/01"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.shrm.org/resourcesandtools/hr-topics/compensation/pages/2023-wage-cap-rises-for-social-security-payroll-taxes.aspx"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/manchin-just-admitted-a-taboo-truth/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.cbpp.org/research/social-security/increasing-payroll-taxes-would-strengthen-social-security"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.govinfo.gov/content/pkg/CPRT-106HPRT62180/html/CPRT-106HPRT62180.htm"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.congress.gov/bill/106th-congress/house-bill/2717/all-actions?s=1&r=85&overview=closed"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.cbsnews.com/news/bush-puts-ss-cap-on-table/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.nbcnews.com/id/wbna6989229"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.washingtonpost.com/wp-dyn/articles/A19705-2005Apr1_2.html"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.washingtonpost.com/news/wonk/wp/2012/11/21/liberal-democrats-want-to-fix-social-security-by-raising-taxes/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.sanders.senate.gov/press-releases/sanders-reid-defazio-introduce-legislation-to-strengthen-social-security-2/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.cnn.com/2019/02/13/politics/sanders-social-security-plan/index.html"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://budgetmodel.wharton.upenn.edu/issues/2020/3/6/biden-social-security"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.politico.com/news/2023/01/20/trump-gop-medicare-social-security-debt-ceiling-00078731"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://prospect.org/politics/biden-advocacy-for-social-security-trims-has-had-real-cons/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.pastemagazine.com/politics/joe-biden/watch-joe-biden-boasts-about-wanting-to-cut-social/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://fair.org/home/how-corporate-media-factchecked-bidens-calls-for-social-security-cuts-into-oblivion/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.yahoo.com/video/joe-biden-falsely-claims-he-never-called-for-social-security-cuts-024212661.html"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.cnbc.com/2020/11/12/bidens-platform-calls-for-big-changes-to-social-security.html"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.yahoo.com/now/biden-social-security-cuts-not-120432357.html"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://twitter.com/joebiden/status/1569891437780832256"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.axios.com/newsletters/axios-sneak-peek-92e9f52d-5ef6-4184-8efe-6d5af16687de.html"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://socialsecurityworks.org/2020/11/19/joe-biden-must-keep-anti-social-security-bruce-reed-far-away-from-his-administration/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.cbpp.org/research/bowles-simpson-social-security-proposal-not-a-good-starting-point-for-reforms"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.budget.senate.gov/imo/media/doc/Zients%20Written%20Testimony_SBC.pdf"
+      ]
+    ]
+  ],
+  "sections": [
+    [
+      10,
+      0
+    ],
+    [
+      10,
+      1
+    ],
+    [
+      10,
+      2
+    ],
+    [
+      10,
+      3
+    ],
+    [
+      10,
+      4
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "By "
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "David Sirota"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "["
+        ],
+        [
+          0,
+          [
+            1,
+            2
+          ],
+          2,
+          "View in browser"
+        ],
+        [
+          0,
+          [],
+          0,
+          "]"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "When Sen. Joe Manchin (D-W.Va.) this weekend endorsed bolstering Social Security by ending a payroll tax exemption for the rich, he was backing a proposal pioneered by progressive lawmakers more than two decades ago."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "The question now is whether President Joe Biden — who has pushed Social Security cuts in the past and whose new chief of staff touted such cuts — will seize the opportunity to shore up the system’s revenue, or instead try to strike a deal with Republicans to slash the program."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "During a Sunday CNN interview, Manchin was asked about Republicans’ potential push to cut Social Security. He "
+        ],
+        [
+          0,
+          [
+            3
+          ],
+          1,
+          "responded"
+        ],
+        [
+          0,
+          [],
+          0,
+          " that the “easiest and quickest thing we can do is raise the cap” that stops charging Social Security taxes on income over "
+        ],
+        [
+          0,
+          [
+            4
+          ],
+          1,
+          "$160,000 per year"
+        ],
+        [
+          0,
+          [],
+          0,
+          "."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "“If you're getting a paycheck — now, in West Virginia, in a state like mine, [where] the median income is much lower than that, they're paying 100 percent of the tax,” he said. “In wealthier areas, they are paying [a] very small percentage of that tax.”"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Manchin also said he opposed the creation of a new commission to cut Social Security, like the Simpson-Bowles Commission created by President Barack Obama in 2010."
+        ]
+      ]
+    ],
+    [
+      10,
+      5
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Though Manchin is one of the most conservative (and "
+        ],
+        [
+          0,
+          [
+            5
+          ],
+          1,
+          "compromised"
+        ],
+        [
+          0,
+          [],
+          0,
+          ") Democrats in Congress, his statement about lifting the payroll tax cap echoes demands by progressives for the last quarter century. They have for years noted "
+        ],
+        [
+          0,
+          [
+            6
+          ],
+          1,
+          "data"
+        ],
+        [
+          0,
+          [],
+          0,
+          " showing exactly the reality the West Virginia lawmaker articulated: Because the wealthy are today reaping so much more money than everyone else, the richest Americans are escaping far more of the Social Security tax than the system was originally designed to capture."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "The congressional push to lift the cap started as far back as 1999, when Rep. Peter DeFazio (D-Ore.) — one of the original founders of the Congressional Progressive Caucus — "
+        ],
+        [
+          0,
+          [
+            7
+          ],
+          1,
+          "introduced"
+        ],
+        [
+          0,
+          [],
+          0,
+          " "
+        ],
+        [
+          0,
+          [
+            8
+          ],
+          1,
+          "legislation"
+        ],
+        [
+          0,
+          [],
+          0,
+          " to eliminate the cap and subject all but the first $4,000 of wages to the payroll tax."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "The concept proved so simple and popular that by 2005, then-President "
+        ],
+        [
+          0,
+          [
+            9
+          ],
+          1,
+          "George W. Bush"
+        ],
+        [
+          0,
+          [],
+          0,
+          " indicated he would be open to raising the cap to subject more income to the levy. Sen. Lindsey Graham (R-S.C.) "
+        ],
+        [
+          0,
+          [
+            10
+          ],
+          1,
+          "endorsed"
+        ],
+        [
+          0,
+          [],
+          0,
+          " the move, "
+        ],
+        [
+          0,
+          [
+            11
+          ],
+          1,
+          "saying"
+        ],
+        [
+          0,
+          [],
+          0,
+          " that wealthier Americans should accept it \"with the whole idea that you're helping people less fortunate than you.\""
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "The GOP proposals stalled because Republicans were trying to tie them to their push to privatize Social Security. However, the payroll tax initiative soon became part of the House Progressive Caucus’ proposed budget in "
+        ],
+        [
+          0,
+          [
+            12
+          ],
+          1,
+          "2012"
+        ],
+        [
+          0,
+          [],
+          0,
+          ". A year later, DeFazio, Sen. Bernie Sanders (Ind.-Vt.) and Senate Majority Leader Harry Reid (D-Nev.) introduced "
+        ],
+        [
+          0,
+          [
+            13
+          ],
+          1,
+          "new legislation"
+        ],
+        [
+          0,
+          [],
+          0,
+          " to lift the cap."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Sanders then "
+        ],
+        [
+          0,
+          [
+            14
+          ],
+          1,
+          "campaigned"
+        ],
+        [
+          0,
+          [],
+          0,
+          " on the initiative in his presidential bid, and Biden "
+        ],
+        [
+          0,
+          [
+            15
+          ],
+          1,
+          "endorsed"
+        ],
+        [
+          0,
+          [],
+          0,
+          " a more limited version of the concept as well."
+        ]
+      ]
+    ],
+    [
+      1,
+      "h3",
+      [
+        [
+          0,
+          [],
+          0,
+          "Who Will Show Up: The Old Biden Or The New Biden?"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "If Republicans ignore former President Donald Trump’s "
+        ],
+        [
+          0,
+          [
+            16
+          ],
+          1,
+          "new demand"
+        ],
+        [
+          0,
+          [],
+          0,
+          " to avoid Social Security cuts, the outcome of this matter will hinge on which version of Joe Biden dives into the fight."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "During the 2020 presidential campaign, Sanders called out the old Biden — the one who proposed to cut and/or freeze Social Security funding. As "
+        ],
+        [
+          0,
+          [
+            17,
+            1
+          ],
+          2,
+          "The American Prospect"
+        ],
+        [
+          0,
+          [],
+          0,
+          " reported at the time:"
+        ]
+      ]
+    ],
+    [
+      1,
+      "blockquote",
+      [
+        [
+          0,
+          [],
+          0,
+          "Going back to 1984, Biden has expressed interest in deals that would cut Social Security. He proposed freezing Social Security spending and periodically highlighted that desire; he voted for a balanced-budget amendment even after failing to shield Social Security from it; and he demanded that Social Security be “put on the table” during his last presidential run. He associates himself with a crowd known for foregrounding deficit concerns and fully willing to make “tough choices” on earned benefits like Social Security. Bruce Reed, Biden’s vice presidential chief of staff from 2011 to 2013 and a top campaign aide, was executive director of the Bowles-Simpson commission, which pursued deficit reduction and proposed increases in the retirement age."
+        ]
+      ]
+    ],
+    [
+      1,
+      "blockquote",
+      [
+        [
+          0,
+          [],
+          0,
+          "As a coup de grace, in 2012 and 2013 then-Vice President Biden helped lead a publicly advocated scheme to reduce future Social Security benefits as part of a “grand bargain” with Republicans."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Despite video of Biden "
+        ],
+        [
+          0,
+          [
+            18
+          ],
+          1,
+          "publicly boasting"
+        ],
+        [
+          0,
+          [],
+          0,
+          " about his push to freeze Social Security, corporate media instead "
+        ],
+        [
+          0,
+          [
+            19
+          ],
+          1,
+          "attacked"
+        ],
+        [
+          0,
+          [],
+          0,
+          " Sanders for daring to criticize Biden."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Soon after, "
+        ],
+        [
+          0,
+          [
+            20,
+            1
+          ],
+          1,
+          "Yahoo News"
+        ],
+        [
+          0,
+          [],
+          1,
+          " reported"
+        ],
+        [
+          0,
+          [],
+          0,
+          " on Biden brazenly lying his way through a televised debate, pretending he had never once tried to cut Social Security."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "The 2020 campaign pressure, though, did elicit a shift: Biden reversed course and "
+        ],
+        [
+          0,
+          [
+            15
+          ],
+          1,
+          "endorsed"
+        ],
+        [
+          0,
+          [],
+          0,
+          " a more limited proposal to lift the payroll tax cap to shore up Social Security’s finances. He also "
+        ],
+        [
+          0,
+          [
+            21
+          ],
+          1,
+          "pledged"
+        ],
+        [
+          0,
+          [],
+          0,
+          " to expand rather than cut Social Security. As president, he has "
+        ],
+        [
+          0,
+          [
+            22
+          ],
+          1,
+          "promised"
+        ],
+        [
+          0,
+          [],
+          0,
+          " he will not try to cut the program and he has "
+        ],
+        [
+          0,
+          [
+            23
+          ],
+          1,
+          "slammed"
+        ],
+        [
+          0,
+          [],
+          0,
+          " what he called the GOP “plan to put Social Security and Medicare on the chopping block” — an attack he "
+        ],
+        [
+          0,
+          [
+            24
+          ],
+          1,
+          "reportedly"
+        ],
+        [
+          0,
+          [],
+          0,
+          " plans to repeat this week."
+        ]
+      ]
+    ],
+    [
+      10,
+      6
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "It is impossible to know if this new version of Biden will hold the line as tensions inevitably ratchet up and brinksmanship ensues. After all, Biden’s senior adviser remains Bruce Reed, who was the "
+        ],
+        [
+          0,
+          [
+            25
+          ],
+          1,
+          "executive director"
+        ],
+        [
+          0,
+          [],
+          0,
+          " of the Obama-Biden administration’s commission that "
+        ],
+        [
+          0,
+          [
+            26
+          ],
+          1,
+          "proposed Social Security cuts"
+        ],
+        [
+          0,
+          [],
+          0,
+          ". And a new White House personnel move could be a bad omen."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "This weekend, Biden named longtime corporate consultant Jeff Zients as his new White House chief of staff. As an Obama administration budget official in 2013, Zients "
+        ],
+        [
+          0,
+          [
+            27
+          ],
+          1,
+          "defended"
+        ],
+        [
+          0,
+          [],
+          0,
+          " the White House’s so-called “chained CPI” plan that would have resulted in a cut to Social Security benefits."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "“The switch to chained CPI, like the additional domestic discretionary spending cuts in the budget, is a clear example of the president’s willingness to make tough choices in order to reach a bipartisan agreement,” Zients said in congressional testimony. “The president has made it clear that he is willing to make these compromises as part of a deal that calls for shared sacrifice.”"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Whether or not Biden reprises a push for a similar deal with Republicans depends on who shows up this year: the new Biden or the old Biden."
+        ]
+      ]
+    ],
+    [
+      10,
+      7
+    ],
+    [
+      10,
+      8
+    ],
+    [
+      10,
+      9
+    ],
+    [
+      1,
+      "p",
+      []
+    ],
+    [
+      1,
+      "p",
+      []
+    ]
+  ],
+  "ghostVersion": "4.0"
+}

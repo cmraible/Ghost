@@ -1,0 +1,1084 @@
+{
+  "version": "0.3.1",
+  "atoms": [
+    [
+      "soft-return",
+      "",
+      {}
+    ]
+  ],
+  "cards": [
+    [
+      "email-cta",
+      {
+        "showButton": true,
+        "showDividers": false,
+        "segment": "status:-free",
+        "alignment": "center",
+        "html": "<p><em><strong>T</strong></em><strong><em>his is Lever Weekly</em></strong><em><strong>, a supporting subscriber-only feature that reviews our reporting from the past week, plus major must-reads from around the world. If you only read one email from us all week, this one should be it.</strong></em></p>",
+        "buttonText": "Click Here To Comment",
+        "buttonUrl": "__GHOST_URL__/lever-weekly-just-the-facts/#comments"
+      }
+    ],
+    [
+      "email",
+      {
+        "html": "<p><strong><u><em><a href=\"https://twitter.com/intent/tweet?text=This%20week%2C%20The%20Lever%27s%20reporting%20challenged%20corporate%20media%20narratives%20%E2%80%94%20and%20one%20awful%20%E2%80%9Cfact%20check.%E2%80%9D%0Ahttps%3A%2F%2Fwww.levernews.com%2Flever-weekly-just-the-facts%2F\">Click to share on Twitter</a></em></u></strong></p>"
+      }
+    ],
+    [
+      "email",
+      {
+        "html": "<p><em><strong><a href=\"https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.levernews.com%2Flever-weekly-just-the-facts%2F&amp;amp;src=sdkpreparse\">Click to share on Facebook</a></strong></em></p>"
+      }
+    ],
+    [
+      "email-cta",
+      {
+        "showButton": false,
+        "showDividers": false,
+        "segment": "status:free",
+        "alignment": "center",
+        "html": "<p><em><strong>This is a short excerpt of &nbsp;Lever Weekly from </strong></em><strong>The Lever</strong><em><strong>, which is available to supporting subscribers here.</strong></em><strong><em> To read the entire article and access all of our subscriber-only content, <a href=\"https://levernews.com/membership/?utm_source=weekly&amp;utm_medium=link&amp;utm_campaign=upgrade\">click here</a> to become a </em>Lever<em> supporting subscriber for $8 a month or $70 a year. When you subscribe, you are helping us do this reporting and hire more journalists.</em></strong></p>"
+      }
+    ],
+    [
+      "paywall",
+      {}
+    ],
+    [
+      "email-cta",
+      {
+        "showButton": true,
+        "showDividers": false,
+        "segment": "status:-free",
+        "alignment": "center",
+        "html": "",
+        "buttonText": "Click Here To Comment",
+        "buttonUrl": "__GHOST_URL__/lever-weekly-just-the-facts/#comments"
+      }
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "email-cta",
+      {
+        "showButton": true,
+        "showDividers": false,
+        "segment": "status:-free",
+        "alignment": "center",
+        "html": "",
+        "buttonText": "Tip Jar",
+        "buttonUrl": "https://dailyposter.outpost.pub/ghost-integration/60818189ad12f332071054b8/tips"
+      }
+    ],
+    [
+      "email",
+      {
+        "html": "<p><em><strong>Help us spread the word! </strong>Please forward this email to family and friends.</em></p><p><em><strong>Was this email forwarded to you? </strong><a href=\"https://levernews.com/membership/?utm_source=weekly&amp;utm_medium=link&amp;utm_campaign=forward-signup\">Sign up for free</a> to receive original reporting like this in your inbox every day.</em></p>"
+      }
+    ]
+  ],
+  "markups": [
+    [
+      "em"
+    ],
+    [
+      "strong"
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/lever-weekly-cutting-through-the-spin/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/where-did-the-public-option-go/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/the-wall-street-vote-that-screamed-the-quiet-part-out-loud/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/schumer-lets-aide-kill-key-drug-price-reform/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/fighting-for-the-underdog/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/you-love-to-see-it-money-for-homes-and-teachers/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/who-do-democrats-actually-work-for/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.youtube.com/watch?v=x2PFF9uP0u4"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.youtube.com/watch?v=XjsQnKdAwiA"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.youtube.com/watch?v=R3pXSp8C008"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.miamiherald.com/news/politics-government/state-politics/article263757423.html#storylink=cpy"
+      ]
+    ]
+  ],
+  "sections": [
+    [
+      10,
+      0
+    ],
+    [
+      10,
+      1
+    ],
+    [
+      10,
+      2
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "By subscribing to "
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "The Lever"
+        ],
+        [
+          0,
+          [],
+          0,
+          ", you’re making a choice to cut through corporate media’s simplistic narratives about the world that just don’t square with the nuance and facts on the ground. We tirelessly dig through the facts and tell the truth about the myriad challenges America is facing right now."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "As the saying goes, “If you’re not at the table, you’re on the menu.” You’ve chosen to be at the table by supporting the work we do."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "This week, "
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "The Lever"
+        ],
+        [
+          0,
+          [],
+          0,
+          " team’s reporting pressured the "
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "Washington Post "
+        ],
+        [
+          0,
+          [],
+          0,
+          "to issue a correction to an irresponsible"
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          " "
+        ],
+        [
+          0,
+          [],
+          0,
+          "“Fact Check” column written by Glenn Kessler that called into question the case of a 10-year-old Ohio girl who was unable to access abortion care in her home state. On "
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "Lever Time, "
+        ],
+        [
+          0,
+          [],
+          0,
+          "we grilled Obama Council of Economic Advisers chairman Jason Furman on his role in propagating inflation misinformation. Sirota reported on how Sen. Kyrsten Sinema (D-Ariz.) made the Inflation Reduction Act (IRA) substantially worse by exempting many private equity firms from additional taxation — despite Democrats pledging to hold the line against any"
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          " "
+        ],
+        [
+          0,
+          [],
+          0,
+          "amendments to the IRA. We also pointed out that since Biden’s inauguration, any discussion of a public health insurance option is verboten."
+        ]
+      ]
+    ],
+    [
+      10,
+      3
+    ],
+    [
+      10,
+      4
+    ],
+    [
+      1,
+      "h3",
+      [
+        [
+          0,
+          [],
+          0,
+          "Stuff The Lever Reported This Week:"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [
+            1
+          ],
+          1,
+          "• "
+        ],
+        [
+          0,
+          [
+            2,
+            1
+          ],
+          2,
+          "Emails Raise Questions About WashPost Fact Checker"
+        ],
+        [
+          0,
+          [],
+          0,
+          " — "
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          0,
+          "“"
+        ],
+        [
+          0,
+          [],
+          1,
+          "The "
+        ],
+        [
+          0,
+          [],
+          0,
+          "Washington Post"
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "’s lead “Fact Checker” columnist did not accurately recount public officials' statement when he tried to discredit reporting about a 10-year-old rape victim, according to emails obtained by "
+        ],
+        [
+          0,
+          [],
+          0,
+          "The Lever"
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          ".”"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [
+            1
+          ],
+          1,
+          "• "
+        ],
+        [
+          0,
+          [
+            3,
+            1
+          ],
+          2,
+          "Where Did The Public Option Go"
+        ],
+        [
+          0,
+          [
+            1
+          ],
+          1,
+          " "
+        ],
+        [
+          0,
+          [],
+          0,
+          "—"
+        ],
+        [
+          0,
+          [
+            1
+          ],
+          1,
+          " "
+        ],
+        [
+          0,
+          [],
+          0,
+          "“"
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "The idea of creating a government-run health insurance plan that people could buy into has completely disappeared from the political conversation in Washington. Instead, Democrats have opted to deliver tens of billions of dollars of new government subsidies demanded by private health insurers that have funneled millions of dollars into Democratic campaign coffers.”"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [
+            1
+          ],
+          1,
+          "• "
+        ],
+        [
+          0,
+          [
+            4,
+            1
+          ],
+          2,
+          "The Wall Street Vote That Screamed The Quiet Part Out Loud"
+        ],
+        [
+          0,
+          [],
+          0,
+          " — “"
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "Senators gave their Wall Street donors another gift — after blocking the expanded child tax credit.”"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [
+            1
+          ],
+          1,
+          "• "
+        ],
+        [
+          0,
+          [
+            5,
+            1
+          ],
+          2,
+          "Schumer Lets Aide Kill Key Drug Price Reforms"
+        ],
+        [
+          0,
+          [],
+          0,
+          "— "
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "“Senate Majority Leader Chuck Schumer (D-N.Y.) let a U.S. Senate adviser kill key parts of Democrats’ promised drug pricing legislation, as Schumer has become the Senate’s second largest recipient of pharmaceutical industry cash.”"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [
+            1
+          ],
+          1,
+          "• "
+        ],
+        [
+          0,
+          [
+            6,
+            1
+          ],
+          2,
+          "Fighting For The Underdog"
+        ],
+        [
+          0,
+          [],
+          0,
+          " — "
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "“Climate change is at least — finally — on the agenda as a political issue. That’s not because of the benevolence of Washington elites, but because a mass movement did the hard work to overcome naysayers and force the crisis to center stage.”"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [
+            1
+          ],
+          0,
+          "• "
+        ],
+        [
+          0,
+          [
+            7
+          ],
+          2,
+          "YOU "
+        ],
+        [
+          0,
+          [
+            7,
+            1
+          ],
+          2,
+          "LOVE TO SEE IT: Money For Homes And Teachers"
+        ],
+        [
+          0,
+          [],
+          0,
+          " — "
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "“In Pennsylvania, residents are getting much needed funding for home improvements. Across the country, public schools are offering big signing bonuses to hire much needed teachers amid severe shortages. Also, Florida’s strongest climate policy in over a decade, Uber and Lyft drivers secure workplace protections in California, and Chipotle workers win settlement money.”"
+        ]
+      ]
+    ],
+    [
+      1,
+      "h3",
+      [
+        [
+          0,
+          [],
+          0,
+          "Stuff To Watch & Listen To:"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [
+            1
+          ],
+          1,
+          "• "
+        ],
+        [
+          0,
+          [
+            8,
+            1
+          ],
+          2,
+          "LEVER TIME: Who Do Democrats Actually Work For?"
+        ],
+        [
+          0,
+          [
+            1
+          ],
+          1,
+          " "
+        ],
+        [
+          0,
+          [],
+          0,
+          "— "
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "In the new episode of our weekly podcast "
+        ],
+        [
+          0,
+          [],
+          0,
+          "Lever Time"
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          ", "
+        ],
+        [
+          0,
+          [],
+          0,
+          "The Lever"
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "’s staff discussed the Democratic party’s favorite constituents: the Private Equity and Pharmaceutical industries. Also: "
+        ],
+        [
+          0,
+          [],
+          0,
+          "The Lever "
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "interviewed Alex Pareene and grilled former Obama economic adviser Jason Furman."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [
+            1
+          ],
+          1,
+          "• "
+        ],
+        [
+          0,
+          [
+            9,
+            1
+          ],
+          2,
+          "Corrupt Chuck’s Inflation Deceit Exposed"
+        ],
+        [
+          0,
+          [
+            1
+          ],
+          1,
+          " "
+        ],
+        [
+          0,
+          [],
+          0,
+          "(The Hill) — "
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "On "
+        ],
+        [
+          0,
+          [],
+          0,
+          "Rising"
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          " this week, Briahna Joy Gray discussed Sirota’s reporting on how Democrats used parliamentary excuses to gut their drug pricing measure."
+        ],
+        [
+          1,
+          [],
+          0,
+          0
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [
+            1
+          ],
+          1,
+          "• "
+        ],
+        [
+          0,
+          [
+            10,
+            1
+          ],
+          2,
+          "WaPo Fact Checker's Mistakes On Abortion Story"
+        ],
+        [
+          0,
+          [
+            1
+          ],
+          1,
+          " "
+        ],
+        [
+          0,
+          [],
+          0,
+          "(Breaking Points)"
+        ],
+        [
+          0,
+          [
+            1
+          ],
+          1,
+          ":"
+        ],
+        [
+          0,
+          [
+            0,
+            1
+          ],
+          2,
+          " "
+        ],
+        [
+          0,
+          [],
+          0,
+          "The Lever"
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "’s Andrew Perez went on Breaking Points to discuss his reporting on an egregious error by Washington Post Fact Checker columnist Glenn Kessler."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [
+            1
+          ],
+          1,
+          "• "
+        ],
+        [
+          0,
+          [
+            11,
+            1
+          ],
+          2,
+          "Build Back Bupkis"
+        ],
+        [
+          0,
+          [
+            1
+          ],
+          1,
+          " "
+        ],
+        [
+          0,
+          [],
+          0,
+          "(Punch Up Pod)"
+        ],
+        [
+          0,
+          [
+            1
+          ],
+          1,
+          ":"
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          " Perez discussed why Democrats’ IRA is a very mixed bag, as well as his reporting on Kessler’s botched fact checking job."
+        ]
+      ]
+    ],
+    [
+      1,
+      "h3",
+      [
+        [
+          0,
+          [],
+          0,
+          "Stuff We’re Reading:"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [
+            1
+          ],
+          0,
+          "• "
+        ],
+        [
+          0,
+          [
+            2
+          ],
+          2,
+          "The"
+        ],
+        [
+          0,
+          [
+            2,
+            1
+          ],
+          2,
+          " Bitter Triumph Of The Inflation Reduction Act"
+        ],
+        [
+          0,
+          [],
+          0,
+          " (The New Republic) — "
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "“Insofar as there is something that can be called a climate movement, the IRA is a product of its success. It’s also a massive betrayal.”"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [
+            1
+          ],
+          0,
+          "• "
+        ],
+        [
+          0,
+          [
+            12
+          ],
+          2,
+          "Powerbrokers: How FPL Secretly Took Over A Florida News Site And Used It To Bash Critics"
+        ],
+        [
+          0,
+          [],
+          0,
+          " (Miami Herald) — "
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "“The article was written after the FPL president and CEO, Eric Silagy, made clear he wanted it. And, as it happened, Silagy was secretly running things at the Capitolist."
+        ],
+        [
+          0,
+          [],
+          0,
+          "”"
+        ]
+      ]
+    ],
+    [
+      10,
+      5
+    ],
+    [
+      10,
+      6
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [
+            0,
+            1
+          ],
+          1,
+          "Our news organization relies on readers pitching in to support our journalism. "
+        ],
+        [
+          0,
+          [
+            0,
+            1
+          ],
+          3,
+          "If you like this story, please support "
+        ],
+        [
+          0,
+          [
+            1,
+            0,
+            1
+          ],
+          3,
+          "our"
+        ],
+        [
+          0,
+          [
+            0,
+            0,
+            1
+          ],
+          3,
+          " work."
+        ]
+      ]
+    ],
+    [
+      10,
+      7
+    ],
+    [
+      10,
+      8
+    ],
+    [
+      1,
+      "p",
+      []
+    ],
+    [
+      1,
+      "p",
+      []
+    ],
+    [
+      1,
+      "p",
+      []
+    ],
+    [
+      1,
+      "p",
+      []
+    ],
+    [
+      1,
+      "p",
+      []
+    ],
+    [
+      1,
+      "p",
+      []
+    ]
+  ],
+  "ghostVersion": "4.0"
+}

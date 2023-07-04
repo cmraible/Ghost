@@ -1,0 +1,484 @@
+{
+  "version": "0.3.1",
+  "atoms": [
+    [
+      "soft-return",
+      "",
+      {}
+    ]
+  ],
+  "cards": [
+    [
+      "hr",
+      {}
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "html",
+      {
+        "html": "<table id=\"production-numbers-table\">\n<tbody>\n\t<tr>\n\t\t<td>442</td>\n\t\t<td>2,999</td>\n\t</tr>\n\t\t<td><b>Total Production</b></td>\n\t\t<td><b>2,999</b></td>\n\t</tr>\n</tbody>\n</table>"
+      }
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "html",
+      {
+        "html": "<table id=\"performance-specs-table\">\n<tbody>\n\t<tr>\n\t\t<th><b>Engine</b></th>\n\t\t<th><b>Size</b></td>\n\t\t<th><b>Carb.</b></td>\n\t\t<th><b>HP</b></td>\n\t\t<th><b>Torque</b></td>\n\t\t<th><b>0 to 60</b></td>\n\t\t<th><b>Quarter mile</b></td>\n\t</tr>\n\t<tr>\n\t\t<td>330 V8</td>\n\t\t<td>3300ci</td>\n\t\t<td>1x4bbl</td>\n\t\t<td>310</td>\n\t\t<td>355 lb-ft</td>\n\t\t<td>7.5 sec</td>\n\t\t<td>15.5 sec @90mph</td>\n\t</tr>\n</tbody>\n</table>"
+      }
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "html",
+      {
+        "html": "<h4 id='colors-sub-heading'>Exterior</h4>\n<div class=\"colors-row\">\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #627389\"></div>\n        <div class=\"color-name\">Wedgewood Mist Metallic</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #547784\"></div>\n        <div class=\"color-name\">Pacific Mist Metallic</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #000000\"></div>\n        <div class=\"color-name\">Ebony Black</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #9da08f\"></div>\n        <div class=\"color-name\">Fern Mist Metallic</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #3d4340\"></div>\n        <div class=\"color-name\">Jade Mist Metallic</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #1a1d30\"></div>\n        <div class=\"color-name\">Midnight Mist Metallic</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #3d515c\"></div>\n        <div class=\"color-name\">Aqua Mist Metallic</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #8d2821\"></div>\n        <div class=\"color-name\">Holiday Red</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #95816c\"></div>\n        <div class=\"color-name\">Saddle Mist Metallic</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #e3deca\"></div>\n        <div class=\"color-name\">Provincial White</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #cabda7\"></div>\n        <div class=\"color-name\">Cashmere Beige</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #889097\"></div>\n        <div class=\"color-name\">Sheffield Mist Metallic</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #e7df83\"></div>\n        <div class=\"color-name\">Tahitian Yellow</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #602422\"></div>\n        <div class=\"color-name\">Regal Mist Metallic</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #91a5bd\"></div>\n        <div class=\"color-name\">Number 2 Bermuda Blue</div>\n    </div>\n</div>\n\n<h4 id='colors-sub-heading'>Interior</h4>\n<div class=\"colors-row\">\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #000000\"></div>\n        <div class=\"color-name\">Black</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #6d8b9c\"></div>\n        <div class=\"color-name\">Lt.Blue</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #821519\"></div>\n        <div class=\"color-name\">Red</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #7c4f28\"></div>\n        <div class=\"color-name\">Saddle</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #e3e4d2\"></div>\n        <div class=\"color-name\">White</div>\n    </div>\n</div>"
+      }
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "gallery",
+      {
+        "images": [
+          {
+            "fileName": "1657_1964_Oldsmobile_Prestige-20-21_low_res.jpg",
+            "row": 0,
+            "width": 790,
+            "height": 307,
+            "src": "__GHOST_URL__/content/images/2020/06/1657_1964_Oldsmobile_Prestige-20-21_low_res.jpg"
+          },
+          {
+            "fileName": "1658_1964_Oldsmobile_Prestige-22-23_low_res.jpg",
+            "row": 0,
+            "width": 790,
+            "height": 307,
+            "src": "__GHOST_URL__/content/images/2020/06/1658_1964_Oldsmobile_Prestige-22-23_low_res.jpg"
+          },
+          {
+            "fileName": "1659_1964_Oldsmobile_Prestige-24-25_low_res.jpg",
+            "row": 0,
+            "width": 790,
+            "height": 306,
+            "src": "__GHOST_URL__/content/images/2020/06/1659_1964_Oldsmobile_Prestige-24-25_low_res.jpg"
+          },
+          {
+            "fileName": "1660_1964_Oldsmobile_Prestige-26-27_low_res.jpg",
+            "row": 1,
+            "width": 790,
+            "height": 304,
+            "src": "__GHOST_URL__/content/images/2020/06/1660_1964_Oldsmobile_Prestige-26-27_low_res.jpg"
+          },
+          {
+            "fileName": "1661_1964_Oldsmobile_Prestige-28-29_low_res.jpg",
+            "row": 1,
+            "width": 790,
+            "height": 304,
+            "src": "__GHOST_URL__/content/images/2020/06/1661_1964_Oldsmobile_Prestige-28-29_low_res.jpg"
+          },
+          {
+            "fileName": "1662_1964_Oldsmobile_Prestige-30-31_low_res.jpg",
+            "row": 1,
+            "width": 790,
+            "height": 307,
+            "src": "__GHOST_URL__/content/images/2020/06/1662_1964_Oldsmobile_Prestige-30-31_low_res.jpg"
+          },
+          {
+            "fileName": "1663_1964_Oldsmobile_Prestige-32-33_low_res.jpg",
+            "row": 2,
+            "width": 790,
+            "height": 306,
+            "src": "__GHOST_URL__/content/images/2020/06/1663_1964_Oldsmobile_Prestige-32-33_low_res.jpg"
+          },
+          {
+            "fileName": "1664_1964_Oldsmobile_Prestige-34-35_low_res.jpg",
+            "row": 2,
+            "width": 790,
+            "height": 305,
+            "src": "__GHOST_URL__/content/images/2020/06/1664_1964_Oldsmobile_Prestige-34-35_low_res.jpg"
+          },
+          {
+            "fileName": "1665_1964_Oldsmobile_Prestige-36_low_res.jpg",
+            "row": 2,
+            "width": 790,
+            "height": 609,
+            "src": "__GHOST_URL__/content/images/2020/06/1665_1964_Oldsmobile_Prestige-36_low_res.jpg"
+          }
+        ],
+        "caption": "1964 Oldsmobile 442 OEM Brochures"
+      }
+    ],
+    [
+      "gallery",
+      {
+        "images": [
+          {
+            "fileName": "1648_1964_Oldsmobile_Prestige-02-03_low_res.jpg",
+            "row": 0,
+            "width": 790,
+            "height": 303,
+            "src": "__GHOST_URL__/content/images/2020/06/1648_1964_Oldsmobile_Prestige-02-03_low_res.jpg"
+          },
+          {
+            "fileName": "1649_1964_Oldsmobile_Prestige-04-05_low_res.jpg",
+            "row": 0,
+            "width": 790,
+            "height": 303,
+            "src": "__GHOST_URL__/content/images/2020/06/1649_1964_Oldsmobile_Prestige-04-05_low_res.jpg"
+          },
+          {
+            "fileName": "1650_1964_Oldsmobile_Prestige-06-07_low_res.jpg",
+            "row": 0,
+            "width": 790,
+            "height": 304,
+            "src": "__GHOST_URL__/content/images/2020/06/1650_1964_Oldsmobile_Prestige-06-07_low_res.jpg"
+          },
+          {
+            "fileName": "1651_1964_Oldsmobile_Prestige-08-09_low_res.jpg",
+            "row": 1,
+            "width": 790,
+            "height": 305,
+            "src": "__GHOST_URL__/content/images/2020/06/1651_1964_Oldsmobile_Prestige-08-09_low_res.jpg"
+          },
+          {
+            "fileName": "1652_1964_Oldsmobile_Prestige-10-11_low_res.jpg",
+            "row": 1,
+            "width": 790,
+            "height": 305,
+            "src": "__GHOST_URL__/content/images/2020/06/1652_1964_Oldsmobile_Prestige-10-11_low_res.jpg"
+          },
+          {
+            "fileName": "1653_1964_Oldsmobile_Prestige-12-13_low_res.jpg",
+            "row": 1,
+            "width": 790,
+            "height": 304,
+            "src": "__GHOST_URL__/content/images/2020/06/1653_1964_Oldsmobile_Prestige-12-13_low_res.jpg"
+          },
+          {
+            "fileName": "1654_1964_Oldsmobile_Prestige-14-15_low_res.jpg",
+            "row": 2,
+            "width": 790,
+            "height": 305,
+            "src": "__GHOST_URL__/content/images/2020/06/1654_1964_Oldsmobile_Prestige-14-15_low_res.jpg"
+          },
+          {
+            "fileName": "1655_1964_Oldsmobile_Prestige-16-17_low_res.jpg",
+            "row": 2,
+            "width": 790,
+            "height": 305,
+            "src": "__GHOST_URL__/content/images/2020/06/1655_1964_Oldsmobile_Prestige-16-17_low_res.jpg"
+          },
+          {
+            "fileName": "1656_1964_Oldsmobile_Prestige-18-19_low_res.jpg",
+            "row": 2,
+            "width": 790,
+            "height": 306,
+            "src": "__GHOST_URL__/content/images/2020/06/1656_1964_Oldsmobile_Prestige-18-19_low_res.jpg"
+          }
+        ],
+        "caption": "1964 Oldsmobile 442 OEM Brochures"
+      }
+    ],
+    [
+      "hr",
+      {}
+    ]
+  ],
+  "markups": [
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/articles/handpicked/1970-oldsmobile-442-w-30/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/tag/research/"
+      ]
+    ]
+  ],
+  "sections": [
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Overview"
+        ]
+      ]
+    ],
+    [
+      10,
+      0
+    ],
+    [
+      1,
+      "h3",
+      [
+        [
+          0,
+          [],
+          0,
+          "The 1964 Oldsmobile 442 was launched quickly in response to the success of the GTO. "
+        ]
+      ]
+    ],
+    [
+      10,
+      1
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          1,
+          [],
+          0,
+          0
+        ],
+        [
+          0,
+          [],
+          0,
+          "The 1964 "
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "Oldsmobile 442"
+        ],
+        [
+          0,
+          [],
+          0,
+          " was launched quickly in response to the success of the GTO. It was an option on the F-85 and Cutlass and came with a 4-barrel carb, 4-speed transmission, and dual exhaust, thus 4-4-2."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "The package also included heavy-duty shocks, springs, and a rear stabilizer bar, as well as the top 330 V8 engine that was modified with all available Police issued equipment including a dual-snorkel air cleaner, and premium quality rod and main bearings. "
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "It was released late in the model year and only 2,999 cars were produced with the 442 option."
+        ]
+      ]
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Production Numbers"
+        ]
+      ]
+    ],
+    [
+      10,
+      2
+    ],
+    [
+      10,
+      3
+    ],
+    [
+      1,
+      "p",
+      []
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Performance Specs"
+        ]
+      ]
+    ],
+    [
+      10,
+      4
+    ],
+    [
+      10,
+      5
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Transmission"
+        ]
+      ]
+    ],
+    [
+      10,
+      6
+    ],
+    [
+      3,
+      "ul",
+      [
+        [
+          [
+            0,
+            [],
+            0,
+            "4-Speed Manuel"
+          ]
+        ]
+      ]
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Paint & Colors"
+        ]
+      ]
+    ],
+    [
+      10,
+      7
+    ],
+    [
+      10,
+      8
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "OEM Brochures"
+        ]
+      ]
+    ],
+    [
+      10,
+      9
+    ],
+    [
+      10,
+      10
+    ],
+    [
+      10,
+      11
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "About the Knowledge Base"
+        ]
+      ]
+    ],
+    [
+      10,
+      12
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "The Motorious Knowledge Base provides a comprehensive vehicle overview for the 1964 Oldsmobile 442 including production numbers, performance specs, factory colors, and OEM brochures. Check out additional model years or related content linked to this article or view other Makes and Models in our "
+        ],
+        [
+          0,
+          [
+            1
+          ],
+          1,
+          "Research"
+        ],
+        [
+          0,
+          [],
+          0,
+          " center."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "If you have any interesting facts about the 1964 Oldsmobile 442 to add, want to tell us how we did covering the Olds 442, or want to tell us about yours, please leave a comment below."
+        ]
+      ]
+    ]
+  ],
+  "ghostVersion": "3.0"
+}

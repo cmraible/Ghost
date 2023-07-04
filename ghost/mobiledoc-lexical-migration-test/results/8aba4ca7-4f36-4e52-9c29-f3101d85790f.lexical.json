@@ -1,0 +1,787 @@
+{
+  "root": {
+    "children": [
+      {
+        "type": "email",
+        "html": "<p>Hello {first_name, \"there\"},</p><p>It's July. How did it end up being July? March and April seemed to last forever, but the last two months have passed in the blink of an eye. It's as if someone is messing around with time.</p><p>And talking of time…</p>"
+      },
+      {
+        "children": [
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": "The pandemic shows the need to embrace explainer journalism",
+            "type": "text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "heading",
+        "tag": "h2",
+        "version": 1
+      },
+      {
+        "children": [
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": "Once you start paying attention to SEO, you realise how important it is to update your content online. And then, if you're smart, a little light goes off in your head, and you realise how very different digital content is from its printed equivalent. One of the great boons of the digital format is the ability to update things without having to entirely rewrite them - to see your website as a living document, not a moment in time caught in paper aspic. ",
+            "type": "text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "paragraph",
+        "version": 1
+      },
+      {
+        "children": [
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": "Now, let's turn that idea around the other way: what's the price of ",
+            "type": "text",
+            "version": 1
+          },
+          {
+            "detail": 0,
+            "format": 1,
+            "mode": "normal",
+            "style": "",
+            "text": "not",
+            "type": "text",
+            "version": 1
+          },
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": " updating things?",
+            "type": "text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "paragraph",
+        "version": 1
+      },
+      {
+        "children": [
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": "In a pandemic, the answer is, of course, intentionally or not, you end up communicating poor, outdated information. ",
+            "type": "text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "paragraph",
+        "version": 1
+      },
+      {
+        "children": [
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": "And then, as these tweets highlight, you have a problem: ",
+            "type": "text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "paragraph",
+        "version": 1
+      },
+      {
+        "type": "embed",
+        "url": "https://twitter.com/gerrymcgovern/status/1277569479128596480?s=21",
+        "html": "<blockquote class=\"twitter-tweet\" data-width=\"550\"><p lang=\"en\" dir=\"ltr\">It does seem like most orgs have poor or non-existent processes and resources to review, update and where necessary remove published content in. That&#39;s particularly dangerous in a fast moving pandemic, where accurate information one week is misleading the next.</p>&mdash; Gerry McGovern - Black Lives Matter (@gerrymcgovern) <a href=\"https://twitter.com/gerrymcgovern/status/1277569479128596480?ref_src=twsrc%5Etfw\">June 29, 2020</a></blockquote>\n<script async src=\"https://platform.twitter.com/widgets.js\" charset=\"utf-8\"></script>\n",
+        "metadata": {
+          "url": "https://twitter.com/gerrymcgovern/status/1277569479128596480",
+          "author_name": "Gerry McGovern - Black Lives Matter",
+          "author_url": "https://twitter.com/gerrymcgovern",
+          "width": 550,
+          "height": null,
+          "cache_age": "3153600000",
+          "provider_name": "Twitter",
+          "provider_url": "http://www.twitter.com/",
+          "version": "1.0"
+        },
+        "embedType": "rich"
+      },
+      {
+        "type": "email",
+        "html": "<p><em>You might need to click through to see it all.</em></p>"
+      },
+      {
+        "children": [
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": "Six years ago, I wrote a piece on ",
+            "type": "text",
+            "version": 1
+          },
+          {
+            "children": [
+              {
+                "detail": 0,
+                "format": 0,
+                "mode": "normal",
+                "style": "",
+                "text": "explainer journalism",
+                "type": "text",
+                "version": 1
+              }
+            ],
+            "direction": "ltr",
+            "format": "",
+            "indent": 0,
+            "type": "link",
+            "rel": null,
+            "target": null,
+            "title": null,
+            "url": "https://www.journalism.co.uk/news-commentary/-we-haven-t-even-scratched-surface-of-explainer-journalism-/s6/a556585/",
+            "version": 1
+          },
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": " for journalism.co.uk. We have not moved on those ideas nearly quickly enough as an industry yet. We still remain deeply attached to the idea of a rolling series of updated news stories, rather than single, updated resources. The two are not mutually exclusive, of course. The single explainer can link to the news story, and the news story back to the explainer. But are you leaving stories up on your site with outdated Covid-19 info in them? If so, are you modifying them in some way to allow people to find the more updated information? ",
+            "type": "text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "paragraph",
+        "version": 1
+      },
+      {
+        "children": [
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": "If not, you ",
+            "type": "text",
+            "version": 1
+          },
+          {
+            "detail": 0,
+            "format": 2,
+            "mode": "normal",
+            "style": "",
+            "text": "are",
+            "type": "text",
+            "version": 1
+          },
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": " unintentionally contributing to misinformation. People just don't pay attention to dates when they share things. They don't. That's why ",
+            "type": "text",
+            "version": 1
+          },
+          {
+            "detail": 0,
+            "format": 2,
+            "mode": "normal",
+            "style": "",
+            "text": "The Guardian",
+            "type": "text",
+            "version": 1
+          },
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": " came up with their ",
+            "type": "text",
+            "version": 1
+          },
+          {
+            "children": [
+              {
+                "detail": 0,
+                "format": 0,
+                "mode": "normal",
+                "style": "",
+                "text": "inspired tool for flagging the published date when things are shared to Facebook",
+                "type": "text",
+                "version": 1
+              }
+            ],
+            "direction": "ltr",
+            "format": "",
+            "indent": 0,
+            "type": "link",
+            "rel": null,
+            "target": null,
+            "title": null,
+            "url": "https://www.theguardian.com/help/insideguardian/2019/apr/02/why-were-making-the-age-of-our-journalism-clearer",
+            "version": 1
+          },
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": " - a move which Facebook itself is rather belatedly following up on: ",
+            "type": "text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "paragraph",
+        "version": 1
+      },
+      {
+        "type": "bookmark",
+        "url": "https://www.theverge.com/21304173/facebook-old-news-articles-warning-notification-time",
+        "metadata": {
+          "url": "https://www.theverge.com/21304173/facebook-old-news-articles-warning-notification-time",
+          "title": "Facebook to warn users before they share old news articles",
+          "description": "Facebook is rolling out a new feature globally that will warn users if they’re about to share an article that’s over 90 days old. The feature is designed to give people more context about articles before they share them.",
+          "author": "Jon Porter",
+          "publisher": "The Verge",
+          "thumbnail": "https://cdn.vox-cdn.com/thumbor/6aUS9jhV-rOCtj7JawkWJY2HZkE=/0x30:1536x834/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/20054608/NRP_More_Context_for_News_Articles_on_Facebook_FINAL.jpg",
+          "icon": "https://cdn.vox-cdn.com/uploads/chorus_asset/file/7395351/android-chrome-192x192.0.png"
+        }
+      },
+      {
+        "children": [
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": "This is one of those changes in thinking the pandemic ",
+            "type": "text",
+            "version": 1
+          },
+          {
+            "detail": 0,
+            "format": 2,
+            "mode": "normal",
+            "style": "",
+            "text": "should",
+            "type": "text",
+            "version": 1
+          },
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": " be accelerating - but it isn't. ",
+            "type": "text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "paragraph",
+        "version": 1
+      },
+      {
+        "children": [
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": "Making the World Economic Forum dance on TikTok",
+            "type": "text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "heading",
+        "tag": "h2",
+        "version": 1
+      },
+      {
+        "children": [
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": "A former ",
+            "type": "text",
+            "version": 1
+          },
+          {
+            "children": [
+              {
+                "detail": 0,
+                "format": 0,
+                "mode": "normal",
+                "style": "",
+                "text": "Interactive Journalism",
+                "type": "text",
+                "version": 1
+              }
+            ],
+            "direction": "ltr",
+            "format": "",
+            "indent": 0,
+            "type": "link",
+            "rel": null,
+            "target": null,
+            "title": null,
+            "url": "https://www.city.ac.uk/study/courses/postgraduate/interactive-journalism",
+            "version": 1
+          },
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": " student of mine, ",
+            "type": "text",
+            "version": 1
+          },
+          {
+            "children": [
+              {
+                "detail": 0,
+                "format": 0,
+                "mode": "normal",
+                "style": "",
+                "text": "David Knowles",
+                "type": "text",
+                "version": 1
+              }
+            ],
+            "direction": "ltr",
+            "format": "",
+            "indent": 0,
+            "type": "link",
+            "rel": null,
+            "target": null,
+            "title": null,
+            "url": "https://twitter.com/djknowles22?lang=en",
+            "version": 1
+          },
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": ", is now working at the World Economic Forum, He gave a talk at the recent (virtual) ",
+            "type": "text",
+            "version": 1
+          },
+          {
+            "children": [
+              {
+                "detail": 0,
+                "format": 0,
+                "mode": "normal",
+                "style": "",
+                "text": "Hacks/Hackers London",
+                "type": "text",
+                "version": 1
+              }
+            ],
+            "direction": "ltr",
+            "format": "",
+            "indent": 0,
+            "type": "link",
+            "rel": null,
+            "target": null,
+            "title": null,
+            "url": "https://www.hackshackersldn.co.uk",
+            "version": 1
+          },
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": " on using TikTok as a serious publisher: ",
+            "type": "text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "paragraph",
+        "version": 1
+      },
+      {
+        "type": "embed",
+        "url": "https://youtu.be/AHx_Q71sJxg",
+        "html": "<iframe width=\"612\" height=\"344\" src=\"https://www.youtube.com/embed/AHx_Q71sJxg?feature=oembed\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+        "metadata": {
+          "provider_name": "YouTube",
+          "thumbnail_height": 360,
+          "title": "Storytelling on TikTok: how to approach the platform as a publisher | David Knowles",
+          "thumbnail_width": 480,
+          "provider_url": "https://www.youtube.com/",
+          "height": 344,
+          "author_url": "https://www.youtube.com/channel/UC2hBotsAYUjfxvGvsHGicMQ",
+          "version": "1.0",
+          "author_name": "Hacks/Hackers LDN",
+          "width": 612,
+          "thumbnail_url": "https://i.ytimg.com/vi/AHx_Q71sJxg/hqdefault.jpg"
+        },
+        "embedType": "video"
+      },
+      {
+        "children": [
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": "How the FT reorganised its product teams",
+            "type": "text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "heading",
+        "tag": "h2",
+        "version": 1
+      },
+      {
+        "children": [
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": "Interesting piece from the ",
+            "type": "text",
+            "version": 1
+          },
+          {
+            "detail": 0,
+            "format": 2,
+            "mode": "normal",
+            "style": "",
+            "text": "Financial Times",
+            "type": "text",
+            "version": 1
+          },
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": " looking how they moved from project-based teams to more durable ones. It makes perfect sense - as long as they can avoid the turf wars and stagnation that sometimes come with such a structure. ",
+            "type": "text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "paragraph",
+        "version": 1
+      },
+      {
+        "type": "bookmark",
+        "url": "https://medium.com/ft-product-technology/unlocking-value-with-durable-teams-a70efb435a19",
+        "metadata": {
+          "url": "https://medium.com/ft-product-technology/unlocking-value-with-durable-teams-a70efb435a19",
+          "title": "Unlocking value with durable teams",
+          "description": "Over the past six months, my group at the Financial Times has moved from project-based teams to durable teams. In this post I’ll explain why we made that move and how this is helping us deliver…",
+          "author": "FT Product & Technology",
+          "publisher": "FT Product & Technology",
+          "thumbnail": "https://miro.medium.com/max/1200/0*rtDKWs9mWzjNtn6Y",
+          "icon": "https://cdn-images-1.medium.com/fit/c/152/152/1*8I-HPL0bfoIzGied-dzOvA.png"
+        }
+      },
+      {
+        "children": [
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": "Indie Media: Tékuni",
+            "type": "text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "heading",
+        "tag": "h2",
+        "version": 1
+      },
+      {
+        "children": [
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": "New feature! I'm going to highlight new indie media (emerging media, as I ",
+            "type": "text",
+            "version": 1
+          },
+          {
+            "children": [
+              {
+                "detail": 0,
+                "format": 0,
+                "mode": "normal",
+                "style": "",
+                "text": "described it on Tuesday",
+                "type": "text",
+                "version": 1
+              }
+            ],
+            "direction": "ltr",
+            "format": "",
+            "indent": 0,
+            "type": "link",
+            "rel": null,
+            "target": null,
+            "title": null,
+            "url": "__GHOST_URL__/2020/06/the-next-wave-of-indie-media-the-twitch-ban-hammer-and-googles-wallet/",
+            "version": 1
+          },
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": ") that I've run across. This is a new intitaive from a former City student, Alessandro Mascellino, tooking at Japan and its influence on tech. ",
+            "type": "text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "paragraph",
+        "version": 1
+      },
+      {
+        "type": "bookmark",
+        "url": "https://tekuni.substack.com/p/tkuni-issue-1",
+        "metadata": {
+          "url": "https://tekuni.substack.com/p/tkuni-issue-1",
+          "title": "TÉKUNI: Issue #1",
+          "description": "Contactless tech and AI research on the rise",
+          "author": "Alessandro",
+          "publisher": "TÉKUNI Newsletter",
+          "thumbnail": "https://cdn.substack.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Ff79ff815-6cc7-40b5-8975-9ff00d110940_400x456.jpeg",
+          "icon": "https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/de5d0f32-a33a-4ad3-b671-79345aa9a893/apple-touch-icon-1024x1024.png"
+        }
+      },
+      {
+        "children": [
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": "The Lean Back Read: when a tweet backfires",
+            "type": "text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "heading",
+        "tag": "h2",
+        "version": 1
+      },
+      {
+        "children": [
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": "Here's an admission: I always viewed the author of this piece - Marie Le Conte - as one of the performative attention farmers on Twitter, who had significantly aided her career by being actively controversial on there. She doesn't really disabuse me of that notion in this piece, and I ",
+            "type": "text",
+            "version": 1
+          },
+          {
+            "detail": 0,
+            "format": 2,
+            "mode": "normal",
+            "style": "",
+            "text": "nearly",
+            "type": "text",
+            "version": 1
+          },
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": " didn't get past the first few paragraphs where she downplays the nature of her original tweet.",
+            "type": "text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "paragraph",
+        "version": 1
+      },
+      {
+        "children": [
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": " I'm glad I persevered, though, because she does make an excellent job of tracking the dynamics of how one attention-farming tweet can lead to a far bigger crop than the poster expected.",
+            "type": "text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "paragraph",
+        "version": 1
+      },
+      {
+        "children": [
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": "And the conclusion is absolutely 👌🏼.",
+            "type": "text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "paragraph",
+        "version": 1
+      },
+      {
+        "type": "bookmark",
+        "url": "https://thecritic.co.uk/issues/july-august-2020/the-eye-of-the-storm/",
+        "metadata": {
+          "url": "https://thecritic.co.uk/issues/july-august-2020/the-eye-of-the-storm/",
+          "title": "The eye of the storm | Marie Le Conte | The Critic Magazine",
+          "description": "There is one rule about Twitter that is probably worth knowing about. As @maple-cocaine put it, “Each day on Twitter there is one main character. The goal is to never be it.",
+          "author": "Gerry Lynch",
+          "publisher": "The Critic Magazine",
+          "thumbnail": "https://standfirst-thecriticmag-production.imgix.net/uploads/2020/06/feature-leconte-twitter.jpg?auto=compress,format&crop=faces,entropy,edges&fit=crop&w=1000&h=813",
+          "icon": "https://thecritic.co.uk/content/themes/thecriticmag.co.uk/favicon.ico"
+        }
+      },
+      {
+        "children": [
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": "Today's Listening: Let Nature Sing",
+            "type": "text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "heading",
+        "tag": "h2",
+        "version": 1
+      },
+      {
+        "type": "bookmark",
+        "url": "https://music.apple.com/gb/album/let-nature-sing-single/1456144409",
+        "metadata": {
+          "url": "https://music.apple.com/gb/album/let-nature-sing-single/1456144409",
+          "title": "Let Nature Sing - Single by The RSPB",
+          "description": "Album · 2019 · 1 Song. Available with an Apple Music subscription. Try it free.",
+          "author": null,
+          "publisher": "Apple Music",
+          "thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/7f/51/8a/7f518a9c-9e5a-a392-7bb4-cfce75f31da3/5056197473078.jpg/1200x630wp.png",
+          "icon": "https://music.apple.com/assets/favicon/favicon-180-0a398ebcafe9ddd5517bb45c1c392e09.png"
+        }
+      },
+      {
+        "type": "bookmark",
+        "url": "https://open.spotify.com/album/2I5rtsAZXzfOBDku6Qp1f1?si=QJ8w39AQQd-xa8ynfNX3uA",
+        "metadata": {
+          "url": "https://open.spotify.com/album/2I5rtsAZXzfOBDku6Qp1f1",
+          "title": "Let Nature Sing",
+          "description": "Let Nature Sing, an album by The RSPB on Spotify",
+          "author": null,
+          "publisher": "Spotify",
+          "thumbnail": "https://i.scdn.co/image/ab67616d0000b273b73930697d076cbc336d7a72",
+          "icon": "https://open.scdn.co/cdn/images/touch-icon-144.36faaf96.png"
+        }
+      },
+      {
+        "type": "email",
+        "html": "<p>As ever, I hope that was useful.</p><p>I'm working on a piece about the <a href=\"https://www.independent.co.uk/life-style/gadgets-and-tech/news/facebook-news-feed-algorithm-change-original-reporting-a9593801.html\">big Facebook feed announcement</a>. If you've got any thoughts on it - for quoting or anonymously - I'd love to hear from you.&nbsp;</p><p>Thanks!</p>"
+      },
+      {
+        "children": [],
+        "direction": null,
+        "format": "",
+        "indent": 0,
+        "type": "paragraph",
+        "version": 1
+      }
+    ],
+    "direction": "ltr",
+    "format": "",
+    "indent": 0,
+    "type": "root",
+    "version": 1
+  }
+}

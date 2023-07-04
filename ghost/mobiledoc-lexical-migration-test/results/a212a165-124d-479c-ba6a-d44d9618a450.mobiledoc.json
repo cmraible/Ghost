@@ -1,0 +1,304 @@
+{
+  "version": "0.3.1",
+  "atoms": [],
+  "cards": [
+    [
+      "hr",
+      {}
+    ]
+  ],
+  "markups": [
+    [
+      "strong"
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://moz.com/researchtools/ose/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.google.com/webmasters/tools/home?hl=en"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/seo-notes/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/seo-on-page-optimisation/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/seo-links-and-linking/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/seo-helps-hinderences/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/seo-paywalls/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/seo-with-wordpress-and-yoast/"
+      ]
+    ]
+  ],
+  "sections": [
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "Links in"
+        ],
+        [
+          0,
+          [],
+          0,
+          " are the basis of Google’s algorithm. The key insight that gave Google an advantage over all the other search engines in the late 90s was that every link to a page could be considered a “vote” in that page’s favour. The more links to a page, the more important it must be, and therefore the better it should rank in search. That still applies, even though the number of signals involved has grown more complicated, as we discussed above."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "However, "
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "linking out"
+        ],
+        [
+          0,
+          [],
+          0,
+          ", both within your site and to external sites, is a factor, too. When you link to external sites, search engines look at the anchor text you use, and to what it knows about the site you’re linking to, and uses that to help determine what your page is about - it adds context that can help you rank in search. Linking internally can help transfer both meaning and importance from one page to another."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "However, determined campaigns to game this system by SEOs have lead to Google adding the idea of “"
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "bad neighbourhoods"
+        ],
+        [
+          0,
+          [],
+          0,
+          "” - parts of the internet where links to and from them will hurt your search ranking. These are generally link directories, review sites and spammy blogs set up for the sole purpose of manipulating backlinking - the SEO term for links to your site."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Links from social media now count and are part of the set of signals search engine use (Bing has a very close relationship with Facebook, for example). Getting your content linked to, and shared on, social media is a rapidly growing determining factor in how well you rank."
+        ]
+      ]
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Tool: Open Site Explorer"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "The "
+        ],
+        [
+          0,
+          [
+            1
+          ],
+          1,
+          "Open Site Explorer"
+        ],
+        [
+          0,
+          [],
+          0,
+          " is a great way of discovering how many links you have to your site, or to an individual piece of content. Just input your URL and you’ll get a list of links back. "
+        ],
+        [
+          0,
+          [
+            2
+          ],
+          1,
+          "Google Search Console"
+        ],
+        [
+          0,
+          [],
+          0,
+          " (discussed above) also offers a version of this functionality."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Remember: you can use Open Site Explorer on your competition as well, to see if they’re successfully getting links from sources you’re not."
+        ]
+      ]
+    ],
+    [
+      10,
+      0
+    ],
+    [
+      1,
+      "h3",
+      [
+        [
+          0,
+          [],
+          0,
+          "Read More:"
+        ]
+      ]
+    ],
+    [
+      3,
+      "ul",
+      [
+        [
+          [
+            0,
+            [
+              3
+            ],
+            1,
+            "The Basics"
+          ]
+        ],
+        [
+          [
+            0,
+            [
+              4
+            ],
+            1,
+            "On Page Optimisation"
+          ]
+        ],
+        [
+          [
+            0,
+            [
+              5
+            ],
+            1,
+            "Links and Linking"
+          ]
+        ],
+        [
+          [
+            0,
+            [
+              6
+            ],
+            1,
+            "Helps and Hindrances"
+          ]
+        ],
+        [
+          [
+            0,
+            [
+              7
+            ],
+            1,
+            "SEO & Paywalls"
+          ]
+        ],
+        [
+          [
+            0,
+            [
+              8
+            ],
+            1,
+            "SEO with WordPress"
+          ]
+        ]
+      ]
+    ]
+  ],
+  "ghostVersion": "3.0"
+}

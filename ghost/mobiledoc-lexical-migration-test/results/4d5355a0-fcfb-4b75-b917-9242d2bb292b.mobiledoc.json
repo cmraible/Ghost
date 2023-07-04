@@ -1,0 +1,459 @@
+{
+  "version": "0.3.1",
+  "atoms": [
+    [
+      "soft-return",
+      "",
+      {}
+    ],
+    [
+      "soft-return",
+      "",
+      {}
+    ]
+  ],
+  "cards": [
+    [
+      "hr",
+      {}
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "html",
+      {
+        "html": "<table id=\"production-numbers-table\">\n<tbody>\n\t<tr>\n\t\t<td>SED 4D and 350 SED 4D</td>\n\t\t<td>42,206</td>\n\t</tr>\n    \t<tr>\n\t\t<td>CPE</td>\n\t\t<td>14,552</td>\n\t</tr>\n    \t<tr>\n\t\t<td>HTP CPE and 350 HTP CPE</td>\n\t\t<td>84,868</td>\n\t</tr>\n    \t<tr>\n\t\t<td>CUST SDN 4D</td>\n\t\t<td>9,924</td>\n\t</tr>\n    \t<tr>\n\t\t<td>CUST HTP SDN</td>\n\t\t<td>12,925</td>\n\t</tr>\n    \t<tr>\n\t\t<td>CUST HTP CPE</td>\n\t\t<td>34,271</td>\n\t</tr>\n    \t<tr>\n\t\t<td>CUST CONV CPE</td>\n\t\t<td>3,608</td>\n\t</tr>\n    \t<tr>\n\t\t<td>Sportwagon 4D 2S</td>\n\t\t<td>14,417</td>\n\t</tr>\n\t\t<td><b>Total Production</b></td>\n\t\t<td><b>216,771</b></td>\n\t</tr>\n</tbody>\n</table>"
+      }
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "html",
+      {
+        "html": "<table id=\"performance-specs-table\">\n<tbody>\n\t<tr>\n\t\t<th><b>Engine</b></th>\n\t\t<th><b>Size</b></td>\n\t\t<th><b>Carb.</b></td>\n\t\t<th><b>HP</b></td>\n\t\t<th><b>Torque</b></td>\n\t\t<th><b>0 to 60</b></td>\n\t\t<th><b>Quarter mile</b></td>\n\t</tr>\n\t<tr>\n\t\t<td>350-2 V8</td>\n\t\t<td>350ci</td>\n\t\t<td>1x2bbl</td>\n\t\t<td>150</td>\n\t\t<td>265 lb-ft</td>\n\t\t<td>-</td>\n\t\t<td>-</td>\n\t</tr>\n\t<tr>\n\t\t<td>350-4 V8</td>\n\t\t<td>350ci</td>\n\t\t<td>1x4bbl</td>\n\t\t<td>180</td>\n\t\t<td>275 lb-ft</td>\n\t\t<td>9.5 sec</td>\n\t\t<td>17.3 sec</td>\n\t</tr>\n</tbody>\n</table>"
+      }
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "html",
+      {
+        "html": "<h4 id='colors-sub-heading'>Exterior</h4>\n<div class=\"colors-row\">\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #f5f7ec\"></div>\n        <div class=\"color-name\">Arctic White</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #46899a\"></div>\n        <div class=\"color-name\">Crystal Blue</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #0a1a10\"></div>\n        <div class=\"color-name\">Hunter Green</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #9c874e\"></div>\n        <div class=\"color-name\">Sandalwood</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #291709\"></div>\n        <div class=\"color-name\">Antique Gold</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #607563\"></div>\n        <div class=\"color-name\">Silver Mist</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #698032\"></div>\n        <div class=\"color-name\">Seamist Green</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #6d150b\"></div>\n        <div class=\"color-name\">Fire Red</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #0f506c\"></div>\n        <div class=\"color-name\">Cascade Blue</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #06537f\"></div>\n        <div class=\"color-name\">Stratomist Blue</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #15431f\"></div>\n        <div class=\"color-name\">Heritage Green</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #9b4105\"></div>\n        <div class=\"color-name\">Burnished Copper</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #7a5422\"></div>\n        <div class=\"color-name\">Cortez Gold</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #ebbe41\"></div>\n        <div class=\"color-name\">Sunburst Yellow</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #801806\"></div>\n        <div class=\"color-name\">Flame Orange</div>\n    </div>\n</div>\n\n<h4 id='colors-sub-heading'>Interior</h4>\n<div class=\"colors-row\">\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #000000\"></div>\n        <div class=\"color-name\">Black</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #627389\"></div>\n        <div class=\"color-name\">Blue</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #414135\"></div>\n        <div class=\"color-name\">Green</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #c9b89a\"></div>\n        <div class=\"color-name\">Sandalwood</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #968668\"></div>\n        <div class=\"color-name\">Saddle</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #f5f7ec\"></div>\n        <div class=\"color-name\">White</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #b29a5d\"></div>\n        <div class=\"color-name\">Tan</div>\n    </div>\n</div>"
+      }
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "gallery",
+      {
+        "images": [
+          {
+            "fileName": "2564_n_1972_Buick_Prestige-04-05_low_res.jpg",
+            "row": 0,
+            "width": 790,
+            "height": 425,
+            "src": "__GHOST_URL__/content/images/2020/06/2564_n_1972_Buick_Prestige-04-05_low_res.jpg"
+          },
+          {
+            "fileName": "2565_n_1972_Buick_Prestige-06-07_low_res.jpg",
+            "row": 0,
+            "width": 790,
+            "height": 422,
+            "src": "__GHOST_URL__/content/images/2020/06/2565_n_1972_Buick_Prestige-06-07_low_res.jpg"
+          },
+          {
+            "fileName": "2566_b_1972_Buick_Prestige-08-09_low_res.jpg",
+            "row": 0,
+            "width": 790,
+            "height": 424,
+            "src": "__GHOST_URL__/content/images/2020/06/2566_b_1972_Buick_Prestige-08-09_low_res.jpg"
+          },
+          {
+            "fileName": "2567_b_1972_Buick_Prestige-48-49_low_res.jpg",
+            "row": 1,
+            "width": 790,
+            "height": 424,
+            "src": "__GHOST_URL__/content/images/2020/06/2567_b_1972_Buick_Prestige-48-49_low_res.jpg"
+          },
+          {
+            "fileName": "2568_n_1972_Buick_Prestige-50-00_low_res.jpg",
+            "row": 1,
+            "width": 790,
+            "height": 420,
+            "src": "__GHOST_URL__/content/images/2020/06/2568_n_1972_Buick_Prestige-50-00_low_res.jpg"
+          },
+          {
+            "fileName": "2563_n_1972_Buick_Prestige-02-03_low_res.jpg",
+            "row": 1,
+            "width": 790,
+            "height": 424,
+            "src": "__GHOST_URL__/content/images/2020/06/2563_n_1972_Buick_Prestige-02-03_low_res.jpg"
+          }
+        ],
+        "caption": "1972 Buick Skylark OEM Brochures"
+      }
+    ],
+    [
+      "hr",
+      {}
+    ]
+  ],
+  "markups": [
+    [
+      "strong"
+    ],
+    [
+      "em"
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/tag/research/"
+      ]
+    ]
+  ],
+  "sections": [
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Overview"
+        ]
+      ]
+    ],
+    [
+      10,
+      0
+    ],
+    [
+      1,
+      "h3",
+      [
+        [
+          0,
+          [],
+          0,
+          "1972 was the last model year for the mid-sized Buick Skylark. During this model year many pollution controls were added to the Engines, Compression was lowered, engines had to accept leaded and unleaded gas, and spark timing was retarded (no vacuum advance in lower gears) while driving in lower gears to reduce emissions."
+        ]
+      ]
+    ],
+    [
+      10,
+      1
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "1972 was the last model year for the mid-sized Buick Skylark. During this model year many pollution controls were added to the Engines, Compression was lowered, engines had to accept leaded and unleaded gas, and spark timing was retarded (no vacuum advance in lower gears) while driving in lower gears to reduce emissions."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "For 1972, the base Buick Skylark used the 350 cubic inch V8 with the 2-barrel Rochester carburetor (now putting out 150 horsepower) as standard equipment. A new federally mandated system to calculate power was put into effect that year, and the actual engine performance was probably comparable but slightly lower because of pollution controls in the 1972 model year to the 230 hp (170 kW) that was listed for the previous year. The Skylark 350 now used a version of the same V8 engine as the base Skylark, but with a 4-barrel Rochester carburetor that generated 180 hp (130 kW)."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "An interesting limited-production model was the 1972 Buick Skylark 350 Sun Coupe, which was a Skylark 350 Hardtop Coupe that featured a sliding vinyl sunroof, with a vinyl covering over the front portion of the roof (a landau design). Special striping and \"Sun Coupe\" badges on the rear pillars completed the package. Conversion work was subcontracted to the American Sunroof Company (ASC). Production of the Sun Coupe was approximately 3,950 units."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Skylark Customs were available with the same 350 cubic inch V8 engines available in the basic Skylark and the Skylark 350. The Custom had an upgraded interior and dash with some extra chrome. Convertibles only came in the Skylark Customs and the Skylark 350s."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "For the 1973 model year, the Buick Gran Sports, Skylarks, and Sport Wagons would all be replaced by the new mid-sized Buick Century. Since Centurys were available with Gran Sport trim, the Gran Sport name was once again reduced to being an option package."
+        ]
+      ]
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Production Numbers"
+        ]
+      ]
+    ],
+    [
+      10,
+      2
+    ],
+    [
+      10,
+      3
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Performance Specs"
+        ]
+      ]
+    ],
+    [
+      10,
+      4
+    ],
+    [
+      10,
+      5
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Transmission"
+        ]
+      ]
+    ],
+    [
+      10,
+      6
+    ],
+    [
+      3,
+      "ul",
+      [
+        [
+          [
+            0,
+            [
+              0,
+              0
+            ],
+            2,
+            "3-Speed"
+          ]
+        ],
+        [
+          [
+            0,
+            [
+              0,
+              0
+            ],
+            2,
+            "3-Speed Auto"
+          ]
+        ]
+      ]
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Paint & Colors"
+        ]
+      ]
+    ],
+    [
+      10,
+      7
+    ],
+    [
+      10,
+      8
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "OEM Brochures"
+        ]
+      ]
+    ],
+    [
+      10,
+      9
+    ],
+    [
+      10,
+      10
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "About the Knowledge Base"
+        ]
+      ]
+    ],
+    [
+      10,
+      11
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "The Motorious Knowledge Base provides a comprehensive vehicle overview for the 1972 Buick Skylark"
+        ],
+        [
+          0,
+          [
+            1,
+            1
+          ],
+          2,
+          " "
+        ],
+        [
+          0,
+          [],
+          0,
+          "including production numbers, performance specs, factory colors, and OEM brochures. Check out additional model years or related content linked to this article or view other Makes and Models in our "
+        ],
+        [
+          0,
+          [
+            2
+          ],
+          1,
+          "Research"
+        ],
+        [
+          0,
+          [],
+          0,
+          " center."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "If you have any interesting facts about the 1972 Buick Skylark"
+        ],
+        [
+          0,
+          [
+            1,
+            1
+          ],
+          2,
+          " "
+        ],
+        [
+          0,
+          [],
+          0,
+          "to add, want to tell us how we did covering the Skylark, or want to tell us about yours, please leave a comment below."
+        ],
+        [
+          1,
+          [],
+          0,
+          0
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          1,
+          [],
+          0,
+          1
+        ],
+        [
+          0,
+          [],
+          0,
+          ""
+        ]
+      ]
+    ]
+  ],
+  "ghostVersion": "3.0"
+}

@@ -1,0 +1,394 @@
+{
+  "version": "0.3.1",
+  "atoms": [],
+  "cards": [
+    [
+      "hr",
+      {}
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "html",
+      {
+        "html": "<table id=\"production-numbers-table\">\n<tbody>\n\t<tr>\n\t\t<td>2-Dr Hardtop</td>\n\t\t<td>499,751</td>\n\t</tr>\n    <tr>\n\t\t<td>2-Dr Fastback</td>\n\t\t<td>35,698</td>\n\t</tr>\n    <tr>\n\t\t<td>2-Dr Convertible</td>\n\t\t<td>72,119</td>\n\t</tr>\n\t\t<td><b>Total Production</b></td>\n\t\t<td><b>607,568</b></td>\n\t</tr>\n</tbody>\n</table>"
+      }
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "html",
+      {
+        "html": "<table id=\"performance-specs-table\">\n<tbody>\n\t<tr>\n\t\t<th><b>Engine</b></th>\n\t\t<th><b>Size</b></td>\n\t\t<th><b>Carb.</b></td>\n\t\t<th><b>HP</b></td>\n\t\t<th><b>Torque</b></td>\n\t\t<th><b>0 to 60</b></td>\n\t\t<th><b>Quarter mile</b></td>\n\t</tr>\n\t<tr>\n\t\t<td>I-6</td>\n\t\t<td>200ci</td>\n\t\t<td>1x1bbl</td>\n\t\t<td>120hp @ 4400</td>\n\t\t<td>190 lb-ft @ 2400</td>\n\t\t<td>-</td>\n\t\t<td>-</td>\n\t</tr>\n    <tr>\n\t\t<td>GT-350R</td>\n\t\t<td>289ci</td>\n\t\t<td>1x4bbl</td>\n\t\t<td>360hp</td>\n        <td>-</td>\n\t\t<td>-</td>\n\t\t<td>-</td>\n\t</tr>\n    <tr>\n\t\t<td>GT-350</td>\n\t\t<td>289ci</td>\n\t\t<td>1x4bbl</td>\n\t\t<td>306hp</td>\n        <td>-</td>\n\t\t<td>-</td>\n\t\t<td>-</td>\n\t</tr>\n    <tr>\n\t\t<td>Cobra V8</td>\n\t\t<td>289ci</td>\n\t\t<td>1x4bbl</td>\n\t\t<td>271hp</td>\n\t\t<td>312 lb-ft</td>\n\t\t<td>6.2 sec</td>\n\t\t<td>14.2 sec @ 92.0 mph</td>\n\t</tr>\n    <tr>\n\t\t<td>Challenger Special V8</td>\n\t\t<td>289ci</td>\n\t\t<td>1x4bbl</td>\n\t\t<td>225hp</td>\n\t\t<td>305 lb-ft</td>\n\t\t<td>-</td>\n\t\t<td>-</td>\n\t</tr>\n    <tr>\n\t\t<td>Challenger V8</td>\n\t\t<td>289ci</td>\n\t\t<td>1x2bbl</td>\n\t\t<td>200hp</td>\n\t\t<td>282 lb-ft</td>\n\t\t<td>-</td>\n\t\t<td>-</td>\n\t</tr>\n</tbody>\n</table>"
+      }
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "html",
+      {
+        "html": "<h4 id='colors-sub-heading'>Exterior</h4>\n<div class=\"colors-row\">\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #000000\"></div>\n        <div class=\"color-name\">Raven Black</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #e9d2bc\"></div>\n        <div class=\"color-name\">Sahara Beige</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #ffffe8\"></div>\n        <div class=\"color-name\">Wimbeldon White</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #9d1915\"></div>\n        <div class=\"color-name\">Candyapple Red</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #de6a34\"></div>\n        <div class=\"color-name\">Emberglo</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #6b89a1\"></div>\n        <div class=\"color-name\">Silver Blue</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #999999\"></div>\n        <div class=\"color-name\">Silver Frost</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #ffff97\"></div>\n        <div class=\"color-name\">Springtime Yellow</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #b4c7d0\"></div>\n        <div class=\"color-name\">Arcadian Blue</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #00003e\"></div>\n        <div class=\"color-name\">Nightmist Blue</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #8b6939\"></div>\n        <div class=\"color-name\">Antique Bronze</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #003300\"></div>\n        <div class=\"color-name\">Ivy Green Met.</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #508498\"></div>\n        <div class=\"color-name\">Tahoe Turquoise</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #620000\"></div>\n        <div class=\"color-name\">Vintage Burgundy</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #7e7e6b\"></div>\n        <div class=\"color-name\">Sauterne Gold</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #e83600\"></div>\n        <div class=\"color-name\">Signalfire Red</div>\n    </div>\n</div>\n\n<h4 id='colors-sub-heading'>Interior</h4>\n<div class=\"colors-row\">\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #394959\"></div>\n        <div class=\"color-name\">Blue</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #782f2b\"></div>\n        <div class=\"color-name\">Red</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #000000\"></div>\n        <div class=\"color-name\">Black</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #455d67\"></div>\n        <div class=\"color-name\">Aqua</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #b1a493\"></div>\n        <div class=\"color-name\">Parchment</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #4b2826\"></div>\n        <div class=\"color-name\">Burgundy</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #7a4838\"></div>\n        <div class=\"color-name\">Emberglo</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #59594d\"></div>\n        <div class=\"color-name\">Ivy Gold</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #766c62\"></div>\n        <div class=\"color-name\">Palomino</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #cdc8b6\"></div>\n        <div class=\"color-name\">White</div>\n    </div>\n</div>"
+      }
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "gallery",
+      {
+        "images": [
+          {
+            "fileName": "859_1_low_res.jpeg",
+            "row": 0,
+            "width": 790,
+            "height": 619,
+            "src": "__GHOST_URL__/content/images/2020/06/859_1_low_res.jpeg"
+          },
+          {
+            "fileName": "853_2_low_res.jpeg",
+            "row": 0,
+            "width": 790,
+            "height": 302,
+            "src": "__GHOST_URL__/content/images/2020/06/853_2_low_res.jpeg"
+          },
+          {
+            "fileName": "854_3_low_res.jpeg",
+            "row": 0,
+            "width": 790,
+            "height": 298,
+            "src": "__GHOST_URL__/content/images/2020/06/854_3_low_res.jpeg"
+          },
+          {
+            "fileName": "855_4_low_res.jpeg",
+            "row": 1,
+            "width": 790,
+            "height": 302,
+            "src": "__GHOST_URL__/content/images/2020/06/855_4_low_res.jpeg"
+          },
+          {
+            "fileName": "856_5_low_res.jpeg",
+            "row": 1,
+            "width": 790,
+            "height": 302,
+            "src": "__GHOST_URL__/content/images/2020/06/856_5_low_res.jpeg"
+          },
+          {
+            "fileName": "857_6_low_res.jpeg",
+            "row": 1,
+            "width": 790,
+            "height": 303,
+            "src": "__GHOST_URL__/content/images/2020/06/857_6_low_res.jpeg"
+          },
+          {
+            "fileName": "858_7_low_res.jpeg",
+            "row": 2,
+            "width": 790,
+            "height": 619,
+            "src": "__GHOST_URL__/content/images/2020/06/858_7_low_res.jpeg"
+          }
+        ],
+        "caption": "1966 Ford Mustang OEM Brochures"
+      }
+    ],
+    [
+      "hr",
+      {}
+    ]
+  ],
+  "markups": [
+    [
+      "strong"
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/tag/research/"
+      ]
+    ]
+  ],
+  "sections": [
+    [
+      1,
+      "p",
+      []
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Overview"
+        ]
+      ]
+    ],
+    [
+      10,
+      0
+    ],
+    [
+      1,
+      "h3",
+      [
+        [
+          0,
+          [],
+          0,
+          "Not much was changed for the 1966 Mustang due to great sales from previous years."
+        ]
+      ]
+    ],
+    [
+      10,
+      1
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Not much was changed for the 1966 Mustang due to great sales from previous years."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "However, 14-inch tires came standard on all models and the GT’s instrument cluster was made standard on all models. The exterior styling was unchanged from 1965 with minor changes to wheel covers, gas cap and emblems. New options include AM-FM radio and AM-A Track stereo."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Once again, production was up and the pony car became increasingly popular."
+        ]
+      ]
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Production Numbers"
+        ]
+      ]
+    ],
+    [
+      10,
+      2
+    ],
+    [
+      10,
+      3
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Performance Specs"
+        ]
+      ]
+    ],
+    [
+      10,
+      4
+    ],
+    [
+      10,
+      5
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Transmission"
+        ]
+      ]
+    ],
+    [
+      10,
+      6
+    ],
+    [
+      3,
+      "ul",
+      [
+        [
+          [
+            0,
+            [
+              0,
+              0
+            ],
+            2,
+            "3-Speed Manual"
+          ]
+        ],
+        [
+          [
+            0,
+            [
+              0,
+              0
+            ],
+            2,
+            "4-Speed Manual"
+          ]
+        ],
+        [
+          [
+            0,
+            [
+              0
+            ],
+            1,
+            "Cruise-O-Matic"
+          ]
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      []
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Paint & Colors"
+        ]
+      ]
+    ],
+    [
+      10,
+      7
+    ],
+    [
+      10,
+      8
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "OEM Brochures"
+        ]
+      ]
+    ],
+    [
+      10,
+      9
+    ],
+    [
+      10,
+      10
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "About the Knowledge Base"
+        ]
+      ]
+    ],
+    [
+      10,
+      11
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "The Motorious Knowledge Base provides a comprehensive vehicle overview for the 1966 Ford Mustang including production numbers, performance specs, factory colors, and OEM brochures. Check out additional model years or related content linked to this article or view other Makes and Models in our "
+        ],
+        [
+          0,
+          [
+            1
+          ],
+          1,
+          "Research"
+        ],
+        [
+          0,
+          [],
+          0,
+          " center."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "If you have any interesting facts about the 1966 Ford Mustang to add, want to tell us how we did covering the Mustang, or want to tell us about yours, please leave a comment below."
+        ]
+      ]
+    ]
+  ],
+  "ghostVersion": "3.0"
+}

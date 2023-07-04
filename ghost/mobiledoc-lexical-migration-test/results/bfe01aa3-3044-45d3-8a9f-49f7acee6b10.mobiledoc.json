@@ -1,0 +1,279 @@
+{
+  "version": "0.3.1",
+  "atoms": [],
+  "cards": [
+    [
+      "email-cta",
+      {
+        "showButton": true,
+        "showDividers": false,
+        "segment": "status:free",
+        "alignment": "center",
+        "html": "<p><strong><em>Please <a href=\"__GHOST_URL__/subscribe\">become a paid subscriber</a>. You get exclusive podcasts, <a href=\"__GHOST_URL__/citizens-guide-to-holding-the-powerful-accountable/\">digital publications</a>, and live events – and you support this journalism.</em></strong></p>",
+        "buttonText": "Click Here To Subscribe",
+        "buttonUrl": "__GHOST_URL__/subscribe"
+      }
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "email-cta",
+      {
+        "showButton": true,
+        "showDividers": false,
+        "segment": "status:free",
+        "alignment": "center",
+        "html": "",
+        "buttonText": "Click Here To Subscribe",
+        "buttonUrl": "__GHOST_URL__/subscribe"
+      }
+    ]
+  ],
+  "markups": [
+    [
+      "a",
+      [
+        "href",
+        "https://www.blackrock.com/corporate/investor-relations/larry-fink-ceo-letter?cid=ppc:blk:ll:na:ol:goog:na:v2:bhv:tl&gclid=CjwKCAiA55mPBhBOEiwANmzoQr2upz1QMEO875DunkktiHQa5IL2OssZTsEqHn-EeS9aI9vRa9ZneRoCluMQAvD_BwE&gclsrc=aw.ds"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/midday-poster-blackrocks-greenwashing/"
+      ]
+    ],
+    [
+      "strong"
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/subscribe/"
+      ]
+    ],
+    [
+      "em"
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/new-the-citizens-guide-to-holding/"
+      ]
+    ]
+  ],
+  "sections": [
+    [
+      10,
+      0
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Earlier this week, BlackRock Inc. chief executive Larry Fink made headlines with the release of his "
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "2022 annual letter"
+        ],
+        [
+          0,
+          [],
+          0,
+          " to CEOs. “Every company and every industry will be transformed by the transition to a net zero world,” Fink wrote, asserting the weighty responsibility companies have to focus on their carbon footprint. “The question is, will you lead, or will you be led?”"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "While the CEO of the global asset management giant has proven adept at co-opting the language of environmental advocates, his greenwashing rhetoric may be running up against his real-world behavior."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Find out about that and much more in "
+        ],
+        [
+          0,
+          [
+            1
+          ],
+          1,
+          "today’s Midday Poster"
+        ],
+        [
+          0,
+          [],
+          0,
+          ", exclusively for subscribers."
+        ]
+      ]
+    ],
+    [
+      1,
+      "h3",
+      [
+        [
+          0,
+          [
+            2
+          ],
+          1,
+          "ADDITIONALLY FOR PAID SUBSCRIBERS ("
+        ],
+        [
+          0,
+          [
+            3,
+            2
+          ],
+          2,
+          "click here to subscribe"
+        ],
+        [
+          0,
+          [
+            2
+          ],
+          1,
+          "):"
+        ]
+      ]
+    ],
+    [
+      3,
+      "ul",
+      [
+        [
+          [
+            0,
+            [],
+            0,
+            "The wealthiest Americans have an unfair advantage when it comes to electing members of Congress."
+          ]
+        ],
+        [
+          [
+            0,
+            [],
+            0,
+            "Communities of color are receiving crucial COVID-19 treatments at lower rates than their white counterparts."
+          ]
+        ],
+        [
+          [
+            0,
+            [],
+            0,
+            "Americans are troubled by members of Congress trading stocks while in office."
+          ]
+        ],
+        [
+          [
+            0,
+            [],
+            0,
+            "New polling finds strong support for filibuster reform."
+          ]
+        ]
+      ]
+    ],
+    [
+      10,
+      1
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [
+            4,
+            2
+          ],
+          0,
+          "If you’d like to "
+        ],
+        [
+          0,
+          [
+            1
+          ],
+          1,
+          "read the full report"
+        ],
+        [
+          0,
+          [],
+          0,
+          ", please "
+        ],
+        [
+          0,
+          [
+            3
+          ],
+          1,
+          "click here"
+        ],
+        [
+          0,
+          [],
+          2,
+          " to become an $8-a-month or $70-a-year supporting subscriber. When you become a supporting subscriber, you get this kind of exclusive content, you get access to our live events, you get our new "
+        ],
+        [
+          0,
+          [
+            2,
+            5
+          ],
+          2,
+          "Citizens' Guide To Holding The Powerful Accountable"
+        ],
+        [
+          0,
+          [
+            4,
+            2
+          ],
+          2,
+          " – and you are helping us hire more journalists."
+        ]
+      ]
+    ],
+    [
+      10,
+      2
+    ]
+  ],
+  "ghostVersion": "4.0"
+}

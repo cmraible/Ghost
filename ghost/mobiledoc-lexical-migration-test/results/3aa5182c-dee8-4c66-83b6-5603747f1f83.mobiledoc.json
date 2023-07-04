@@ -1,0 +1,486 @@
+{
+  "version": "0.3.1",
+  "atoms": [
+    [
+      "soft-return",
+      "",
+      {}
+    ],
+    [
+      "soft-return",
+      "",
+      {}
+    ],
+    [
+      "soft-return",
+      "",
+      {}
+    ],
+    [
+      "soft-return",
+      "",
+      {}
+    ],
+    [
+      "soft-return",
+      "",
+      {}
+    ],
+    [
+      "soft-return",
+      "",
+      {}
+    ]
+  ],
+  "cards": [
+    [
+      "hr",
+      {}
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "html",
+      {
+        "html": "<table id=\"production-numbers-table\">\n<tbody>\n\t<tr>\n\t\t<td>2-DR Hardtop</td>\n\t\t<td>69,142</td>\n\t</tr>\n    \t<tr>\n\t\t<td>SE</td>\n\t\t<td>503</td>\n\t</tr>\n    \t<tr>\n\t\t<td>500</td>\n\t\t<td>392</td>\n\t</tr>\n    \t<tr>\n\t\t<td>R/T</td>\n\t\t<td>20,057</td>\n\t</tr>\n\t\t<td><b>Total Production</b></td>\n\t\t<td><b>90,094</b></td>\n\t</tr>\n</tbody>\n</table>"
+      }
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "html",
+      {
+        "html": "<table id=\"performance-specs-table\">\n<tbody>\n\t<tr>\n\t\t<th><b>Engine</b></th>\n\t\t<th><b>Size</b></td>\n\t\t<th><b>Carb.</b></td>\n\t\t<th><b>HP</b></td>\n\t\t<th><b>Torque</b></td>\n\t\t<th><b>0 to 60</b></td>\n\t\t<th><b>Quarter mile</b></td>\n\t</tr>\n\t<tr>\n\t\t<td>I-6</td>\n\t\t<td>225ci</td>\n\t\t<td>1x1bbl</td>\n\t\t<td>145</td>\n\t\t<td>215 lb-ft</td>\n\t\t<td>-</td>\n\t\t<td>-</td>\n\t</tr>\n\n\t<tr>\n\t\t<td>Standard V8</td>\n\t\t<td>318ci</td>\n\t\t<td>1x2bbl</td>\n\t\t<td>230</td>\n\t\t<td>340 lb-ft</td>\n\t\t<td>-</td>\n\t\t<td>-</td>\n\t</tr>\n\t<tr>\n\t\t<td>V8</td>\n\t\t<td>383ci</td>\n\t\t<td>1x4bbl</td>\n\t\t<td>330</td>\n\t\t<td>425 lb-ft</td>\n\t\t<td>-</td>\n\t\t<td>-</td>\n\t</tr>\n\t<tr>\n\t\t<td>V8</td>\n\t\t<td>383ci</td>\n\t\t<td>1x2bbl</td>\n\t\t<td>290</td>\n\t\t<td>390 lb-ft</td>\n\t\t<td>-</td>\n\t\t<td>-</td>\n\t</tr>\n\t<tr>\n\t\t<td>HEMI</td>\n\t\t<td>426ci</td>\n\t\t<td>1x4bbl</td>\n\t\t<td>375</td>\n\t\t<td>480 lb-ft</td>\n\t\t<td>6.0 sec</td>\n\t\t<td>13.9 sec</td>\n\t</tr>\n\t<tr>\n\t\t<td>V8</td>\n\t\t<td>440ci</td>\n\t\t<td>1x4bbl</td>\n\t\t<td>375</td>\n\t\t<td>480 lb-ft</td>\n\t\t<td>6.1 sec</td>\n\t\t<td>13.9 sec</td>\n\t</tr>v\n</tbody>\n</table>"
+      }
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "html",
+      {
+        "html": "<h4 id='colors-sub-heading'>Exterior</h4>\n<div class=\"colors-row\">\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #b9bdbf\"></div>\n        <div class=\"color-name\">Silver</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #65b3fb\"></div>\n        <div class=\"color-name\">Light Blue</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #238cfc\"></div>\n        <div class=\"color-name\">Bright Blue</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #013c84\"></div>\n        <div class=\"color-name\">Medium Blue</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #021e3c\"></div>\n        <div class=\"color-name\">Dark Blue</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #4d0c06\"></div>\n        <div class=\"color-name\">Cordovan</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #ccdbbd\"></div>\n        <div class=\"color-name\">Light Green</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #717c2d\"></div>\n        <div class=\"color-name\">Medium Green</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #47540c\"></div>\n        <div class=\"color-name\">Dark Green</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #82b2b6\"></div>\n        <div class=\"color-name\">Light Turquoise</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #489574\"></div>\n        <div class=\"color-name\">Bright Turquoise</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #ef1c00\"></div>\n        <div class=\"color-name\">Bright Red</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #830b02\"></div>\n        <div class=\"color-name\">Red</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #de9c32\"></div>\n        <div class=\"color-name\">Light Bronze</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #d16202\"></div>\n        <div class=\"color-name\">Copper</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #a85808\"></div>\n        <div class=\"color-name\">Dark Bronze</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #ffffff\"></div>\n        <div class=\"color-name\">White</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #000000\"></div>\n        <div class=\"color-name\">Black</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #ffff48\"></div>\n        <div class=\"color-name\">Yellow</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #fee963\"></div>\n        <div class=\"color-name\">Cream</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #b4870c\"></div>\n        <div class=\"color-name\">Gold</div>\n    </div>\n</div>"
+      }
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "gallery",
+      {
+        "images": [
+          {
+            "fileName": "787_2_low_res.jpeg",
+            "row": 0,
+            "width": 790,
+            "height": 393,
+            "src": "__GHOST_URL__/content/images/2020/06/787_2_low_res.jpeg"
+          },
+          {
+            "fileName": "788_7_low_res.jpeg",
+            "row": 0,
+            "width": 790,
+            "height": 397,
+            "src": "__GHOST_URL__/content/images/2020/06/788_7_low_res.jpeg"
+          },
+          {
+            "fileName": "789_9_low_res.jpeg",
+            "row": 0,
+            "width": 790,
+            "height": 396,
+            "src": "__GHOST_URL__/content/images/2020/06/789_9_low_res.jpeg"
+          },
+          {
+            "fileName": "790_10_low_res.jpeg",
+            "row": 1,
+            "width": 790,
+            "height": 395,
+            "src": "__GHOST_URL__/content/images/2020/06/790_10_low_res.jpeg"
+          },
+          {
+            "fileName": "791_11_low_res.jpeg",
+            "row": 1,
+            "width": 790,
+            "height": 800,
+            "src": "__GHOST_URL__/content/images/2020/06/791_11_low_res.jpeg"
+          },
+          {
+            "fileName": "792_69char_low_res.jpeg",
+            "row": 1,
+            "width": 419,
+            "height": 595,
+            "src": "__GHOST_URL__/content/images/2020/06/792_69char_low_res.jpeg"
+          },
+          {
+            "fileName": "793_69rt_low_res.jpeg",
+            "row": 2,
+            "width": 433,
+            "height": 595,
+            "src": "__GHOST_URL__/content/images/2020/06/793_69rt_low_res.jpeg"
+          },
+          {
+            "fileName": "786_1_low_res.jpeg",
+            "row": 2,
+            "width": 790,
+            "height": 806,
+            "src": "__GHOST_URL__/content/images/2020/06/786_1_low_res.jpeg"
+          }
+        ],
+        "caption": "1969 Dodge Charger OEM Brochures"
+      }
+    ],
+    [
+      "hr",
+      {}
+    ]
+  ],
+  "markups": [
+    [
+      "strong"
+    ],
+    [
+      "em"
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/tag/research/"
+      ]
+    ]
+  ],
+  "sections": [
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Overview"
+        ]
+      ]
+    ],
+    [
+      10,
+      0
+    ],
+    [
+      1,
+      "h3",
+      [
+        [
+          0,
+          [],
+          0,
+          "The 1969 Charger received minor changes to distinguish itself from the previous year with a new split front grille and new full-width tail-lamps."
+        ]
+      ]
+    ],
+    [
+      10,
+      1
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "The 1969 Charger received minor changes to distinguish itself from the previous year with a new split front grille and new full-width tail-lamps."
+        ],
+        [
+          1,
+          [],
+          0,
+          0
+        ],
+        [
+          1,
+          [],
+          0,
+          1
+        ],
+        [
+          0,
+          [],
+          0,
+          "A six-cylinder was introduced as the base engine and was under-powered for the mass of the Charger. The Charger 500 and the Charger Daytona were introduced for stock car races. An SE package was also introduced and offered a little more luxury."
+        ],
+        [
+          1,
+          [],
+          0,
+          2
+        ],
+        [
+          1,
+          [],
+          0,
+          3
+        ],
+        [
+          0,
+          [],
+          0,
+          "The R/T package returned and little was changed."
+        ],
+        [
+          1,
+          [],
+          0,
+          4
+        ],
+        [
+          1,
+          [],
+          0,
+          5
+        ],
+        [
+          0,
+          [],
+          0,
+          "The 500 and Daytona had improved aerodynamics, which were primarily a flush grille and backlight on the 500, but were radical on the Daytona, which had a Cd (coefficient of drag) of 0.29, a number not bettered on production cars for many decades. Both cars had the 440 Magnum as standard equipment, with the 2X4-BBl 426 Hemi as the only engine option. The Daytona set a world closed-course record of 200.45 MPH at Talladega, Alabama in March, 1970, in a car that had been stolen on the streets of Los Angeles and recovered by the LAPD."
+        ]
+      ]
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Production Numbers"
+        ]
+      ]
+    ],
+    [
+      10,
+      2
+    ],
+    [
+      10,
+      3
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Performance Specs"
+        ]
+      ]
+    ],
+    [
+      10,
+      4
+    ],
+    [
+      10,
+      5
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Transmission"
+        ]
+      ]
+    ],
+    [
+      10,
+      6
+    ],
+    [
+      3,
+      "ul",
+      [
+        [
+          [
+            0,
+            [
+              0,
+              0
+            ],
+            2,
+            "3-Speed Manual"
+          ]
+        ],
+        [
+          [
+            0,
+            [
+              0,
+              0
+            ],
+            2,
+            "4-Speed Manual"
+          ]
+        ],
+        [
+          [
+            0,
+            [
+              0,
+              0
+            ],
+            2,
+            "Torqueflite Auto"
+          ]
+        ]
+      ]
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Paint & Colors"
+        ]
+      ]
+    ],
+    [
+      10,
+      7
+    ],
+    [
+      10,
+      8
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "OEM Brochures"
+        ]
+      ]
+    ],
+    [
+      10,
+      9
+    ],
+    [
+      10,
+      10
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "About the Knowledge Base"
+        ]
+      ]
+    ],
+    [
+      10,
+      11
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "The Motorious Knowledge Base provides a comprehensive vehicle overview for the 1969 Dodge Charger"
+        ],
+        [
+          0,
+          [
+            1,
+            1
+          ],
+          2,
+          " "
+        ],
+        [
+          0,
+          [],
+          0,
+          "including production numbers, performance specs, factory colors, and OEM brochures. Check out additional model years or related content linked to this article or view other Makes and Models in our "
+        ],
+        [
+          0,
+          [
+            2
+          ],
+          1,
+          "Research"
+        ],
+        [
+          0,
+          [],
+          0,
+          " center."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "If you have any interesting facts about the 1969 Dodge Charger"
+        ],
+        [
+          0,
+          [
+            1,
+            1
+          ],
+          2,
+          " "
+        ],
+        [
+          0,
+          [],
+          0,
+          "to add, want to tell us how we did covering the Charger, or want to tell us about yours, please leave a comment below."
+        ]
+      ]
+    ]
+  ],
+  "ghostVersion": "3.0"
+}

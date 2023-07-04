@@ -1,0 +1,362 @@
+{
+  "version": "0.3.1",
+  "atoms": [],
+  "cards": [
+    [
+      "hr",
+      {}
+    ],
+    [
+      "image",
+      {
+        "src": "__GHOST_URL__/content/images/2022/06/Washington-Driver-Crashes-McLaren-600LT--Flees-Accident-2.jpg",
+        "width": 1920,
+        "height": 1080
+      }
+    ],
+    [
+      "image",
+      {
+        "src": "__GHOST_URL__/content/images/2022/06/Washington-Driver-Crashes-McLaren-600LT--Flees-Accident-3.jpg",
+        "width": 1920,
+        "height": 1080
+      }
+    ],
+    [
+      "embed",
+      {
+        "url": "https://twitter.com/wspd1pio/status/1539137915829497857?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1539137915829497857%7Ctwgr%5E%7Ctwcon%5Es1_&ref_url=https%3A%2F%2Fnews.yahoo.com%2Fdriver-flees-pricey-mclaren-sports-150632077.html",
+        "html": "<blockquote class=\"twitter-tweet\"><p lang=\"en\" dir=\"ltr\">Troopers are on scene investigating this hit and run <a href=\"https://twitter.com/hashtag/collision?src=hash&amp;ref_src=twsrc%5Etfw\">#collision</a> involving a a 2020 <a href=\"https://twitter.com/hashtag/McLaren600LT?src=hash&amp;ref_src=twsrc%5Etfw\">#McLaren600LT</a>, eastbound SR 512 to Portland Ave. <a href=\"https://t.co/JXbOz6hI4R\">pic.twitter.com/JXbOz6hI4R</a></p>&mdash; Trooper Robert Reyer (@wspd1pio) <a href=\"https://twitter.com/wspd1pio/status/1539137915829497857?ref_src=twsrc%5Etfw\">June 21, 2022</a></blockquote>\n<script async src=\"https://platform.twitter.com/widgets.js\" charset=\"utf-8\"></script>\n",
+        "type": "twitter",
+        "metadata": {
+          "url": "https://twitter.com/wspd1pio/status/1539137915829497857",
+          "author_name": "Trooper Robert Reyer",
+          "author_url": "https://twitter.com/wspd1pio",
+          "width": 550,
+          "height": null,
+          "cache_age": "3153600000",
+          "provider_name": "Twitter",
+          "provider_url": "http://www.twitter.com/",
+          "version": "1.0",
+          "tweet_data": {
+            "possibly_sensitive": false,
+            "public_metrics": {
+              "retweet_count": 62,
+              "reply_count": 44,
+              "like_count": 194,
+              "quote_count": 30
+            },
+            "author_id": "166648914",
+            "source": "Twitter for iPhone",
+            "text": "Troopers are on scene investigating this hit and run #collision involving a a 2020 #McLaren600LT, eastbound SR 512 to Portland Ave. https://t.co/JXbOz6hI4R",
+            "reply_settings": "everyone",
+            "lang": "en",
+            "attachments": {
+              "media_keys": [
+                "3_1539137909357531136",
+                "3_1539137909361623042",
+                "3_1539137909491699712"
+              ]
+            },
+            "id": "1539137915829497857",
+            "conversation_id": "1539137915829497857",
+            "entities": {
+              "urls": [
+                {
+                  "start": 132,
+                  "end": 155,
+                  "url": "https://t.co/JXbOz6hI4R",
+                  "expanded_url": "https://twitter.com/wspd1pio/status/1539137915829497857/photo/1",
+                  "display_url": "pic.twitter.com/JXbOz6hI4R",
+                  "media_key": "3_1539137909357531136"
+                },
+                {
+                  "start": 132,
+                  "end": 155,
+                  "url": "https://t.co/JXbOz6hI4R",
+                  "expanded_url": "https://twitter.com/wspd1pio/status/1539137915829497857/photo/1",
+                  "display_url": "pic.twitter.com/JXbOz6hI4R",
+                  "media_key": "3_1539137909361623042"
+                },
+                {
+                  "start": 132,
+                  "end": 155,
+                  "url": "https://t.co/JXbOz6hI4R",
+                  "expanded_url": "https://twitter.com/wspd1pio/status/1539137915829497857/photo/1",
+                  "display_url": "pic.twitter.com/JXbOz6hI4R",
+                  "media_key": "3_1539137909491699712"
+                }
+              ],
+              "annotations": [
+                {
+                  "start": 118,
+                  "end": 129,
+                  "probability": 0.9114,
+                  "type": "Place",
+                  "normalized_text": "Portland Ave"
+                }
+              ],
+              "hashtags": [
+                {
+                  "start": 53,
+                  "end": 63,
+                  "tag": "collision"
+                },
+                {
+                  "start": 83,
+                  "end": 96,
+                  "tag": "McLaren600LT"
+                }
+              ]
+            },
+            "context_annotations": [
+              {
+                "domain": {
+                  "id": "171",
+                  "name": "Local News",
+                  "description": "For local-level news entities"
+                },
+                "entity": {
+                  "id": "1252622946473893890",
+                  "name": "Seattle"
+                }
+              }
+            ],
+            "created_at": "2022-06-21T06:47:29.000Z",
+            "includes": {
+              "media": [
+                {
+                  "type": "photo",
+                  "url": "https://pbs.twimg.com/media/FVwdxhuX0AA5L_L.jpg",
+                  "media_key": "3_1539137909357531136",
+                  "height": 1536,
+                  "width": 2048
+                },
+                {
+                  "type": "photo",
+                  "url": "https://pbs.twimg.com/media/FVwdxhvWQAIEGNx.jpg",
+                  "media_key": "3_1539137909361623042",
+                  "height": 1536,
+                  "width": 2048
+                },
+                {
+                  "type": "photo",
+                  "url": "https://pbs.twimg.com/media/FVwdxiOXEAAKsq6.jpg",
+                  "media_key": "3_1539137909491699712",
+                  "height": 1536,
+                  "width": 2048
+                }
+              ],
+              "users": [
+                {
+                  "name": "Trooper Robert Reyer",
+                  "url": "https://t.co/mvAl5QxUgI",
+                  "description": "Official Washington State Patrol District 1 Public Information Officer for Pierce and Thurston counties.",
+                  "entities": {
+                    "url": {
+                      "urls": [
+                        {
+                          "start": 0,
+                          "end": 23,
+                          "url": "https://t.co/mvAl5QxUgI",
+                          "expanded_url": "http://www.wsp.wa.gov/",
+                          "display_url": "wsp.wa.gov"
+                        }
+                      ]
+                    }
+                  },
+                  "protected": false,
+                  "location": "Headquarters - Tacoma, WA",
+                  "verified": true,
+                  "created_at": "2010-07-14T17:40:00.000Z",
+                  "public_metrics": {
+                    "followers_count": 39837,
+                    "following_count": 391,
+                    "tweet_count": 12516,
+                    "listed_count": 646
+                  },
+                  "profile_image_url": "https://pbs.twimg.com/profile_images/1491541985471057920/Mm5JOU4l_normal.jpg",
+                  "id": "166648914",
+                  "username": "wspd1pio"
+                }
+              ]
+            }
+          }
+        }
+      }
+    ]
+  ],
+  "markups": [
+    [
+      "strong"
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.youtube.com/c/Motorious/videos"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://open.spotify.com/show/41hUA9DRLc5cyvTrFDBSDI"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://podcasts.apple.com/us/podcast/motorious/id1606215405?uo=4"
+      ]
+    ]
+  ],
+  "sections": [
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "The fact anyone walked away from this is simply a miracle..."
+        ]
+      ]
+    ],
+    [
+      10,
+      0
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Supercars like the McLaren 600LT are incredibly capable machines when operated by the right driver. That was illustrated most graphically when an unidentified driver in Tacoma, Washington crashed one into a guardrail on eastbound SR 512. Actually, the McLaren submarined, crashing under the actual guardrail, crushing the roof, then the driver took off in such a hurry he left the door open."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [
+            0
+          ],
+          0,
+          "Check out the Motorious Podcast on "
+        ],
+        [
+          0,
+          [
+            1
+          ],
+          1,
+          "YouTube"
+        ],
+        [
+          0,
+          [],
+          0,
+          ", "
+        ],
+        [
+          0,
+          [
+            2
+          ],
+          1,
+          "Spotify"
+        ],
+        [
+          0,
+          [],
+          0,
+          ", "
+        ],
+        [
+          0,
+          [
+            3
+          ],
+          1,
+          "Apple Podcasts"
+        ],
+        [
+          0,
+          [],
+          1,
+          ", and other podcast platforms."
+        ]
+      ]
+    ],
+    [
+      10,
+      1
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "The latest updates on this horrific accident from Washington State Patrol indicates troopers are still looking for the driver in this single vehicle hit and run which happened on the night of June 20. More precisely, the crash happened on the exit ramp for Portland Avenue. There’s no indication how fast the supercar might have been going at the time of the accident."
+        ]
+      ]
+    ],
+    [
+      10,
+      2
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Considering the price of a McLaren 600LT starts at $259,000 these British supercars certainly aren’t cheap. That makes everyone wonder why anyone would just crash and abandon one like this. WSP didn’t indicate the vehicle was stolen, but it also didn’t explicitly state it wasn’t. And since the driver hasn’t been found, there’s no indication of whether or not substance use was involved in the crash."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Like other McLaren Longtail models, the 600LT is really a track car which happens to be street legal. It’s not something an amateur or someone who’s only used to driving a Ford Fusion should just jump into and start pushing hard. Even experienced drivers need to stay on point when behind the wheel, thanks to extensive lightweighting like carbon-fiber body panels combined with the twin-turbo 3.8-liter V8 pumping out 592-horsepower and 457 lb.-ft. of torque, enough to get anyone in trouble in a fraction of a second."
+        ]
+      ]
+    ],
+    [
+      10,
+      3
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Photos via Trooper Robert Reyer on Twiitter"
+        ]
+      ]
+    ]
+  ],
+  "ghostVersion": "4.0"
+}

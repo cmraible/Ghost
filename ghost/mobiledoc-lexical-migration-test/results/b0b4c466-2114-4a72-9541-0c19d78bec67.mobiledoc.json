@@ -1,0 +1,922 @@
+{
+  "version": "0.3.1",
+  "atoms": [],
+  "cards": [
+    [
+      "email",
+      {
+        "html": "<p>Hey {first_name, \"there\"},</p><p>Happy Holidays! Hope you've had a great week. Today's newsletter is my review of the AirPods Max headphones. Are they worth the $550 price tag? Well, you have to read to find out!&nbsp;</p><p>Also, I wanted to take this time to let everyone know about a new app which I'm obsessed with: <a href=\"https://listory.onelink.me/q8of/curators?name=besttechie\">Listory</a>. The company is focusing on helping people discover content from quality creators and I'm all about it. It's kind of funny because this app has a similar approach as I had when I released the Shout app. Anyway, you should definitely check out the app and <a href=\"https://www.listory.com/techieticker\">give me a follow</a>. Oh and if you want to get 3 months of free premium access, <a href=\"https://forms.gle/sFZ9n6cRygmqtErB9\">fill out this form</a>.</p><p>And now onto the review...</p><p>Jeff</p>"
+      }
+    ],
+    [
+      "embed",
+      {
+        "url": "https://youtu.be/X35eZVcI7bI",
+        "html": "<iframe width=\"356\" height=\"200\" src=\"https://www.youtube.com/embed/X35eZVcI7bI?feature=oembed\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+        "type": "video",
+        "metadata": {
+          "title": "AirPods Max Review",
+          "author_name": "Jeff Weisbein",
+          "author_url": "https://www.youtube.com/besttechie",
+          "height": 200,
+          "width": 356,
+          "version": "1.0",
+          "provider_name": "YouTube",
+          "provider_url": "https://www.youtube.com/",
+          "thumbnail_height": 360,
+          "thumbnail_width": 480,
+          "thumbnail_url": "https://i.ytimg.com/vi/X35eZVcI7bI/hqdefault.jpg"
+        }
+      }
+    ],
+    [
+      "embed",
+      {
+        "url": "https://twitter.com/jeffweisbein/status/1339001186951770113?s=21",
+        "html": "<blockquote class=\"twitter-tweet\" data-width=\"550\"><p lang=\"en\" dir=\"ltr\">Initial <a href=\"https://twitter.com/hashtag/AirPodsMax?src=hash&amp;ref_src=twsrc%5Etfw\">#AirPodsMax</a> impressions:<br><br>- The design seems a bit “plainer” than I thought. <br>- These sound really, really good. Excited about Spatial Audio.<br>- Noise canceling is on par with Bose. <br>- Not sure if they’re worth $550 yet. <a href=\"https://t.co/3v8gemDGcO\">pic.twitter.com/3v8gemDGcO</a></p>&mdash; Jeff Weisbein (@jeffweisbein) <a href=\"https://twitter.com/jeffweisbein/status/1339001186951770113?ref_src=twsrc%5Etfw\">December 16, 2020</a></blockquote>\n<script async src=\"https://platform.twitter.com/widgets.js\" charset=\"utf-8\"></script>\n",
+        "type": "rich",
+        "metadata": {
+          "url": "https://twitter.com/jeffweisbein/status/1339001186951770113",
+          "author_name": "Jeff Weisbein",
+          "author_url": "https://twitter.com/jeffweisbein",
+          "width": 550,
+          "height": null,
+          "cache_age": "3153600000",
+          "provider_name": "Twitter",
+          "provider_url": "http://www.twitter.com/",
+          "version": "1.0"
+        }
+      }
+    ],
+    [
+      "image",
+      {
+        "src": "__GHOST_URL__/content/images/2020/12/airpods-max-build-quality.png",
+        "width": 4032,
+        "height": 3024,
+        "caption": "AirPods Max (Space Gray)"
+      }
+    ],
+    [
+      "embed",
+      {
+        "url": "https://twitter.com/jeffweisbein/status/1339762940992516096?s=21",
+        "html": "<blockquote class=\"twitter-tweet\" data-width=\"550\"><p lang=\"en\" dir=\"ltr\">Spatial audio in the <a href=\"https://twitter.com/hashtag/airpodsmax?src=hash&amp;ref_src=twsrc%5Etfw\">#airpodsmax</a> is incredible. Watching Star Wars and I feel the lasers from the blasters whizzing by me.</p>&mdash; Jeff Weisbein (@jeffweisbein) <a href=\"https://twitter.com/jeffweisbein/status/1339762940992516096?ref_src=twsrc%5Etfw\">December 18, 2020</a></blockquote>\n<script async src=\"https://platform.twitter.com/widgets.js\" charset=\"utf-8\"></script>\n",
+        "type": "rich",
+        "metadata": {
+          "url": "https://twitter.com/jeffweisbein/status/1339762940992516096",
+          "author_name": "Jeff Weisbein",
+          "author_url": "https://twitter.com/jeffweisbein",
+          "width": 550,
+          "height": null,
+          "cache_age": "3153600000",
+          "provider_name": "Twitter",
+          "provider_url": "http://www.twitter.com/",
+          "version": "1.0"
+        }
+      }
+    ],
+    [
+      "image",
+      {
+        "src": "__GHOST_URL__/content/images/2020/12/airpods-max-build-design.png",
+        "width": 4032,
+        "height": 3024,
+        "caption": "AirPods Max Custom-Knit Mesh Ear Cups"
+      }
+    ],
+    [
+      "image",
+      {
+        "src": "__GHOST_URL__/content/images/2020/12/airpods-max-headband.png",
+        "width": 4032,
+        "height": 3024,
+        "caption": "AirPods Max Mesh Headband"
+      }
+    ]
+  ],
+  "markups": [
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/airpods-max-drop-tomorrow-heres-what-i-want-to-know/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/how-to-build-ultimate-podcast-studio/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://amzn.to/3avnfhv"
+      ]
+    ],
+    [
+      "em"
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://literallyev.com/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/tag/bowers-wilkins/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/tag/master-dynamic/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/hifiman-ananda-bt-review/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/tag/headphones/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://support.apple.com/en-us/HT211886"
+      ]
+    ],
+    [
+      "strong"
+    ]
+  ],
+  "sections": [
+    [
+      10,
+      0
+    ],
+    [
+      10,
+      1
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Earlier this week the Apple AirPods Max started showing up at people's doorsteps. My house was among one of those doorsteps. On Monday I wrote a post where I outlined some of "
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "the biggest questions"
+        ],
+        [
+          0,
+          [],
+          0,
+          " I had about the AirPods Max headphones. After some extensive testing over the past few days, which included several hours of music listening, watching movies, and a trip to the grocery store, I feel confident enough to start writing this review. "
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "My initial impressions of the AirPods Max, which I shared on Twitter, were as follows:"
+        ]
+      ]
+    ],
+    [
+      10,
+      2
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "How have these impressions held up in further testing? Let's find out. "
+        ]
+      ]
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Sound quality, spatial audio, and active noise canceling"
+        ]
+      ]
+    ],
+    [
+      10,
+      3
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Sound quality"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "How's the audio quality of the AirPods Max? Phenomenal. To put it bluntly. Even without bringing Spatial Audio into the conversation (yet), these bad boys sound so freakin' good. The sound is balanced with very crisp highs, wonderful midrange, and an especially pronounced (but controlled) lower mid-bass and sub-bass. I absolutely love how they sound, everything from the reproduction to the soundstage is stellar – and that's just regular listening! "
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "One thing that's worth noting is that these headphones are definitely optimized for iPhone and iPad. While they still sound incredible on my Mac, I'm not able to take full advantage of all their features such as Spatial Audio. This is slightly annoying, especially since Apple has said it should work – it doesn't, but hopefully, that will change soon with an update to macOS. "
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "The mic in the AirPods Max is also very good. In my usage, people didn't realize I was talking to them through headphones. While it's nowhere near as good as my "
+        ],
+        [
+          0,
+          [
+            1
+          ],
+          1,
+          "Shure SM7B"
+        ],
+        [
+          0,
+          [],
+          0,
+          ", for a mic in a pair headphones it's solid and will get the job done for calls and video conferencing.  "
+        ]
+      ]
+    ],
+    [
+      1,
+      "h3",
+      [
+        [
+          0,
+          [],
+          0,
+          "Spatial audio"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "If you're not familiar with the term spatial audio, that's ok, it's a somewhat new feature that Apple introduced with the AirPods Pro (but the AirPods Max version is even better) as a way of virtualizing surround sound 3D theater audio using headphones, that is processed using either the connected iPhone and iPad. "
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "So how does it sound?"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Amazeballs (yes, that's a technical term). As I tweeted last night while watching Star Wars on Disney+:"
+        ]
+      ]
+    ],
+    [
+      10,
+      4
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "The headphones make audio effects appear to come from all directions around your head and what's even cooler is if you move your head, the sound positioning changes. This feature is possible from using an integrated gyroscope and an accelerometer built into the device and certainly adds to the build costs."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "The dynamic range and the 3D audio effect reproduction of these things are flat out incredible; you will never need to go into a movie theater ever again. "
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Here's the thing though, the content you're watching needs to be able to output the audio in a format that the headphones can handle in order to take advantage of the spatial audio functionality (and remember, it needs to be played on an iPhone or iPad). Any content that has Dolby Atmos will work. I'm still exploring to see if I can find more content that can take advantage of the functionality but so far that's all I've gotten to work. Now many services such as Disney+ offer content with Dolby Atmos sound, including Star Wars and Marvel movies so that's a good place to start. Unfortunately, Apple TV (even the most recent 4K model) isn't powerful enough to offer spatial audio but I'd imagine that future versions will be."
+        ]
+      ]
+    ],
+    [
+      1,
+      "h3",
+      [
+        [
+          0,
+          [],
+          0,
+          "Active noise canceling "
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "In my initial impressions tweet, I noted that the ANC (active noise canceling) was on par with Bose (who is thought to be the industry leader for ANC), well, as it turns out, I was wrong. The ANC in the AirPods Max is better than Bose's – even more impressive than the "
+        ],
+        [
+          0,
+          [
+            2
+          ],
+          1,
+          "Bose 700 headphones"
+        ],
+        [
+          0,
+          [],
+          0,
+          " I recently tried out. "
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Here's some of my real world testing:"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "As with all of my reviews, I wanted to use the headphones as I normally would in every day life, so I took them to the grocery store, where by the way, I was stopped twice to talk about them, the ANC was able to successful cancel out all the noise in the store from the music to carts being wheeled on past me – I heard none of it. But what about the audio transparency feature that lets you hear your surroundings? Is that any good? As it turns out, yes it's very good. I tested it while ordering some munster cheese at the deli counter. With the transparency feature enabled I was able to hear the clerk and interact with them without having to fully remove the headphones. Now, I say fully because there was a time or two where I had to partially move one of the ear cups to ensure I heard what the clerk said to me, but I'm currently attributing that to the fact she was a wearing a mask. "
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Another experience I had with the ANC occurred this morning when I woke up, I put on my AirPods Max, connected them to the TV, and turned on Morning Joe – I was in my own little world when I happened to look down at the floor and noticed one of my kitties (Nala) seemed to be meowing very loudly (she does this when she's about to get a hairball, it's "
+        ],
+        [
+          0,
+          [
+            3
+          ],
+          1,
+          "so"
+        ],
+        [
+          0,
+          [],
+          0,
+          " cute) so I took off my headphones and comforted her. I swear though, I would have missed it if I hadn't caught a glimpse of her. "
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "The ANC has proven super effective for me from a focus standpoint too (I suffer from ADHD and Autism). I've found it allows me to \"lock in\" to my work much more easily. This is something I'll likely talk more about in the future on "
+        ],
+        [
+          0,
+          [
+            4
+          ],
+          1,
+          "literallyev"
+        ],
+        [
+          0,
+          [],
+          0,
+          ". "
+        ]
+      ]
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Build, design, and comfort"
+        ]
+      ]
+    ],
+    [
+      10,
+      5
+    ],
+    [
+      1,
+      "h3",
+      [
+        [
+          0,
+          [],
+          0,
+          "Build"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "If I were to describe, in a word, the build quality of these headphones it would be: impeccable. For all the people out there who are upset or mocking the price point of the AirPods Max – you haven't held these in your hand. They're unlike any other high-end pair of headphones I've held: "
+        ],
+        [
+          0,
+          [
+            5
+          ],
+          1,
+          "Bowers & Wilkins"
+        ],
+        [
+          0,
+          [],
+          0,
+          ", "
+        ],
+        [
+          0,
+          [
+            6
+          ],
+          1,
+          "Master & Dynamic"
+        ],
+        [
+          0,
+          [],
+          0,
+          ", Audeze, etc ain't got nothing on the Apple AirPods Max. Prior to Apple releasing the AirPods Max, those were the companies at the top of my build quality list for headphones. So that says something, at least, it does to me. "
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "While other companies typically use plastic to build a majority of their headphones, Apple decided to use a stainless steel frame that's wrapped in a material I don't believe they've even disclosed, but whatever it is, it feels really nice on your head and in your hands. "
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Unlike every other high-end pair of headphones I've ever owned, Apple decided to be \"courageous\" and not include a headphone jack on the AirPods Max. I have mixed feelings about this move but not for reasons you may think. On one hand, wireless headphones are certainly the future – and we've seen "
+        ],
+        [
+          0,
+          [
+            7
+          ],
+          1,
+          "how good a pair of truly wireless headphones can be"
+        ],
+        [
+          0,
+          [],
+          0,
+          ", but on the other, I really would love to be able to plug these into my mixer and use them while podcasting. So that's a bummer, but not a deal breaker. "
+        ]
+      ]
+    ],
+    [
+      1,
+      "h3",
+      [
+        [
+          0,
+          [],
+          0,
+          "Design"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "One of the things I touched on in my initial impressions tweet was how the AirPods Max design appears \"plainer\" than I originally thought. What's that mean though? I don't know how else to explain it other than, they don't look how I though they would look (in person) based on the photos online. If I had to venture a guess as to why, I'd chalk it up to the lighting Apple used when taking the product shots. "
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "I absolutely love the way the way Apple designed the headphone arms that seamlessly elongate based on the size of your head. No clicks, no locking mechanism, just a really nice ball-joint and telescoping arms system that allows for the perfect fit on your head. Thanks to this and nice sized ear cups, the AirPods Max are able to provide a truly immersive sound experience. "
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "As you may have heard, the AirPods Max don't have any gesture support, instead, Apple opted to include a digital crown on the right ear cup as a way to control volume, tracks, Siri, and to answer calls. I've found this to be a much more precise way of managing those things – I've actually never been a big fan of gestures on headphones, I've always felt they were clunky and not very intuitive. I always feel like I'm asking myself, \"is it up or down swipe to go to the next track?\" This is a much better option and I'm happy to see Apple take their learnings from the Apple Watch and incorporate them here. "
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Meanwhile the mesh headband of the AirPods Max is a welcome addition by me and I'm sure pretty much anyone who doesn't like having headphones mess up their hair. It may seem silly but this has been a really added bonus for me. "
+        ]
+      ]
+    ],
+    [
+      10,
+      6
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Perhaps one of the area's of design that could be easily overlooked is how seamless these headphones transition from device to device. As soon as I place them on my head while I'm seated at my computer I receive a notification asking if I'd like to connect the AirPods Max. I click \"Connect\" and that's it – I'm ready to start listening to music or watching a video with them. If I pick up my iPhone or iPad Pro, the headphones automatically connect to each respective device and I'm ready to listen there. It's literally "
+        ],
+        [
+          0,
+          [
+            3
+          ],
+          1,
+          "magic"
+        ],
+        [
+          0,
+          [],
+          0,
+          ". "
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Another really nifty feature is that if you and someone you're with both have AirPods (Pro or Max) you can share the audio from your iPhone, iPad, or Apple TV and watch / listen together. "
+        ]
+      ]
+    ],
+    [
+      1,
+      "h3",
+      [
+        [
+          0,
+          [],
+          0,
+          "Comfort"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "How about wearability? In my experience thus far, the AirPods Max headphones are comfortable to wear on your head for even extended periods of time. In fact, I've been wearing them for the past hour while typing this review. I'd go as far to say these are the most comfortable headphones I've ever worn – and I've worn a lot of "
+        ],
+        [
+          0,
+          [
+            8
+          ],
+          1,
+          "headphones"
+        ],
+        [
+          0,
+          [],
+          0,
+          ". The ear cups are made with a custom-knit mesh textile that, despite feeling like sandpaper when you touch it with your finger, is actually extraordinarily comfortable when pressed again your ears. As Apple's marketing materials say on their website, it's like wrapping your ears in a pillow – and I'd have to agree.  "
+        ]
+      ]
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "The case and battery life"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Did you know there's no way to [technically] turn off the AirPods Max without putting them in the Smart Case (included with AirPods Max)? I didn't either. But as it turns out, it really doesn't matter. According to "
+        ],
+        [
+          0,
+          [
+            9
+          ],
+          1,
+          "Apple"
+        ],
+        [
+          0,
+          [],
+          0,
+          ":"
+        ]
+      ]
+    ],
+    [
+      1,
+      "blockquote",
+      [
+        [
+          0,
+          [],
+          0,
+          "If you set your AirPods Max down and leave them stationary for 5 minutes, they go into a low power mode to preserve battery charge. After 72 stationary hours out of the Smart Case, your AirPods Max go into a lower power mode that turns off Bluetooth and Find My to preserve battery charge further."
+        ]
+      ]
+    ],
+    [
+      1,
+      "blockquote",
+      [
+        [
+          0,
+          [],
+          0,
+          "If you put your AirPods Max in the Smart Case when you’re not using them, they go into a low power mode immediately to preserve battery charge. After 18 hours in the Smart Case, your AirPods Max go into an ultralow power mode that turns off Bluetooth and Find My and maximizes battery life."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "I'm just going to come out and say since I got the AirPods Max headphones in, I have yet to put them in the Smart Case and I've only had to charge them once, though, after I finish writing this I'm likely going to have to charge them again. This isn't something I would worry too much about, these headphones have insanely good battery life. Apple claims 20 hours and based on my experience thus far I'd have to say that's pretty accurate. What's even better is that 5 minutes of charging will result in 1.5 hours of battery. "
+        ]
+      ]
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Are they worth the price tag?"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "If you're reading this you probably already know the hefty price tag of these babies. Yep, $550. That's a lot of moola to spend on headphones, so are they worth it? I've been mulling this since before I hit the buy button on Apple.com and I've come a conclusion: "
+        ],
+        [
+          0,
+          [
+            10
+          ],
+          1,
+          "YES"
+        ],
+        [
+          0,
+          [],
+          0,
+          "."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "From a strictly sound perspective, these are right up there with the $1,000 HiFiMAN Ananda-BT headphones "
+        ],
+        [
+          0,
+          [
+            7
+          ],
+          1,
+          "I reviewed last year"
+        ],
+        [
+          0,
+          [],
+          0,
+          ", especially when you turn ANC off. But they're also much better looking and smaller. Plus, when you factor in things like ANC (not offered by the HiFiMAN), spatial audio, which will be game changing for years to come, and the overall build quality I think you start to realize and appreciate the cost of these headphones. "
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "That being said, I'd love to see Apple launch a HiFi music service in conjunction with Apple Music so AirPods Max customers can get the most from their headphones and music. For now, I'll stay with Tidal but boy, wouldn't it be great to see Apple get into the HiFi music streaming industry? It would be even better if AirPods Max customer's got a free year... but maybe I'm dreaming. "
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "As always, we'll continually be updating this review with new information."
+        ]
+      ]
+    ]
+  ],
+  "ghostVersion": "3.0"
+}

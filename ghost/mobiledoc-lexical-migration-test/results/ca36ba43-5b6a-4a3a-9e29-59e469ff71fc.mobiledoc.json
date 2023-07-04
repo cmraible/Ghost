@@ -1,0 +1,965 @@
+{
+  "version": "0.3.1",
+  "atoms": [],
+  "cards": [
+    [
+      "email-cta",
+      {
+        "showButton": false,
+        "showDividers": true,
+        "segment": "status:-free",
+        "alignment": "left",
+        "html": "<p>Friends:</p><p>This is Lever Weekly, a supporting subscriber-only feature that reviews our reporting from the past week, plus showcases major must-reads from around the world. If you only read one email from us all week, this one should be it.</p><p><strong>• JOIN US: </strong><a href=\"https://www.callin.com/room/billionaires-are-preparing-for-the-apocalypse-fukeXkSmzl\">Tune in</a> to our weekly Callin show <em>Lever Live</em> on Tuesday 10/11 at 7PM ET, where we will take questions from listeners live on-air on the very real machinations of the ultra-wealthy as they prepare for the apocalypse.</p><p><strong>• SPREAD THE WORD: </strong>Share this article on <u><a href=\"https://twitter.com/intent/tweet?text=LEVER%20WEEKLY%3A%20Infrastructure%20In%20Crisis%20https%3A%2F%2Fwww.levernews.com%2Flever-weekly-infrastructure-in-crisis%2F%3Futm_source%3Dtwitter%26utm_medium%3Dlink%26utm_campaign%3Dtw-prefill\">Twitter</a></u> and <u><a href=\"https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.levernews.com%2Flever-weekly-infrastructure-in-crisis%2F%3Futm_source%3Dfacebook%26utm_medium%3Dlink%26utm_campaign%3Dfb-article&amp;amp;src=sdkpreparse\">Facebook</a>,</u> and forward this email<em> </em>to encourage others <a href=\"https://levernews.com/membership/?utm_source=daily&amp;utm_medium=link&amp;utm_campaign=forward-signup\">to subscribe to <em>The Lever</em></a>.</p><p>Rock The Boat.</p>",
+        "buttonText": "",
+        "buttonUrl": ""
+      }
+    ],
+    [
+      "email-cta",
+      {
+        "showButton": true,
+        "showDividers": true,
+        "segment": "status:free",
+        "alignment": "left",
+        "html": "<p>Friends:</p><p>This is Lever Weekly — a supporting subscriber-only feature that reviews our reporting from the past week, plus showcases major must-reads from around the world. If you only read one email from us all week, this one should be it. See a preview below and <a href=\"https://levernews.com/membership/?utm_source=daily&amp;utm_medium=link&amp;utm_campaign=upgrade\">click here to upgrade</a> for full access.</p><p><strong>• JOIN US: </strong><a href=\"https://www.callin.com/room/billionaires-are-preparing-for-the-apocalypse-fukeXkSmzl\">Tune in</a> to our weekly Callin show <em>Lever Live</em> on Tuesday 10/11 at 7PM ET, where we will take questions from listeners live on-air on the very real machinations of the ultra-wealthy as they prepare for the apocalypse.<br></p><p>Rock The Boat.</p>",
+        "buttonText": "Click Here To Upgrade",
+        "buttonUrl": "https://levernews.com/membership/?utm_source=daily&utm_medium=link&utm_campaign=upgrade"
+      }
+    ],
+    [
+      "paywall",
+      {}
+    ],
+    [
+      "button",
+      {
+        "alignment": "center",
+        "buttonText": "Tip Jar",
+        "buttonUrl": "https://dailyposter.outpost.pub/ghost-integration/60818189ad12f332071054b8/tips"
+      }
+    ],
+    [
+      "callout",
+      {
+        "calloutEmoji": "👉",
+        "calloutText": "<strong>HELP US GROW, FOLLOW US ON SOCIAL MEDIA:</strong><br>• <a href=\"https://www.twitter.com/LeverNews\"><strong>Twitter</strong></a><br>• <a href=\"https://www.facebook.com/TheLeverNews\"><strong>Facebook</strong></a><br>• <a href=\"https://www.instagram.com/LeverNews\"><strong>Instagram</strong></a><br>• <a href=\"https://www.youtube.com/c/LeverNews\"><strong>YouTube</strong></a>",
+        "backgroundColor": "grey"
+      }
+    ],
+    [
+      "email-cta",
+      {
+        "showButton": true,
+        "showDividers": false,
+        "segment": "status:-free",
+        "alignment": "center",
+        "html": "",
+        "buttonText": "Click Here To Comment",
+        "buttonUrl": "__GHOST_URL__/lever-weekly-infrastructure-in-crisis/#comments"
+      }
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "email",
+      {
+        "html": "<p><em><strong>Help us spread the word! </strong>Please forward this email to family and friends.</em></p><p><em><strong>Was this email forwarded to you? </strong><a href=\"https://levernews.com/membership/\">Sign up for free</a> to receive original reporting like this in your inbox every day.</em></p>"
+      }
+    ]
+  ],
+  "markups": [
+    [
+      "em"
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/wall-street-is-behind-jacksons-water-crisis/"
+      ]
+    ],
+    [
+      "strong"
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/in-massachusetts-an-undercover-climate-foe/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/how-the-gop-is-suppressing-citizen-lawmaking/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/meet-the-saudi-lobbyist-targeting-john-fetterman/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/gop-governors-raising-cash-off-migrant-abuse/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/altruistic-celebrity-chef-wants-to-keep-wages-low/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/you-love-to-see-it-bidens-midterm-marijuana-play/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/watch-now-normalized-corruption-on-tape/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/billionaires-are-preparing/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://the.levernews.com/podcasts/#the-audit"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://atmos.earth/mountain-valley-pipeline-protests-manchin/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.theguardian.com/global-development/2022/oct/04/we-are-at-a-crossroads-in-history-africa-can-and-must-be-a-leader-in-clean-energy"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://prismreports.org/2022/10/04/root-cause-climate-change-landback/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.nytimes.com/2022/10/05/health/diabetes-prevention-diet.html?smtyp=cur&smid=tw-nytimes"
+      ]
+    ]
+  ],
+  "sections": [
+    [
+      10,
+      0
+    ],
+    [
+      10,
+      1
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "From Mississippi to Massachusetts, this week "
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "The Lever "
+        ],
+        [
+          0,
+          [],
+          0,
+          "revealed how some of the country’s most basic infrastructure — our water systems and electric grids — are being used by Wall Street and investors as their own personal ATM machines, threatening people’s ability to use their own tap water and build environmentally resilient infrastructure."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "The Lever"
+        ],
+        [
+          0,
+          [],
+          0,
+          " team also revealed how the GOP is keeping citizen initiatives off ballots, crushing popular demand for higher taxes on the wealthy and expanded public health insurance. Also, we uncovered a last-minute dark money campaign with ties to Saudi operatives, revealed how GOP governors are raising money off migrant abuse, and exposed how a “charitable” chef is suppressing worker pay. "
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Read all about it in this week’s "
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "Lever Weekly"
+        ],
+        [
+          0,
+          [],
+          0,
+          ", exclusively for supporting subscribers below."
+        ]
+      ]
+    ],
+    [
+      1,
+      "h3",
+      [
+        [
+          0,
+          [],
+          0,
+          "Stuff The Lever Reported This Week:"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "• "
+        ],
+        [
+          0,
+          [
+            1,
+            2
+          ],
+          2,
+          "Wall Street Is Behind Jackson’s Water Crisis "
+        ],
+        [
+          0,
+          [],
+          0,
+          "— “"
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "The situation underscores how Wall Street works to prevent governments from fixing their public works and contributing to an infrastructure crisis nationwide.”"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "• "
+        ],
+        [
+          0,
+          [
+            3,
+            2
+          ],
+          2,
+          "In Massachusetts, An Undercover Climate Foe"
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          0,
+          " —"
+        ],
+        [
+          0,
+          [
+            2
+          ],
+          1,
+          " "
+        ],
+        [
+          0,
+          [],
+          1,
+          "“Utility companies in the liberal stronghold are using regulated monopoly profits to shape and derail environmental efforts.”"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "• "
+        ],
+        [
+          0,
+          [
+            4,
+            2
+          ],
+          2,
+          "How The GOP Is Suppressing Citizen Lawmaking"
+        ],
+        [
+          0,
+          [],
+          0,
+          " — "
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "“‘Citizen-led ballot initiatives have ushered progressive policies into red states — but now such efforts are under attack.”"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "• "
+        ],
+        [
+          0,
+          [
+            5,
+            2
+          ],
+          2,
+          "Meet The Saudi Lobbyist Targeting John Fetterman"
+        ],
+        [
+          0,
+          [],
+          0,
+          " — "
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "“A dark-money-funded super PAC helmed by a registered lobbyist for Saudi Arabia’s dictatorship is airing attack ads targeting Pennsylvania Democratic Senate candidate John Fetterman in the closing stretch of the election.”"
+        ]
+      ]
+    ],
+    [
+      10,
+      2
+    ],
+    [
+      10,
+      3
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "• "
+        ],
+        [
+          0,
+          [
+            6,
+            2
+          ],
+          2,
+          "GOP Governors Raising Cash Off Migrant Abuse"
+        ],
+        [
+          0,
+          [],
+          0,
+          " — “"
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "The Republican Party’s main group working to elect governors is running new Facebook ads asking ‘where should GOP governors send Biden’s buses of illegal immigrants?"
+        ],
+        [
+          0,
+          [],
+          0,
+          "’”"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "• "
+        ],
+        [
+          0,
+          [
+            7,
+            2
+          ],
+          2,
+          "Altruistic Celebrity Chef Wants To Keep Wages Low"
+        ],
+        [
+          0,
+          [
+            2
+          ],
+          1,
+          " "
+        ],
+        [
+          0,
+          [],
+          0,
+          "— "
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "“José Andrés has spent years crafting his public image as a charitable restaurateur, while quietly opposing efforts to raise worker pay.”"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "• "
+        ],
+        [
+          0,
+          [
+            8,
+            2
+          ],
+          2,
+          "YOU LOVE TO SEE IT: Biden’s Midterm Marijuana Play"
+        ],
+        [
+          0,
+          [
+            2
+          ],
+          1,
+          " "
+        ],
+        [
+          0,
+          [],
+          0,
+          "—"
+        ],
+        [
+          0,
+          [
+            2
+          ],
+          1,
+          " "
+        ],
+        [
+          0,
+          [],
+          0,
+          "“"
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "Shifting his position after years of shaping mass incarceration policy in the ’80s and ’90s, Biden is now saying, ‘Sending people to jail for possessing marijuana has upended too many lives — for conduct that is legal in many states."
+        ],
+        [
+          0,
+          [],
+          0,
+          "’”"
+        ]
+      ]
+    ],
+    [
+      1,
+      "h3",
+      [
+        [
+          0,
+          [],
+          0,
+          "Stuff To Watch & Listen To:"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "•"
+        ],
+        [
+          0,
+          [
+            2
+          ],
+          1,
+          " "
+        ],
+        [
+          0,
+          [
+            9,
+            2
+          ],
+          2,
+          "WATCH NOW: Normalized Corruption On Tape"
+        ],
+        [
+          0,
+          [
+            2
+          ],
+          1,
+          " "
+        ],
+        [
+          0,
+          [],
+          0,
+          "— "
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "Our new video showcases what wealthy lawmakers really think about revolving-door corruption."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "• "
+        ],
+        [
+          0,
+          [
+            10,
+            2
+          ],
+          2,
+          "LEVER TIME: Billionaires Are Preparing For The Apocalypse"
+        ],
+        [
+          0,
+          [
+            2
+          ],
+          1,
+          " "
+        ],
+        [
+          0,
+          [],
+          0,
+          "— "
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "David gets schooled by the hosts of "
+        ],
+        [
+          0,
+          [],
+          0,
+          "The Lever"
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "’s new podcast, "
+        ],
+        [
+          0,
+          [],
+          0,
+          "The Audit"
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "; and discusses the end times with media theorist Douglas Rushkoff."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "• "
+        ],
+        [
+          0,
+          [
+            11,
+            2
+          ],
+          2,
+          "The Audit"
+        ],
+        [
+          0,
+          [
+            2
+          ],
+          1,
+          " "
+        ],
+        [
+          0,
+          [],
+          0,
+          "— The Lever’s "
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "new podcast breaks"
+        ],
+        [
+          0,
+          [],
+          0,
+          " "
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "down a variety of online classes, docuseries, and other media products created by noxious political figures."
+        ]
+      ]
+    ],
+    [
+      10,
+      4
+    ],
+    [
+      1,
+      "h3",
+      [
+        [
+          0,
+          [],
+          0,
+          "Stuff We’re Reading:"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "• "
+        ],
+        [
+          0,
+          [
+            12,
+            2
+          ],
+          2,
+          "How Youth Are Stepping Up Against The Mountain Valley Pipeline"
+        ],
+        [
+          0,
+          [],
+          0,
+          " (Atmos) — “"
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "Youth are stepping up to stop the contentious Mountain Valley Pipeline. The Frontline celebrates the young people working to defend their futures."
+        ],
+        [
+          0,
+          [],
+          0,
+          "”"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "• "
+        ],
+        [
+          0,
+          [
+            13,
+            2
+          ],
+          2,
+          "We Are At A Crossroads In History: Africa Can And Must Be A Leader In Clean Energy"
+        ],
+        [
+          0,
+          [
+            2
+          ],
+          1,
+          " "
+        ],
+        [
+          0,
+          [],
+          0,
+          "(The Guardian) — “"
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "Kenya is home to the world’s largest windfarm and our electricity supply is already 92% renewable, with 74% of our overall energy use powered by clean energy. I am reaffirming our commitment to move this to 100% clean energy by 2030.”"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "• "
+        ],
+        [
+          0,
+          [
+            14,
+            2
+          ],
+          1,
+          "How To Address The Root Cause Of Climate Change? With LANDBACK"
+        ],
+        [
+          0,
+          [],
+          1,
+          " "
+        ],
+        [
+          0,
+          [],
+          0,
+          "(Prism) —"
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          " “[Landback is] a blueprint of how to tackle the ecological disruption caused by the exploitative practices at the heart of capitalism and white settler colonialism that have led to drought, wildfire, flooding, and species extinction.”"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "• "
+        ],
+        [
+          0,
+          [
+            15,
+            2
+          ],
+          2,
+          "Medical Care Alone Won’t Halt the Spread of Diabetes, Scientists Say"
+        ],
+        [
+          0,
+          [
+            2
+          ],
+          1,
+          " "
+        ],
+        [
+          0,
+          [],
+          0,
+          "(New York Times) —"
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          " “Now experts are calling for walkable communities, improved housing, and access to health care and better food, particularly in minority communities.”"
+        ]
+      ]
+    ],
+    [
+      10,
+      5
+    ],
+    [
+      10,
+      6
+    ],
+    [
+      10,
+      7
+    ]
+  ],
+  "ghostVersion": "4.0"
+}

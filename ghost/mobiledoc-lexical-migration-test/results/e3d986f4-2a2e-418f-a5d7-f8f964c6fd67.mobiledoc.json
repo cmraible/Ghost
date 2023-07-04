@@ -1,0 +1,456 @@
+{
+  "version": "0.3.1",
+  "atoms": [
+    [
+      "soft-return",
+      "",
+      {}
+    ],
+    [
+      "soft-return",
+      "",
+      {}
+    ]
+  ],
+  "cards": [
+    [
+      "hr",
+      {}
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "html",
+      {
+        "html": "<table id=\"production-numbers-table\">\n<tbody>\n\t<tr>\n\t\t<td>trim</td>\n\t\t<td>production number</td>\n\t</tr>\n\t\t<td><b>Total Production</b></td>\n\t\t<td><b>total number</b></td>\n\t</tr>\n</tbody>\n</table>"
+      }
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "html",
+      {
+        "html": "<table id=\"performance-specs-table\">\n<tbody>\n\t<tr>\n\t\t<th><b>Engine</b></th>\n\t\t<th><b>Size</b></td>\n\t\t<th><b>Carb.</b></td>\n\t\t<th><b>HP</b></td>\n\t\t<th><b>Torque</b></td>\n\t\t<th><b>0 to 60</b></td>\n\t\t<th><b>Quarter mile</b></td>\n\t</tr>\n\t<tr>\n\t\t<td>L22 I-6</td>\n\t\t<td>250ci</td>\n\t\t<td>1x1bbl</td>\n\t\t<td>110</td>\n\t\t<td>185 lb-ft</td>\n\t\t<td>-</td>\n\t\t<td>-</td>\n\t</tr>\n</tbody>\n</table>"
+      }
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "html",
+      {
+        "html": "<h4 id='colors-sub-heading'>Exterior</h4>\n<div class=\"colors-row\">\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #666a6b\"></div>\n        <div class=\"color-name\">Silver</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #788994\"></div>\n        <div class=\"color-name\">Light Blue</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #53667b\"></div>\n        <div class=\"color-name\">Light Blue</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #0d1020\"></div>\n        <div class=\"color-name\">Dark Blue</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #141513\"></div>\n        <div class=\"color-name\">Dark Green</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #43616d\"></div>\n        <div class=\"color-name\">Light Turquoise</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #16222b\"></div>\n        <div class=\"color-name\">Dark Turquoise</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #631b15\"></div>\n        <div class=\"color-name\">Turbine Bronze</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #5e0e0d\"></div>\n        <div class=\"color-name\">Bright Red</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #4b1718\"></div>\n        <div class=\"color-name\">Dark Red</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #f6e37a\"></div>\n        <div class=\"color-name\">Yellow</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #cfbe7c\"></div>\n        <div class=\"color-name\">Soft Yellow</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #cfc9ab\"></div>\n        <div class=\"color-name\">White</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #b3a181\"></div>\n        <div class=\"color-name\">Beige</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #785538\"></div>\n        <div class=\"color-name\">Bronze</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #785538\"></div>\n        <div class=\"color-name\">Bronze</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #5d5130\"></div>\n        <div class=\"color-name\">Citron Gold</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #2b2728\"></div>\n        <div class=\"color-name\">Charcoal</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #715e65\"></div>\n        <div class=\"color-name\">Light Mauve</div>\n    </div> \n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #000000\"></div>\n        <div class=\"color-name\">Black</div>\n    </div>\n</div>\n\n<h4 id='colors-sub-heading'>Interior</h4>\n<div class=\"colors-row\">\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #d6d9ca\"></div>\n        <div class=\"color-name\">White</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #8c7967\"></div>\n        <div class=\"color-name\">Saddle Bronze</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #4c3d2f\"></div>\n        <div class=\"color-name\">Dark Saddle Tan</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #918f7f\"></div>\n        <div class=\"color-name\">Citron Gold</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #6e9ead\"></div>\n        <div class=\"color-name\">Pale Turquoise</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #1d4e5d\"></div>\n        <div class=\"color-name\">Medium Turquoise</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #092f40\"></div>\n        <div class=\"color-name\">Deep Turquoise</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #7695ae\"></div>\n        <div class=\"color-name\">Pale Blue</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #000017\"></div>\n        <div class=\"color-name\">Dark Blue</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #610000\"></div>\n        <div class=\"color-name\">Red</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #570000\"></div>\n        <div class=\"color-name\">Medium Red</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #520813\"></div>\n        <div class=\"color-name\">Dark Red</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #000000\"></div>\n        <div class=\"color-name\">Black</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #334131\"></div>\n        <div class=\"color-name\">Dark Citron Gold</div>\n    </div>\n</div>\n"
+      }
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "gallery",
+      {
+        "images": [
+          {
+            "fileName": "2959_1966_Plymouth_Fury-21-22_low_res.jpg",
+            "row": 0,
+            "width": 790,
+            "height": 395,
+            "src": "__GHOST_URL__/content/images/2020/09/2959_1966_Plymouth_Fury-21-22_low_res.jpg"
+          },
+          {
+            "fileName": "2960_1966_Plymouth_Brochure-04_low_res.jpg",
+            "row": 0,
+            "width": 456,
+            "height": 590,
+            "src": "__GHOST_URL__/content/images/2020/09/2960_1966_Plymouth_Brochure-04_low_res.jpg"
+          },
+          {
+            "fileName": "2961_1966_Plymouth_Brochure-03_low_res.jpg",
+            "row": 0,
+            "width": 456,
+            "height": 590,
+            "src": "__GHOST_URL__/content/images/2020/09/2961_1966_Plymouth_Brochure-03_low_res.jpg"
+          },
+          {
+            "fileName": "2962_1966_Plymouth_Brochure-02_low_res.jpg",
+            "row": 1,
+            "width": 456,
+            "height": 590,
+            "src": "__GHOST_URL__/content/images/2020/09/2962_1966_Plymouth_Brochure-02_low_res.jpg"
+          },
+          {
+            "fileName": "2963_1966_Plymouth_Brochure-01_low_res.jpg",
+            "row": 1,
+            "width": 456,
+            "height": 590,
+            "src": "__GHOST_URL__/content/images/2020/09/2963_1966_Plymouth_Brochure-01_low_res.jpg"
+          }
+        ],
+        "caption": "1966 Plymouth Fury OEM Brochures"
+      }
+    ],
+    [
+      "hr",
+      {}
+    ]
+  ],
+  "markups": [
+    [
+      "strong"
+    ],
+    [
+      "em"
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/tag/research/"
+      ]
+    ]
+  ],
+  "sections": [
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Overview"
+        ]
+      ]
+    ],
+    [
+      10,
+      0
+    ],
+    [
+      1,
+      "h3",
+      [
+        [
+          0,
+          [],
+          0,
+          "Encouraged by the 1965 Fury's success, Plymouth lightly restyled the 1966 Fury models. They sported a new grille insert, different side trim, redesigned wheel covers, altered taillights, and a new deck lid and rear beauty panels that mimicked the divided front-end design."
+        ]
+      ]
+    ],
+    [
+      10,
+      1
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Encouraged by the 1965 Fury's success, Plymouth lightly restyled the 1966 Fury models. They sported a new grille insert, different side trim, redesigned wheel covers, altered taillights, and a new deck lid and rear beauty panels that mimicked the divided front-end design. The Sport Fury received fender-top turn signal indicators, and all Furys were available in new colors."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "The other news for 1966 was the addition of a new top-line model, the VIP. This \"Very Important Plymouth\" was part of a fleet of cars that had suddenly emerged from Detroit. Ford started it all with the 1965 LTD, and Chevrolet followed up with the Caprice package. They met with surprising success, and Plymouth noticed that. Since it had marketed \"elegance on a budget\" via its earlier top-line Furys, it seemed entirely appropriate that Plymouth should also offer a niche model with carefully nurtured snob appeal."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Also new for '66 was an optional telescoping tilt steering-wheel, thin shell bucket seats, and four-passenger seat belts with optional front shoulder belts. In another safety inspired move, the previous years' door handles were replaced by handles mounted at the front edge of the armrests where they looked like the seatbelt latches. This feature, which would remain on Chrysler cars for years to come, reduced the chance of a door accidentally opening if the handle was caught on clothing or used as a hand grip."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "The biggest under the hood news was the introduction of a 440 ci engine with 10:1 compression, dual exhaust and a single four barrel carburetor featuring a dual snorkel air cleaner to put out 365 horsepower."
+        ]
+      ]
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Production Numbers"
+        ]
+      ]
+    ],
+    [
+      10,
+      2
+    ],
+    [
+      10,
+      3
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Performance Specs"
+        ]
+      ]
+    ],
+    [
+      10,
+      4
+    ],
+    [
+      10,
+      5
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Transmission"
+        ]
+      ]
+    ],
+    [
+      10,
+      6
+    ],
+    [
+      3,
+      "ul",
+      [
+        [
+          [
+            0,
+            [
+              0,
+              0
+            ],
+            2,
+            "3-Speed Manual"
+          ]
+        ],
+        [
+          [
+            0,
+            [
+              0,
+              0
+            ],
+            2,
+            "HD 3-Speed Manual"
+          ]
+        ],
+        [
+          [
+            0,
+            [
+              0,
+              0
+            ],
+            2,
+            "4-Speed Manual"
+          ]
+        ],
+        [
+          [
+            0,
+            [
+              0,
+              0
+            ],
+            2,
+            "TorqueFlite Automatic"
+          ]
+        ]
+      ]
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Paint & Colors"
+        ]
+      ]
+    ],
+    [
+      10,
+      7
+    ],
+    [
+      10,
+      8
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "OEM Brochures"
+        ]
+      ]
+    ],
+    [
+      10,
+      9
+    ],
+    [
+      10,
+      10
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "About the Knowledge Base"
+        ]
+      ]
+    ],
+    [
+      10,
+      11
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "The Motorious Knowledge Base provides a comprehensive vehicle overview for the 1966 Plymouth Fury"
+        ],
+        [
+          0,
+          [
+            1,
+            1
+          ],
+          2,
+          " "
+        ],
+        [
+          0,
+          [],
+          0,
+          "including production numbers, performance specs, factory colors, and OEM brochures. Check out additional model years or related content linked to this article or view other Makes and Models in our "
+        ],
+        [
+          0,
+          [
+            2
+          ],
+          1,
+          "Research"
+        ],
+        [
+          0,
+          [],
+          0,
+          " center."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "If you have any interesting facts about the 1966 Plymouth Fury"
+        ],
+        [
+          0,
+          [
+            1,
+            1
+          ],
+          2,
+          " "
+        ],
+        [
+          0,
+          [],
+          0,
+          "to add, want to tell us how we did covering the Fury, or want to tell us about yours, please leave a comment below."
+        ],
+        [
+          1,
+          [],
+          0,
+          0
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          1,
+          [],
+          0,
+          1
+        ]
+      ]
+    ]
+  ],
+  "ghostVersion": "3.0"
+}

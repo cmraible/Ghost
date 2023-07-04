@@ -1,0 +1,428 @@
+{
+  "version": "0.3.1",
+  "atoms": [],
+  "cards": [
+    [
+      "hr",
+      {}
+    ],
+    [
+      "image",
+      {
+        "src": "__GHOST_URL__/content/images/2020/07/1971_Cadillac_Coupe_De_VilleGM.jpg",
+        "width": 1170,
+        "height": 597,
+        "caption": "1971 Cadillac DeVille (GM Heritage Center)"
+      }
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "html",
+      {
+        "html": "<table id=\"production-numbers-table\">\n<tbody>\n\t<tr>\n\t\t<td>Coupe DeVille</td>\n\t\t<td>66,081</td>\n\t</tr>\n    \t<tr>\n\t\t<td>4-DR Hardtop</td>\n\t\t<td>69,345</td>\n\t</tr>\n\t\t<td><b>Total Production</b></td>\n\t\t<td><b>135,426</b></td>\n\t</tr>\n</tbody>\n</table>"
+      }
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "html",
+      {
+        "html": "<table id=\"performance-specs-table\">\n<tbody>\n\t<tr>\n\t\t<th><b>Engine</b></th>\n\t\t<th><b>Size</b></td>\n\t\t<th><b>Carb.</b></td>\n\t\t<th><b>HP</b></td>\n\t\t<th><b>Torque</b></td>\n\t\t<th><b>0 to 60</b></td>\n\t\t<th><b>Quarter mile</b></td>\n\t</tr>\n\t<tr>\n\t\t<td>OHV V8</td>\n\t\t<td>472ci</td>\n\t\t<td>1x4bbl</td>\n\t\t<td>375</td>\n\t\t<td>525 lb-ft</td>\n\t\t<td>10 sec</td>\n\t\t<td>17.4 sec</td>\n\t</tr>\n</tbody>\n</table>"
+      }
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "html",
+      {
+        "html": "<h4 id='colors-sub-heading'>Exterior</h4>\n<div class=\"colors-row\">\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #000000\"></div>\n        <div class=\"color-name\">Sable Black</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #ece4d3\"></div>\n        <div class=\"color-name\">Cotillion White</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #8d989f\"></div>\n        <div class=\"color-name\">Grenoble Silver</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #4a6482\"></div>\n        <div class=\"color-name\">Zodiac Blue</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #213041\"></div>\n        <div class=\"color-name\">Brittany Blue</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #80826a\"></div>\n        <div class=\"color-name\">Cypress Green</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #383e34\"></div>\n        <div class=\"color-name\">Sylvan Green</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #dacb90\"></div>\n        <div class=\"color-name\">Casablanca Yellow</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #9e8756\"></div>\n        <div class=\"color-name\">Duchess Gold</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #b8997c\"></div>\n        <div class=\"color-name\">Desert Beige</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #524438\"></div>\n        <div class=\"color-name\">Clove</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #6c2e32\"></div>\n        <div class=\"color-name\">Cambridge Red</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #43262d\"></div>\n        <div class=\"color-name\">Empire Maroon Firemist</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #6688a4\"></div>\n        <div class=\"color-name\">Bavarian Blue Firemist</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #a1a4a2\"></div>\n        <div class=\"color-name\">Pewter Firemist</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #816f4c\"></div>\n        <div class=\"color-name\">Chalice Gold Firemist</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #a1724f\"></div>\n        <div class=\"color-name\">Almond Firemist</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #6a6f43\"></div>\n        <div class=\"color-name\">Sausalito Green Firemist</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #7d5a5f\"></div>\n        <div class=\"color-name\">Primrose Firemist</div>\n    </div>\n</div>\n\n<h4 id='colors-sub-heading'>Interior</h4>\n<div class=\"colors-row\">\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #000000\"></div>\n        <div class=\"color-name\">Black</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #4e7082\"></div>\n        <div class=\"color-name\">Medium Blue</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #f5ebd5\"></div>\n        <div class=\"color-name\">White</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #9b8550\"></div>\n        <div class=\"color-name\">Medium Beige</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #212c3e\"></div>\n        <div class=\"color-name\">Dark Blue</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #524438\"></div>\n        <div class=\"color-name\">Antique Dark Saddle</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #b8997c\"></div>\n        <div class=\"color-name\">Antique Light Sandalwood</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #a1a4a2\"></div>\n        <div class=\"color-name\">Antique Medium Pewter</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #43262d\"></div>\n        <div class=\"color-name\">Dark Carmine</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #383e34\"></div>\n        <div class=\"color-name\">Dark Jade</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #4a6482\"></div>\n        <div class=\"color-name\">Medium Aqua</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #7d5a5f\"></div>\n        <div class=\"color-name\">Medium Heather</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #826d4e\"></div>\n        <div class=\"color-name\">Medium Maize</div>\n    </div>\n</div>\n"
+      }
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "gallery",
+      {
+        "images": [
+          {
+            "fileName": "2379_12_low_res.jpg",
+            "row": 0,
+            "width": 790,
+            "height": 471,
+            "src": "__GHOST_URL__/content/images/2020/07/2379_12_low_res.jpg"
+          },
+          {
+            "fileName": "2380_13_low_res.jpg",
+            "row": 0,
+            "width": 790,
+            "height": 960,
+            "src": "__GHOST_URL__/content/images/2020/07/2380_13_low_res.jpg"
+          },
+          {
+            "fileName": "2381_14_low_res.jpg",
+            "row": 0,
+            "width": 790,
+            "height": 954,
+            "src": "__GHOST_URL__/content/images/2020/07/2381_14_low_res.jpg"
+          },
+          {
+            "fileName": "2382_17_low_res.jpg",
+            "row": 1,
+            "width": 790,
+            "height": 951,
+            "src": "__GHOST_URL__/content/images/2020/07/2382_17_low_res.jpg"
+          },
+          {
+            "fileName": "2383_18_low_res.jpg",
+            "row": 1,
+            "width": 790,
+            "height": 954,
+            "src": "__GHOST_URL__/content/images/2020/07/2383_18_low_res.jpg"
+          },
+          {
+            "fileName": "2384_19_low_res.jpg",
+            "row": 1,
+            "width": 790,
+            "height": 967,
+            "src": "__GHOST_URL__/content/images/2020/07/2384_19_low_res.jpg"
+          },
+          {
+            "fileName": "2377_1_low_res.jpg",
+            "row": 2,
+            "width": 790,
+            "height": 953,
+            "src": "__GHOST_URL__/content/images/2020/07/2377_1_low_res.jpg"
+          },
+          {
+            "fileName": "2378_11_low_res.jpg",
+            "row": 2,
+            "width": 790,
+            "height": 478,
+            "src": "__GHOST_URL__/content/images/2020/07/2378_11_low_res.jpg"
+          }
+        ],
+        "caption": "1971 Cadillac DeVille OEM Brochures"
+      }
+    ],
+    [
+      "hr",
+      {}
+    ]
+  ],
+  "markups": [
+    [
+      "strong"
+    ],
+    [
+      "em"
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/tag/research/"
+      ]
+    ]
+  ],
+  "sections": [
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Overview"
+        ]
+      ]
+    ],
+    [
+      10,
+      0
+    ],
+    [
+      1,
+      "h3",
+      [
+        [
+          0,
+          [],
+          0,
+          "The 1971 DeVille was redesigned and set a record for interior width that would not be matched by any car until the full-size GM rear-wheel-drive models of the early to mid-90s."
+        ]
+      ]
+    ],
+    [
+      10,
+      1
+    ],
+    [
+      10,
+      2
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "The 1971 DeVille was redesigned and set a record for interior width that would not be matched by any car until the full-size GM rear-wheel-drive models of the early to mid-90s. Pairs of individually housed square headlamps were separated by a V-shaped grille with an eggcrate insert. A long, wide hood with full-length windsplints ran all the way to the windshield hiding its wipers. A horizontal beltline molding ran from behind the wheel almost to the rear stopping where an elliptical bulge in the body came to a point and where thin rectangular side markers were placed above and below the chrome strip. The rear wheels were again housed partially by fender skirts."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "DeVilles were set apart by thin bright metal rocker panel steps and its signature script on the front fenders."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "The engine and output remained the same as the previous years."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Only two body styles remained in the series, the 4-Door Hardtop Sedan and the Coupe."
+        ]
+      ]
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Production Numbers"
+        ]
+      ]
+    ],
+    [
+      10,
+      3
+    ],
+    [
+      10,
+      4
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Performance Specs"
+        ]
+      ]
+    ],
+    [
+      10,
+      5
+    ],
+    [
+      10,
+      6
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Transmission"
+        ]
+      ]
+    ],
+    [
+      10,
+      7
+    ],
+    [
+      3,
+      "ul",
+      [
+        [
+          [
+            0,
+            [
+              0,
+              0
+            ],
+            2,
+            "Turbo Hydra-Matic Auto"
+          ]
+        ]
+      ]
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Paint & Colors"
+        ]
+      ]
+    ],
+    [
+      10,
+      8
+    ],
+    [
+      10,
+      9
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "OEM Brochures"
+        ]
+      ]
+    ],
+    [
+      10,
+      10
+    ],
+    [
+      10,
+      11
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "About the Knowledge Base"
+        ]
+      ]
+    ],
+    [
+      10,
+      12
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "The Motorious Knowledge Base provides a comprehensive vehicle overview for the 1971 Cadillac DeVille"
+        ],
+        [
+          0,
+          [
+            1,
+            1
+          ],
+          2,
+          " "
+        ],
+        [
+          0,
+          [],
+          0,
+          "including production numbers, performance specs, factory colors, and OEM brochures. Check out additional model years or related content linked to this article or view other Makes and Models in our "
+        ],
+        [
+          0,
+          [
+            2
+          ],
+          1,
+          "Research"
+        ],
+        [
+          0,
+          [],
+          0,
+          " center."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "If you have any interesting facts about the 1971 Cadillac DeVille"
+        ],
+        [
+          0,
+          [
+            1,
+            1
+          ],
+          2,
+          " "
+        ],
+        [
+          0,
+          [],
+          0,
+          "to add, want to tell us how we did covering the DeVille, or want to tell us about yours, please leave a comment below."
+        ]
+      ]
+    ]
+  ],
+  "ghostVersion": "3.0"
+}

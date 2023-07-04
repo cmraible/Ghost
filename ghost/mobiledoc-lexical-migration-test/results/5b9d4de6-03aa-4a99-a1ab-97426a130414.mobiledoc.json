@@ -1,0 +1,1331 @@
+{
+  "version": "0.3.1",
+  "atoms": [],
+  "cards": [
+    [
+      "email-cta",
+      {
+        "showButton": true,
+        "showDividers": false,
+        "segment": "status:-free",
+        "alignment": "center",
+        "html": "<p><em><strong>ANNOUNCING OUR NEW PODCAST: On June 1, The Lever will launch its flagship podcast, </strong></em><strong>Lever Time</strong><em><strong>, hosted by David Sirota. </strong></em><a href=\"__GHOST_URL__/introducing-our-new-podcast-lever-time/\"><em><strong>Click here</strong></em></a><em><strong> for more information on subscribing and </strong></em><strong>Lever Time Premium</strong><em><strong>, an exclusive podcast feed for supporting subscribers.</strong></em></p>",
+        "buttonText": "Click Here To Comment",
+        "buttonUrl": "__GHOST_URL__/the-florida-gop-is-protecting-nursing-home-neglect/#comment?utm_source=paid-newsletters&utm_medium=link&utm_campaign=comment"
+      }
+    ],
+    [
+      "email-cta",
+      {
+        "showButton": true,
+        "showDividers": false,
+        "segment": "status:free",
+        "alignment": "center",
+        "html": "<p><em><strong>ANNOUNCING OUR NEW PODCAST: On June 1, The Lever will launch its flagship podcast, </strong></em><strong>Lever Time</strong><em><strong>, hosted by David Sirota. </strong></em><a href=\"__GHOST_URL__/introducing-our-new-podcast-lever-time/\"><em><strong>Click here</strong></em></a><em><strong> for more information on subscribing and </strong></em><strong>Lever Time Premium</strong><em><strong>, an exclusive podcast feed for supporting subscribers.</strong></em></p>",
+        "buttonText": "Upgrade",
+        "buttonUrl": "https://levernews.com/membership/?utm_source=daily&utm_medium=link&utm_campaign=upgrade"
+      }
+    ],
+    [
+      "email",
+      {
+        "html": "<p><em><strong><a href=\"https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.levernews.com%2Fthe-florida-gop-is-protecting-nursing-home-neglect%2F&amp;amp;src=sdkpreparse\">Click to share on Facebook</a></strong></em></p>"
+      }
+    ],
+    [
+      "embed",
+      {
+        "url": "https://twitter.com/FHCA/status/1496983673718992899",
+        "html": "<blockquote class=\"twitter-tweet\"><p lang=\"en\" dir=\"ltr\">Thank you <a href=\"https://twitter.com/GovRonDeSantis?ref_src=twsrc%5Etfw\">@GovRonDeSantis</a> for signing COVID-19 liability protections into law. We appreciate you &amp; the <a href=\"https://twitter.com/FLLegislature?ref_src=twsrc%5Etfw\">@FLLegislature</a> for continued support of our caregivers. These protections ensure our LTC centers have the resources needed to provide high-quality care during difficult times.</p>&mdash; FHCA (@FHCA) <a href=\"https://twitter.com/FHCA/status/1496983673718992899?ref_src=twsrc%5Etfw\">February 24, 2022</a></blockquote>\n<script async src=\"https://platform.twitter.com/widgets.js\" charset=\"utf-8\"></script>\n",
+        "type": "twitter",
+        "metadata": {
+          "url": "https://twitter.com/FHCA/status/1496983673718992899",
+          "author_name": "FHCA",
+          "author_url": "https://twitter.com/FHCA",
+          "width": 550,
+          "height": null,
+          "cache_age": "3153600000",
+          "provider_name": "Twitter",
+          "provider_url": "http://www.twitter.com/",
+          "version": "1.0",
+          "tweet_data": {
+            "conversation_id": "1496983673718992899",
+            "possibly_sensitive": false,
+            "entities": {
+              "mentions": [
+                {
+                  "start": 10,
+                  "end": 25,
+                  "username": "GovRonDeSantis",
+                  "id": "1058807868"
+                },
+                {
+                  "start": 107,
+                  "end": 121,
+                  "username": "FLLegislature",
+                  "id": "29257057"
+                }
+              ]
+            },
+            "lang": "en",
+            "reply_settings": "everyone",
+            "created_at": "2022-02-24T23:01:35.000Z",
+            "public_metrics": {
+              "retweet_count": 2,
+              "reply_count": 0,
+              "like_count": 10,
+              "quote_count": 0
+            },
+            "text": "Thank you @GovRonDeSantis for signing COVID-19 liability protections into law. We appreciate you &amp; the @FLLegislature for continued support of our caregivers. These protections ensure our LTC centers have the resources needed to provide high-quality care during difficult times.",
+            "source": "Twitter Web App",
+            "id": "1496983673718992899",
+            "context_annotations": [
+              {
+                "domain": {
+                  "id": "65",
+                  "name": "Interests and Hobbies Vertical",
+                  "description": "Top level interests and hobbies groupings, like Food or Travel"
+                },
+                "entity": {
+                  "id": "864925500627484672",
+                  "name": "Family and life stages",
+                  "description": "Family and Life Stages"
+                }
+              },
+              {
+                "domain": {
+                  "id": "66",
+                  "name": "Interests and Hobbies Category",
+                  "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+                },
+                "entity": {
+                  "id": "1092545020932976640",
+                  "name": "Caregiving",
+                  "description": "Caregiving"
+                }
+              },
+              {
+                "domain": {
+                  "id": "123",
+                  "name": "Ongoing News Story",
+                  "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                  "id": "1220701888179359745",
+                  "name": "COVID-19"
+                }
+              }
+            ],
+            "author_id": "23378533",
+            "includes": {
+              "users": [
+                {
+                  "created_at": "2009-03-09T00:42:39.000Z",
+                  "profile_image_url": "https://pbs.twimg.com/profile_images/90977750/fhcalogo_notext_edited-1_normal.png",
+                  "name": "FHCA",
+                  "id": "23378533",
+                  "description": "Follow updates, news and events on long term care from Florida Health Care Association, the state's first and largest advocate for long term care providers",
+                  "public_metrics": {
+                    "followers_count": 4815,
+                    "following_count": 2666,
+                    "tweet_count": 4771,
+                    "listed_count": 103
+                  },
+                  "url": "http://t.co/A5wDNX4emW",
+                  "location": "ÜT: 30.443401,-84.288522",
+                  "protected": false,
+                  "username": "FHCA",
+                  "verified": false,
+                  "entities": {
+                    "url": {
+                      "urls": [
+                        {
+                          "start": 0,
+                          "end": 22,
+                          "url": "http://t.co/A5wDNX4emW",
+                          "expanded_url": "http://www.fhca.org",
+                          "display_url": "fhca.org"
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "created_at": "2013-01-03T21:20:17.000Z",
+                  "profile_image_url": "https://pbs.twimg.com/profile_images/1513883333230567426/UnB3BoKE_normal.jpg",
+                  "name": "Ron DeSantis",
+                  "id": "1058807868",
+                  "description": "46th Governor of the great state of Florida.",
+                  "public_metrics": {
+                    "followers_count": 2450334,
+                    "following_count": 1,
+                    "tweet_count": 5833,
+                    "listed_count": 4863
+                  },
+                  "url": "",
+                  "protected": false,
+                  "username": "GovRonDeSantis",
+                  "verified": true
+                },
+                {
+                  "created_at": "2009-04-06T18:13:13.000Z",
+                  "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+                  "name": "Florida Legislature",
+                  "id": "29257057",
+                  "description": "",
+                  "public_metrics": {
+                    "followers_count": 637,
+                    "following_count": 0,
+                    "tweet_count": 704,
+                    "listed_count": 32
+                  },
+                  "url": "",
+                  "protected": false,
+                  "username": "FLLegislature",
+                  "verified": false
+                }
+              ]
+            }
+          }
+        }
+      }
+    ],
+    [
+      "email-cta",
+      {
+        "showButton": true,
+        "showDividers": false,
+        "segment": "status:-free",
+        "alignment": "center",
+        "html": "",
+        "buttonText": "Click Here To Comment",
+        "buttonUrl": "__GHOST_URL__/the-florida-gop-is-protecting-nursing-home-neglect/#comment?utm_source=paid-newsletters&utm_medium=link&utm_campaign=comment"
+      }
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "email-cta",
+      {
+        "showButton": true,
+        "showDividers": false,
+        "segment": "status:-free",
+        "alignment": "center",
+        "html": "",
+        "buttonText": "Tip Jar",
+        "buttonUrl": "https://dailyposter.outpost.pub/ghost-integration/60818189ad12f332071054b8/tips"
+      }
+    ],
+    [
+      "email-cta",
+      {
+        "showButton": true,
+        "showDividers": false,
+        "segment": "status:free",
+        "alignment": "center",
+        "html": "",
+        "buttonText": "Upgrade",
+        "buttonUrl": "https://levernews.com/membership/?utm_source=daily&utm_medium=link&utm_campaign=upgrade"
+      }
+    ],
+    [
+      "email",
+      {
+        "html": "<p><em><strong>Help us spread the word! </strong>Please forward this email to family and friends.</em></p><p><em><strong>Was this email forwarded to you? </strong><a href=\"https://levernews.com/membership/?utm_source=daily&amp;utm_medium=link&amp;utm_campaign=forward-signup\">Sign up for free</a> to receive original reporting like this in your inbox every day.</em></p>"
+      }
+    ]
+  ],
+  "markups": [
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/tag/ron-desantis/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.fhca.org/media_center/long_term_health_care_facts"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://floridapolitics.com/archives/522429-court-records-understaffed-nursing-homes-sidestep-admissions-ban/"
+      ]
+    ],
+    [
+      "em"
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://apps.ahca.myflorida.com/dm_web/DMWeb_DocsFO/12185669.pdf"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/investigation-cuomo-gave-immunity/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.nysenate.gov/legislation/bills/2021/S5177"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/exclusive-states-are-copying-and/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.npr.org/2021/01/25/960253893/why-nursing-homes-covid-19-legal-shields-may-interfere-with-other-cases"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.nytimes.com/interactive/2020/05/09/us/coronavirus-cases-nursing-homes-us.html"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://prospect.org/health/nursing-home-slumlord-manifesto/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.flsenate.gov/Session/Bill/2022/7014"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://casetext.com/statute/florida-statutes/title-xlv-torts/chapter-768-negligence/part-i-general-provisions/section-768381-covid-19-related-claims-against-health-care-providers"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://twitter.com/FHCA/status/1496983673718992899"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.fhca.org/images/uploads/pdf/2022_LegislativePriorities_FNL.pdf"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.myfloridahouse.gov/Sections/Bills/billsdetail.aspx?BillId=76097"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.tampabay.com/news/florida-politics/2022/03/07/industry-backed-nursing-home-bill-heads-to-desantis-will-seniors-suffer/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.flgov.com/2021/01/23/governor-ron-desantis-florida-putting-seniors-first-and-leading-the-nation-in-vaccinations-for-those-65/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.tampabay.com/news/florida-politics/2022/04/06/desantis-signs-bill-making-nursing-home-staffing-changes/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.orlandoweekly.com/news/florida-gov-ron-desantis-signs-law-ensuring-future-covid-19-outbreaks-at-nursing-homes-31330536"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.flsenate.gov/Session/Bill/2022/988"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.tampabay.com/news/florida-politics/2022/04/06/5-ways-florida-nursing-home-visits-will-change-thanks-to-bill-desantis-just-signed/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.msnbc.com/know-your-value/feature/39-covid-19-deaths-have-occurred-nursing-homes-many-could-ncna1250374"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.followthemoney.org/show-me?dt=1&d-eid=18869&c-t-id=305109#[%7B1%7Cgro=d-id"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.followthemoney.org/show-me?dt=1&f-fc=2,3&law-eid=17657831&d-ccb=222#[%7B1%7Cgro=d-id"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.floridatoday.com/story/news/local/2014/05/06/state-fines-west-melbourne-nursing-home-neglect/8793491/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.followthemoney.org/show-me?dt=1&y=2022,2021,2020,2019,2018&f-fc=2,3&pt-eid=1009&d-ccb=222#[%7B1%7Cgro=d-id"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.followthemoney.org/show-me?dt=1&y=2022,2021,2020,2019,2018,2017&f-fc=2,3&d-eid=18869&f-eid=1009#[%7B1%7Cgro=d-id"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://floridapolitics.com/archives/508342-ron-desantis-a-lot-of-nursing-homes-will-be-very-very-happy-after-2022-session/"
+      ]
+    ],
+    [
+      "strong"
+    ]
+  ],
+  "sections": [
+    [
+      10,
+      0
+    ],
+    [
+      10,
+      1
+    ],
+    [
+      10,
+      2
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "This past legislative session, Florida Gov. "
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "Ron DeSantis"
+        ],
+        [
+          0,
+          [],
+          0,
+          " and his fellow Republican lawmakers delivered multiple legislative handouts to the nursing home industry. That included extending protections for these companies from COVID-19-related liability lawsuits, as well as reducing the amount of resident care the facilities are required to provide to residents. "
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "The legislation came in the wake of the nursing home industry donating hundreds of thousands of dollars to DeSantis and the Florida Republican Party in recent years."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "The results of these bills could be devastating in a state where nursing homes are already chronically understaffed. In the past year alone, 29 of Florida’s "
+        ],
+        [
+          0,
+          [
+            1
+          ],
+          1,
+          "691"
+        ],
+        [
+          0,
+          [],
+          0,
+          " licensed nursing homes were flagged by the state for not abiding by the moratorium on accepting new patients when they failed to meet minimum staffing requirements for two days straight, according to reporting by "
+        ],
+        [
+          0,
+          [
+            2,
+            3
+          ],
+          2,
+          "Florida Politics"
+        ],
+        [
+          0,
+          [],
+          0,
+          "."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Just last month, Florida’s Agency for Health Care Administration filed an "
+        ],
+        [
+          0,
+          [
+            4
+          ],
+          1,
+          "emergency order"
+        ],
+        [
+          0,
+          [],
+          0,
+          " to shut down Destin Healthcare and Rehabilitation Center in the Florida Panhandle for flagrantly violating the state’s minimum staffing requirements and drastically reducing the quality of care of residents."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "The agency’s investigation found that residents complained about not having access to showers and baths, routine medical treatments, and other basic assistance. One resident told the agency that she had laid in her own urine for 16 hours because no staff were available to attend to her."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Florida’s efforts to protect nursing home companies from liability is part of a nationwide pattern. In April 2020, then-New York Gov. Andrew Cuomo "
+        ],
+        [
+          0,
+          [
+            5
+          ],
+          1,
+          "signed legislation"
+        ],
+        [
+          0,
+          [],
+          0,
+          " shielding hospital and nursing home executives from lawsuits stemming from COVID-19, after an influential health industry group funneled more than $1 million into the state Democratic Party backing his campaign. While the state "
+        ],
+        [
+          0,
+          [
+            6
+          ],
+          1,
+          "repealed"
+        ],
+        [
+          0,
+          [],
+          0,
+          " the law a year later amid Cuomo’s political fall from grace, the legislation helped "
+        ],
+        [
+          0,
+          [
+            7
+          ],
+          1,
+          "inspire"
+        ],
+        [
+          0,
+          [],
+          0,
+          " "
+        ],
+        [
+          0,
+          [
+            8
+          ],
+          1,
+          "26"
+        ],
+        [
+          0,
+          [],
+          0,
+          " other states to pass similar laws protecting nursing homes from COVID-related lawsuits — including Florida."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Observers say such liability shields have had a chilling effect on nursing home-related negligence cases and could be discouraging nursing homes from taking proper safety precautions. According to the "
+        ],
+        [
+          0,
+          [
+            9,
+            3
+          ],
+          2,
+          "New York Times"
+        ],
+        [
+          0,
+          [],
+          0,
+          ", more than three-quarters of total nursing-home deaths early in the pandemic came from states that had granted corporate immunity to health care facilities."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Outside Florida, efforts to increase nursing home staffing have also been derailed by industry pressure. Late last year, New York Gov. Kathy Hochul (D) "
+        ],
+        [
+          0,
+          [
+            10
+          ],
+          1,
+          "postponed enforcement"
+        ],
+        [
+          0,
+          [],
+          0,
+          " of New York’s “safe staffing” law, which would have required state nursing home operators to spend at least 70 percent of their revenues on patient care, following a massive lawsuit filed by New York nursing homes demanding the law be struck down."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "“Research shows that both staffing levels and the availability of skilled nursing staff are important predictors of the quality of care that nursing home residents receive,” said Nina Kohn, a law professor at Syracuse University and an expert in elder law. “Florida’s new law reduces the number of hours of certified nursing staff time that facilities must provide to residents each day. This opens the door to nursing homes substituting trained staff for essentially unskilled labor. That is dangerous for residents and a clear step in the wrong direction.”"
+        ]
+      ]
+    ],
+    [
+      1,
+      "h3",
+      [
+        [
+          0,
+          [],
+          0,
+          "Shielding Nursing Homes From Liability"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "One of the first bills passed by the Florida state Senate this year was "
+        ],
+        [
+          0,
+          [
+            11
+          ],
+          1,
+          "SB 7014"
+        ],
+        [
+          0,
+          [],
+          0,
+          ", which extends immunity from COVID-related civil liability claims for nursing homes, hospitals, doctors, pharmacies, and others in the health care industry. "
+        ],
+        [
+          0,
+          [
+            7
+          ],
+          1,
+          "Inspired by New York’s approach"
+        ],
+        [
+          0,
+          [],
+          0,
+          ", the state had previously shielded the industry from COVID-19 claims until March 2022, but the new bill extends the immunity until June 2023. DeSantis signed the bill into law in February."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "The "
+        ],
+        [
+          0,
+          [
+            12
+          ],
+          1,
+          "immunity protections extended"
+        ],
+        [
+          0,
+          [],
+          0,
+          " by the bill require any claims to be “pled with particularity by alleging facts in sufficient detail to support each element of the claim,” a higher standard than what’s required for typical civil lawsuits in the state. In most Florida lawsuits, plaintiffs are only required to produce “a short and plain statement of the ultimate facts showing that the pleader is entitled to relief.”"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "The new bill also requires plaintiffs to prove that a health care provider was “grossly negligent or engaged in intentional misconduct,” and it outlines several affirmative defenses that health care providers can use to shield themselves from liability, even if plaintiffs’ negligence claims are found to be true. Those defenses include arguing that they were in compliance with government health standards for COVID or other infectious diseases, or claiming that they were not able to comply with such standards because there was insufficient time to do so."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "After DeSantis signed the immunity protections extension into law, the state nursing home industry’s top lobbying group, the Florida Health Care Association, "
+        ],
+        [
+          0,
+          [
+            13
+          ],
+          1,
+          "praised the governor"
+        ],
+        [
+          0,
+          [],
+          0,
+          " for doing so."
+        ]
+      ]
+    ],
+    [
+      10,
+      3
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Extending the COVID liability protections had been included in the Florida Health Care Association’s 2022 "
+        ],
+        [
+          0,
+          [
+            14
+          ],
+          1,
+          "legislative agenda"
+        ],
+        [
+          0,
+          [],
+          0,
+          ", published last December."
+        ]
+      ]
+    ],
+    [
+      1,
+      "h3",
+      [
+        [
+          0,
+          [],
+          0,
+          "Cutting Care To Cut Costs"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "After immunizing the nursing homes, the legislature began working on a bill that specifically addressed the understaffing issues that have been leading to dire outcomes for patients. But rather than working to ensure the nursing homes follow the existing law, the lawmakers took up legislation to reduce how much care the companies are required to provide."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [
+            15
+          ],
+          1,
+          "The bill"
+        ],
+        [
+          0,
+          [],
+          0,
+          ", proposed by Naples-area state Rep. Lauren Melo (R), amended the law to reduce the number of hours of care per day that nursing residents are guaranteed from certified nursing assistants. Rather than receiving at least 2.5 hours of daily care by a certified nursing assistant, as had been previously required, the bill stipulated that elderly patients only had to receive two hours of such nursing care each day."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "The bill kept a requirement in the law that patients receive at least 3.6 hours of total care per day, but noted that nursing homes could account for some of that time through work provided by paid feeding assistants, activities staff, mental health professionals, social services, and other non-medical workers. The change will likely save nursing homes money, as more of the care can now be provided by staff who may be paid less."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "“Even before this new legislation, Florida required less direct care staff than experts generally agree is necessary to avoid systemic neglect,” said Kohn at Syracuse University. “Allowing even lower levels of trained nursing staff endangers residents, who rely on staff to meet their basic needs.”"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "The Florida Health Care Association had called for the reduction in required hours in its legislative agenda, arguing that it would allow nursing homes to provide “a more diverse level of direct care from highly skilled specialists.” According to the "
+        ],
+        [
+          0,
+          [
+            16,
+            3
+          ],
+          2,
+          "Tampa Bay Times"
+        ],
+        [
+          0,
+          [],
+          0,
+          ", the bill “began as a proposal written by the Florida Health Care Association.”"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "DeSantis, who has repeatedly insisted to the press that he is "
+        ],
+        [
+          0,
+          [
+            17
+          ],
+          1,
+          "“putting seniors first”"
+        ],
+        [
+          0,
+          [],
+          0,
+          " during the COVID pandemic "
+        ],
+        [
+          0,
+          [
+            18
+          ],
+          1,
+          "signed the bill"
+        ],
+        [
+          0,
+          [],
+          0,
+          " into law in April."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Another "
+        ],
+        [
+          0,
+          [
+            19
+          ],
+          1,
+          "Florida Health Care Association-backed"
+        ],
+        [
+          0,
+          [],
+          0,
+          " "
+        ],
+        [
+          0,
+          [
+            20
+          ],
+          1,
+          "bill"
+        ],
+        [
+          0,
+          [],
+          0,
+          " signed by DeSantis in April, the so-called “No Patient Left Alone Act,” created a new statute that requires nursing homes and hospitals to adopt new visitation policies that allow physical contact between patients and visitors and barring any requirement that visitors provide proof of any vaccination or immunization. During the early days of the pandemic, the DeSantis administration had severely "
+        ],
+        [
+          0,
+          [
+            21
+          ],
+          1,
+          "limited"
+        ],
+        [
+          0,
+          [],
+          0,
+          " nursing home visitations in an attempt to slow the spread of COVID, but that order has since been rolled back."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "The new law may put elderly and immunocompromised people at greater risk, especially in light of the "
+        ],
+        [
+          0,
+          [
+            22
+          ],
+          1,
+          "disproportionate number"
+        ],
+        [
+          0,
+          [],
+          0,
+          " of preventable COVID deaths that have occurred in nursing homes during the pandemic."
+        ]
+      ]
+    ],
+    [
+      1,
+      "h3",
+      [
+        [
+          0,
+          [],
+          0,
+          "Campaign Cash Helps Put Seniors Last"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "The slew of Florida bills protecting neglectful — and potentially deadly — behavior on the part of nursing home companies comes after years of campaign funding from the nursing home industry."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "The Florida Health Care Association donated "
+        ],
+        [
+          0,
+          [
+            23
+          ],
+          1,
+          "$30,000"
+        ],
+        [
+          0,
+          [],
+          0,
+          " to DeSantis in 2020, according to data from the National Institute for Money in Politics. Companies, trade groups, and individuals in the nursing home industry have given DeSantis an additional "
+        ],
+        [
+          0,
+          [
+            24
+          ],
+          1,
+          "$232,000"
+        ],
+        [
+          0,
+          [],
+          0,
+          " since 2018."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Some of DeSantis’ top nursing home industry donors include NHS Management LLC and Northpoint Health Services of Florida LLC, affiliated companies that own and operate five rehabilitation centers across Florida."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "One NHS facility in Brevard County was "
+        ],
+        [
+          0,
+          [
+            25
+          ],
+          1,
+          "fined"
+        ],
+        [
+          0,
+          [],
+          0,
+          " by the state in 2014 after it was found to have neglected signs of internal bleeding in one of its patients who eventually died following a stroke and respiratory failure related to a deep-vein thrombosis."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "NHS Management and Northpoint Health Services have given DeSantis a combined $35,000, according to Follow the Money data."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "The nursing home industry has also been a major donor to the Republican Party of Florida. Since 2018, the party has received "
+        ],
+        [
+          0,
+          [
+            26
+          ],
+          1,
+          "more than $424,000"
+        ],
+        [
+          0,
+          [],
+          0,
+          " from the industry, and it has received another "
+        ],
+        [
+          0,
+          [
+            27
+          ],
+          1,
+          "$96,000"
+        ],
+        [
+          0,
+          [],
+          0,
+          " from the Florida Health Care Association since 2017."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "In March, at a ceremony marking the end of the legislative session, DeSantis "
+        ],
+        [
+          0,
+          [
+            28
+          ],
+          1,
+          "said"
+        ],
+        [
+          0,
+          [],
+          0,
+          " that there will be “a lot of nursing homes that are very, very happy.”"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Gov. DeSantis, the Florida Health Care Association, and the Republican Party of Florida did not respond to a request for comment."
+        ]
+      ]
+    ],
+    [
+      10,
+      4
+    ],
+    [
+      10,
+      5
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [
+            3,
+            29
+          ],
+          1,
+          "Our news organization relies on readers pitching in to support our journalism. "
+        ],
+        [
+          0,
+          [
+            3,
+            29
+          ],
+          3,
+          "If you like this story, please support "
+        ],
+        [
+          0,
+          [
+            29,
+            3,
+            29
+          ],
+          3,
+          "our"
+        ],
+        [
+          0,
+          [
+            3,
+            3,
+            29
+          ],
+          3,
+          " work."
+        ]
+      ]
+    ],
+    [
+      10,
+      6
+    ],
+    [
+      10,
+      7
+    ],
+    [
+      10,
+      8
+    ],
+    [
+      1,
+      "p",
+      []
+    ]
+  ],
+  "ghostVersion": "4.0"
+}

@@ -1,0 +1,822 @@
+{
+  "root": {
+    "children": [
+      {
+        "type": "email",
+        "html": "<p>Hey {first_name, \"there\"}, and welcome to a new week.</p><p>A small tweak in format today, as I really wanted to establish a more standard approach to writing these. We kick off with a short piece of context or analysis from me, follow up with a couple of links, and then a recommended long(ish) read, and some music.</p><p>Let me know what you think.</p>"
+      },
+      {
+        "type": "horizontalrule"
+      },
+      {
+        "children": [
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": "Time, reach and the flight to niche",
+            "type": "text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "heading",
+        "tag": "h2",
+        "version": 1
+      },
+      {
+        "children": [
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": "It's easy to slip into thinking of the arrival of the internet as a massive point of discontinuity that disrupted the journalism and publishing worlds.",
+            "type": "text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "paragraph",
+        "version": 1
+      },
+      {
+        "children": [
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": "And, to some extent, that's correct. But the impact has been a ",
+            "type": "text",
+            "version": 1
+          },
+          {
+            "detail": 0,
+            "format": 2,
+            "mode": "normal",
+            "style": "",
+            "text": "process",
+            "type": "text",
+            "version": 1
+          },
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": " not an ",
+            "type": "text",
+            "version": 1
+          },
+          {
+            "detail": 0,
+            "format": 2,
+            "mode": "normal",
+            "style": "",
+            "text": "event",
+            "type": "text",
+            "version": 1
+          },
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": ". And no single person, organisation or technology is solely to blame for the woes of the industry. Indeed, it seems likely that our continual quest for a culprit — a scapegoat — might well be a massive distraction from the twin goals of:",
+            "type": "text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "paragraph",
+        "version": 1
+      },
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "detail": 0,
+                "format": 0,
+                "mode": "normal",
+                "style": "",
+                "text": "Understanding what is happening",
+                "type": "text",
+                "version": 1
+              }
+            ],
+            "direction": "ltr",
+            "format": "",
+            "indent": 0,
+            "type": "listitem",
+            "value": 1,
+            "version": 1
+          },
+          {
+            "children": [
+              {
+                "detail": 0,
+                "format": 0,
+                "mode": "normal",
+                "style": "",
+                "text": "Adapting to it",
+                "type": "text",
+                "version": 1
+              }
+            ],
+            "direction": "ltr",
+            "format": "",
+            "indent": 0,
+            "type": "listitem",
+            "value": 2,
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "tag": "ol",
+        "type": "list",
+        "listType": "number",
+        "start": 1,
+        "version": 1
+      },
+      {
+        "children": [
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": "Why am I writing about this now?",
+            "type": "text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "paragraph",
+        "version": 1
+      },
+      {
+        "children": [
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": "Two pieces have crossed my radar in recent weeks which have stuck in my head, because they pushed this notions right to the front of my cerebellum once again.",
+            "type": "text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "paragraph",
+        "version": 1
+      },
+      {
+        "children": [
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": "Unbundling content  ",
+            "type": "text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "heading",
+        "tag": "h3",
+        "version": 1
+      },
+      {
+        "children": [
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": "The first was a good post from Om Malik reminding us all of the compex journey that led us to the current media crossroads. We do like to find companies to blame — Google and Facebook, mainly — but the underlying structural issues are just as important. And probably more so. ",
+            "type": "text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "paragraph",
+        "version": 1
+      },
+      {
+        "type": "bookmark",
+        "url": "https://om.co/2020/06/17/napsters-long-arm-the-unbundling-of-content/",
+        "metadata": {
+          "url": "https://om.co/2020/06/17/napsters-long-arm-the-unbundling-of-content/",
+          "title": "Napster’s long-arm & the unbundling of content",
+          "description": "Especially as post-pandemic problems pile up, many media companies blame the Internet giants as the cause of all their troubles. Of course, almost nobody blames their own short-sightedness in ignor…",
+          "author": null,
+          "publisher": "On my Om",
+          "thumbnail": "https://149366103.v2.pressablecdn.com/wp-content/uploads/2020/06/napster.png",
+          "icon": "https://i1.wp.com/om.co/wp-content/uploads/2019/09/cropped-OmIcon-1.jpg?fit=192%2C192&ssl=1"
+        }
+      },
+      {
+        "children": [
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": "In my training and consulting work, I find that this unbundling — what I sometimes call ",
+            "type": "text",
+            "version": 1
+          },
+          {
+            "children": [
+              {
+                "detail": 0,
+                "format": 0,
+                "mode": "normal",
+                "style": "",
+                "text": "atomisation",
+                "type": "text",
+                "version": 1
+              }
+            ],
+            "direction": "ltr",
+            "format": "",
+            "indent": 0,
+            "type": "link",
+            "rel": null,
+            "target": null,
+            "title": null,
+            "url": "__GHOST_URL__/2018/10/the-basics-of-digital-journalism-attention-and-atomisation/",
+            "version": 1
+          },
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": " — is one of the most under-appreciated factors in how people consume media. ",
+            "type": "text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "paragraph",
+        "version": 1
+      },
+      {
+        "children": [
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": "Niche is nice",
+            "type": "text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "heading",
+        "tag": "h3",
+        "version": 1
+      },
+      {
+        "children": [
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": "And if you want to understand the build-up to ",
+            "type": "text",
+            "version": 1
+          },
+          {
+            "detail": 0,
+            "format": 2,
+            "mode": "normal",
+            "style": "",
+            "text": "that",
+            "type": "text",
+            "version": 1
+          },
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": " situation, Ben Thompson heads back to the 19th century to explore the roots of the current media crisis in how the newspaper and magazine industries developed in the US. ",
+            "type": "text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "paragraph",
+        "version": 1
+      },
+      {
+        "type": "bookmark",
+        "url": "https://stratechery.com/2020/never-ending-niches/",
+        "metadata": {
+          "url": "https://stratechery.com/2020/never-ending-niches/",
+          "title": "Never-ending Niches",
+          "description": "The Internet changed how media competes to focus and quality, but quality is defined by your niche.",
+          "author": "Ben Thompson",
+          "publisher": "Stratechery by Ben Thompson",
+          "thumbnail": "https://stratechery.com/wp-content/uploads/2020/06/niches-7.png",
+          "icon": "https://stratechery.com/wp-content/uploads/2018/03/cropped-android-chrome-512x512-1-192x192.png"
+        }
+      },
+      {
+        "children": [
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": "His piece is a good reminder of the ",
+            "type": "text",
+            "version": 1
+          },
+          {
+            "detail": 0,
+            "format": 2,
+            "mode": "normal",
+            "style": "",
+            "text": "likely",
+            "type": "text",
+            "version": 1
+          },
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": " outcome of the current disruption: a small number of very large outlets doing mainstream news (this is the ",
+            "type": "text",
+            "version": 1
+          },
+          {
+            "children": [
+              {
+                "detail": 0,
+                "format": 0,
+                "mode": "normal",
+                "style": "",
+                "text": "\"winner takes all\" part of the subscriptions",
+                "type": "text",
+                "version": 1
+              }
+            ],
+            "direction": "ltr",
+            "format": "",
+            "indent": 0,
+            "type": "link",
+            "rel": null,
+            "target": null,
+            "title": null,
+            "url": "http://www.digitalnewsreport.org/survey/2020/how-and-why-people-are-paying-for-online-news/",
+            "version": 1
+          },
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": " analysis in the recent ",
+            "type": "text",
+            "version": 1
+          },
+          {
+            "detail": 0,
+            "format": 2,
+            "mode": "normal",
+            "style": "",
+            "text": "Reuters Institute Digital News Report",
+            "type": "text",
+            "version": 1
+          },
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": ") and a much more diverse group of small and micro publishers catering to niches. ",
+            "type": "text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "paragraph",
+        "version": 1
+      },
+      {
+        "children": [
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": "An awful lot of businesses are going to die in the transition, though. ",
+            "type": "text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "paragraph",
+        "version": 1
+      },
+      {
+        "children": [
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": "Self-organising networks on social media ",
+            "type": "text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "heading",
+        "tag": "h2",
+        "version": 1
+      },
+      {
+        "children": [
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": "One of the most interesting things, from a community management point of view, about the current pandemic is the way it has accelerated change that was already in progress. In particular, it's forced neighbourhoods to start self-orgnaising in a more useful way, as we've all been obliged to spend much more time at home. ",
+            "type": "text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "paragraph",
+        "version": 1
+      },
+      {
+        "children": [
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": "There's lots of useful research in progress on this, but I'm interested in some of the preliminary findings of the dynamics that have emerged. For example: ",
+            "type": "text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "paragraph",
+        "version": 1
+      },
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "detail": 0,
+                "format": 0,
+                "mode": "normal",
+                "style": "",
+                "text": "\"Groupsourcing\"",
+                "type": "text",
+                "version": 1
+              }
+            ],
+            "direction": "ltr",
+            "format": "",
+            "indent": 0,
+            "type": "link",
+            "rel": null,
+            "target": null,
+            "title": null,
+            "url": "http://jonchamberlain.com/media/doc/Chamberlain2014Groupsourcing.pdf",
+            "version": 1
+          },
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": " is a term derived from \"outsourcing\" that has been used to describe this phenomenon, where groups on social networks are created around user needs by the users themselves, rather than being coordinated centrally.",
+            "type": "text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "quote",
+        "version": 1
+      },
+      {
+        "children": [
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": "For niche publications, the question ",
+            "type": "text",
+            "version": 1
+          },
+          {
+            "detail": 0,
+            "format": 2,
+            "mode": "normal",
+            "style": "",
+            "text": "must",
+            "type": "text",
+            "version": 1
+          },
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": " be: how can I facilitate the condistions that allow those groups to self-organise? ",
+            "type": "text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "paragraph",
+        "version": 1
+      },
+      {
+        "type": "bookmark",
+        "url": "https://phys.org/news/2020-05-coronavirus-revealed-power-social-networks.html",
+        "metadata": {
+          "url": "https://phys.org/news/2020-05-coronavirus-revealed-power-social-networks.html",
+          "title": "Coronavirus has revealed the power of social networks in a crisis",
+          "description": "The declaration of the novel coronavirus as a pandemic was a call to arms for governments to take urgent and immediate action. However, many feel the response from some countries was too little, too late.",
+          "author": "Jon Chamberlain",
+          "publisher": "Phys.org",
+          "thumbnail": "https://scx2.b-cdn.net/gfx/news/hires/2020/20-coronavirush.jpg",
+          "icon": "https://phys.b-cdn.net/favicon.ico"
+        }
+      },
+      {
+        "children": [
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": "TikTok secrets revealed!",
+            "type": "text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "heading",
+        "tag": "h2",
+        "version": 1
+      },
+      {
+        "children": [
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": "The viral hit spills (some of) the beans on its mysterious algorithm. Health warnings:",
+            "type": "text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "paragraph",
+        "version": 1
+      },
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "detail": 0,
+                "format": 0,
+                "mode": "normal",
+                "style": "",
+                "text": "Companies never tell us everything - it makes it too easy to game it",
+                "type": "text",
+                "version": 1
+              }
+            ],
+            "direction": "ltr",
+            "format": "",
+            "indent": 0,
+            "type": "listitem",
+            "value": 1,
+            "version": 1
+          },
+          {
+            "children": [
+              {
+                "detail": 0,
+                "format": 0,
+                "mode": "normal",
+                "style": "",
+                "text": "These algorithms never stay still",
+                "type": "text",
+                "version": 1
+              }
+            ],
+            "direction": "ltr",
+            "format": "",
+            "indent": 0,
+            "type": "listitem",
+            "value": 2,
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "tag": "ol",
+        "type": "list",
+        "listType": "number",
+        "start": 1,
+        "version": 1
+      },
+      {
+        "type": "bookmark",
+        "url": "https://newsroom.tiktok.com/en-us/how-tiktok-recommends-videos-for-you/",
+        "metadata": {
+          "url": "https://newsroom.tiktok.com/en-us/how-tiktok-recommends-videos-for-you/",
+          "title": "How TikTok recommends videos #ForYou",
+          "description": "TikTok’s mission is to inspire creativity and bring joy. We’re building a global community where you can create and share authentically, discover the world, and connect with others. The For You feed i",
+          "author": null,
+          "publisher": "Newsroom | TikTok",
+          "thumbnail": "https://p16.muscdn.com/obj/musically-maliva-obj/1d597cd9cf9dcaa467339de463de3eee",
+          "icon": "https://s16.tiktokcdn.com/musical/resource/mtact/static/pwa/icon_512x512.png"
+        }
+      },
+      {
+        "children": [
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": "The Lean Back Read: Culture and Journalism",
+            "type": "text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "heading",
+        "tag": "h2",
+        "version": 1
+      },
+      {
+        "children": [
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": "This is a thought-provoking and elegantly-written piece on the challenges of doing journalism in unfamiliar cultures. ",
+            "type": "text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "paragraph",
+        "version": 1
+      },
+      {
+        "type": "bookmark",
+        "url": "https://medium.com/@viewmagazine/when-culture-and-journalism-meet-it-should-be-storytelling-par-excellence-it-often-isnt-48ccda2c62e9",
+        "metadata": {
+          "url": "https://medium.com/@viewmagazine/when-culture-and-journalism-meet-it-should-be-storytelling-par-excellence-it-often-isnt-48ccda2c62e9",
+          "title": "When culture and journalism meet, it should be storytelling par excellence — It often isn’t.",
+          "description": "In closed humidity, amid summerish heat of 32 degrees, and a cornucopia of distant sounds, the sun finally turns its golden yellow and begins to surrender for the day. In its diminishing glow hidden…",
+          "author": "Dr. David Dunkley Gyimah",
+          "publisher": "Medium",
+          "thumbnail": "https://miro.medium.com/max/1200/1*vDmkjdsEQegxHO7y7Z4dBw.jpeg",
+          "icon": "https://cdn-images-1.medium.com/fit/c/152/152/1*8I-HPL0bfoIzGied-dzOvA.png"
+        }
+      },
+      {
+        "children": [
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": "Today's Listening: In a South Downs Way",
+            "type": "text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "heading",
+        "tag": "h3",
+        "version": 1
+      },
+      {
+        "type": "bookmark",
+        "url": "https://music.apple.com/gb/album/in-a-south-downs-way/1452655905",
+        "metadata": {
+          "url": "https://music.apple.com/gb/album/in-a-south-downs-way/1452655905",
+          "title": "In A South Downs Way by Damian Montagu",
+          "description": "Album · 2016 · 17 Songs. Available with an Apple Music subscription. Try it free.",
+          "author": null,
+          "publisher": "Apple Music",
+          "thumbnail": "https://is2-ssl.mzstatic.com/image/thumb/Music114/v4/d2/95/bb/d295bb09-111d-c266-df44-2fddf3e45426/00602547943163.rgb.jpg/1200x630wp.png",
+          "icon": "https://music.apple.com/assets/favicon/favicon-180-0a398ebcafe9ddd5517bb45c1c392e09.png"
+        }
+      },
+      {
+        "type": "bookmark",
+        "url": "https://open.spotify.com/album/11Q5LabCN99iSn3mFgocdM",
+        "metadata": {
+          "url": "https://open.spotify.com/album/11Q5LabCN99iSn3mFgocdM",
+          "title": "In A South Downs Way",
+          "description": "In A South Downs Way, an album by Damian Montagu on Spotify",
+          "author": null,
+          "publisher": "Spotify",
+          "thumbnail": "https://i.scdn.co/image/ab67616d0000b2733fb3d8583b52ba2be61eae86",
+          "icon": "https://open.scdn.co/cdn/images/touch-icon-144.36faaf96.png"
+        }
+      },
+      {
+        "children": [
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": "I can — just — see the Downs from my home office window, so this feels appropriate. ",
+            "type": "text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "paragraph",
+        "version": 1
+      }
+    ],
+    "direction": "ltr",
+    "format": "",
+    "indent": 0,
+    "type": "root",
+    "version": 1
+  }
+}

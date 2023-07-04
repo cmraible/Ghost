@@ -1,0 +1,896 @@
+{
+  "version": "0.3.1",
+  "atoms": [],
+  "cards": [
+    [
+      "email",
+      {
+        "html": "<p>Hey {first_name, \"there\"},</p><p>Two emails in less than 12 hours? That's a first. However, the big Facebook outage last night is a pretty significant event in the engaged publishing world, and it's worth us understadning what we can learn from it — and acting on that insight.&nbsp;</p><p>And that's why I'm troubling your in-box again this morning. &nbsp;</p>"
+      }
+    ],
+    [
+      "embed",
+      {
+        "url": "https://twitter.com/igzebedze/status/1445250600636231680?s=21",
+        "html": "<blockquote class=\"twitter-tweet\"><p lang=\"en\" dir=\"ltr\">Wrong angle. Traffic to publishers went *up* during outage, demonstrating that net effect is one of parasite, not distributer.</p>&mdash; Bostjan Spetic (@igzebedze) <a href=\"https://twitter.com/igzebedze/status/1445250600636231680?ref_src=twsrc%5Etfw\">October 5, 2021</a></blockquote>\n<script async src=\"https://platform.twitter.com/widgets.js\" charset=\"utf-8\"></script>\n",
+        "type": "rich",
+        "metadata": {
+          "url": "https://twitter.com/igzebedze/status/1445250600636231680",
+          "author_name": "Bostjan Spetic",
+          "author_url": "https://twitter.com/igzebedze",
+          "width": 550,
+          "height": null,
+          "cache_age": "3153600000",
+          "provider_name": "Twitter",
+          "provider_url": "http://www.twitter.com/",
+          "version": "1.0"
+        }
+      }
+    ],
+    [
+      "hr",
+      {}
+    ]
+  ],
+  "markups": [
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/2021/10/single-point-of-facebook-failure/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/2018/10/the-basics-of-digital-journalism-attention-and-atomisation/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://daringfireball.net/linked/2021/10/04/haugen-facebook-60-minutes"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.outbrain.com/blog/traffic-surge-with-social-outage/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://blog.chartbeat.com/2018/10/19/facebook-outage-reader-trends/"
+      ]
+    ],
+    [
+      "em"
+    ],
+    [
+      "strong"
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.journalism.co.uk/vocational-skills-study/audience-engagement-strategies-/s43/a729370/"
+      ]
+    ]
+  ],
+  "sections": [
+    [
+      10,
+      0
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Facebook went down. News sites depend on Facebook for traffic. Therefore site traffic went down, right?"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Wrong."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Many publishers saw a significant spike in traffic last night. But many didn't. Some saw some substantal declines."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "What's happening here? And what can you do about it? "
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Happily, the outage has provided you with the perfect way of figuring out what your existing relationship is with Facebook — and what you can do about it. "
+        ]
+      ]
+    ],
+    [
+      1,
+      "h3",
+      [
+        [
+          0,
+          [],
+          0,
+          "The Facebook relationship is a complicated one"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "During the Facebook outage yesterday, I pointed out that it was "
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "a big indicator of how dependent"
+        ],
+        [
+          0,
+          [],
+          0,
+          " we’ve let ourselves become on Facebook. However, Bostjan from Outbrain took issue with Jon’s summary of my piece:"
+        ]
+      ]
+    ],
+    [
+      10,
+      1
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "We’re not, in fact, disagreeing. He’s just making a narrower point than I was. The rise in traffic to publisher sites doesn’t address, for example, the sudden silencing of WhatsApp as a comms tool. Nor does it account for people who lost access to internet services because they used their Facebook account as a login for other sites or apps."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "More to the point, the fact that some — but not all — sites benefited from the outage with a surge in traffic shouldn’t be a surprise. It’s intuitively obvious once you think about the attention dynamics of the internet."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Remember: "
+        ],
+        [
+          0,
+          [
+            1
+          ],
+          1,
+          "content is no longer scarce, attention is"
+        ],
+        [
+          0,
+          [],
+          0,
+          ". When a whole bunch of people’s attention suddenly becomes free, it seeks a new outlet."
+        ]
+      ]
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "The Facebook attention sponge"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Facebook is a massive, sophisticated attention sponge. It’s a powerful aggregator of people’s interests and connections that uses both a combination of tools — personal profiles, groups, pages — and platforms — WhatsApp, Instagram — to suck up as much of your available free time as it can. It’s aim, as a business, is to make sure one of those three apps is on your home screen, and that you habitually click one of them when you have a little spare attention to spend."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "If its algorithms are good enough, it can that capitalise on as much of that attention as it can by keeping you staring at your feed, while periodically showing you ads."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Facebook’s mantra over “"
+        ],
+        [
+          0,
+          [
+            2
+          ],
+          1,
+          "engagement growth over all"
+        ],
+        [
+          0,
+          [],
+          0,
+          "” is really just about claiming as much attention as it possible can from the rest of the internet. That’s why publishers seeing Facebook mainly as a distribution channel is so dangerous:"
+        ]
+      ]
+    ],
+    [
+      3,
+      "ol",
+      [
+        [
+          [
+            0,
+            [],
+            0,
+            "It’s not — the organic reach of news is declining all the time"
+          ]
+        ],
+        [
+          [
+            0,
+            [],
+            0,
+            "By helping Facebook bring people into its platform, you’re effectively helping them take your readers’ attention away"
+          ]
+        ]
+      ]
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Free attention = more traffic to publishers"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Yesterday, for six hours, that sponge suddenly disgorged its vast attention hoard back into the general internet. Some of it went offline, as people put down their phones in frustration. Quite a bit vanished into Twitter and alternative chat apps. But, as you would expect, quite a bit of it flowed into traditional publisher sites, "
+        ],
+        [
+          0,
+          [
+            3
+          ],
+          1,
+          "as Outbrain noted"
+        ],
+        [
+          0,
+          [],
+          0,
+          ":"
+        ]
+      ]
+    ],
+    [
+      1,
+      "blockquote",
+      [
+        [
+          0,
+          [],
+          0,
+          "Today, with readers looking for reasons why Facebook, Instagram, WhatsApp, and other platforms are down, or maybe simply trying to get to their daily dose of news, many of these publishers are seeing more than 40% week over week increases in traffic volume. Either way, publishers will likely be happy with the outcome."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "This shouldn’t be a surprise — because it’s happened before. Back went Facebook went down in 2018, "
+        ],
+        [
+          0,
+          [
+            4
+          ],
+          1,
+          "publishers also saw a surge in traffic"
+        ],
+        [
+          0,
+          [],
+          0,
+          ":"
+        ]
+      ]
+    ],
+    [
+      1,
+      "blockquote",
+      [
+        [
+          0,
+          [],
+          0,
+          "What would the world look like without Facebook? Chartbeat had a glimpse into that on Aug. 3, 2018, when Facebook went down for 45 minutes and traffic patterns across the web changed in an instant. What did people do? According to our data, they went directly to publishers’ mobile apps and sites (as well as to search engines) to get their information fix."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "What both pieces are vague about is precisely "
+        ],
+        [
+          0,
+          [
+            5
+          ],
+          1,
+          "which"
+        ],
+        [
+          0,
+          [],
+          0,
+          " publishers benefitted from this outrush of free attention. I know for certain that a few audience editors were sweating last night, as they saw traffic rapidly drop away. Some of that will be down to market sector. The mainstream news sites will have done well, as people sought news on the outage. Tech sites explaining the outage were being well retweeted, so they probably benefited too."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "On the other side, B2B publications tend to be "
+        ],
+        [
+          0,
+          [
+            5
+          ],
+          1,
+          "much"
+        ],
+        [
+          0,
+          [],
+          0,
+          " less dependent on Facebook traffic, for example. I suspect many of them will have seen little impact one way or another. (I saw a surge in traffic, but that’s largely accountable to "
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "yesterday’s piece"
+        ],
+        [
+          0,
+          [],
+          0,
+          " rather than the outage. I get very little Facebook traffic here, and so no discernible difference in the time between Facebook going down and my piece going up.)"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "We can categorise publishers into four distinct groups, each of whom needs to act differently based on what they see in their analytics:"
+        ]
+      ]
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "What you should learn from your traffic during the Facebook outage"
+        ]
+      ]
+    ],
+    [
+      1,
+      "h3",
+      [
+        [
+          0,
+          [],
+          0,
+          "Publishers whose traffic went up"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Good news: you are a "
+        ],
+        [
+          0,
+          [
+            6
+          ],
+          1,
+          "trusted brand"
+        ],
+        [
+          0,
+          [],
+          0,
+          ". You shouldn’t rest on your laurels, though. This incident shows that there is attention going to Facebook that could be coming to you instead."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "This strongly suggests that further time spent on attracting readers from Facebook is likely to have diminishing returns. You need to look at either:"
+        ]
+      ]
+    ],
+    [
+      3,
+      "ol",
+      [
+        [
+          [
+            0,
+            [],
+            0,
+            "Better ways of converting Facebook “drive-bys” into loyal readers, via methods including newsletters, apps, and podcasts."
+          ]
+        ],
+        [
+          [
+            0,
+            [],
+            0,
+            "Developing out a broader acquisition strategy that includes other social platforms as well as search"
+          ]
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Your task is now to capitalise on that evidenced trust by bringing readers into direct engagement with you, rather than Facebook-mediated engagement. You’re probably not going to break your readers of their Facebook platforms habit — but you can help install an additional, news-centric habit into their daily routines, too."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "🏆 Your solution: "
+        ],
+        [
+          0,
+          [
+            6
+          ],
+          1,
+          "convert your readers to a direct relationship"
+        ]
+      ]
+    ],
+    [
+      1,
+      "h3",
+      [
+        [
+          0,
+          [],
+          0,
+          "Publishers whose traffic went down"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Bad news. You are "
+        ],
+        [
+          0,
+          [
+            6
+          ],
+          1,
+          "Facebook-dependent"
+        ],
+        [
+          0,
+          [],
+          0,
+          ". You need to get a strategy in place to address that."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Likewise, you need to stop seeing Facebook as a distribution channel, and start seeing it as an acquisition channel. Focus on pages which are getting high levels of traffic from Facebook now it’s back up. How well linked are they to other pages on your site? Do you have prominent email capture calls-to-action on the pages?"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Your job is to take the traffic you get from Facebook — and make it loyal traffic. You might also want to look at your SEO: could you be doing more to reduce your dependence on Facebook? Could you invest more time in diversifying your social traffic away from Facebook to a broader range of sites?"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "🏆 Your solution: "
+        ],
+        [
+          0,
+          [
+            6
+          ],
+          1,
+          "broaden your acquisition channels"
+        ]
+      ]
+    ],
+    [
+      1,
+      "h3",
+      [
+        [
+          0,
+          [],
+          0,
+          "Publishers who saw no significant impact"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Congratulations! You are "
+        ],
+        [
+          0,
+          [
+            6
+          ],
+          1,
+          "Facebook-independent"
+        ],
+        [
+          0,
+          [],
+          0,
+          "."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "You’re in the easiest position. Your relationship with Facebook platforms isn’t critical to your business model, and so you don’t need to do anything urgently. That doesn’t mean that there’s no room to explore Facebook channels as part of an acquisition strategy, but make sure it "
+        ],
+        [
+          0,
+          [
+            5
+          ],
+          1,
+          "is"
+        ],
+        [
+          0,
+          [],
+          0,
+          " an acquisition strategy. Does it bring people to your site, and allows you to capture a set of them to more direct relationships, via apps, newsletters, or podcasts?"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "🏆 Your solution: "
+        ],
+        [
+          0,
+          [
+            6
+          ],
+          1,
+          "look for ways of harvesting attention from Facebook"
+        ]
+      ]
+    ],
+    [
+      1,
+      "h3",
+      [
+        [
+          0,
+          [],
+          0,
+          "Publishers who were platform native"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Terrible news. You only exist at "
+        ],
+        [
+          0,
+          [
+            6
+          ],
+          1,
+          "Facebook’s whim"
+        ],
+        [
+          0,
+          [],
+          0,
+          ". You are in the equivalent position as a YouTuber who has no source of income outside YouTube views: demonetisation or suspension of your account can kill your income."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "I suspect that scarcely any people who read this will be in that position. This is where many influencers are, though, and we did have a spate of “instagram-only” news sites some years back. They look like a terrible idea right now…"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "YouTubers have known this for years — you need to built relationships with people which aren’t platform-dependent. Get your website sorted. Capture email addresses for newsletters. Anything you can do to evolve your relationship beyond a single platform must be yours priority."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "😱 Your solution? "
+        ],
+        [
+          0,
+          [
+            6
+          ],
+          1,
+          "Diversification"
+        ],
+        [
+          0,
+          [],
+          0,
+          "."
+        ]
+      ]
+    ],
+    [
+      10,
+      2
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [
+            5
+          ],
+          0,
+          "If you found this useful, you’ll find a whole lot more relevant advice on my forthcoming audience engagement strategies course. "
+        ],
+        [
+          0,
+          [
+            7
+          ],
+          1,
+          "Book now"
+        ],
+        [
+          0,
+          [],
+          1,
+          "!"
+        ]
+      ]
+    ]
+  ],
+  "ghostVersion": "4.0"
+}

@@ -1,0 +1,578 @@
+{
+  "version": "0.3.1",
+  "atoms": [],
+  "cards": [
+    [
+      "embed",
+      {
+        "url": "https://www.youtube.com/watch?v=IhH3a61kkTM&t=6s",
+        "html": "<iframe width=\"200\" height=\"113\" src=\"https://www.youtube.com/embed/IhH3a61kkTM?start=6&feature=oembed\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+        "type": "video",
+        "metadata": {
+          "title": "Welcome To THE LEVER",
+          "author_name": "The Lever",
+          "author_url": "https://www.youtube.com/channel/UC3bHsedO3Es_56I5E8r4XFA",
+          "height": 113,
+          "width": 200,
+          "version": "1.0",
+          "provider_name": "YouTube",
+          "provider_url": "https://www.youtube.com/",
+          "thumbnail_height": 360,
+          "thumbnail_width": 480,
+          "thumbnail_url": "https://i.ytimg.com/vi/IhH3a61kkTM/hqdefault.jpg"
+        }
+      }
+    ],
+    [
+      "button",
+      {
+        "alignment": "center",
+        "buttonText": "ACCESS THE LIVE CHAT",
+        "buttonUrl": "__GHOST_URL__/live-chat-our-new-monthly-happy-hour-2/"
+      }
+    ],
+    [
+      "email-cta",
+      {
+        "showButton": false,
+        "showDividers": false,
+        "segment": "status:-free",
+        "alignment": "left",
+        "html": "<p>This new website is part of our larger expansion — and it is only happening because thousands of you have become paying subscribers. In the coming weeks, <em>The Lever</em> will be announcing new hires and columnists — <strong>and the launch of several special new features exclusively for paying subscribers like you.</strong></p>"
+      }
+    ],
+    [
+      "email-cta",
+      {
+        "showButton": true,
+        "showDividers": false,
+        "segment": "status:-free",
+        "alignment": "center",
+        "html": "",
+        "buttonText": "Click Here To Comment",
+        "buttonUrl": "https://www.dailyposter.com/introducing-the-lever/#comments"
+      }
+    ]
+  ],
+  "markups": [
+    [
+      "em"
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "mailto:editor@levernews.com"
+      ]
+    ],
+    [
+      "strong"
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://levernews.com/account/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "mailto:support@levernews.com"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.youtube.com/channel/UC3bHsedO3Es_56I5E8r4XFA"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/live-chat-our-new-monthly-happy-hour-2/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.outpost.pub/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://bironthemes.com/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://morematter.com/"
+      ]
+    ]
+  ],
+  "sections": [
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Friends:"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "The big day is finally here — we have officially changed our name from "
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "The Daily Poster "
+        ],
+        [
+          0,
+          [],
+          0,
+          "to "
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "The Lever"
+        ],
+        [
+          0,
+          [],
+          0,
+          ", and we have launched our brand-new expanded website at "
+        ],
+        [
+          0,
+          [
+            1
+          ],
+          1,
+          "LeverNews.com"
+        ],
+        [
+          0,
+          [],
+          0,
+          ". Go check it out (and please mark this email from "
+        ],
+        [
+          0,
+          [
+            2
+          ],
+          1,
+          "editor@levernews.com"
+        ],
+        [
+          0,
+          [],
+          0,
+          " as “not spam” in your email system)."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [
+            3
+          ],
+          1,
+          "REMINDER: You don’t have to do anything or take any action — nothing changes about your subscriber status. You will still get our daily reporting in your inbox (albeit under a new name), and as a supporting subscriber, you will still have all the same exclusive privileges. You can access your subscriber account "
+        ],
+        [
+          0,
+          [
+            4,
+            3
+          ],
+          2,
+          "here"
+        ],
+        [
+          0,
+          [
+            3
+          ],
+          1,
+          ", and if you have any questions, please send them to "
+        ],
+        [
+          0,
+          [
+            5,
+            3
+          ],
+          2,
+          "support@levernews.com"
+        ],
+        [
+          0,
+          [
+            3
+          ],
+          1,
+          "."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Watch our new video about our expansion (and subscribe to "
+        ],
+        [
+          0,
+          [
+            6
+          ],
+          1,
+          "our new YouTube channel"
+        ],
+        [
+          0,
+          [],
+          0,
+          " while you’re at it):"
+        ]
+      ]
+    ],
+    [
+      10,
+      0
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Also, please share the video on social media!"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "As part of our expansion, we are launching a new monthly virtual happy hour exclusively for our supporting subscribers. You will get to converse with and interrogate our staff —"
+        ],
+        [
+          0,
+          [
+            3
+          ],
+          1,
+          " "
+        ],
+        [
+          0,
+          [],
+          0,
+          "and yell at me."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Our first happy hour will be "
+        ],
+        [
+          0,
+          [
+            3,
+            7
+          ],
+          2,
+          "this Thursday 3/24 at 7 pm ET (4 pm PT)"
+        ],
+        [
+          0,
+          [],
+          0,
+          ". You’ll chat with "
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "The Lever"
+        ],
+        [
+          0,
+          [],
+          0,
+          "’s reporters and editors about our expansion, we’ll get your input on our future coverage, and I’ll give you my fish-out-of-water take on what it’s like to be in Los Angeles right now in the lead-up to this weekend’s Academy Awards."
+        ]
+      ]
+    ],
+    [
+      10,
+      1
+    ],
+    [
+      10,
+      2
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "The Lever’s"
+        ],
+        [
+          0,
+          [],
+          0,
+          " mission is straightforward:"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "We believe a functioning democracy requires a vibrant independent media and aggressive reporting, rather than corporate media promoting propaganda."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "We believe fearless subscriber-supported journalism can create leverage that forces politicians and corporations to fulfill their promises."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "To paraphrase Archimedes: We believe that with a strong enough lever, we can help move the world."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Thank you for being part of the team that is making this expansion possible. We absolutely could not do this without you. Together, we are building a new kind of media outlet — one that is supported by readers and focused on holding the powerful accountable."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Stay tuned for more news on this expansion in the coming weeks!"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Rock the boat,"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "David Sirota"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Editor In Chief"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "The Lever"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "P.S. Special thanks to Ryan Singel at "
+        ],
+        [
+          0,
+          [
+            8
+          ],
+          1,
+          "Outpost"
+        ],
+        [
+          0,
+          [],
+          0,
+          " and Norbert Hunyadi at "
+        ],
+        [
+          0,
+          [
+            9
+          ],
+          1,
+          "Biron Themes"
+        ],
+        [
+          0,
+          [],
+          0,
+          " for building the site, as well as Rick Griffith at "
+        ],
+        [
+          0,
+          [
+            10
+          ],
+          1,
+          "MATTER Design Studio"
+        ],
+        [
+          0,
+          [],
+          0,
+          " studio for designing the concepts for our new name, logo, and website. (And if you notice any glitches on the website, please let us know at "
+        ],
+        [
+          0,
+          [
+            5
+          ],
+          1,
+          "support@levernews.com"
+        ],
+        [
+          0,
+          [],
+          0,
+          ".)"
+        ]
+      ]
+    ],
+    [
+      10,
+      3
+    ]
+  ],
+  "ghostVersion": "4.0"
+}

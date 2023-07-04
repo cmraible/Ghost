@@ -1,0 +1,359 @@
+{
+  "version": "0.3.1",
+  "atoms": [],
+  "cards": [
+    [
+      "hr",
+      {}
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "html",
+      {
+        "html": "<table id=\"production-numbers-table\">\n    <tbody>\n      <tr><td>2-DR Fastback Coupe</td><td>10,594</td></tr>\n      <tr><td>2-DR Convertible</td><td>10,919</td></tr>\n      <td><b>Total Production</b></td><td><b>21,513</b></td></tr>\n</tbody>\n</table>"
+      }
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "html",
+      {
+        "html": "<table id=\"performance-specs-table\">\n<tbody>\n\t<tr>\n\t\t<th><b>Engine</b></th>\n\t\t<th><b>Size</b></td>\n\t\t<th><b>Carb.</b></td>\n\t\t<th><b>HP</b></td>\n\t\t<th><b>Torque</b></td>\n\t</tr>\n\t<tr>\n\t\t<td>Slant Six</td>\n\t\t<td>225 ci</td>\n\t\t<td>1x1 bbl</td>\n\t\t<td>145 hp</td>\n\t\t<td>215 lb-ft</td>\n\t</tr>\n<tr>\n\t\t<td>Base V8</td>\n\t\t<td>318 ci</td>\n\t\t<td>1x2 bbl</td>\n\t\t<td>230 hp</td>\n\t\t<td>320 lb-ft</td>\n\t</tr>\n<tr>\n\t\t<td>340 Six Pack</td>\n\t\t<td>340 ci</td>\n\t\t<td>3x2 bbl</td>\n\t\t<td>290 hp</td>\n\t\t<td>345 lb-ft</td>\n\t</tr>\n<tr>\n\t\t<td>340 V8</td>\n\t\t<td>340 ci</td>\n\t\t<td>1x4bbl</td>\n\t\t<td>275 hp</td>\n\t\t<td>340 lb-ft</td>\n\t</tr>\n<tr>\n\t\t<td>383 V8</td>\n\t\t<td>383 ci</td>\n\t\t<td>1x4bbl</td>\n\t\t<td>330 hp</td>\n\t\t<td>435 lb-ft</td>\n\t</tr>\n<tr>\n\t\t<td>383 V8</td>\n\t\t<td>383 ci</td>\n\t\t<td>1x2bbl</td>\n\t\t<td>290 hp</td>\n\t\t<td>390 lb-ft</td>\n\t</tr>\n<tr>\n\t\t<td>426 Hemi</td>\n\t\t<td>426 ci</td>\n\t\t<td>2x4 bbl</td>\n\t\t<td>425 hp</td>\n\t\t<td>490 lb-ft</td>\n\t</tr>\n<tr>\n\t\t<td>440 Six Pack</td>\n\t\t<td>440 ci</td>\n\t\t<td>3x2 bbl</td>\n\t\t<td>390 hp</td>\n\t\t<td>490 lb-ft</td>\n\t</tr>\n<tr>\n\t\t<td>440 V8</td>\n\t\t<td>440 ci</td>\n\t\t<td>1x4 bbl</td>\n\t\t<td>375 hp</td>\n\t\t<td>480 lb-ft</td>\n\t</tr>\n</tbody>\n</table>"
+      }
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "html",
+      {
+        "html": "<h4 id='colors-sub-heading'>Exterior</h4>\n<div class=\"colors-row\">\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #558cd0\"></div>\n        <div class=\"color-name\">Blue Fire Metallic</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #a52d24\"></div>\n        <div class=\"color-name\">Deep Burnt Orange Metallic</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #a41021\"></div>\n        <div class=\"color-name\">Rallye Red</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #01001f\"></div>\n        <div class=\"color-name\">Black Velvet</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #93b9dd\"></div>\n        <div class=\"color-name\">Ice Blue Metallic</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #38391e\"></div>\n        <div class=\"color-name\">Ivy Green Metallic</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #e3ddd3\"></div>\n        <div class=\"color-name\">Alpine White</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #5a2572\"></div>\n        <div class=\"color-name\">In Violet (Metallic)</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #7db601\"></div>\n        <div class=\"color-name\">Limelight</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #939517\"></div>\n        <div class=\"color-name\">Lime Green Metallic</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #bdba8a\"></div>\n        <div class=\"color-name\">Sandpebble Beige</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #8b6c34\"></div>\n        <div class=\"color-name\">Burnt Tan Metallic</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #d5ba63\"></div>\n        <div class=\"color-name\">Citron Mist Metallic</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #1d4072\"></div>\n        <div class=\"color-name\">Jamaica Blue Metallic</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #b2b15d\"></div>\n        <div class=\"color-name\">Yellow Gold</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #e31a2b\"></div>\n        <div class=\"color-name\">TorRed</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #edbb05\"></div>\n        <div class=\"color-name\">Lemon Twist</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #e93525\"></div>\n        <div class=\"color-name\">Vitamin C</div>\n    </div>\n</div>\n"
+      }
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "gallery",
+      {
+        "images": [
+          {
+            "fileName": "881_1970_Plymouth_Barracuda-01_low_res.jpeg",
+            "row": 0,
+            "width": 790,
+            "height": 847,
+            "src": "__GHOST_URL__/content/images/2020/06/881_1970_Plymouth_Barracuda-01_low_res.jpeg"
+          },
+          {
+            "fileName": "882_1970_Plymouth_Barracuda-02_low_res1.jpeg",
+            "row": 0,
+            "width": 790,
+            "height": 842,
+            "src": "__GHOST_URL__/content/images/2020/06/882_1970_Plymouth_Barracuda-02_low_res1.jpeg"
+          },
+          {
+            "fileName": "883_1970_Plymouth_Barracuda-03_low_res2.jpeg",
+            "row": 0,
+            "width": 790,
+            "height": 852,
+            "src": "__GHOST_URL__/content/images/2020/06/883_1970_Plymouth_Barracuda-03_low_res2.jpeg"
+          },
+          {
+            "fileName": "884_1970_Plymouth_Barracuda-04_low_res3.jpeg",
+            "row": 1,
+            "width": 790,
+            "height": 850,
+            "src": "__GHOST_URL__/content/images/2020/06/884_1970_Plymouth_Barracuda-04_low_res3.jpeg"
+          },
+          {
+            "fileName": "885_1970_Plymouth_Barracuda-05_low_res4.jpeg",
+            "row": 1,
+            "width": 790,
+            "height": 855,
+            "src": "__GHOST_URL__/content/images/2020/06/885_1970_Plymouth_Barracuda-05_low_res4.jpeg"
+          },
+          {
+            "fileName": "886_1970_Plymouth_Barracuda-06_low_res5.jpeg",
+            "row": 1,
+            "width": 790,
+            "height": 831,
+            "src": "__GHOST_URL__/content/images/2020/06/886_1970_Plymouth_Barracuda-06_low_res5.jpeg"
+          },
+          {
+            "fileName": "887_1970_Plymouth_Barracuda-07_low_res6.jpeg",
+            "row": 2,
+            "width": 790,
+            "height": 847,
+            "src": "__GHOST_URL__/content/images/2020/06/887_1970_Plymouth_Barracuda-07_low_res6.jpeg"
+          }
+        ]
+      }
+    ],
+    [
+      "gallery",
+      {
+        "images": [
+          {
+            "fileName": "888_1970_Plymouth_Barracuda-08_low_res6.jpeg",
+            "row": 0,
+            "width": 790,
+            "height": 840,
+            "src": "__GHOST_URL__/content/images/2020/06/888_1970_Plymouth_Barracuda-08_low_res6.jpeg"
+          },
+          {
+            "fileName": "889_1970_Plymouth_Barracuda-09_low_res7.jpeg",
+            "row": 0,
+            "width": 790,
+            "height": 844,
+            "src": "__GHOST_URL__/content/images/2020/06/889_1970_Plymouth_Barracuda-09_low_res7.jpeg"
+          },
+          {
+            "fileName": "890_1970_Plymouth_Barracuda-10_low_res8.jpeg",
+            "row": 0,
+            "width": 790,
+            "height": 843,
+            "src": "__GHOST_URL__/content/images/2020/06/890_1970_Plymouth_Barracuda-10_low_res8.jpeg"
+          },
+          {
+            "fileName": "891_1970_Plymouth_Barracuda-11_low_res9.jpeg",
+            "row": 1,
+            "width": 790,
+            "height": 862,
+            "src": "__GHOST_URL__/content/images/2020/06/891_1970_Plymouth_Barracuda-11_low_res9.jpeg"
+          },
+          {
+            "fileName": "892_1970_Plymouth_Barracuda-12_low_res10.jpeg",
+            "row": 1,
+            "width": 790,
+            "height": 859,
+            "src": "__GHOST_URL__/content/images/2020/06/892_1970_Plymouth_Barracuda-12_low_res10.jpeg"
+          }
+        ]
+      }
+    ]
+  ],
+  "markups": [
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/articles/handpicked/1970-plymouth-superbird-2/"
+      ]
+    ]
+  ],
+  "sections": [
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Overview"
+        ]
+      ]
+    ],
+    [
+      10,
+      0
+    ],
+    [
+      1,
+      "h3",
+      [
+        [
+          0,
+          [],
+          0,
+          "In the fall of 1969, the similar "
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "1970 Plymouth"
+        ],
+        [
+          0,
+          [],
+          0,
+          " Barracuda and Dodge Challenger were introduced; the Dodge was three inches longer in wheelbase than the Plymouth. "
+        ]
+      ]
+    ],
+    [
+      10,
+      1
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "The cars, despite being built on the same E-body platform, shared not one exterior panel! The E-bodies had a huge range of power plants - from the slant six engine to the 426 Street Hemi, with just about every other engine in between, and a choice of four-speed sticks and tough three-speed TorqueFlite automatics."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "The E-body Plymouth Barracuda was created by merging A and B body components to fashion a sporty, attractive car that could handle any engine Chrysler had. The new Barracuda was nearly the opposite of the original, capable of fitting a 440 or 426 Hemi, but not providing the same sports-car cornering as the older models."
+        ]
+      ]
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Production Numbers"
+        ]
+      ]
+    ],
+    [
+      10,
+      2
+    ],
+    [
+      10,
+      3
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Performance Specs"
+        ]
+      ]
+    ],
+    [
+      10,
+      4
+    ],
+    [
+      10,
+      5
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Transmission"
+        ]
+      ]
+    ],
+    [
+      10,
+      6
+    ],
+    [
+      3,
+      "ul",
+      [
+        [
+          [
+            0,
+            [],
+            0,
+            "TorqueFlite Auto"
+          ]
+        ],
+        [
+          [
+            0,
+            [],
+            0,
+            "4-Speed Manual"
+          ]
+        ]
+      ]
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Paint & Colors"
+        ]
+      ]
+    ],
+    [
+      10,
+      7
+    ],
+    [
+      10,
+      8
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "OEM Brochures"
+        ]
+      ]
+    ],
+    [
+      10,
+      9
+    ],
+    [
+      10,
+      10
+    ],
+    [
+      10,
+      11
+    ],
+    [
+      1,
+      "p",
+      []
+    ]
+  ],
+  "ghostVersion": "3.0"
+}

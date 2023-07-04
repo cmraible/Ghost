@@ -1,0 +1,458 @@
+{
+  "version": "0.3.1",
+  "atoms": [],
+  "cards": [
+    [
+      "hr",
+      {}
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "html",
+      {
+        "html": "<table id=\"production-numbers-table\">\n<tbody>\n\t<tr>\n\t\t<td>Sport Coupe</td>\n\t\t<td>88,243</td>\n\t</tr>\n    \t<tr>\n\t\t<td>Z/28</td>\n\t\t<td>13,802</td>\n\t</tr>\n    \t<tr>\n\t\t<td>LT</td>\n\t\t<td>48,963</td>\n    </tr>\n\t\t<td><b>Total Production</b></td>\n\t\t<td><b>151,008</b></td>\n\t</tr>\n</tbody>\n</table>"
+      }
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "html",
+      {
+        "html": "<table id=\"performance-specs-table\">\n<tbody>\n\t<tr>\n\t\t<th><b>Engine</b></th>\n\t\t<th><b>Size</b></td>\n\t\t<th><b>Carb.</b></td>\n\t\t<th><b>HP</b></td>\n\t\t<th><b>Torque</b></td>\n\t\t<th><b>0 to 60</b></td>\n\t\t<th><b>Quarter mile</b></td>\n\t</tr>\n\t<tr>\n\t\t<td>L22 I-6</td>\n\t\t<td>250ci</td>\n\t\t<td>1x1bbl</td>\n\t\t<td>100</td>\n\t\t<td>175 lb-ft</td>\n\t\t<td>-</td>\n\t\t<td>-</td>\n\t</tr>\n\t<tr>\n\t\t<td>Z28</td>\n\t\t<td>350ci</td>\n\t\t<td>1x4bbl</td>\n\t\t<td>245</td>\n\t\t<td>280 lb-ft</td>\n\t\t<td>9.7 sec</td>\n\t\t<td>15.2 sec at 94.6 mph</td>\n\t</tr>\n\t<tr>\n\t\t<td>LM1</td>\n\t\t<td>350ci</td>\n\t\t<td>1x4bbl</td>\n\t\t<td>160</td>\n\t\t<td>250 lb-ft</td>\n\t\t<td>-</td>\n\t\t<td>-</td>\n\t</tr>\n\t<tr>\n\t\t<td>L48</td>\n\t\t<td>350ci</td>\n\t\t<td>1x4bbl</td>\n\t\t<td>185</td>\n\t\t<td>270 lb-ft</td>\n\t\t<td>-</td>\n\t\t<td>-</td>\n\t</tr>\n\t<tr>\n\t\t<td>L65</td>\n\t\t<td>350ci</td>\n\t\t<td>1x2bbl</td>\n\t\t<td>145</td>\n\t\t<td>250 lb-ft</td>\n\t\t<td>-</td>\n\t\t<td>-</td>\n\t</tr>\n</tbody>\n</table>"
+      }
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "html",
+      {
+        "html": "<h4 id='colors-sub-heading'>Exterior</h4>\n\t<div class=\"colors-row\">\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #dcc795\"></div>\n        <div class=\"color-name\">Cream Beige</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #294681\"></div>\n        <div class=\"color-name\">Bright Blue Metallic</div>\n\t</div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #283340\"></div>\n        <div class=\"color-name\">Midnight Blue Metallic</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #2f4b69\"></div>\n        <div class=\"color-name\">Aqua Blue Metallic</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #a99966\"></div>\n        <div class=\"color-name\">Sandstone</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #612f1f\"></div>\n        <div class=\"color-name\">Bronze Metallic</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #684731\"></div>\n        <div class=\"color-name\">Golden Brown Metallic</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #c7e507\"></div>\n        <div class=\"color-name\">Lime Yellow</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #f6e169\"></div>\n        <div class=\"color-name\">Bright Yellow</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #885f37\"></div>\n        <div class=\"color-name\">Light Gold Metallic</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #8c3031\"></div>\n        <div class=\"color-name\">Medium Red</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #849c57\"></div>\n        <div class=\"color-name\">Bright Green Metallic</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #404d3f\"></div>\n        <div class=\"color-name\">Medium Dark Green Metallic</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #bd2924\"></div>\n        <div class=\"color-name\">Medium Red Metallic</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #818577\"></div>\n        <div class=\"color-name\">Silver Metallic</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #ece4d3\"></div>\n        <div class=\"color-name\">Antique White</div>\n    </div>\n</div>\n\n<h4 id='colors-sub-heading'>Interior</h4>\n<div class=\"colors-row\">\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #150d1a\"></div>\n        <div class=\"color-name\">Black</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #d7cfd8\"></div>\n        <div class=\"color-name\">White</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #b04253\"></div>\n        <div class=\"color-name\">Red</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #d5c7cc\"></div>\n        <div class=\"color-name\">Neutral</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #a09b89\"></div>\n        <div class=\"color-name\">Green</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #c08976\"></div>\n        <div class=\"color-name\">Saddle</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #7b6057\"></div>\n        <div class=\"color-name\">Taupe</div>\n    </div>\n</div>\n"
+      }
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "gallery",
+      {
+        "images": [
+          {
+            "fileName": "93_1974camaro_02_low_res.jpeg",
+            "row": 0,
+            "width": 790,
+            "height": 513,
+            "src": "__GHOST_URL__/content/images/2020/07/93_1974camaro_02_low_res.jpeg"
+          },
+          {
+            "fileName": "94_1974camaro_03_low_res.jpeg",
+            "row": 0,
+            "width": 790,
+            "height": 514,
+            "src": "__GHOST_URL__/content/images/2020/07/94_1974camaro_03_low_res.jpeg"
+          },
+          {
+            "fileName": "95_1974camaro_04_low_res.jpeg",
+            "row": 0,
+            "width": 790,
+            "height": 512,
+            "src": "__GHOST_URL__/content/images/2020/07/95_1974camaro_04_low_res.jpeg"
+          },
+          {
+            "fileName": "96_1974camaro_05_low_res.jpeg",
+            "row": 1,
+            "width": 790,
+            "height": 514,
+            "src": "__GHOST_URL__/content/images/2020/07/96_1974camaro_05_low_res.jpeg"
+          },
+          {
+            "fileName": "97_1974camaro_06_low_res.jpeg",
+            "row": 1,
+            "width": 771,
+            "height": 1000,
+            "src": "__GHOST_URL__/content/images/2020/07/97_1974camaro_06_low_res.jpeg"
+          },
+          {
+            "fileName": "98_1974camaro_07_low_res.jpeg",
+            "row": 1,
+            "width": 767,
+            "height": 1000,
+            "src": "__GHOST_URL__/content/images/2020/07/98_1974camaro_07_low_res.jpeg"
+          },
+          {
+            "fileName": "99_1974camaro_08_low_res.jpeg",
+            "row": 2,
+            "width": 773,
+            "height": 1000,
+            "src": "__GHOST_URL__/content/images/2020/07/99_1974camaro_08_low_res.jpeg"
+          },
+          {
+            "fileName": "92_1974camaro_01_low_res.jpeg",
+            "row": 2,
+            "width": 770,
+            "height": 1000,
+            "src": "__GHOST_URL__/content/images/2020/07/92_1974camaro_01_low_res.jpeg"
+          }
+        ],
+        "caption": "1974 Chevrolet Camaro OEM Brochures"
+      }
+    ],
+    [
+      "hr",
+      {}
+    ]
+  ],
+  "markups": [
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/articles/news/camaro-runs-flower-shop/"
+      ]
+    ],
+    [
+      "strong"
+    ],
+    [
+      "em"
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/tag/research/"
+      ]
+    ]
+  ],
+  "sections": [
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Overview"
+        ]
+      ]
+    ],
+    [
+      10,
+      0
+    ],
+    [
+      1,
+      "h3",
+      [
+        [
+          0,
+          [],
+          0,
+          "The Camaro was redesigned again in 1974 and featured a newly redesigned bumper with a body colored fascia above the front bumper. The grille was now shovel-shaped and the rear taillights wrapped into the fenders."
+        ]
+      ]
+    ],
+    [
+      10,
+      1
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "The "
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "Camaro"
+        ],
+        [
+          0,
+          [],
+          0,
+          " was redesigned again in 1974 and featured a newly redesigned bumper with a body colored fascia above the front bumper. The grille was now shovel-shaped and the rear taillights wrapped into the fenders."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "The RS model was discontinued at the end of the model year, and the 1974 was the only Camaro with the seatbelt interlock system required by federal law. This annoying feature required all seatbelts to be engaged before the car would start. Obviously, this feature was short-lived, and only existed in 1974."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "1974 would be the last Z/28 for a couple years and sported a large “Z28” hood decals. It also featured revised suspension, a black painted grille, and dual sport mirrors."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "The Type LT (Luxury Touring) continued to sell well and added wood grain, additional insulation and restyled seats."
+        ]
+      ]
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Production Numbers"
+        ]
+      ]
+    ],
+    [
+      10,
+      2
+    ],
+    [
+      10,
+      3
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Performance Specs"
+        ]
+      ]
+    ],
+    [
+      10,
+      4
+    ],
+    [
+      10,
+      5
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Transmission"
+        ]
+      ]
+    ],
+    [
+      10,
+      6
+    ],
+    [
+      3,
+      "ul",
+      [
+        [
+          [
+            0,
+            [
+              1,
+              1
+            ],
+            2,
+            "3-Speed Manual"
+          ]
+        ],
+        [
+          [
+            0,
+            [
+              1,
+              1
+            ],
+            2,
+            "4-Speed Manual"
+          ]
+        ],
+        [
+          [
+            0,
+            [
+              1,
+              1
+            ],
+            2,
+            "Turbo Hydra-Matic"
+          ]
+        ]
+      ]
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Paint & Colors"
+        ]
+      ]
+    ],
+    [
+      10,
+      7
+    ],
+    [
+      10,
+      8
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "OEM Brochures"
+        ]
+      ]
+    ],
+    [
+      10,
+      9
+    ],
+    [
+      10,
+      10
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "About the Knowledge Base"
+        ]
+      ]
+    ],
+    [
+      10,
+      11
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "The Motorious Knowledge Base provides a comprehensive vehicle overview for the 1974 Chevrolet Camaro"
+        ],
+        [
+          0,
+          [
+            2,
+            2
+          ],
+          2,
+          " "
+        ],
+        [
+          0,
+          [],
+          0,
+          "including production numbers, performance specs, factory colors, and OEM brochures. Check out additional model years or related content linked to this article or view other Makes and Models in our "
+        ],
+        [
+          0,
+          [
+            3
+          ],
+          1,
+          "Research"
+        ],
+        [
+          0,
+          [],
+          0,
+          " center."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "If you have any interesting facts about the 1974 Chevrolet Camaro"
+        ],
+        [
+          0,
+          [
+            2,
+            2
+          ],
+          2,
+          " "
+        ],
+        [
+          0,
+          [],
+          0,
+          "to add, want to tell us how we did covering the Camaro, or want to tell us about yours, please leave a comment below."
+        ]
+      ]
+    ]
+  ],
+  "ghostVersion": "3.0"
+}

@@ -1,0 +1,501 @@
+{
+  "version": "0.3.1",
+  "atoms": [
+    [
+      "soft-return",
+      "",
+      {}
+    ]
+  ],
+  "cards": [
+    [
+      "hr",
+      {}
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "html",
+      {
+        "html": "<table id=\"production-numbers-table\">\n<tbody>\n\t<tr>\n\t\t<td>2-DR Hardtop 6-CYL</td>\n\t\t<td>5,668</td>\n\t</tr>\n    \t<tr>\n\t\t<td>2-DR Hardtop 8-CYL</td>\n\t\t<td>17,819</td>\n\t</tr>\n    \t<tr>\n\t\t<td>2-DR Hardtop Gran Coupe 6-CYL</td>\n\t\t<td>210</td>\n\t</tr>\n    \t<tr>\n\t\t<td>2-DR Hardtop Gran Coupe 8-CYL</td>\n\t\t<td>7,184</td>\n\t</tr>\n    \t<tr>\n\t\t<td>2-DR Hardtop 'Cuda</td>\n\t\t<td>17,242</td>\n\t</tr>\n    \t<tr>\n\t\t<td>2-DR Convertible 6-CYL</td>\n\t\t<td>223</td>\n\t</tr>\n    \t<tr>\n\t\t<td>2-DR Convertible 8-CYL</td>\n\t\t<td>1,169</td>\n\t</tr>\n    \t<tr>\n\t\t<td>2-DR Convertible Gran Coupe 6-CYL</td>\n\t\t<td>34</td>\n\t</tr>\n    \t<tr>\n\t\t<td>2-DR Convertible Gran Coupe 8-CYL</td>\n\t\t<td>518</td>\n\t</tr>\n    \t<tr>\n\t\t<td>2-DR Convertible 'Cuda</td>\n\t\t<td>550</td>\n\t</tr>\n\t\t<td><b>Total Production</b></td>\n\t\t<td><b>33,392</b></td>\n\t</tr>\n</tbody>\n</table>"
+      }
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "html",
+      {
+        "html": "<table id=\"performance-specs-table\">\n<tbody>\n\t<tr>\n\t\t<th><b>Engine</b></th>\n\t\t<th><b>Size</b></td>\n\t\t<th><b>Carb.</b></td>\n\t\t<th><b>HP</b></td>\n\t\t<th><b>Torque</b></td>\n\t\t<th><b>0 to 60</b></td>\n\t\t<th><b>Quarter mile</b></td>\n\t</tr>\n\t<tr>\n\t\t<td>Slant Six</td>\n\t\t<td>225ci</td>\n\t\t<td>1x1bbl</td>\n\t\t<td>145 at 4000</td>\n\t\t<td>215 lb-ft at 2400</td>\n\t\t<td>-</td>\n\t\t<td>-</td>\n\t</tr>\n\t<tr>\n\t\t<td>Base V8</td>\n\t\t<td>318ci</td>\n\t\t<td>1x2bbl</td>\n\t\t<td>230 at 4400</td>\n\t\t<td>320 lb-ft at 2000</td>\n\t\t<td>-</td>\n\t\t<td>-</td>\n\t</tr>\n\t<tr>\n\t\t<td>Six Pack</td>\n\t\t<td>340ci</td>\n\t\t<td>3x2bbl</td>\n\t\t<td>290 at 5000</td>\n\t\t<td>345 lb-ft at 3400</td>\n\t\t<td>6.4 sec</td>\n\t\t<td>14.2 sec</td>\n\t</tr>\n\t<tr>\n\t\t<td>V8</td>\n\t\t<td>340ci</td>\n\t\t<td>1x4bbl</td>\n\t\t<td>275 at 5000</td>\n\t\t<td>340 lb-ft at 3200</td>\n\t\t<td>-</td>\n\t\t<td>-</td>\n\t</tr>\n\t<tr>\n\t\t<td>V8</td>\n\t\t<td>383ci</td>\n\t\t<td>1x4bbl</td>\n\t\t<td>330 at 5000</td>\n\t\t<td>435 lb-ft at 3200</td>\n\t\t<td>6.4 sec</td>\n\t\t<td>-</td>\n\t</tr>\n\t<tr>\n\t\t<td>V8</td>\n\t\t<td>383ci</td>\n\t\t<td>1x2bbl</td>\n\t\t<td>290 at 4400</td>\n\t\t<td>390 lb-ft at 2800</td>\n\t\t<td>-</td>\n\t\t<td>-</td>\n\t</tr>\n\t<tr>\n\t\t<td>HEMI</td>\n\t\t<td>426ci</td>\n\t\t<td>2x4bbl</td>\n\t\t<td>424 at 5000</td>\n\t\t<td>490 lb-ft at 3200</td>\n\t\t<td>6.0 sec</td>\n\t\t<td>13.0 sec</td>\n\t</tr>\n\t<tr>\n\t\t<td>Six Pack</td>\n\t\t<td>440ci</td>\n\t\t<td>3x2bbl</td>\n\t\t<td>390 at 4700</td>\n\t\t<td>490 lb-ft at 3200</td>\n\t\t<td>6.2 sec</td>\n\t\t<td>13.7 sec</td>\n\t</tr>\n\t<tr>\n\t\t<td>V8</td>\n\t\t<td>440ci</td>\n\t\t<td>1x4bbl</td>\n\t\t<td>375 at 4600</td>\n\t\t<td>480 lb-ft at 3200</td>\n\t\t<td>-</td>\n\t\t<td>-</td>\n\t</tr>\n</tbody>\n</table>"
+      }
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "html",
+      {
+        "html": "<h4 id='colors-sub-heading'>Exterior</h4>\n<div class=\"colors-row\">\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #4f745d\"></div>\n        <div class=\"color-name\">Winchester Gray Metallic</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #3f81b0\"></div>\n        <div class=\"color-name\">Glacial Blue Metallic</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #1a3c74\"></div>\n        <div class=\"color-name\">True Blue Metallic</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #1a2553\"></div>\n        <div class=\"color-name\">Evening Blue Metallic</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #5b297e\"></div>\n        <div class=\"color-name\">In-Violet Metallic</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #c4130a\"></div>\n        <div class=\"color-name\">Rallye Red</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #688a34\"></div>\n        <div class=\"color-name\">Amber Sherwood Metallic</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #5c6401\"></div>\n        <div class=\"color-name\">Sherwood Green Metallic</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #5f9f1f\"></div>\n        <div class=\"color-name\">Sassy Grass Green</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #310800\"></div>\n        <div class=\"color-name\">Autumn Bronze Metallic</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #8f6401\"></div>\n        <div class=\"color-name\">Bahama Yellow</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #bf9624\"></div>\n        <div class=\"color-name\">Tunisian Tan Metallic</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #f31800\"></div>\n        <div class=\"color-name\">Tor-red</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #e7e4e3\"></div>\n        <div class=\"color-name\">Sno White</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #2f2c00\"></div>\n        <div class=\"color-name\">Formal Black</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #f4f400\"></div>\n        <div class=\"color-name\">Curious Yellow</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #bca600\"></div>\n        <div class=\"color-name\">Gold Leaf Metallic</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #635102\"></div>\n        <div class=\"color-name\">Tawny Gold Metallic</div>\n    </div>\n</div>\n\n<h4 id='colors-sub-heading'>Interior</h4>\n<div class=\"colors-row\">\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #647f90\"></div>\n        <div class=\"color-name\">Blue</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #524f28\"></div>\n        <div class=\"color-name\">Green</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #6f522f\"></div>\n        <div class=\"color-name\">Tan</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #311a0d\"></div>\n        <div class=\"color-name\">Black</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #bc261b\"></div>\n        <div class=\"color-name\">Orange</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #bc261b\"></div>\n        <div class=\"color-name\">White</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #c89f4d\"></div>\n        <div class=\"color-name\">Gold</div>\n    </div>\n</div>\n"
+      }
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "gallery",
+      {
+        "images": [
+          {
+            "fileName": "894_3_low_res.jpeg",
+            "row": 0,
+            "width": 790,
+            "height": 513,
+            "src": "__GHOST_URL__/content/images/2020/08/894_3_low_res.jpeg"
+          },
+          {
+            "fileName": "895_4_low_res.jpeg",
+            "row": 0,
+            "width": 790,
+            "height": 509,
+            "src": "__GHOST_URL__/content/images/2020/08/895_4_low_res.jpeg"
+          },
+          {
+            "fileName": "896_5_low_res.jpeg",
+            "row": 0,
+            "width": 790,
+            "height": 507,
+            "src": "__GHOST_URL__/content/images/2020/08/896_5_low_res.jpeg"
+          },
+          {
+            "fileName": "897_6_low_res (1).jpeg",
+            "row": 1,
+            "width": 790,
+            "height": 1008,
+            "src": "__GHOST_URL__/content/images/2020/08/897_6_low_res--1-.jpeg"
+          },
+          {
+            "fileName": "898_7_low_res.jpeg",
+            "row": 1,
+            "width": 782,
+            "height": 1024,
+            "src": "__GHOST_URL__/content/images/2020/08/898_7_low_res.jpeg"
+          },
+          {
+            "fileName": "899_8_low_res.jpeg",
+            "row": 1,
+            "width": 790,
+            "height": 1004,
+            "src": "__GHOST_URL__/content/images/2020/08/899_8_low_res.jpeg"
+          },
+          {
+            "fileName": "900_9_low_res.jpeg",
+            "row": 2,
+            "width": 779,
+            "height": 1024,
+            "src": "__GHOST_URL__/content/images/2020/08/900_9_low_res.jpeg"
+          },
+          {
+            "fileName": "901_10_low_res.jpeg",
+            "row": 2,
+            "width": 790,
+            "height": 1018,
+            "src": "__GHOST_URL__/content/images/2020/08/901_10_low_res.jpeg"
+          },
+          {
+            "fileName": "893_2_low_res.jpeg",
+            "row": 2,
+            "width": 790,
+            "height": 509,
+            "src": "__GHOST_URL__/content/images/2020/08/893_2_low_res.jpeg"
+          }
+        ],
+        "caption": "1971 Plymouth Barracuda OEM Brochures"
+      }
+    ],
+    [
+      "gallery",
+      {
+        "images": [
+          {
+            "fileName": "902_20_low_res.jpeg",
+            "row": 0,
+            "width": 790,
+            "height": 1010,
+            "src": "__GHOST_URL__/content/images/2020/08/902_20_low_res.jpeg"
+          }
+        ],
+        "caption": "1971 Plymouth Barracuda OEM Brochures"
+      }
+    ],
+    [
+      "hr",
+      {}
+    ]
+  ],
+  "markups": [
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/articles/research/1968-plymouth-barracuda/"
+      ]
+    ],
+    [
+      "em"
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/tag/research/"
+      ]
+    ]
+  ],
+  "sections": [
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Overview"
+        ]
+      ]
+    ],
+    [
+      10,
+      0
+    ],
+    [
+      1,
+      "h3",
+      [
+        [
+          0,
+          [],
+          0,
+          "The ‘71 Plymouth Barracuda was very underrated car at the time. With a few changes coming to the ‘71 the new grille gave the appearance of the car having teeth like a Barracuda, and, for the first (and only) time the Barracuda had quad headlamps."
+        ]
+      ]
+    ],
+    [
+      10,
+      1
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "The ‘71 Plymouth "
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "Barracuda"
+        ],
+        [
+          0,
+          [],
+          0,
+          " was very underrated car at the time."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "With a few changes coming to the ‘71 the new grille gave the appearance of the car having teeth like a Barracuda, and, for the first (and only) time the Barracuda had quad headlamps. A 225 CID version of the “Slant” I-6 was available and there were two V8 displacements to choose from – a base 318-2, and a 2 or 4-Bbl 383."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "On the performance ‘Cuda model, chrome simulated inset fender louvers suggested gills. The standard engine was the 383-4, 440 with your choice of a 4-barrel Super Commando and a 6 barrel Super Commando optional. At the top was the 426 8-BBl Hemi – the last year it would be produced. The 440 and Hemi- equipped cars were upgraded when it came to suspension components and structural reinforcements to help with transferring all the torque to the road. Those looking for improved handling or insurance cost reductions could “opt down” for the smallblock 340-4 (which cost $44 more!)"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "The optional shaker hood scoop was now flat black to address glare issues."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "There was also a luxo model, the Gran Coupe. The AAR disappeared for 1971."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "1971 ended up being the last year for the Barracuda convertible; with just 1,385 convertible sales, one can see why. Overall, production was even more disappointing than in 1970, falling from 54,800 to 18,690."
+        ],
+        [
+          1,
+          [],
+          0,
+          0
+        ],
+        [
+          0,
+          [],
+          0,
+          "Then there was the beloved ‘Cuda that had the 383, 440 with a 4-barrel super commando and a 6 barrel super commando Six Pack, and 426 Hemi the 440 and Hemi- equipped cars were given a little upgrade when it came to suspension components and structural reinforcements to help with transferring all the power it produced to the road."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "1971 ended up being the last year for the Barracuda convertible; with just 1,385 convertible sales, one can see why. Production was even more disappointing than in 1970, falling from 54,800 to 18,690."
+        ]
+      ]
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Production Numbers"
+        ]
+      ]
+    ],
+    [
+      10,
+      2
+    ],
+    [
+      10,
+      3
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Performance Specs"
+        ]
+      ]
+    ],
+    [
+      10,
+      4
+    ],
+    [
+      10,
+      5
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Transmission"
+        ]
+      ]
+    ],
+    [
+      10,
+      6
+    ],
+    [
+      1,
+      "p",
+      []
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Paint & Colors"
+        ]
+      ]
+    ],
+    [
+      10,
+      7
+    ],
+    [
+      10,
+      8
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "OEM Brochures"
+        ]
+      ]
+    ],
+    [
+      10,
+      9
+    ],
+    [
+      10,
+      10
+    ],
+    [
+      10,
+      11
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "About the Knowledge Base"
+        ]
+      ]
+    ],
+    [
+      10,
+      12
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "The Motorious Knowledge Base provides a comprehensive vehicle overview for the 1971 Plymouth Barracuda"
+        ],
+        [
+          0,
+          [
+            1,
+            1
+          ],
+          2,
+          " "
+        ],
+        [
+          0,
+          [],
+          0,
+          "including production numbers, performance specs, factory colors, and OEM brochures. Check out additional model years or related content linked to this article or view other Makes and Models in our "
+        ],
+        [
+          0,
+          [
+            2
+          ],
+          1,
+          "Research"
+        ],
+        [
+          0,
+          [],
+          0,
+          " center."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "If you have any interesting facts about the 1971 Plymouth Barracuda"
+        ],
+        [
+          0,
+          [
+            1,
+            1
+          ],
+          2,
+          " "
+        ],
+        [
+          0,
+          [],
+          0,
+          "to add, want to tell us how we did covering the Barracuda, or want to tell us about yours, please leave a comment below."
+        ]
+      ]
+    ]
+  ],
+  "ghostVersion": "3.0"
+}

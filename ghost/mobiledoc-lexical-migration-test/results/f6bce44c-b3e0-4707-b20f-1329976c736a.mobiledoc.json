@@ -1,0 +1,449 @@
+{
+  "version": "0.3.1",
+  "atoms": [
+    [
+      "soft-return",
+      "",
+      {}
+    ]
+  ],
+  "cards": [
+    [
+      "hr",
+      {}
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "html",
+      {
+        "html": "<table id=\"production-numbers-table\">\n<tbody>\n\t<tr>\n\t\t<td>SS</td>\n\t\t<td>10,069</td>\n\t</tr>\n    <tr>\n\t\t<td>4-Dr. Wagon</td>\n\t\t<td>12,900</td>\n\t</tr>\n\t\t<td><b>Total Production</b></td>\n\t\t<td><b>22.969</b></td>\n\t</tr>\n</tbody>\n</table>"
+      }
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "html",
+      {
+        "html": "<table id=\"performance-specs-table\">\n<tbody>\n\t<tr>\n\t\t<th><b>Engine</b></th>\n\t\t<th><b>Size</b></td>\n\t\t<th><b>Carb.</b></td>\n\t\t<th><b>HP</b></td>\n\t\t<th><b>Torque</b></td>\n\t\t<th><b>0 to 60</b></td>\n\t\t<th><b>Quarter mile</b></td>\n\t</tr>\n\t<tr>\n\t\t<td>Hi-Thrift 194</td>\n\t\t<td>194ci</td>\n\t\t<td>1x1bbl</td>\n\t\t<td>120hp</td>\n\t\t<td>-</td>\n\t\t<td>-</td>\n\t\t<td>-</td>\n\t</tr>\n<tr>\n\t\t<td>Turbo-Thrift 230</td>\n\t\t<td>230ci</td>\n\t\t<td>-</td>\n\t\t<td>155hp</td>\n\t\t<td>-</td>\n\t\t<td>-</td>\n\t\t<td>-</td>\n\t</tr>\n<tr>\n\t\t<td>Turbo-Thrift 283</td>\n\t\t<td>283ci</td>\n\t\t<td></td>\n\t\t<td>195hp</td>\n\t\t<td>-</td>\n\t\t<td>-</td>\n\t\t<td>-</td>\n\t</tr>\n<tr>\n\t\t<td>Turbo-Fire 327</td>\n\t\t<td>327ci</td>\n\t\t<td>-</td>\n\t\t<td>275hp</td>\n\t\t<td>-</td>\n\t\t<td>6.6 sec</td>\n\t\t<td>15.3 sec</td>\n\t</tr>\n</tbody>\n</table>"
+      }
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "html",
+      {
+        "html": "<h4 id='colors-sub-heading'>Exterior</h4>\n<div class=\"colors-row\">\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #000000\"></div>\n        <div class=\"color-name\">Tuxedo Black</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #e1dcc9\"></div>\n        <div class=\"color-name\">Ermine White</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #57708f\"></div>\n        <div class=\"color-name\">Nantucket Blue</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #21263c\"></div>\n        <div class=\"color-name\">Deepwater Blue</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #8d785e\"></div>\n        <div class=\"color-name\">Granada Gold</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #7c8b7a\"></div>\n        <div class=\"color-name\">Mountain Green</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #648e9a\"></div>\n        <div class=\"color-name\">Emerald Turquoise</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #29715e\"></div>\n        <div class=\"color-name\">Tahoe Turquoise</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #3d2f35\"></div>\n        <div class=\"color-name\">Royal Plum</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #4a2429\"></div>\n        <div class=\"color-name\">Madeira Maroon</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #962523\"></div>\n        <div class=\"color-name\">Bolero Red</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #a79675\"></div>\n        <div class=\"color-name\">Sierra Fawn</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #eae0bc\"></div>\n        <div class=\"color-name\">Capri Cream</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #fdeda5\"></div>\n        <div class=\"color-name\">Butternut Yellow</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #3a5a7e\"></div>\n        <div class=\"color-name\">Marina Blue</div>\n    </div>\n</div>\n\n<h4 id='colors-sub-heading'>Interior</h4>\n<div class=\"colors-row\">\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #000000\"></div>\n        <div class=\"color-name\">Black</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #3a6265\"></div>\n        <div class=\"color-name\">Bright Blue</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #962523\"></div>\n        <div class=\"color-name\">Red</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #8d785e\"></div>\n        <div class=\"color-name\">Gold</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #675933\"></div>\n        <div class=\"color-name\">Fawn</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #21263c\"></div>\n        <div class=\"color-name\">Blue</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #2f1711\"></div>\n        <div class=\"color-name\">Maroon</div>\n    </div>\n</div>\n"
+      }
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "gallery",
+      {
+        "images": [
+          {
+            "fileName": "1541_1967_Chevrolet_Chevy_II-01_low_res.jpg",
+            "row": 0,
+            "width": 790,
+            "height": 1008,
+            "src": "__GHOST_URL__/content/images/2020/07/1541_1967_Chevrolet_Chevy_II-01_low_res.jpg"
+          },
+          {
+            "fileName": "1542_1967_Chevrolet_Chevy_II-02-03_low_res.jpg",
+            "row": 0,
+            "width": 790,
+            "height": 519,
+            "src": "__GHOST_URL__/content/images/2020/07/1542_1967_Chevrolet_Chevy_II-02-03_low_res.jpg"
+          },
+          {
+            "fileName": "1543_1967_Chevrolet_Chevy_II-04-05_low_res.jpg",
+            "row": 0,
+            "width": 790,
+            "height": 520,
+            "src": "__GHOST_URL__/content/images/2020/07/1543_1967_Chevrolet_Chevy_II-04-05_low_res.jpg"
+          },
+          {
+            "fileName": "1544_1967_Chevrolet_Chevy_II-06-07_low_res.jpg",
+            "row": 1,
+            "width": 790,
+            "height": 520,
+            "src": "__GHOST_URL__/content/images/2020/07/1544_1967_Chevrolet_Chevy_II-06-07_low_res.jpg"
+          },
+          {
+            "fileName": "1545_1967_Chevrolet_Chevy_II-08-09_low_res.jpg",
+            "row": 1,
+            "width": 790,
+            "height": 520,
+            "src": "__GHOST_URL__/content/images/2020/07/1545_1967_Chevrolet_Chevy_II-08-09_low_res.jpg"
+          },
+          {
+            "fileName": "1546_1967_Chevrolet_Chevy_II-10-11_low_res.jpg",
+            "row": 1,
+            "width": 790,
+            "height": 519,
+            "src": "__GHOST_URL__/content/images/2020/07/1546_1967_Chevrolet_Chevy_II-10-11_low_res.jpg"
+          },
+          {
+            "fileName": "1547_1967_Chevrolet_Chevy_II-12-13_low_res.jpg",
+            "row": 2,
+            "width": 790,
+            "height": 520,
+            "src": "__GHOST_URL__/content/images/2020/07/1547_1967_Chevrolet_Chevy_II-12-13_low_res.jpg"
+          },
+          {
+            "fileName": "1548_1967_Chevrolet_Chevy_II-14_low_res.jpg",
+            "row": 2,
+            "width": 790,
+            "height": 1018,
+            "src": "__GHOST_URL__/content/images/2020/07/1548_1967_Chevrolet_Chevy_II-14_low_res.jpg"
+          }
+        ],
+        "caption": "1967 Chevrolet Nova OEM Brochures"
+      }
+    ],
+    [
+      "hr",
+      {}
+    ]
+  ],
+  "markups": [
+    [
+      "em"
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/tag/research/"
+      ]
+    ]
+  ],
+  "sections": [
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Overview"
+        ]
+      ]
+    ],
+    [
+      10,
+      0
+    ],
+    [
+      1,
+      "h3",
+      [
+        [
+          0,
+          [],
+          0,
+          "The 1967 Nova received only a minor touchup from the previous year. All Novas got a crosshatch pattern that filled the deck lid trim panel."
+        ]
+      ]
+    ],
+    [
+      10,
+      1
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "The 1967 Nova received only a minor touchup from the previous year. All Novas got a crosshatch pattern that filled the deck lid trim panel. "
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "It did receive several safety-oriented upgrades like an energy-absorbing steering column and safety steering wheel, along with soft interior parts like armrests and sun visors, recessed instrument panel knobs, and front shoulder belt anchors."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "The newly released Camaro stole some of the Nova's sales. Nova's sales dropped by more than a third."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "The Nova SS got a new black-accented anodized aluminum grille, and SS wheel covers stolen from the Impala SS."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "The Turbo-Fire 327 was now only available as the 275 hp version."
+        ],
+        [
+          1,
+          [],
+          0,
+          0
+        ]
+      ]
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Production Numbers"
+        ]
+      ]
+    ],
+    [
+      10,
+      2
+    ],
+    [
+      10,
+      3
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Performance Specs"
+        ]
+      ]
+    ],
+    [
+      10,
+      4
+    ],
+    [
+      10,
+      5
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Transmission"
+        ]
+      ]
+    ],
+    [
+      10,
+      6
+    ],
+    [
+      3,
+      "ul",
+      [
+        [
+          [
+            0,
+            [],
+            0,
+            "Powerglide"
+          ]
+        ],
+        [
+          [
+            0,
+            [],
+            0,
+            "4-Speed Manual (fully synch)"
+          ]
+        ],
+        [
+          [
+            0,
+            [],
+            0,
+            "3-Speed (fully synch)"
+          ]
+        ]
+      ]
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Paint & Colors"
+        ]
+      ]
+    ],
+    [
+      10,
+      7
+    ],
+    [
+      10,
+      8
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "OEM Brochures"
+        ]
+      ]
+    ],
+    [
+      10,
+      9
+    ],
+    [
+      10,
+      10
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "About the Knowledge Base"
+        ]
+      ]
+    ],
+    [
+      10,
+      11
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "The Motorious Knowledge Base provides a comprehensive vehicle overview for the 1967 Chevrolet Nova"
+        ],
+        [
+          0,
+          [
+            0,
+            0
+          ],
+          2,
+          " "
+        ],
+        [
+          0,
+          [],
+          0,
+          "including production numbers, performance specs, factory colors, and OEM brochures. Check out additional model years or related content linked to this article or view other Makes and Models in our "
+        ],
+        [
+          0,
+          [
+            1
+          ],
+          1,
+          "Research"
+        ],
+        [
+          0,
+          [],
+          0,
+          " center."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "If you have any interesting facts about the 1967 Chevrolet Nova"
+        ],
+        [
+          0,
+          [
+            0,
+            0
+          ],
+          2,
+          " "
+        ],
+        [
+          0,
+          [],
+          0,
+          "to add, want to tell us how we did covering the Nova, or want to tell us about yours, please leave a comment below."
+        ]
+      ]
+    ]
+  ],
+  "ghostVersion": "3.0"
+}

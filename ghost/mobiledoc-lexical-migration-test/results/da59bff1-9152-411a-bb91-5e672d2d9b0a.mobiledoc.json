@@ -1,0 +1,1378 @@
+{
+  "version": "0.3.1",
+  "atoms": [],
+  "cards": [
+    [
+      "email-cta",
+      {
+        "showButton": true,
+        "showDividers": false,
+        "segment": "status:-free",
+        "alignment": "center",
+        "html": "<p><em><strong>INTRODUCING OUR NEW LIVE SHOW: On Monday at 7pm ET (4pm PT), </strong></em><strong>The Lever </strong><em><strong>is launching </strong></em><strong>Lever Live, </strong><em><strong>a new weekly audio show hosted by David Sirota where listeners can ask questions in real time. Paid subscribers will also have access to a once-a-month bonus episode of </strong></em><strong>Lever Live, </strong><em><strong>where they can chat with our editorial staff.</strong></em></p><p><a href=\"__GHOST_URL__/launching-our-new-live-show/\"><strong>CLICK HERE FOR MORE INFO</strong></a></p>",
+        "buttonText": "Click Here To Comment",
+        "buttonUrl": "__GHOST_URL__/you-love-to-see-it-some-student-debt-canceled/#comments"
+      }
+    ],
+    [
+      "email",
+      {
+        "html": "<p><em><strong><a href=\"https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.levernews.com%2Fyou-love-to-see-it-some-student-debt-canceled%2F&amp;amp;src=sdkpreparse\">Click to share on Facebook</a></strong></em></p>"
+      }
+    ],
+    [
+      "paywall",
+      {}
+    ],
+    [
+      "embed",
+      {
+        "url": "https://twitter.com/astradisastra/status/1532369939276898305?s=20&t=py-z495gZIVosQYyaAwLyA",
+        "html": "<blockquote class=\"twitter-tweet\"><p lang=\"en\" dir=\"ltr\">After 7 years the Corinthian student debt strikers are today victorious—the full automatic cancellation we’ve always demanded has been won. $5.8 billion for 560k people.<br><br>The way the strike shifted public consciousness is harder to tally. It helped put cancellation on the agenda. <a href=\"https://t.co/tcPojgF8ae\">pic.twitter.com/tcPojgF8ae</a></p>&mdash; Astra Taylor (@astradisastra) <a href=\"https://twitter.com/astradisastra/status/1532369939276898305?ref_src=twsrc%5Etfw\">June 2, 2022</a></blockquote>\n<script async src=\"https://platform.twitter.com/widgets.js\" charset=\"utf-8\"></script>\n",
+        "type": "twitter",
+        "metadata": {
+          "url": "https://twitter.com/astradisastra/status/1532369939276898305",
+          "author_name": "Astra Taylor",
+          "author_url": "https://twitter.com/astradisastra",
+          "width": 550,
+          "height": null,
+          "cache_age": "3153600000",
+          "provider_name": "Twitter",
+          "provider_url": "http://www.twitter.com/",
+          "version": "1.0",
+          "tweet_data": {
+            "context_annotations": [
+              {
+                "domain": {
+                  "id": "3",
+                  "name": "TV Shows",
+                  "description": "Television shows from around the world"
+                },
+                "entity": {
+                  "id": "10029316159",
+                  "name": "Victorious"
+                }
+              }
+            ],
+            "entities": {
+              "urls": [
+                {
+                  "start": 281,
+                  "end": 304,
+                  "url": "https://t.co/tcPojgF8ae",
+                  "expanded_url": "https://twitter.com/astradisastra/status/1532369939276898305/photo/1",
+                  "display_url": "pic.twitter.com/tcPojgF8ae",
+                  "media_key": "3_1532369936751943683"
+                },
+                {
+                  "start": 281,
+                  "end": 304,
+                  "url": "https://t.co/tcPojgF8ae",
+                  "expanded_url": "https://twitter.com/astradisastra/status/1532369939276898305/photo/1",
+                  "display_url": "pic.twitter.com/tcPojgF8ae",
+                  "media_key": "3_1532369936756183041"
+                }
+              ],
+              "annotations": [
+                {
+                  "start": 18,
+                  "end": 27,
+                  "probability": 0.6109,
+                  "type": "Organization",
+                  "normalized_text": "Corinthian"
+                }
+              ]
+            },
+            "created_at": "2022-06-02T14:33:58.000Z",
+            "lang": "en",
+            "reply_settings": "everyone",
+            "attachments": {
+              "media_keys": [
+                "3_1532369936751943683",
+                "3_1532369936756183041"
+              ]
+            },
+            "text": "After 7 years the Corinthian student debt strikers are today victorious—the full automatic cancellation we’ve always demanded has been won. $5.8 billion for 560k people.\n\nThe way the strike shifted public consciousness is harder to tally. It helped put cancellation on the agenda. https://t.co/tcPojgF8ae",
+            "public_metrics": {
+              "retweet_count": 40,
+              "reply_count": 4,
+              "like_count": 230,
+              "quote_count": 4
+            },
+            "author_id": "376991410",
+            "source": "Twitter for iPhone",
+            "possibly_sensitive": false,
+            "conversation_id": "1532369939276898305",
+            "id": "1532369939276898305",
+            "includes": {
+              "media": [
+                {
+                  "type": "photo",
+                  "height": 672,
+                  "media_key": "3_1532369936751943683",
+                  "url": "https://pbs.twimg.com/media/FUQSVrCWYAMySJV.jpg",
+                  "width": 752
+                },
+                {
+                  "type": "photo",
+                  "height": 634,
+                  "media_key": "3_1532369936756183041",
+                  "url": "https://pbs.twimg.com/media/FUQSVrDXEAExZ-O.jpg",
+                  "width": 904
+                }
+              ],
+              "users": [
+                {
+                  "description": "director of documentaries, writer of books and essays, retired fuzz guitar",
+                  "name": "Astra Taylor",
+                  "pinned_tweet_id": "1411014883349569541",
+                  "profile_image_url": "https://pbs.twimg.com/profile_images/1410989803563372547/_lYcUCWH_normal.jpg",
+                  "verified": false,
+                  "public_metrics": {
+                    "followers_count": 35960,
+                    "following_count": 1324,
+                    "tweet_count": 10340,
+                    "listed_count": 517
+                  },
+                  "entities": {
+                    "url": {
+                      "urls": [
+                        {
+                          "start": 0,
+                          "end": 23,
+                          "url": "https://t.co/1fUopLYgFc",
+                          "expanded_url": "http://www.whatisdemocracy.info",
+                          "display_url": "whatisdemocracy.info"
+                        }
+                      ]
+                    }
+                  },
+                  "url": "https://t.co/1fUopLYgFc",
+                  "created_at": "2011-09-20T20:49:18.000Z",
+                  "id": "376991410",
+                  "protected": false,
+                  "username": "astradisastra"
+                }
+              ]
+            }
+          }
+        }
+      }
+    ],
+    [
+      "button",
+      {
+        "alignment": "center",
+        "buttonText": "Tip Jar",
+        "buttonUrl": "https://dailyposter.outpost.pub/ghost-integration/60818189ad12f332071054b8/tips"
+      }
+    ],
+    [
+      "button",
+      {
+        "alignment": "center",
+        "buttonText": "Give A Gift Subscription",
+        "buttonUrl": "https://dailyposter.outpost.pub/gift_subscription#/"
+      }
+    ],
+    [
+      "embed",
+      {
+        "url": "https://twitter.com/rontkim/status/1532313105832747011",
+        "html": "<blockquote class=\"twitter-tweet\"><p lang=\"en\" dir=\"ltr\">… when our laws, written in 1847 to protect industries from low wage workers who died in unsafe conditions, continue to devalue people’s lives based on age, race, and gender, we must update them to prevent exploitation and negligence. <a href=\"https://twitter.com/NYSenDems?ref_src=twsrc%5Etfw\">@NYSenDems</a> <a href=\"https://twitter.com/NYSA_Majority?ref_src=twsrc%5Etfw\">@NYSA_Majority</a></p>&mdash; Ron T. Kim (@rontkim) <a href=\"https://twitter.com/rontkim/status/1532313105832747011?ref_src=twsrc%5Etfw\">June 2, 2022</a></blockquote>\n<script async src=\"https://platform.twitter.com/widgets.js\" charset=\"utf-8\"></script>\n",
+        "type": "twitter",
+        "metadata": {
+          "url": "https://twitter.com/rontkim/status/1532313105832747011",
+          "author_name": "Ron T. Kim",
+          "author_url": "https://twitter.com/rontkim",
+          "width": 550,
+          "height": null,
+          "cache_age": "3153600000",
+          "provider_name": "Twitter",
+          "provider_url": "http://www.twitter.com/",
+          "version": "1.0",
+          "tweet_data": {
+            "source": "Twitter for iPhone",
+            "id": "1532313105832747011",
+            "public_metrics": {
+              "retweet_count": 12,
+              "reply_count": 1,
+              "like_count": 57,
+              "quote_count": 0
+            },
+            "entities": {
+              "mentions": [
+                {
+                  "start": 237,
+                  "end": 247,
+                  "username": "NYSenDems",
+                  "id": "236061421"
+                },
+                {
+                  "start": 248,
+                  "end": 262,
+                  "username": "NYSA_Majority",
+                  "id": "454361580"
+                }
+              ]
+            },
+            "referenced_tweets": [
+              {
+                "type": "replied_to",
+                "id": "1532313103781748742"
+              }
+            ],
+            "text": "… when our laws, written in 1847 to protect industries from low wage workers who died in unsafe conditions, continue to devalue people’s lives based on age, race, and gender, we must update them to prevent exploitation and negligence. \n\n@NYSenDems @NYSA_Majority",
+            "reply_settings": "everyone",
+            "conversation_id": "1532313103781748742",
+            "created_at": "2022-06-02T10:48:08.000Z",
+            "author_id": "22524908",
+            "lang": "en",
+            "in_reply_to_user_id": "22524908",
+            "possibly_sensitive": false,
+            "includes": {
+              "users": [
+                {
+                  "pinned_tweet_id": "1357427044838240260",
+                  "url": "https://t.co/tu1SwQYAld",
+                  "username": "rontkim",
+                  "protected": false,
+                  "profile_image_url": "https://pbs.twimg.com/profile_images/1445483540276154368/nQybOcec_normal.jpg",
+                  "created_at": "2009-03-02T15:38:51.000Z",
+                  "name": "Ron T. Kim",
+                  "location": "Queens, New York",
+                  "verified": true,
+                  "public_metrics": {
+                    "followers_count": 41084,
+                    "following_count": 3240,
+                    "tweet_count": 11232,
+                    "listed_count": 349
+                  },
+                  "entities": {
+                    "url": {
+                      "urls": [
+                        {
+                          "start": 0,
+                          "end": 23,
+                          "url": "https://t.co/tu1SwQYAld",
+                          "expanded_url": "https://linktr.ee/ronkim",
+                          "display_url": "linktr.ee/ronkim"
+                        }
+                      ]
+                    }
+                  },
+                  "description": "Chair of NY Assembly Aging Committee who exposed COVID eldercide & held Cuomo accountable. Now fighting for home care workers to build a Caring NY 🌹he/him",
+                  "id": "22524908"
+                },
+                {
+                  "url": "",
+                  "username": "NYSenDems",
+                  "protected": false,
+                  "profile_image_url": "https://pbs.twimg.com/profile_images/1341811494162477059/wmrgt96G_normal.jpg",
+                  "created_at": "2011-01-09T18:22:59.000Z",
+                  "name": "NYS Senate Democrats",
+                  "location": "New York State/Albany",
+                  "verified": false,
+                  "public_metrics": {
+                    "followers_count": 22896,
+                    "following_count": 494,
+                    "tweet_count": 15159,
+                    "listed_count": 378
+                  },
+                  "entities": {
+                    "description": {
+                      "hashtags": [
+                        {
+                          "start": 14,
+                          "end": 23,
+                          "tag": "NYSenate"
+                        }
+                      ]
+                    }
+                  },
+                  "description": "News from the #NYSenate Democratic Conference.",
+                  "id": "236061421"
+                },
+                {
+                  "url": "http://t.co/X4MxjOaF8w",
+                  "username": "NYSA_Majority",
+                  "protected": false,
+                  "profile_image_url": "https://pbs.twimg.com/profile_images/1732783749/Twitter_Logos_1-3-12_proof_2_normal.jpg",
+                  "created_at": "2012-01-03T22:27:41.000Z",
+                  "name": "Assembly Majority",
+                  "verified": false,
+                  "public_metrics": {
+                    "followers_count": 12659,
+                    "following_count": 0,
+                    "tweet_count": 3960,
+                    "listed_count": 289
+                  },
+                  "entities": {
+                    "url": {
+                      "urls": [
+                        {
+                          "start": 0,
+                          "end": 22,
+                          "url": "http://t.co/X4MxjOaF8w",
+                          "expanded_url": "http://assembly.state.ny.us",
+                          "display_url": "assembly.state.ny.us"
+                        }
+                      ]
+                    }
+                  },
+                  "description": "The official twitter page of the New York State Assembly Majority. The New York State Assembly is the lower house of the New York State Legislature.",
+                  "id": "454361580"
+                }
+              ],
+              "tweets": [
+                {
+                  "source": "Twitter for iPhone",
+                  "id": "1532313103781748742",
+                  "public_metrics": {
+                    "retweet_count": 79,
+                    "reply_count": 8,
+                    "like_count": 383,
+                    "quote_count": 4
+                  },
+                  "text": "Every two years, Albany power brokers kill efforts to update the wrongful death statute (written in 1847) bc they either want or fear hospital money. \n\nYou tell the grieving family members of 16,000 nursing home deaths that their lost lives are worthless …",
+                  "reply_settings": "everyone",
+                  "conversation_id": "1532313103781748742",
+                  "created_at": "2022-06-02T10:48:07.000Z",
+                  "author_id": "22524908",
+                  "entities": {
+                    "annotations": [
+                      {
+                        "start": 17,
+                        "end": 22,
+                        "probability": 0.7235,
+                        "type": "Place",
+                        "normalized_text": "Albany"
+                      }
+                    ]
+                  },
+                  "lang": "en",
+                  "possibly_sensitive": false
+                }
+              ]
+            }
+          }
+        }
+      }
+    ],
+    [
+      "embed",
+      {
+        "url": "https://www.youtube.com/watch?v=qWIyFzhOuls",
+        "html": "<iframe width=\"200\" height=\"150\" src=\"https://www.youtube.com/embed/qWIyFzhOuls?feature=oembed\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+        "type": "video",
+        "metadata": {
+          "title": "Yes, We're Open - Kensuke Ushio - Words Bubble Up Like Soda Pop soundtrack",
+          "author_name": "Upload Agraph Kensuke Ushio",
+          "author_url": "https://www.youtube.com/channel/UCQYG01q-h4LKX1N_cs14VyQ",
+          "height": 150,
+          "width": 200,
+          "version": "1.0",
+          "provider_name": "YouTube",
+          "provider_url": "https://www.youtube.com/",
+          "thumbnail_height": 360,
+          "thumbnail_width": 480,
+          "thumbnail_url": "https://i.ytimg.com/vi/qWIyFzhOuls/hqdefault.jpg"
+        }
+      }
+    ],
+    [
+      "email-cta",
+      {
+        "showButton": true,
+        "showDividers": false,
+        "segment": "status:-free",
+        "alignment": "center",
+        "html": "",
+        "buttonText": "Click Here To Comment",
+        "buttonUrl": "__GHOST_URL__/you-love-to-see-it-some-student-debt-canceled/#comments"
+      }
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "email-cta",
+      {
+        "showButton": true,
+        "showDividers": false,
+        "segment": "status:-free",
+        "alignment": "center",
+        "html": "",
+        "buttonText": "Tip Jar",
+        "buttonUrl": "https://dailyposter.outpost.pub/ghost-integration/60818189ad12f332071054b8/tips"
+      }
+    ],
+    [
+      "email-cta",
+      {
+        "showButton": true,
+        "showDividers": false,
+        "segment": "status:free",
+        "alignment": "center",
+        "html": "",
+        "buttonText": "Upgrade",
+        "buttonUrl": "https://levernews.com/membership/?utm_source=yltsi&utm_medium=link&utm_campaign=upgrade"
+      }
+    ],
+    [
+      "email",
+      {
+        "html": "<p><em><strong>Help us spread the word! </strong>Please forward this email to family and friends.</em></p><p><em><strong>Was this email forwarded to you? </strong><a href=\"https://levernews.com/membership/?utm_source=yltsi&amp;utm_medium=link&amp;utm_campaign=forward-signup\">Sign up for free</a> to receive original reporting like this in your inbox every day.</em></p>"
+      }
+    ]
+  ],
+  "markups": [
+    [
+      "a",
+      [
+        "href",
+        "https://www.nytimes.com/2022/06/01/business/corinthian-student-loan-forgiveness.html"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.nytimes.com/2015/02/28/opinion/a-strike-against-student-debt.html"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/cheat-sheet-the-truth-about-student-debt/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://docs.cdn.yougov.com/ag4e883md3/econToplines.pdf"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://e360.yale.edu/digest/germany-slashes-summer-train-fares-more-than-90-percent-to-curb-driving-save-fuel"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.gruene-bundestag.de/presse/pressestatements/katharina-droege-zum-bundesratsbeschluss-zum-9-euro-ticket"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://twitter.com/joncstone/status/1532633365278511104?t=LFnp4Bu_bVzwgfn8aC4OKg&s=19"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://vtdigger.org/2022/05/27/phil-scott-signs-1000-child-tax-credit-into-law/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://legislature.vermont.gov/bill/status/2022/H.510"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://ljfo.vermont.gov/assets/Publications/As-Passed-by-the-General-Assembly/0cb1aa9912/GENERAL-360095-v7-H_510_Fiscal_Note.pdf"
+      ]
+    ],
+    [
+      "em"
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://twitter.com/JoshuaTMcCabe/status/1531642203336060929?s=20&t=HyOtfuO-5ftoMKXeLK390g"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/otherposts/midday-poster-manchins-child-tax-credit-lies/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/the-real-estate-industry-protects-its-right-to-evict/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/new-york-dems-giant-gift-to-private-equity/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://twitter.com/RealBankReform/status/1532786346015735808?t=yN-xJBuAqEGSVQv18whvPQ&s=19"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://twitter.com/rontkim/status/1532610101281955843"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://twitter.com/rontkim/status/1532594472789344256?s=20&t=5E_w3tYrP8ZjVnUA460zvQ"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/investigation-cuomo-gave-immunity/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.afscme.org/blog/staff-at-academy-museum-of-motion-pictures-announce-theyre-forming-a-union?fbclid=IwAR101YvOUv0N1HFrkV-y_D_BSs9GjRDH-xauFKWU91xrcMRCJuDz39iJ3eM"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://twitter.com/UnionElections/status/1532337849441439745"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://theintercept.com/2022/06/01/yemen-war-saudi-arabia-congress-bipartisan-biden/?utm_medium=social&utm_source=twitter&utm_campaign=theintercept"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://twitter.com/SaraLSirota/status/1532086262580097026?t=6shwLUX5MnL1iFujLJCJIA&s=19"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "http://www.wordslikethis.com.au/dont-hesitate/"
+      ]
+    ],
+    [
+      "strong"
+    ]
+  ],
+  "sections": [
+    [
+      10,
+      0
+    ],
+    [
+      10,
+      1
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Good things are happening! President Joe Biden’s Education Department is writing off billions in debt for students who attended a sham for-profit college chain. Also, Germany is making it easier for residents to adopt greener transportation choices this summer, Vermont is going to help kids in a big way, and the New York legislature just made it slightly harder for corporate misdeeds to go unchecked. "
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "All this and much more in this week’s edition of You Love To See It, exclusively for supporting subscribers below."
+        ]
+      ]
+    ],
+    [
+      10,
+      2
+    ],
+    [
+      1,
+      "h3",
+      [
+        [
+          0,
+          [],
+          0,
+          "Victory For The Corinthian 15"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "The Education Department "
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "announced"
+        ],
+        [
+          0,
+          [],
+          0,
+          " it will clear the debts of 560,000 borrowers who had attended Corinthian Colleges, a for-profit higher ed chain that collapsed in 2015 in the wake of investigations into its illegal recruitment tactics and misleading pledges to students about course programming and graduates’ career prospects. The $5.8 billion in Corinthian student debt will be automatically canceled, so those who enrolled in the chain need not apply to have their debts wiped out."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "The push for cancellation was ignited when Corinthian 15, a group of students supported by the debtors’ union Debt Collective, "
+        ],
+        [
+          0,
+          [
+            1
+          ],
+          1,
+          "initiated a debt strike"
+        ],
+        [
+          0,
+          [],
+          0,
+          " 7 years ago and refused to pay their federal loans."
+        ]
+      ]
+    ],
+    [
+      10,
+      3
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Key to the students’ fight was a provision they unearthed in the law governing their loans, which allows borrowers to request loan forgiveness from the government if they were severely misled by their school."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "The major move comes as President Biden faces mounting pressure to "
+        ],
+        [
+          0,
+          [
+            2
+          ],
+          1,
+          "cancel student loan debt"
+        ],
+        [
+          0,
+          [],
+          0,
+          ", a policy "
+        ],
+        [
+          0,
+          [
+            3
+          ],
+          1,
+          "popular with many Americans"
+        ],
+        [
+          0,
+          [],
+          0,
+          "."
+        ]
+      ]
+    ],
+    [
+      1,
+      "h3",
+      [
+        [
+          0,
+          [],
+          0,
+          "Germany’s Promising Public Transit Plan"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Germans will enjoy reduced train fares this summer, thanks to a new law passed by the country’s parliament. The initiative, effective as of June 1, is a way of increasing public transit to protect the environment and reduce dependency on Russian oil. Fares "
+        ],
+        [
+          0,
+          [
+            4
+          ],
+          1,
+          "will be cut"
+        ],
+        [
+          0,
+          [],
+          0,
+          " by more than 90 percent in some cities and 50 trains will be added to accommodate new riders."
+        ]
+      ]
+    ],
+    [
+      10,
+      4
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "“Inexpensive and climate-friendly mobility must not and will not remain a flash in the pan,” said Katharina Dröge, parliamentary head of Germany’s Green party, in a "
+        ],
+        [
+          0,
+          [
+            5
+          ],
+          1,
+          "statement"
+        ],
+        [
+          0,
+          [],
+          0,
+          "."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Who wouldn’t want to opt for a German train, when they look "
+        ],
+        [
+          0,
+          [
+            6
+          ],
+          1,
+          "like this"
+        ],
+        [
+          0,
+          [],
+          0,
+          "?"
+        ]
+      ]
+    ],
+    [
+      1,
+      "h3",
+      [
+        [
+          0,
+          [],
+          0,
+          "Vermont’s Bipartisan Child Tax Credit"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "As part of a broader tax cut package, Republican Vermont Gov. Phil Scott just signed into law a "
+        ],
+        [
+          0,
+          [
+            7
+          ],
+          1,
+          "child tax credit"
+        ],
+        [
+          0,
+          [],
+          0,
+          " that will send $1,000 for every child 5 years of age and under in Vermont households making up to $125,000. “The final version of "
+        ],
+        [
+          0,
+          [
+            8
+          ],
+          1,
+          "H.510"
+        ],
+        [
+          0,
+          [],
+          0,
+          " will "
+        ],
+        [
+          0,
+          [
+            9
+          ],
+          1,
+          "spend $40 million"
+        ],
+        [
+          0,
+          [],
+          0,
+          ", the bulk of which — $32 million — will pay for the child tax credit, which is estimated would benefit over 30,000 children,” according to "
+        ],
+        [
+          0,
+          [
+            7,
+            10
+          ],
+          1,
+          "VTDigger"
+        ],
+        [
+          0,
+          [],
+          1,
+          "."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Vermont is "
+        ],
+        [
+          0,
+          [
+            11
+          ],
+          1,
+          "the latest state"
+        ],
+        [
+          0,
+          [],
+          0,
+          " to introduce a fully refundable child tax credit since Congress "
+        ],
+        [
+          0,
+          [
+            12
+          ],
+          1,
+          "failed"
+        ],
+        [
+          0,
+          [],
+          0,
+          " in December to continue the enhanced federal CTC, which lifted millions of children out of poverty."
+        ]
+      ]
+    ],
+    [
+      1,
+      "h3",
+      [
+        [
+          0,
+          [],
+          0,
+          "Progress In New York"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "While New York has had a questionable "
+        ],
+        [
+          0,
+          [
+            13
+          ],
+          1,
+          "legislative"
+        ],
+        [
+          0,
+          [],
+          0,
+          " "
+        ],
+        [
+          0,
+          [
+            14
+          ],
+          1,
+          "track record"
+        ],
+        [
+          0,
+          [],
+          0,
+          " lately, a couple surprisingly good things have also occurred under the dome."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "For starters, the state legislature just passed a bill to create more transparency around company ownership — which, as the American Financial Reform coalition "
+        ],
+        [
+          0,
+          [
+            15
+          ],
+          1,
+          "put it"
+        ],
+        [
+          0,
+          [],
+          0,
+          ", “will make it harder for private equity to hide in the shadows!”"
+        ]
+      ]
+    ],
+    [
+      10,
+      5
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Plus, a bill to update New York’s archaic “wrongful death” statute "
+        ],
+        [
+          0,
+          [
+            16
+          ],
+          1,
+          "cleared the state Senate and Assembly"
+        ],
+        [
+          0,
+          [],
+          0,
+          ". If it’s signed into the law, the bill will "
+        ],
+        [
+          0,
+          [
+            17
+          ],
+          1,
+          "extend the state’s statute of limitations"
+        ],
+        [
+          0,
+          [],
+          0,
+          " to claim wrongful deaths to 3.5 years — something powerful health care and nursing home interests have been fighting for years, to avoid liability for negligence. Passage of the legislation will be, as Assemblyman Ron Kim noted, “a game changer,” especially in light of the "
+        ],
+        [
+          0,
+          [
+            18
+          ],
+          1,
+          "thousands of preventable deaths"
+        ],
+        [
+          0,
+          [],
+          0,
+          " that stemmed from New York nursing homes putting profits over the health and safety of residents during the COVID-19 pandemic."
+        ]
+      ]
+    ],
+    [
+      10,
+      6
+    ],
+    [
+      1,
+      "h3",
+      [
+        [
+          0,
+          [],
+          0,
+          "In Other News…"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "•  Academy Museum of Motion Pictures workers have formed a union. “In an industry that saw closures and mass layoffs at the beginning of the COVID pandemic, cultural workers have found power through forming a union, using their unified voice to set industry standards that improve job protections, safety, wages and benefits,” said the American Federation of State, County and Municipal Employees (AFSCME) in a "
+        ],
+        [
+          0,
+          [
+            19
+          ],
+          1,
+          "statement"
+        ],
+        [
+          0,
+          [],
+          0,
+          " on Wednesday. Also on the labor organizing front, 900 Rochester General nurses in New York "
+        ],
+        [
+          0,
+          [
+            20
+          ],
+          1,
+          "are forming"
+        ],
+        [
+          0,
+          [],
+          0,
+          " the independent Rochester Union of Nurses and Allied Professionals."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "•  Nearly 50 Democrats and Republicans have signed on as co-sponsors of "
+        ],
+        [
+          0,
+          [
+            21
+          ],
+          1,
+          "newly introduced federal legislation"
+        ],
+        [
+          0,
+          [],
+          0,
+          " that invokes constitutional war powers to end U.S. military involvement in Saudi Arabia’s devastating war in Yemen. As "
+        ],
+        [
+          0,
+          [
+            10
+          ],
+          1,
+          "The Intercept"
+        ],
+        [
+          0,
+          [],
+          0,
+          "’s Sara Sirota "
+        ],
+        [
+          0,
+          [
+            22
+          ],
+          1,
+          "tweeted"
+        ],
+        [
+          0,
+          [],
+          0,
+          ", “The war, especially Riyadh’s airstrikes and port blockades, have killed hundreds of thousands of civilians, mostly children dying from starvation and disease.” The legislation opens a window for President Joe Biden to finally fulfill his campaign pledge to end U.S. involvement in the war."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "If the good news we’ve shared still doesn’t feel like enough to spark joy for you, here’s a sweet little tune that might do the trick (I recommend watching the movie, "
+        ],
+        [
+          0,
+          [
+            10
+          ],
+          1,
+          "Words Bubble Up Like Soda Pop"
+        ],
+        [
+          0,
+          [],
+          0,
+          ", too!):"
+        ]
+      ]
+    ],
+    [
+      10,
+      7
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Plus, a needed reminder from Mary Oliver’s poem "
+        ],
+        [
+          0,
+          [
+            10
+          ],
+          1,
+          "“"
+        ],
+        [
+          0,
+          [
+            23,
+            10
+          ],
+          2,
+          "Don’t Hesitate"
+        ],
+        [
+          0,
+          [
+            10
+          ],
+          1,
+          "”"
+        ],
+        [
+          0,
+          [],
+          0,
+          ":"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "“If you suddenly and unexpectedly feel joy, don’t hesitate. Give into it… Joy is not made to be a crumb.”"
+        ]
+      ]
+    ],
+    [
+      10,
+      8
+    ],
+    [
+      10,
+      9
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [
+            10,
+            24
+          ],
+          1,
+          "Our news organization relies on readers pitching in to support our journalism. "
+        ],
+        [
+          0,
+          [
+            10,
+            24
+          ],
+          3,
+          "If you like this story, please support "
+        ],
+        [
+          0,
+          [
+            24,
+            10,
+            24
+          ],
+          3,
+          "our"
+        ],
+        [
+          0,
+          [
+            10,
+            10,
+            24
+          ],
+          3,
+          " work."
+        ]
+      ]
+    ],
+    [
+      10,
+      10
+    ],
+    [
+      10,
+      11
+    ],
+    [
+      10,
+      12
+    ],
+    [
+      1,
+      "p",
+      []
+    ],
+    [
+      1,
+      "p",
+      []
+    ]
+  ],
+  "ghostVersion": "4.0"
+}

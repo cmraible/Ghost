@@ -1,0 +1,572 @@
+{
+  "version": "0.3.1",
+  "atoms": [],
+  "cards": [
+    [
+      "email",
+      {
+        "html": "<p>Morning {first_name, \"there\"},</p><p>I hope those of you that celebrate it had a good Easter break. I've certainly enjoyed it in a way I never could when I worked on a weekly mag, and Easter just meant two weeks in a row of having four days to do five days' worth of work…</p><p>Sadly, it is my duty to inform you that, this morning, we need to talk about Facebook. You might need to get some chocolate eggs ready, as an antidote.</p>"
+      }
+    ],
+    [
+      "paywall",
+      {}
+    ],
+    [
+      "image",
+      {
+        "src": "__GHOST_URL__/content/images/2021/04/comment-control.png",
+        "width": 592,
+        "height": 1280
+      }
+    ],
+    [
+      "embed",
+      {
+        "url": "https://www.youtube.com/watch?v=YLL037UiQhk",
+        "html": "<iframe width=\"200\" height=\"113\" src=\"https://www.youtube.com/embed/YLL037UiQhk?feature=oembed\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+        "type": "video",
+        "metadata": {
+          "title": "Was Lovecraft Racist?",
+          "author_name": "Sandy of Cthulhu",
+          "author_url": "https://www.youtube.com/channel/UCVDIvzRZD39Rv9uR8mqfOBg",
+          "height": 113,
+          "width": 200,
+          "version": "1.0",
+          "provider_name": "YouTube",
+          "provider_url": "https://www.youtube.com/",
+          "thumbnail_height": 360,
+          "thumbnail_width": 480,
+          "thumbnail_url": "https://i.ytimg.com/vi/YLL037UiQhk/hqdefault.jpg"
+        }
+      }
+    ]
+  ],
+  "markups": [
+    [
+      "a",
+      [
+        "href",
+        "https://about.fb.com/news/2021/03/more-control-and-context-in-news-feed/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.facebook.com/help/1625371524453896"
+      ]
+    ],
+    [
+      "em"
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.holdthefrontpage.co.uk/2021/news/facebook-to-give-journalists-and-publishers-greater-control-on-comments/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.facebook.com/groups/socialgeekout/permalink/1717197481794003"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://nickclegg.medium.com/you-and-the-algorithm-it-takes-two-to-tango-7722b19aa1c2"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.washingtonpost.com/business/2021/04/03/facebook-data-leak-insider/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.holdthefrontpage.co.uk/2021/news/lib-dems-undermining-genuine-journalists-says-independent-news-site/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.theverge.com/2021/4/5/22368488/yahoo-answers-shutdown-may-4-internet-era-over-rip"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://stackoverflow.com"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://blog.medium.com/blogrolls-making-writer-discovery-seamless-6c94270d5e68"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://indieweb.org/blogroll"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://memex.naughtons.org"
+      ]
+    ]
+  ],
+  "sections": [
+    [
+      10,
+      0
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "I hate writing about Facebook. It squats obscenely at the heart of so much online communications like a digital Jabba the Hutt, slobbering and growing fat on the misery of others. "
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Sadly, though, as long as it remains important in gathering traffic and attention, we're going to have to keep an eye on it. And, occasionally, it does something useful. "
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "For example"
+        ],
+        [
+          0,
+          [],
+          0,
+          ":"
+        ]
+      ]
+    ],
+    [
+      1,
+      "blockquote",
+      [
+        [
+          0,
+          [],
+          0,
+          "Now, you can "
+        ],
+        [
+          0,
+          [
+            1
+          ],
+          1,
+          "control"
+        ],
+        [
+          0,
+          [],
+          0,
+          " your commenting audience for a given public post by choosing from a menu of options ranging from anyone who can see the post to only the people and Pages you tag."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "The ability to control who can leave comments — if anyone — is critical to any kind of community management strategy. Facebook has been notably lacking in this area for years, probably because comments drive engagement, and that's all that matters to them. Groups posters and admins have had the ability to turn off comments, and this effectively extends that ability to people's own profiles. "
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "And it works fine:"
+        ]
+      ]
+    ],
+    [
+      10,
+      1
+    ],
+    [
+      10,
+      2
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "If you don't mention any people or Pages in your post, this effectively turns comments off. "
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "It's live now for most users, and Facebook is "
+        ],
+        [
+          0,
+          [
+            2
+          ],
+          1,
+          "also "
+        ],
+        [
+          0,
+          [],
+          0,
+          "rolling out a new comment moderation feature to Pages at the moment.  This, as "
+        ],
+        [
+          0,
+          [
+            2
+          ],
+          1,
+          "Hold The Front Page"
+        ],
+        [
+          0,
+          [],
+          0,
+          " rightly pointed out, if going to make life much more easy when publishing stories where there's a strong risk of defamation or "
+        ],
+        [
+          0,
+          [
+            3
+          ],
+          1,
+          "comments that are prejudicial to trials"
+        ],
+        [
+          0,
+          [],
+          0,
+          ". "
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "(I also love the implication in that post that a campaign from the "
+        ],
+        [
+          0,
+          [
+            2
+          ],
+          1,
+          "Rotherham Advertiser "
+        ],
+        [
+          0,
+          [],
+          0,
+          "led to this change. I'd love to live in a world where a local paper can influence Facebook policy, but that's not our current timeline, folks.)"
+        ]
+      ]
+    ],
+    [
+      1,
+      "h3",
+      [
+        [
+          0,
+          [],
+          0,
+          "Also on Facebook:"
+        ]
+      ]
+    ],
+    [
+      3,
+      "ul",
+      [
+        [
+          [
+            0,
+            [],
+            0,
+            "You can now “rate limit” people's posts in groups — "
+          ],
+          [
+            0,
+            [
+              4
+            ],
+            1,
+            "allow only one comment per person every five minutes"
+          ],
+          [
+            0,
+            [],
+            0,
+            ". Should be handy for taking the heat out of arguments. "
+          ]
+        ],
+        [
+          [
+            0,
+            [],
+            0,
+            "Nick Clegg "
+          ],
+          [
+            0,
+            [
+              5
+            ],
+            1,
+            "defends the algorithm"
+          ],
+          [
+            0,
+            [],
+            0,
+            ". The days when #iagreewithnick were trending on Twitter seem impossibly long ago now, don't they? "
+          ]
+        ],
+        [
+          [
+            0,
+            [],
+            0,
+            "Oh, and they "
+          ],
+          [
+            0,
+            [
+              6
+            ],
+            1,
+            "exposed loads of people's personal data"
+          ],
+          [
+            0,
+            [],
+            0,
+            " back in 2019. And now it's all been made public. Thanks, Facebook! 👍🏻"
+          ]
+        ]
+      ]
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Quick Links"
+        ]
+      ]
+    ],
+    [
+      3,
+      "ul",
+      [
+        [
+          [
+            0,
+            [],
+            0,
+            "📰 Political parties are up to their old tricks of filling the local news gap with "
+          ],
+          [
+            0,
+            [
+              7
+            ],
+            1,
+            "their own propaganda rags"
+          ],
+          [
+            0,
+            [],
+            0,
+            "."
+          ]
+        ],
+        [
+          [
+            0,
+            [],
+            0,
+            "🪦 "
+          ],
+          [
+            0,
+            [
+              8
+            ],
+            1,
+            "Yahoo Answers RIP"
+          ],
+          [
+            0,
+            [],
+            0,
+            ". This was once a mainstay of engagement strategy, but has lately become a political cesspit. I was once involved in strategy discussions for a B2B publisher to build a niche competitor, that never went anywhere. The existence of things like "
+          ],
+          [
+            0,
+            [
+              9
+            ],
+            1,
+            "Stack Overflow"
+          ],
+          [
+            0,
+            [],
+            0,
+            " suggests that this concept is better served by niche sites. Time for another look?"
+          ]
+        ],
+        [
+          [
+            0,
+            [],
+            0,
+            "👨🏼‍🏫 Medium has "
+          ],
+          [
+            0,
+            [
+              10
+            ],
+            1,
+            "brought blogrolls back"
+          ],
+          [
+            0,
+            [],
+            0,
+            ". Don't know what a blogroll was? It was the major engine of discovery in the pre-social media days of blogs. Bloggers listed other blogs they liked and read in a "
+          ],
+          [
+            0,
+            [
+              11
+            ],
+            1,
+            "blogroll"
+          ],
+          [
+            0,
+            [],
+            0,
+            " in their sidebar. John Naughton "
+          ],
+          [
+            0,
+            [
+              12
+            ],
+            1,
+            "still has one"
+          ],
+          [
+            0,
+            [],
+            0,
+            ", for example. "
+          ]
+        ]
+      ]
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "And Finally…"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Was seminal horror writer HP Lovecraft racist?"
+        ]
+      ]
+    ],
+    [
+      10,
+      3
+    ],
+    [
+      1,
+      "p",
+      []
+    ]
+  ],
+  "ghostVersion": "4.0"
+}

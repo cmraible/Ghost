@@ -1,0 +1,778 @@
+{
+  "root": {
+    "children": [
+      {
+        "type": "email",
+        "html": "<p>Hey {first_name, \"there\"},</p><p>Well, it's been a busy 18 hours or so, hasn't it? The massive Twitter hack is something I'll write about separately, as is the new version of Apple News which came with the system updates last night.</p><p>But there's plenty of other issues at work that are worth your attention. Let's dive in…</p>"
+      },
+      {
+        "children": [
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": "TikTok: fear the algorithm not the data capture",
+            "type": "text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "heading",
+        "tag": "h2",
+        "version": 1
+      },
+      {
+        "children": [
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": "It's undeniable that one consequence of the past few months has been a shifting in the West's relationship with China. We've seen the UK plan to remove ",
+            "type": "text",
+            "version": 1
+          },
+          {
+            "children": [
+              {
+                "detail": 0,
+                "format": 0,
+                "mode": "normal",
+                "style": "",
+                "text": "Huawei equipment from its networks",
+                "type": "text",
+                "version": 1
+              }
+            ],
+            "direction": "ltr",
+            "format": "",
+            "indent": 0,
+            "type": "link",
+            "rel": null,
+            "target": null,
+            "title": null,
+            "url": "https://www.bbc.co.uk/news/technology-53403793",
+            "version": 1
+          },
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": ", growing tensions ",
+            "type": "text",
+            "version": 1
+          },
+          {
+            "children": [
+              {
+                "detail": 0,
+                "format": 0,
+                "mode": "normal",
+                "style": "",
+                "text": "between China and Australia",
+                "type": "text",
+                "version": 1
+              }
+            ],
+            "direction": "ltr",
+            "format": "",
+            "indent": 0,
+            "type": "link",
+            "rel": null,
+            "target": null,
+            "title": null,
+            "url": "https://www.skynews.com.au/details/_6170071942001",
+            "version": 1
+          },
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": ", and the clamp-down in Hong Kong ",
+            "type": "text",
+            "version": 1
+          },
+          {
+            "detail": 0,
+            "format": 2,
+            "mode": "normal",
+            "style": "",
+            "text": "(the city pictured above, from my trip there a few years ago to deliver some training)",
+            "type": "text",
+            "version": 1
+          },
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": ".",
+            "type": "text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "paragraph",
+        "version": 1
+      },
+      {
+        "children": [
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": "It's the latter that has led to one newsroom start to move people out of Hong Kong and into Korea. I would be surprised if more don't follow. ",
+            "type": "text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "paragraph",
+        "version": 1
+      },
+      {
+        "type": "bookmark",
+        "url": "https://www.nytimes.com/2020/07/14/business/media/new-york-times-hong-kong.html",
+        "metadata": {
+          "url": "https://www.nytimes.com/2020/07/14/business/media/new-york-times-hong-kong.html",
+          "title": "New York Times Will Move Part of Hong Kong Office to Seoul",
+          "description": "A sweeping national security law passed by China in June has unsettled news organizations and created uncertainty about the city’s prospects as a hub for journalism in Asia.",
+          "author": "Michael M. Grynbaum",
+          "publisher": "NYTimes",
+          "thumbnail": "https://static01.nyt.com/images/2020/07/14/business/14grynbaum-01/14grynbaum-01-facebookJumbo.jpg",
+          "icon": "https://www.nytimes.com/vi-assets/static-assets/apple-touch-icon-319373aaf4524d94d38aa599c56b8655.png"
+        }
+      },
+      {
+        "children": [
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": "But for most of us, the bigger concern should be TikTok. Yes, that social network which is still a running joke in many quarters, yet which has been a focus of time and investment for many audience engagement teams. Are we making a mistake we've made before? Are we allowing our experimentation to give credibility to a growing platform which could be an existential threat to us?",
+            "type": "text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "paragraph",
+        "version": 1
+      },
+      {
+        "children": [
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": "That's what we did with Facebook. And there's reason to think that TikTok could be a bigger threat. ",
+            "type": "text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "paragraph",
+        "version": 1
+      },
+      {
+        "children": [
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": "But it's ",
+            "type": "text",
+            "version": 1
+          },
+          {
+            "detail": 0,
+            "format": 2,
+            "mode": "normal",
+            "style": "",
+            "text": "not",
+            "type": "text",
+            "version": 1
+          },
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": " about the data. Yes, we should assume that any data about us that goes into TikTok will be accessible to the Chinese government - but the sandboxed nature of modern phone operating systems limits how much data they can scoop up. ",
+            "type": "text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "paragraph",
+        "version": 1
+      },
+      {
+        "children": [
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": "Ben Thompson makes an excellent argument about what we ",
+            "type": "text",
+            "version": 1
+          },
+          {
+            "detail": 0,
+            "format": 2,
+            "mode": "normal",
+            "style": "",
+            "text": "should",
+            "type": "text",
+            "version": 1
+          },
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": " be worrying about. But before we get to that, it's worth noting that, in passing, he neatly sums up ",
+            "type": "text",
+            "version": 1
+          },
+          {
+            "detail": 0,
+            "format": 2,
+            "mode": "normal",
+            "style": "",
+            "text": "why",
+            "type": "text",
+            "version": 1
+          },
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": " TikTok works:",
+            "type": "text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "paragraph",
+        "version": 1
+      },
+      {
+        "type": "markdown",
+        "markdown": "> * Humans prefer video to photos to text\n> * TikTok makes it easy to create videos, ensuring a massive supply of content (even if most of the supply is low quality)\n> * TikTok relies on the algorithm to surface compelling content, and is not constrained by your social network"
+      },
+      {
+        "children": [
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": "But he also zeros in on ",
+            "type": "text",
+            "version": 1
+          },
+          {
+            "detail": 0,
+            "format": 2,
+            "mode": "normal",
+            "style": "",
+            "text": "exactly",
+            "type": "text",
+            "version": 1
+          },
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": " why news organisations should be wary of building up TikTok as a channel too much. ",
+            "type": "text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "paragraph",
+        "version": 1
+      },
+      {
+        "children": [
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": "TikTok’s algorithm, unmoored from the constraints of your social network or professional content creators, is free to promote whatever videos it likes, without anyone knowing the difference. TikTok could promote a particular candidate or a particular issue in a particular geography, without anyone — except perhaps the candidate, now indebted to a Chinese company — knowing. You may be skeptical this might happen, but again, China has already demonstrated a willingness to censor speech on a platform banned in China; how much of a leap is it to think that a Party committed to ideological dominance will forever leave a route directly into the hearts and minds of millions of Americans untouched?",
+            "type": "text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "quote",
+        "version": 1
+      },
+      {
+        "children": [
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": "And it's not just America that should be concerned - it's all of us. ",
+            "type": "text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "paragraph",
+        "version": 1
+      },
+      {
+        "type": "bookmark",
+        "url": "https://stratechery.com/2020/the-tiktok-war/",
+        "metadata": {
+          "url": "https://stratechery.com/2020/the-tiktok-war/",
+          "title": "The TikTok War",
+          "description": "How TikTok exposed Facebook’s blindspot, thanks to its Chinese roots, and why those Chinese roots make TikTok a genuine concern.",
+          "author": "Ben Thompson",
+          "publisher": "Stratechery by Ben Thompson",
+          "thumbnail": "https://stratechery.com/wp-content/uploads/2020/07/tiktok-1-1024x553.png",
+          "icon": "https://stratechery.com/wp-content/uploads/2018/03/cropped-android-chrome-512x512-1-192x192.png"
+        }
+      },
+      {
+        "children": [
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": "Verification: Don't publish stories from fake people",
+            "type": "text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "heading",
+        "tag": "h2",
+        "version": 1
+      },
+      {
+        "children": [
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": "You think checking out who someone was before you publish a piece from them would be basic journalism hygiene. And yet, two newspapers published articles from a student - who doesn't exist:",
+            "type": "text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "paragraph",
+        "version": 1
+      },
+      {
+        "children": [
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": "Taylor appears to have had no online presence until he started writing articles in late December. The University of Birmingham said in a statement it could not find “any record of this individual using these details.” Editors at the Jerusalem Post and The Algemeiner say they published Taylor after he pitched them stories cold over email. He didn’t ask for payment, they said, and they didn’t take aggressive steps to vet his identity.",
+            "type": "text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "quote",
+        "version": 1
+      },
+      {
+        "children": [
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": "Even his profile pic is an algorithmically-generated one.",
+            "type": "text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "paragraph",
+        "version": 1
+      },
+      {
+        "children": [
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": "Jaw-dropping.",
+            "type": "text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "paragraph",
+        "version": 1
+      },
+      {
+        "type": "bookmark",
+        "url": "https://www.reuters.com/article/us-cyber-deepfake-activist/deepfake-used-to-attack-activist-couple-shows-new-disinformation-frontier-idUSKCN24G15E",
+        "metadata": {
+          "url": "https://www.reuters.com/article/us-cyber-deepfake-activist-idUSKCN24G15E",
+          "title": "Deepfake used to attack activist couple shows new disinformation frontier",
+          "description": "Oliver Taylor, a student at England’s University of Birmingham, is a twenty-something with brown eyes, light stubble, and a slightly stiff smile.",
+          "author": "Raphael Satter",
+          "publisher": "Reuters",
+          "thumbnail": "https://s3.reutersmedia.net/resources/r/?m=02&d=20200715&t=2&i=1525792093&w=1200&r=LYNXNPEG6E0L5",
+          "icon": "https://s3.reutersmedia.net/resources_v2/images/apple-touch-icon.png"
+        }
+      },
+      {
+        "children": [
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": "Audio: The Washington Post in your ears",
+            "type": "text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "heading",
+        "tag": "h2",
+        "version": 1
+      },
+      {
+        "children": [
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": "The ",
+            "type": "text",
+            "version": 1
+          },
+          {
+            "detail": 0,
+            "format": 2,
+            "mode": "normal",
+            "style": "",
+            "text": "Washington Post",
+            "type": "text",
+            "version": 1
+          },
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": " is making ",
+            "type": "text",
+            "version": 1
+          },
+          {
+            "detail": 0,
+            "format": 2,
+            "mode": "normal",
+            "style": "",
+            "text": "all",
+            "type": "text",
+            "version": 1
+          },
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": " of its articles ",
+            "type": "text",
+            "version": 1
+          },
+          {
+            "children": [
+              {
+                "detail": 0,
+                "format": 0,
+                "mode": "normal",
+                "style": "",
+                "text": "available as audio versions in its apps",
+                "type": "text",
+                "version": 1
+              }
+            ],
+            "direction": "ltr",
+            "format": "",
+            "indent": 0,
+            "type": "link",
+            "rel": null,
+            "target": null,
+            "title": null,
+            "url": "https://www.washingtonpost.com/pr/2020/07/13/readers-can-now-listen-stories-washington-posts-android-ios-apps/",
+            "version": 1
+          },
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": ". They're not being professionally-recorded, but being delivered using the text-to-speech capabilities of the apps. ",
+            "type": "text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "paragraph",
+        "version": 1
+      },
+      {
+        "children": [
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": "I'm honestly surprised that more sites aren't doing something like this - it's been a success for most people who tried it. ",
+            "type": "text",
+            "version": 1
+          },
+          {
+            "detail": 0,
+            "format": 2,
+            "mode": "normal",
+            "style": "",
+            "text": "Zetland",
+            "type": "text",
+            "version": 1
+          },
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": " was talking about ",
+            "type": "text",
+            "version": 1
+          },
+          {
+            "children": [
+              {
+                "detail": 0,
+                "format": 0,
+                "mode": "normal",
+                "style": "",
+                "text": "how successful this approach was",
+                "type": "text",
+                "version": 1
+              }
+            ],
+            "direction": "ltr",
+            "format": "",
+            "indent": 0,
+            "type": "link",
+            "rel": null,
+            "target": null,
+            "title": null,
+            "url": "__GHOST_URL__/2018/05/zetlands-audio-stories-are-outperforming-its-written-ones/",
+            "version": 1
+          },
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": " two years ago — And ",
+            "type": "text",
+            "version": 1
+          },
+          {
+            "detail": 0,
+            "format": 2,
+            "mode": "normal",
+            "style": "",
+            "text": "The Economist",
+            "type": "text",
+            "version": 1
+          },
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": " has been doing it ",
+            "type": "text",
+            "version": 1
+          },
+          {
+            "children": [
+              {
+                "detail": 0,
+                "format": 0,
+                "mode": "normal",
+                "style": "",
+                "text": "for nearly a decade",
+                "type": "text",
+                "version": 1
+              }
+            ],
+            "direction": "ltr",
+            "format": "",
+            "indent": 0,
+            "type": "link",
+            "rel": null,
+            "target": null,
+            "title": null,
+            "url": "https://www.journalism.co.uk/news/the-economist-how-audio-editions-and-podcasts-are-created/s2/a551030/",
+            "version": 1
+          },
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": ".",
+            "type": "text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "paragraph",
+        "version": 1
+      },
+      {
+        "children": [
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": "It will be interesting to see if the automated version is anywhere near as effective. ",
+            "type": "text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "paragraph",
+        "version": 1
+      },
+      {
+        "children": [
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": "The Lean Back Read: Dawn of Fake News",
+            "type": "text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "heading",
+        "tag": "h2",
+        "version": 1
+      },
+      {
+        "children": [
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": "This is an absorbing look at how both people and circumstances came together to birth the hyperpartisan news industry. Well worth your time. ",
+            "type": "text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "paragraph",
+        "version": 1
+      },
+      {
+        "type": "bookmark",
+        "url": "https://newrepublic.com/article/158025/drudge-revolution-book-review-breitbart-talk-radio-pioneers-right-wing-media?mc_cid=93c48d569a&mc_eid=42007651d5",
+        "metadata": {
+          "url": "https://newrepublic.com/article/158025/drudge-revolution-book-review-breitbart-talk-radio-pioneers-right-wing-media",
+          "title": "The Pioneers of the Misinformation Industry",
+          "description": "How thwarted Hollywood ambitions, Silicon Valley hubris, and a long war on objectivity gave rise to Drudge, Breitbart, and other right-wing media insurgents",
+          "author": "Moira Weigel",
+          "publisher": "The New Republic",
+          "thumbnail": "https://images.newrepublic.com/42fe811f9fdbe395af779cd1c5364b451afa08c4.jpeg?w=1109&h=577&crop=faces&fit=crop&fm=jpg",
+          "icon": "https://assets.newrepublic.com/assets/favicons/favicon-194x194.png"
+        }
+      },
+      {
+        "children": [],
+        "direction": null,
+        "format": "",
+        "indent": 0,
+        "type": "paragraph",
+        "version": 1
+      }
+    ],
+    "direction": "ltr",
+    "format": "",
+    "indent": 0,
+    "type": "root",
+    "version": 1
+  }
+}

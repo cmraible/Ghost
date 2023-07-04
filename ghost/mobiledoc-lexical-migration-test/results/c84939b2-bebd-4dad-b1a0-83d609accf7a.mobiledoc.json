@@ -1,0 +1,1417 @@
+{
+  "version": "0.3.1",
+  "atoms": [
+    [
+      "soft-return",
+      "",
+      {}
+    ]
+  ],
+  "cards": [
+    [
+      "email-cta",
+      {
+        "showButton": true,
+        "showDividers": false,
+        "segment": "status:-free",
+        "alignment": "center",
+        "html": "<p><em><strong>This is You Love To See It — a weekly feature reviewing good news, progress and action steps that’s one of the many features available only to </strong></em><strong>Lever</strong><em><strong> supporting subscribers. Thank you so much for being a supporting subscriber — we couldn’t do this reporting without your support.</strong></em></p>",
+        "buttonText": "Click Here To Comment",
+        "buttonUrl": "__GHOST_URL__/you-love-to-see-it-we-can-have-nice-things-if-we-fight/#comments"
+      }
+    ],
+    [
+      "email",
+      {
+        "html": "<p><em><strong><a href=\"https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.levernews.com%2Fyou-love-to-see-it-we-can-have-nice-things-if-we-fight%2F&amp;amp;src=sdkpreparse\">Click to share on Facebook</a></strong></em></p>"
+      }
+    ],
+    [
+      "paywall",
+      {}
+    ],
+    [
+      "embed",
+      {
+        "url": "https://twitter.com/SummerForPA/status/1527682077839212547?s=20&t=jfa1VZ6ta--7ZSEcm1QG0Q",
+        "html": "<blockquote class=\"twitter-tweet\"><p lang=\"en\" dir=\"ltr\">$4.5 mill 🔥🗑 <a href=\"https://t.co/XI7RmXZx0P\">https://t.co/XI7RmXZx0P</a></p>&mdash; Summer Lee (@SummerForPA) <a href=\"https://twitter.com/SummerForPA/status/1527682077839212547?ref_src=twsrc%5Etfw\">May 20, 2022</a></blockquote>\n<script async src=\"https://platform.twitter.com/widgets.js\" charset=\"utf-8\"></script>\n",
+        "type": "twitter",
+        "metadata": {
+          "url": "https://twitter.com/SummerForPA/status/1527682077839212547",
+          "author_name": "Summer Lee",
+          "author_url": "https://twitter.com/SummerForPA",
+          "width": 550,
+          "height": null,
+          "cache_age": "3153600000",
+          "provider_name": "Twitter",
+          "provider_url": "http://www.twitter.com/",
+          "version": "1.0",
+          "tweet_data": {
+            "context_annotations": [
+              {
+                "domain": {
+                  "id": "29",
+                  "name": "Events [Entity Service]",
+                  "description": "Entity Service related Events domain"
+                },
+                "entity": {
+                  "id": "1517623051860414465",
+                  "name": "World Environment Day"
+                }
+              }
+            ],
+            "lang": "en",
+            "author_id": "917389190328877056",
+            "reply_settings": "everyone",
+            "conversation_id": "1527682077839212547",
+            "source": "Twitter for Android",
+            "text": "$4.5 mill 🔥🗑 https://t.co/XI7RmXZx0P",
+            "possibly_sensitive": false,
+            "entities": {
+              "urls": [
+                {
+                  "start": 13,
+                  "end": 36,
+                  "url": "https://t.co/XI7RmXZx0P",
+                  "expanded_url": "https://twitter.com/Redistrict/status/1527677794607587335",
+                  "display_url": "twitter.com/Redistrict/sta…"
+                }
+              ]
+            },
+            "id": "1527682077839212547",
+            "created_at": "2022-05-20T16:06:04.000Z",
+            "referenced_tweets": [
+              {
+                "type": "quoted",
+                "id": "1527677794607587335"
+              }
+            ],
+            "public_metrics": {
+              "retweet_count": 1107,
+              "reply_count": 166,
+              "like_count": 11105,
+              "quote_count": 64
+            },
+            "includes": {
+              "users": [
+                {
+                  "pinned_tweet_id": "1450403307298689026",
+                  "public_metrics": {
+                    "followers_count": 48217,
+                    "following_count": 1562,
+                    "tweet_count": 7931,
+                    "listed_count": 346
+                  },
+                  "username": "SummerForPA",
+                  "id": "917389190328877056",
+                  "verified": true,
+                  "created_at": "2017-10-09T14:00:02.000Z",
+                  "description": "Democrat for Congress #PA12 organizing, politicizing, & mobilizing around racial, econ, & enviro justice.\n\nShe/her\n\n#HUSL\n#allpowertothepeople",
+                  "url": "https://t.co/bP4kljrEdU",
+                  "profile_image_url": "https://pbs.twimg.com/profile_images/1450299194221252616/ikKRF6kf_normal.jpg",
+                  "entities": {
+                    "url": {
+                      "urls": [
+                        {
+                          "start": 0,
+                          "end": 23,
+                          "url": "https://t.co/bP4kljrEdU",
+                          "expanded_url": "http://www.summerforpa.com",
+                          "display_url": "summerforpa.com"
+                        }
+                      ]
+                    },
+                    "description": {
+                      "hashtags": [
+                        {
+                          "start": 22,
+                          "end": 27,
+                          "tag": "PA12"
+                        },
+                        {
+                          "start": 116,
+                          "end": 121,
+                          "tag": "HUSL"
+                        },
+                        {
+                          "start": 122,
+                          "end": 142,
+                          "tag": "allpowertothepeople"
+                        }
+                      ]
+                    }
+                  },
+                  "name": "Summer Lee",
+                  "location": "Braddock, PA",
+                  "protected": false
+                },
+                {
+                  "public_metrics": {
+                    "followers_count": 572656,
+                    "following_count": 1074,
+                    "tweet_count": 19142,
+                    "listed_count": 9755
+                  },
+                  "username": "Redistrict",
+                  "id": "74820061",
+                  "verified": true,
+                  "created_at": "2009-09-16T19:50:43.000Z",
+                  "description": "U.S. House editor of the nonpartisan @CookPolitical Report w/ @AmyEWalter. Nerd for 🗺️ maps, 📈 data, ⛷️ ski slopes & 🎻 trad tunes. Has seen enough.",
+                  "url": "https://t.co/aP3wcOmlEz",
+                  "profile_image_url": "https://pbs.twimg.com/profile_images/1320235654182305792/nLQ1eTuc_normal.jpg",
+                  "entities": {
+                    "url": {
+                      "urls": [
+                        {
+                          "start": 0,
+                          "end": 23,
+                          "url": "https://t.co/aP3wcOmlEz",
+                          "expanded_url": "http://cookpolitical.com/about/staff/david-wasserman",
+                          "display_url": "cookpolitical.com/about/staff/da…"
+                        }
+                      ]
+                    },
+                    "description": {
+                      "mentions": [
+                        {
+                          "start": 37,
+                          "end": 51,
+                          "username": "CookPolitical"
+                        },
+                        {
+                          "start": 62,
+                          "end": 73,
+                          "username": "AmyEWalter"
+                        }
+                      ]
+                    }
+                  },
+                  "name": "Dave Wasserman",
+                  "location": "Washington, DC",
+                  "protected": false
+                }
+              ],
+              "tweets": [
+                {
+                  "context_annotations": [
+                    {
+                      "domain": {
+                        "id": "10",
+                        "name": "Person",
+                        "description": "Named people in the world like Nelson Mandela"
+                      },
+                      "entity": {
+                        "id": "1054506276032405504",
+                        "name": "Dave Wasserman",
+                        "description": "Dave Wasserman"
+                      }
+                    },
+                    {
+                      "domain": {
+                        "id": "29",
+                        "name": "Events [Entity Service]",
+                        "description": "Entity Service related Events domain"
+                      },
+                      "entity": {
+                        "id": "1517623051860414465",
+                        "name": "World Environment Day"
+                      }
+                    },
+                    {
+                      "domain": {
+                        "id": "94",
+                        "name": "Journalist",
+                        "description": "A journalist like 'Anderson Cooper'"
+                      },
+                      "entity": {
+                        "id": "1054506276032405504",
+                        "name": "Dave Wasserman",
+                        "description": "Dave Wasserman"
+                      }
+                    }
+                  ],
+                  "entities": {
+                    "annotations": [
+                      {
+                        "start": 24,
+                        "end": 38,
+                        "probability": 0.3103,
+                        "type": "Person",
+                        "normalized_text": "Rep. Summer Lee"
+                      },
+                      {
+                        "start": 82,
+                        "end": 92,
+                        "probability": 0.9884,
+                        "type": "Person",
+                        "normalized_text": "Steve Irwin"
+                      }
+                    ],
+                    "hashtags": [
+                      {
+                        "start": 53,
+                        "end": 58,
+                        "tag": "PA12"
+                      }
+                    ]
+                  },
+                  "lang": "en",
+                  "author_id": "74820061",
+                  "reply_settings": "everyone",
+                  "conversation_id": "1527677794607587335",
+                  "source": "Twitter Web App",
+                  "text": "I've seen enough: state Rep. Summer Lee (D) wins the #PA12 Dem primary, defeating Steve Irwin (D).",
+                  "possibly_sensitive": false,
+                  "id": "1527677794607587335",
+                  "created_at": "2022-05-20T15:49:03.000Z",
+                  "public_metrics": {
+                    "retweet_count": 1080,
+                    "reply_count": 216,
+                    "like_count": 9439,
+                    "quote_count": 403
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    ],
+    [
+      "embed",
+      {
+        "url": "https://www.youtube.com/watch?v=ES72T_wW228",
+        "html": "<iframe width=\"200\" height=\"150\" src=\"https://www.youtube.com/embed/ES72T_wW228?feature=oembed\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+        "type": "video",
+        "metadata": {
+          "title": "Comrades",
+          "author_name": "Bambu - Topic",
+          "author_url": "https://www.youtube.com/channel/UCMKgD2jI6rODLmbXz6HIbrA",
+          "height": 150,
+          "width": 200,
+          "version": "1.0",
+          "provider_name": "YouTube",
+          "provider_url": "https://www.youtube.com/",
+          "thumbnail_height": 360,
+          "thumbnail_width": 480,
+          "thumbnail_url": "https://i.ytimg.com/vi/ES72T_wW228/hqdefault.jpg"
+        }
+      }
+    ],
+    [
+      "email-cta",
+      {
+        "showButton": true,
+        "showDividers": false,
+        "segment": "status:-free",
+        "alignment": "center",
+        "html": "",
+        "buttonText": "Click Here To Comment",
+        "buttonUrl": "__GHOST_URL__/you-love-to-see-it-we-can-have-nice-things-if-we-fight/#comments"
+      }
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "email-cta",
+      {
+        "showButton": true,
+        "showDividers": false,
+        "segment": "status:-free",
+        "alignment": "center",
+        "html": "",
+        "buttonText": "Tip Jar",
+        "buttonUrl": "https://dailyposter.outpost.pub/ghost-integration/60818189ad12f332071054b8/tips"
+      }
+    ],
+    [
+      "email-cta",
+      {
+        "showButton": true,
+        "showDividers": false,
+        "segment": "status:free",
+        "alignment": "center",
+        "html": "",
+        "buttonText": "Upgrade",
+        "buttonUrl": "https://levernews.com/membership/?utm_source=yltsi-free&utm_medium=link&utm_campaign=upgrade"
+      }
+    ],
+    [
+      "email",
+      {
+        "html": "<p><em><strong>Help us spread the word! </strong>Please forward this email to family and friends.</em></p><p><em><strong>Was this email forwarded to you? </strong><a href=\"https://levernews.com/membership/?utm_source=yltsi-paid&amp;utm_medium=link&amp;utm_campaign=forward-signup\">Sign up for free</a> to receive original reporting like this in your inbox every day.</em></p>"
+      }
+    ]
+  ],
+  "markups": [
+    [
+      "a",
+      [
+        "href",
+        "https://paydayreport.com/pgh-congressional-candidate-steve-irwin-led-law-firms-union-avoidance-division/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://theintercept.com/2022/05/16/pennsylvania-summer-lee-steve-irwin-israel-aipac/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://twitter.com/SummerForPA/status/1526930416221016065?t=kc2EGXf9fDlUQH3ZDpc-Nw&s=19"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/the-corporate-threat-in-dems-must-win-senate-race/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://jewishinsider.com/2022/04/john-fetterman-says-hell-lean-in-on-u-s-israel-relationship-as-senator/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/follow-the-pharma-money/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.wweek.com/news/state/2022/05/19/in-state-elections-complaint-mcleod-skinner-campaign-alleges-unequal-access-to-clackamas-county-vote-count/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.wweek.com/news/state/2022/05/17/crypto-backed-oregon-congressional-candidate-lost-to-andrea-salinas-despite-13-million-in-backing/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/dem-voters-flip-off-party-leaders-and-their-big-donors/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.consumerfinance.gov/about-us/newsroom/cfpb-bolsters-enforcement-efforts-by-states/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://twitter.com/CMRJB/status/1527408592529281025?t=MwRcoyDsl8eZuI0dUcAx5g&s=19"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://twitter.com/greenhousenyt/status/1527440816909737997?t=F9mgBTmr87aranydZz4G7A&s=19"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://twitter.com/SBWorkersUnited/status/1527459202616250369?t=TU9h2K27eXUIukqsFSRi6A&s=19"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://twitter.com/greenhousenyt/status/1527454394459082755?t=GGH6ntcWhV5z7-Af_f_C3A&s=19"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.bloomberg.com/news/articles/2022-05-19/amazon-threatened-workers-over-union-vote-labor-officials-find"
+      ]
+    ],
+    [
+      "em"
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://twitter.com/budrykzack/status/1526919836055527426?s=21&t=8FgbWY640e7nJRec9MxOvg"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://twitter.com/ACWorkersUnited/status/1527362284367949851?t=dVT470GRIkuXFd_kpA01Lw&s=19"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://jacobinmag.com/2022/05/labor-unions-nlrb-starbucks-target-trader-joes"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://special.usps.com/testkits"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://twitter.com/edokeefe/status/1527046436004700161"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://twitter.com/ajeansu/status/1527049203838590976?t=tkq6N48RmQqRbmtajCVTdg&s=19"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/where-is-biden-in-the-global-war-on-omicron/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/cheat-sheet-five-things-to-know-about-white-supremacist-terror/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://twitter.com/LeslieMac/status/1525875352697978880?t=RQOHFx6W74vC7KOPgKt4dA&s=19"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/mccarthy-era-law-aimed-at-pro-choice-protesters/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://fair.org/home/action-alert-wapo-calls-peaceful-protest-against-roe-reversal-totalitarian/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://docs.google.com/document/d/1va_KFha4rKYn3URhjikp87HjJ194yIj4a9q1EapPMnY/edit?hss_channel=tw-950387703824216064"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://twitter.com/aditiramaswami/status/1517330245182902272"
+      ]
+    ],
+    [
+      "strong"
+    ]
+  ],
+  "sections": [
+    [
+      10,
+      0
+    ],
+    [
+      10,
+      1
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Good things are happening! Democratic voters in Pennsylvania and Oregon flipped off party leaders and their super PAC donors by choosing anti-establishment progressives over corporate Democrats in this week’s primaries. Also, the Consumer Financial Protection Bureau is giving states more power to hunt down bad actors, unionization efforts nationwide are flourishing, and the Biden admin green-lit another round of free at-home COVID tests."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "All this and much more in this week’s edition of You Love To See It, exclusively for supporting subscribers below."
+        ]
+      ]
+    ],
+    [
+      10,
+      2
+    ],
+    [
+      1,
+      "h3",
+      [
+        [
+          0,
+          [],
+          0,
+          "One Nation, Underdog"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Much to the chagrin of corporate Democrats and their super PAC donors, progressives in Pennsylvania and Oregon miraculously eked out wins in Tuesday’s primaries. "
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Pennsylvania state Rep. Summer Lee, an anti-fracking progressive running in the 12th congressional district, won in Tuesday’s Democratic primary against former Republican U.S. Senate staffer and "
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "union-avoidance lawyer"
+        ],
+        [
+          0,
+          [],
+          0,
+          " Steve Irwin. Lee’s win in fracking country came as a pleasant surprise, especially given the "
+        ],
+        [
+          0,
+          [
+            1
+          ],
+          1,
+          "more than $3.4 million"
+        ],
+        [
+          0,
+          [],
+          0,
+          " that outside groups tied to pro-Israel American Israel Public Affairs Committee (AIPAC) poured into the race. "
+        ],
+        [
+          1,
+          [],
+          0,
+          0
+        ]
+      ]
+    ],
+    [
+      10,
+      3
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "“Our victory shows that we can overcome the billionaire class that wants to divide and conquer us all with fear and lies-for-profit, if only we come together across our differences for a positive vision of multiracial democracy,” Lee "
+        ],
+        [
+          0,
+          [
+            2
+          ],
+          1,
+          "tweeted"
+        ],
+        [
+          0,
+          [],
+          0,
+          ". “We can have nice things, if we fight.”"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Also in Pennsylvania, Lt. Gov. John Fetterman, whose campaign survived attacks from a "
+        ],
+        [
+          0,
+          [
+            3
+          ],
+          1,
+          "health insurance-aligned super PAC"
+        ],
+        [
+          0,
+          [],
+          0,
+          ", beat conservative Democratic Rep. Conor Lamb in the Senate primary. Fetterman’s victory came despite Lamb receiving the establishment’s support and Fetterman having surgery to implant a pacemaker on Election Day following a stroke he had last Friday. Fetterman has voiced his support for a host of progessive priorities, from universal health care to recreational marijuana legalization. It’s worth noting, however, that Fetterman supports fracking and that he intends, if elected this November, to "
+        ],
+        [
+          0,
+          [
+            4
+          ],
+          1,
+          "help bolster"
+        ],
+        [
+          0,
+          [],
+          0,
+          " the cozy relationship between the U.S. and Israel."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "In Oregon, Rep. Kurt Schrader, a Biden- and "
+        ],
+        [
+          0,
+          [
+            5
+          ],
+          1,
+          "Big Pharma-backed"
+        ],
+        [
+          0,
+          [],
+          0,
+          " Dem representing the state’s 5th congressional district, is likely to lose his seat to progressive challenger Jamie McLeod-Skinner, once Clackamas County’s ballots have "
+        ],
+        [
+          0,
+          [
+            6
+          ],
+          1,
+          "all been counted"
+        ],
+        [
+          0,
+          [],
+          0,
+          ". Results should be in by next week."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Also in Oregon, state Rep. Andrea Salinas, who was backed by the Working Families Party and other national and local progressive groups, won her congressional primary against Carrick Flynn in district 6 — a stunning upset, given the "
+        ],
+        [
+          0,
+          [
+            7
+          ],
+          1,
+          "$13 million"
+        ],
+        [
+          0,
+          [],
+          0,
+          " in super PAC spending for Flynn. If Salinas wins in November’s general election, she will be the first Latina representing Oregon in Congress. "
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "The progressive candidates’ success follows new polling data showing "
+        ],
+        [
+          0,
+          [
+            8
+          ],
+          1,
+          "Democratic voters are disgruntled"
+        ],
+        [
+          0,
+          [],
+          0,
+          " with their party’s incrementalism."
+        ]
+      ]
+    ],
+    [
+      1,
+      "h3",
+      [
+        [
+          0,
+          [],
+          0,
+          "A Win For Consumers"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Yesterday, the Consumer Financial Protection Bureau (CFPB), the agency charged with protecting Americans from bad actors in the financial sector, "
+        ],
+        [
+          0,
+          [
+            9
+          ],
+          1,
+          "announced a rule"
+        ],
+        [
+          0,
+          [],
+          0,
+          " making clear that state regulators and attorneys general can go after companies and individuals that violate federal consumer financial protection laws — such as the Fair Credit Reporting Act, which protects information collected by consumer reporting agencies."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "“In the years leading up to the financial crisis, federal regulators undermined states seeking to protect families and businesses from abuses in the mortgage market,” said CFPB Director Rohit Chopra. “Our action today demonstrates our commitment to promoting state enforcement, not suffocating it.”"
+        ]
+      ]
+    ],
+    [
+      1,
+      "h3",
+      [
+        [
+          0,
+          [],
+          0,
+          "State Of The Unions"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "•  On Thursday, there were union victories at "
+        ],
+        [
+          0,
+          [
+            10
+          ],
+          1,
+          "three Starbucks"
+        ],
+        [
+          0,
+          [],
+          0,
+          " locations in Colorado; one at a Starbucks in Waban, Massachusetts; and one in Newport News, Virginia. In total, "
+        ],
+        [
+          0,
+          [
+            11
+          ],
+          1,
+          "more than 80"
+        ],
+        [
+          0,
+          [],
+          0,
+          " Starbucks stores have been unionized. Kudos to Starbucks Workers United! To help support SWU’s efforts, "
+        ],
+        [
+          0,
+          [
+            12
+          ],
+          1,
+          "click here"
+        ],
+        [
+          0,
+          [],
+          0,
+          " to chip in for Starbucks workers’ bills while they strike against illegal union-busting in Columbia, South Carolina."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "•  The National Labor Relations Board told Amazon Labor Union — the nascent group responsible for the Staten Island Amazon warehouse win last month — that it plans to bring "
+        ],
+        [
+          0,
+          [
+            13
+          ],
+          1,
+          "a new complaint against Amazon"
+        ],
+        [
+          0,
+          [],
+          0,
+          " for additional "
+        ],
+        [
+          0,
+          [
+            14
+          ],
+          1,
+          "labor law violations"
+        ],
+        [
+          0,
+          [],
+          0,
+          ". Those potential violations include the company allegedly holding illegal captive audience meetings, telling employees who signed union authorization cards that they would give up their right to speak for themselves, and threatening to withhold benefits from employees, among other illegal activity."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "•  Journalists at "
+        ],
+        [
+          0,
+          [
+            15
+          ],
+          1,
+          "The Hill"
+        ],
+        [
+          0,
+          [],
+          0,
+          " are seeking to unionize and "
+        ],
+        [
+          0,
+          [
+            16
+          ],
+          1,
+          "just requested"
+        ],
+        [
+          0,
+          [],
+          0,
+          " voluntary recognition of The Hill Guild from Nexstar Media. "
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "•  On Thursday, Amherst Cinema Workers United "
+        ],
+        [
+          0,
+          [
+            17
+          ],
+          1,
+          "received"
+        ],
+        [
+          0,
+          [],
+          0,
+          " notice of voluntary recognition."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "•  Labor reporter Alex Press wrote a "
+        ],
+        [
+          0,
+          [
+            18
+          ],
+          1,
+          "great piece"
+        ],
+        [
+          0,
+          [],
+          0,
+          " on budding unionization efforts across the retail sector, including at Apple, REI, and Target."
+        ]
+      ]
+    ],
+    [
+      1,
+      "h3",
+      [
+        [
+          0,
+          [],
+          0,
+          "Wait, Biden Actually Did Something?"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "The Biden admin opened another round of free home COVID-19 tests that folks can order "
+        ],
+        [
+          0,
+          [
+            19
+          ],
+          1,
+          "here"
+        ],
+        [
+          0,
+          [],
+          0,
+          ". Each order includes eight rapid antigen tests, and shipping is free."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Earlier this week, Biden also "
+        ],
+        [
+          0,
+          [
+            20
+          ],
+          1,
+          "announced"
+        ],
+        [
+          0,
+          [],
+          0,
+          " that his administration will invoke the Defense Production Act to accelerate baby formula production. Now, "
+        ],
+        [
+          0,
+          [
+            21
+          ],
+          1,
+          "if only"
+        ],
+        [
+          0,
+          [],
+          0,
+          " he could use the DPA to help the solve other crises, like our destructive fossil fuel dependence or a "
+        ],
+        [
+          0,
+          [
+            22
+          ],
+          1,
+          "lack of COVID vaccines"
+        ],
+        [
+          0,
+          [],
+          0,
+          " in many countries around the world. "
+        ]
+      ]
+    ],
+    [
+      1,
+      "h3",
+      [
+        [
+          0,
+          [],
+          0,
+          "Want To Get Involved?"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "•  The Tops supermarket in Buffalo, where the devastating shooting by a "
+        ],
+        [
+          0,
+          [
+            23
+          ],
+          1,
+          "white supremacist"
+        ],
+        [
+          0,
+          [],
+          0,
+          " occurred last weekend, is a crucial source of groceries and community resources. Because of the "
+        ],
+        [
+          0,
+          [
+            24
+          ],
+          1,
+          "physical and emotional toll"
+        ],
+        [
+          0,
+          [],
+          0,
+          " the mass shooting has taken on members of the predominantly Black neighborhood in which it occurred, it’s worth contributing to the Buffalo Community Fridge, if able. Their Venmo handle is @bflocommunityfridge.  "
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "•  In light of the "
+        ],
+        [
+          0,
+          [
+            15
+          ],
+          1,
+          "Washington Post "
+        ],
+        [
+          0,
+          [],
+          0,
+          "editorial board "
+        ],
+        [
+          0,
+          [
+            25
+          ],
+          1,
+          "demanding the arrests"
+        ],
+        [
+          0,
+          [],
+          0,
+          " of protesters peacefully demonstrating outside Supreme Court justices’ homes based on the leaked draft opinion to overturn "
+        ],
+        [
+          0,
+          [
+            15
+          ],
+          1,
+          "Roe v. Wade"
+        ],
+        [
+          0,
+          [],
+          0,
+          ", media watchdog group FAIR is asking people to let the "
+        ],
+        [
+          0,
+          [
+            15
+          ],
+          1,
+          "Post"
+        ],
+        [
+          0,
+          [],
+          0,
+          " know that “repression of peaceful assembly is incompatible with democracy.” You can find more information "
+        ],
+        [
+          0,
+          [
+            26
+          ],
+          1,
+          "here"
+        ],
+        [
+          0,
+          [],
+          0,
+          ". "
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "•  Urge the Manhattan District Attorney to "
+        ],
+        [
+          0,
+          [
+            27
+          ],
+          1,
+          "drop all charges"
+        ],
+        [
+          0,
+          [],
+          0,
+          " against Tracy McCarter, a Black woman who was charged with murder for defending herself against her abusive partner in March of 2020. "
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "You can count on us to bring more good news next week! For now, YLTSI author Aditi Ramaswami is settling into their weekend with a "
+        ],
+        [
+          0,
+          [
+            28
+          ],
+          1,
+          "Mexican pizza"
+        ],
+        [
+          0,
+          [],
+          0,
+          " (yes, it’s back!) and this track (You Love To Hear It!) for the comrades:"
+        ]
+      ]
+    ],
+    [
+      10,
+      4
+    ],
+    [
+      10,
+      5
+    ],
+    [
+      10,
+      6
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [
+            15,
+            29
+          ],
+          1,
+          "Our news organization relies on readers pitching in to support our journalism. "
+        ],
+        [
+          0,
+          [
+            15,
+            29
+          ],
+          3,
+          "If you like this story, please support "
+        ],
+        [
+          0,
+          [
+            29,
+            15,
+            29
+          ],
+          3,
+          "our"
+        ],
+        [
+          0,
+          [
+            15,
+            15,
+            29
+          ],
+          3,
+          " work."
+        ]
+      ]
+    ],
+    [
+      10,
+      7
+    ],
+    [
+      10,
+      8
+    ],
+    [
+      10,
+      9
+    ]
+  ],
+  "ghostVersion": "4.0"
+}

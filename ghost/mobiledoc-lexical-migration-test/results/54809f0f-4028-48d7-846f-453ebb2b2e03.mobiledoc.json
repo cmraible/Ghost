@@ -1,0 +1,415 @@
+{
+  "version": "0.3.1",
+  "atoms": [],
+  "cards": [
+    [
+      "hr",
+      {}
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "html",
+      {
+        "html": "<table id=\"production-numbers-table\">\n<tbody>\n\t<tr>\n\t\t<td>S Sport Coupe</td>\n\t\t<td>191,370</td>\n\t</tr>\n    \t<tr>\n\t\t<td>Landau Sport Coupe</td>\n\t\t<td>161,902</td>\n\t</tr>\n\t\t<td><b>Total Production</b></td>\n\t\t<td><b>353,272</b></td>\n\t</tr>\n</tbody>\n</table>"
+      }
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "html",
+      {
+        "html": "<table id=\"performance-specs-table\">\n<tbody>\n\t<tr>\n\t\t<th><b>Engine</b></th>\n\t\t<th><b>Size</b></td>\n\t\t<th><b>Carb.</b></td>\n\t\t<th><b>HP</b></td>\n\t\t<th><b>0 to 60</b></td>\n\t\t<th><b>Quarter mile</b></td>\n\t</tr>\n\t<tr>\n\t\t<td>V8</td>\n\t\t<td>305ci</td>\n\t\t<td>1x2bbl</td>\n\t\t<td>140</td>\n\t\t<td>-</td>\n\t\t<td>-</td>\n\t</tr>\n\t<tr>\n\t\t<td>Turbo Fire</td>\n\t\t<td>350ci</td>\n\t\t<td>1x2bbl</td>\n\t\t<td>145</td>\n\t\t<td>-</td>\n\t\t<td>-</td>\n\t</tr>\n\t<tr>\n\t\t<td>Turbo Fire</td>\n\t\t<td>350ci</td>\n\t\t<td>1x4bbl</td>\n\t\t<td>165</td>\n\t\t<td>-</td>\n\t\t<td>-</td>\n\t</tr>\n\t<tr>\n\t\t<td>Turbo Fire</td>\n\t\t<td>400ci</td>\n\t\t<td>1x4bbl</td>\n\t\t<td>175</td>\n\t\t<td>11.1 sec</td>\n\t\t<td>18.1 sec</td>\n\t</tr>\n</tbody>\n</table>"
+      }
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "html",
+      {
+        "html": "<h4 id='colors-sub-heading'>Exterior</h4>\n<div class=\"colors-row\">\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #522220\"></div>\n        <div class=\"color-name\">Mahogany Metallic</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #6f2f2c\"></div>\n        <div class=\"color-name\">Firethorn Metallic</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #66503b\"></div>\n        <div class=\"color-name\">Medium Saddle Metallic</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #fff3b4\"></div>\n        <div class=\"color-name\">Cream</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #75c646\"></div>\n        <div class=\"color-name\">Lime Green Metallic</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #8bbde7\"></div>\n        <div class=\"color-name\">Light Blue Metallic</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #283585\"></div>\n        <div class=\"color-name\">Dark Blue Metallic</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #cfab79\"></div>\n        <div class=\"color-name\">Buckskin</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #f9e287\"></div>\n        <div class=\"color-name\">Cream Gold</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #384239\"></div>\n        <div class=\"color-name\">Dark Green Metallic</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #9e2422\"></div>\n        <div class=\"color-name\">Medium Red</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #ece4d3\"></div>\n        <div class=\"color-name\">White</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #000000\"></div>\n        <div class=\"color-name\">Black</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #858990\"></div>\n        <div class=\"color-name\">Silver</div>\n    </div>\n</div>\n\n<h4 id='colors-sub-heading'>Interior</h4>\n<div class=\"colors-row\">\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #000000\"></div>\n        <div class=\"color-name\">Black</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #1f2a55\"></div>\n        <div class=\"color-name\">Blue</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #ece4d3\"></div>\n        <div class=\"color-name\">White</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #522220\"></div>\n        <div class=\"color-name\">Mahogany</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #cfab79\"></div>\n        <div class=\"color-name\">Buckskin</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #75c646\"></div>\n        <div class=\"color-name\">Lime</div>\n    </div>\n</div>\n"
+      }
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "gallery",
+      {
+        "images": [
+          {
+            "fileName": "1439_1976_Chevrolet_Monte_Carlo-02_low_res.jpg",
+            "row": 0,
+            "width": 790,
+            "height": 573,
+            "src": "__GHOST_URL__/content/images/2020/08/1439_1976_Chevrolet_Monte_Carlo-02_low_res.jpg"
+          },
+          {
+            "fileName": "1440_1976_Chevrolet_Monte_Carlo-03_low_res.jpg",
+            "row": 0,
+            "width": 790,
+            "height": 610,
+            "src": "__GHOST_URL__/content/images/2020/08/1440_1976_Chevrolet_Monte_Carlo-03_low_res.jpg"
+          },
+          {
+            "fileName": "1441_1976_Chevrolet_Monte_Carlo-04_low_res.jpg",
+            "row": 0,
+            "width": 790,
+            "height": 596,
+            "src": "__GHOST_URL__/content/images/2020/08/1441_1976_Chevrolet_Monte_Carlo-04_low_res.jpg"
+          },
+          {
+            "fileName": "1442_1976_Chevrolet_Monte_Carlo-05_low_res.jpg",
+            "row": 1,
+            "width": 790,
+            "height": 602,
+            "src": "__GHOST_URL__/content/images/2020/08/1442_1976_Chevrolet_Monte_Carlo-05_low_res.jpg"
+          },
+          {
+            "fileName": "1443_1976_Chevrolet_Monte_Carlo-06_low_res.jpg",
+            "row": 1,
+            "width": 790,
+            "height": 604,
+            "src": "__GHOST_URL__/content/images/2020/08/1443_1976_Chevrolet_Monte_Carlo-06_low_res.jpg"
+          },
+          {
+            "fileName": "1444_1976_Chevrolet_Monte_Carlo-07_low_res.jpg",
+            "row": 1,
+            "width": 790,
+            "height": 606,
+            "src": "__GHOST_URL__/content/images/2020/08/1444_1976_Chevrolet_Monte_Carlo-07_low_res.jpg"
+          },
+          {
+            "fileName": "1445_1976_Chevrolet_Monte_Carlo-08_low_res.jpg",
+            "row": 2,
+            "width": 790,
+            "height": 621,
+            "src": "__GHOST_URL__/content/images/2020/08/1445_1976_Chevrolet_Monte_Carlo-08_low_res.jpg"
+          },
+          {
+            "fileName": "1438_1976_Chevrolet_Monte_Carlo-01_low_res.jpg",
+            "row": 2,
+            "width": 790,
+            "height": 602,
+            "src": "__GHOST_URL__/content/images/2020/08/1438_1976_Chevrolet_Monte_Carlo-01_low_res.jpg"
+          }
+        ],
+        "caption": "1976 Chevrolet Monte Carlo OEM Brochures"
+      }
+    ],
+    [
+      "hr",
+      {}
+    ]
+  ],
+  "markups": [
+    [
+      "strong"
+    ],
+    [
+      "em"
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/tag/research/"
+      ]
+    ]
+  ],
+  "sections": [
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Overview"
+        ]
+      ]
+    ],
+    [
+      10,
+      0
+    ],
+    [
+      1,
+      "h3",
+      [
+        [
+          0,
+          [],
+          0,
+          "The 1976 Monte Carlo featured a new crosshatch grille and vertically mounted rectangular headlamps, along with reshaped taillights."
+        ]
+      ]
+    ],
+    [
+      10,
+      1
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "The 1976 Monte Carlo featured a new crosshatch grille and vertically mounted rectangular headlamps, along with reshaped taillights."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "A new 140 hp 305ci V8 became the standard engine. The 454ci V8 was discontinued from the option list this year. The Turbo Hydra-Matic became standard on all Monte Carlos."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "The instrument panel and steering wheel featured a new rosewood trim replacing the burled elm of previous years. A new option was a two-tone \"Fashion Tone\" paint combination."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Production was up again setting a new record for itself."
+        ]
+      ]
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Production Numbers"
+        ]
+      ]
+    ],
+    [
+      10,
+      2
+    ],
+    [
+      10,
+      3
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Performance Specs"
+        ]
+      ]
+    ],
+    [
+      10,
+      4
+    ],
+    [
+      10,
+      5
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Transmission"
+        ]
+      ]
+    ],
+    [
+      10,
+      6
+    ],
+    [
+      3,
+      "ul",
+      [
+        [
+          [
+            0,
+            [
+              0,
+              0
+            ],
+            2,
+            "Turbo Hydra-Matic"
+          ]
+        ]
+      ]
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Paint & Colors"
+        ]
+      ]
+    ],
+    [
+      10,
+      7
+    ],
+    [
+      10,
+      8
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "OEM Brochures"
+        ]
+      ]
+    ],
+    [
+      10,
+      9
+    ],
+    [
+      10,
+      10
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "About the Knowledge Base"
+        ]
+      ]
+    ],
+    [
+      10,
+      11
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "The Motorious Knowledge Base provides a comprehensive vehicle overview for the 1976 Chevrolet Monte Carlo"
+        ],
+        [
+          0,
+          [
+            1,
+            1
+          ],
+          2,
+          " "
+        ],
+        [
+          0,
+          [],
+          0,
+          "including production numbers, performance specs, factory colors, and OEM brochures. Check out additional model years or related content linked to this article or view other Makes and Models in our "
+        ],
+        [
+          0,
+          [
+            2
+          ],
+          1,
+          "Research"
+        ],
+        [
+          0,
+          [],
+          0,
+          " center."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "If you have any interesting facts about the 1976 Chevrolet Monte Carlo"
+        ],
+        [
+          0,
+          [
+            1,
+            1
+          ],
+          2,
+          " "
+        ],
+        [
+          0,
+          [],
+          0,
+          "to add, want to tell us how we did covering the Monte Carlo, or want to tell us about yours, please leave a comment below."
+        ]
+      ]
+    ]
+  ],
+  "ghostVersion": "3.0"
+}

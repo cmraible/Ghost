@@ -1,0 +1,370 @@
+{
+  "version": "0.3.1",
+  "atoms": [],
+  "cards": [
+    [
+      "hr",
+      {}
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "html",
+      {
+        "html": "<table id=\"production-numbers-table\">\n<tbody>\n\t<tr>\n\t\t<td>2-DR Hardtop and Coupe</td>\n\t\t<td>53,164</td>\n\t</tr>\n    \t<tr>\n\t\t<td>SE Hardtop</td>\n\t\t<td>22,430</td>\n\t</tr>\n\t\t<td><b>Total Production</b></td>\n\t\t<td><b>75,594</b></td>\n\t</tr>\n</tbody>\n</table>"
+      }
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "html",
+      {
+        "html": "<table id=\"performance-specs-table\">\n<tbody>\n\t<tr>\n\t\t<th><b>Engine</b></th>\n\t\t<th><b>Size</b></td>\n\t\t<th><b>Carb.</b></td>\n\t\t<th><b>HP</b></td>\n\t\t<th><b>Torque</b></td>\n\t\t<th><b>0 to 60</b></td>\n\t\t<th><b>Quarter mile</b></td>\n\t</tr>\n\t<tr>\n\t\t<td>I6</td>\n\t\t<td>225ci</td>\n\t\t<td>1x1bbl</td>\n\t\t<td>145</td>\n\t\t<td>215 lb-ft</td>\n        <td>-</td>\n\t\t<td>-</td>\n\t</tr>\n\t<tr>\n\t\t<td>Standard V8</td>\n\t\t<td>318ci</td>\n\t\t<td>1x2bbl</td>\n\t\t<td>230</td>\n\t\t<td>340 lb-ft</td>\n        <td>-</td>\n\t\t<td>-</td> \n\t</tr>\n\t<tr>\n\t\t<td>V8</td>\n\t\t<td>340ci</td>\n\t\t<td>1x2bbl</td>\n\t\t<td>240</td>\n\t\t<td>290 lb-ft</td>\n        <td>-</td>\n\t\t<td>-</td>\n\t</tr>\n\t<tr>\n\t\t<td>V8</td>\n\t\t<td>400ci</td>\n\t\t<td>1x2bbl</td>\n\t\t<td>190</td>\n\t\t<td>310 lb-ft</td>\n        <td>-</td>\n\t\t<td>-</td>\n\t</tr>\n\t<tr>\n\t\t<td>V8</td>\n\t\t<td>400ci</td>\n\t\t<td>1x4bbl</td>\n\t\t<td>225</td>\n\t\t<td>340 lb-ft</td>\n        <td>-</td>\n\t\t<td>-</td>\n\t</tr>\n\t<tr>\n\t\t<td>V8</td>\n\t\t<td>440ci</td>\n\t\t<td>1x4bbl</td>\n\t\t<td>280</td>\n\t\t<td>340 lb-ft</td>\n\t\t<td>8.1 sec</td>\n\t\t<td>14.8 sec</td>\n\t</tr>\n</tbody>\n</table>"
+      }
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "html",
+      {
+        "html": "<h4 id='colors-sub-heading'>Exterior</h4>\n<div class=\"colors-row\">\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #7a9ab3\"></div>\n        <div class=\"color-name\">Light Blue</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #305c83\"></div>\n        <div class=\"color-name\">Super Blue</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #29415b\"></div>\n        <div class=\"color-name\">Bright Blue Metallic</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #922700\"></div>\n        <div class=\"color-name\">Red</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #cb3502\"></div>\n        <div class=\"color-name\">Hemi Orange</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #f2d03b\"></div>\n        <div class=\"color-name\">Top Banana</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #9e863e\"></div>\n        <div class=\"color-name\">Light Gold</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #825b13\"></div>\n        <div class=\"color-name\">Gold Metallic</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #261f00\"></div>\n        <div class=\"color-name\">Dark Gold Metallic</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #524d0e\"></div>\n        <div class=\"color-name\">Light Green Metallic</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #232000\"></div>\n        <div class=\"color-name\">Dark Green Metallic</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #643e06\"></div>\n        <div class=\"color-name\">Medium Tan Metallic</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #381f00\"></div>\n        <div class=\"color-name\">Dark Tan Metallic</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #535e4d\"></div>\n        <div class=\"color-name\">Lt. Gunmetal Metallic</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #ece5bb\"></div>\n        <div class=\"color-name\">Eggshell White</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #1a1500\"></div>\n        <div class=\"color-name\">Black</div>\n    </div>\n    \n</div>\n\n<h4 id='colors-sub-heading'>Interior</h4>\n<div class=\"colors-row\">\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #d0cebf\"></div>\n        <div class=\"color-name\">White</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #776455\"></div>\n        <div class=\"color-name\">Medium Tan</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #c4bda0\"></div>\n        <div class=\"color-name\">Light Parchment</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #706a5e\"></div>\n        <div class=\"color-name\">Dark Parchment</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #979171\"></div>\n        <div class=\"color-name\">Light Gold</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #8f8a6d\"></div>\n        <div class=\"color-name\">Light Gold Metallic</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #75705d\"></div>\n        <div class=\"color-name\">Dark Gold</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #424c3b\"></div>\n        <div class=\"color-name\">Dark Green</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #4e5f7d\"></div>\n        <div class=\"color-name\">Bright Blue</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #3a4a60\"></div>\n        <div class=\"color-name\">Dark Blue</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #252628\"></div>\n        <div class=\"color-name\">Black</div>\n    </div>\n</div>"
+      }
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "gallery",
+      {
+        "images": [
+          {
+            "fileName": "807_1_low_res.jpeg",
+            "row": 0,
+            "width": 790,
+            "height": 626,
+            "src": "__GHOST_URL__/content/images/2020/06/807_1_low_res.jpeg"
+          },
+          {
+            "fileName": "808_2_low_res.jpeg",
+            "row": 0,
+            "width": 790,
+            "height": 608,
+            "src": "__GHOST_URL__/content/images/2020/06/808_2_low_res.jpeg"
+          },
+          {
+            "fileName": "809_3_low_res.jpeg",
+            "row": 0,
+            "width": 790,
+            "height": 615,
+            "src": "__GHOST_URL__/content/images/2020/06/809_3_low_res.jpeg"
+          },
+          {
+            "fileName": "810_4_low_res.jpeg",
+            "row": 1,
+            "width": 790,
+            "height": 618,
+            "src": "__GHOST_URL__/content/images/2020/06/810_4_low_res.jpeg"
+          }
+        ],
+        "caption": "1972 Dodge Charger OEM Brochures"
+      }
+    ],
+    [
+      "hr",
+      {}
+    ]
+  ],
+  "markups": [
+    [
+      "strong"
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/tag/research/"
+      ]
+    ],
+    [
+      "em"
+    ]
+  ],
+  "sections": [
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Overview"
+        ]
+      ]
+    ],
+    [
+      10,
+      0
+    ],
+    [
+      1,
+      "h3",
+      [
+        [
+          0,
+          [],
+          0,
+          "The legendary 426 HEMI was no longer available for the 1972 Charger, and the top-of-the-line performance model R/T was eliminated. Because of economic crises, the Charger began to be marketed as more of a low-end luxury coupe with lower prices and waning power."
+        ]
+      ]
+    ],
+    [
+      10,
+      1
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "The legendary 426 HEMI was no longer available for the 1972 Charger, and the top-of-the-line performance model R/T was eliminated. Because of economic crises, the Charger began to be marketed as more of a low-end luxury coupe with lower prices and waning power. Along with the R/T model, the Charger 500 and Super Bee models that had been offered were also eliminated. The only models remaining were the base coupe model, base hardtop, and the SE hardtop."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "The SE model was a luxury edition that added pleated vinyl seats, vinyl roof, concealed headlights, and a Rallye gauge instrument cluster. It proved to be fairly popular."
+        ]
+      ]
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Production Numbers"
+        ]
+      ]
+    ],
+    [
+      10,
+      2
+    ],
+    [
+      10,
+      3
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Performance Specs"
+        ]
+      ]
+    ],
+    [
+      10,
+      4
+    ],
+    [
+      10,
+      5
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Transmission"
+        ]
+      ]
+    ],
+    [
+      10,
+      6
+    ],
+    [
+      3,
+      "ul",
+      [
+        [
+          [
+            0,
+            [
+              0,
+              0
+            ],
+            2,
+            "3-Speed Manual"
+          ]
+        ],
+        [
+          [
+            0,
+            [
+              0,
+              0
+            ],
+            2,
+            "4-Speed Manual"
+          ]
+        ],
+        [
+          [
+            0,
+            [
+              0,
+              0
+            ],
+            2,
+            "Torqueflite Auto"
+          ]
+        ]
+      ]
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Paint & Colors"
+        ]
+      ]
+    ],
+    [
+      10,
+      7
+    ],
+    [
+      10,
+      8
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "OEM Brochures"
+        ]
+      ]
+    ],
+    [
+      10,
+      9
+    ],
+    [
+      10,
+      10
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "About the Knowledge Base"
+        ]
+      ]
+    ],
+    [
+      10,
+      11
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "The Motorious Knowledge Base provides a comprehensive vehicle overview for the 1972 Dodge Charger including production numbers, performance specs, factory colors, and OEM brochures. Check out additional model years or related content linked to this article or view other Makes and Models in our "
+        ],
+        [
+          0,
+          [
+            1
+          ],
+          1,
+          "Research"
+        ],
+        [
+          0,
+          [],
+          0,
+          " center."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "If you have any interesting facts about the 1972 Dodge Charger"
+        ],
+        [
+          0,
+          [
+            2,
+            2
+          ],
+          2,
+          " "
+        ],
+        [
+          0,
+          [],
+          0,
+          "to add, want to tell us how we did covering the Charger, or want to tell us about yours, please leave a comment below."
+        ]
+      ]
+    ]
+  ],
+  "ghostVersion": "3.0"
+}

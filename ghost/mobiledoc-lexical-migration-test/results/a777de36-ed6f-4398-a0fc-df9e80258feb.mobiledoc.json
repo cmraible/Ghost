@@ -1,0 +1,397 @@
+{
+  "version": "0.3.1",
+  "atoms": [],
+  "cards": [
+    [
+      "hr",
+      {}
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "html",
+      {
+        "html": "<table id=\"production-numbers-table\">\n  <tbody>\n      <tr><td>2-Dr Hardtop</td><td>90,152</td></tr>\n      <tr><td>2-Dr Convertible</td><td>9,980</td></tr>\n      </tr><td><b>Total Production</b></td><td><b>100,132</b></td></tr>     </tbody>\n</table>"
+      }
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "html",
+      {
+        "html": "<table id=\"performance-specs-table\">\n<tbody>\n\t<tr>\n\t\t<th><b>Engine</b></th>\n\t\t<th><b>Size</b></td>\n\t\t<th><b>Carb.</b></td>\n\t\t<th><b>HP</b></td>\n\t\t<th><b>Torque</b></td>\n\t\t<th><b>0 to 60</b></td>\n\t\t<th><b>Quarter mile</b></td>\n\t</tr>\n\t<tr>\n\t\t<td>I6-Firebird</td>\n\t\t<td>250ci</td>\n\t\t<td>1x1bbl</td>\n\t\t<td>175 hp</td>\n\t\t<td>240 lb-ft</td>\n\t\t<td>-</td>\n        <td>-</td>\n\t</tr>\n\t<tr>\n\t\t<td>I6-Firebird Sprint</td>\n\t\t<td>250ci</td>\n\t\t<td>1x4bbl</td>\n\t\t<td>215 hp</td>\n\t\t<td>255 lb-ft</td>\n\t\t<td>-</td>\n        <td>-</td>\n\t</tr>\n<tr>\n\t\t<td>Firebird 350</td>\n\t\t<td>350ci</td>\n\t\t<td>1x2bbl</td>\n\t\t<td>265 hp</td>\n\t\t<td>355 lb-ft</td>\n\t\t<td>-</td>\n    \t<td>-</td>\n\t</tr>\n<tr>\n\t\t<td>Firebird HO</td>\n\t\t<td>350ci</td>\n\t\t<td>1x4bbl</td>\n\t\t<td>320 hp</td>\n\t\t<td>380 lb-ft</td>\n\t\t<td>-</td>\n    \t<td>-</td>\n\t</tr>\n<tr>\n\t\t<td>Firebird 400</td>\n\t\t<td>400ci</td>\n\t\t<td>1x4bbl</td>\n\t\t<td>330 hp</td>\n\t\t<td>430 lb-ft</td>\n\t\t<td>-</td>\n    \t<td>-</td>\n\t</tr>\n<tr>\n\t\t<td>Firebird 400</td>\n\t\t<td>400ci</td>\n\t\t<td>1x4bbl</td>\n\t\t<td>335 hp</td>\n\t\t<td>430 lb-ft</td>\n\t\t<td>7.6 sec</td>\n    \t<td>15.4 sec @ 93 mph</td>\n\t</tr>\n<tr>\n\t\t<td>Firebird 400</td>\n\t\t<td>400ci</td>\n\t\t<td>1x4bbl</td>\n\t\t<td>325 hp</td>\n\t\t<td>410 lb-ft</td>\n\t\t<td>-</td>\n    \t<td>-</td>\n\t</tr>\n<tr>\n</tbody>\n</table>"
+      }
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "html",
+      {
+        "html": "<h4 id='colors-sub-heading'>Exterior</h4>\n<div class=\"colors-row\">   \n    <div class=\"color-pair \">       \n        <div class=\"color-chip\" style=\"background: #6d818f\"></div>       \t\t<div class=\"color-name\">Nordic Blue</div>   \n\t</div>\n    <div class=\"color-pair \">       \n        <div class=\"color-chip\" style=\"background: #7d3528\"></div>       \t\t<div class=\"color-name\">Autumn Bronze</div>   \n\t</div>\n    <div class=\"color-pair \">       \n        <div class=\"color-chip\" style=\"background: #3d4e5e\"></div>       \t\t<div class=\"color-name\">Aleutian Blue</div>   \n\t</div>\n    <div class=\"color-pair \">       \n        <div class=\"color-chip\" style=\"background: #7b8085\"></div>       \t\t<div class=\"color-name\">Springmist Green</div>   \n\t</div>\n    <div class=\"color-pair \">       \n        <div class=\"color-chip\" style=\"background: #7a2220\"></div>       \t\t<div class=\"color-name\">Solar Red</div>   \n\t</div>\n    <div class=\"color-pair \">       \n        <div class=\"color-chip\" style=\"background: #28342d\"></div>       \t\t<div class=\"color-name\">Nightshade Green</div>   \n\t</div>\n    <div class=\"color-pair \">       \n        <div class=\"color-chip\" style=\"background: #41892d\"></div>       \t\t<div class=\"color-name\">April Gold</div>   \n\t</div>\n    <div class=\"color-pair \">       \n        <div class=\"color-chip\" style=\"background: #446f83\"></div>       \t\t<div class=\"color-name\">Meridian Turquoise</div>   \n\t</div>\n    <div class=\"color-pair \">       \n        <div class=\"color-chip\" style=\"background: #311f20\"></div>       \t\t<div class=\"color-name\">Flambeau Burgundy</div>   \n\t</div>\n    <div class=\"color-pair \">       \n        <div class=\"color-chip\" style=\"background: #4e523b\"></div>       \t\t<div class=\"color-name\">Verdoro Green</div>   \n\t</div>\n    <div class=\"color-pair \">       \n        <div class=\"color-chip\" style=\"background: #bcb69a\"></div>       \t\t<div class=\"color-name\">Primavera Beige</div>   \n\t</div>\n    <div class=\"color-pair \">       \n        <div class=\"color-chip\" style=\"background: #fdeda5\"></div>       \t\t<div class=\"color-name\">Mayfair Maize</div>    \n\t</div>\n<h4 id='colors-sub-heading'>Interior</h4>\n<div class=\"colors-row\">\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #7a6f57\"></div>\n        <div class=\"color-name\">Medium Gold</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #7d3128\"></div>\n        <div class=\"color-name\">Medium Red</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #697990\"></div>\n        <div class=\"color-name\">Medium Blue Metallic</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #353c34\"></div>\n        <div class=\"color-name\">Black</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #000000\"></div>\n        <div class=\"color-name\">Midnight Green Metallic</div>\n    </div>\n</div>"
+      }
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "gallery",
+      {
+        "images": [
+          {
+            "fileName": "655_1_low_res.jpeg",
+            "row": 0,
+            "width": 790,
+            "height": 801,
+            "src": "__GHOST_URL__/content/images/2020/06/655_1_low_res.jpeg"
+          },
+          {
+            "fileName": "656_2_low_res2.jpeg",
+            "row": 0,
+            "width": 790,
+            "height": 809,
+            "src": "__GHOST_URL__/content/images/2020/06/656_2_low_res2.jpeg"
+          },
+          {
+            "fileName": "657_3_low_res3.jpeg",
+            "row": 0,
+            "width": 790,
+            "height": 796,
+            "src": "__GHOST_URL__/content/images/2020/06/657_3_low_res3.jpeg"
+          },
+          {
+            "fileName": "658_4_low_res4.jpeg",
+            "row": 1,
+            "width": 790,
+            "height": 415,
+            "src": "__GHOST_URL__/content/images/2020/06/658_4_low_res4.jpeg"
+          },
+          {
+            "fileName": "659_5_low_res5.jpeg",
+            "row": 1,
+            "width": 790,
+            "height": 409,
+            "src": "__GHOST_URL__/content/images/2020/06/659_5_low_res5.jpeg"
+          },
+          {
+            "fileName": "660_6_low_res6.jpeg",
+            "row": 1,
+            "width": 790,
+            "height": 409,
+            "src": "__GHOST_URL__/content/images/2020/06/660_6_low_res6.jpeg"
+          },
+          {
+            "fileName": "661_7_low_res7.jpeg",
+            "row": 2,
+            "width": 790,
+            "height": 796,
+            "src": "__GHOST_URL__/content/images/2020/06/661_7_low_res7.jpeg"
+          },
+          {
+            "fileName": "662_8_low_res8.jpeg",
+            "row": 2,
+            "width": 790,
+            "height": 793,
+            "src": "__GHOST_URL__/content/images/2020/06/662_8_low_res8.jpeg"
+          },
+          {
+            "fileName": "663_9_low_res9.jpeg",
+            "row": 2,
+            "width": 790,
+            "height": 789,
+            "src": "__GHOST_URL__/content/images/2020/06/663_9_low_res9.jpeg"
+          }
+        ],
+        "caption": "1968 Pontiac firebird OEM Brochures"
+      }
+    ],
+    [
+      "hr",
+      {}
+    ]
+  ],
+  "markups": [
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/articles/features-3/pontiac-firebird-the-history/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/tag/research/"
+      ]
+    ]
+  ],
+  "sections": [
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Overview"
+        ]
+      ]
+    ],
+    [
+      10,
+      0
+    ],
+    [
+      1,
+      "h3",
+      [
+        [
+          0,
+          [],
+          0,
+          "After a short first year, the 1968 "
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "Firebird"
+        ],
+        [
+          0,
+          [],
+          0,
+          " continued to revel in its success, and with Pontiac’s, “If it ain’t broke, don’t fix it” approach, not much was changed for the new year."
+        ]
+      ]
+    ],
+    [
+      10,
+      1
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Federally mandated side marker lights were installed, and side window vents were eliminated, opting instead for GM’s “Astro Ventillation.”"
+        ]
+      ]
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Production Numbers"
+        ]
+      ]
+    ],
+    [
+      10,
+      2
+    ],
+    [
+      10,
+      3
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Performance Specs"
+        ]
+      ]
+    ],
+    [
+      10,
+      4
+    ],
+    [
+      10,
+      5
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Transmission"
+        ]
+      ]
+    ],
+    [
+      10,
+      6
+    ],
+    [
+      3,
+      "ul",
+      [
+        [
+          [
+            0,
+            [],
+            0,
+            "3-Speed Manual"
+          ]
+        ],
+        [
+          [
+            0,
+            [],
+            0,
+            "4-Speed Manual"
+          ]
+        ],
+        [
+          [
+            0,
+            [],
+            0,
+            "2-Speed Auto (not 400 model)"
+          ]
+        ],
+        [
+          [
+            0,
+            [],
+            0,
+            "3-Speed Turbo Hydra-Matic"
+          ]
+        ]
+      ]
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Paint & Colors"
+        ]
+      ]
+    ],
+    [
+      10,
+      7
+    ],
+    [
+      10,
+      8
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "OEM Brochures"
+        ]
+      ]
+    ],
+    [
+      10,
+      9
+    ],
+    [
+      10,
+      10
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "About the Knowledge Base"
+        ]
+      ]
+    ],
+    [
+      10,
+      11
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "The Motorious Knowledge Base provides a comprehensive vehicle overview for the 1968 Pontiac Firebird including production numbers, performance specs, factory colors, and OEM brochures. Check out additional model years or related content linked to this article or view other Makes and Models in our "
+        ],
+        [
+          0,
+          [
+            1
+          ],
+          1,
+          "Research"
+        ],
+        [
+          0,
+          [],
+          0,
+          " center."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "If you have any interesting facts about the 1968 Pontiac Firebird to add, want to tell us how we did covering the Firebird, or want to tell us about yours, please leave a comment below."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      []
+    ]
+  ],
+  "ghostVersion": "3.0"
+}

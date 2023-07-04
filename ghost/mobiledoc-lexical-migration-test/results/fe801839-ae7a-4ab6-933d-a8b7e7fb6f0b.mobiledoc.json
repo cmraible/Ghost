@@ -1,0 +1,701 @@
+{
+  "version": "0.3.1",
+  "atoms": [
+    [
+      "soft-return",
+      "",
+      {}
+    ],
+    [
+      "soft-return",
+      "",
+      {}
+    ],
+    [
+      "soft-return",
+      "",
+      {}
+    ],
+    [
+      "soft-return",
+      "",
+      {}
+    ],
+    [
+      "soft-return",
+      "",
+      {}
+    ],
+    [
+      "soft-return",
+      "",
+      {}
+    ]
+  ],
+  "cards": [
+    [
+      "hr",
+      {}
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "embed",
+      {
+        "url": "https://youtu.be/ljgszpLA2cM",
+        "html": "<iframe width=\"612\" height=\"344\" src=\"https://www.youtube.com/embed/ljgszpLA2cM?feature=oembed\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+        "type": "video",
+        "metadata": {
+          "provider_url": "https://www.youtube.com/",
+          "thumbnail_height": 360,
+          "height": 344,
+          "thumbnail_url": "https://i.ytimg.com/vi/ljgszpLA2cM/hqdefault.jpg",
+          "width": 612,
+          "provider_name": "YouTube",
+          "author_name": "Motorious",
+          "version": "1.0",
+          "author_url": "https://www.youtube.com/user/myclassicgarage",
+          "thumbnail_width": 480,
+          "title": "1988 Chevrolet Corvette Knowledge Base"
+        },
+        "caption": "1988 Chevrolet Corvette Video"
+      }
+    ],
+    [
+      "html",
+      {
+        "html": "<iframe   src=\"https://cdn.spincar.com/static.swipetospin.com/20190909/?_=1588884128345#!customer=motorious!vin=mcg1988chevroletcorvette\n!managerpreview\"\nname=\"iFrame Name\"\nscrolling=\"No\"\nheight=\"500px\"\nwidth=\"100%\"\nstyle=\"border: none;\">\n</iframe>"
+      }
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "html",
+      {
+        "html": "<table id=\"production-numbers-table\">\n<tbody>\n\t<tr>\n\t\t<td>1988 Corvette</td>\n\t\t<td>22,789</td>\n\t</tr>\n\t\t<td><b>Total Production</b></td>\n\t\t<td><b>22,789</b></td>\n\t</tr>\n</tbody>\n</table>"
+      }
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "html",
+      {
+        "html": "<table id=\"performance-specs-table\">\n<tbody>\n\t<tr>\n\t\t<th><b>Engine</b></th>\n\t\t<th><b>Size</b></td>\n\t\t<th><b>Carb.</b></td>\n\t\t<th><b>HP</b></td>\n\t\t<th><b>Torque</b></td>\n\t\t<th><b>0 to 60</b></td>\n\t\t<th><b>Quarter mile</b></td>\n\t</tr>\n\t<tr>\n\t\t<td>350 V8</td>\n\t\t<td>350ci</td>\n\t\t<td>Tuned-Port F/I</td>\n\t\t<td>240/245 at 4000 rpm</td>\n\t\t<td>350 lb-ft at 3200</td>\n\t\t<td>5.4 sec</td>\n\t\t<td>13.8 sec at 106 mph</td>\n\t</tr>\n</tbody>\n</table>"
+      }
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "html",
+      {
+        "html": "<h4 id='colors-sub-heading'>Exterior</h4>\n<div class=\"colors-row\">\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #000000\"></div>\n        <div class=\"color-name\">Black</div>\n    </div>  \n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #25527d\"></div>\n        <div class=\"color-name\">Medium Blue Metallic</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #033d6f\"></div>\n        <div class=\"color-name\">Dark Blue Metallic</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #1b1c18\"></div>\n        <div class=\"color-name\">Charcoal Metallic</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #4e4b52\"></div>\n        <div class=\"color-name\">Gray Metallic</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #ff0000\"></div>\n        <div class=\"color-name\">Bright Red</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #6e0000\"></div>\n        <div class=\"color-name\">Dark Red Metallic</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #818f9a\"></div>\n        <div class=\"color-name\">Silver Metallic</div>\n    </div>  \n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #eae5d2\"></div>\n        <div class=\"color-name\">White</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #f6d840\"></div>\n        <div class=\"color-name\">Yellow</div>\n    </div>\n</div>\n\n<h4 id='colors-sub-heading'>Interior</h4>\n<div class=\"colors-row\">\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #000000\"></div>\n        <div class=\"color-name\">Black</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #ff0000\"></div>\n        <div class=\"color-name\">Red</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #eae5d2\"></div>\n        <div class=\"color-name\">White</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #818f9a\"></div>\n        <div class=\"color-name\">Gray</div>\n    </div>\n</div>"
+      }
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "gallery",
+      {
+        "images": [
+          {
+            "fileName": "Corvette-Historical-Brochure-1988.jpg",
+            "row": 0,
+            "width": 1475,
+            "height": 1770,
+            "src": "__GHOST_URL__/content/images/2020/06/Corvette-Historical-Brochure-1988.jpg"
+          },
+          {
+            "fileName": "Corvette-Historical-Brochure-1988-2.jpg",
+            "row": 0,
+            "width": 2760,
+            "height": 3333,
+            "src": "__GHOST_URL__/content/images/2020/06/Corvette-Historical-Brochure-1988-2.jpg"
+          },
+          {
+            "fileName": "Corvette-Historical-Brochure-1988-3.jpg",
+            "row": 0,
+            "width": 1460,
+            "height": 1770,
+            "src": "__GHOST_URL__/content/images/2020/06/Corvette-Historical-Brochure-1988-3.jpg"
+          },
+          {
+            "fileName": "Corvette-Historical-Brochure-1988-4.jpg",
+            "row": 1,
+            "width": 1481,
+            "height": 1770,
+            "src": "__GHOST_URL__/content/images/2020/06/Corvette-Historical-Brochure-1988-4.jpg"
+          },
+          {
+            "fileName": "Corvette-Historical-Brochure-1988-5.jpg",
+            "row": 1,
+            "width": 1460,
+            "height": 1770,
+            "src": "__GHOST_URL__/content/images/2020/06/Corvette-Historical-Brochure-1988-5.jpg"
+          },
+          {
+            "fileName": "Corvette-Historical-Brochure-1988-6.jpg",
+            "row": 1,
+            "width": 1479,
+            "height": 1770,
+            "src": "__GHOST_URL__/content/images/2020/06/Corvette-Historical-Brochure-1988-6.jpg"
+          },
+          {
+            "fileName": "Corvette-Historical-Brochure-1988-7.jpg",
+            "row": 2,
+            "width": 1475,
+            "height": 1770,
+            "src": "__GHOST_URL__/content/images/2020/06/Corvette-Historical-Brochure-1988-7.jpg"
+          },
+          {
+            "fileName": "Corvette-Historical-Brochure-1988-8.jpg",
+            "row": 2,
+            "width": 1487,
+            "height": 1770,
+            "src": "__GHOST_URL__/content/images/2020/06/Corvette-Historical-Brochure-1988-8.jpg"
+          },
+          {
+            "fileName": "Corvette-Historical-Brochure-1988-9.jpg",
+            "row": 2,
+            "width": 1477,
+            "height": 1770,
+            "src": "__GHOST_URL__/content/images/2020/06/Corvette-Historical-Brochure-1988-9.jpg"
+          }
+        ]
+      }
+    ],
+    [
+      "gallery",
+      {
+        "images": [
+          {
+            "fileName": "Corvette-Historical-Brochure-1988-10.jpg",
+            "row": 0,
+            "width": 1485,
+            "height": 1770,
+            "src": "__GHOST_URL__/content/images/2020/06/Corvette-Historical-Brochure-1988-10.jpg"
+          },
+          {
+            "fileName": "Corvette-Historical-Brochure-1988-11.jpg",
+            "row": 0,
+            "width": 2977,
+            "height": 1768,
+            "src": "__GHOST_URL__/content/images/2020/06/Corvette-Historical-Brochure-1988-11.jpg"
+          },
+          {
+            "fileName": "Corvette-Historical-Brochure-1988-12.jpg",
+            "row": 0,
+            "width": 2962,
+            "height": 1762,
+            "src": "__GHOST_URL__/content/images/2020/06/Corvette-Historical-Brochure-1988-12.jpg"
+          },
+          {
+            "fileName": "Corvette-Historical-Brochure-1988-13.jpg",
+            "row": 1,
+            "width": 3333,
+            "height": 1325,
+            "src": "__GHOST_URL__/content/images/2020/06/Corvette-Historical-Brochure-1988-13.jpg"
+          },
+          {
+            "fileName": "Corvette-Historical-Brochure-1988-14.jpg",
+            "row": 1,
+            "width": 1470,
+            "height": 1770,
+            "src": "__GHOST_URL__/content/images/2020/06/Corvette-Historical-Brochure-1988-14.jpg"
+          },
+          {
+            "fileName": "Corvette-Historical-Brochure-1988-15.jpg",
+            "row": 1,
+            "width": 3333,
+            "height": 1331,
+            "src": "__GHOST_URL__/content/images/2020/06/Corvette-Historical-Brochure-1988-15.jpg"
+          },
+          {
+            "fileName": "Corvette-Historical-Brochure-1988-16.jpg",
+            "row": 2,
+            "width": 1472,
+            "height": 1770,
+            "src": "__GHOST_URL__/content/images/2020/06/Corvette-Historical-Brochure-1988-16.jpg"
+          },
+          {
+            "fileName": "Corvette-Historical-Brochure-1988-17.jpg",
+            "row": 2,
+            "width": 1462,
+            "height": 1770,
+            "src": "__GHOST_URL__/content/images/2020/06/Corvette-Historical-Brochure-1988-17.jpg"
+          },
+          {
+            "fileName": "Corvette-Historical-Brochure-1988-18.jpg",
+            "row": 2,
+            "width": 1497,
+            "height": 1777,
+            "src": "__GHOST_URL__/content/images/2020/06/Corvette-Historical-Brochure-1988-18.jpg"
+          }
+        ]
+      }
+    ],
+    [
+      "gallery",
+      {
+        "images": [
+          {
+            "fileName": "Corvette-Historical-Brochure-1988-19.jpg",
+            "row": 0,
+            "width": 1483,
+            "height": 1770,
+            "src": "__GHOST_URL__/content/images/2020/06/Corvette-Historical-Brochure-1988-19.jpg"
+          },
+          {
+            "fileName": "Corvette-Historical-Brochure-1988-20.jpg",
+            "row": 0,
+            "width": 1487,
+            "height": 1770,
+            "src": "__GHOST_URL__/content/images/2020/06/Corvette-Historical-Brochure-1988-20.jpg"
+          },
+          {
+            "fileName": "Corvette-Historical-Brochure-1988-22.jpg",
+            "row": 0,
+            "width": 1495,
+            "height": 1770,
+            "src": "__GHOST_URL__/content/images/2020/06/Corvette-Historical-Brochure-1988-22.jpg"
+          },
+          {
+            "fileName": "Corvette-Historical-Brochure-1988-23.jpg",
+            "row": 1,
+            "width": 1483,
+            "height": 1770,
+            "src": "__GHOST_URL__/content/images/2020/06/Corvette-Historical-Brochure-1988-23.jpg"
+          },
+          {
+            "fileName": "Corvette-Historical-Brochure-1988-21.jpg",
+            "row": 1,
+            "width": 1487,
+            "height": 1770,
+            "src": "__GHOST_URL__/content/images/2020/06/Corvette-Historical-Brochure-1988-21.jpg"
+          },
+          {
+            "fileName": "Corvette-Historical-Brochure-1988-24.jpg",
+            "row": 1,
+            "width": 1493,
+            "height": 1770,
+            "src": "__GHOST_URL__/content/images/2020/06/Corvette-Historical-Brochure-1988-24.jpg"
+          },
+          {
+            "fileName": "Corvette-Historical-Brochure-1988-25.jpg",
+            "row": 2,
+            "width": 1487,
+            "height": 1770,
+            "src": "__GHOST_URL__/content/images/2020/06/Corvette-Historical-Brochure-1988-25.jpg"
+          },
+          {
+            "fileName": "Corvette-Historical-Brochure-1988-26.jpg",
+            "row": 2,
+            "width": 1495,
+            "height": 1770,
+            "src": "__GHOST_URL__/content/images/2020/06/Corvette-Historical-Brochure-1988-26.jpg"
+          },
+          {
+            "fileName": "Corvette-Historical-Brochure-1988-27.jpg",
+            "row": 2,
+            "width": 1479,
+            "height": 1770,
+            "src": "__GHOST_URL__/content/images/2020/06/Corvette-Historical-Brochure-1988-27.jpg"
+          }
+        ],
+        "caption": "1988 Chevrolet Corvette OEM Brochures"
+      }
+    ],
+    [
+      "hr",
+      {}
+    ]
+  ],
+  "markups": [
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/articles/handpicked/style-side-pipes/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/articles/handpicked/1967-chevy-corvette-sting-ray/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/tag/research/"
+      ]
+    ]
+  ],
+  "sections": [
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Overview"
+        ]
+      ]
+    ],
+    [
+      10,
+      0
+    ],
+    [
+      1,
+      "h3",
+      [
+        [
+          0,
+          [],
+          0,
+          "The editors of Consumer Guide stated: \"The first fully redesigned Corvette in 15 years was more sophisticated and more practical than the beloved Shark.\""
+        ]
+      ]
+    ],
+    [
+      10,
+      1
+    ],
+    [
+      10,
+      2
+    ],
+    [
+      1,
+      "p",
+      []
+    ],
+    [
+      10,
+      3
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          1,
+          [],
+          0,
+          0
+        ],
+        [
+          0,
+          [],
+          0,
+          "The "
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "Chevrolet Corvette"
+        ],
+        [
+          0,
+          [],
+          0,
+          " (C4) was a sports car produced by the Chevrolet division of General Motors for the 1984 through 1996 model years. The editors of Consumer Guide stated: \"The first fully redesigned Corvette in 15 years was more sophisticated and more practical than the beloved Shark\"."
+        ],
+        [
+          1,
+          [],
+          0,
+          1
+        ],
+        [
+          0,
+          [],
+          0,
+          "The 1988 "
+        ],
+        [
+          0,
+          [
+            1
+          ],
+          1,
+          "Chevrolet Corvette"
+        ],
+        [
+          0,
+          [],
+          0,
+          " was the 35th anniversary for the Corvette. To celebrate Chevrolet made a 35th anniversary model and 2,050 were sold. This option included white paint with a black roof bow, white leather interior including the steering wheel, white painted wheels and special badging inside and out. It was only available on coupes."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          1,
+          [],
+          0,
+          2
+        ],
+        [
+          0,
+          [],
+          0,
+          "New additions for the 1988 Vette included carpeted door sills, solution dyed carpet and improved ventilation for coupes. A new muffler system was standard on coupes with the 3.07:1 rear axle ratio, it provided an extra 5 horsepower due to its less restrictive flow."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          1,
+          [],
+          0,
+          3
+        ],
+        [
+          0,
+          [],
+          0,
+          "The new muffler system was deemed too loud for the convertible and the 2.59:1 rear axle ratio coupes and was not installed. Standard brake rotors were thickened and suspension changes were made to improve control during heavy braking. The Z51 and Z52 options were upgraded to include 17 x 9.5 inch wheels with P275/40ZR-17 tires mounted on them. The Z51 option also included a finned power steering cooler, higher spring rates and larger front brake rotors and calipers than 1987."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          1,
+          [],
+          0,
+          4
+        ],
+        [
+          0,
+          [],
+          0,
+          "While the 35th Anniversary car was a sellout, it wasn't enough to lift the Corvette's fortunes at dealerships. The sales downturn continued for 1988, with production slipping to just under 23,000 units, the lowest model-year total since 1972."
+        ],
+        [
+          1,
+          [],
+          0,
+          5
+        ],
+        [
+          0,
+          [],
+          0,
+          "Meanwhile, the C4 was continuing Corvette's winning ways on the track -- it was the undefeated class champion in SCCA Showroom Stock racing for three straight years. Fifty-six street-legal cars were built for the 1998 SCCA Corvette Challenge series. Stock engines would come from the CPC engine plant in Flint, Michigan, shipped to Bowling Green for installation, and the cars would then be trucked back to Wixom, Michigan, for roll cages and other racing modifications. During the course of the year, Chevy would replace most engines, however, swapping them for motors having more evenly calibrated power output."
+        ]
+      ]
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Production Numbers"
+        ]
+      ]
+    ],
+    [
+      10,
+      4
+    ],
+    [
+      10,
+      5
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Performance Specs"
+        ]
+      ]
+    ],
+    [
+      10,
+      6
+    ],
+    [
+      10,
+      7
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Transmission"
+        ]
+      ]
+    ],
+    [
+      10,
+      8
+    ],
+    [
+      3,
+      "ul",
+      [
+        [
+          [
+            0,
+            [],
+            0,
+            "4+3-Speed Manual"
+          ]
+        ],
+        [
+          [
+            0,
+            [],
+            0,
+            "4-Speed Automatic  (Turbo Hydra-Matic 700 R-4)"
+          ]
+        ]
+      ]
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Paint & Colors"
+        ]
+      ]
+    ],
+    [
+      10,
+      9
+    ],
+    [
+      10,
+      10
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "OEM Brochures"
+        ]
+      ]
+    ],
+    [
+      10,
+      11
+    ],
+    [
+      10,
+      12
+    ],
+    [
+      10,
+      13
+    ],
+    [
+      10,
+      14
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "About the Knowledge Base"
+        ]
+      ]
+    ],
+    [
+      10,
+      15
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "The Motorious Knowledge Base provides a comprehensive vehicle overview for the 1988 Chevrolet Corvette including production numbers, performance specs, factory colors, and OEM brochures. Check out additional model years or related content linked to this article or view other Makes and Models in our "
+        ],
+        [
+          0,
+          [
+            2
+          ],
+          1,
+          "Research"
+        ],
+        [
+          0,
+          [],
+          0,
+          " center."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "If you have any interesting facts about the 1988 Chevrolet Corvette to add, want to tell us how we did covering the Corvette, or want to tell us about yours, please leave a comment below."
+        ]
+      ]
+    ]
+  ],
+  "ghostVersion": "3.0"
+}

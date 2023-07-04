@@ -1,0 +1,1942 @@
+{
+  "version": "0.3.1",
+  "atoms": [],
+  "cards": [
+    [
+      "email-cta",
+      {
+        "showButton": true,
+        "showDividers": true,
+        "segment": "status:free",
+        "alignment": "left",
+        "buttonText": "Upgrade Now",
+        "buttonUrl": "__GHOST_URL__/membership/?utm_source=newsletter-email&utm_medium=link&utm_campaign=newsletter-upgrade",
+        "html": "<p>As today’s story about Wall Street giant BlackRock illustrates, we can’t trust corporations to follow through with their lofty promises. The powerful must be investigated and held accountable for their actions.</p><p><em>The Lever</em>'s team tirelessly reports on these institutions so that you can know where your activism is needed. The work is difficult and costly, so we depend on readers like you becoming paid subscribers. <a href=\"__GHOST_URL__/membership/?utm_source=newsletter-email&amp;utm_medium=link&amp;utm_campaign=newsletter-upgrade\">Click here to upgrade today</a> and get great membership perks in return.</p>"
+      }
+    ],
+    [
+      "email-cta",
+      {
+        "showButton": true,
+        "showDividers": true,
+        "segment": "status:-free",
+        "alignment": "left",
+        "buttonText": "Buy Your Gift Now",
+        "html": "<p>As today’s story about Wall Street giant BlackRock illustrates, we can’t trust corporations to follow through with their lofty promises. The powerful must be investigated and held accountable for their actions.</p><p><em>The Lever</em>'s team tirelessly reports on these institutions so that you can know where your activism is needed. Your supporting subscription directly funds this work. If you want to provide additional help, you can give someone the gift of political agency this holiday season. <a href=\"https://dailyposter.outpost.pub/gift_subscription?ref=the-lever#/\">Click here to purchase a gift subscription</a> to <em>The Lever</em> at a great discount.</p>",
+        "buttonUrl": "https://dailyposter.outpost.pub/gift_subscription?ref=the-lever#/"
+      }
+    ],
+    [
+      "image",
+      {
+        "src": "__GHOST_URL__/content/images/2022/12/BlackRock-Scope-3-Climate-Change-1.png",
+        "width": 1600,
+        "height": 900,
+        "caption": "Climate activist Chelsea McMillan is arrested outside BlackRock’s New York City headquarters on Oct. 18, 2021. <em>(AP Photo/Jessie Wardarski)</em>",
+        "href": "https://www.levernews.com/blackrocks-stealth-anti-climate-agenda/?utm_source=newsletter-email&utm_medium=link&utm_campaign=newsletter-article"
+      }
+    ],
+    [
+      "callout",
+      {
+        "calloutEmoji": "👉",
+        "calloutText": "<strong><em>Share this article on <u><a href=\"https://twitter.com/intent/tweet?text=BlackRock%20publicly%20touts%20its%20green%20credentials%20while%20quietly%20pressing%20to%20weaken%20a%20landmark%20climate%20disclosure%20rule.%20https%3A%2F%2Fwww.levernews.com%2Fblackrocks-stealth-anti-climate-agenda%2F%3Futm_source%3Dtwitter%26utm_medium%3Dlink%26utm_campaign%3Dtw-prefill\">Twitter</a></u></em></strong>.",
+        "backgroundColor": "grey"
+      }
+    ],
+    [
+      "image",
+      {
+        "src": "__GHOST_URL__/content/images/2022/12/Gift5-1.jpg",
+        "width": 4998,
+        "height": 2244,
+        "href": "https://dailyposter.outpost.pub/gift_subscription?ref=the-lever#/"
+      }
+    ],
+    [
+      "email-cta",
+      {
+        "showButton": true,
+        "showDividers": false,
+        "segment": "status:-free",
+        "alignment": "center",
+        "html": "",
+        "buttonText": "Click Here To Comment",
+        "buttonUrl": "__GHOST_URL__/blackrocks-stealth-anti-climate-agenda/#comments"
+      }
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "email",
+      {
+        "html": "<p><em><strong>Help us spread the word! </strong>Please forward this email to family and friends.</em></p><p><em><strong>Was this email forwarded to you? </strong><a href=\"https://levernews.com/membership/\">Sign up for free</a> to receive original reporting like this in your inbox every day.</em></p>"
+      }
+    ]
+  ],
+  "markups": [
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/author/rebecca/"
+      ]
+    ],
+    [
+      "em"
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/blackrocks-stealth-anti-climate-agenda/?utm_source=newsletter-email&utm_medium=link&utm_campaign=newsletter-article"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.mckinsey.com/capabilities/sustainability/our-insights/bring-the-problem-forward-larry-fink-on-climate-risk"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.sec.gov/rules/proposed/2022/33-11042.pdf"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.sec.gov/comments/s7-10-22/s71022.htm#meetings"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.wsj.com/articles/blackrock-walks-a-political-tightrope-on-climate-issues-11665279040"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.bloomberg.com/news/articles/2021-12-31/how-blackrock-s-invisible-hand-helped-make-esg-a-hot-ticket"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://blackrocksbigproblem.com/blackrock-sec-rule-2022/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.theguardian.com/environment/2022/mar/09/blackrock-privately-soothes-oil-industry-fears-over-its-new-green-credentials"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/for-blackrock-the-climate-crisis-is-a-win-win-win/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://corpgov.law.harvard.edu/2022/07/03/__trashed-4/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.uschamber.com/finance/u-s-chamber-comments-on-secs-proposed-rule-on-mandatory-climate-disclosures"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.bloomberg.com/news/features/2022-12-15/blackrock-is-caught-in-the-esg-crossfire-and-struggling-to-get-out"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.reuters.com/markets/blackrock-executive-texas-republicans-spar-over-climate-actions-2022-12-15/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.nytimes.com/2022/10/12/us/politics/leonard-leo-courts-dark-money.html"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://host2.adimpact.com/admo/viewer/05798315-21c3-429b-84ac-cbf8905da402/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://corpgov.law.harvard.edu/2020/01/16/a-fundamental-reshaping-of-finance/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.afr.com/wealth/investing/how-wall-street-adopted-a-new-mantra-green-is-good-20210201-p56yl7"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/midday-poster-blackrocks-greenwashing/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.blackrock.com/corporate/investor-relations/larry-fink-ceo-letter"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://medium.com/@sosofancy/the-secret-diary-of-a-sustainable-investor-part-3-3c238cb0dcbf"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.bloomberg.com/graphics/2021-what-is-esg-investing-msci-ratings-focus-on-corporate-bottom-line/?sref=XIzXWjPY"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.blackrock.com/aladdin/products/aladdin-climate"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.vox.com/energy-and-environment/2022/12/10/23496712/esg-gop-climate-corporate-responsibility"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.banking.senate.gov/newsroom/minority/new-banking-gop-report-reveals-how-asset-managers-use-proxy-voting-power-to-advance-liberal-policies"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://grist.org/economics/vanguard-asset-managers-net-zero-esg/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://news.bloomberglaw.com/antitrust/republicans-seize-on-climate-collusion-to-muzzle-esg-plans"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://zerotracker.net/#companies-table"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://time.com/6117635/companies-net-zero-greenwash/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.nytimes.com/2022/01/18/business/exxon-net-zero-emissions.html"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://corporate.exxonmobil.com/operations/exxonmobil-supply"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://corporate.walmart.com/purpose/sustainability/planet/climate-change"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.walmartsustainabilityhub.com/media-library/document/project-gigaton-accounting-methodology/_proxyDocument?id=00000165-159f-d0cc-ab77-95ff84350000"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.blackrock.com/corporate/literature/continuous-disclosure-and-important-information/blk2020tcfdreport.pdf"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.pionline.com/esg/blackrock-stresses-commitment-fossil-fuel-investments"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.blackrock.com/corporate/about-us/our-2021-sustainability-update/2030-net-zero-statement"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.pionline.com/esg/blackrock-targets-75-assets-net-zero-investments-2030"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.universalowner.org/_files/ugd/4e1fd6_4101f771c1304d5eb393e3a590aa33ed.pdf"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://reclaimfinance.org/site/en/2022/04/14/blackrocks-2030-emissions-target-promising-ambition-but-the-proof-is-in-the-policy/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.sec.gov/files/33-11042-fact-sheet.pdf"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.gao.gov/assets/gao-18-188.pdf"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://news.bloomberglaw.com/esg/sec-democrats-worry-climate-reporting-plan-falls-short-on-audits"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://tax.thomsonreuters.com/news/scope-3-emissions-disclosure-emerges-as-top-gop-target-in-sec-climate-risk-rules/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://huizenga.house.gov/uploadedfiles/huizen_031_xml.pdf"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://nehls.house.gov/posts/scope-3-act"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.politico.com/newsletters/the-long-game/2022/10/21/gensler-has-a-democrat-problem-00062914"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.theguardian.com/environment/2022/sep/15/republicans-climate-rules-legal-challenge-allow-emissions"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.blackrock.com/corporate/literature/publication/sec-enhancement-and-standardization-of-climate-related-disclosures-for-investors-061722.pdf"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://multinationales.org/IMG/pdf/exposing-blackrock-grip-on-eu-climate-finance-plans.pdf"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.reuters.com/business/sustainable-business/blackrock-warns-wall-street-watchdog-new-esg-rule-could-harm-investors-2022-08-19/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.blackrock.com/corporate/literature/continuous-disclosure-and-important-information/blackrock-2021-sasb-disclosure.pdf"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.sec.gov/comments/s7-17-22/s71722-20151504-320040.pdf"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.sec.gov/comments/s7-22-21/s72221-20150801-319840.pdf"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.sec.gov/news/statement/peirce-climate-disclosure-20220321"
+      ]
+    ]
+  ],
+  "sections": [
+    [
+      10,
+      0
+    ],
+    [
+      10,
+      1
+    ],
+    [
+      10,
+      2
+    ],
+    [
+      10,
+      3
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "By "
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "Rebecca Burns"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "["
+        ],
+        [
+          0,
+          [
+            1,
+            2
+          ],
+          2,
+          "View in browser"
+        ],
+        [
+          0,
+          [],
+          0,
+          "]"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "BlackRock, the world’s largest investment company, has become a top target of the right’s crusade against so-called “woke capitalism” because of its rhetoric around climate change and sustainable investing. But when it comes to climate action, the giant asset manager isn’t presently all that far apart from its GOP detractors. Both BlackRock and congressional Republicans are fighting — albeit through different strategies — to defang a forthcoming regulation that would force companies to disclose their carbon emissions and the risks that climate change pose to their business models."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "BlackRock CEO Larry Fink "
+        ],
+        [
+          0,
+          [
+            3
+          ],
+          1,
+          "has warned"
+        ],
+        [
+          0,
+          [],
+          0,
+          " that climate risk constitutes an investment risk. But after the Securities and Exchange Commission (SEC) "
+        ],
+        [
+          0,
+          [
+            4
+          ],
+          1,
+          "proposed"
+        ],
+        [
+          0,
+          [],
+          0,
+          " mandatory disclosure of those risks this spring, the $10 trillion asset manager is lobbying to weaken the final rule, according to a"
+        ],
+        [
+          0,
+          [
+            1
+          ],
+          1,
+          " Lever "
+        ],
+        [
+          0,
+          [],
+          0,
+          "review of BlackRock’s rulemaking comments, federal lobbying disclosures, and "
+        ],
+        [
+          0,
+          [
+            5
+          ],
+          1,
+          "meeting memoranda from the SEC"
+        ],
+        [
+          0,
+          [],
+          0,
+          ". So far this year, the investment firm reported spending nearly $2 million lobbying on finance issues that include climate risk and environmental, social, and governance (ESG) disclosure."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "The "
+        ],
+        [
+          0,
+          [
+            1
+          ],
+          1,
+          "Wall Street Journal"
+        ],
+        [
+          0,
+          [],
+          0,
+          " has described BlackRock as “"
+        ],
+        [
+          0,
+          [
+            6
+          ],
+          1,
+          "walking a political tightrope"
+        ],
+        [
+          0,
+          [],
+          0,
+          "” between activists on both sides of the sustainable investing debate. But the investment firm’s apparent attempt to undercut the type of measures it’s championed publicly for years instead suggests that it may have hit upon a more effective strategy for navigating the climate transition than the GOP’s outright denial. By aggressively growing the market for ESG funds — which "
+        ],
+        [
+          0,
+          [
+            7
+          ],
+          1,
+          "typically net them higher management fees"
+        ],
+        [
+          0,
+          [],
+          0,
+          " — while "
+        ],
+        [
+          0,
+          [
+            8
+          ],
+          1,
+          "pushing watered down regulations"
+        ],
+        [
+          0,
+          [],
+          0,
+          " and maintaining its status as one of "
+        ],
+        [
+          0,
+          [
+            9
+          ],
+          1,
+          "world’s largest fossil-fuel investors"
+        ],
+        [
+          0,
+          [],
+          0,
+          ", BlackRock can ensure that "
+        ],
+        [
+          0,
+          [
+            10
+          ],
+          1,
+          "the climate crisis is a win-win-win"
+        ],
+        [
+          0,
+          [],
+          0,
+          "."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "SEC rulemaking, through which the agency interprets and adapts U.S. securities law according to the changes in the market, seldom garners broad public interest. However, the proposed climate disclosure rule has drawn "
+        ],
+        [
+          0,
+          [
+            11
+          ],
+          1,
+          "a record-setting 14,000 comments"
+        ],
+        [
+          0,
+          [],
+          0,
+          ", ranging widely in tone and content, from lobbying groups, institutional investors, elected officials, academics, and climate advocates."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Pushback on the rule stems from a predictable array of business groups such as "
+        ],
+        [
+          0,
+          [
+            12
+          ],
+          1,
+          "the U.S. Chamber of Commerce"
+        ],
+        [
+          0,
+          [],
+          0,
+          ", as well as Republicans in federal and state offices attacking the growing use of ESG criteria in investing. BlackRock, which "
+        ],
+        [
+          0,
+          [
+            13
+          ],
+          1,
+          "has made ESG funds and disclosures mainstream"
+        ],
+        [
+          0,
+          [],
+          0,
+          ", has become a central target of those attacks. On Thursday, "
+        ],
+        [
+          0,
+          [
+            14
+          ],
+          1,
+          "Texas lawmakers grilled BlackRock executives"
+        ],
+        [
+          0,
+          [],
+          0,
+          " about whether ESG policies are jeopardizing pension returns. A dark money group "
+        ],
+        [
+          0,
+          [
+            15
+          ],
+          1,
+          "tied to conservative activist Leonard Leo"
+        ],
+        [
+          0,
+          [],
+          0,
+          " has run "
+        ],
+        [
+          0,
+          [
+            16
+          ],
+          1,
+          "TV ads"
+        ],
+        [
+          0,
+          [],
+          0,
+          " accusing the firm of “harassing oil and gas companies, making them divest from fossil fuels.”"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "But in reality, BlackRock is largely aligned with its GOP critics on one of the biggest points of contention in the proposed SEC rule: the disclosure of so-called “Scope 3” carbon emissions that occur across a company’s value chain, including the impact of consumers burning fossil fuels that a company sells or helps finance."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Experts say that robust reporting of Scope 3 emissions is critical to giving the rule teeth; by contrast, a company’s direct emissions (Scope 1) and those associated with its purchase and use of energy (Scope 2) usually account for just a fraction of its overall footprint. While the GOP attacks the SEC’s statutory authority to require Scope 3 disclosures, BlackRock is pushing changes that "
+        ],
+        [
+          0,
+          [
+            8
+          ],
+          1,
+          "critics say"
+        ],
+        [
+          0,
+          [],
+          0,
+          " could render those requirements almost meaningless."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "“We do not believe the purpose of Scope 3 disclosure requirements should be to push publicly traded companies into the role of enforcing emission reduction targets outside of their control,” the firm wrote in comments submitted to the agency."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "BlackRock declined to answer specific questions from the "
+        ],
+        [
+          0,
+          [
+            1
+          ],
+          1,
+          "Lever."
+        ],
+        [
+          0,
+          [],
+          0,
+          " But the firm "
+        ],
+        [
+          0,
+          [
+            9
+          ],
+          1,
+          "has said"
+        ],
+        [
+          0,
+          [],
+          0,
+          " there’s no contradiction between its past public statements and present private actions."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Environmental groups disagree. “BlackRock has publicly called for stronger regulation and government intervention over and over again,” wrote a coalition of 10 organizations including the Sierra Club and the Sunrise Movement "
+        ],
+        [
+          0,
+          [
+            8
+          ],
+          1,
+          "in a statement"
+        ],
+        [
+          0,
+          [],
+          0,
+          " responding to the firm’s rulemaking comments. “Disclosure is just the first step in an urgent and necessary regulatory framework to address climate risk. How can we expect BlackRock to support the more ambitious regulations and market interventions needed to actually reach a net zero economy?”"
+        ]
+      ]
+    ],
+    [
+      1,
+      "h3",
+      [
+        [
+          0,
+          [],
+          0,
+          "A Green Veneer On Business As Usual"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Three years ago, BlackRock CEO Larry Fink proclaimed that “climate risk is investment risk” in his "
+        ],
+        [
+          0,
+          [
+            17
+          ],
+          1,
+          "influential annual open letter"
+        ],
+        [
+          0,
+          [],
+          0,
+          " to companies the firm invests in. Companies that fail to plan for the massive upheavals and new investment opportunities resulting from climate change will be left behind, Fink reasoned."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "The CEO’s climate awakening, which "
+        ],
+        [
+          0,
+          [
+            18
+          ],
+          1,
+          "reportedly"
+        ],
+        [
+          0,
+          [],
+          0,
+          " occurred during a “boys’ trip” to Alaska with fellow bankers, didn’t change his fundamental convictions. “We focus on sustainability not because we’re environmentalists, but because we are capitalists,” Fink wrote in his 2022 "
+        ],
+        [
+          0,
+          [
+            19
+          ],
+          1,
+          "annual letter"
+        ],
+        [
+          0,
+          [],
+          0,
+          ", which also "
+        ],
+        [
+          0,
+          [
+            20
+          ],
+          1,
+          "asked the"
+        ],
+        [
+          0,
+          [],
+          0,
+          " companies BlackRock invests in to start issuing climate risk disclosures."
+        ]
+      ]
+    ],
+    [
+      10,
+      4
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "BlackRock’s ESG evangelism has drawn skeptics from many quarters, including its own former head of sustainable investing, who "
+        ],
+        [
+          0,
+          [
+            21
+          ],
+          1,
+          "called the framework"
+        ],
+        [
+          0,
+          [],
+          0,
+          " “a dangerous placebo that harms the public interest” by substituting green investment products and disclosures for meaningful action on the climate. Those disclosures are themselves "
+        ],
+        [
+          0,
+          [
+            22
+          ],
+          1,
+          "a source of profit"
+        ],
+        [
+          0,
+          [],
+          0,
+          ", and a separate BlackRock division now "
+        ],
+        [
+          0,
+          [
+            23
+          ],
+          1,
+          "markets climate investment risk-modeling software"
+        ],
+        [
+          0,
+          [],
+          0,
+          " to clients."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "“Protecting an investment portfolio from the disastrous effects of climate change is not the same thing as preventing those disastrous effects from occurring in the first place,” former BlackRock executive Tariq Fancy "
+        ],
+        [
+          0,
+          [
+            21
+          ],
+          1,
+          "wrote last year"
+        ],
+        [
+          0,
+          [],
+          0,
+          "."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "But Fink’s high-minded climate rhetoric has nonetheless provided fodder for right-wing grievances against so-called “woke capitalism,” a "
+        ],
+        [
+          0,
+          [
+            24
+          ],
+          1,
+          "bizarre new front in the culture war"
+        ],
+        [
+          0,
+          [],
+          0,
+          ". A "
+        ],
+        [
+          0,
+          [
+            25
+          ],
+          1,
+          "report"
+        ],
+        [
+          0,
+          [],
+          0,
+          " this month from Republican staffers on the Senate Banking Committee accused BlackRock and other asset managers of using their “shareholder voting power to advance a liberal political agenda.” Vanguard, one of the other investment firms targeted, has since "
+        ],
+        [
+          0,
+          [
+            26
+          ],
+          1,
+          "walked back"
+        ],
+        [
+          0,
+          [],
+          0,
+          " its climate commitments."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Meanwhile, Republican officials in "
+        ],
+        [
+          0,
+          [
+            24
+          ],
+          1,
+          "at least five states"
+        ],
+        [
+          0,
+          [],
+          0,
+          " have moved public pension money out of BlackRock, and the incoming House majority is now threatening antitrust investigations over what they term "
+        ],
+        [
+          0,
+          [
+            27
+          ],
+          1,
+          "“climate collusion”"
+        ],
+        [
+          0,
+          [],
+          0,
+          " against the fossil-fuel industry."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "It’s true that the last few years have seen a marked shift in the climate posture of the corporate world. It’s increasingly rare to see a major corporation engaged in outright climate denial, and "
+        ],
+        [
+          0,
+          [
+            28
+          ],
+          1,
+          "more than 800 publicly traded companies"
+        ],
+        [
+          0,
+          [],
+          0,
+          " have released plans to achieve carbon neutrality by mid-century."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "But in reality, many of those pledges amount to a green veneer on "
+        ],
+        [
+          0,
+          [
+            29
+          ],
+          1,
+          "business as usual"
+        ],
+        [
+          0,
+          [],
+          0,
+          ". Take the 2050 climate neutrality target "
+        ],
+        [
+          0,
+          [
+            30
+          ],
+          1,
+          "announced by ExxonMobil this year"
+        ],
+        [
+          0,
+          [],
+          0,
+          ", which covers the emissions required to produce "
+        ],
+        [
+          0,
+          [
+            31
+          ],
+          1,
+          "half a million barrels of oil each day"
+        ],
+        [
+          0,
+          [],
+          0,
+          " — but not the impact of customers actually burning all that oil."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "According to "
+        ],
+        [
+          0,
+          [
+            28
+          ],
+          1,
+          "the Net Zero Tracker"
+        ],
+        [
+          0,
+          [],
+          0,
+          ", which assesses major companies’ climate pledges, most firms continue to omit the Scope 3 emissions that include consumer use of their products. Critics say this renders the pledges so narrow as to be almost meaningless. Retail giant Walmart’s "
+        ],
+        [
+          0,
+          [
+            32
+          ],
+          1,
+          "stated strategy"
+        ],
+        [
+          0,
+          [],
+          0,
+          " to achieve net-zero emissions by 2040, for example, ignores Scope 3 emissions despite the company "
+        ],
+        [
+          0,
+          [
+            33
+          ],
+          1,
+          "acknowledging"
+        ],
+        [
+          0,
+          [],
+          0,
+          " that such releases account for 95 percent of its total emissions."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "In its own "
+        ],
+        [
+          0,
+          [
+            34
+          ],
+          1,
+          "first report"
+        ],
+        [
+          0,
+          [],
+          0,
+          " on climate-related risks in 2020, BlackRock declared that its operations were carbon neutral. But that metric included Scope 3 emissions only where the firm deemed them “appropriate,” such as employee business travel. The company did not factor in the "
+        ],
+        [
+          0,
+          [
+            35
+          ],
+          1,
+          "more than $250 billion"
+        ],
+        [
+          0,
+          [],
+          0,
+          " in fossil fuel investments included in BlackRock’s portfolio."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "This spring, "
+        ],
+        [
+          0,
+          [
+            36
+          ],
+          1,
+          "BlackRock projected"
+        ],
+        [
+          0,
+          [],
+          0,
+          " that by 2030, three-quarters of its managed assets would be "
+        ],
+        [
+          0,
+          [
+            37
+          ],
+          1,
+          "invested in companies with net-zero emissions targets."
+        ],
+        [
+          0,
+          [],
+          0,
+          " But not only did the firm "
+        ],
+        [
+          0,
+          [
+            38
+          ],
+          1,
+          "omit a binding pledge to hit that target"
+        ],
+        [
+          0,
+          [],
+          0,
+          ", it also failed to specify the criteria that would make such investments “net-zero aligned.”"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "“If BlackRock doesn’t disclose the concrete and timebound requests made to companies, this announcement is another smokescreen,” said Lara Cuvelier, sustainable investment manager for the French non-profit Reclaim Finance, "
+        ],
+        [
+          0,
+          [
+            39
+          ],
+          1,
+          "in a statement"
+        ],
+        [
+          0,
+          [],
+          0,
+          " responding to the announcement. “The world’s largest asset manager cannot get away with vaguely defined commitments.”"
+        ]
+      ]
+    ],
+    [
+      1,
+      "h3",
+      [
+        [
+          0,
+          [],
+          0,
+          "A Material World"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "The SEC’s proposed rule would "
+        ],
+        [
+          0,
+          [
+            40
+          ],
+          1,
+          "establish"
+        ],
+        [
+          0,
+          [],
+          0,
+          " special reporting requirements for companies that have set public climate targets, potentially making it harder for firms like BlackRock and the companies it invests in to conceal a stay-the-course climate strategy from investors and the broader public. All companies would also be required to disclose some Scope 3 emissions."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "While backing the rule, climate advocates are urging the commission to require disclosure of all Scope 3 emissions, not just those that a company deems “material” — an accounting term of art referring to information that could impact decision-making by investors. Existing SEC guidance already clarifies that companies should disclose any material climate-related risks, but that standard has failed to produce any significant change in reporting, "
+        ],
+        [
+          0,
+          [
+            41
+          ],
+          1,
+          "according to"
+        ],
+        [
+          0,
+          [],
+          0,
+          " the Government Accountability Office."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "“Management has incentive not to disclose risk,” said Yevgeny Shrago, climate policy director for Public Citizen, one of the groups that weighed in on the rulemaking. “When you ask whether something’s ‘material,’ that means it’s in management’s discretion what they choose to disclose.”"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Climate advocates are also "
+        ],
+        [
+          0,
+          [
+            42
+          ],
+          1,
+          "calling for more rigorous"
+        ],
+        [
+          0,
+          [],
+          0,
+          " auditing requirements for Scope 3 emissions."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "State and congressional Republicans are pushing in the opposite direction, using the complexity and cost of expansive emissions accounting as "
+        ],
+        [
+          0,
+          [
+            43
+          ],
+          1,
+          "their central line of attack"
+        ],
+        [
+          0,
+          [],
+          0,
+          " in round after round of bills, comment letters, and public statements."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "“The "
+        ],
+        [
+          0,
+          [
+            44
+          ],
+          1,
+          "Mandatory Materiality Requirement Act"
+        ],
+        [
+          0,
+          [],
+          0,
+          ",” introduced this month by Reps. Bill Huizenga (R-Mich.) and Andy Barr (R-Ky.), would restrict the SEC’s ability to impose more rigorous disclosure requirements. Another bill introduced this summer "
+        ],
+        [
+          0,
+          [
+            45
+          ],
+          1,
+          "would directly prohibit"
+        ],
+        [
+          0,
+          [],
+          0,
+          " the SEC from requiring Scope 3 emissions disclosures."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "This fall, a group of corporate Democrats including Kyrsten Sinema (Ariz.) and Jon Tester (Mont.) also urged the SEC to slow the pace of rulemaking in a letter "
+        ],
+        [
+          0,
+          [
+            46
+          ],
+          0,
+          "reported by "
+        ],
+        [
+          0,
+          [
+            1
+          ],
+          2,
+          "Politico"
+        ],
+        [
+          0,
+          [],
+          0,
+          "."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "The final SEC rule is also "
+        ],
+        [
+          0,
+          [
+            47
+          ],
+          1,
+          "almost certain to face legal challenges"
+        ],
+        [
+          0,
+          [],
+          0,
+          " from Republicans and business lobbies."
+        ]
+      ]
+    ],
+    [
+      1,
+      "h3",
+      [
+        [
+          0,
+          [],
+          0,
+          "BlackRock’s Climate Gambit"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "A subtler form of opposition to the SEC rule is coming from another quarter: investment firms, most prominently BlackRock. These companies say they support a new disclosure rule but are quietly fighting its key provisions."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "In "
+        ],
+        [
+          0,
+          [
+            48
+          ],
+          1,
+          "June comments"
+        ],
+        [
+          0,
+          [],
+          0,
+          " submitted to the agency, BlackRock began by applauding the “goal of implementing a framework for public issuers to provide investors with more comparable and consistent climate-related disclosures.”"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "But the firm’s comments then recommend substantial changes, including expanding a proposed “safe harbor” that would shield companies from liability for inaccurate or incomplete emissions disclosures. BlackRock also advocated for a “comply or explain” approach “which allows issuers to either disclose material Scope 3 emissions or explain why certain emissions categories are not relevant to the issuer or not subject to reasonable estimation.”"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "While acknowledging the importance of assessing Scope 3 emissions, BlackRock’s comments assert that the methodologies for measuring them are currently limited and still evolving, and that “with the broader adoption of reporting standards, datasets, and methodologies, they will improve meaningfully further.”"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Public Citizen’s Shrago argues that requiring large companies to begin producing reasonable estimates of their emissions is precisely what will accelerate that improvement. “[Measuring Scope 3 emissions] will only get easier and cheaper with a rule requiring all companies to do it,” he said. “The challenge right now is that there just isn’t standardized data.”"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "BlackRock also suggests that the final SEC rule should be aligned with the recommendations of the Task Force on Climate-Related Disclosures (TCFD) — an industry-led group of which BlackRock is a member. The TCFD framework, which BlackRock uses in its own climate risk reporting, recommends disclosing Scope 3 emissions “where appropriate.”"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Groups like the TCFD are part of a “climate finance echo chamber” that BlackRock has helped create and fund, according to "
+        ],
+        [
+          0,
+          [
+            49
+          ],
+          1,
+          "a 2021 report"
+        ],
+        [
+          0,
+          [],
+          0,
+          " from Reclaim Finance. The report raised the alarm about BlackRock’s outsized role in writing the European Union’s new sustainable finance strategy and urged regulators to write their own rules rather than relying on those the industry has written for itself."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "At the same time, BlackRock is pushing to narrow "
+        ],
+        [
+          0,
+          [
+            50
+          ],
+          1,
+          "a separate SEC rule"
+        ],
+        [
+          0,
+          [],
+          0,
+          " combating greenwashing in ESG funds, which "
+        ],
+        [
+          0,
+          [
+            51
+          ],
+          1,
+          "account for more than $500 billion"
+        ],
+        [
+          0,
+          [],
+          0,
+          " of assets managed by the firm."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "In addition to submitting comments and meeting with SEC Chair Gary Gensler this summer, BlackRock officials "
+        ],
+        [
+          0,
+          [
+            52
+          ],
+          1,
+          "met"
+        ],
+        [
+          0,
+          [],
+          0,
+          " "
+        ],
+        [
+          0,
+          [
+            53
+          ],
+          1,
+          "twice"
+        ],
+        [
+          0,
+          [],
+          0,
+          " with Republican SEC commissioners in November. One of those commissioners, Donald Trump appointee Hester Peirce, "
+        ],
+        [
+          0,
+          [
+            54
+          ],
+          1,
+          "issued a statement"
+        ],
+        [
+          0,
+          [],
+          0,
+          " opposing the disclosure rule this spring."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "“We are not the Securities and Environment Commission — at least not yet,” she wrote."
+        ]
+      ]
+    ],
+    [
+      10,
+      5
+    ],
+    [
+      10,
+      6
+    ],
+    [
+      10,
+      7
+    ],
+    [
+      1,
+      "p",
+      []
+    ],
+    [
+      1,
+      "p",
+      []
+    ],
+    [
+      1,
+      "p",
+      []
+    ],
+    [
+      1,
+      "p",
+      []
+    ]
+  ],
+  "ghostVersion": "4.0"
+}

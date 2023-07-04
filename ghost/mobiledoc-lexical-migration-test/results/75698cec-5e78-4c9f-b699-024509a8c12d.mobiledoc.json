@@ -1,0 +1,1290 @@
+{
+  "version": "0.3.1",
+  "atoms": [],
+  "cards": [
+    [
+      "email-cta",
+      {
+        "showButton": true,
+        "showDividers": false,
+        "segment": "status:free",
+        "alignment": "left",
+        "buttonText": "Get 50% Off Now",
+        "buttonUrl": "__GHOST_URL__/35subscription",
+        "html": "<ul><li><strong><a href=\"__GHOST_URL__/35subscription\">50% DISCOUNT</a>:</strong> Become a full subscriber to<em> The Lever </em>with a 50% discount – only $35 for a full year. We need your support. <strong><a href=\"__GHOST_URL__/35subscription\">Click here to get the deal right now</a>.</strong></li></ul>"
+      }
+    ],
+    [
+      "email-cta",
+      {
+        "showButton": false,
+        "showDividers": false,
+        "segment": "status:-free",
+        "alignment": "left",
+        "html": "<ul><li><strong>FORWARD THIS EMAIL:</strong> Help <em>The Lever </em>grow by forwarding this email to five people who you think would benefit from our reporting leading up to these critical midterms.</li></ul>"
+      }
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "html",
+      {
+        "html": "<center><h1>Wall Street Strikes Back</h1>\n<em>This election season, the financial industry is proudly funneling cash and running misleading ads to boost its favorite political lackeys.</em>\n<br><br>\n</center>"
+      }
+    ],
+    [
+      "image",
+      {
+        "src": "__GHOST_URL__/content/images/2022/11/Friends-of-Traditional-Banking-1.png",
+        "width": 1600,
+        "height": 900,
+        "caption": "<em>A still from a Friends of Traditional Banking informational video.</em>",
+        "href": "https://www.levernews.com/wall-street-strikes-back/?utm_source=newsletter-email&utm_medium=link&utm_campaign=newsletter-article"
+      }
+    ],
+    [
+      "callout",
+      {
+        "calloutEmoji": "👉",
+        "calloutText": "<strong><em>Share this article on <u><a href=\"https://twitter.com/intent/tweet?text=While%20the%20financial%20industry%20once%20kept%20a%20low%20profile%20in%20elections%2C%20it%E2%80%99s%20no%20secret%20which%20races%20it%E2%80%99s%20banking%20on%20winning%20this%20election%20cycle.%0Ahttps%3A%2F%2Flevernews.com%2Fwall-street-strikes-back%2F%3Futm_source%3Dtwitter%26utm_medium%3Dlink%26utm_campaign%3Dtw-prefill\">Twitter</a></u></em></strong>.",
+        "backgroundColor": "grey"
+      }
+    ],
+    [
+      "product",
+      {
+        "productButtonEnabled": true,
+        "productRatingEnabled": false,
+        "productStarRating": 5,
+        "productImageSrc": "__GHOST_URL__/content/images/2022/06/About-Page-Logo-1.png",
+        "productTitle": "Help Us Do More Stories Like This",
+        "productDescription": "<p>We're building a reader-supported investigative news outlet that holds accountable the people and corporations manipulating the levers of power. Join our fight by becoming a free subscriber today.</p>",
+        "productButton": "Subscribe Now",
+        "productUrl": "__GHOST_URL__/membership/"
+      }
+    ],
+    [
+      "embed",
+      {
+        "url": "https://www.youtube.com/watch?v=-MoznO160rg",
+        "html": "<iframe width=\"200\" height=\"113\" src=\"https://www.youtube.com/embed/-MoznO160rg?feature=oembed\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen title=\"Friends of Traditional Banking: 10 Years of Impact\"></iframe>",
+        "type": "video",
+        "metadata": {
+          "title": "Friends of Traditional Banking: 10 Years of Impact",
+          "author_name": "Friends of Traditional Banking",
+          "author_url": "https://www.youtube.com/channel/UCPW4PHStCu4h2cUwZu_VAqg",
+          "height": 113,
+          "width": 200,
+          "version": "1.0",
+          "provider_name": "YouTube",
+          "provider_url": "https://www.youtube.com/",
+          "thumbnail_height": 360,
+          "thumbnail_width": 480,
+          "thumbnail_url": "https://i.ytimg.com/vi/-MoznO160rg/hqdefault.jpg"
+        }
+      }
+    ],
+    [
+      "product",
+      {
+        "productButtonEnabled": true,
+        "productRatingEnabled": true,
+        "productStarRating": 5,
+        "productImageSrc": "__GHOST_URL__/content/images/2022/07/John_Roberts_Revolution_Image-11.png",
+        "productTitle": "<strong>OUR NEWEST E-BOOK: John Roberts’ Revolution</strong>",
+        "productDescription": "<p>In our brand-new 135-page publication exclusively for supporting subscribers, we reveal point by point how a court led by a celebrated “moderate” like John Roberts has become the most extreme in a century — and what can be done to stop it.</p>",
+        "productButton": "CLICK HERE TO GET YOUR COPY",
+        "productUrl": "__GHOST_URL__/new-lever-e-book-john-roberts-revolution-2/"
+      }
+    ],
+    [
+      "callout",
+      {
+        "calloutEmoji": "👉",
+        "calloutText": "<strong>HELP US GROW, FOLLOW US ON SOCIAL MEDIA:</strong><br>• <a href=\"https://www.twitter.com/LeverNews\"><strong>Twitter</strong></a><br>• <a href=\"https://www.facebook.com/TheLeverNews\"><strong>Facebook</strong></a><br>• <a href=\"https://www.instagram.com/LeverNews\"><strong>Instagram</strong></a><br>• <a href=\"https://www.youtube.com/c/LeverNews\"><strong>YouTube</strong></a>",
+        "backgroundColor": "grey"
+      }
+    ],
+    [
+      "embed",
+      {
+        "url": "https://www.youtube.com/watch?v=Hhz6C5UTPCk",
+        "html": "<iframe width=\"200\" height=\"113\" src=\"https://www.youtube.com/embed/Hhz6C5UTPCk?feature=oembed\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen title=\"&quot;Fighting for Family Farms&quot; - Rep. Ted Budd (R-NC-13)\"></iframe>",
+        "type": "video",
+        "metadata": {
+          "title": "\"Fighting for Family Farms\" - Rep. Ted Budd (R-NC-13)",
+          "author_name": "ABA Engage",
+          "author_url": "https://www.youtube.com/channel/UCnInQwOHZLNOgJJpuY9skGw",
+          "height": 113,
+          "width": 200,
+          "version": "1.0",
+          "provider_name": "YouTube",
+          "provider_url": "https://www.youtube.com/",
+          "thumbnail_height": 360,
+          "thumbnail_width": 480,
+          "thumbnail_url": "https://i.ytimg.com/vi/Hhz6C5UTPCk/hqdefault.jpg"
+        }
+      }
+    ],
+    [
+      "email-cta",
+      {
+        "showButton": true,
+        "showDividers": false,
+        "segment": "status:-free",
+        "alignment": "center",
+        "html": "",
+        "buttonText": "Click Here To Comment",
+        "buttonUrl": "__GHOST_URL__/wall-street-strikes-back/#comments"
+      }
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "email",
+      {
+        "html": "<p><em><strong>Help us spread the word! </strong>Please forward this email to family and friends.</em></p><p><em><strong>Was this email forwarded to you? </strong><a href=\"https://levernews.com/membership/\">Sign up for free</a> to receive original reporting like this in your inbox every day.</em></p>"
+      }
+    ]
+  ],
+  "markups": [
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/wall-street-strikes-back/?utm_source=newsletter-email&utm_medium=link&utm_campaign=newsletter-article"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://mobile.twitter.com/rebeccajburns_"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/author/rebecca/"
+      ]
+    ],
+    [
+      "em"
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.washingtonpost.com/elections/interactive/2022/election-deniers-running-for-office-elections-2022/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.americanbanker.com/superpac-banking-howard-headless--friends-of-traditional-banking-1048138-1.html?zkPrintable=1&amp%3Bnopagination=1"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://friendsoftraditionalbanking.com/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.youtube.com/watch?time_continue=5&v=mKyeBwWnnqM&feature=emb_logo"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://friendsoftraditionalbanking.com/news/Banking-faces-triple-threats-2021-10-15%200450.html"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://upnorthnewswi.com/2022/06/23/ron-johnson-working-overtime-for-big-banks-means-many-wisconsin-workers-arent-getting-overtime-pay/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.propublica.org/article/secret-irs-files-reveal-how-much-the-ultrawealthy-gained-by-shaping-trumps-big-beautiful-tax-cut"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.desmoinesregister.com/story/money/business/2018/03/01/financial-feud-iowa-credit-unions-call-banks-tax-claims-hypocritical/378340002/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.aba.com/advocacy/policy-analysis/ecora-issue-update"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/budd-got-loans-and-cash-and-boosted-bank-merger-before-mass-layoffs/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/ted-budd-aided-donors-trying-to-bypass-predatory-lending-laws/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.fec.gov/data/committee/C00517276/?tab=raising&cycle=2022"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://friendsoftraditionalbanking.com/news/Video-on-Why-Harming-Community-Banks-Harms-Communities.html"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.fec.gov/data/committee/C00517276/?tab=raising&cycle=2012"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.youtube.com/watch?v=-MoznO160rg&t=58s"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://friendsoftraditionalbanking.com/#news"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://theintercept.com/2018/03/02/crapo-instead-of-taking-on-gun-control-democrats-are-teaming-with-republicans-for-a-stealth-attack-on-wall-street-reform/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.politico.com/story/2018/07/12/midterm-races-bankers-financial-deregulation-bill-683384"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://theintercept.com/2018/05/16/wall-street-bank-regulation-bill/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.aba.com/advocacy/political-engagement/voter-education/voter-education-ads"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://projects.propublica.org/nonprofits/organizations/521001304"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.irs.gov/pub/irs-tege/eotopick03.pdf"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://bankingjournal.aba.com/2022/10/new-ad-urges-budd-to-continue-advocating-for-farmers/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.washingtonpost.com/politics/ted-budd-trump-endorsement-farmers-bankruptcy/2021/08/30/816991a6-003f-11ec-825d-01701f9ded64_story.html"
+      ]
+    ]
+  ],
+  "sections": [
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Friends:"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "The days of corporate interests quietly operating in the dark are well past. It’s no longer considered shameful or gauche to purchase influence out in the open. Even so, Wall Street is aiming to best themselves in this current election cycle, working to heavily influence the outcome of these midterms in their favor. Read all about it in "
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "today’s featured article"
+        ],
+        [
+          0,
+          [],
+          0,
+          " from "
+        ],
+        [
+          0,
+          [
+            1
+          ],
+          1,
+          "Rebecca Burns"
+        ],
+        [
+          0,
+          [],
+          0,
+          "."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Also:"
+        ]
+      ]
+    ],
+    [
+      10,
+      0
+    ],
+    [
+      10,
+      1
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Rock the boat,"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Sirota"
+        ]
+      ]
+    ],
+    [
+      10,
+      2
+    ],
+    [
+      10,
+      3
+    ],
+    [
+      10,
+      4
+    ],
+    [
+      10,
+      5
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "By "
+        ],
+        [
+          0,
+          [
+            2
+          ],
+          1,
+          "Rebecca Burns"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "["
+        ],
+        [
+          0,
+          [
+            0,
+            3
+          ],
+          2,
+          "View in browser"
+        ],
+        [
+          0,
+          [],
+          0,
+          "]"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "While the financial industry once kept a low profile in elections, it’s no secret which races it’s banking on winning this election cycle."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "That’s because big banks aren’t shy about the fact that they’re using multiple political groups to run misleading ads and donate millions on behalf of key Republican and Democratic candidates they believe will help them slash regulations and preserve predatory practices. The fact that buttoned-up bankers are intervening so shamelessly on behalf of "
+        ],
+        [
+          0,
+          [
+            4
+          ],
+          1,
+          "election deniers"
+        ],
+        [
+          0,
+          [],
+          0,
+          " and other right-wing demagogues might seem surprising — but the in-your-face approach is exactly the point."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "In the wake of the 2008 financial crisis, the industry was chafing under the yoke of modest regulations passed to try to avert another global catastrophe. It decided to regroup and embrace a new tack."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "“Congress isn’t afraid of bankers,” Roger Beverage, president and CEO of the Oklahoma Bankers Association, "
+        ],
+        [
+          0,
+          [
+            5
+          ],
+          0,
+          "told "
+        ],
+        [
+          0,
+          [
+            3
+          ],
+          1,
+          "American Banker"
+        ],
+        [
+          0,
+          [],
+          1,
+          " in 2012"
+        ],
+        [
+          0,
+          [],
+          0,
+          ". “They don’t think we’ll do anything to kick them out of office. We are trying to change that perception.”"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "To do so, Beverage joined with the heads of other state banking associations to launch "
+        ],
+        [
+          0,
+          [
+            6
+          ],
+          1,
+          "Friends of Traditional Banking"
+        ],
+        [
+          0,
+          [],
+          0,
+          ", a pro-deregulation industry group that rails against "
+        ],
+        [
+          0,
+          [
+            7
+          ],
+          1,
+          "credit unions"
+        ],
+        [
+          0,
+          [],
+          0,
+          " and "
+        ],
+        [
+          0,
+          [
+            8
+          ],
+          1,
+          "postal banking"
+        ],
+        [
+          0,
+          [],
+          0,
+          " for the competition they pose to “community banks.”"
+        ]
+      ]
+    ],
+    [
+      10,
+      6
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "This election season, the group is also "
+        ],
+        [
+          0,
+          [
+            6
+          ],
+          1,
+          "trumpeting"
+        ],
+        [
+          0,
+          [],
+          0,
+          " its role in funneling cash into what it refers to on its website as the midterm’s “three most important races for bankers.” Those races are:"
+        ]
+      ]
+    ],
+    [
+      3,
+      "ul",
+      [
+        [
+          [
+            0,
+            [],
+            0,
+            "Sen. Ron Johnson (R-Wisc.), an "
+          ],
+          [
+            0,
+            [
+              9
+            ],
+            1,
+            "opponent of consumer protections and overtime pay"
+          ],
+          [
+            0,
+            [],
+            0,
+            " who initially threatened to vote down former President Donald Trump’s tax cuts because they weren’t generous enough"
+          ],
+          [
+            0,
+            [
+              3
+            ],
+            1,
+            " "
+          ],
+          [
+            0,
+            [],
+            0,
+            "for the "
+          ],
+          [
+            0,
+            [
+              10
+            ],
+            1,
+            "megacorporations that also happen to be his largest donors."
+          ],
+          [
+            0,
+            [],
+            0,
+            " Johnson is attempting to fend off progressive challenger Mandela Barnes."
+          ]
+        ],
+        [
+          [
+            0,
+            [],
+            0,
+            "Rep. Randy Feenstra (R-Iowa), who, as a state representative, launched a crusade to "
+          ],
+          [
+            0,
+            [
+              11
+            ],
+            1,
+            "impose taxes on credit unions"
+          ],
+          [
+            0,
+            [],
+            0,
+            " and, once he arrived in Washington, began pushing to "
+          ],
+          [
+            0,
+            [
+              12
+            ],
+            1,
+            "reduce taxes on banks"
+          ],
+          [
+            0,
+            [],
+            0,
+            "."
+          ]
+        ],
+        [
+          [
+            0,
+            [],
+            0,
+            "Republican Rep. Ted Budd, who’s making a gambit for an open North Carolina Senate seat after spending three terms "
+          ],
+          [
+            0,
+            [
+              13
+            ],
+            1,
+            "cheering on disastrous bank mergers"
+          ],
+          [
+            0,
+            [],
+            0,
+            " and "
+          ],
+          [
+            0,
+            [
+              14
+            ],
+            1,
+            "aiding predatory lenders trying to evade his own state’s laws"
+          ],
+          [
+            0,
+            [],
+            0,
+            " — developments that also happened to benefit his campaign donors."
+          ]
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "In an informational video that opens against the backdrop of the Statue of Liberty, Friends of Traditional Banking describes how it bundles cash from donors nationwide and deploys it on behalf of a few endorsed candidates each cycle. The group is a super PAC, which means it can raise unlimited funds from individual and corporate donors."
+        ]
+      ]
+    ],
+    [
+      10,
+      7
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "So far this cycle, the self-proclaimed “true grassroots movement” has collected "
+        ],
+        [
+          0,
+          [
+            15
+          ],
+          1,
+          "more than $200,000"
+        ],
+        [
+          0,
+          [],
+          0,
+          " from a broad coalition of banks, bankers, and banking associations, in addition to soliciting direct contributions to candidates from its more than 20,000 members."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "“Our unique approach is working,” the group says on its website. “So far, we’ve channeled $3,285,750 to key candidates resulting in victories in some of the closest races critical to banking.”"
+        ]
+      ]
+    ],
+    [
+      1,
+      "h3",
+      [
+        [
+          0,
+          [],
+          0,
+          "A Super PAC Of Their Own"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Friends of Traditional Banking explains its origin story as a corrective to crushing over-regulation in the wake of the financial crisis."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "“Politicians knew it was their bad housing policies that created the crisis,” "
+        ],
+        [
+          0,
+          [
+            16
+          ],
+          1,
+          "says another video on the group’s website."
+        ],
+        [
+          0,
+          [],
+          0,
+          " “In order to deflect blame and get re-elected, they decided to blame the banks. They knew full well that traditional banks did not cause the crisis, but nonetheless, they adopted massive new regulations on traditional community banks.”"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "The group "
+        ],
+        [
+          0,
+          [
+            17
+          ],
+          1,
+          "raised more than $50,000"
+        ],
+        [
+          0,
+          [],
+          0,
+          " for independent expenditures for the 2012 elections, picking Elizabeth Warren’s Democratic Senate bid in Massachusetts as "
+        ],
+        [
+          0,
+          [
+            18
+          ],
+          1,
+          "one of its first two targets"
+        ],
+        [
+          0,
+          [],
+          0,
+          ". While that intervention failed, with Warren beating out Republican Scott Brown, "
+        ],
+        [
+          0,
+          [
+            18
+          ],
+          1,
+          "the group’s other endorsed candidate"
+        ],
+        [
+          0,
+          [],
+          0,
+          ", former commercial banker Republican Dean Heller, won a Nevada Senate seat and soon joined the Banking Committee."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Since then, the super PAC "
+        ],
+        [
+          0,
+          [
+            19
+          ],
+          1,
+          "has helped elect six candidates"
+        ],
+        [
+          0,
+          [],
+          0,
+          ", according to its website, raising money for independent expenditures as well as delivering hundreds of thousands of dollars a piece to candidates in direct contributions from its “friends.”"
+        ]
+      ]
+    ],
+    [
+      10,
+      8
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "The group has stuck to a steady tune amidst the larger drumbeat for deregulation, insisting that Main Street banks don’t ail from the ills of Wall Street and shouldn’t be subject to the same requirements. That refrain found a receptive audience in 2018, when corporate Democrats joined Republicans to pass a sweeping bank deregulation bill "
+        ],
+        [
+          0,
+          [
+            20
+          ],
+          1,
+          "in the name of providing relief for “community banks.”"
+        ],
+        [
+          0,
+          [],
+          0,
+          " This legislative coup led Friends of Traditional Banking to endorse its first Democrat, Montana Sen. Jon Tester in 2018, without whom “regulatory reform would not have happened,” the group’s executive director, Mike Winder, "
+        ],
+        [
+          0,
+          [
+            21
+          ],
+          0,
+          "told "
+        ],
+        [
+          0,
+          [
+            3
+          ],
+          1,
+          "Politico"
+        ],
+        [
+          0,
+          [],
+          1,
+          "."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "As predicted by opponents like Warren, the legislation did precisely the opposite of what its proponents claimed, "
+        ],
+        [
+          0,
+          [
+            22
+          ],
+          1,
+          "helping big banks get bigger"
+        ],
+        [
+          0,
+          [],
+          0,
+          " and further collapsing any distinction between “traditional” and investment banks."
+        ]
+      ]
+    ],
+    [
+      1,
+      "h3",
+      [
+        [
+          0,
+          [],
+          0,
+          "Bankers In Farmers’ Clothing"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "The financial industry has another weapon in its arsenal: the American Bankers Association, a lobbying group that represents some of the nation’s largest banks and has also taken an increasingly overt and aggressive stance in the electoral arena, running "
+        ],
+        [
+          0,
+          [
+            23
+          ],
+          1,
+          "“voter education” ads"
+        ],
+        [
+          0,
+          [],
+          0,
+          " on behalf of dozens of federal candidates."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "In 2018, as Friends of Traditional Banking went to bat for Tester, the American Bankers Association’s political action committee (PAC) also ran its "
+        ],
+        [
+          0,
+          [
+            21
+          ],
+          1,
+          "first-ever campaign ads"
+        ],
+        [
+          0,
+          [],
+          0,
+          " on behalf of Tester and Budd. The move was part of an overhaul of the group’s political strategy, "
+        ],
+        [
+          0,
+          [
+            21
+          ],
+          0,
+          "according to an account in "
+        ],
+        [
+          0,
+          [
+            3
+          ],
+          2,
+          "Politico"
+        ],
+        [
+          0,
+          [],
+          0,
+          ", that also saw it hire the Chamber of Commerce’s former political director to serve as chief political strategist."
+        ]
+      ]
+    ],
+    [
+      10,
+      9
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "The American Bankers Association is registered as a "
+        ],
+        [
+          0,
+          [
+            24
+          ],
+          1,
+          "trade association"
+        ],
+        [
+          0,
+          [],
+          0,
+          ", a "
+        ],
+        [
+          0,
+          [
+            25
+          ],
+          1,
+          "tax-exempt status"
+        ],
+        [
+          0,
+          [],
+          0,
+          " granted to business organizations devoted to promoting the common business interests of their members. While many of the "
+        ],
+        [
+          0,
+          [
+            23
+          ],
+          1,
+          "ads paid for by its PAC"
+        ],
+        [
+          0,
+          [],
+          0,
+          " focus on regulatory and economic issues, "
+        ],
+        [
+          0,
+          [
+            26
+          ],
+          1,
+          "an October ad"
+        ],
+        [
+          0,
+          [],
+          0,
+          " created to boost Budd strayed further afield, "
+        ],
+        [
+          0,
+          [
+            23
+          ],
+          1,
+          "thanking the Senate candidate for his support for family farmers."
+        ]
+      ]
+    ],
+    [
+      10,
+      10
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "That’s an especially odd note for a bank lobbying group to strike, given Budd and his family’s role in a bankruptcy that resulted in millions of dollars of losses for farmers, according to the "
+        ],
+        [
+          0,
+          [
+            27,
+            3
+          ],
+          2,
+          "Washington Post"
+        ],
+        [
+          0,
+          [
+            3
+          ],
+          1,
+          "."
+        ]
+      ]
+    ],
+    [
+      10,
+      11
+    ],
+    [
+      10,
+      12
+    ],
+    [
+      10,
+      13
+    ],
+    [
+      1,
+      "p",
+      []
+    ]
+  ],
+  "ghostVersion": "4.0"
+}

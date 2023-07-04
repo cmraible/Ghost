@@ -1,0 +1,1215 @@
+{
+  "version": "0.3.1",
+  "atoms": [],
+  "cards": [
+    [
+      "image",
+      {
+        "src": "https://media.tenor.com/77GayQ3L8cwAAAAC/zombie-hand.gif",
+        "width": 498,
+        "height": 256,
+        "caption": "",
+        "type": "gif"
+      }
+    ],
+    [
+      "bookmark",
+      {
+        "url": "https://www.motherjones.com/politics/2023/02/kiwi-farms-die-drop-cloudflare-chanlder-trolls/",
+        "metadata": {
+          "url": "https://www.motherjones.com/politics/2023/02/kiwi-farms-die-drop-cloudflare-chandler-trolls/",
+          "title": "The website that wants you to kill yourself—and won’t die",
+          "description": "How the trolls on Kiwi Farms hounded people to commit suicide and created the online culture we have today.",
+          "author": "Ali Breland",
+          "publisher": "Mother Jones",
+          "thumbnail": "https://www.motherjones.com/wp-content/uploads/2023/01/the_website_from_hell_2000.jpg?w=1200&h=630&crop=1",
+          "icon": "https://www.motherjones.com/wp-content/uploads/2017/09/cropped-favicon-512x512.png?w=180"
+        }
+      }
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "embed",
+      {
+        "url": "https://twitter.com/mediaevan/status/1620798520784719872?s=61&t=Y0oyN5cWfgypO2RuxpmF-A",
+        "html": "<blockquote class=\"twitter-tweet\"><p lang=\"en\" dir=\"ltr\">The next Gawker will be written entirely by AI.</p>&mdash; Evan DeSimone (@MediaEvan) <a href=\"https://twitter.com/MediaEvan/status/1620798520784719872?ref_src=twsrc%5Etfw\">February 1, 2023</a></blockquote>\n<script async src=\"https://platform.twitter.com/widgets.js\" charset=\"utf-8\"></script>\n",
+        "type": "twitter",
+        "metadata": {
+          "url": "https://twitter.com/MediaEvan/status/1620798520784719872",
+          "author_name": "Evan DeSimone",
+          "author_url": "https://twitter.com/MediaEvan",
+          "width": 550,
+          "height": null,
+          "cache_age": "3153600000",
+          "provider_name": "Twitter",
+          "provider_url": "http://www.twitter.com/",
+          "version": "1.0",
+          "tweet_data": {
+            "possibly_sensitive": false,
+            "edit_history_tweet_ids": [
+              "1620798520784719872"
+            ],
+            "public_metrics": {
+              "retweet_count": 0,
+              "reply_count": 1,
+              "like_count": 4,
+              "quote_count": 0,
+              "impression_count": 698
+            },
+            "lang": "en",
+            "context_annotations": [
+              {
+                "domain": {
+                  "id": "47",
+                  "name": "Brand",
+                  "description": "Brands and Companies"
+                },
+                "entity": {
+                  "id": "10043189071",
+                  "name": "Gawker"
+                }
+              }
+            ],
+            "id": "1620798520784719872",
+            "conversation_id": "1620798520784719872",
+            "created_at": "2023-02-01T14:57:34.000Z",
+            "text": "The next Gawker will be written entirely by AI.",
+            "reply_settings": "everyone",
+            "author_id": "1547067487",
+            "includes": {
+              "users": [
+                {
+                  "entities": {
+                    "url": {
+                      "urls": [
+                        {
+                          "start": 0,
+                          "end": 23,
+                          "url": "https://t.co/JNjyiqppSu",
+                          "expanded_url": "https://evandesimone.substack.com/subscribe",
+                          "display_url": "evandesimone.substack.com/subscribe"
+                        }
+                      ]
+                    },
+                    "description": {
+                      "mentions": [
+                        {
+                          "start": 43,
+                          "end": 51,
+                          "username": "digiday"
+                        },
+                        {
+                          "start": 52,
+                          "end": 65,
+                          "username": "videoinknews"
+                        },
+                        {
+                          "start": 73,
+                          "end": 84,
+                          "username": "tubefilter"
+                        },
+                        {
+                          "start": 85,
+                          "end": 92,
+                          "username": "DCNorg"
+                        }
+                      ]
+                    }
+                  },
+                  "name": "Evan DeSimone",
+                  "pinned_tweet_id": "1278085059766083591",
+                  "public_metrics": {
+                    "followers_count": 9467,
+                    "following_count": 9499,
+                    "tweet_count": 14844,
+                    "listed_count": 77
+                  },
+                  "url": "https://t.co/JNjyiqppSu",
+                  "id": "1547067487",
+                  "location": "New York City",
+                  "protected": false,
+                  "created_at": "2013-06-26T01:32:24.000Z",
+                  "profile_image_url": "https://pbs.twimg.com/profile_images/1559021141574012933/lDTG8Je0_normal.jpg",
+                  "verified": false,
+                  "username": "MediaEvan",
+                  "description": "Media writer/complainer |previously Custom @digiday @videoinknews| words @tubefilter @DCNorg| evandesimone@gmail.com"
+                }
+              ]
+            }
+          }
+        }
+      }
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "bookmark",
+      {
+        "url": "https://feed.feedburster.com/macstoriesnet/redirect?url=https://www.macstories.net/reviews/social-media-management-utility-buffer-adds-mastodon-support/",
+        "metadata": {
+          "url": "https://www.macstories.net/reviews/social-media-management-utility-buffer-adds-mastodon-support/",
+          "title": "Social Media Management Utility Buffer Adds Mastodon Support",
+          "description": "One of the things I immediately missed when I moved to Mastodon was the ability to schedule posts. This isn’t something I do a lot. However, with a busy editorial calendar at MacStories, I’ve used a variety of services over the years, including Buffer, to allow me to set up draft posts in advance wh…",
+          "author": "John Voorhees",
+          "publisher": "MacStories",
+          "thumbnail": "https://cdn.macstories.net/tuesday-31-jan-2023-11-07-20-1675181372309.png",
+          "icon": "https://www.macstories.net/app/themes/macstories4/images/apple-touch-icon-152x152-precomposed.png"
+        }
+      }
+    ],
+    [
+      "bookmark",
+      {
+        "version": "1.0",
+        "type": "bookmark",
+        "url": "https://tapbots.com/ivory/",
+        "metadata": {
+          "url": "https://tapbots.com/ivory/",
+          "title": "Ivory for iOS",
+          "description": "A Mastodon app based on the award-winning Twitter app for iOS.",
+          "author": null,
+          "publisher": "logo",
+          "thumbnail": "https://tapbots.com/ivory/img/ivory_logo_ios.png",
+          "icon": "https://tapbots.com/favicon_96.png"
+        }
+      }
+    ],
+    [
+      "email-cta",
+      {
+        "showButton": true,
+        "showDividers": true,
+        "segment": "status:free",
+        "alignment": "center",
+        "buttonText": "Support this site with 60% off ",
+        "buttonUrl": "__GHOST_URL__/inflation-buster",
+        "html": "<p>I hope you've been enjoying the revamped and rejuvenated newsletter. If you are, please consider suporting it with an inflation-busting, limited time offer of <strong>60% off </strong>a supporting membership — for life.</p>"
+      }
+    ],
+    [
+      "embed",
+      {
+        "url": "https://twitter.com/twitterdev/status/1621026986784337922?s=61&t=n2SgIXe8rjqSWauC9VFbhw",
+        "html": "<blockquote class=\"twitter-tweet\"><p lang=\"en\" dir=\"ltr\">Starting February 9, we will no longer support free access to the Twitter API, both v2 and v1.1. A paid basic tier will be available instead 🧵</p>&mdash; Twitter Dev (@TwitterDev) <a href=\"https://twitter.com/TwitterDev/status/1621026986784337922?ref_src=twsrc%5Etfw\">February 2, 2023</a></blockquote>\n<script async src=\"https://platform.twitter.com/widgets.js\" charset=\"utf-8\"></script>\n",
+        "type": "twitter",
+        "metadata": {
+          "url": "https://twitter.com/TwitterDev/status/1621026986784337922",
+          "author_name": "Twitter Dev",
+          "author_url": "https://twitter.com/TwitterDev",
+          "width": 550,
+          "height": null,
+          "cache_age": "3153600000",
+          "provider_name": "Twitter",
+          "provider_url": "http://www.twitter.com/",
+          "version": "1.0",
+          "tweet_data": {
+            "author_id": "2244994945",
+            "context_annotations": [
+              {
+                "domain": {
+                  "id": "46",
+                  "name": "Business Taxonomy",
+                  "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+                },
+                "entity": {
+                  "id": "1557697333571112960",
+                  "name": "Technology Business",
+                  "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares"
+                }
+              },
+              {
+                "domain": {
+                  "id": "131",
+                  "name": "Unified Twitter Taxonomy",
+                  "description": "A taxonomy of user interests. "
+                },
+                "entity": {
+                  "id": "848920371311001600",
+                  "name": "Technology",
+                  "description": "Technology and computing"
+                }
+              },
+              {
+                "domain": {
+                  "id": "131",
+                  "name": "Unified Twitter Taxonomy",
+                  "description": "A taxonomy of user interests. "
+                },
+                "entity": {
+                  "id": "1196446161223028736",
+                  "name": "Social media"
+                }
+              },
+              {
+                "domain": {
+                  "id": "165",
+                  "name": "Technology",
+                  "description": "for individual and types of technology, e.g., food technology, 3D printing"
+                },
+                "entity": {
+                  "id": "848920371311001600",
+                  "name": "Technology",
+                  "description": "Technology and computing"
+                }
+              },
+              {
+                "domain": {
+                  "id": "165",
+                  "name": "Technology",
+                  "description": "for individual and types of technology, e.g., food technology, 3D printing"
+                },
+                "entity": {
+                  "id": "1196446161223028736",
+                  "name": "Social media"
+                }
+              },
+              {
+                "domain": {
+                  "id": "30",
+                  "name": "Entities [Entity Service]",
+                  "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain"
+                },
+                "entity": {
+                  "id": "781974596752842752",
+                  "name": "Services"
+                }
+              },
+              {
+                "domain": {
+                  "id": "47",
+                  "name": "Brand",
+                  "description": "Brands and Companies"
+                },
+                "entity": {
+                  "id": "10045225402",
+                  "name": "Twitter"
+                }
+              },
+              {
+                "domain": {
+                  "id": "131",
+                  "name": "Unified Twitter Taxonomy",
+                  "description": "A taxonomy of user interests. "
+                },
+                "entity": {
+                  "id": "10045225402",
+                  "name": "Twitter"
+                }
+              },
+              {
+                "domain": {
+                  "id": "165",
+                  "name": "Technology",
+                  "description": "for individual and types of technology, e.g., food technology, 3D printing"
+                },
+                "entity": {
+                  "id": "1196446161223028736",
+                  "name": "Social media"
+                }
+              }
+            ],
+            "reply_settings": "everyone",
+            "edit_history_tweet_ids": [
+              "1621026986784337922"
+            ],
+            "text": "Starting February 9, we will no longer support free access to the Twitter API, both v2 and v1.1. A paid basic tier will be available instead 🧵",
+            "public_metrics": {
+              "retweet_count": 11484,
+              "reply_count": 1305,
+              "like_count": 5624,
+              "quote_count": 12098,
+              "impression_count": 8791562
+            },
+            "conversation_id": "1621026986784337922",
+            "lang": "en",
+            "id": "1621026986784337922",
+            "created_at": "2023-02-02T06:05:25.000Z",
+            "possibly_sensitive": false,
+            "includes": {
+              "users": [
+                {
+                  "created_at": "2013-12-14T04:35:55.000Z",
+                  "url": "https://t.co/9wI31m3ELF",
+                  "id": "2244994945",
+                  "public_metrics": {
+                    "followers_count": 560579,
+                    "following_count": 1959,
+                    "tweet_count": 4054,
+                    "listed_count": 2187
+                  },
+                  "protected": false,
+                  "description": "The voice of the #TwitterDev team and your official source for updates, news, and events, related to the #TwitterAPI.",
+                  "entities": {
+                    "url": {
+                      "urls": [
+                        {
+                          "start": 0,
+                          "end": 23,
+                          "url": "https://t.co/9wI31m3ELF",
+                          "expanded_url": "https://developer.twitter.com/en/community",
+                          "display_url": "developer.twitter.com/en/community"
+                        }
+                      ]
+                    },
+                    "description": {
+                      "hashtags": [
+                        {
+                          "start": 17,
+                          "end": 28,
+                          "tag": "TwitterDev"
+                        },
+                        {
+                          "start": 105,
+                          "end": 116,
+                          "tag": "TwitterAPI"
+                        }
+                      ]
+                    }
+                  },
+                  "name": "Twitter Dev",
+                  "profile_image_url": "https://pbs.twimg.com/profile_images/1445764922474827784/W2zEPN7U_normal.jpg",
+                  "location": "127.0.0.1",
+                  "username": "TwitterDev",
+                  "verified": true
+                }
+              ]
+            }
+          }
+        }
+      }
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "image",
+      {
+        "src": "__GHOST_URL__/content/images/2023/02/IMG_4221.jpeg",
+        "width": 4030,
+        "height": 1775,
+        "caption": "The Bash Street Kids, 2023-style",
+        "alt": "A page from the Beano, showing the 2022 Bash Street Kids line-up"
+      }
+    ],
+    [
+      "bookmark",
+      {
+        "url": "https://www.irishnews.com/magazine/entertainment/2023/01/19/news/beano_cartoonist_behind_the_bash_street_kids_dies_aged_89-3009117",
+        "metadata": {
+          "url": "https://www.irishnews.com/magazine/entertainment/2023/01/19/news/beano_cartoonist_behind_the_bash_street_kids_dies_aged_89-3009117/",
+          "title": "Beano cartoonist behind The Bash Street Kids dies aged 89",
+          "description": "Beano editor described David Sutherland as ‘the single most important illustrator in Beano history’.",
+          "author": null,
+          "publisher": "The Irish News",
+          "thumbnail": "https://binaries.irishnews.com/2023/01/19/221019690-9d4c2054-d7f1-406e-b001-ab13a0a4265d.jpg",
+          "icon": "https://www.irishnews.com/static/favicon.ico"
+        }
+      }
+    ]
+  ],
+  "markups": [
+    [
+      "a",
+      [
+        "href",
+        "https://www.wired.com/story/keffals-kiwifarms-cloudflare-blocked-clara-sorrenti/"
+      ]
+    ],
+    [
+      "em"
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.nytimes.com/2016/05/27/technology/tech-mogul-helped-hulk-hogan-take-down-gawker.html"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.axios.com/2023/02/01/bdg-media-suspending-gawker"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://themediaroundup.beehiiv.com/p/thursday-2nd-february-cutting-chatgpt-journalism-hype"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.niemanlab.org/2022/11/post-the-latest-twitter-alternative-is-betting-big-on-micropayments-for-news/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://theaddition.net/news/youtube-shorts-monetisation-programme-launches/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.platformer.news/p/instagrams-co-founders-are-mounting"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://daringfireball.net/linked/2023/01/31/artifact"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.reuters.com/world/europe/nordic-unions-quit-global-journalists-body-ifj-with-russian-membership-ukraine-2023-01-31/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.beano.com"
+      ]
+    ]
+  ],
+  "sections": [
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "We've talked a lot about toxic comments over the last couple of days — but they're a relative drop in the ocean compared to whole toxic websites. Last year, the Twitch streamer Keffals "
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "worked hard to shut down a forum called KiwiFarms"
+        ],
+        [
+          0,
+          [],
+          0,
+          ", and if you'd followed the reporting at the time, you'd have assumed she was successful."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Guess what. "
+        ]
+      ]
+    ],
+    [
+      10,
+      0
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "In other news, Gawker is dead (again), there's more developments around Mastodon (positive) and Twitter (negative). And one of the most influential comics artists in the UK has passed on. Class 2B will never be the same again…"
+        ]
+      ]
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "The afterlife of KiwiFarms"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "During the middle part of last year, there was a major campaign to get a forum called KiwiFarms driven off the internet. It is, at its heart, a bullying site. It tracks and mocks the online activities of people whom its users deem “lolcows”, who can be milked for entertainment. And, if you followed the #DropKiwiFarms campaign, and the reporting of people like Taylor Lorenz at the "
+        ],
+        [
+          0,
+          [
+            1
+          ],
+          1,
+          "Washington Post"
+        ],
+        [
+          0,
+          [],
+          0,
+          " or Ben Collins at NBC, you'd think the campaign was successful."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Yeah, about that."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Within a matter of weeks, the site was back up, and has been in a cat-and-mouse game between campaigners, who persuade web companies to stop providing services to it, and the site owner, who finds ways around it. The site is up at the time of writing — but was down last night, when I bookmarked this story to blog about."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Two things to note here:"
+        ]
+      ]
+    ],
+    [
+      3,
+      "ul",
+      [
+        [
+          [
+            0,
+            [],
+            0,
+            "It is very, very hard to drive toxic sites off the internet permanently"
+          ]
+        ],
+        [
+          [
+            0,
+            [],
+            0,
+            "If you think seeing a site shut down is important enough to do multiple stories and tweets about it, do your damn follow-up"
+          ]
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Happily, Ali Breland has finally done so for "
+        ],
+        [
+          0,
+          [
+            1
+          ],
+          1,
+          "Mother Jones"
+        ],
+        [
+          0,
+          [],
+          0,
+          ". While I'd take issue with some of the ways he describes the site (I've had to keep a careful eye on some of the more unpleasant site on the internet for some years now, since my students at City have shown academic interest in understanding the social dynamics around them, quote rightly), this piece captures a lot of the history and current state of the KiwiFarms. "
+        ]
+      ]
+    ],
+    [
+      10,
+      1
+    ],
+    [
+      10,
+      2
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Gawker's second death"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Gawker was once one of the most entertaining gossip blogs on the internet, until it flew too close to the sun, and got "
+        ],
+        [
+          0,
+          [
+            2
+          ],
+          1,
+          "sued to smithereens by Peter Thiel"
+        ],
+        [
+          0,
+          [],
+          0,
+          ". "
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Back in 2021, the name and assets were "
+        ],
+        [
+          0,
+          [
+            2
+          ],
+          1,
+          "bought and relaunched"
+        ],
+        [
+          0,
+          [],
+          0,
+          ". But now, "
+        ],
+        [
+          0,
+          [
+            3
+          ],
+          1,
+          "it's dead again"
+        ],
+        [
+          0,
+          [],
+          0,
+          ". As Chris put it in "
+        ],
+        [
+          0,
+          [
+            4
+          ],
+          0,
+          "this morning's "
+        ],
+        [
+          0,
+          [
+            1
+          ],
+          2,
+          "Media Roundup"
+        ],
+        [
+          0,
+          [],
+          0,
+          ":"
+        ]
+      ]
+    ],
+    [
+      1,
+      "blockquote",
+      [
+        [
+          0,
+          [],
+          0,
+          "To be fair this hurts less than the first time, in part because it isn't at the whim of a billionaire, but also because I haven't returned to the new Gawker as often as I did its first iteration."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "I can only remember one story from there in the last three years. That says it all, I think. "
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Will it get a third life? "
+        ]
+      ]
+    ],
+    [
+      10,
+      3
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Oh, God, no."
+        ]
+      ]
+    ],
+    [
+      10,
+      4
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Mastodon Watch"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Two things of note about the open source, federated social network. First of all, one of the most affordable social media management platforms is adding it: "
+        ]
+      ]
+    ],
+    [
+      10,
+      5
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "And iOS users now have access to a "
+        ],
+        [
+          0,
+          [
+            1
+          ],
+          1,
+          "really"
+        ],
+        [
+          0,
+          [],
+          0,
+          " good app, from the people who used to make Twitter app Tweetbot. This was an instant subscribe for me:"
+        ]
+      ]
+    ],
+    [
+      10,
+      6
+    ],
+    [
+      10,
+      7
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "WARNING: Twitter is breaking things — again"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Well, this could be fun. The Musk Twitter made another of its short notice announcements this morning:"
+        ]
+      ]
+    ],
+    [
+      10,
+      8
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "What this means is that, in just over a week, some services that rely on Twitter API access will suddenly and unexpectedly break. If you're reading this via email, the tweet embedded above was created using API access. Will that break? Maybe. I'm certainly not going to be paying for API access personally just to embed tweets in emails, so my self-hosted sites will no longer have embedded tweets in their emails after the 9th."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "This is yet another example of the Musk-era Twitter making a move on short notice that, on the surface, makes financial sense, but which so undermines both trust in the platform, and the ecosystem around it, that it will likely cause more harm than good. "
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "February 9th will be an interesting day in the Twitter ecosystem."
+        ]
+      ]
+    ],
+    [
+      10,
+      9
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Quickies"
+        ]
+      ]
+    ],
+    [
+      3,
+      "ul",
+      [
+        [
+          [
+            0,
+            [],
+            0,
+            "🤑 I'd completely forgotten that back in November "
+          ],
+          [
+            0,
+            [
+              5
+            ],
+            1,
+            "Nieman Lab reported that Post planned micropayments"
+          ],
+          [
+            0,
+            [],
+            0,
+            " for news. "
+          ]
+        ],
+        [
+          [
+            0,
+            [],
+            0,
+            "💰 YouTube Shorts has "
+          ],
+          [
+            0,
+            [
+              6
+            ],
+            1,
+            "a monetisation programme now"
+          ],
+          [
+            0,
+            [],
+            0,
+            ". "
+          ]
+        ],
+        [
+          [
+            0,
+            [],
+            0,
+            "📰 Instagram's co-founders are back with "
+          ],
+          [
+            0,
+            [
+              7
+            ],
+            1,
+            "a news aggregator app"
+          ],
+          [
+            0,
+            [],
+            0,
+            ". Hmm. I'm inclined to agree with John Gruber's "
+          ],
+          [
+            0,
+            [
+              8
+            ],
+            1,
+            "rather sceptical take on it"
+          ],
+          [
+            0,
+            [],
+            0,
+            " in its current form. "
+          ]
+        ],
+        [
+          [
+            0,
+            [],
+            0,
+            "🧯 What the heck is "
+          ],
+          [
+            0,
+            [
+              9
+            ],
+            1,
+            "going on at the IFJ"
+          ],
+          [
+            0,
+            [],
+            0,
+            "? "
+          ]
+        ]
+      ]
+    ],
+    [
+      10,
+      10
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "The passing of the Bash Street genius"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "When I was a wee boy in central Scotland, one of my favourite reads was the "
+        ],
+        [
+          0,
+          [
+            1,
+            10
+          ],
+          2,
+          "Beano"
+        ],
+        [
+          0,
+          [],
+          0,
+          ", and the Bash Street Kids in particular. Some 40-odd years later, the same is true of my daughters, who regularly fight over who gets to read the "
+        ],
+        [
+          0,
+          [
+            1
+          ],
+          1,
+          "Beano "
+        ],
+        [
+          0,
+          [],
+          0,
+          "first."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Sure, the comic has changed, and the Bash Street Kids themselves have grown a little more gender and racially diverse:"
+        ]
+      ]
+    ],
+    [
+      10,
+      11
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "The delightful thing is that the same bloke drew this strip for both generations of Tinworths. David Sutherland worked on the comic for decades, and sadly passed away a few weeks ago, still working right up until the end. "
+        ]
+      ]
+    ],
+    [
+      10,
+      12
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "His work, and "
+        ],
+        [
+          0,
+          [
+            1
+          ],
+          1,
+          "The Beano"
+        ],
+        [
+          0,
+          [],
+          0,
+          " in general, were one of the things that made me fall in love with comics, which led to a passion for magazines which led to journalism, which led to the web. So, in some small measure, he's part of the reason you're reading this now."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Thank you for your service to generations of mischievous children, sir. Rest in peace. "
+        ]
+      ]
+    ]
+  ],
+  "ghostVersion": "4.0"
+}

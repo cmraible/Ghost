@@ -1,0 +1,468 @@
+{
+  "version": "0.3.1",
+  "atoms": [],
+  "cards": [
+    [
+      "hr",
+      {}
+    ],
+    [
+      "image",
+      {
+        "src": "__GHOST_URL__/content/images/2023/02/Warehouses-Loaded-With-Classic-Cars-Burn-2.jpg",
+        "width": 1920,
+        "height": 1080
+      }
+    ],
+    [
+      "embed",
+      {
+        "url": "https://twitter.com/NSWRFS/status/1628896862941085696?s=20",
+        "html": "<blockquote class=\"twitter-tweet\"><p lang=\"en\" dir=\"ltr\">Seven trucks from <a href=\"https://twitter.com/hashtag/NSWRFS?src=hash&amp;ref_src=twsrc%5Etfw\">#NSWRFS</a> and <a href=\"https://twitter.com/FRNSW?ref_src=twsrc%5Etfw\">@FRNSW</a> are dealing with a structure fire in Ingleside (Northern Beaches  LGA) Mona Vale Rd is closed in the area. <a href=\"https://t.co/emCKu94RBa\">pic.twitter.com/emCKu94RBa</a></p>&mdash; NSW RFS (@NSWRFS) <a href=\"https://twitter.com/NSWRFS/status/1628896862941085696?ref_src=twsrc%5Etfw\">February 23, 2023</a></blockquote>\n<script async src=\"https://platform.twitter.com/widgets.js\" charset=\"utf-8\"></script>\n",
+        "type": "twitter",
+        "metadata": {
+          "url": "https://twitter.com/NSWRFS/status/1628896862941085696",
+          "author_name": "NSW RFS",
+          "author_url": "https://twitter.com/NSWRFS",
+          "width": 550,
+          "height": null,
+          "cache_age": "3153600000",
+          "provider_name": "Twitter",
+          "provider_url": "http://www.twitter.com/",
+          "version": "1.0",
+          "tweet_data": {
+            "lang": "en",
+            "context_annotations": [
+              {
+                "domain": {
+                  "id": "46",
+                  "name": "Business Taxonomy",
+                  "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+                },
+                "entity": {
+                  "id": "1557696420500541440",
+                  "name": "Automotive, Aircraft & Boat Business",
+                  "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to automobile, spacecraft, aircraft and boat manufacturing"
+                }
+              },
+              {
+                "domain": {
+                  "id": "131",
+                  "name": "Unified Twitter Taxonomy",
+                  "description": "A taxonomy of user interests. "
+                },
+                "entity": {
+                  "id": "1259995120016912384",
+                  "name": "California"
+                }
+              },
+              {
+                "domain": {
+                  "id": "171",
+                  "name": "Local News",
+                  "description": "For local-level news entities"
+                },
+                "entity": {
+                  "id": "1259995120016912384",
+                  "name": "California"
+                }
+              }
+            ],
+            "entities": {
+              "urls": [
+                {
+                  "start": 144,
+                  "end": 167,
+                  "url": "https://t.co/emCKu94RBa",
+                  "expanded_url": "https://twitter.com/NSWRFS/status/1628896862941085696/video/1",
+                  "display_url": "pic.twitter.com/emCKu94RBa",
+                  "media_key": "7_1628896762839855105"
+                }
+              ],
+              "hashtags": [
+                {
+                  "start": 18,
+                  "end": 25,
+                  "tag": "NSWRFS"
+                }
+              ],
+              "annotations": [
+                {
+                  "start": 19,
+                  "end": 24,
+                  "probability": 0.4221,
+                  "type": "Other",
+                  "normalized_text": "NSWRFS"
+                },
+                {
+                  "start": 74,
+                  "end": 82,
+                  "probability": 0.8939,
+                  "type": "Place",
+                  "normalized_text": "Ingleside"
+                },
+                {
+                  "start": 85,
+                  "end": 105,
+                  "probability": 0.4237,
+                  "type": "Place",
+                  "normalized_text": "Northern Beaches  LGA"
+                },
+                {
+                  "start": 108,
+                  "end": 119,
+                  "probability": 0.7939,
+                  "type": "Other",
+                  "normalized_text": "Mona Vale Rd"
+                }
+              ],
+              "mentions": [
+                {
+                  "start": 30,
+                  "end": 36,
+                  "username": "FRNSW",
+                  "id": "42744260"
+                }
+              ]
+            },
+            "author_id": "10926872",
+            "public_metrics": {
+              "retweet_count": 9,
+              "reply_count": 1,
+              "like_count": 30,
+              "quote_count": 1,
+              "impression_count": 6947
+            },
+            "reply_settings": "everyone",
+            "edit_history_tweet_ids": [
+              "1628896862941085696"
+            ],
+            "created_at": "2023-02-23T23:17:30.000Z",
+            "attachments": {
+              "media_keys": [
+                "7_1628896762839855105"
+              ]
+            },
+            "text": "Seven trucks from #NSWRFS and @FRNSW are dealing with a structure fire in Ingleside (Northern Beaches  LGA) Mona Vale Rd is closed in the area. https://t.co/emCKu94RBa",
+            "conversation_id": "1628896862941085696",
+            "possibly_sensitive": false,
+            "id": "1628896862941085696",
+            "includes": {
+              "media": [
+                {
+                  "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1628896762839855105/pu/img/ee_Cvaw_jWOnwXVw.jpg",
+                  "duration_ms": 35666,
+                  "type": "video",
+                  "width": 1280,
+                  "public_metrics": {
+                    "view_count": 2511
+                  },
+                  "height": 720,
+                  "media_key": "7_1628896762839855105"
+                }
+              ],
+              "users": [
+                {
+                  "verified": true,
+                  "username": "NSWRFS",
+                  "created_at": "2007-12-07T04:57:55.000Z",
+                  "public_metrics": {
+                    "followers_count": 194070,
+                    "following_count": 122,
+                    "tweet_count": 15508,
+                    "listed_count": 1429
+                  },
+                  "description": "The NSW Rural Fire Service, the world's largest fire service. Our 74,000 volunteer members provide emergency services to more than 95 percent of NSW.",
+                  "name": "NSW RFS",
+                  "protected": false,
+                  "id": "10926872",
+                  "entities": {
+                    "url": {
+                      "urls": [
+                        {
+                          "start": 0,
+                          "end": 23,
+                          "url": "https://t.co/3TrkKufcfj",
+                          "expanded_url": "https://www.rfs.nsw.gov.au/socialmediaguidelines",
+                          "display_url": "rfs.nsw.gov.au/socialmediagui…"
+                        }
+                      ]
+                    }
+                  },
+                  "url": "https://t.co/3TrkKufcfj",
+                  "profile_image_url": "https://pbs.twimg.com/profile_images/1626385309700358149/6y9jC95S_normal.jpg",
+                  "location": "New South Wales, Australia"
+                },
+                {
+                  "verified": true,
+                  "username": "FRNSW",
+                  "created_at": "2009-05-26T22:42:11.000Z",
+                  "public_metrics": {
+                    "followers_count": 95178,
+                    "following_count": 709,
+                    "tweet_count": 20507,
+                    "listed_count": 950
+                  },
+                  "description": "Official Twitter account of Fire and Rescue NSW. For emergencies phone Triple Zero (000). This account is not monitored 24/7. Contact: media@fire.nsw.gov.au",
+                  "name": "Fire and Rescue NSW",
+                  "protected": false,
+                  "id": "42744260",
+                  "entities": {
+                    "url": {
+                      "urls": [
+                        {
+                          "start": 0,
+                          "end": 23,
+                          "url": "https://t.co/Q19TgiyKCc",
+                          "expanded_url": "http://www.fire.nsw.gov.au",
+                          "display_url": "fire.nsw.gov.au"
+                        }
+                      ]
+                    }
+                  },
+                  "url": "https://t.co/Q19TgiyKCc",
+                  "profile_image_url": "https://pbs.twimg.com/profile_images/1500778204294180868/3B6rKocs_normal.jpg",
+                  "location": "New South Wales"
+                }
+              ]
+            }
+          }
+        }
+      }
+    ]
+  ],
+  "markups": [
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/articles/news/fire-ravages-warehouse-complex-packed-with-cars/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/articles/news/arson-suspected-in-supercars-fire/"
+      ]
+    ],
+    [
+      "strong"
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.youtube.com/watch?v=dyLqMyxYqB0"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/articles/features-3/motorious-stories-of/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.news.com.au/national/nsw-act/seven-fire-and-rescue-trucks-responding-to-factory-blaze-in-northern-sydney/news-story/5bff059c832918e5cec85ae9000a18ff"
+      ]
+    ]
+  ],
+  "sections": [
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Why does this keep happening?"
+        ]
+      ]
+    ],
+    [
+      10,
+      0
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "A fire claimed three "
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "warehouses"
+        ],
+        [
+          0,
+          [],
+          0,
+          "and dozens of classic cars in Australia recently, and now we’re in mourning yet again. We’ve lost track of how many times we’ve "
+        ],
+        [
+          0,
+          [
+            1
+          ],
+          1,
+          "covered"
+        ],
+        [
+          0,
+          [],
+          0,
+          ", not to mention seen, news stories of classic cars burning in warehouses, garages, or other structures where it seems absolutely no fire suppression system has been installed."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [
+            2
+          ],
+          0,
+          "Check out the Motorious Podcast "
+        ],
+        [
+          0,
+          [
+            3
+          ],
+          1,
+          "here"
+        ],
+        [
+          0,
+          [],
+          1,
+          "."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "The massive blaze, which reportedly flared up on Sydney’s north side during the morning commute on February 24, drew seven firetrucks. Video and photos show thick black smoke billowing out of all three buildings as fire crews worked hard to put the inferno out. And just like that, beloved collector cars were lost, perhaps forever."
+        ]
+      ]
+    ],
+    [
+      10,
+      1
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Since we haven’t seen the vehicles which were inside those warehouses, we can’t say for sure just how bad off they are. And while we’ve seen some badly damaged classic cars restored after being burned to a crisp, not everyone has the insurance coverage, money, time, and stomach to go through that kind of process. It’s just a sad reality."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Seeing classic cars burn like this is just heartbreaking. It’s about as crushing to see them "
+        ],
+        [
+          0,
+          [
+            4
+          ],
+          1,
+          "damaged by floods"
+        ],
+        [
+          0,
+          [],
+          0,
+          " or other natural disasters, but there’s something just so very consuming about fire."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Let this be a reminder to everyone reading this who owns even just one classic to invest in a fire suppression system. You don’t even need to be working on your car in a space for it to catch fire, or for something else in the garage, etc. to spark a blaze that spreads quickly. The fuel, tires, and other parts of your vehicle will do nicely to keep any fire burning nice and strong. If you own multiple cars, that’s just more fuel for a potential fire. Stop delaying and get a fire suppression system and while you’re at it see if your insurance provider gives you a discount for having one."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Source: "
+        ],
+        [
+          0,
+          [
+            5
+          ],
+          1,
+          "News.com.au"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Images via Twitter, Facebook"
+        ]
+      ]
+    ],
+    [
+      10,
+      2
+    ],
+    [
+      1,
+      "p",
+      []
+    ]
+  ],
+  "ghostVersion": "4.0"
+}

@@ -1,0 +1,455 @@
+{
+  "version": "0.3.1",
+  "atoms": [
+    [
+      "soft-return",
+      "",
+      {}
+    ]
+  ],
+  "cards": [
+    [
+      "hr",
+      {}
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "html",
+      {
+        "html": "<table id=\"production-numbers-table\">\n<tbody>\n\t<tr>\n\t\t<td>CPE V6</td>\n\t\t<td>894</td>\n\t</tr>\n    \t<tr>\n\t\t<td>CPE V8</td>\n\t\t<td>3,165</td>\n\t</tr>\n    \t<tr>\n\t\t<td>HTP CPE</td>\n\t\t<td>41,084</td>\n\t</tr>\n    \t<tr>\n\t\t<td>HTP SDN</td>\n\t\t<td>13,721</td>\n\t</tr>\n    \t<tr>\n\t\t<td>WGN 4D</td>\n\t\t<td>5,440</td>\n\t</tr>\n    \t<tr>\n\t\t<td>WGN 4D, 3S</td>\n\t\t<td>5,970</td>\n\t</tr>\n    \t<tr>\n\t\t<td>CUST WGN 4D</td>\n\t\t<td>3,114</td>\n\t</tr>\n    \t<tr>\n\t\t<td>CUST WGN 4D, 3S</td>\n\t\t<td>4,559</td>\n\t</tr>\n    \t<tr>\n\t\t<td>CONV CPE</td>\n\t\t<td>6,319</td>\n\t</tr>\n    \t<tr>\n\t\t<td>SDN 4D</td>\n\t\t<td>9,213</td>\n\t</tr>\n\t\t<td><b>Total Production</b></td>\n\t\t<td><b>93,479</b></td>\n\t</tr>\n</tbody>\n</table>"
+      }
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "html",
+      {
+        "html": "<table id=\"performance-specs-table\">\n<tbody>\n\t<tr>\n\t\t<th><b>Engine</b></th>\n\t\t<th><b>Size</b></td>\n\t\t<th><b>Carb.</b></td>\n\t\t<th><b>HP</b></td>\n\t\t<th><b>Torque</b></td>\n\t\t<th><b>0 to 60</b></td>\n\t\t<th><b>Quarter mile</b></td>\n\t</tr>\n\t<tr>\n\t\t<td>Fireball 225 V6</td>\n\t\t<td>225ci</td>\n\t\t<td>1x2bbl</td>\n\t\t<td>160</td>\n\t\t<td>235 lb-ft</td>\n\t\t<td>-</td>\n\t\t<td>-</td>\n\t</tr>\n\t<tr>\n\t\t<td>Wildcat 310</td>\n\t\t<td>300ci</td>\n\t\t<td>1x2bbl</td>\n\t\t<td>210</td>\n\t\t<td>310 lb-ft</td>\n\t\t<td>-</td>\n\t\t<td>-</td>\n\t</tr>\n\t<tr>\n\t\t<td>Wildcat 445</td>\n\t\t<td>340ci</td>\n\t\t<td>1x4bbl</td>\n\t\t<td>260</td>\n\t\t<td>365 lb-ft</td>\n\t\t<td>-</td>\n\t\t<td>-</td>\n\t</tr>\n\t<tr>\n\t\t<td>340-2</td>\n\t\t<td>340ci</td>\n\t\t<td>1x2bbl</td>\n\t\t<td>220</td>\n\t\t<td>-</td>\n\t\t<td>-</td>\n\t\t<td>-</td>\n\t</tr>\n</tbody>\n</table>"
+      }
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "html",
+      {
+        "html": "<h4 id='colors-sub-heading'>Exterior</h4>\n<div class=\"colors-row\">\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #000000\"></div>\n        <div class=\"color-name\">Regal Black</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #687881\"></div>\n        <div class=\"color-name\">Turquoise</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #e1dcc9\"></div>\n        <div class=\"color-name\">Arctic White</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #57708f\"></div>\n        <div class=\"color-name\">Sapphire Blue</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #21263c\"></div>\n        <div class=\"color-name\">Midnight Blue</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #8d785e\"></div>\n        <div class=\"color-name\">Gold Mist</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #7c8b7a\"></div>\n        <div class=\"color-name\">Green Mist</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #303d40\"></div>\n        <div class=\"color-name\">Verde Green</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #648e9a\"></div>\n        <div class=\"color-name\">Aquamarine</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #2e4554\"></div>\n        <div class=\"color-name\">Shadow Turquoise</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #391d1c\"></div>\n        <div class=\"color-name\">Burgundy Mist</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #9e9683\"></div>\n        <div class=\"color-name\">Platinum Mist</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #962523\"></div>\n        <div class=\"color-name\">Apple Red</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #a79675\"></div>\n        <div class=\"color-name\">Champagne Mist</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #eae0bc\"></div>\n        <div class=\"color-name\">Ivory</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #42232e\"></div>\n        <div class=\"color-name\">Plum</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #565553\"></div>\n        <div class=\"color-name\">Charcoal</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #a19a82\"></div>\n        <div class=\"color-name\">Fawn</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #742628\"></div>\n        <div class=\"color-name\">Red</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #8b805e\"></div>\n        <div class=\"color-name\">Gold</div>\n    </div>\n</div>\n\n<h4 id='colors-sub-heading'>Interior</h4>\n<div class=\"colors-row\">\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #000000\"></div>\n        <div class=\"color-name\">Black</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #627389\"></div>\n        <div class=\"color-name\">Blue</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #95816c\"></div>\n        <div class=\"color-name\">Fawn</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #8d2821\"></div>\n        <div class=\"color-name\">Red</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #cabda7\"></div>\n        <div class=\"color-name\">Saddle</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #689097\"></div>\n        <div class=\"color-name\">Aqua</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #beb498\"></div>\n        <div class=\"color-name\">Light Fawn</div>\n    </div>\n</div>"
+      }
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "gallery",
+      {
+        "images": [
+          {
+            "fileName": "2512_2_low_res.jpg",
+            "row": 0,
+            "width": 790,
+            "height": 310,
+            "src": "__GHOST_URL__/content/images/2020/06/2512_2_low_res.jpg"
+          },
+          {
+            "fileName": "2513_13_low_res.jpg",
+            "row": 0,
+            "width": 790,
+            "height": 621,
+            "src": "__GHOST_URL__/content/images/2020/06/2513_13_low_res.jpg"
+          },
+          {
+            "fileName": "2514_14_low_res.jpg",
+            "row": 0,
+            "width": 790,
+            "height": 626,
+            "src": "__GHOST_URL__/content/images/2020/06/2514_14_low_res.jpg"
+          },
+          {
+            "fileName": "2515_21_low_res.jpg",
+            "row": 1,
+            "width": 790,
+            "height": 613,
+            "src": "__GHOST_URL__/content/images/2020/06/2515_21_low_res.jpg"
+          },
+          {
+            "fileName": "2516_22_low_res.jpg",
+            "row": 1,
+            "width": 790,
+            "height": 618,
+            "src": "__GHOST_URL__/content/images/2020/06/2516_22_low_res.jpg"
+          },
+          {
+            "fileName": "2517_23_low_res.jpg",
+            "row": 1,
+            "width": 790,
+            "height": 623,
+            "src": "__GHOST_URL__/content/images/2020/06/2517_23_low_res.jpg"
+          },
+          {
+            "fileName": "2510_67sky_low_res.jpg",
+            "row": 2,
+            "width": 403,
+            "height": 595,
+            "src": "__GHOST_URL__/content/images/2020/06/2510_67sky_low_res.jpg"
+          },
+          {
+            "fileName": "2511_1_low_res.jpg",
+            "row": 2,
+            "width": 790,
+            "height": 624,
+            "src": "__GHOST_URL__/content/images/2020/06/2511_1_low_res.jpg"
+          }
+        ],
+        "caption": "1967 Buick Skylark OEM Brochures"
+      }
+    ],
+    [
+      "hr",
+      {}
+    ]
+  ],
+  "markups": [
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/articles/research/1964-buick-skylark/"
+      ]
+    ],
+    [
+      "strong"
+    ],
+    [
+      "em"
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/tag/research/"
+      ]
+    ]
+  ],
+  "sections": [
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Overview"
+        ]
+      ]
+    ],
+    [
+      10,
+      0
+    ],
+    [
+      1,
+      "h3",
+      [
+        [
+          0,
+          [],
+          0,
+          "The 1967 Skylark would welcome back the four-door sedan making a total of five Skylark body styles. Beginning with the 1967 model year, only the Skylark two-door sedan would be available with the Buick V6 engine as standard."
+        ]
+      ]
+    ],
+    [
+      10,
+      1
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "The 1967 Skylark would welcome back the four-door sedan making a total of five "
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "Skylark"
+        ],
+        [
+          0,
+          [],
+          0,
+          " body styles."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Beginning with the 1967 model year, only the Skylark two-door sedan would be available with the Buick V6 engine as standard. The 300 cubic inch V8 would be standard on all other models, with the exception of the four-door hardtop sedan, which came with a 340 cubic-inch-displacement V8 engine using a Rochester 2-barrel carburetor and producing 220 hp (160 kW) at 4400 rpm."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "The previous Buick Skylark Gran Sport was relabeled as the Buick Skylark Gran Sport 400 to reflect its engine. The new model was the Buick Skylark Gran Sport 340, which also used the 340-cubic-inch V8 that was standard on the Skylark four-door hardtop. The Gran Sport 340 was available only as a two-door hardtop coupe."
+        ]
+      ]
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Production Numbers"
+        ]
+      ]
+    ],
+    [
+      10,
+      2
+    ],
+    [
+      10,
+      3
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Performance Specs"
+        ]
+      ]
+    ],
+    [
+      10,
+      4
+    ],
+    [
+      10,
+      5
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Transmission"
+        ]
+      ]
+    ],
+    [
+      10,
+      6
+    ],
+    [
+      3,
+      "ul",
+      [
+        [
+          [
+            0,
+            [
+              1,
+              1
+            ],
+            2,
+            "3-Speed"
+          ]
+        ],
+        [
+          [
+            0,
+            [
+              1,
+              1
+            ],
+            2,
+            "2-speed auto"
+          ]
+        ]
+      ]
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Paint & Colors"
+        ]
+      ]
+    ],
+    [
+      10,
+      7
+    ],
+    [
+      10,
+      8
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "OEM Brochures"
+        ]
+      ]
+    ],
+    [
+      10,
+      9
+    ],
+    [
+      10,
+      10
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "About the Knowledge Base"
+        ]
+      ]
+    ],
+    [
+      10,
+      11
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "The Motorious Knowledge Base provides a comprehensive vehicle overview for the 1967 Buick Skylark"
+        ],
+        [
+          0,
+          [
+            2
+          ],
+          1,
+          " "
+        ],
+        [
+          0,
+          [],
+          0,
+          "including production numbers, performance specs, factory colors, and OEM brochures. Check out additional model years or related content linked to this article or view other Makes and Models in our "
+        ],
+        [
+          0,
+          [
+            3
+          ],
+          1,
+          "Research"
+        ],
+        [
+          0,
+          [],
+          0,
+          " center."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "If you have any interesting facts about the 1967 Buick Skylark"
+        ],
+        [
+          0,
+          [
+            2
+          ],
+          1,
+          " "
+        ],
+        [
+          0,
+          [],
+          0,
+          "to add, want to tell us how we did covering the skylark, or want to tell us about yours, please leave a comment below."
+        ],
+        [
+          1,
+          [],
+          0,
+          0
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      []
+    ],
+    [
+      1,
+      "p",
+      []
+    ]
+  ],
+  "ghostVersion": "3.0"
+}

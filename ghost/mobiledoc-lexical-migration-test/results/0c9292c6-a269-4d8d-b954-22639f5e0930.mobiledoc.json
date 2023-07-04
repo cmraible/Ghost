@@ -1,0 +1,382 @@
+{
+  "version": "0.3.1",
+  "atoms": [],
+  "cards": [
+    [
+      "hr",
+      {}
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "html",
+      {
+        "html": "<table id=\"production-numbers-table\">\n<tbody>\n\t<tr>\n\t\t<td>2-Dr. Sports Coupe</td>\n\t\t<td>14,680</td>\n\t</tr>\n    <tr>\n\t\t<td>2-Dr. Convertible</td>\n\t\t<td>7,121</td>\n\t</tr>\n\t\t<td><b>Total Production</b></td>\n\t\t<td><b>21,801</b></td>\n\t</tr>\n</tbody>\n</table>"
+      }
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "html",
+      {
+        "html": "<table id=\"performance-specs-table\">\n<tbody>\n\t<tr>\n\t\t<th><b>Engine</b></th>\n\t\t<th><b>Size</b></td>\n\t\t<th><b>HP</b></td>\n\t\t<th><b>Torque</b></td>\n\t\t<th><b>0 to 60</b></td>\n\t\t<th><b>Quarter mile</b></td>\n\t</tr>\n\t<tr>\n\t\t<td>L48</td>\n\t\t<td>350ci</td>\n\t\t<td>270hp</td>\n\t\t<td>360 lb-ft</td>\n\t\t<td>-</td>\n\t\t<td>-</td>\n\t</tr>\n    <tr>\n\t\t<td>LS5</td>\n\t\t<td>454ci</td>\n\t\t<td>360hp</td>\n\t\t<td>465 lb-ft</td>\n\t\t<td>-</td>\n\t\t<td>-</td>\n\t</tr>\n    <tr>\n\t\t<td>LS6</td>\n\t\t<td>454ci</td>\n\t\t<td>425hp</td>\n\t\t<td>475 lb-ft</td>\n\t\t<td>6.5 sec</td>\n\t\t<td>13.7 sec @ 102 mph</td>\n\t</tr>\n    <tr>\n\t\t<td>LT1</td>\n\t\t<td>350ci</td>\n\t\t<td>330hp</td>\n\t\t<td>360 lb-ft</td>\n\t\t<td>6.0 sec</td>\n\t\t<td>14.57 sec @ 100.6 mph</td>\n\t</tr>\n</tbody>\n</table>"
+      }
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "html",
+      {
+        "html": "<h4 id='colors-sub-heading'>Exterior</h4>\n<div class=\"colors-row\">\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #eceddd\"></div>\n        <div class=\"color-name\">Classic White</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #8d989f\"></div>\n        <div class=\"color-name\">Nevada Silver</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #f5d547\"></div>\n        <div class=\"color-name\">Sunflower Yellow</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #d22e28\"></div>\n        <div class=\"color-name\">Mille Miglia Red</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #2b4d73\"></div>\n        <div class=\"color-name\">Mulsanne Blue</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #213152\"></div>\n        <div class=\"color-name\">Bridgehampton Blue</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #2d493e\"></div>\n        <div class=\"color-name\">Brands Hatch Green</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #ad5130\"></div>\n        <div class=\"color-name\">Ontario Orange</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #636b68\"></div>\n        <div class=\"color-name\">Steel Cities Gray</div>\n    </div>   \n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #9e833e\"></div>\n        <div class=\"color-name\">War Bonnet Yellow</div>\n    </div>\n</div>\n\n<h4 id='colors-sub-heading'>Interior</h4>\n<div class=\"colors-row\">\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #000000\"></div>\n        <div class=\"color-name\">Black</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #64523c\"></div>\n        <div class=\"color-name\">Brown</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #003658\"></div>\n        <div class=\"color-name\">Dark Blue</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #2e4727\"></div>\n        <div class=\"color-name\">Dark Green</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #932024\"></div>\n        <div class=\"color-name\">Red</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #5f472b\"></div>\n        <div class=\"color-name\">Saddle</div>\n    </div>\n</div>\n"
+      }
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "gallery",
+      {
+        "images": [
+          {
+            "fileName": "293_1_low_res.jpeg",
+            "row": 0,
+            "width": 771,
+            "height": 992,
+            "src": "__GHOST_URL__/content/images/2020/08/293_1_low_res.jpeg"
+          },
+          {
+            "fileName": "294_2_low_res.jpeg",
+            "row": 0,
+            "width": 790,
+            "height": 508,
+            "src": "__GHOST_URL__/content/images/2020/08/294_2_low_res.jpeg"
+          },
+          {
+            "fileName": "296_4_low_res.jpeg",
+            "row": 0,
+            "width": 764,
+            "height": 992,
+            "src": "__GHOST_URL__/content/images/2020/08/296_4_low_res.jpeg"
+          },
+          {
+            "fileName": "298_6_low_res.jpeg",
+            "row": 1,
+            "width": 762,
+            "height": 992,
+            "src": "__GHOST_URL__/content/images/2020/08/298_6_low_res.jpeg"
+          },
+          {
+            "fileName": "300_8_low_res.jpeg",
+            "row": 1,
+            "width": 772,
+            "height": 992,
+            "src": "__GHOST_URL__/content/images/2020/08/300_8_low_res.jpeg"
+          }
+        ]
+      }
+    ],
+    [
+      "gallery",
+      {
+        "images": [
+          {
+            "fileName": "302_10_low_res.jpeg",
+            "row": 0,
+            "width": 763,
+            "height": 992,
+            "src": "__GHOST_URL__/content/images/2020/08/302_10_low_res.jpeg"
+          },
+          {
+            "fileName": "303_11_low_res.jpeg",
+            "row": 0,
+            "width": 769,
+            "height": 992,
+            "src": "__GHOST_URL__/content/images/2020/08/303_11_low_res.jpeg"
+          }
+        ],
+        "caption": "1971 Chevrolet Corvette OEM Brochures"
+      }
+    ],
+    [
+      "hr",
+      {}
+    ]
+  ],
+  "markups": [
+    [
+      "em"
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/tag/research/"
+      ]
+    ]
+  ],
+  "sections": [
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Overview"
+        ]
+      ]
+    ],
+    [
+      10,
+      0
+    ],
+    [
+      1,
+      "h3",
+      [
+        [
+          0,
+          [],
+          0,
+          "The 1971 Corvette saw a decrease in power since compression had to be decreased to meet new emission standards."
+        ]
+      ]
+    ],
+    [
+      10,
+      1
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "The 1971 Corvette saw a decrease in power since compression had to be decreased to meet new emission standards."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "The ’71 is the least changed visually from the previous years. GM was more focused on creating substantial power given the new emission standards."
+        ]
+      ]
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Production Numbers"
+        ]
+      ]
+    ],
+    [
+      10,
+      2
+    ],
+    [
+      10,
+      3
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Performance Specs"
+        ]
+      ]
+    ],
+    [
+      10,
+      4
+    ],
+    [
+      10,
+      5
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Transmission"
+        ]
+      ]
+    ],
+    [
+      10,
+      6
+    ],
+    [
+      3,
+      "ul",
+      [
+        [
+          [
+            0,
+            [],
+            0,
+            "3-Speed Automatic Turbo Hydra-Matic"
+          ]
+        ],
+        [
+          [
+            0,
+            [],
+            0,
+            "4-Speed Manual"
+          ]
+        ]
+      ]
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Paint & Colors"
+        ]
+      ]
+    ],
+    [
+      10,
+      7
+    ],
+    [
+      10,
+      8
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "OEM Brochures"
+        ]
+      ]
+    ],
+    [
+      10,
+      9
+    ],
+    [
+      10,
+      10
+    ],
+    [
+      10,
+      11
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "About the Knowledge Base"
+        ]
+      ]
+    ],
+    [
+      10,
+      12
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "The Motorious Knowledge Base provides a comprehensive vehicle overview for the 1971 Chevrolet Corvette"
+        ],
+        [
+          0,
+          [
+            0,
+            0
+          ],
+          2,
+          " "
+        ],
+        [
+          0,
+          [],
+          0,
+          "including production numbers, performance specs, factory colors, and OEM brochures. Check out additional model years or related content linked to this article or view other Makes and Models in our "
+        ],
+        [
+          0,
+          [
+            1
+          ],
+          1,
+          "Research"
+        ],
+        [
+          0,
+          [],
+          0,
+          " center."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "If you have any interesting facts about the 1971 Chevrolet Corvette to add, want to tell us how we did covering the Corvette, or want to tell us about yours, please leave a comment below."
+        ]
+      ]
+    ]
+  ],
+  "ghostVersion": "3.0"
+}

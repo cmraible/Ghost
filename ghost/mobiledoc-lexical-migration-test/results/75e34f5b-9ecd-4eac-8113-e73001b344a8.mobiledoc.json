@@ -1,0 +1,575 @@
+{
+  "version": "0.3.1",
+  "atoms": [],
+  "cards": [
+    [
+      "embed",
+      {
+        "url": "https://www.youtube.com/watch?v=ybmH4bZVA74&t=20s",
+        "html": "<iframe width=\"200\" height=\"113\" src=\"https://www.youtube.com/embed/ybmH4bZVA74?start=20&feature=oembed\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+        "type": "video",
+        "metadata": {
+          "title": "KungFu Kickball - Available on PC, Mac and Consoles on Feb 10th!",
+          "author_name": "BlowfishStudiosGames",
+          "author_url": "https://www.youtube.com/c/BlowfishStudiosGames",
+          "height": 113,
+          "width": 200,
+          "version": "1.0",
+          "provider_name": "YouTube",
+          "provider_url": "https://www.youtube.com/",
+          "thumbnail_height": 360,
+          "thumbnail_width": 480,
+          "thumbnail_url": "https://i.ytimg.com/vi/ybmH4bZVA74/hqdefault.jpg"
+        }
+      }
+    ],
+    [
+      "html",
+      {
+        "html": "<a href=\"https://powera.pxf.io/c/3324894/1258631/15385\" target=\"_top\" id=\"1258631\"><img src=\"//a.impactradius-go.com/display-ad/15385-1258631\" border=\"0\" alt=\"\" width=\"728\" height=\"90\"/></a><img height=\"0\" width=\"0\" src=\"https://imp.pxf.io/i/3324894/1258631/15385\" style=\"position:absolute;visibility:hidden;\" border=\"0\" />"
+      }
+    ],
+    [
+      "gallery",
+      {
+        "images": [
+          {
+            "fileName": "sc8n2v.jpg",
+            "row": 0,
+            "width": 1920,
+            "height": 1080,
+            "src": "__GHOST_URL__/content/images/2022/02/sc8n2v.jpg"
+          },
+          {
+            "fileName": "sc8n2w.jpg",
+            "row": 0,
+            "width": 1920,
+            "height": 1080,
+            "src": "__GHOST_URL__/content/images/2022/02/sc8n2w-1.jpg"
+          },
+          {
+            "fileName": "sc8n2x.jpg",
+            "row": 0,
+            "width": 1920,
+            "height": 1080,
+            "src": "__GHOST_URL__/content/images/2022/02/sc8n2x-1.jpg"
+          },
+          {
+            "fileName": "sc8n2y.jpg",
+            "row": 1,
+            "width": 1920,
+            "height": 1080,
+            "src": "__GHOST_URL__/content/images/2022/02/sc8n2y-1.jpg"
+          }
+        ]
+      }
+    ],
+    [
+      "html",
+      {
+        "html": "<iframe title=\"Switchaboo Podcast\" allowtransparency=\"true\" height=\"315\" width=\"100%\" style=\"border: none; min-width: min(100%, 430px);\" scrolling=\"no\" data-name=\"pb-iframe-player\" src=\"https://www.podbean.com/player-v2/?i=3f7t5-a391da-pbblog-playlist&share=1&download=1&rtl=0&fonts=Arial&skin=1&font-color=auto&order=episodic&limit=10&filter=all&ss=a713390a017602015775e868a2cf26b0&btn-skin=7&size=315\" allowfullscreen=\"\"></iframe>"
+      }
+    ]
+  ],
+  "markups": [
+    [
+      "em"
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/interview-with-blowfish-kung-fu-kickball-and-obey-me/"
+      ]
+    ],
+    [
+      "strong"
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.campedoutgame.com"
+      ]
+    ]
+  ],
+  "sections": [
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "We’ve had "
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "KungFu Kickball"
+        ],
+        [
+          0,
+          [],
+          0,
+          " on our radars for quite some time now; in fact, our martial arts soccer radar has been beeping since October 2019 when we "
+        ],
+        [
+          0,
+          [
+            1
+          ],
+          1,
+          "interviewed"
+        ],
+        [
+          0,
+          [],
+          0,
+          " Sam from Blowfish Studios at PAXAUS. "
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "We wanted to check-in with the developer about the questions we asked then and see how the game has grown since."
+        ]
+      ]
+    ],
+    [
+      10,
+      0
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [
+            2
+          ],
+          1,
+          "Question: So, the Monk. How did Krillin from "
+        ],
+        [
+          0,
+          [
+            0,
+            2
+          ],
+          2,
+          "Dragon Ball Z"
+        ],
+        [
+          0,
+          [
+            2
+          ],
+          1,
+          " make it into "
+        ],
+        [
+          0,
+          [
+            0,
+            2
+          ],
+          2,
+          "KungFu Kickball?"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Answer: Haha. Not Krillin, but maybe he’s Killin’s distant cousin? We took inspiration from lots of different shows and movies. So he was as much inspired from Krillin as he was from Mui in Shaolin Soccer."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [
+            2
+          ],
+          1,
+          "Q: The game seemed mostly complete the last time we played "
+        ],
+        [
+          0,
+          [
+            0,
+            2
+          ],
+          2,
+          "KungFu Kickball"
+        ],
+        [
+          0,
+          [
+            2
+          ],
+          1,
+          " and at that time, it was targeting a Q1 2020 release. What have you been working on in that time?"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "A: Ha. Yeah, I still have signs that say “landing early 2020.”  Netcode and porting to consoles were the two big things that took longer than expected. But since then we’ve also added some new game modes and new characters, like the Monkey King and the Shogun."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [
+            2
+          ],
+          1,
+          "Q: In the same interview, there was a mention of future character packs and content expansions, à la "
+        ],
+        [
+          0,
+          [
+            0,
+            2
+          ],
+          2,
+          "Super Smash Bros."
+        ],
+        [
+          0,
+          [
+            2
+          ],
+          1,
+          " Is this still the plan?"
+        ]
+      ]
+    ],
+    [
+      10,
+      1
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "A: Ideally, yes! There’s nothing I can guarantee at this point, but if the game catches on with players, I’ll definitely be looking to add more levels and characters."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [
+            2
+          ],
+          1,
+          "Q: There was a mention of a sudden death overtime mode where each side’s bell continued to grow until someone scored. Was that kept in the game’s final build?"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "A: Yep!  That’s still there.  It guarantees matches don’t drag on too long in overtime.  But players do have the ability to turn that off in a custom match if they want to."
+        ]
+      ]
+    ],
+    [
+      10,
+      2
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [
+            2
+          ],
+          1,
+          "Q: At the time, it seemed like you were unsure whether to add any Switch exclusive features (e.g. HD Rumble, gyro, etc.). Where did the game land with this?"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "A: We do have a switch exclusive square-ball that’s a shoutout to my friend’s game, Zarvot. But other players will be able to acquire it if a switch player is kind enough to host a match with the ball."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [
+            2
+          ],
+          1,
+          "Q: There was consideration regarding a colourblind mode. Was this implemented?"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "A: We do have an option to keep the player tags over characters’ heads so you don’t have to rely on colors to distinguish them.  But we may add a full colourblind mode in the future."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [
+            2
+          ],
+          1,
+          "Q: Different sized balls were mentioned as a sought after feature from player feedback. Did this come to fruition?"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "A: We do have different balls to pick from in a custom match! They are all about the same size, but they do have different unique properties that mix up the gameplay."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          " "
+        ]
+      ]
+    ],
+    [
+      10,
+      3
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          " "
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [
+            2
+          ],
+          1,
+          "Q: What’s your plan from here? Is there more work to be done in the "
+        ],
+        [
+          0,
+          [
+            0,
+            2
+          ],
+          2,
+          "KungFu Kickball"
+        ],
+        [
+          0,
+          [
+            2
+          ],
+          1,
+          " universe, are you looking to jump straight into a brand new project or perhaps, is it time for a holiday (or even just a nap)?"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "A: Definitely time for a nap! I’ve got some ideas for a new project, but I’ll be supporting "
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "KungFu Kickball"
+        ],
+        [
+          0,
+          [],
+          0,
+          " for a while.  I’d love to expand it more if the player excitement is there.  And we’re also working on an arcade cabinet version of the game."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [
+            2
+          ],
+          1,
+          "Q: Is there anything else you’d like to mention to our readers?"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "A: Just that I hope they enjoy the game! It was a long time in development, but we managed to get all the big features I wanted in there, like rollback netcode and crossplay between everything!"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          " "
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Thank you to our $5 and up Patreon Backers for their ongoing support:"
+        ]
+      ]
+    ],
+    [
+      3,
+      "ul",
+      [
+        [
+          [
+            0,
+            [],
+            0,
+            "Andrew Caluzzi "
+          ],
+          [
+            0,
+            [
+              3
+            ],
+            1,
+            "(Inca Studios / Camped Out)"
+          ]
+        ],
+        [
+          [
+            0,
+            [],
+            0,
+            "Bel Cubitt"
+          ]
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      []
+    ]
+  ],
+  "ghostVersion": "4.0"
+}

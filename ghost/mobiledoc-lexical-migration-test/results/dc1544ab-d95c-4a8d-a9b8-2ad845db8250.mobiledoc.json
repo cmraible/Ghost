@@ -1,0 +1,508 @@
+{
+  "version": "0.3.1",
+  "atoms": [],
+  "cards": [
+    [
+      "hr",
+      {}
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "html",
+      {
+        "html": "<table id=\"production-numbers-table\">\n<tbody>\n\t<tr>\n\t\t<td>Monza</td>\n\t\t<td>136,203</td>\n\t</tr>\n\t\t<td><b>Total Production</b></td>\n\t\t<td><b>136,203</b></td>\n\t</tr>\n</tbody>\n</table>"
+      }
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "html",
+      {
+        "html": "<table id=\"performance-specs-table\">\n<tbody>\n\t<tr>\n\t\t<th><b>Engine</b></th>\n\t\t<th><b>Size</b></td>\n\t\t<th><b>Carb.</b></td>\n\t\t<th><b>HP</b></td>\n\t\t<th><b>Torque</b></td>\n\t\t<th><b>0 to 60</b></td>\n\t\t<th><b>Quarter mile</b></td>\n\t</tr>\n\t<tr>\n\t\t<td>140</td>\n\t\t<td>140ci</td>\n\t\t<td>1x1bbl</td>\n\t\t<td>78</td>\n\t\t<td>116 lb-ft</td>\n\t\t<td>14.8 sec</td>\n\t\t<td>20.2 at 69 mph</td>\n\t</tr>\n\t<tr>\n\t\t<td>140</td>\n\t\t<td>140ci</td>\n\t\t<td>1x2bbl</td>\n\t\t<td>87</td>\n\t\t<td>122 lb-ft</td>\n\t\t<td>13.8 sec</td>\n\t\t<td>19.7 at 70 mph</td>\n\t</tr>\n\t<tr>\n\t\t<td>262</td>\n\t\t<td>262ci</td>\n\t\t<td>1x2bbl</td>\n\t\t<td>110</td>\n\t\t<td>195 lb-ft</td>\n\t\t<td>12.2 sec</td>\n\t\t<td>18.9 at 75</td>\n\t</tr>\n</tbody>\n</table>"
+      }
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "html",
+      {
+        "html": "<h4 id='colors-sub-heading'>Exterior</h4>\n<div class=\"colors-row\">\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #fffdf8\"></div>\n        <div class=\"color-name\">Antique White</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #b7c5ce\"></div>\n        <div class=\"color-name\">Cosworth Silver</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #b7b9ac\"></div>\n        <div class=\"color-name\">Light Gray</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #7c807d\"></div>\n        <div class=\"color-name\">Medium Gray</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #93a8b6\"></div>\n        <div class=\"color-name\">Silver Blue</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #6c96a7\"></div>\n        <div class=\"color-name\">Medium Blue</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #1e5d8d\"></div>\n        <div class=\"color-name\">Bright Blue</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #031039\"></div>\n        <div class=\"color-name\">Midnight Blue</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #81966d\"></div>\n        <div class=\"color-name\">Medium Green</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #7d9256\"></div>\n        <div class=\"color-name\">Light Green</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #022219\"></div>\n        <div class=\"color-name\">Dark Green</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #e1d6a8\"></div>\n        <div class=\"color-name\">Cream Beige</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #fbf277\"></div>\n        <div class=\"color-name\">Bright Yellow</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #a69674\"></div>\n        <div class=\"color-name\">Sandstone</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #5e4735\"></div>\n        <div class=\"color-name\">Dark Sandstone</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #30241a\"></div>\n        <div class=\"color-name\">Dark Brown</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #a2876d\"></div>\n        <div class=\"color-name\">Light Saddle</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #aa6444\"></div>\n        <div class=\"color-name\">Medium Orange</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #90523f\"></div>\n        <div class=\"color-name\">Bronze</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #434343\"></div>\n        <div class=\"color-name\">Medium Red</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #5f1830\"></div>\n        <div class=\"color-name\">Dark Red</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #bb1931\"></div>\n        <div class=\"color-name\">Light Red</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #49162f\"></div>\n        <div class=\"color-name\">Burgundy</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #c16549\"></div>\n        <div class=\"color-name\">Orange</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #000000\"></div>\n        <div class=\"color-name\">Tuxedo Black</div>\n    </div>\n</div>"
+      }
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "gallery",
+      {
+        "images": [
+          {
+            "fileName": "3384_1975_Monza-03_low_res.jpg",
+            "row": 0,
+            "width": 790,
+            "height": 606,
+            "src": "__GHOST_URL__/content/images/2020/08/3384_1975_Monza-03_low_res.jpg"
+          },
+          {
+            "fileName": "3385_1975_Monza-04_low_res (1).jpg",
+            "row": 0,
+            "width": 790,
+            "height": 606,
+            "src": "__GHOST_URL__/content/images/2020/08/3385_1975_Monza-04_low_res--1-.jpg"
+          },
+          {
+            "fileName": "3386_1975_Monza-05_low_res.jpg",
+            "row": 0,
+            "width": 790,
+            "height": 606,
+            "src": "__GHOST_URL__/content/images/2020/08/3386_1975_Monza-05_low_res.jpg"
+          },
+          {
+            "fileName": "3387_1975_Monza-06_low_res.jpg",
+            "row": 1,
+            "width": 790,
+            "height": 606,
+            "src": "__GHOST_URL__/content/images/2020/08/3387_1975_Monza-06_low_res.jpg"
+          },
+          {
+            "fileName": "3388_1975_Monza-07_low_res.jpg",
+            "row": 1,
+            "width": 790,
+            "height": 606,
+            "src": "__GHOST_URL__/content/images/2020/08/3388_1975_Monza-07_low_res.jpg"
+          },
+          {
+            "fileName": "3389_1975_Monza-08_low_res.jpg",
+            "row": 1,
+            "width": 790,
+            "height": 606,
+            "src": "__GHOST_URL__/content/images/2020/08/3389_1975_Monza-08_low_res.jpg"
+          },
+          {
+            "fileName": "3390_1975_Monza-09_low_res.jpg",
+            "row": 2,
+            "width": 790,
+            "height": 606,
+            "src": "__GHOST_URL__/content/images/2020/08/3390_1975_Monza-09_low_res.jpg"
+          },
+          {
+            "fileName": "3382_1975_Monza-01_low_res.jpg",
+            "row": 2,
+            "width": 790,
+            "height": 606,
+            "src": "__GHOST_URL__/content/images/2020/08/3382_1975_Monza-01_low_res.jpg"
+          },
+          {
+            "fileName": "3383_1975_Monza-02_low_res (1).jpg",
+            "row": 2,
+            "width": 790,
+            "height": 606,
+            "src": "__GHOST_URL__/content/images/2020/08/3383_1975_Monza-02_low_res--1-.jpg"
+          }
+        ],
+        "caption": "1975 Chevrolet Monza OEM Brochures"
+      }
+    ],
+    [
+      "gallery",
+      {
+        "images": [
+          {
+            "fileName": "3391_1975_Monza-10_low_res.jpg",
+            "row": 0,
+            "width": 790,
+            "height": 606,
+            "src": "__GHOST_URL__/content/images/2020/08/3391_1975_Monza-10_low_res.jpg"
+          }
+        ],
+        "caption": "1975 Chevrolet Monza OEM Brochures"
+      }
+    ],
+    [
+      "hr",
+      {}
+    ]
+  ],
+  "markups": [
+    [
+      "strong"
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/tag/research/"
+      ]
+    ],
+    [
+      "em"
+    ]
+  ],
+  "sections": [
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Overview"
+        ]
+      ]
+    ],
+    [
+      10,
+      0
+    ],
+    [
+      1,
+      "h3",
+      [
+        [
+          0,
+          [],
+          0,
+          "The Chevrolet Monza was a subcompact, four-passenger automobile produced by the Chevrolet division of General Motors for the 1975–1980 model years. The Monza is based on the Chevrolet Vega, sharing its wheelbase, width and 140 CID inline-4 engine."
+        ]
+      ]
+    ],
+    [
+      10,
+      1
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "The Chevrolet Monza was a subcompact, four-passenger automobile produced by the Chevrolet division of General Motors for the 1975–1980 model years. The Monza is based on the Chevrolet Vega, sharing its wheelbase, width and 140 CID inline-4 engine."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "The 1975 Monza 2+2 was designed to accommodate the GM-Wankel rotary engine, but due to mediocre fuel economy and emissions compliance issues the engine was cancelled, and a fuel-efficient 4.3 liter V8 engine option was substituted."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "The Monza 2+2 and Monza Towne Coupe competed with the Ford Mustang II and other sporty coupes.The Monza nameplate originated in mid-1960 for the sporty version of the Chevrolet Corvair."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "The 1975 Monza 2+2 wore its newly approved rectangular headlights and a slot-style grille in a slanted nose made of resilient polyurethane. The side window louvers are functional, part of the flow-through ventilation system."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "The standard Monza engine was the Vega aluminum-block 140 CID inline-4 engine with a single barrel carburetor that generated 78 horsepower at 4200 rpm. Optional was the 2-barrel carburetor version that generates 87 horsepower at 4400 rpm. Chevrolet's new 4.3 liter (262 cid) V-8 engine was optional. The smallest V8 ever offered by Chevrolet, featured a Rochester 2-barrel carburetor and generated 110 horsepower at 3600 rpm."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "For 1975 only, Monzas sold in California and high altitude areas met the stricter emissions requirement by substituting a version of the 5.7 liter (350 cid) V8 engine with a 2-barrel carburetor tuned to just 125 hp. The Monza 2+2 and its Buick and Oldsmobile variants feature GM's first use of a torque arm rear suspension, also adopted for the 1975 Cosworth Vega introduced mid-1975, and later, all 1976-77 Vegas and Pontiac Astres. The basic design was also incorporated into GM's third and fourth generation F-bodies, Chevrolet Camaro and Pontiac Firebird."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "In April 1975, the Monza Towne Coupe was introduced - a notchback body-style with a conventional trunk featuring different sheetmetal than the 2+2 hatchback, although sharing its windshield, front fenders, and doors. It features single round headlamps, instead of the dual rectangular headlamps on the 2+2. The Towne Coupe was offered in response to the sales success of the Ford Mustang II notchback coupe and its luxury version, the Mustang II Ghia."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "The Towne Coupe is 1.5 inches shorter and 135 pounds lighter than the 2+2 and has slightly more rear head room. A lower priced \"S\" version of the 2+2 Hatchback was introduced mid-year. It featured as standard the Vega 1-barrel engine with a 3-speed manual transmission. The sport suspension, full console, sport steering wheel, day/night and wheel opening moldings were deleted on the \"S\"."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "The Chevrolet Monza 2+2 won Motor Trend magazine's \"Car of the Year\" award for 1975."
+        ]
+      ]
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Production Numbers"
+        ]
+      ]
+    ],
+    [
+      10,
+      2
+    ],
+    [
+      10,
+      3
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Performance Specs"
+        ]
+      ]
+    ],
+    [
+      10,
+      4
+    ],
+    [
+      10,
+      5
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Transmission"
+        ]
+      ]
+    ],
+    [
+      10,
+      6
+    ],
+    [
+      3,
+      "ul",
+      [
+        [
+          [
+            0,
+            [
+              0,
+              0
+            ],
+            2,
+            "3 Speed Automatic"
+          ]
+        ],
+        [
+          [
+            0,
+            [
+              0,
+              0
+            ],
+            2,
+            "4-Speed Manual"
+          ]
+        ],
+        [
+          [
+            0,
+            [
+              0,
+              0
+            ],
+            2,
+            "5 Speed Manual"
+          ]
+        ]
+      ]
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Paint & Colors"
+        ]
+      ]
+    ],
+    [
+      10,
+      7
+    ],
+    [
+      10,
+      8
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "OEM Brochures"
+        ]
+      ]
+    ],
+    [
+      10,
+      9
+    ],
+    [
+      10,
+      10
+    ],
+    [
+      10,
+      11
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "About the Knowledge Base"
+        ]
+      ]
+    ],
+    [
+      10,
+      12
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "The Motorious Knowledge Base provides a comprehensive vehicle overview for the 1975 Chevrolet Monza including production numbers, performance specs, factory colors, and OEM brochures. Check out additional model years or related content linked to this article or view other Makes and Models in our "
+        ],
+        [
+          0,
+          [
+            1
+          ],
+          1,
+          "Research"
+        ],
+        [
+          0,
+          [],
+          0,
+          " center."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "If you have any interesting facts about the 1975 Chevrolet Monza"
+        ],
+        [
+          0,
+          [
+            2,
+            2
+          ],
+          2,
+          " "
+        ],
+        [
+          0,
+          [],
+          0,
+          "to add, want to tell us how we did covering the Model, or want to tell us about yours, please leave a comment below."
+        ]
+      ]
+    ]
+  ],
+  "ghostVersion": "3.0"
+}

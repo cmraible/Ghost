@@ -1,0 +1,1241 @@
+{
+  "version": "0.3.1",
+  "atoms": [],
+  "cards": [
+    [
+      "email-cta",
+      {
+        "showButton": true,
+        "showDividers": false,
+        "segment": "status:-free",
+        "alignment": "center",
+        "html": "<p><em><strong>This is You Love To See It — a weekly feature reviewing good news, progress and action steps that’s one of the many features available only to </strong></em><strong>Lever</strong><em><strong> supporting subscribers. Thank you so much for being a supporting subscriber — we couldn’t do this reporting without your support.</strong></em></p>",
+        "buttonText": "Click Here To Comment",
+        "buttonUrl": "__GHOST_URL__/you-love-to-see-it-tuckers-audience-gets-a-pro-union-message/#comments"
+      }
+    ],
+    [
+      "email",
+      {
+        "html": "<p><em><strong><a href=\"https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.levernews.com%2Fyou-love-to-see-it-tuckers-audience-gets-a-pro-union-message%2F&amp;amp;src=sdkpreparse\">Click to share on Facebook</a></strong></em></p>"
+      }
+    ],
+    [
+      "paywall",
+      {}
+    ],
+    [
+      "embed",
+      {
+        "url": "https://twitter.com/StrikeDebt/status/1514798056050290690?s=20&t=YvcSU-Pkpb_WF8smD0ajDQ",
+        "html": "<blockquote class=\"twitter-tweet\"><p lang=\"en\" dir=\"ltr\">🚨This is a huge shift. There is no going back now.<br><br>Imagine saying &quot;we&#39;ll either cancel the debt or extend the pause&quot; &amp; then extend the pause &amp; then restart payments with no cancelation<br><br>The genie is out of the bottle on this one folks. Now we are fighting about the amount. <a href=\"https://t.co/1JVW13SsKa\">https://t.co/1JVW13SsKa</a></p>&mdash; The Debt Collective (@StrikeDebt) <a href=\"https://twitter.com/StrikeDebt/status/1514798056050290690?ref_src=twsrc%5Etfw\">April 15, 2022</a></blockquote>\n<script async src=\"https://platform.twitter.com/widgets.js\" charset=\"utf-8\"></script>\n",
+        "type": "twitter",
+        "metadata": {
+          "url": "https://twitter.com/StrikeDebt/status/1514798056050290690",
+          "author_name": "The Debt Collective",
+          "author_url": "https://twitter.com/StrikeDebt",
+          "width": 550,
+          "height": null,
+          "cache_age": "3153600000",
+          "provider_name": "Twitter",
+          "provider_url": "http://www.twitter.com/",
+          "version": "1.0",
+          "tweet_data": {
+            "context_annotations": [
+              {
+                "domain": {
+                  "id": "3",
+                  "name": "TV Shows",
+                  "description": "Television shows from around the world"
+                },
+                "entity": {
+                  "id": "10054683805",
+                  "name": "Pod Save America"
+                }
+              },
+              {
+                "domain": {
+                  "id": "10",
+                  "name": "Person",
+                  "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                  "id": "10040395078",
+                  "name": "Joe Biden",
+                  "description": "US President Joe Biden"
+                }
+              },
+              {
+                "domain": {
+                  "id": "35",
+                  "name": "Politician",
+                  "description": "Politicians in the world, like Joe Biden"
+                },
+                "entity": {
+                  "id": "10040395078",
+                  "name": "Joe Biden",
+                  "description": "US President Joe Biden"
+                }
+              }
+            ],
+            "referenced_tweets": [
+              {
+                "type": "quoted",
+                "id": "1514778064672092178"
+              }
+            ],
+            "created_at": "2022-04-15T02:49:34.000Z",
+            "conversation_id": "1514798056050290690",
+            "author_id": "598921658",
+            "entities": {
+              "urls": [
+                {
+                  "start": 283,
+                  "end": 306,
+                  "url": "https://t.co/1JVW13SsKa",
+                  "expanded_url": "https://twitter.com/SteveESpaulding/status/1514778064672092178",
+                  "display_url": "twitter.com/SteveESpauldin…"
+                }
+              ]
+            },
+            "reply_settings": "everyone",
+            "lang": "en",
+            "public_metrics": {
+              "retweet_count": 199,
+              "reply_count": 23,
+              "like_count": 905,
+              "quote_count": 19
+            },
+            "possibly_sensitive": false,
+            "source": "Twitter Web App",
+            "id": "1514798056050290690",
+            "text": "🚨This is a huge shift. There is no going back now.\n\nImagine saying \"we'll either cancel the debt or extend the pause\" &amp; then extend the pause &amp; then restart payments with no cancelation\n\nThe genie is out of the bottle on this one folks. Now we are fighting about the amount. https://t.co/1JVW13SsKa",
+            "includes": {
+              "users": [
+                {
+                  "name": "The Debt Collective",
+                  "public_metrics": {
+                    "followers_count": 76292,
+                    "following_count": 10891,
+                    "tweet_count": 49761,
+                    "listed_count": 729
+                  },
+                  "verified": false,
+                  "id": "598921658",
+                  "description": "The nation’s first debtors’ union, organizing to build power with debt as leverage. You are not a loan! Press: press@debtcollective.org",
+                  "pinned_tweet_id": "1511037567835115524",
+                  "username": "StrikeDebt",
+                  "protected": false,
+                  "profile_image_url": "https://pbs.twimg.com/profile_images/1455949013317005315/qAdbLs9y_normal.jpg",
+                  "url": "https://t.co/7VJJbYuEWJ",
+                  "entities": {
+                    "url": {
+                      "urls": [
+                        {
+                          "start": 0,
+                          "end": 23,
+                          "url": "https://t.co/7VJJbYuEWJ",
+                          "expanded_url": "http://linktr.ee/debtcollective",
+                          "display_url": "linktr.ee/debtcollective"
+                        }
+                      ]
+                    }
+                  },
+                  "created_at": "2012-06-04T04:19:25.000Z"
+                },
+                {
+                  "location": "Washington, DC",
+                  "name": "Stephen Spaulding",
+                  "public_metrics": {
+                    "followers_count": 7528,
+                    "following_count": 1620,
+                    "tweet_count": 20676,
+                    "listed_count": 176
+                  },
+                  "verified": true,
+                  "id": "109685703",
+                  "description": "@CommonCause—Fmr: Senior Counsel on Hill @HouseAdm_Dems + @RepZoeLofgren—Special Counsel @FEC—Rackets Bureau investigations @ManhattanDA—🏳️‍🌈he/him—tweets=me",
+                  "username": "SteveESpaulding",
+                  "protected": false,
+                  "profile_image_url": "https://pbs.twimg.com/profile_images/1513476979164598272/otaBsM1F_normal.jpg",
+                  "url": "https://t.co/8lQkg6FpSR",
+                  "entities": {
+                    "url": {
+                      "urls": [
+                        {
+                          "start": 0,
+                          "end": 23,
+                          "url": "https://t.co/8lQkg6FpSR",
+                          "expanded_url": "https://www.commoncause.org/people/stephen-spaulding/",
+                          "display_url": "commoncause.org/people/stephen…"
+                        }
+                      ]
+                    },
+                    "description": {
+                      "mentions": [
+                        {
+                          "start": 0,
+                          "end": 12,
+                          "username": "CommonCause"
+                        },
+                        {
+                          "start": 41,
+                          "end": 55,
+                          "username": "HouseAdm_Dems"
+                        },
+                        {
+                          "start": 58,
+                          "end": 72,
+                          "username": "RepZoeLofgren"
+                        },
+                        {
+                          "start": 89,
+                          "end": 93,
+                          "username": "FEC"
+                        },
+                        {
+                          "start": 124,
+                          "end": 136,
+                          "username": "ManhattanDA"
+                        }
+                      ]
+                    }
+                  },
+                  "created_at": "2010-01-29T22:37:32.000Z"
+                }
+              ],
+              "tweets": [
+                {
+                  "entities": {
+                    "mentions": [
+                      {
+                        "start": 3,
+                        "end": 18,
+                        "username": "PodSaveAmerica",
+                        "id": "816869611480186880"
+                      },
+                      {
+                        "start": 33,
+                        "end": 42,
+                        "username": "PressSec",
+                        "id": "1349170292564905988"
+                      },
+                      {
+                        "start": 98,
+                        "end": 104,
+                        "username": "POTUS",
+                        "id": "1349149096909668363"
+                      },
+                      {
+                        "start": 188,
+                        "end": 194,
+                        "username": "WHCOS",
+                        "id": "1351284403801108481"
+                      }
+                    ],
+                    "urls": [
+                      {
+                        "start": 278,
+                        "end": 301,
+                        "url": "https://t.co/7fEzrzxqCn",
+                        "expanded_url": "https://twitter.com/SteveESpaulding/status/1514778064672092178/photo/1",
+                        "display_url": "pic.twitter.com/7fEzrzxqCn"
+                      }
+                    ],
+                    "annotations": [
+                      {
+                        "start": 259,
+                        "end": 263,
+                        "probability": 0.9923,
+                        "type": "Person",
+                        "normalized_text": "Biden"
+                      }
+                    ]
+                  },
+                  "context_annotations": [
+                    {
+                      "domain": {
+                        "id": "3",
+                        "name": "TV Shows",
+                        "description": "Television shows from around the world"
+                      },
+                      "entity": {
+                        "id": "10054683805",
+                        "name": "Pod Save America"
+                      }
+                    },
+                    {
+                      "domain": {
+                        "id": "10",
+                        "name": "Person",
+                        "description": "Named people in the world like Nelson Mandela"
+                      },
+                      "entity": {
+                        "id": "1510041992071311363",
+                        "name": "Jen Psaki"
+                      }
+                    },
+                    {
+                      "domain": {
+                        "id": "10",
+                        "name": "Person",
+                        "description": "Named people in the world like Nelson Mandela"
+                      },
+                      "entity": {
+                        "id": "10040395078",
+                        "name": "Joe Biden",
+                        "description": "US President Joe Biden"
+                      }
+                    },
+                    {
+                      "domain": {
+                        "id": "35",
+                        "name": "Politician",
+                        "description": "Politicians in the world, like Joe Biden"
+                      },
+                      "entity": {
+                        "id": "10040395078",
+                        "name": "Joe Biden",
+                        "description": "US President Joe Biden"
+                      }
+                    }
+                  ],
+                  "created_at": "2022-04-15T01:30:08.000Z",
+                  "attachments": {
+                    "media_keys": [
+                      "3_1514778057973723146"
+                    ]
+                  },
+                  "conversation_id": "1514778064672092178",
+                  "author_id": "109685703",
+                  "reply_settings": "everyone",
+                  "lang": "en",
+                  "public_metrics": {
+                    "retweet_count": 148,
+                    "reply_count": 50,
+                    "like_count": 538,
+                    "quote_count": 111
+                  },
+                  "possibly_sensitive": false,
+                  "source": "Twitter for iPhone",
+                  "id": "1514778064672092178",
+                  "text": "At @PodSaveAmerica live podcast, @PressSec says canceling student debt is still on the table, and @POTUS will either cancel debt or do another extension before end of August. Raises, like @WHCOS, that no one has to had to pay a cent in direct fed loans since Biden took office. https://t.co/7fEzrzxqCn"
+                }
+              ]
+            }
+          }
+        }
+      }
+    ],
+    [
+      "email-cta",
+      {
+        "showButton": true,
+        "showDividers": false,
+        "segment": "status:-free",
+        "alignment": "center",
+        "html": "",
+        "buttonText": "Click Here To Comment",
+        "buttonUrl": "__GHOST_URL__/you-love-to-see-it-tuckers-audience-gets-a-pro-union-message/#comments"
+      }
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "email-cta",
+      {
+        "showButton": true,
+        "showDividers": false,
+        "segment": "status:-free",
+        "alignment": "center",
+        "html": "",
+        "buttonText": "Tip Jar",
+        "buttonUrl": "https://dailyposter.outpost.pub/ghost-integration/60818189ad12f332071054b8/tips"
+      }
+    ],
+    [
+      "email-cta",
+      {
+        "showButton": true,
+        "showDividers": false,
+        "segment": "status:free",
+        "alignment": "center",
+        "html": "",
+        "buttonText": "Upgrade",
+        "buttonUrl": "https://levernews.com/membership"
+      }
+    ],
+    [
+      "email",
+      {
+        "html": "<p><em><strong>Help us spread the word! </strong>Please forward this email to family and friends.</em></p><p><em><strong>Was this email forwarded to you? </strong><a href=\"https://levernews.com/membership/\">Sign up for free</a> to receive original reporting like this in your inbox every day.</em></p>"
+      }
+    ]
+  ],
+  "markups": [
+    [
+      "em"
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.jdsupra.com/legalnews/nlrb-general-counsel-calls-for-4375993/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://news.bloomberglaw.com/bloomberg-law-analysis/analysis-how-long-does-it-take-unions-to-reach-first-contracts"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.uschamber.com/employment-law/u-s-chamber-strongly-opposes-the-national-labor-relations-boards-joy-silk-doctrine-filing"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.powells.com/book/chickenshit-club-why-the-justice-department-fails-to-prosecute-executives-9781501121364"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://twitter.com/sunraysunray/status/1514951553190445061?s=20&t=RBiLMPoBZxGm015LWoroKA"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://twitter.com/ndrew_lawrence/status/1514766894120652810"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://time.com/4028459/david-brock-hillary-clinton-media-matters/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://twitter.com/davidsirota/status/1515016592819589120?s=20&t=jwBq2wd7squb6cP7yf7Qvg"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/midweek-brief-its-now-or-never-says-new-un-climate-report/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.nature.com/articles/s41586-022-04553-z"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://insideclimatenews.org/todaysclimate/if-nations-keep-their-promises-2-degrees-of-warming-is-within-reach/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://yaleclimateconnections.org/2021/08/1-5-or-2-degrees-celsius-of-additional-global-warming-does-it-make-a-difference/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://grist.org/science/global-warming-2-degrees-nature-study/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.canarymedia.com/articles/policy-regulation/maryland-just-passed-one-of-the-most-aggressive-climate-laws-in-the-us"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.thecity.nyc/2022/4/14/23026076/state-approves-electricity-transmission-lines-power-climate-goals"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://twitter.com/VzwUnion/status/1515062022404075520"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/verizon-sends-in-the-union-busters/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://twitter.com/IanDon/status/1514367714944557066?s=20&t=96rREqgNS4hKkKWr0npfjQ"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.davidsegalri.com/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://secure.actblue.com/donate/david-segal-for-congress-1"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.huffpost.com/entry/ilhan-omar-russia-international-criminal-court_n_6257384fe4b06c2ea32686b1?upc"
+      ]
+    ],
+    [
+      "strong"
+    ]
+  ],
+  "sections": [
+    [
+      10,
+      0
+    ],
+    [
+      10,
+      1
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Good things are happening! Few people have managed to use right-wing blowhard Tucker Carlson’s massive audience for good, but the president of the Amazon Labor Union just showed everyone how it’s done — and along the way made the case for organizing workers. Also, a new study shows that global warming can be greatly reduced by holding governments to their existing promises. And a lawmaker is calling for the United States to give up its exemption from being held accountable for war crimes."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "All this and much more in this week’s edition of You Love To See It, exclusively for supporting subscribers below."
+        ]
+      ]
+    ],
+    [
+      10,
+      2
+    ],
+    [
+      1,
+      "h3",
+      [
+        [
+          0,
+          [],
+          0,
+          "NLRB To Revive Joy Silk"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "National Labor Relations Board (NLRB) General Counsel Jennifer Abruzzo — a former colleague of "
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "Lever "
+        ],
+        [
+          0,
+          [],
+          0,
+          "writer Matthew Cunningham-Cook at the Communications Workers of America — is taking aggressive action to enforce federal labor law. Her latest broadside is to "
+        ],
+        [
+          0,
+          [
+            1
+          ],
+          1,
+          "reinstate"
+        ],
+        [
+          0,
+          [],
+          0,
+          " the “Joy Silk” doctrine, whereby the NLRB mandates immediate recognition and bargaining with a union when a majority of workers sign authorization cards."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "The problem that Abruzzo & co. are working to solve is the sheer level of delays that employers put up against workers seeking to organize. Depending on the circumstances, it can take months to administer an election — needlessly delaying bargaining on a contract, which in and of itself can take a "
+        ],
+        [
+          0,
+          [
+            2
+          ],
+          1,
+          "year or longer"
+        ],
+        [
+          0,
+          [],
+          0,
+          " to come to a resolution."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "The U.S. Chamber of Commerce responded to Abruzzo’s move with a "
+        ],
+        [
+          0,
+          [
+            3
+          ],
+          1,
+          "blistering statement"
+        ],
+        [
+          0,
+          [],
+          0,
+          ", saying: “We will oppose this action with every tool at our disposal, including litigation if needed.” Indeed, with the current composition of the courts, it seems likely that Abruzzo’s push will be overturned on appeal. But as "
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "ProPublica"
+        ],
+        [
+          0,
+          [],
+          0,
+          " reporter Jesse Eisinger detailed in his excellent tome "
+        ],
+        [
+          0,
+          [
+            4,
+            0
+          ],
+          2,
+          "The Chickenshit Club"
+        ],
+        [
+          0,
+          [],
+          0,
+          ", a key problem that both prosecutors and regulators have is a fear of losing cases, even if the facts on the ground warrant action. Good on Abruzzo for being willing to take a principled stand for workers’ rights, even if it means eventually taking a loss."
+        ]
+      ]
+    ],
+    [
+      1,
+      "h3",
+      [
+        [
+          0,
+          [],
+          0,
+          "Chris Smalls Spreads The Union Message On Tucker Carlson"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Tucker Carlson "
+        ],
+        [
+          0,
+          [
+            5
+          ],
+          1,
+          "hosted"
+        ],
+        [
+          0,
+          [],
+          0,
+          " Amazon Labor Union President Chris Smalls on his show Thursday night. Predictably, an "
+        ],
+        [
+          0,
+          [
+            6
+          ],
+          1,
+          "employee"
+        ],
+        [
+          0,
+          [],
+          0,
+          " at the "
+        ],
+        [
+          0,
+          [
+            7
+          ],
+          1,
+          "Clinton-adjacent"
+        ],
+        [
+          0,
+          [],
+          0,
+          " nonprofit Media Matters for America decried Smalls’ appearance alongside the conservative commentator without posting an actual clip of the appearance. Smalls stayed on message about the importance of organizing unions at Amazon — and reached the thousands of Amazon workers nationwide who watch Carlson’s show."
+        ]
+      ]
+    ],
+    [
+      1,
+      "h3",
+      [
+        [
+          0,
+          [],
+          0,
+          "Good News On A Bad Podcast"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "This week, Jen Psaki — President Joe Biden’s press secretary — announced on the Obama flack alumni project "
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "Pod Save America"
+        ],
+        [
+          0,
+          [],
+          0,
+          " that canceling student debt is “still on the table” and that the Biden administration will either cancel some amount of debt or extend the loan payment pause before the current one ends in August."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "While it was a "
+        ],
+        [
+          0,
+          [
+            8
+          ],
+          1,
+          "pathetic way"
+        ],
+        [
+          0,
+          [],
+          0,
+          " to deliver an update to millions of struggling debtors, the Debt Collective, the nation’s first debtors’ union, points out that it is still a major shift in what the administration has been saying on the issue and is good news for debtors."
+        ]
+      ]
+    ],
+    [
+      10,
+      3
+    ],
+    [
+      1,
+      "h3",
+      [
+        [
+          0,
+          [],
+          0,
+          "Holding Politicians To Existing Promises Would Massively Limit Global Warming"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "The most recent "
+        ],
+        [
+          0,
+          [
+            9
+          ],
+          1,
+          "UN climate change report warned"
+        ],
+        [
+          0,
+          [],
+          0,
+          " that even if countries meet their existing carbon emission reduction pledges, the world is on track to overshoot 1.5 degrees Celsius of warming."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "However, a new study shows that existing climate pledges could still significantly limit warming. The study, "
+        ],
+        [
+          0,
+          [
+            10
+          ],
+          1,
+          "published this week"
+        ],
+        [
+          0,
+          [],
+          0,
+          " in the scientific journal "
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "Nature"
+        ],
+        [
+          0,
+          [],
+          0,
+          ", "
+        ],
+        [
+          0,
+          [
+            11
+          ],
+          1,
+          "finds"
+        ],
+        [
+          0,
+          [],
+          0,
+          " that if countries keep the promises they made to reduce carbon emissions at last fall’s COP26 global climate talks, there is a good chance that warming can be limited to less than 2 degrees Celsius."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Every fraction of a degree of warming matters, and while a 2 degree-warmer world will bring "
+        ],
+        [
+          0,
+          [
+            12
+          ],
+          1,
+          "much more uncertainty"
+        ],
+        [
+          0,
+          [],
+          0,
+          ", extreme weather, food shortages, species extinction, and extreme heat than a 1.5 degree-warmer world, the new study shows that the COP26 pledges have paved the path to limit warming — if only countries stick to them."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "The study authors warn that countries are "
+        ],
+        [
+          0,
+          [
+            13
+          ],
+          1,
+          "still far from"
+        ],
+        [
+          0,
+          [],
+          0,
+          " meeting those pledges, and many countries are moving in the wrong direction."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "But two U.S. states may be moving in the right direction. Maryland just forced its Republican governor to sign one of the most aggressive climate laws in the country, "
+        ],
+        [
+          0,
+          [
+            14,
+            0
+          ],
+          1,
+          "Canary Media"
+        ],
+        [
+          0,
+          [],
+          1,
+          " reports"
+        ],
+        [
+          0,
+          [],
+          0,
+          ". And New York state’s public service commission "
+        ],
+        [
+          0,
+          [
+            15
+          ],
+          1,
+          "approved two transmission lines"
+        ],
+        [
+          0,
+          [],
+          0,
+          " that will bring hydroelectric, solar, and wind power to New York City."
+        ]
+      ]
+    ],
+    [
+      1,
+      "h3",
+      [
+        [
+          0,
+          [],
+          0,
+          "And More…"
+        ]
+      ]
+    ],
+    [
+      3,
+      "ul",
+      [
+        [
+          [
+            0,
+            [],
+            0,
+            "Verizon workers organizing at two stores in Washington state won "
+          ],
+          [
+            0,
+            [
+              16
+            ],
+            1,
+            "a sweeping victory"
+          ],
+          [
+            0,
+            [],
+            0,
+            " on Friday, voting 11-1 to form a union despite an aggressive union busting campaign by the telecom giant. "
+          ],
+          [
+            0,
+            [
+              0
+            ],
+            1,
+            "The Lever"
+          ],
+          [
+            0,
+            [],
+            0,
+            " "
+          ],
+          [
+            0,
+            [
+              17
+            ],
+            1,
+            "broke the news"
+          ],
+          [
+            0,
+            [],
+            0,
+            " about Verizon’s intimidation campaign last month."
+          ]
+        ],
+        [
+          [
+            0,
+            [],
+            0,
+            "David Segal, a former Providence city councilor and Rhode Island state representative, is "
+          ],
+          [
+            0,
+            [
+              18
+            ],
+            1,
+            "officially running"
+          ],
+          [
+            0,
+            [],
+            0,
+            " for Congress to replace retiring Rep. Jim Langevin (D-R.I.). He’s a progressive with a long track record of challenging corporate power, the national security state, and American atrocities across the globe. He’s asking for donations to "
+          ],
+          [
+            0,
+            [
+              19
+            ],
+            1,
+            "his campaign"
+          ],
+          [
+            0,
+            [],
+            0,
+            " at "
+          ],
+          [
+            0,
+            [
+              20
+            ],
+            1,
+            "this link"
+          ],
+          [
+            0,
+            [],
+            0,
+            "."
+          ]
+        ],
+        [
+          [
+            0,
+            [],
+            0,
+            "Rep. Ilhan Omar (D-Minn.) is calling on the U.S. to join the International Criminal Court in response to demands from lawmakers and Biden for Russian President Vladimir Putin to face a trial for war crimes. “Think about just how much more powerful of a statement it would be if we didn’t just call for accountability for war crimes in Ukraine in holding Russians accountable for the possible war crimes they have committed but if we actually had skin in the game,” "
+          ],
+          [
+            0,
+            [
+              21
+            ],
+            1,
+            "Omar told"
+          ],
+          [
+            0,
+            [],
+            0,
+            " "
+          ],
+          [
+            0,
+            [
+              0
+            ],
+            1,
+            "HuffPost."
+          ]
+        ]
+      ]
+    ],
+    [
+      10,
+      4
+    ],
+    [
+      10,
+      5
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [
+            0,
+            22
+          ],
+          1,
+          "Our news organization relies on readers pitching in to support our journalism. "
+        ],
+        [
+          0,
+          [
+            0,
+            22
+          ],
+          3,
+          "If you like this story, please support "
+        ],
+        [
+          0,
+          [
+            22,
+            0,
+            22
+          ],
+          3,
+          "our"
+        ],
+        [
+          0,
+          [
+            0,
+            0,
+            22
+          ],
+          3,
+          " work."
+        ]
+      ]
+    ],
+    [
+      10,
+      6
+    ],
+    [
+      10,
+      7
+    ],
+    [
+      10,
+      8
+    ]
+  ],
+  "ghostVersion": "4.0"
+}

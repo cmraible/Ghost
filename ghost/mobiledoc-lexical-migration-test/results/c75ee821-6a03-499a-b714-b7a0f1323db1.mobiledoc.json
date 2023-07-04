@@ -1,0 +1,963 @@
+{
+  "version": "0.3.1",
+  "atoms": [],
+  "cards": [
+    [
+      "email-cta",
+      {
+        "showButton": true,
+        "showDividers": false,
+        "segment": "status:-free",
+        "alignment": "center",
+        "html": "<p><em><strong>This is our regular Weekend Reading List, a subscriber-only feature that reviews some major must-reads of the week. If you only read one email from us all week, this one should be it, because it reviews everything we’ve done all week.</strong></em></p>",
+        "buttonText": "Click Here To Comment",
+        "buttonUrl": "__GHOST_URL__/weekend-reader-the-crisis-in-cuomos-crisis-team/#comments"
+      }
+    ],
+    [
+      "html",
+      {
+        "html": "<div class=\"fb-share-button\" data-href=\"https://www.dailyposter.com/weekend-reader-the-crisis-in-cuomos-crisis-team/\" data-layout=\"button\" data-size=\"small\"><a target=\"_blank\" href=\"https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.dailyposter.com%2Fweekend-reader-the-crisis-in-cuomos-crisis-team%2F&amp;src=sdkpreparse\" class=\"fb-xfbml-parse-ignore\"><strong><em>Click to share this on Facebook</em></strong></a></div>"
+      }
+    ],
+    [
+      "paywall",
+      {}
+    ],
+    [
+      "button",
+      {
+        "alignment": "center",
+        "buttonText": "Tip Jar",
+        "buttonUrl": "https://dailyposter.outpost.pub/public/donate#/donate"
+      }
+    ],
+    [
+      "button",
+      {
+        "alignment": "center",
+        "buttonText": "Give A Gift Subscription",
+        "buttonUrl": "https://dailyposter.outpost.pub/new-gift#/"
+      }
+    ],
+    [
+      "button",
+      {
+        "alignment": "center",
+        "buttonText": "Tip Jar",
+        "buttonUrl": "https://dailyposter.outpost.pub/public/donate#/donate"
+      }
+    ],
+    [
+      "email-cta",
+      {
+        "showButton": true,
+        "showDividers": false,
+        "segment": "status:-free",
+        "alignment": "center",
+        "html": "",
+        "buttonText": "Click Here To Comment",
+        "buttonUrl": "__GHOST_URL__/weekend-reader-the-crisis-in-cuomos-crisis-team/#comments"
+      }
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "email-cta",
+      {
+        "showButton": true,
+        "showDividers": false,
+        "segment": "status:-free",
+        "alignment": "center",
+        "html": "",
+        "buttonText": "Tip Jar",
+        "buttonUrl": "https://dailyposter.outpost.pub/ghost-integration/60818189ad12f332071054b8/tips"
+      }
+    ],
+    [
+      "email-cta",
+      {
+        "showButton": true,
+        "showDividers": false,
+        "segment": "status:free",
+        "alignment": "center",
+        "html": "",
+        "buttonText": "Subscribe",
+        "buttonUrl": "__GHOST_URL__/subscribe/"
+      }
+    ],
+    [
+      "html",
+      {
+        "html": "<div class=\"outpost-pub-container\" data-btn-allmembers></div>"
+      }
+    ]
+  ],
+  "markups": [
+    [
+      "a",
+      [
+        "href",
+        "https://www.cnn.com/2021/11/30/media/chris-cuomo-suspended/index.html"
+      ]
+    ],
+    [
+      "em"
+    ],
+    [
+      "strong"
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/you-love-to-see-it-drone-strikes-are-going-down/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/video-why-ny-gov-kathy-hochul-flipped-on-remote-work/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/build-back-betters-gift-to-the-gas-industry/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/corporate-lobbyists-oppose-court-reform/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/midday-poster-big-pharma-takes-aim-at-aarp/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/its-time-to-get-back-to-the-office/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/a-pension-revolution-takes-root-in-ohio/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://defector.com/lets-all-laugh-at-andrew-cuomos-pathetic-crisis-team/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://ricochet.media/en/3821/investigation-canadian-news-media-is-dominated-by-corporate-lobbyists"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://prospect.org/power/democratic-dilemma-on-dark-money/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.theguardian.com/us-news/2021/dec/03/voting-rights-advocates-frustrated-meeting-white-house"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://mailchi.mp/crooked.com/big-tent-18396?e=4b66a7e85f"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.vanityfair.com/hollywood/2021/11/who-the-fuck-cares-about-adam-mckay"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.newyorker.com/magazine/2021/12/06/lina-khans-battle-to-rein-in-big-tech"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.afar.com/magazine/a-hotel-housekeeper-on-her-life-and-work"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.newyorker.com/magazine/2021/11/29/the-new-luxury-vacation-being-dumped-in-the-middle-of-nowhere"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.youtube.com/watch?v=aXpGbX_K13g"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.youtube.com/watch?v=yc9LjAsA9xc"
+      ]
+    ]
+  ],
+  "sections": [
+    [
+      10,
+      0
+    ],
+    [
+      10,
+      1
+    ],
+    [
+      1,
+      "p",
+      []
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "A major release of documents this week related to the New York Attorney General’s investigation into the sexual harassment allegations against former Governor Andrew Cuomo shed light on the disgraced politician’s multi-year reign of bullying, intimidation, and alleged sexual misconduct. But the transcripts and records also pull back the curtain on Cuomo’s crisis response team, a cadre of power players including "
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "newly-sidelined"
+        ],
+        [
+          0,
+          [],
+          0,
+          " CNN host Chris Cuomo and Pete Buttigieg campaign advisor Lis Smith. As detailed in a "
+        ],
+        [
+          0,
+          [
+            1
+          ],
+          1,
+          "Defector"
+        ],
+        [
+          0,
+          [],
+          0,
+          " story that we highlight in this edition of Weekend Reader, despite the team’s ample connections and desperate shenanigans, they were powerless to help a vile cretin whose terrible behavior had finally caught up with him."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Read all about it in this week’s Weekend Reader, exclusively for paying subscribers below."
+        ]
+      ]
+    ],
+    [
+      10,
+      2
+    ],
+    [
+      1,
+      "h3",
+      [
+        [
+          0,
+          [
+            2
+          ],
+          1,
+          "Stuff "
+        ],
+        [
+          0,
+          [
+            1,
+            2
+          ],
+          2,
+          "The Daily Poster"
+        ],
+        [
+          0,
+          [
+            2
+          ],
+          1,
+          " Reported This Week:"
+        ]
+      ]
+    ],
+    [
+      3,
+      "ul",
+      [
+        [
+          [
+            0,
+            [
+              2,
+              2,
+              3,
+              2
+            ],
+            4,
+            "YOU LOVE TO SEE IT: Drone Strikes Are Going Down"
+          ]
+        ],
+        [
+          [
+            0,
+            [
+              2,
+              2,
+              4,
+              2
+            ],
+            4,
+            "VIDEO: Why NY Gov. Kathy Hochul Flipped On Remote Work"
+          ]
+        ],
+        [
+          [
+            0,
+            [
+              2,
+              2,
+              5,
+              2
+            ],
+            4,
+            "Build Back Better’s Gift To The Gas Industry"
+          ]
+        ],
+        [
+          [
+            0,
+            [
+              2,
+              2,
+              6,
+              2
+            ],
+            4,
+            "How Lobbyists Are Protecting The Corporate Court"
+          ]
+        ],
+        [
+          [
+            0,
+            [
+              2,
+              2,
+              7,
+              2
+            ],
+            4,
+            "MIDDAY POSTER: Big Pharma Takes Aim At AARP"
+          ]
+        ],
+        [
+          [
+            0,
+            [
+              2,
+              2,
+              8,
+              2
+            ],
+            4,
+            "“It’s Time To Get Back To The Office”"
+          ]
+        ],
+        [
+          [
+            0,
+            [
+              2,
+              2,
+              9,
+              2
+            ],
+            4,
+            "“Everyone Gets Rich... Except The People Who Put Money In.”"
+          ]
+        ]
+      ]
+    ],
+    [
+      10,
+      3
+    ],
+    [
+      1,
+      "h3",
+      [
+        [
+          0,
+          [],
+          0,
+          "Stuff We’re Reading:"
+        ]
+      ]
+    ],
+    [
+      3,
+      "ul",
+      [
+        [
+          [
+            0,
+            [
+              2,
+              2,
+              10,
+              2
+            ],
+            2,
+            "Let’s All Laugh At Andrew Cuomo’s Pathetic Crisis Team"
+          ],
+          [
+            0,
+            [
+              2
+            ],
+            3,
+            " "
+          ],
+          [
+            0,
+            [],
+            0,
+            "(Defector) "
+          ],
+          [
+            0,
+            [
+              1
+            ],
+            1,
+            "— “The newly released documents show the inner workings of Cuomo’s crisis response team, a group of powerful advisors characterized by an omnidirectional hostility towards Cuomo’s accusers, each other, and the media covering the case. The group included several longtime inner-circle advisers, as well as an intriguing pair of public figures: CNN host and Andrew’s brother, Chris Cuomo, and Lis Smith, a political consultant who served as Pete Buttigieg’s top presidential campaign advisor. Their cantankerous and ultimately futile attempts to keep the governor’s doomed career afloat provide a useful window into how power is wielded.”"
+          ]
+        ],
+        [
+          [
+            0,
+            [
+              11,
+              2
+            ],
+            2,
+            "INVESTIGATION: Canadian News Media Dominated By Corporate Lobbyists"
+          ],
+          [
+            0,
+            [
+              1,
+              2
+            ],
+            1,
+            " "
+          ],
+          [
+            0,
+            [
+              1
+            ],
+            0,
+            "(Ricochet) "
+          ],
+          [
+            0,
+            [
+              1
+            ],
+            3,
+            "— “An intensive six-week study of key political shows across multiple networks and a review of lobbyist filings conducted by Ricochet in collaboration with Jacobin Magazine has revealed significant bias in Canadian television news shows. Lobbyists for banks, oil companies, arms manufacturers and other sundry corporate interests routinely appear on news shows without any public disclosure of their big money ties.”"
+          ]
+        ],
+        [
+          [
+            0,
+            [
+              12,
+              2
+            ],
+            2,
+            "The Democratic Dilemma On Dark Money"
+          ],
+          [
+            0,
+            [],
+            0,
+            " (The American Prospect) "
+          ],
+          [
+            0,
+            [
+              1
+            ],
+            1,
+            "— “More than $1 billion in undisclosed spending poured into the 2020 federal election cycle. But the majority of it, around $514 million, went toward electing Democrats, according to an analysis by the watchdog group OpenSecrets, compared to roughly $200 million that helped Republicans. Joe Biden’s presidential bid alone attracted $174 million in anonymous contributions, more than six times as much as Donald’s Trump’s $25 million… today, Democrats find themselves in a more delicate spot, both backing federal legislation that would restrict the flow of undisclosed spending, while also becoming increasingly dependent on it and the donors who demand it.”"
+          ]
+        ],
+        [
+          [
+            0,
+            [
+              13,
+              2
+            ],
+            2,
+            "Voting Rights Advocates Frustrated By ‘Same-Old, Same-Old’ Meeting With White House"
+          ],
+          [
+            0,
+            [],
+            0,
+            " (The Guardian) "
+          ],
+          [
+            0,
+            [
+              1
+            ],
+            1,
+            "— “After Joe Biden gave a strong endorsement in late October of altering the Senate filibuster rule for voting rights legislation, the activists hoped that the White House would lay out a course for getting the stalled bills through the US Senate. Instead, multiple people who attended the meeting said they didn’t hear any kind of plan from the White House.”"
+          ]
+        ]
+      ]
+    ],
+    [
+      10,
+      4
+    ],
+    [
+      3,
+      "ul",
+      [
+        [
+          [
+            0,
+            [
+              14,
+              2
+            ],
+            2,
+            "Tale Of Roe"
+          ],
+          [
+            0,
+            [],
+            0,
+            " (Big Tent) "
+          ],
+          [
+            0,
+            [
+              1
+            ],
+            1,
+            "— “I, of course, appreciate how tenuous the Democratic grip on power is and see little value in lashing out perfunctorily every time Democrats fail to do what they lack the votes to do. But if it turns out that they don’t in fact have the votes to fix the criminalization of abortion (and I suspect they don’t) they should give some thought to how to communicate that to the people who will turn to them for action. What worries me is less that they won’t be able to respond to the ruling in any substantive way, but that they won’t be able to articulate a plan of action that convinces tens of millions of voters that all isn’t lost.”"
+          ]
+        ],
+        [
+          [
+            0,
+            [
+              15,
+              2
+            ],
+            2,
+            "“Who The Fuck Cares About Adam McKay?” (We Do, and With Good Reason)"
+          ],
+          [
+            0,
+            [],
+            0,
+            " (Vanity Fair) "
+          ],
+          [
+            0,
+            [
+              1
+            ],
+            1,
+            "— “After Trump was elected, McKay and Sirota began discussing a climate change film that wasn’t about climate change so much as ‘the rejection of science and facts embedded in the climate discourse,’ recalls Sirota. McKay toyed with the idea of a drama — ‘an epic three-hour movie about these two young people that go on a journey across the country’ — but decided the better idea was right in front of him, a metaphor Sirota used in his newspaper columns: Climate change was like a comet headed for earth and nobody seemed to care. ‘I was like, “Oh, that’s the movie,”’ says McKay.”"
+          ]
+        ],
+        [
+          [
+            0,
+            [
+              16,
+              2
+            ],
+            2,
+            "Lina Khan’s Battle To Rein In Big Tech"
+          ],
+          [
+            0,
+            [
+              1,
+              1,
+              1
+            ],
+            1,
+            " "
+          ],
+          [
+            0,
+            [],
+            0,
+            "(The New Yorker) "
+          ],
+          [
+            0,
+            [
+              1
+            ],
+            3,
+            "— “On June 15, 2021, Khan was sworn in as the chair of the Federal Trade Commission, the agency responsible for consumer protection and for enforcing the branch of law that regulates monopolies. At the age of thirty-two, she is the youngest person ever to head the F.T.C. Matt Stoller, the director of research at the anti-monopoly think tank the American Economic Liberties Project, described Khan’s ascent as “earth-shattering.”... “She understands profoundly what monopoly power means for workers and for consumers and for innovation,” said David Cicilline, a Democratic congressman from Rhode Island and the chair of the House Committee on the Judiciary’s Subcommittee on Antitrust, Commercial, and Administrative Law. “She will use the full power of the F.T.C. to promote competition, which I think is good for our economy, good for workers, and good for consumers and businesses.”"
+          ]
+        ],
+        [
+          [
+            0,
+            [
+              2,
+              2,
+              17,
+              2
+            ],
+            4,
+            "Queen of Clean"
+          ],
+          [
+            0,
+            [],
+            0,
+            " (Afar)"
+          ],
+          [
+            0,
+            [
+              2,
+              2
+            ],
+            0,
+            " "
+          ],
+          [
+            0,
+            [
+              1
+            ],
+            3,
+            "— "
+          ],
+          [
+            0,
+            [
+              1
+            ],
+            1,
+            "“Vida has been cleaning rooms at the Sixty SoHo Hotel for the past two decades. Typically, she estimates she cleans about 12 rooms a day. They each have their own names, none of which she remembers. Instead, she knows them by their size, their shape, their views of the city: some look out west toward the Hudson River; some east, toward lower Manhattan; some south, toward the spire on top of One World Trade. On average, Vida cleans 168 rooms per month; roughly 2,880 per year, and 57,600 since she first started working. She has no plans to stop anytime soon. ‘If you quit working,’ she says, ‘you become old "
+          ],
+          [
+            0,
+            [],
+            0,
+            "fast"
+          ],
+          [
+            0,
+            [
+              1
+            ],
+            1,
+            ".’”"
+          ]
+        ],
+        [
+          [
+            0,
+            [
+              2,
+              2,
+              18,
+              2
+            ],
+            4,
+            "The New Luxury Vacation: Being Dumped In The Middle of Nowhere"
+          ],
+          [
+            0,
+            [],
+            0,
+            " (The New Yorker) "
+          ],
+          [
+            0,
+            [
+              2,
+              2,
+              1
+            ],
+            3,
+            "— "
+          ],
+          [
+            0,
+            [
+              1
+            ],
+            1,
+            "“The concept of Get Lost isn’t only that clients must find their way out of desolate situations; they have no clue where in the world they are going, until the last minute. Participants are also encouraged to surrender their cell phones. The imperative is not just to disappear but to disconnect. After an expedition ends, clients are pampered at a beautiful hotel before flying home. The locations for Get Lost range from the Mongolian steppe to the jungles of Costa Rica to the deserts of Namibia. Its clientele is similarly various. Predictably enough, several tech bros have taken such trips. But the firm has also arranged an ambitious expedition for a newlywed couple, and for a stay-at-home mother — who, upon returning home, applied to join the Air Force.”"
+          ]
+        ]
+      ]
+    ],
+    [
+      10,
+      5
+    ],
+    [
+      1,
+      "h3",
+      [
+        [
+          0,
+          [
+            2
+          ],
+          1,
+          "Stuff To Watch & Listen To:"
+        ]
+      ]
+    ],
+    [
+      3,
+      "ul",
+      [
+        [
+          [
+            0,
+            [
+              2,
+              2,
+              19,
+              2
+            ],
+            2,
+            "Lobbyists PROTECTING The Corporate Court, It’s GREAT For Business"
+          ],
+          [
+            0,
+            [
+              2
+            ],
+            3,
+            " "
+          ],
+          [
+            0,
+            [],
+            0,
+            "(The Hill)"
+          ],
+          [
+            0,
+            [
+              2,
+              2,
+              1
+            ],
+            3,
+            " — "
+          ],
+          [
+            0,
+            [],
+            0,
+            "The Daily Poster"
+          ],
+          [
+            0,
+            [
+              1
+            ],
+            0,
+            "’s Andrew Perez discussed his story “"
+          ],
+          [
+            0,
+            [
+              6
+            ],
+            1,
+            "How Lobbyists Are Protecting The Corporate Court"
+          ],
+          [
+            0,
+            [],
+            1,
+            "”"
+          ]
+        ],
+        [
+          [
+            0,
+            [
+              2,
+              20,
+              2
+            ],
+            2,
+            "Corporations Want You to Have a Right Wing Supreme Court Forever"
+          ],
+          [
+            0,
+            [
+              2
+            ],
+            2,
+            " "
+          ],
+          [
+            0,
+            [],
+            0,
+            "(DOOMED)"
+          ],
+          [
+            0,
+            [
+              2
+            ],
+            0,
+            " "
+          ],
+          [
+            0,
+            [
+              1
+            ],
+            2,
+            "— "
+          ],
+          [
+            0,
+            [
+              1
+            ],
+            1,
+            "Perez also discussed his corporate court story in an extended interview with Matt Binder."
+          ]
+        ]
+      ]
+    ],
+    [
+      10,
+      6
+    ],
+    [
+      10,
+      7
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [
+            1,
+            2
+          ],
+          2,
+          "This newsletter relies on readers pitching in to support our journalism. If you like this story, please support "
+        ],
+        [
+          0,
+          [
+            2
+          ],
+          1,
+          "The Daily Poster"
+        ],
+        [
+          0,
+          [
+            1,
+            2
+          ],
+          2,
+          "'s work."
+        ]
+      ]
+    ],
+    [
+      10,
+      8
+    ],
+    [
+      10,
+      9
+    ],
+    [
+      10,
+      10
+    ]
+  ],
+  "ghostVersion": "4.0"
+}

@@ -1,0 +1,647 @@
+{
+  "version": "0.3.1",
+  "atoms": [],
+  "cards": [
+    [
+      "email-cta",
+      {
+        "showButton": true,
+        "showDividers": false,
+        "segment": "status:-free",
+        "alignment": "center",
+        "html": "",
+        "buttonText": "Click Here To Comment",
+        "buttonUrl": "__GHOST_URL__/how-to-customize-your-emails-from-the-lever/#comments"
+      }
+    ],
+    [
+      "email",
+      {
+        "html": "<p><em><strong><a href=\"https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.levernews.com%2Fhow-to-customize-your-emails-from-the-lever%2F&amp;amp;src=sdkpreparse\">Click to share on Facebook</a></strong></em></p>"
+      }
+    ],
+    [
+      "image",
+      {
+        "src": "__GHOST_URL__/content/images/2022/05/Email-custom-step-1.png",
+        "width": 1315,
+        "height": 826
+      }
+    ],
+    [
+      "image",
+      {
+        "src": "__GHOST_URL__/content/images/2022/05/Banner-step-2.png",
+        "width": 1315,
+        "height": 826
+      }
+    ],
+    [
+      "image",
+      {
+        "src": "__GHOST_URL__/content/images/2022/05/Email-custom-step-3.png",
+        "width": 1315,
+        "height": 826
+      }
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "button",
+      {
+        "alignment": "center",
+        "buttonText": "Tip Jar",
+        "buttonUrl": "https://dailyposter.outpost.pub/ghost-integration/60818189ad12f332071054b8/tips"
+      }
+    ],
+    [
+      "email-cta",
+      {
+        "showButton": true,
+        "showDividers": false,
+        "segment": "status:-free",
+        "alignment": "center",
+        "html": "",
+        "buttonText": "Click Here To Comment",
+        "buttonUrl": "__GHOST_URL__/how-to-customize-your-emails-from-the-lever/#comments"
+      }
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "email-cta",
+      {
+        "showButton": true,
+        "showDividers": false,
+        "segment": "status:-free",
+        "alignment": "center",
+        "html": "",
+        "buttonText": "Tip Jar",
+        "buttonUrl": "https://dailyposter.outpost.pub/ghost-integration/60818189ad12f332071054b8/tips"
+      }
+    ],
+    [
+      "email-cta",
+      {
+        "showButton": true,
+        "showDividers": false,
+        "segment": "status:free",
+        "alignment": "center",
+        "html": "",
+        "buttonText": "Upgrade",
+        "buttonUrl": "https://levernews.com/membership"
+      }
+    ],
+    [
+      "email",
+      {
+        "html": "<p><em><strong>Help us spread the word! </strong>Please forward this email to family and friends.</em></p><p><em><strong>Was this email forwarded to you? </strong><a href=\"https://levernews.com/membership/\">Sign up for free</a> to receive original reporting like this in your inbox every day.</em></p>"
+      }
+    ]
+  ],
+  "markups": [
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/signin/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/#/portal/account"
+      ]
+    ],
+    [
+      "strong"
+    ],
+    [
+      "em"
+    ]
+  ],
+  "sections": [
+    [
+      10,
+      0
+    ],
+    [
+      10,
+      1
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Friends,"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "You asked for it, and we listened. In response to subscriber feedback, we are unrolling a powerful new feature: email customization."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Now you have full control over which and how many emails you receive from us each week. Simply by "
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "signing into our site"
+        ],
+        [
+          0,
+          [],
+          0,
+          " and then going to your "
+        ],
+        [
+          0,
+          [
+            1
+          ],
+          1,
+          "account page"
+        ],
+        [
+          0,
+          [],
+          0,
+          ", you can click on the “Manage” button next to Newsletters. You will be taken to your email preferences page, where you will be able to select the kinds of posts you receive from us in your inbox."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "The current options are:"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "• "
+        ],
+        [
+          0,
+          [
+            2
+          ],
+          1,
+          "The Lever Daily: "
+        ],
+        [
+          0,
+          [],
+          0,
+          "Our original reporting delivered every weekday in your inbox."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "• "
+        ],
+        [
+          0,
+          [
+            2
+          ],
+          1,
+          "Lever Weekly: "
+        ],
+        [
+          0,
+          [],
+          0,
+          "Formerly known as Weekend Reader, this Sunday feature offers up a weekly digest of all of our stories from the previous week, plus highlights must-reads from all over the world. "
+        ],
+        [
+          0,
+          [
+            2
+          ],
+          1,
+          "If you only read one email of ours a week, make it this one."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "• "
+        ],
+        [
+          0,
+          [
+            2
+          ],
+          1,
+          "You Love To See It: "
+        ],
+        [
+          0,
+          [],
+          0,
+          "A weekly roundup of good news and action steps, published every Saturday."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "• "
+        ],
+        [
+          0,
+          [
+            2
+          ],
+          1,
+          "Cheat Sheet: "
+        ],
+        [
+          0,
+          [],
+          0,
+          "A succinct dispatch designed to quickly get you up to speed on a pressing news matter — including vital information corporate media is trying to cheat you out of learning."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "• "
+        ],
+        [
+          0,
+          [
+            2
+          ],
+          1,
+          "Left Wondering: "
+        ],
+        [
+          0,
+          [],
+          0,
+          "An advice column on how to live your values during late capitalism."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "• "
+        ],
+        [
+          0,
+          [
+            2
+          ],
+          1,
+          "Live Events: "
+        ],
+        [
+          0,
+          [],
+          0,
+          "Announcements and reminders about our live online events, including film discussions, monthly happy hours, and live chats with important newsmakers."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "• "
+        ],
+        [
+          0,
+          [
+            2
+          ],
+          1,
+          "Podcasts: "
+        ],
+        [
+          0,
+          [],
+          0,
+          "Announcements and reminders about our soon-to-be-launched weekly podcast."
+        ]
+      ]
+    ],
+    [
+      1,
+      "h3",
+      [
+        [
+          0,
+          [],
+          0,
+          "HOW TO CHANGE YOUR EMAIL SETTINGS"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "By default, you are signed up to receive all of these emails in your inbox. To change that, simply "
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "sign into our site"
+        ],
+        [
+          0,
+          [],
+          0,
+          " and then go to your "
+        ],
+        [
+          0,
+          [
+            1
+          ],
+          1,
+          "account page"
+        ],
+        [
+          0,
+          [],
+          0,
+          " by clicking on your account icon at the top righthand corner:"
+        ]
+      ]
+    ],
+    [
+      10,
+      2
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Once there, click on “Manage” next to Newsletters:"
+        ]
+      ]
+    ],
+    [
+      10,
+      3
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "You will be taken to your email preferences page. On that page, un-select the emails you no longer wish to receive."
+        ]
+      ]
+    ],
+    [
+      10,
+      4
+    ],
+    [
+      10,
+      5
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "As we have expanded our staff and increased our editorial output, we are sensitive to the impact this has on our subscribers’ inboxes. Now you can control how many emails you receive from us — you can get all of them, or just our weekly digest, delivered every Sunday."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "As we continue to grow and challenge corporate media, your feedback and support is essential. It’s why on the subject of email customization, we heard you loud and clear."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "We hope this new feature allows you to engage as a member of our team in a way that perfectly suits your needs. If you like this new functionality, feel free to throw a few extra dollars in our digital tip jar — all proceeds go to new features like this one!"
+        ]
+      ]
+    ],
+    [
+      10,
+      6
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Once again, thank you for being a supporter. We couldn’t do this work without you."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Rock the boat,"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Sirota"
+        ]
+      ]
+    ],
+    [
+      10,
+      7
+    ],
+    [
+      10,
+      8
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [
+            3,
+            2
+          ],
+          1,
+          "Our news organization relies on readers pitching in to support our journalism. "
+        ],
+        [
+          0,
+          [
+            3,
+            2
+          ],
+          3,
+          "If you like this story, please support "
+        ],
+        [
+          0,
+          [
+            2,
+            3,
+            2
+          ],
+          3,
+          "our"
+        ],
+        [
+          0,
+          [
+            3,
+            3,
+            2
+          ],
+          3,
+          " work."
+        ]
+      ]
+    ],
+    [
+      10,
+      9
+    ],
+    [
+      10,
+      10
+    ],
+    [
+      10,
+      11
+    ],
+    [
+      1,
+      "p",
+      []
+    ],
+    [
+      1,
+      "p",
+      []
+    ]
+  ],
+  "ghostVersion": "4.0"
+}

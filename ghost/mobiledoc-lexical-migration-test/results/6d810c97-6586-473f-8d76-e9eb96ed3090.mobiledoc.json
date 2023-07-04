@@ -1,0 +1,2143 @@
+{
+  "version": "0.3.1",
+  "atoms": [],
+  "cards": [
+    [
+      "email-cta",
+      {
+        "showButton": true,
+        "showDividers": false,
+        "segment": "status:-free",
+        "alignment": "center",
+        "html": "",
+        "buttonText": "Click Here To Comment",
+        "buttonUrl": "__GHOST_URL__/"
+      }
+    ],
+    [
+      "email-cta",
+      {
+        "showButton": true,
+        "showDividers": false,
+        "segment": "status:free",
+        "alignment": "center",
+        "html": "<p><strong><em>Please <a href=\"https://levernews.com/membership\">become a supporting subscriber</a>. You get exclusive podcasts, <a href=\"__GHOST_URL__/citizens-guide/\">digital publications</a>, and live events </em></strong>—<strong><em> and you support this journalism.</em></strong></p>",
+        "buttonText": "Upgrade",
+        "buttonUrl": "https://levernews.com/membership"
+      }
+    ],
+    [
+      "email",
+      {
+        "html": "<p><em><a href=\"https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.dailyposter.com%2Fvideo-opioid-billionaires-get-out-of-jail-free-card\"><strong>Click to share on Facebook</strong></a></em></p>"
+      }
+    ],
+    [
+      "embed",
+      {
+        "url": "https://youtu.be/bUxJaDfnATU?t=596",
+        "html": "<iframe width=\"200\" height=\"150\" src=\"https://www.youtube.com/embed/bUxJaDfnATU?start=596&feature=oembed\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+        "type": "video",
+        "metadata": {
+          "title": "Noam Chomsky on Propaganda",
+          "author_name": "Verantwoordelijke Pers",
+          "author_url": "https://www.youtube.com/c/VerantwoordelijkePers",
+          "height": 150,
+          "width": 200,
+          "version": "1.0",
+          "provider_name": "YouTube",
+          "provider_url": "https://www.youtube.com/",
+          "thumbnail_height": 360,
+          "thumbnail_width": 480,
+          "thumbnail_url": "https://i.ytimg.com/vi/bUxJaDfnATU/hqdefault.jpg"
+        }
+      }
+    ],
+    [
+      "email-cta",
+      {
+        "showButton": true,
+        "showDividers": false,
+        "segment": "status:-free",
+        "alignment": "center",
+        "html": "",
+        "buttonText": "Click Here To Comment",
+        "buttonUrl": "__GHOST_URL__/"
+      }
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "email-cta",
+      {
+        "showButton": true,
+        "showDividers": false,
+        "segment": "status:-free",
+        "alignment": "center",
+        "html": "",
+        "buttonText": "Tip Jar",
+        "buttonUrl": "https://dailyposter.outpost.pub/ghost-integration/60818189ad12f332071054b8/tips"
+      }
+    ],
+    [
+      "email-cta",
+      {
+        "showButton": true,
+        "showDividers": false,
+        "segment": "status:free",
+        "alignment": "center",
+        "html": "",
+        "buttonText": "Upgrade",
+        "buttonUrl": "https://levernews.com/membership"
+      }
+    ],
+    [
+      "email",
+      {
+        "html": "<p><em><strong>Help us spread the word! </strong>Please forward this email to family and friends.</em></p><p><em><strong>Was this email forwarded to you? </strong><a href=\"https://levernews.com/membership/\">Sign up for free</a> to receive original reporting like this in your inbox every day.</em></p>"
+      }
+    ]
+  ],
+  "markups": [
+    [
+      "em"
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://twitter.com/petersagal/status/1527284736921583617"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://twitter.com/jamespmanley/status/1527120117968310272"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.seattletimes.com/business/amazon/amazon-increases-cost-of-prime-reports-sales-grew-22/#:~:text=Amazon's%20net%20sales%20increased%2022,per%20diluted%20share%2C%20in%202020."
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://variety.com/2022/digital/news/amazon-q4-earnings-beat-rivian-1235170039/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://twitter.com/JeffBezos/status/1525309091970699265"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://itep.org/amazon-avoids-more-than-5-billion-in-corporate-income-taxes-reports-6-percent-tax-rate-on-35-billion-of-us-income/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.washingtonpost.com/opinions/2022/05/16/democrats-need-more-tough-love-economy-inflation-greedflation-biden/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.washingtonpost.com/opinions/2022/05/12/democratic-conspiracy-theory-on-inflation-makes-things-worse/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.washingtonpost.com/opinions/2022/04/15/inflation-is-likely-stay-high-there-are-smart-dumb-ways-respond/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.washingtonpost.com/opinions/2022/01/10/white-house-again-offers-bizarre-message-inflation/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.washingtonpost.com/us-policy/2022/02/17/white-house-inflation-corporations/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.slowboring.com/p/greedflation-is-fake?s=r"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://twitter.com/JeffBezos/status/1525188353704050690"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.cnn.com/2022/05/17/economy/bezos-biden-twitter-inflation-feud/index.html"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.cnbc.com/2022/05/16/white-house-hits-back-at-amazons-bezos-after-biden-inflation-spat.html"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://news.yahoo.com/biden-vs-bezos-white-house-punches-back-at-billionaire-over-inflation-tweets-182035561.html"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.washingtonpost.com/us-policy/2022/05/16/white-house-bezos-biden/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://twitter.com/davidsirota/status/1527058992152776704"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://twitter.com/crampell/status/1527089188570824704"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.epi.org/blog/corporate-profits-have-contributed-disproportionately-to-inflation-how-should-policymakers-respond/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/cheat-sheet-whats-really-driving-inflation/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.nytimes.com/2022/05/05/opinion/us-companies-inflation.html"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://perfectunion.us/tyson-foods-price-gouging/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.theguardian.com/technology/2022/feb/03/amazon-profits-surge-cost-increase-prime-membership"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.washingtonpost.com/technology/2022/02/03/amazon-prime-price-increase/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://abcnews.go.com/US/wireStory/amazon-adds-fuel-inflation-surcharge-seller-fees-84064529#:~:text=Amazon%20is%20taking%20a%20step,e%2Dcommerce%20giant's%20fulfillment%20services."
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/campaign-cash-is-buying-new-corporate-tax-breaks/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/amazon-gets-huge-contract-despite-bidens-union-pledge/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.opensecrets.org/federal-lobbying/clients/summary?id=D000069501"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://twitter.com/JohnJHarwood/status/1527092456373862401"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://twitter.com/jonathanchait/status/1527090627527180289?s=20&t=QGJ97vSRZEb9RT_CC892Og"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://twitter.com/crampell/status/1527079802632605703"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://thehill.com/homenews/media/457191-washington-post-editor-calls-sanders-claim-about-campaign-coverage-conspiracy/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.bloomberg.com/news/articles/2015-12-20/bezos-s-behind-the-scenes-role-in-washington-post-s-web-growth"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.reuters.com/article/us-amazon-com-lobbying/amazon-spends-company-record-on-u-s-lobbying-in-2018-filing-idUSKCN1PH2HK"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://twitter.com/J_Banister/status/1040404389096247296"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://fair.org/home/washington-post-ran-16-negative-stories-on-bernie-sanders-in-16-hours/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://twitter.com/meetthepress/status/1161394950556344320"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.washingtonpost.com/opinions/tax-bezos-help-workers-but-not-like-this/2018/09/06/9ebd64ae-b20d-11e8-aed9-001309990777_story.html"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://fgh.com/our-team/437/anne-gearan"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.axios.com/2019/11/24/bloomberg-news-coverage-campaign"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://news.gallup.com/poll/355526/americans-trust-media-dips-second-lowest-record.aspx"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.google.com/search?client=safari&rls=en&q=chokepoint+capitalism&ie=UTF-8&oe=UTF-8"
+      ]
+    ],
+    [
+      "strong"
+    ]
+  ],
+  "sections": [
+    [
+      10,
+      0
+    ],
+    [
+      10,
+      1
+    ],
+    [
+      10,
+      2
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Billionaire "
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "Washington Post"
+        ],
+        [
+          0,
+          [],
+          0,
+          " owner and Amazon founder Jeff Bezos has started using Twitter to amplify his political ideology, slam the Biden administration, and promote a pundit on his payroll who echoes his views."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "If you were looking for a digital era version of "
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "Citizen Kane"
+        ],
+        [
+          0,
+          [],
+          0,
+          " behavior, this is it — and it not so coincidentally comes right after President Joe Biden hosted Amazon Labor Union organizers at the White House."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "And yet, talking about media ownership’s influence is taboo: Corporate journalists and Beltway consultants have "
+        ],
+        [
+          0,
+          [
+            1
+          ],
+          1,
+          "rallied"
+        ],
+        [
+          0,
+          [],
+          0,
+          " "
+        ],
+        [
+          0,
+          [
+            2
+          ],
+          1,
+          "around"
+        ],
+        [
+          0,
+          [],
+          0,
+          " the world’s second richest man and "
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "Post"
+        ],
+        [
+          0,
+          [],
+          0,
+          " opinion columnist Catherine Rampell, insisting that there is nothing untoward about the Amazon executive chairman now promoting his own newspaper’s content that downplays corporate profiteering’s role in inflation — at the very moment his own company is jacking up prices on consumers while "
+        ],
+        [
+          0,
+          [
+            3
+          ],
+          1,
+          "reaping"
+        ],
+        [
+          0,
+          [],
+          0,
+          " "
+        ],
+        [
+          0,
+          [
+            4
+          ],
+          1,
+          "big profits"
+        ],
+        [
+          0,
+          [],
+          0,
+          "."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "These same corporate journalists seem downright offended at even the suggestion that Bezos’ new Twitter campaign is also sending a message to his editorialists about how he wants economic news framed."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "At issue is Bezos recently taking to Twitter to "
+        ],
+        [
+          0,
+          [
+            5
+          ],
+          1,
+          "criticize"
+        ],
+        [
+          0,
+          [],
+          0,
+          " President Joe Biden’s call to raise corporate taxes in order to control inflation, calling it a “misdirection” only a few months after revelations that Amazon "
+        ],
+        [
+          0,
+          [
+            6
+          ],
+          1,
+          "avoided $5 billion in corporate taxes"
+        ],
+        [
+          0,
+          [],
+          0,
+          " in 2021 alone."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "A few days later, Bezos retweeted a "
+        ],
+        [
+          0,
+          [
+            7
+          ],
+          1,
+          "column"
+        ],
+        [
+          0,
+          [],
+          0,
+          " from Rampell arguing that Democrats are wrong to talk about corporate greed as a factor driving inflation — and casting partial blame instead on the one-time $1,400 pandemic survival checks mailed out by Democrats last March. The column followed a "
+        ],
+        [
+          0,
+          [
+            8
+          ],
+          1,
+          "similar missive"
+        ],
+        [
+          0,
+          [],
+          0,
+          " by Rampell calling “Greedflation” a Democratic “conspiracy theory” equivalent to conservatives using a veterinary drug to try to cure COVID-19."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "The "
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "Post"
+        ],
+        [
+          0,
+          [],
+          0,
+          " editorial board has weighed in with "
+        ],
+        [
+          0,
+          [
+            9
+          ],
+          1,
+          "several"
+        ],
+        [
+          0,
+          [],
+          0,
+          " "
+        ],
+        [
+          0,
+          [
+            10
+          ],
+          1,
+          "columns"
+        ],
+        [
+          0,
+          [],
+          0,
+          " of its own in recent months scoffing at the notion that “price-gouging” or “greedy businesses” are driving inflation. Their criticisms have been "
+        ],
+        [
+          0,
+          [
+            11
+          ],
+          1,
+          "seconded"
+        ],
+        [
+          0,
+          [],
+          0,
+          " by economist Larry Summers, who helped oversee the catastrophic deregulation of Wall Street and destructive corporate trade deals, as well as liberal "
+        ],
+        [
+          0,
+          [
+            12
+          ],
+          1,
+          "blogger"
+        ],
+        [
+          0,
+          [],
+          0,
+          " Matt Yglesias, who is now also seeing "
+        ],
+        [
+          0,
+          [
+            13
+          ],
+          1,
+          "retweets"
+        ],
+        [
+          0,
+          [],
+          0,
+          " from Bezos."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Thanks to all of this, Bezos’s criticisms of Biden on inflation have now become a "
+        ],
+        [
+          0,
+          [
+            14
+          ],
+          1,
+          "major"
+        ],
+        [
+          0,
+          [],
+          0,
+          " "
+        ],
+        [
+          0,
+          [
+            15
+          ],
+          1,
+          "political"
+        ],
+        [
+          0,
+          [],
+          0,
+          " "
+        ],
+        [
+          0,
+          [
+            16
+          ],
+          1,
+          "story"
+        ],
+        [
+          0,
+          [],
+          0,
+          " — with Bezos’s own newspaper "
+        ],
+        [
+          0,
+          [
+            17
+          ],
+          1,
+          "covering"
+        ],
+        [
+          0,
+          [],
+          0,
+          " it as such."
+        ]
+      ]
+    ],
+    [
+      1,
+      "h3",
+      [
+        [
+          0,
+          [],
+          0,
+          "An Attempt To Erase Corporate Profiteering From The Discourse"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "The Lever"
+        ],
+        [
+          0,
+          [],
+          0,
+          " "
+        ],
+        [
+          0,
+          [
+            18
+          ],
+          1,
+          "flagged"
+        ],
+        [
+          0,
+          [],
+          0,
+          " Bezos’s promotion of Rampell’s latest column, pointing out that the Citizen Kane-like move was sending a message to his entire newsroom about what kind of content he wants. In response, Rampell "
+        ],
+        [
+          0,
+          [
+            19
+          ],
+          1,
+          "lashed out"
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          " "
+        ],
+        [
+          0,
+          [],
+          0,
+          "with an ad hominem attack,"
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          " "
+        ],
+        [
+          0,
+          [],
+          0,
+          "calling our reader-supported news organization a “grift.”"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "If that’s a grift, what would one call being paid by Bezos to mail in opinion columns that omit inconvenient facts that might undermine Bezos’s self-interested political arguments?"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "For example: Absent from Bezos’s inflation analysis, Rampell’s columns, and other "
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "Post"
+        ],
+        [
+          0,
+          [],
+          0,
+          " editorial diatribes is data from the Economic Policy Institute "
+        ],
+        [
+          0,
+          [
+            20
+          ],
+          1,
+          "showing"
+        ],
+        [
+          0,
+          [],
+          0,
+          " that more than half of the price increases Americans have seen in the past two years can be attributed to larger corporate profit margins."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "It’s true that there are "
+        ],
+        [
+          0,
+          [
+            21
+          ],
+          1,
+          "other factors driving price increases"
+        ],
+        [
+          0,
+          [],
+          0,
+          ". The COVID pandemic has made existing supply chain problems worse, and Russia’s war in Ukraine caused a spike in energy prices. But companies have used these higher costs and their market power to pad profits. In fact, corporate executives have been "
+        ],
+        [
+          0,
+          [
+            22
+          ],
+          1,
+          "quite open"
+        ],
+        [
+          0,
+          [],
+          0,
+          " in their earnings calls about their ability to raise prices in this environment."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "For instance, according to "
+        ],
+        [
+          0,
+          [
+            23,
+            0
+          ],
+          2,
+          "More Perfect Union"
+        ],
+        [
+          0,
+          [],
+          0,
+          ", meatpacking giant Tyson Foods’ most recent earnings report showed the company countered $1.5 billion in higher costs in the second quarter this year by raising prices by roughly $2 billion — meaning consumers paid them an extra $500 million."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Also absent from Bezos’s tweets and "
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "Post"
+        ],
+        [
+          0,
+          [],
+          0,
+          " editorial missives is any reference to Amazon getting in on the inflation profiteering, too: In recent months, the company "
+        ],
+        [
+          0,
+          [
+            24
+          ],
+          1,
+          "jacked up"
+        ],
+        [
+          0,
+          [],
+          0,
+          " the price of its Prime subscription service by 17 percent (though at least that got a "
+        ],
+        [
+          0,
+          [
+            25
+          ],
+          1,
+          "mention"
+        ],
+        [
+          0,
+          [],
+          0,
+          " on the "
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "Post"
+        ],
+        [
+          0,
+          [],
+          0,
+          "’s news page). Amazon also "
+        ],
+        [
+          0,
+          [
+            26
+          ],
+          1,
+          "moved"
+        ],
+        [
+          0,
+          [],
+          0,
+          " to slap a 5 percent “fuel and inflation surcharge” on third-party sellers using its fulfillment services, despite reporting "
+        ],
+        [
+          0,
+          [
+            3
+          ],
+          1,
+          "a massive surge"
+        ],
+        [
+          0,
+          [],
+          0,
+          " in profits last year."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "One other thing missing from Bezos’s inflation declarations: Any calls for the government to reduce the largesse it is sending to his own business empire."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Indeed, as he tries to blame federal outlays for higher prices, Amazon is "
+        ],
+        [
+          0,
+          [
+            27
+          ],
+          1,
+          "right now lobbying"
+        ],
+        [
+          0,
+          [],
+          0,
+          " for a massive corporate tax break and "
+        ],
+        [
+          0,
+          [
+            28
+          ],
+          1,
+          "recently secured"
+        ],
+        [
+          0,
+          [],
+          0,
+          " a new $10 billion federal contract. Congress may also give Bezos’s space company $10 billion in funding, as the company "
+        ],
+        [
+          0,
+          [
+            29
+          ],
+          1,
+          "lobbies"
+        ],
+        [
+          0,
+          [],
+          0,
+          " Washington lawmakers."
+        ]
+      ]
+    ],
+    [
+      1,
+      "h3",
+      [
+        [
+          0,
+          [],
+          0,
+          "“An Incredible Role To Play”"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Bezos’s foray into social media is relatively recent — and represents a new channel for the "
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "Washington Post"
+        ],
+        [
+          0,
+          [],
+          0,
+          " owner to more explicitly make his news coverage views clear. Unlike other wealthy owners of news outlets, Bezos is not only weighing in on public policy matters, he is promoting specific "
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "Washington Post"
+        ],
+        [
+          0,
+          [],
+          0,
+          " columns that amplify his ideology, thereby issuing a very public signal to his editorialists."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Amid criticism of this escalation, many "
+        ],
+        [
+          0,
+          [
+            30
+          ],
+          1,
+          "corporate"
+        ],
+        [
+          0,
+          [],
+          0,
+          " "
+        ],
+        [
+          0,
+          [
+            1
+          ],
+          1,
+          "media"
+        ],
+        [
+          0,
+          [],
+          0,
+          " "
+        ],
+        [
+          0,
+          [
+            31
+          ],
+          1,
+          "elites"
+        ],
+        [
+          0,
+          [],
+          0,
+          " quickly ridiculed the idea that a media owner might have any influence over the editorial coverage he funds — the idea being that if you can’t produce an email from Bezos to a specific reporter demanding a story, then ownership influence doesn’t exist. Rampell herself made this tired argument, insisting that if you cannot produce hard "
+        ],
+        [
+          0,
+          [
+            32
+          ],
+          1,
+          "“evidence”"
+        ],
+        [
+          0,
+          [],
+          0,
+          " of influence, then it must not exist."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "That argument echoes the "
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "Post"
+        ],
+        [
+          0,
+          [],
+          0,
+          " long "
+        ],
+        [
+          0,
+          [
+            33
+          ],
+          1,
+          "insisting"
+        ],
+        [
+          0,
+          [],
+          0,
+          " that Bezos has no editorial input at all."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "However, "
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "Bloomberg News"
+        ],
+        [
+          0,
+          [],
+          0,
+          " "
+        ],
+        [
+          0,
+          [
+            34
+          ],
+          1,
+          "reported"
+        ],
+        [
+          0,
+          [],
+          0,
+          " in 2015, “Every two weeks, Jeff Bezos holds an hourlong conference call with executives at "
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "The"
+        ],
+        [
+          0,
+          [],
+          0,
+          " "
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "Washington Post"
+        ],
+        [
+          0,
+          [],
+          0,
+          ". Twice a year, the managers fly to Seattle for strategy sessions with the Amazon.com founder. And every so often, they find a reader complaint in their inbox forwarded without comment from Jeff@amazon.com.”"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Two years later, as Amazon was "
+        ],
+        [
+          0,
+          [
+            35
+          ],
+          1,
+          "building out"
+        ],
+        [
+          0,
+          [],
+          0,
+          " its Washington lobbying army, Bezos "
+        ],
+        [
+          0,
+          [
+            36
+          ],
+          1,
+          "explained"
+        ],
+        [
+          0,
+          [],
+          0,
+          " that he bought the "
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "Post"
+        ],
+        [
+          0,
+          [],
+          0,
+          " specifically because of its proximity to power."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "“It is the newspaper in the capital city of the most important country in the world,” he said. “The "
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "Washington Post"
+        ],
+        [
+          0,
+          [],
+          0,
+          " has an incredible role to play in this democracy.”"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "But even if Bezos is not making day-to-day editorial decisions, that’s besides the point. Of course he didn’t tell Rampell to craft her diatribes. He doesn’t need to order his paid pundits to write the op-eds he wants because they already "
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "know"
+        ],
+        [
+          0,
+          [],
+          0,
+          " what he wants. Indeed, they were likely hired precisely "
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "because"
+        ],
+        [
+          0,
+          [],
+          0,
+          " they are the kind of ideologues Bezos "
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "prefers"
+        ],
+        [
+          0,
+          [],
+          0,
+          ". Now, they also get to see his tweets reiterating his ideological preferences, and telling them which of his paid pundits he prefers."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "The entire fiasco is a lesson in how ownership gets what it wants. As Noam Chomsky explained in this 1996 BBC interview, ownership influence is subtle — but extremely powerful and undeniable, at least to anyone who isn’t paid to pretend it doesn’t exist."
+        ]
+      ]
+    ],
+    [
+      10,
+      3
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Put simply: Corporate media workers know very well the objectives and ideologies of the companies for whom they work. They know what will get them hired, and what won’t. They know what will be rewarded by the boss and what won’t be rewarded by the boss, without the boss ever having to open his mouth. This might explain the "
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "Post"
+        ],
+        [
+          0,
+          [],
+          0,
+          " at one point "
+        ],
+        [
+          0,
+          [
+            37
+          ],
+          1,
+          "publishing"
+        ],
+        [
+          0,
+          [],
+          0,
+          " 16 negative articles about Bezos critic Bernie Sanders, the Vermont independent Senator, in 16 hours during the 2016 campaign."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "So when an owner like Bezos starts opening his mouth and making those objectives and ideologies explicitly clear with a social media megaphone, that almost certainly has even more influence with the people he literally pays, especially in an industry that is periodically plagued with mass layoffs."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "To really appreciate the dynamic, ask yourself: If job cuts ever come to the "
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "Washington Post"
+        ],
+        [
+          0,
+          [],
+          0,
+          ", what journalist or editorialist wants to be on the wrong ideological side of the owner when the company is deciding who to retain and who to terminate?"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "None — and that’s just one way influence works."
+        ]
+      ]
+    ],
+    [
+      1,
+      "h3",
+      [
+        [
+          0,
+          [],
+          0,
+          "“We Do Not Have Some Sort Of Edict”"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Admitting that obvious truth is considered blasphemy in corporate media circles, which explains the multi-day media freakout in 2019 when Sanders dared to "
+        ],
+        [
+          0,
+          [
+            38
+          ],
+          1,
+          "mention"
+        ],
+        [
+          0,
+          [],
+          0,
+          " Bezos’s ownership of the "
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "Washington Post "
+        ],
+        [
+          0,
+          [],
+          0,
+          "while campaigning for a “corporate welfare tax” on companies like Amazon (an idea that was "
+        ],
+        [
+          0,
+          [
+            39
+          ],
+          1,
+          "derided"
+        ],
+        [
+          0,
+          [],
+          0,
+          " by Rampell)."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "During that fake scandal, then-"
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "Washington Post"
+        ],
+        [
+          0,
+          [],
+          0,
+          " reporter Anne Rumsey Gearan — who has gone on to become a consultant at a "
+        ],
+        [
+          0,
+          [
+            40
+          ],
+          1,
+          "corporate lobbying firm"
+        ],
+        [
+          0,
+          [],
+          0,
+          " — said on NBC’s "
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "Meet the Press"
+        ],
+        [
+          0,
+          [],
+          0,
+          ": “I can attest that we do not have some sort of edict to write or not write things from Bezos.”"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "That’s almost certainly true — as is the fact that the "
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "Post "
+        ],
+        [
+          0,
+          [],
+          0,
+          "does employ some very good journalists, including Dave Weigel, Heather Long, Jeff Stein, Perry Bacon and James Downie, to name a few."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "But it does not negate the salient point about ownership influence, and how ownership often creates a media "
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "culture"
+        ],
+        [
+          0,
+          [],
+          0,
+          " reflecting the owner’s ideology. That’s especially likely in the case of the Washington Post and Bezos, now that he is literally tweeting out his political ideology and the paid punditry he favors."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "While the news side of media outlets may be somewhat insulated, that culture is most prominent in media outlets’ opinion sections — where they feel more free to express it. For example, during Mike Bloomberg’s 2020 presidential bid, "
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "Bloomberg News’"
+        ],
+        [
+          0,
+          [],
+          0,
+          " editor-in-chief "
+        ],
+        [
+          0,
+          [
+            41
+          ],
+          1,
+          "noted"
+        ],
+        [
+          0,
+          [],
+          0,
+          " in an email to staff, “The place where Mike has had the most contact with Editorial is "
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "Bloomberg Opinion"
+        ],
+        [
+          0,
+          [],
+          0,
+          ": Our editorials have reflected his views.”"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [
+            42
+          ],
+          1,
+          "Polling data"
+        ],
+        [
+          0,
+          [],
+          0,
+          " show Americans have stopped trusting corporate media — and one reason for that is because they sense corporate media is speaking for the owners’ interests, not the public interest."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Spotlighting that oligarch influence on news content is only considered controversial or outrageous among those inside corporate media culture — that is, those with a financial interest in pretending the influence doesn’t exist. That’s not surprising — after all, as the journalist Upton Sinclair wrote, “It is difficult to get a man to understand something when his salary depends upon his not understanding it.”"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "But pretending ownership influence isn’t real does a disservice both to the public and to good people working in media."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "In the age of what Cory Doctorow calls “"
+        ],
+        [
+          0,
+          [
+            43
+          ],
+          1,
+          "chokepoint capitalism"
+        ],
+        [
+          0,
+          [],
+          0,
+          ",” the media industry and its distribution is so dominated by oligarchs and giant corporations that over a career, almost every working journalist is bound to interface with a corporate conglomerate at some point. (For example, the "
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "Meltdown"
+        ],
+        [
+          0,
+          [],
+          0,
+          " podcast that Sirota worked on ended up being distributed through Audible, whose parent company is Amazon.)"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "That doesn’t mean every journalist will be moved by that corporate culture. But being "
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "aware"
+        ],
+        [
+          0,
+          [],
+          0,
+          " and mindful of media ownership is critical to resisting it when it is at odds with editorial imperatives (and "
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "Meltdown"
+        ],
+        [
+          0,
+          [],
+          0,
+          " did the opposite of toeing a corporate-friendly line)."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "By contrast, wholly "
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "denying"
+        ],
+        [
+          0,
+          [],
+          0,
+          " the potential for corporate ownership influence — pretending it’s not even possible, as so many corporate journalists did in defense of Bezos — makes it harder to construct real firewalls."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Perhaps that’s the point of the denial — by refusing to even consider the risks of corporate-fueled mission creep, corporate journalists and pundits are allowing their owners to subtly create the culture they want so that democracy can quietly die in darkness."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "But when a newspaper owner like Bezos intensifies that culture by publicly weaponizing his own newspaper content for his political crusade, pretending that has no effect on his newsroom or the larger media ecosystem is ridiculous. It is yet another destructive rejection of reality — one best summarized by former Rep. Barney Frank (D-Mass.) during a discussion about money’s influence in politics. Though Frank was talking about politicians, the principle he described also holds true for other players in Washington, including the media. "
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "“People say, ‘Oh, [money] doesn’t have any effect on me,” Frank told "
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "NPR"
+        ],
+        [
+          0,
+          [],
+          0,
+          ". “Well, if that were the case, we’d be the only human beings in the history of the world who on a regular basis took significant amounts of money from perfect strangers and made sure that it had no effect on our behavior.”"
+        ]
+      ]
+    ],
+    [
+      10,
+      4
+    ],
+    [
+      10,
+      5
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [
+            0,
+            44
+          ],
+          1,
+          "Our news organization relies on readers pitching in to support our journalism. "
+        ],
+        [
+          0,
+          [
+            0,
+            44
+          ],
+          3,
+          "If you like this story, please support "
+        ],
+        [
+          0,
+          [
+            44,
+            0,
+            44
+          ],
+          3,
+          "our"
+        ],
+        [
+          0,
+          [
+            0,
+            0,
+            44
+          ],
+          3,
+          " work."
+        ]
+      ]
+    ],
+    [
+      10,
+      6
+    ],
+    [
+      10,
+      7
+    ],
+    [
+      10,
+      8
+    ],
+    [
+      1,
+      "p",
+      []
+    ]
+  ],
+  "ghostVersion": "4.0"
+}

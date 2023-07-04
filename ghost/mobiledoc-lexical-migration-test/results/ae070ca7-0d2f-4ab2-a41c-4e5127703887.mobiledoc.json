@@ -1,0 +1,305 @@
+{
+  "version": "0.3.1",
+  "atoms": [],
+  "cards": [
+    [
+      "bookmark",
+      {
+        "url": "https://support.google.com/webmasters/answer/7532484?hl=en",
+        "metadata": {
+          "url": "https://support.google.com/webmasters/answer/7532484?hl=en",
+          "title": "Flexible Sampling general guidance - Search Console Help",
+          "description": "Allow limited free access to your site; help Google crawl paywalled contentIn order to better understand the potential impact of free sampling changes on Google users and publishers’ subscription mo",
+          "author": null,
+          "publisher": "Search Console Help",
+          "thumbnail": "https://lh3.googleusercontent.com/iyJZOYB-OnYWs0GqA-QFmBPpjL0PJMB-XyfpVu95XL4xqzCh5XU7ZQdUMWAzmHvaIqI=w512",
+          "icon": null
+        }
+      }
+    ],
+    [
+      "bookmark",
+      {
+        "url": "https://www.digitalinformationworld.com/2020/03/google-to-continue-showing-news-behind-paywalls-in-the-search-results.html",
+        "metadata": {
+          "url": "https://www.digitalinformationworld.com/2020/03/google-to-continue-showing-news-behind-paywalls-in-the-search-results.html",
+          "title": "Google to Continue Showing News Behind Paywalls in the Search Results",
+          "description": "Danny Sullivan said that Google wants to present the best information and in certain instances, such news is from subscription-based sites.",
+          "author": "Ali Siddiqui",
+          "publisher": "Digital Information World",
+          "thumbnail": "https://4.bp.blogspot.com/-lKYD4ilJkUg/XloNzs8qGOI/AAAAAAAANWI/FggDGQNdtvwfHwqwkOr2N2Scs9zFhBPiwCKgBGAsYHg/s1600/google-n-d.png",
+          "icon": "https://www.digitalinformationworld.com/favicon.ico"
+        }
+      }
+    ],
+    [
+      "hr",
+      {}
+    ]
+  ],
+  "markups": [
+    [
+      "strong"
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://developers.google.com/search/docs/data-types/paywalled-content"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/seo-notes/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/seo-on-page-optimisation/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/seo-links-and-linking/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/seo-helps-hinderences/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/seo-paywalls/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/seo-with-wordpress-and-yoast/"
+      ]
+    ]
+  ],
+  "sections": [
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Google has a number of approaches to indexing paywalled content. "
+        ]
+      ]
+    ],
+    [
+      1,
+      "h3",
+      [
+        [
+          0,
+          [
+            0,
+            0,
+            0
+          ],
+          3,
+          "Lead-in"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "With this option, the reader sees a snippet of the whole article, while the rest remains blocked to non-paying members. Google indexes the snippet alone and make ranking decisions based on that. "
+        ]
+      ]
+    ],
+    [
+      1,
+      "h3",
+      [
+        [
+          0,
+          [
+            0,
+            0,
+            0
+          ],
+          3,
+          "Metered"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Google has a strong preference for metered paywalls, which allow it to index all content. "
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "These both fall under Google's flexible sampling policy, which you can read here:"
+        ]
+      ]
+    ],
+    [
+      10,
+      0
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "If you're unwilling or unable to go that route, the other option is to find a system that allows Googlebot (the search crawler) to see the content as it it was a member - but use markup to indicate to Google that it's paywalled content, so you don't fall foul of Google's ban on cloaking. There's a developer article explaining "
+        ],
+        [
+          0,
+          [
+            1
+          ],
+          1,
+          "how to implement this in structured data"
+        ],
+        [
+          0,
+          [],
+          0,
+          "."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Google is philosophically happy to show people paywalled content in search results, as this story shows:"
+        ]
+      ]
+    ],
+    [
+      10,
+      1
+    ],
+    [
+      10,
+      2
+    ],
+    [
+      1,
+      "h3",
+      [
+        [
+          0,
+          [],
+          0,
+          "Read More:"
+        ]
+      ]
+    ],
+    [
+      3,
+      "ul",
+      [
+        [
+          [
+            0,
+            [
+              2
+            ],
+            1,
+            "The Basics"
+          ]
+        ],
+        [
+          [
+            0,
+            [
+              3
+            ],
+            1,
+            "On Page Optimisation"
+          ]
+        ],
+        [
+          [
+            0,
+            [
+              4
+            ],
+            1,
+            "Links and Linking"
+          ]
+        ],
+        [
+          [
+            0,
+            [
+              5
+            ],
+            1,
+            "Helps and Hindrances"
+          ]
+        ],
+        [
+          [
+            0,
+            [
+              6
+            ],
+            1,
+            "SEO & Paywalls"
+          ]
+        ],
+        [
+          [
+            0,
+            [
+              7
+            ],
+            1,
+            "SEO with WordPress"
+          ]
+        ]
+      ]
+    ]
+  ],
+  "ghostVersion": "3.0"
+}

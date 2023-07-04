@@ -1,0 +1,549 @@
+{
+  "version": "0.3.1",
+  "atoms": [],
+  "cards": [
+    [
+      "email-cta",
+      {
+        "showButton": true,
+        "showDividers": false,
+        "segment": "status:-free",
+        "alignment": "center",
+        "html": "",
+        "buttonText": "Click Here To Comment",
+        "buttonUrl": "__GHOST_URL__/biden-historic-tax-cut/#comments"
+      }
+    ],
+    [
+      "email-cta",
+      {
+        "showButton": true,
+        "showDividers": false,
+        "segment": "status:free",
+        "alignment": "center",
+        "html": "<p><strong><em>Please <a href=\"https://levernews.com/membership\">become a supporting subscriber</a>. You get exclusive podcasts, <a href=\"__GHOST_URL__/citizens-guide/\">digital publications</a>, and live events </em></strong>—<strong><em> and you support this journalism.</em></strong></p>",
+        "buttonText": "Upgrade",
+        "buttonUrl": "https://levernews.com/membership"
+      }
+    ],
+    [
+      "email",
+      {
+        "html": "<p><em><strong><a href=\"https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.levernews.com%2Fbiden-historic-tax-cut%2F&amp;amp;src=sdkpreparse\">Click to share on Facebook</a></strong></em></p>"
+      }
+    ],
+    [
+      "embed",
+      {
+        "url": "https://www.youtube.com/watch?v=fIPbOPRuwTI",
+        "html": "<iframe width=\"200\" height=\"113\" src=\"https://www.youtube.com/embed/fIPbOPRuwTI?feature=oembed\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+        "type": "video",
+        "metadata": {
+          "title": "Unite The Country Ad March 2022",
+          "author_name": "The Lever",
+          "author_url": "https://www.youtube.com/channel/UC3bHsedO3Es_56I5E8r4XFA",
+          "height": 113,
+          "width": 200,
+          "version": "1.0",
+          "provider_name": "YouTube",
+          "provider_url": "https://www.youtube.com/",
+          "thumbnail_height": 360,
+          "thumbnail_width": 480,
+          "thumbnail_url": "https://i.ytimg.com/vi/fIPbOPRuwTI/hqdefault.jpg"
+        }
+      }
+    ],
+    [
+      "embed",
+      {
+        "url": "https://www.youtube.com/watch?v=TlmhCqmjpVs",
+        "html": "<iframe width=\"200\" height=\"113\" src=\"https://www.youtube.com/embed/TlmhCqmjpVs?feature=oembed\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+        "type": "video",
+        "metadata": {
+          "title": "AZ Sue 30",
+          "author_name": "American Bridge 21st Century",
+          "author_url": "https://www.youtube.com/c/AmericanBridge21stCentury",
+          "height": 113,
+          "width": 200,
+          "version": "1.0",
+          "provider_name": "YouTube",
+          "provider_url": "https://www.youtube.com/",
+          "thumbnail_height": 360,
+          "thumbnail_width": 480,
+          "thumbnail_url": "https://i.ytimg.com/vi/TlmhCqmjpVs/hqdefault.jpg"
+        }
+      }
+    ],
+    [
+      "email-cta",
+      {
+        "showButton": true,
+        "showDividers": false,
+        "segment": "status:-free",
+        "alignment": "center",
+        "html": "",
+        "buttonText": "Click Here To Comment",
+        "buttonUrl": "__GHOST_URL__/biden-historic-tax-cut/#comments"
+      }
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "email-cta",
+      {
+        "showButton": true,
+        "showDividers": false,
+        "segment": "status:-free",
+        "alignment": "center",
+        "html": "",
+        "buttonText": "Tip Jar",
+        "buttonUrl": "https://dailyposter.outpost.pub/ghost-integration/60818189ad12f332071054b8/tips"
+      }
+    ],
+    [
+      "email-cta",
+      {
+        "showButton": true,
+        "showDividers": false,
+        "segment": "status:free",
+        "alignment": "center",
+        "html": "",
+        "buttonText": "Upgrade",
+        "buttonUrl": "https://levernews.com/membership"
+      }
+    ],
+    [
+      "email",
+      {
+        "html": "<p><em><strong>Help us spread the word! </strong>Please forward this email to family and friends.</em></p><p><em><strong>Was this email forwarded to you? </strong><a href=\"https://levernews.com/membership/\">Sign up for free</a> to receive original reporting like this in your inbox every day.</em></p>"
+      }
+    ]
+  ],
+  "markups": [
+    [
+      "a",
+      [
+        "href",
+        "https://publicfiles.fcc.gov/api/manager/download/b352204e-8ca4-7725-8199-b386311b31f4/ca476e17-7fb8-411d-b366-dd20ae2415fb.pdf"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://publicfiles.fcc.gov/api/manager/download/b352204e-8ca4-7725-8199-b386311b31f4/e5de2d89-8b2c-445f-93eb-6eacbc4a849a.pdf"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://fivethirtyeight.com/features/congress-found-an-easy-way-to-fix-child-poverty-then-it-walked-away/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.ncsl.org/research/human-services/child-tax-credit-overview.aspx#:~:text=Beginning%20July%2015%2C%202021%2C%2088,31%2C%202021."
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.nbcnews.com/business/business-news/millions-kids-thrust-back-poverty-child-tax-credit-expired-s-rcna13450"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.washingtonpost.com/us-policy/2022/02/17/child-tax-credit-poverty/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.filesforprogress.org/memos/Political-Effects-of-the-Expanded-CTC.pdf"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://twitter.com/EthanBWinter/status/1506661028083474438?"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.politico.com/f/?id=0000017b-cda3-d916-ad7b-efe75ef00000"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://prospect.org/politics/democrats-creating-their-own-october-surprise/"
+      ]
+    ],
+    [
+      "em"
+    ],
+    [
+      "strong"
+    ]
+  ],
+  "sections": [
+    [
+      10,
+      0
+    ],
+    [
+      10,
+      1
+    ],
+    [
+      10,
+      2
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Unite the Country, a super PAC that supports President Joe Biden, "
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "has been"
+        ],
+        [
+          0,
+          [],
+          0,
+          " "
+        ],
+        [
+          0,
+          [
+            1
+          ],
+          1,
+          "running"
+        ],
+        [
+          0,
+          [],
+          0,
+          " TV ads in Arizona praising Biden for delivering a big tax break to working-class Americans."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "“Joe Biden knows the pain families feel when tomorrow seems so uncertain,” says the ad. “It’s why he signed a historic middle-class tax cut.”"
+        ]
+      ]
+    ],
+    [
+      10,
+      3
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "There’s only one problem: That so-called “historic middle-class tax cut” expired last December, after Sen. Joe Manchin (D-W.Va.) refused to support Biden’s Build Back Better legislation."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "The expanded child tax credit "
+        ],
+        [
+          0,
+          [
+            2
+          ],
+          1,
+          "provided"
+        ],
+        [
+          0,
+          [],
+          0,
+          " most American parents — "
+        ],
+        [
+          0,
+          [
+            3
+          ],
+          1,
+          "nearly 90 percent"
+        ],
+        [
+          0,
+          [],
+          0,
+          " — with payments of $250 or $300 per month per kid. The White House has specifically "
+        ],
+        [
+          0,
+          [
+            4
+          ],
+          1,
+          "characterized"
+        ],
+        [
+          0,
+          [],
+          0,
+          " the child tax credit as “a historic tax cut for middle-class families.” The program’s expiration left millions more Americans in poverty. Child poverty "
+        ],
+        [
+          0,
+          [
+            5
+          ],
+          1,
+          "quickly spiked"
+        ],
+        [
+          0,
+          [],
+          0,
+          "."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "The Unite the Country ad offers a depressing preview of what Democrats’ message will look like in the midterm elections this year. Because Democratic lawmakers failed to pass the health care, climate, and anti-poverty spending legislation they debated for much of last year, they don’t have many legislative accomplishments to sell to voters."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "As a result, Unite the Country is now stuck touting an expired program, hoping voters will reward Democrats for a tax credit that is no longer helping their families. An advisor to the super PAC did not respond to a request for comment."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "The lack of policy deliverables is evident in other Democratic groups’ messaging, too. AB PAC, a super PAC founded by Democratic operative David Brock, is currently running TV ads in Arizona saying that “Joe Biden got handed a bag of garbage” and is “doing the best he can with the tools that he has.”"
+        ]
+      ]
+    ],
+    [
+      10,
+      4
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "According to a "
+        ],
+        [
+          0,
+          [
+            6
+          ],
+          1,
+          "recent analysis"
+        ],
+        [
+          0,
+          [],
+          0,
+          " by the polling outfit Data for Progress, Democrats are "
+        ],
+        [
+          0,
+          [
+            7
+          ],
+          1,
+          "unlikely"
+        ],
+        [
+          0,
+          [],
+          0,
+          " to see any political benefit from the temporary expansion of the child tax credit. While the organization initially found a slight approval bump for Biden among child tax credit recipients, “now-former CTC recipients approve of Biden at the same (or perhaps even lower) rate as similarly situated non-recipients,” the research group wrote last week."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Adding to the Democrats’ likely midterm woes is the expiration of another federal relief program they have touted as a selling point: the health insurance subsidies included in the party's American Rescue Plan, which the Biden administration previously "
+        ],
+        [
+          0,
+          [
+            8
+          ],
+          1,
+          "described"
+        ],
+        [
+          0,
+          [],
+          0,
+          " as “a historic tax cut to reduce Americans’ health care costs.”"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Those subsidies are set to expire at the end of the year, meaning that millions of Americans on individual health insurance plans "
+        ],
+        [
+          0,
+          [
+            9
+          ],
+          1,
+          "will receive notices"
+        ],
+        [
+          0,
+          [],
+          0,
+          " about increased premiums in October — right before the November elections."
+        ]
+      ]
+    ],
+    [
+      10,
+      5
+    ],
+    [
+      10,
+      6
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [
+            10,
+            11
+          ],
+          1,
+          "Our news organization relies on readers pitching in to support our journalism. "
+        ],
+        [
+          0,
+          [
+            10,
+            11
+          ],
+          3,
+          "If you like this story, please support "
+        ],
+        [
+          0,
+          [
+            11,
+            10,
+            11
+          ],
+          3,
+          "our"
+        ],
+        [
+          0,
+          [
+            10,
+            10,
+            11
+          ],
+          3,
+          " work."
+        ]
+      ]
+    ],
+    [
+      10,
+      7
+    ],
+    [
+      10,
+      8
+    ],
+    [
+      10,
+      9
+    ]
+  ],
+  "ghostVersion": "4.0"
+}

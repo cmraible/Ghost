@@ -1,0 +1,16 @@
+{
+  "root": {
+    "children": [
+      {
+        "type": "markdown",
+        "cardName": "card-markdown",
+        "markdown": "[Ralf Herbrich](https://web.archive.org/web/20110509183455/http://research.microsoft.com/en-us/people/rherb/), which we all know as the *other* search engine, is up and talking about making search more social. This is something that Google are starting to play with, but which is not seen as their forte. An opportunity for the Bing folks? Perhaps.\n\nHerbrich kicked off by setting a pretty damn familiar scene. He presented us with a lot of data to persuade us that social is one of the most important data sets on the web, if for no other reason than sheer size:\n\n![Social data signals in comparison with other sources](__GHOST_URL__/content/images/2020/09/bigsocialdata.jpg)\n\nBing has a pretty deep intergration with Facebook, giving you a set of social information overlaid on the raw search data that your query produces. I can’t decide if the map search he showed, which brought up which of his friends lived in that area was cool or creepy…\n\nThey started a research project about a year ago to try and determine link quality on Twitter. Tweets with links appear to be perceived as of better quality than those without…\n\nTwitter is an incredible fast news distribution system, but unless you find the right 40 or 50 people, it can be hard to get what you want. So, they want to build a database of what people like or don’t like by the links they share on Twitter, and comparative traces from others like them.  But how do you predict whether they will like a new product? Metadata.Metadata about people and products (like actor, director, genre etc for movies) allow you to build a sophisticated taste matching matrix.\n\n### [Project Emporia](https://web.archive.org/web/20110715120726/https://www.projectemporia.com/#/topStories):\n\nStrip out all your tweets without links, and run them through this matchbox matrix discussed above, which matches people types with what the algorithm thinks they like or not. This can feed into search results even for something brand new – but you need to feed back results on individual pages straight away.\n\nProject Emporia then builds you a newspaper (this customised news pages based on social sharing are all the rage, aren’t they?)\n\nSome discussion in the questions as to wether you will reshape your friendships based on your search results. No-one wanted to admit that this will happen… But it’s an interesting idea. I can’t help feeling that it brings a large element of recommendation into search – which is great – but it brings the danger of the bubble mindset, where you never really see anything challenging to you…\n\n\n"
+      }
+    ],
+    "direction": null,
+    "format": "",
+    "indent": 0,
+    "type": "root",
+    "version": 1
+  }
+}

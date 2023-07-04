@@ -1,0 +1,2391 @@
+{
+  "version": "0.3.1",
+  "atoms": [],
+  "cards": [
+    [
+      "email",
+      {
+        "html": "<p>Hello {first_name, \"there\"},</p>"
+      }
+    ],
+    [
+      "embed",
+      {
+        "url": "https://twitter.com/joannag/status/1588419374150750208?s=61&t=B9MUKRRgGGVBq0pYj8d5cA",
+        "html": "<blockquote class=\"twitter-tweet\"><p lang=\"en\" dir=\"ltr\">What a wild ride. <br><br>Thank you to tweeps past and present who made my time at Twitter so special. <br><br>And the biggest thank you to Curation - it is a damn privilege to have led such an incredible team of rockstars. <br><br>🫡💙 <a href=\"https://t.co/lBWEGi1ISC\">https://t.co/lBWEGi1ISC</a></p>&mdash; J Geary ⚡️ (@JoannaG) <a href=\"https://twitter.com/JoannaG/status/1588419374150750208?ref_src=twsrc%5Etfw\">November 4, 2022</a></blockquote>\n<script async src=\"https://platform.twitter.com/widgets.js\" charset=\"utf-8\"></script>\n",
+        "type": "twitter",
+        "metadata": {
+          "url": "https://twitter.com/JoannaG/status/1588419374150750208",
+          "author_name": "J Geary ⚡️",
+          "author_url": "https://twitter.com/JoannaG",
+          "width": 550,
+          "height": null,
+          "cache_age": "3153600000",
+          "provider_name": "Twitter",
+          "provider_url": "http://www.twitter.com/",
+          "version": "1.0",
+          "tweet_data": {
+            "lang": "en",
+            "text": "What a wild ride. \n\nThank you to tweeps past and present who made my time at Twitter so special. \n\nAnd the biggest thank you to Curation - it is a damn privilege to have led such an incredible team of rockstars. \n\n🫡💙 https://t.co/lBWEGi1ISC",
+            "author_id": "13010422",
+            "conversation_id": "1588419374150750208",
+            "source": "Twitter for  iPhone",
+            "created_at": "2022-11-04T06:34:24.000Z",
+            "referenced_tweets": [
+              {
+                "type": "quoted",
+                "id": "399816014021410816"
+              }
+            ],
+            "entities": {
+              "urls": [
+                {
+                  "start": 217,
+                  "end": 240,
+                  "url": "https://t.co/lBWEGi1ISC",
+                  "expanded_url": "https://twitter.com/lewiswiltshire/status/399816014021410816",
+                  "display_url": "twitter.com/lewiswiltshire…"
+                }
+              ]
+            },
+            "id": "1588419374150750208",
+            "edit_history_tweet_ids": [
+              "1588419374150750208"
+            ],
+            "possibly_sensitive": false,
+            "public_metrics": {
+              "retweet_count": 5,
+              "reply_count": 70,
+              "like_count": 310,
+              "quote_count": 3
+            },
+            "reply_settings": "everyone",
+            "includes": {
+              "users": [
+                {
+                  "description": "Content x tech | prev @Twitter @TheGuardian @TheTimes | She had high, apple-pie-in-the-sky hopes 🐏 | She/her",
+                  "public_metrics": {
+                    "followers_count": 23224,
+                    "following_count": 5615,
+                    "tweet_count": 54400,
+                    "listed_count": 1336
+                  },
+                  "created_at": "2008-02-03T14:35:49.000Z",
+                  "pinned_tweet_id": "1552021905909194758",
+                  "profile_image_url": "https://pbs.twimg.com/profile_images/1448288367553228801/21sqih_1_normal.jpg",
+                  "verified": false,
+                  "username": "JoannaG",
+                  "name": "J Geary ⚡️",
+                  "id": "13010422",
+                  "protected": false,
+                  "entities": {
+                    "description": {
+                      "mentions": [
+                        {
+                          "start": 22,
+                          "end": 30,
+                          "username": "Twitter"
+                        },
+                        {
+                          "start": 31,
+                          "end": 43,
+                          "username": "TheGuardian"
+                        },
+                        {
+                          "start": 44,
+                          "end": 53,
+                          "username": "TheTimes"
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "description": "CEO of @7League - global sports digital agency at the heart of @IMG/@Endeavor. Previously @Twitter Head of Sport / @BBCSport Editor. ⚽️🏈 Superpower: sobriety.",
+                  "public_metrics": {
+                    "followers_count": 25010,
+                    "following_count": 3340,
+                    "tweet_count": 76885,
+                    "listed_count": 571
+                  },
+                  "created_at": "2008-03-01T20:33:50.000Z",
+                  "pinned_tweet_id": "1574821663723618306",
+                  "profile_image_url": "https://pbs.twimg.com/profile_images/909396223018356736/Xu2pw7NJ_normal.jpg",
+                  "url": "https://t.co/4vGs1plp2O",
+                  "verified": false,
+                  "username": "LewisWiltshire",
+                  "name": "Lewis Wiltshire",
+                  "id": "14066247",
+                  "protected": false,
+                  "entities": {
+                    "url": {
+                      "urls": [
+                        {
+                          "start": 0,
+                          "end": 23,
+                          "url": "https://t.co/4vGs1plp2O",
+                          "expanded_url": "http://img.com",
+                          "display_url": "img.com"
+                        }
+                      ]
+                    },
+                    "description": {
+                      "mentions": [
+                        {
+                          "start": 7,
+                          "end": 15,
+                          "username": "7League"
+                        },
+                        {
+                          "start": 63,
+                          "end": 67,
+                          "username": "IMG"
+                        },
+                        {
+                          "start": 68,
+                          "end": 77,
+                          "username": "Endeavor"
+                        },
+                        {
+                          "start": 90,
+                          "end": 98,
+                          "username": "Twitter"
+                        },
+                        {
+                          "start": 115,
+                          "end": 124,
+                          "username": "BBCSport"
+                        }
+                      ]
+                    }
+                  }
+                }
+              ],
+              "tweets": [
+                {
+                  "attachments": {
+                    "media_keys": [
+                      "3_399816013870411776"
+                    ]
+                  },
+                  "lang": "en",
+                  "text": "Ready when you are @JoannaUK. http://t.co/blHyQa1Asq",
+                  "author_id": "14066247",
+                  "conversation_id": "399816014021410816",
+                  "source": "iOS",
+                  "created_at": "2013-11-11T08:29:00.000Z",
+                  "entities": {
+                    "urls": [
+                      {
+                        "start": 30,
+                        "end": 52,
+                        "url": "http://t.co/blHyQa1Asq",
+                        "expanded_url": "https://twitter.com/LewisWiltshire/status/399816014021410816/photo/1",
+                        "display_url": "pic.twitter.com/blHyQa1Asq",
+                        "media_key": "3_399816013870411776"
+                      }
+                    ],
+                    "mentions": [
+                      {
+                        "start": 19,
+                        "end": 28,
+                        "username": "JoannaUK",
+                        "id": "2964191703"
+                      }
+                    ]
+                  },
+                  "id": "399816014021410816",
+                  "edit_history_tweet_ids": [
+                    "399816014021410816"
+                  ],
+                  "possibly_sensitive": false,
+                  "public_metrics": {
+                    "retweet_count": 0,
+                    "reply_count": 2,
+                    "like_count": 5,
+                    "quote_count": 2
+                  },
+                  "reply_settings": "everyone"
+                }
+              ]
+            }
+          }
+        }
+      }
+    ],
+    [
+      "embed",
+      {
+        "url": "https://twitter.com/andypiper/status/1588453008597196800?s=61&t=B9MUKRRgGGVBq0pYj8d5cA",
+        "html": "<blockquote class=\"twitter-tweet\"><p lang=\"en\" dir=\"ltr\">It is done. <br><br>I’m incredibly proud of the <a href=\"https://twitter.com/TwitterDev?ref_src=twsrc%5Etfw\">@TwitterDev</a> team(s), and the folks I’ve worked with across nearly 9 years to keep the API and developer platform vibrant.<br><br>To those in our developer community: thank you. It was my honour to serve you.</p>&mdash; Andy Piper (@andypiper) <a href=\"https://twitter.com/andypiper/status/1588453008597196800?ref_src=twsrc%5Etfw\">November 4, 2022</a></blockquote>\n<script async src=\"https://platform.twitter.com/widgets.js\" charset=\"utf-8\"></script>\n",
+        "type": "twitter",
+        "metadata": {
+          "url": "https://twitter.com/andypiper/status/1588453008597196800",
+          "author_name": "Andy Piper",
+          "author_url": "https://twitter.com/andypiper",
+          "width": 550,
+          "height": null,
+          "cache_age": "3153600000",
+          "provider_name": "Twitter",
+          "provider_url": "http://www.twitter.com/",
+          "version": "1.0",
+          "tweet_data": {
+            "lang": "en",
+            "text": "It is done. \n\nI’m incredibly proud of the @TwitterDev team(s), and the folks I’ve worked with across nearly 9 years to keep the API and developer platform vibrant.\n\nTo those in our developer community: thank you. It was my honour to serve you.",
+            "author_id": "786491",
+            "conversation_id": "1588453008597196800",
+            "source": "Twitter for  iPhone",
+            "created_at": "2022-11-04T08:48:03.000Z",
+            "entities": {
+              "annotations": [
+                {
+                  "start": 128,
+                  "end": 130,
+                  "probability": 0.4987,
+                  "type": "Other",
+                  "normalized_text": "API"
+                }
+              ],
+              "mentions": [
+                {
+                  "start": 42,
+                  "end": 53,
+                  "username": "TwitterDev",
+                  "id": "2244994945"
+                }
+              ]
+            },
+            "id": "1588453008597196800",
+            "edit_history_tweet_ids": [
+              "1588453008597196800"
+            ],
+            "possibly_sensitive": false,
+            "public_metrics": {
+              "retweet_count": 7,
+              "reply_count": 56,
+              "like_count": 144,
+              "quote_count": 2
+            },
+            "context_annotations": [
+              {
+                "domain": {
+                  "id": "30",
+                  "name": "Entities [Entity Service]",
+                  "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain"
+                },
+                "entity": {
+                  "id": "781974596752842752",
+                  "name": "Services"
+                }
+              },
+              {
+                "domain": {
+                  "id": "47",
+                  "name": "Brand",
+                  "description": "Brands and Companies"
+                },
+                "entity": {
+                  "id": "10045225402",
+                  "name": "Twitter"
+                }
+              }
+            ],
+            "reply_settings": "everyone",
+            "includes": {
+              "users": [
+                {
+                  "description": "Dev Rel professional. Open Source tinkerer. Online explorer. Podcaster @GamesAtWork_Biz.",
+                  "public_metrics": {
+                    "followers_count": 17870,
+                    "following_count": 3386,
+                    "tweet_count": 138002,
+                    "listed_count": 820
+                  },
+                  "created_at": "2007-02-21T15:14:48.000Z",
+                  "pinned_tweet_id": "1587857243340406790",
+                  "profile_image_url": "https://pbs.twimg.com/profile_images/1587468632170307590/6qBFP-v3_normal.jpg",
+                  "url": "https://t.co/nOF4FvLR2u",
+                  "verified": false,
+                  "username": "andypiper",
+                  "location": "Kingston upon Thames, London",
+                  "name": "Andy Piper",
+                  "id": "786491",
+                  "protected": false,
+                  "entities": {
+                    "url": {
+                      "urls": [
+                        {
+                          "start": 0,
+                          "end": 23,
+                          "url": "https://t.co/nOF4FvLR2u",
+                          "expanded_url": "https://andypiper.me",
+                          "display_url": "andypiper.me"
+                        }
+                      ]
+                    },
+                    "description": {
+                      "mentions": [
+                        {
+                          "start": 71,
+                          "end": 87,
+                          "username": "GamesAtWork_Biz"
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "description": "The voice of the #TwitterDev team and your official source for updates, news, and events, related to the #TwitterAPI.",
+                  "public_metrics": {
+                    "followers_count": 557631,
+                    "following_count": 1993,
+                    "tweet_count": 4053,
+                    "listed_count": 2077
+                  },
+                  "created_at": "2013-12-14T04:35:55.000Z",
+                  "profile_image_url": "https://pbs.twimg.com/profile_images/1445764922474827784/W2zEPN7U_normal.jpg",
+                  "url": "https://t.co/9wI31m3ELF",
+                  "verified": true,
+                  "username": "TwitterDev",
+                  "location": "127.0.0.1",
+                  "name": "Twitter Dev",
+                  "id": "2244994945",
+                  "protected": false,
+                  "entities": {
+                    "url": {
+                      "urls": [
+                        {
+                          "start": 0,
+                          "end": 23,
+                          "url": "https://t.co/9wI31m3ELF",
+                          "expanded_url": "https://developer.twitter.com/en/community",
+                          "display_url": "developer.twitter.com/en/community"
+                        }
+                      ]
+                    },
+                    "description": {
+                      "hashtags": [
+                        {
+                          "start": 17,
+                          "end": 28,
+                          "tag": "TwitterDev"
+                        },
+                        {
+                          "start": 105,
+                          "end": 116,
+                          "tag": "TwitterAPI"
+                        }
+                      ]
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    ],
+    [
+      "embed",
+      {
+        "url": "https://twitter.com/nickeaney/status/1588375925468852224?s=61&t=B9MUKRRgGGVBq0pYj8d5cA",
+        "html": "<blockquote class=\"twitter-tweet\"><p lang=\"en\" dir=\"ltr\">So grateful to have had the opportunity to work with so many amazing people <a href=\"https://twitter.com/hashtag/LoveWhereYouWork?src=hash&amp;ref_src=twsrc%5Etfw\">#LoveWhereYouWork</a> <a href=\"https://t.co/UBMtfxrJna\">pic.twitter.com/UBMtfxrJna</a></p>&mdash; Nic Keaney (@NicKeaney) <a href=\"https://twitter.com/NicKeaney/status/1588375925468852224?ref_src=twsrc%5Etfw\">November 4, 2022</a></blockquote>\n<script async src=\"https://platform.twitter.com/widgets.js\" charset=\"utf-8\"></script>\n",
+        "type": "twitter",
+        "metadata": {
+          "url": "https://twitter.com/NicKeaney/status/1588375925468852224",
+          "author_name": "Nic Keaney",
+          "author_url": "https://twitter.com/NicKeaney",
+          "width": 550,
+          "height": null,
+          "cache_age": "3153600000",
+          "provider_name": "Twitter",
+          "provider_url": "http://www.twitter.com/",
+          "version": "1.0",
+          "tweet_data": {
+            "attachments": {
+              "media_keys": [
+                "3_1588375917885366273"
+              ]
+            },
+            "lang": "en",
+            "entities": {
+              "urls": [
+                {
+                  "start": 94,
+                  "end": 117,
+                  "url": "https://t.co/UBMtfxrJna",
+                  "expanded_url": "https://twitter.com/NicKeaney/status/1588375925468852224/photo/1",
+                  "display_url": "pic.twitter.com/UBMtfxrJna",
+                  "media_key": "3_1588375917885366273"
+                }
+              ],
+              "hashtags": [
+                {
+                  "start": 76,
+                  "end": 93,
+                  "tag": "LoveWhereYouWork"
+                }
+              ]
+            },
+            "id": "1588375925468852224",
+            "created_at": "2022-11-04T03:41:45.000Z",
+            "conversation_id": "1588375925468852224",
+            "source": "Twitter for iPhone",
+            "possibly_sensitive": false,
+            "public_metrics": {
+              "retweet_count": 8,
+              "reply_count": 14,
+              "like_count": 130,
+              "quote_count": 1
+            },
+            "author_id": "857113664",
+            "reply_settings": "everyone",
+            "text": "So grateful to have had the opportunity to work with so many amazing people #LoveWhereYouWork https://t.co/UBMtfxrJna",
+            "edit_history_tweet_ids": [
+              "1588375925468852224"
+            ],
+            "includes": {
+              "media": [
+                {
+                  "url": "https://pbs.twimg.com/media/FgsLe1NXoAEjx_U.jpg",
+                  "height": 1536,
+                  "width": 2048,
+                  "media_key": "3_1588375917885366273",
+                  "type": "photo"
+                }
+              ],
+              "users": [
+                {
+                  "name": "Nic Keaney",
+                  "verified": true,
+                  "entities": {
+                    "url": {
+                      "urls": [
+                        {
+                          "start": 0,
+                          "end": 23,
+                          "url": "https://t.co/TyN8YdUxj1",
+                          "expanded_url": "https://www.forbes.com/profile/nicola-keaney/#7719b0453b9e",
+                          "display_url": "forbes.com/profile/nicola…"
+                        }
+                      ]
+                    },
+                    "description": {
+                      "hashtags": [
+                        {
+                          "start": 44,
+                          "end": 53,
+                          "tag": "Breaking"
+                        },
+                        {
+                          "start": 72,
+                          "end": 78,
+                          "tag": "OSINT"
+                        },
+                        {
+                          "start": 114,
+                          "end": 130,
+                          "tag": "Forbes30Under30"
+                        }
+                      ],
+                      "mentions": [
+                        {
+                          "start": 7,
+                          "end": 15,
+                          "username": "Twitter"
+                        },
+                        {
+                          "start": 18,
+                          "end": 22,
+                          "username": "ITN"
+                        },
+                        {
+                          "start": 23,
+                          "end": 32,
+                          "username": "Dataminr"
+                        },
+                        {
+                          "start": 33,
+                          "end": 41,
+                          "username": "SkyNews"
+                        },
+                        {
+                          "start": 95,
+                          "end": 111,
+                          "username": "JschofieldTrust"
+                        }
+                      ]
+                    }
+                  },
+                  "protected": false,
+                  "created_at": "2012-10-01T22:25:00.000Z",
+                  "location": "London",
+                  "public_metrics": {
+                    "followers_count": 19919,
+                    "following_count": 6128,
+                    "tweet_count": 19864,
+                    "listed_count": 166
+                  },
+                  "pinned_tweet_id": "1439628795460337666",
+                  "profile_image_url": "https://pbs.twimg.com/profile_images/1391906278709075971/5kmkvpeK_normal.jpg",
+                  "url": "https://t.co/TyN8YdUxj1",
+                  "username": "NicKeaney",
+                  "id": "857113664",
+                  "description": "Trends @Twitter | @ITN @Dataminr @SkyNews | #Breaking News Specialist | #OSINT | Senior Fellow @JschofieldTrust | #Forbes30Under30 | 🌈 | she/her/foul mouth"
+                }
+              ]
+            }
+          }
+        }
+      }
+    ],
+    [
+      "embed",
+      {
+        "url": "https://twitter.com/elonmusk/status/1587500624098246656?s=61&t=nulAf7O3yl8Vu4wxYvbHQA",
+        "html": "<blockquote class=\"twitter-tweet\"><p lang=\"en\" dir=\"ltr\">And paywall bypass for publishers willing to work with us</p>&mdash; Elon Musk (@elonmusk) <a href=\"https://twitter.com/elonmusk/status/1587500624098246656?ref_src=twsrc%5Etfw\">November 1, 2022</a></blockquote>\n<script async src=\"https://platform.twitter.com/widgets.js\" charset=\"utf-8\"></script>\n",
+        "type": "twitter",
+        "metadata": {
+          "url": "https://twitter.com/elonmusk/status/1587500624098246656",
+          "author_name": "Elon Musk",
+          "author_url": "https://twitter.com/elonmusk",
+          "width": 550,
+          "height": null,
+          "cache_age": "3153600000",
+          "provider_name": "Twitter",
+          "provider_url": "http://www.twitter.com/",
+          "version": "1.0",
+          "tweet_data": {
+            "lang": "en",
+            "text": "And paywall bypass for publishers willing to work with us",
+            "edit_history_tweet_ids": [
+              "1587500624098246656"
+            ],
+            "possibly_sensitive": false,
+            "context_annotations": [
+              {
+                "domain": {
+                  "id": "46",
+                  "name": "Business Taxonomy",
+                  "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+                },
+                "entity": {
+                  "id": "1557696848252391426",
+                  "name": "Financial Services Business",
+                  "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks "
+                }
+              },
+              {
+                "domain": {
+                  "id": "46",
+                  "name": "Business Taxonomy",
+                  "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+                },
+                "entity": {
+                  "id": "1557697333571112960",
+                  "name": "Technology Business",
+                  "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares"
+                }
+              },
+              {
+                "domain": {
+                  "id": "10",
+                  "name": "Person",
+                  "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                  "id": "808713037230157824",
+                  "name": "Elon Musk",
+                  "description": "Elon Musk"
+                }
+              },
+              {
+                "domain": {
+                  "id": "65",
+                  "name": "Interests and Hobbies Vertical",
+                  "description": "Top level interests and hobbies groupings, like Food or Travel"
+                },
+                "entity": {
+                  "id": "781974596148793345",
+                  "name": "Business & finance"
+                }
+              },
+              {
+                "domain": {
+                  "id": "66",
+                  "name": "Interests and Hobbies Category",
+                  "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+                },
+                "entity": {
+                  "id": "857878777191211008",
+                  "name": "Leadership",
+                  "description": "Leadership"
+                }
+              },
+              {
+                "domain": {
+                  "id": "131",
+                  "name": "Unified Twitter Taxonomy",
+                  "description": "A taxonomy of user interests. "
+                },
+                "entity": {
+                  "id": "808713037230157824",
+                  "name": "Elon Musk",
+                  "description": "Elon Musk"
+                }
+              },
+              {
+                "domain": {
+                  "id": "131",
+                  "name": "Unified Twitter Taxonomy",
+                  "description": "A taxonomy of user interests. "
+                },
+                "entity": {
+                  "id": "1091420346660470784",
+                  "name": "Tech personalities",
+                  "description": "Tech Professionals"
+                }
+              },
+              {
+                "domain": {
+                  "id": "131",
+                  "name": "Unified Twitter Taxonomy",
+                  "description": "A taxonomy of user interests. "
+                },
+                "entity": {
+                  "id": "1166406108623163392",
+                  "name": "Business personalities"
+                }
+              }
+            ],
+            "conversation_id": "1587498907336118274",
+            "id": "1587500624098246656",
+            "in_reply_to_user_id": "44196397",
+            "reply_settings": "everyone",
+            "source": "Twitter for iPhone",
+            "referenced_tweets": [
+              {
+                "type": "replied_to",
+                "id": "1587500060853424129"
+              }
+            ],
+            "public_metrics": {
+              "retweet_count": 6952,
+              "reply_count": 3359,
+              "like_count": 110701,
+              "quote_count": 983
+            },
+            "author_id": "44196397",
+            "created_at": "2022-11-01T17:43:37.000Z",
+            "includes": {
+              "users": [
+                {
+                  "description": "Twitter Complaint Hotline Operator",
+                  "created_at": "2009-06-02T20:12:29.000Z",
+                  "name": "Elon Musk",
+                  "pinned_tweet_id": "1587899771091566595",
+                  "verified": true,
+                  "location": "Hell",
+                  "profile_image_url": "https://pbs.twimg.com/profile_images/1587290337587904512/Y4s_eu5O_normal.jpg",
+                  "public_metrics": {
+                    "followers_count": 113923903,
+                    "following_count": 128,
+                    "tweet_count": 20025,
+                    "listed_count": 100702
+                  },
+                  "id": "44196397",
+                  "username": "elonmusk",
+                  "protected": false
+                }
+              ],
+              "tweets": [
+                {
+                  "lang": "en",
+                  "text": "You will also get:\n- Priority in replies, mentions &amp; search, which is essential to defeat spam/scam\n- Ability to post long video &amp; audio\n- Half as many ads",
+                  "edit_history_tweet_ids": [
+                    "1587500060853424129"
+                  ],
+                  "possibly_sensitive": false,
+                  "context_annotations": [
+                    {
+                      "domain": {
+                        "id": "46",
+                        "name": "Business Taxonomy",
+                        "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+                      },
+                      "entity": {
+                        "id": "1557696848252391426",
+                        "name": "Financial Services Business",
+                        "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks "
+                      }
+                    },
+                    {
+                      "domain": {
+                        "id": "46",
+                        "name": "Business Taxonomy",
+                        "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+                      },
+                      "entity": {
+                        "id": "1557697333571112960",
+                        "name": "Technology Business",
+                        "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares"
+                      }
+                    },
+                    {
+                      "domain": {
+                        "id": "10",
+                        "name": "Person",
+                        "description": "Named people in the world like Nelson Mandela"
+                      },
+                      "entity": {
+                        "id": "808713037230157824",
+                        "name": "Elon Musk",
+                        "description": "Elon Musk"
+                      }
+                    },
+                    {
+                      "domain": {
+                        "id": "65",
+                        "name": "Interests and Hobbies Vertical",
+                        "description": "Top level interests and hobbies groupings, like Food or Travel"
+                      },
+                      "entity": {
+                        "id": "781974596148793345",
+                        "name": "Business & finance"
+                      }
+                    },
+                    {
+                      "domain": {
+                        "id": "66",
+                        "name": "Interests and Hobbies Category",
+                        "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+                      },
+                      "entity": {
+                        "id": "857878777191211008",
+                        "name": "Leadership",
+                        "description": "Leadership"
+                      }
+                    },
+                    {
+                      "domain": {
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy",
+                        "description": "A taxonomy of user interests. "
+                      },
+                      "entity": {
+                        "id": "808713037230157824",
+                        "name": "Elon Musk",
+                        "description": "Elon Musk"
+                      }
+                    },
+                    {
+                      "domain": {
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy",
+                        "description": "A taxonomy of user interests. "
+                      },
+                      "entity": {
+                        "id": "1091420346660470784",
+                        "name": "Tech personalities",
+                        "description": "Tech Professionals"
+                      }
+                    },
+                    {
+                      "domain": {
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy",
+                        "description": "A taxonomy of user interests. "
+                      },
+                      "entity": {
+                        "id": "1166406108623163392",
+                        "name": "Business personalities"
+                      }
+                    }
+                  ],
+                  "conversation_id": "1587498907336118274",
+                  "id": "1587500060853424129",
+                  "in_reply_to_user_id": "44196397",
+                  "reply_settings": "everyone",
+                  "source": "Twitter for iPhone",
+                  "referenced_tweets": [
+                    {
+                      "type": "replied_to",
+                      "id": "1587499283573530625"
+                    }
+                  ],
+                  "public_metrics": {
+                    "retweet_count": 9856,
+                    "reply_count": 8621,
+                    "like_count": 133513,
+                    "quote_count": 6914
+                  },
+                  "author_id": "44196397",
+                  "created_at": "2022-11-01T17:41:23.000Z"
+                }
+              ]
+            }
+          }
+        }
+      }
+    ],
+    [
+      "embed",
+      {
+        "url": "https://twitter.com/andrewhaigh/status/1588468986596859904?s=61&t=B9MUKRRgGGVBq0pYj8d5cA",
+        "html": "<blockquote class=\"twitter-tweet\"><p lang=\"en\" dir=\"ltr\">So Twitter’s Curation team is no more.<br><br>This site 👇 was recently launched to tell the world about our work. Give it a look for two reasons:<br><br>1) to see how it will impact your experience <br>2) if you want to hire the people behind it, get in touch via DM<a href=\"https://t.co/vGdlDSYh8r\">https://t.co/vGdlDSYh8r</a></p>&mdash; Andrew Haigh (@AndrewHaigh) <a href=\"https://twitter.com/AndrewHaigh/status/1588468986596859904?ref_src=twsrc%5Etfw\">November 4, 2022</a></blockquote>\n<script async src=\"https://platform.twitter.com/widgets.js\" charset=\"utf-8\"></script>\n",
+        "type": "twitter",
+        "metadata": {
+          "url": "https://twitter.com/AndrewHaigh/status/1588468986596859904",
+          "author_name": "Andrew Haigh",
+          "author_url": "https://twitter.com/AndrewHaigh",
+          "width": 550,
+          "height": null,
+          "cache_age": "3153600000",
+          "provider_name": "Twitter",
+          "provider_url": "http://www.twitter.com/",
+          "version": "1.0",
+          "tweet_data": {
+            "lang": "en",
+            "text": "So Twitter’s Curation team is no more.\n\nThis site 👇 was recently launched to tell the world about our work. Give it a look for two reasons:\n\n1) to see how it will impact your experience \n2) if you want to hire the people behind it, get in touch via DM\n\nhttps://t.co/vGdlDSYh8r",
+            "edit_history_tweet_ids": [
+              "1588468986596859904"
+            ],
+            "possibly_sensitive": false,
+            "context_annotations": [
+              {
+                "domain": {
+                  "id": "30",
+                  "name": "Entities [Entity Service]",
+                  "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain"
+                },
+                "entity": {
+                  "id": "781974596752842752",
+                  "name": "Services"
+                }
+              },
+              {
+                "domain": {
+                  "id": "47",
+                  "name": "Brand",
+                  "description": "Brands and Companies"
+                },
+                "entity": {
+                  "id": "10045225402",
+                  "name": "Twitter"
+                }
+              }
+            ],
+            "conversation_id": "1588468986596859904",
+            "id": "1588468986596859904",
+            "reply_settings": "everyone",
+            "source": "Twitter for iPhone",
+            "entities": {
+              "urls": [
+                {
+                  "start": 253,
+                  "end": 276,
+                  "url": "https://t.co/vGdlDSYh8r",
+                  "expanded_url": "https://twitter.com/i/en/curation",
+                  "display_url": "twitter.com/i/en/curation",
+                  "images": [
+                    {
+                      "url": "https://pbs.twimg.com/news_img/1588416942209003520/L7UqxVUe?format=jpg&name=orig",
+                      "width": 768,
+                      "height": 432
+                    },
+                    {
+                      "url": "https://pbs.twimg.com/news_img/1588416942209003520/L7UqxVUe?format=jpg&name=150x150",
+                      "width": 150,
+                      "height": 150
+                    }
+                  ],
+                  "status": 200,
+                  "title": "Curation on Twitter",
+                  "description": "The Curation team at Twitter is responsible for creating Moments, Trends descriptions, and Topics. Learn about their guidelines and advisory team and share your feedback.",
+                  "unwound_url": "https://twitter.com/i/en/curation"
+                }
+              ]
+            },
+            "public_metrics": {
+              "retweet_count": 38,
+              "reply_count": 1,
+              "like_count": 89,
+              "quote_count": 12
+            },
+            "author_id": "20483883",
+            "created_at": "2022-11-04T09:51:33.000Z",
+            "includes": {
+              "users": [
+                {
+                  "description": "Ex @Twitter, forever Tweep. #LoveWhereYouWorked. Proud Dad, Yorkshireman, #lufc fan.",
+                  "created_at": "2009-02-10T01:26:35.000Z",
+                  "name": "Andrew Haigh",
+                  "pinned_tweet_id": "1588417701222879233",
+                  "verified": false,
+                  "location": "North East, England",
+                  "url": "https://t.co/zolsfTqBV2",
+                  "profile_image_url": "https://pbs.twimg.com/profile_images/1588503942434004993/3tngGzOe_normal.jpg",
+                  "public_metrics": {
+                    "followers_count": 19771,
+                    "following_count": 1032,
+                    "tweet_count": 51774,
+                    "listed_count": 237
+                  },
+                  "id": "20483883",
+                  "username": "AndrewHaigh",
+                  "protected": false,
+                  "entities": {
+                    "url": {
+                      "urls": [
+                        {
+                          "start": 0,
+                          "end": 23,
+                          "url": "https://t.co/zolsfTqBV2",
+                          "expanded_url": "https://www.linkedin.com/in/andrewjohnhaigh",
+                          "display_url": "linkedin.com/in/andrewjohnh…"
+                        }
+                      ]
+                    },
+                    "description": {
+                      "hashtags": [
+                        {
+                          "start": 28,
+                          "end": 47,
+                          "tag": "LoveWhereYouWorked"
+                        },
+                        {
+                          "start": 74,
+                          "end": 79,
+                          "tag": "lufc"
+                        }
+                      ],
+                      "mentions": [
+                        {
+                          "start": 3,
+                          "end": 11,
+                          "username": "Twitter"
+                        }
+                      ]
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "embed",
+      {
+        "url": "https://twitter.com/caseynewton/status/1588302344176816128?s=61&t=nulAf7O3yl8Vu4wxYvbHQA",
+        "html": "<blockquote class=\"twitter-tweet\"><p lang=\"en\" dir=\"ltr\">Some Twitter news as we wait for layoffs to hit:<br><br>- Its Revue newsletter product will be sunset by end of year<br>- ‘Notes’ longform writing product is on indefinite &#39;pause&#39;<br>- Details on the Vine reboot<br><br>Subscribe to read ➡️ <a href=\"https://t.co/CoIClOB6vh\">https://t.co/CoIClOB6vh</a></p>&mdash; Casey Newton (@CaseyNewton) <a href=\"https://twitter.com/CaseyNewton/status/1588302344176816128?ref_src=twsrc%5Etfw\">November 3, 2022</a></blockquote>\n<script async src=\"https://platform.twitter.com/widgets.js\" charset=\"utf-8\"></script>\n",
+        "type": "twitter",
+        "metadata": {
+          "url": "https://twitter.com/CaseyNewton/status/1588302344176816128",
+          "author_name": "Casey Newton",
+          "author_url": "https://twitter.com/CaseyNewton",
+          "width": 550,
+          "height": null,
+          "cache_age": "3153600000",
+          "provider_name": "Twitter",
+          "provider_url": "http://www.twitter.com/",
+          "version": "1.0",
+          "tweet_data": {
+            "context_annotations": [
+              {
+                "domain": {
+                  "id": "10",
+                  "name": "Person",
+                  "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                  "id": "1050915002368983040",
+                  "name": "Casey Newton",
+                  "description": "Casey Newton"
+                }
+              },
+              {
+                "domain": {
+                  "id": "46",
+                  "name": "Business Taxonomy",
+                  "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+                },
+                "entity": {
+                  "id": "1557697333571112960",
+                  "name": "Technology Business",
+                  "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares"
+                }
+              },
+              {
+                "domain": {
+                  "id": "46",
+                  "name": "Business Taxonomy",
+                  "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+                },
+                "entity": {
+                  "id": "1575491917986439171",
+                  "name": "Social Media & Networking Company"
+                }
+              },
+              {
+                "domain": {
+                  "id": "47",
+                  "name": "Brand",
+                  "description": "Brands and Companies"
+                },
+                "entity": {
+                  "id": "10045225402",
+                  "name": "Twitter"
+                }
+              },
+              {
+                "domain": {
+                  "id": "47",
+                  "name": "Brand",
+                  "description": "Brands and Companies"
+                },
+                "entity": {
+                  "id": "1364653904433045506",
+                  "name": "Aposto!"
+                }
+              },
+              {
+                "domain": {
+                  "id": "30",
+                  "name": "Entities [Entity Service]",
+                  "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain"
+                },
+                "entity": {
+                  "id": "1586927984010592257",
+                  "name": "Vine"
+                }
+              },
+              {
+                "domain": {
+                  "id": "48",
+                  "name": "Product",
+                  "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone."
+                },
+                "entity": {
+                  "id": "1587069325998886912",
+                  "name": "Vine"
+                }
+              },
+              {
+                "domain": {
+                  "id": "94",
+                  "name": "Journalist",
+                  "description": "A journalist like 'Anderson Cooper'"
+                },
+                "entity": {
+                  "id": "1050915002368983040",
+                  "name": "Casey Newton",
+                  "description": "Casey Newton"
+                }
+              },
+              {
+                "domain": {
+                  "id": "131",
+                  "name": "Unified Twitter Taxonomy",
+                  "description": "A taxonomy of user interests. "
+                },
+                "entity": {
+                  "id": "848920371311001600",
+                  "name": "Technology",
+                  "description": "Technology and computing"
+                }
+              },
+              {
+                "domain": {
+                  "id": "131",
+                  "name": "Unified Twitter Taxonomy",
+                  "description": "A taxonomy of user interests. "
+                },
+                "entity": {
+                  "id": "1046545033657081857",
+                  "name": "News",
+                  "description": "News"
+                }
+              },
+              {
+                "domain": {
+                  "id": "131",
+                  "name": "Unified Twitter Taxonomy",
+                  "description": "A taxonomy of user interests. "
+                },
+                "entity": {
+                  "id": "1050915002368983040",
+                  "name": "Casey Newton",
+                  "description": "Casey Newton"
+                }
+              },
+              {
+                "domain": {
+                  "id": "131",
+                  "name": "Unified Twitter Taxonomy",
+                  "description": "A taxonomy of user interests. "
+                },
+                "entity": {
+                  "id": "1074755369530880001",
+                  "name": "Journalists",
+                  "description": "Journalism"
+                }
+              },
+              {
+                "domain": {
+                  "id": "131",
+                  "name": "Unified Twitter Taxonomy",
+                  "description": "A taxonomy of user interests. "
+                },
+                "entity": {
+                  "id": "1196446161223028736",
+                  "name": "Social media"
+                }
+              },
+              {
+                "domain": {
+                  "id": "165",
+                  "name": "Technology",
+                  "description": "for individual and types of technology, e.g., food technology, 3D printing"
+                },
+                "entity": {
+                  "id": "848920371311001600",
+                  "name": "Technology",
+                  "description": "Technology and computing"
+                }
+              },
+              {
+                "domain": {
+                  "id": "165",
+                  "name": "Technology",
+                  "description": "for individual and types of technology, e.g., food technology, 3D printing"
+                },
+                "entity": {
+                  "id": "1196446161223028736",
+                  "name": "Social media"
+                }
+              },
+              {
+                "domain": {
+                  "id": "173",
+                  "name": "Product Taxonomy",
+                  "description": "A product taxonomy for labeling categories of products. "
+                },
+                "entity": {
+                  "id": "1577324397714493441",
+                  "name": "Video Sharing app"
+                }
+              },
+              {
+                "domain": {
+                  "id": "30",
+                  "name": "Entities [Entity Service]",
+                  "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain"
+                },
+                "entity": {
+                  "id": "781974596752842752",
+                  "name": "Services"
+                }
+              },
+              {
+                "domain": {
+                  "id": "47",
+                  "name": "Brand",
+                  "description": "Brands and Companies"
+                },
+                "entity": {
+                  "id": "10045225402",
+                  "name": "Twitter"
+                }
+              },
+              {
+                "domain": {
+                  "id": "131",
+                  "name": "Unified Twitter Taxonomy",
+                  "description": "A taxonomy of user interests. "
+                },
+                "entity": {
+                  "id": "10045225402",
+                  "name": "Twitter"
+                }
+              },
+              {
+                "domain": {
+                  "id": "165",
+                  "name": "Technology",
+                  "description": "for individual and types of technology, e.g., food technology, 3D printing"
+                },
+                "entity": {
+                  "id": "1196446161223028736",
+                  "name": "Social media"
+                }
+              }
+            ],
+            "conversation_id": "1588302344176816128",
+            "entities": {
+              "urls": [
+                {
+                  "start": 224,
+                  "end": 247,
+                  "url": "https://t.co/CoIClOB6vh",
+                  "expanded_url": "https://www.platformer.news/p/inside-twitters-product-roadmap-under",
+                  "display_url": "platformer.news/p/inside-twitt…",
+                  "images": [
+                    {
+                      "url": "https://pbs.twimg.com/news_img/1588302002177515522/p-Krc2FQ?format=jpg&name=orig",
+                      "width": 600,
+                      "height": 600
+                    },
+                    {
+                      "url": "https://pbs.twimg.com/news_img/1588302002177515522/p-Krc2FQ?format=jpg&name=150x150",
+                      "width": 150,
+                      "height": 150
+                    }
+                  ],
+                  "status": 200,
+                  "title": "Inside Twitter’s product roadmap under Musk",
+                  "description": "A new Vine camera is in. Notes and Revue are out",
+                  "unwound_url": "https://www.platformer.news/p/inside-twitters-product-roadmap-under"
+                }
+              ]
+            },
+            "public_metrics": {
+              "retweet_count": 45,
+              "reply_count": 15,
+              "like_count": 165,
+              "quote_count": 50
+            },
+            "possibly_sensitive": false,
+            "id": "1588302344176816128",
+            "created_at": "2022-11-03T22:49:22.000Z",
+            "source": "Twitter for Mac",
+            "edit_history_tweet_ids": [
+              "1588302344176816128"
+            ],
+            "reply_settings": "everyone",
+            "author_id": "69426451",
+            "lang": "en",
+            "text": "Some Twitter news as we wait for layoffs to hit:\n\n- Its Revue newsletter product will be sunset by end of year\n- ‘Notes’ longform writing product is on indefinite 'pause'\n- Details on the Vine reboot\n\nSubscribe to read ➡️ \n\nhttps://t.co/CoIClOB6vh",
+            "includes": {
+              "users": [
+                {
+                  "name": "Casey Newton",
+                  "public_metrics": {
+                    "followers_count": 172663,
+                    "following_count": 897,
+                    "tweet_count": 9505,
+                    "listed_count": 3964
+                  },
+                  "entities": {
+                    "url": {
+                      "urls": [
+                        {
+                          "start": 0,
+                          "end": 23,
+                          "url": "https://t.co/k4kbI8uZO6",
+                          "expanded_url": "https://www.platformer.news/",
+                          "display_url": "platformer.news"
+                        }
+                      ]
+                    },
+                    "description": {
+                      "mentions": [
+                        {
+                          "start": 8,
+                          "end": 19,
+                          "username": "platformer"
+                        },
+                        {
+                          "start": 42,
+                          "end": 50,
+                          "username": "nytimes"
+                        },
+                        {
+                          "start": 123,
+                          "end": 132,
+                          "username": "crumbler"
+                        }
+                      ]
+                    }
+                  },
+                  "url": "https://t.co/k4kbI8uZO6",
+                  "created_at": "2009-08-27T22:37:09.000Z",
+                  "protected": false,
+                  "location": "San Francisco",
+                  "description": "Writing @platformer. Co-hosting Hard Fork @nytimes. Chatting in my Discord. Posting good tweets to Instagram stories daily @crumbler",
+                  "verified": true,
+                  "username": "CaseyNewton",
+                  "profile_image_url": "https://pbs.twimg.com/profile_images/1577717876588351488/q2TUfHqX_normal.jpg",
+                  "id": "69426451"
+                }
+              ]
+            }
+          }
+        }
+      }
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "bookmark",
+      {
+        "url": "https://www.poynter.org/business-work/2022/news-alone-is-no-longer-the-driver-of-new-york-times-subscription-growth/",
+        "metadata": {
+          "url": "https://www.poynter.org/business-work/2022/news-alone-is-no-longer-the-driver-of-new-york-times-subscription-growth/",
+          "title": "News alone is no longer the driver of New York Times subscription growth - Poynter",
+          "description": "The company’s quarterly financial report follows what has become a trend: an operating profit margin of around 10%",
+          "author": "Rick Edmonds",
+          "publisher": "Poynter",
+          "thumbnail": "https://www.poynter.org/wp-content/uploads/2022/01/AP_20218653319926-1.jpg",
+          "icon": "https://www.poynter.org/wp-content/uploads/2020/06/favicon.png"
+        }
+      }
+    ],
+    [
+      "bookmark",
+      {
+        "url": "https://medium.com/behind-local-news-uk/cost-of-living-journalism-is-being-welcomed-by-readers-research-reveals-2e98a7d655f1",
+        "metadata": {
+          "url": "https://medium.com/behind-local-news-uk/cost-of-living-journalism-is-being-welcomed-by-readers-research-reveals-2e98a7d655f1",
+          "title": "Cost of living journalism is being welcomed by readers, research reveals",
+          "description": "Trusted journalism is playing a vital role for society through its coverage of the cost-of-living crisis, a new study has revealed today.",
+          "author": "Behind Local News",
+          "publisher": "Behind Local News UK",
+          "thumbnail": "https://miro.medium.com/max/1200/1*twOkP8116LXX5Vp6j8UdJg.jpeg",
+          "icon": "https://cdn-static-1.medium.com/_/fp/icons/Medium-Avatar-500x500.svg"
+        }
+      }
+    ],
+    [
+      "bookmark",
+      {
+        "url": "https://www.niemanlab.org/2022/11/what-types-of-local-news-stories-should-be-automated-the-toronto-star-is-figuring-it-out/",
+        "metadata": {
+          "url": "https://www.niemanlab.org/2022/11/what-types-of-local-news-stories-should-be-automated-the-toronto-star-is-figuring-it-out/",
+          "title": "What types of local news stories should be automated? The Toronto Star is figuring it out",
+          "description": "In the case of break-and-enter stories, “everybody recognized that a poor execution of the idea would be a problem.”",
+          "author": "Hanaa’ Tameez",
+          "publisher": "Nieman Lab",
+          "thumbnail": "https://www.niemanlab.org/images/sandro-schuh-6wVqCeK030Y-unsplash-700x467.jpg",
+          "icon": "https://www.niemanlab.org/favicon.ico"
+        }
+      }
+    ],
+    [
+      "bookmark",
+      {
+        "version": "1.0",
+        "type": "bookmark",
+        "url": "__GHOST_URL__/2022/11/why-you-cant-afford-to-ignore-apple-news/",
+        "metadata": {
+          "url": "__GHOST_URL__/2022/11/why-you-cant-afford-to-ignore-apple-news/",
+          "title": "Why you can’t afford to ignore Apple News",
+          "description": "Despite all the early scepticism, Apple News is now the most used UK news app. Time to stop ignoring it.",
+          "author": "Adam Tinworth",
+          "publisher": "One Man & His Blog",
+          "thumbnail": "__GHOST_URL__/content/images/2022/11/IMG_2763.jpeg",
+          "icon": "__GHOST_URL__/content/images/size/w256h256/2021/05/COV-1638-3865.png"
+        }
+      }
+    ],
+    [
+      "email",
+      {
+        "html": "<h2>New Feature: feedback!</h2><p>Just below, you should have single click buttons to give me a sense if this was a useful newsletter for you — or not. 😭 Please give it a try.</p>"
+      }
+    ]
+  ],
+  "markups": [
+    [
+      "a",
+      [
+        "href",
+        "https://www.washingtonpost.com/technology/2022/11/03/elon-musk-twitter-layoffs/"
+      ]
+    ],
+    [
+      "em"
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/2019/07/messy-verification-process-leave-blue-ticks-open-to-abuse/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/2019/04/social-media-verification-still-a-crapshoot/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://9to5mac.com/2022/11/01/twitter-chaos/"
+      ]
+    ],
+    [
+      "strong"
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/2022/07/facebooks-long-slow-breakup-with-journalism-is-underway/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.getrevue.co/profile/vincentpeyregne"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.getrevue.co/profile/kevglobal"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.getrevue.co/profile/MediaVoices"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.inma.org/report/light-readers-digital-subscriptions-next-growth-path"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.getrevue.co/profile/kevglobal/issues/newspaper-publishers-lay-out-their-investment-priorities-by-damianradcliffe-from-newspaperworld-plus-which-products-are-hot-and-which-products-are-not-amongst-publishers-1439599?utm_campaign=Issue&utm_content=view_in_browser&utm_medium=email&utm_source=Digital+Media+Products%2C+Strategy+and+Innovation"
+      ]
+    ]
+  ],
+  "sections": [
+    [
+      10,
+      0
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Frankly, it's a bit of a difficult morning. "
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "The tone of today in audience circles is very different to last week, when the news of Elon Musk's takeover of Twitter hit. There's rather fewer jokes, and rather more sympathy, as we start to see UK-based Twitter employees losing their jobs. Their US colleagues will be going through the same experience in a few hours, and the expectation is that "
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "up to half of Twitter's staff"
+        ],
+        [
+          0,
+          [],
+          0,
+          " will be laid off. "
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "I'm going to devote much of this post to what we in the journalism business should be watching for in these layoffs, but first I want to take a moment to acknowledge the humans at the heart of this."
+        ]
+      ]
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "The personal cost"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "These are just a few tweets I've seen from personal friends or online acquaintances who've been fired this morning:"
+        ]
+      ]
+    ],
+    [
+      10,
+      1
+    ],
+    [
+      10,
+      2
+    ],
+    [
+      10,
+      3
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "They're all talented folks, whom I hope and expect will land on their feet, but seeing work they've invested the best part of a decade in dismantled, while being told they're personally surplus to requirements, can't be emotionally easy. My very best wishes to all of them."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Now, what does this mean for the rest of us?"
+        ]
+      ]
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "The canaries in Twitter's coal mine"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "A million years ago and, at the same time, a week ago, when Musk took over Twitter, I realised that there were four major things to watch as Musk reshaped Twitter.  If some or all of them changed, the relationship between the platform and journalism would be reshaped for ever."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Here they are:"
+        ]
+      ]
+    ],
+    [
+      3,
+      "ol",
+      [
+        [
+          [
+            0,
+            [],
+            0,
+            "Major changes to verification"
+          ]
+        ],
+        [
+          [
+            0,
+            [],
+            0,
+            "Changes to the publisher relationships in Twitter Blue"
+          ]
+        ],
+        [
+          [
+            0,
+            [],
+            0,
+            "Dismantling of the Curation/Moments team"
+          ]
+        ],
+        [
+          [
+            0,
+            [],
+            0,
+            "Dismantling of the News Partnerships team"
+          ]
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "And how do things stand now? Two have happened, one looks likely to have happened "
+        ],
+        [
+          0,
+          [
+            1
+          ],
+          1,
+          "(UPDATE: Now confirmed — see below)"
+        ],
+        [
+          0,
+          [],
+          0,
+          ", and we're waiting to hear about the last:"
+        ]
+      ]
+    ],
+    [
+      3,
+      "ol",
+      [
+        [
+          [
+            0,
+            [],
+            0,
+            "✅ Major changes to verification"
+          ]
+        ],
+        [
+          [
+            0,
+            [],
+            0,
+            "✅ Changes to the publisher relationships in Twitter Blue"
+          ]
+        ],
+        [
+          [
+            0,
+            [],
+            0,
+            "✅ Dismantling of the Curation/Moments team"
+          ]
+        ],
+        [
+          [
+            0,
+            [],
+            0,
+            "❓Dismantling of the News Partnerships team"
+          ]
+        ]
+      ]
+    ],
+    [
+      1,
+      "h3",
+      [
+        [
+          0,
+          [],
+          0,
+          "Verification"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Look, I have my "
+        ],
+        [
+          0,
+          [
+            2
+          ],
+          1,
+          "issues with how Twitter runs verification"
+        ],
+        [
+          0,
+          [],
+          0,
+          " and, in particular, how it creates a "
+        ],
+        [
+          0,
+          [
+            3
+          ],
+          1,
+          "two tier system for journalists"
+        ],
+        [
+          0,
+          [],
+          0,
+          ". But there's no doubt that being a proven, verified journalist goes some way to helping you stand out amidst the misinformation noise on the platform. Musk's move to make verification for all available for a fee will fundamentally dilute that ability. That's our first canary expired."
+        ]
+      ]
+    ],
+    [
+      1,
+      "h3",
+      [
+        [
+          0,
+          [],
+          0,
+          "Twitter Blue"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "The publisher relationships that allowed subscribers to have access to ad-free articles via Twitter Blue, the subscription service available in some parts of the world, was "
+        ],
+        [
+          0,
+          [
+            4
+          ],
+          1,
+          "killed unexpectedly by Twitter"
+        ],
+        [
+          0,
+          [],
+          0,
+          ". Musk clearly wants to renegotiate those relationships:"
+        ]
+      ]
+    ],
+    [
+      10,
+      4
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "But it's hard to trust someone who kills — on a whim, with no notice — something you put development work into supporting, isn't it? "
+        ]
+      ]
+    ],
+    [
+      1,
+      "h3",
+      [
+        [
+          0,
+          [],
+          0,
+          "Moments & Curation"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "The curation team was (and yes, it looks like the past tense "
+        ],
+        [
+          0,
+          [
+            1
+          ],
+          1,
+          "is"
+        ],
+        [
+          0,
+          [],
+          0,
+          " appropriate) the internal journalistic part of Twitter, curating the best news and Tweets in a way that brought value to the platform — and traffic to publishers. It was led by friend-of-the-blog Joanna Geary, late of the "
+        ],
+        [
+          0,
+          [
+            1
+          ],
+          1,
+          "Birmingham Post"
+        ],
+        [
+          0,
+          [],
+          0,
+          ", "
+        ],
+        [
+          0,
+          [
+            1
+          ],
+          1,
+          "The Times"
+        ],
+        [
+          0,
+          [],
+          0,
+          " and "
+        ],
+        [
+          0,
+          [
+            1
+          ],
+          1,
+          "The Guardian"
+        ],
+        [
+          0,
+          [],
+          0,
+          ". "
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "She was the first of the “personal cost” tweets above. "
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "If, as it looks like, this team is essentially gone, it will make it that much harder for news publishers to stand out from the noise on Twitter. "
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [
+            5
+          ],
+          1,
+          "Update — 12.15pm, 4/11/22"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Yup, the Curation team is gone:"
+        ]
+      ]
+    ],
+    [
+      10,
+      5
+    ],
+    [
+      1,
+      "h3",
+      [
+        [
+          0,
+          [],
+          0,
+          "News Partnerships"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "The major social platforms have long had news partnership teams, whose job it its to build closer relationships with major publishers. That's why journalists seem to get special treatment for things like verification — it's handled between the social teams of major publishers and the news partnership folks. "
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "If this team gets dismantled in the layoffs today — and I've seen no evidence either way yet — then truly Twitter, "
+        ],
+        [
+          0,
+          [
+            6
+          ],
+          1,
+          "like Facebook before it"
+        ],
+        [
+          0,
+          [],
+          0,
+          ", is planning to leave journalism behind."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Today will be an interesting day. "
+        ]
+      ]
+    ],
+    [
+      10,
+      6
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Newsletters: Revue is dead"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Big news from the well-sourced Casey Newton last night:"
+        ]
+      ]
+    ],
+    [
+      10,
+      7
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "That's bad news: some publishers use Revue, and there are some great journalism-relevant newsletters on there too, not least those of "
+        ],
+        [
+          0,
+          [
+            7
+          ],
+          1,
+          "Vincent Peyregne"
+        ],
+        [
+          0,
+          [],
+          0,
+          ", "
+        ],
+        [
+          0,
+          [
+            8
+          ],
+          1,
+          "Kevin Anderson"
+        ],
+        [
+          0,
+          [],
+          0,
+          " and the "
+        ],
+        [
+          0,
+          [
+            9
+          ],
+          1,
+          "lovely Media Voices team"
+        ],
+        [
+          0,
+          [],
+          0,
+          "."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "I'm working on a post about exit options for publishers using Revue. Look for it on the site later today, or early tomorrow. "
+        ]
+      ]
+    ],
+    [
+      10,
+      8
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "In other news"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Despite our obsession with the bird app, other things are happening in the journalism world. "
+        ]
+      ]
+    ],
+    [
+      1,
+      "h3",
+      [
+        [
+          0,
+          [],
+          0,
+          "Member models aren't just about news"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "This shouldn't be a surprise to anyone paying attention, but it's nice to see it confirmed again:"
+        ]
+      ]
+    ],
+    [
+      10,
+      9
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "This was one of the major conclusions of the "
+        ],
+        [
+          0,
+          [
+            10
+          ],
+          1,
+          "INMA Light Readers"
+        ],
+        [
+          0,
+          [],
+          0,
+          " report that I worked on a couple of years ago. And yes, that does mean that your editorial leaders need to concentrate just as much on lifestyle and service journalism as the exciting breaking news stuff. "
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "For example: "
+        ]
+      ]
+    ],
+    [
+      10,
+      10
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Solidarity to my features, lifestyle and business journalism brethren. We matter!"
+        ]
+      ]
+    ],
+    [
+      1,
+      "h3",
+      [
+        [
+          0,
+          [],
+          0,
+          "Where should we use AI?"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "The "
+        ],
+        [
+          0,
+          [
+            1
+          ],
+          1,
+          "Toronto Star "
+        ],
+        [
+          0,
+          [],
+          0,
+          "is making a good fist of figuring this out:"
+        ]
+      ]
+    ],
+    [
+      10,
+      11
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "I agree "
+        ],
+        [
+          0,
+          [
+            11
+          ],
+          1,
+          "strongly with Kevin on this"
+        ],
+        [
+          0,
+          [],
+          0,
+          ":"
+        ]
+      ]
+    ],
+    [
+      1,
+      "blockquote",
+      [
+        [
+          0,
+          [],
+          0,
+          "As I have said before, I would much rather have a robot write a basic, formulaic report than treat a reporter like a robot."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "(Full disclosure: the "
+        ],
+        [
+          0,
+          [
+            1
+          ],
+          1,
+          "Star"
+        ],
+        [
+          0,
+          [],
+          0,
+          " is a current client)"
+        ]
+      ]
+    ],
+    [
+      1,
+      "h3",
+      [
+        [
+          0,
+          [],
+          0,
+          "Apple News really matters"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "This is a little bit of “I told you so” but quite a bit more “what you should do about this”:"
+        ]
+      ]
+    ],
+    [
+      10,
+      12
+    ],
+    [
+      10,
+      13
+    ],
+    [
+      1,
+      "p",
+      []
+    ]
+  ],
+  "ghostVersion": "4.0"
+}

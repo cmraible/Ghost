@@ -1,0 +1,1036 @@
+{
+  "root": {
+    "children": [
+      {
+        "type": "email",
+        "html": "<p>Hey {first_name, \"there\"},</p>"
+      },
+      {
+        "children": [
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": "Yesterday ",
+            "type": "text",
+            "version": 1
+          },
+          {
+            "children": [
+              {
+                "detail": 0,
+                "format": 0,
+                "mode": "normal",
+                "style": "",
+                "text": "we talked of job cuts",
+                "type": "text",
+                "version": 1
+              }
+            ],
+            "direction": "ltr",
+            "format": "",
+            "indent": 0,
+            "type": "link",
+            "rel": null,
+            "target": null,
+            "title": null,
+            "url": "__GHOST_URL__/email/8c202271-0b01-4958-9a79-afbdd10bda88/",
+            "version": 1
+          },
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": ", and the fall of print editions. Today? The rise of AI tools writing stories.",
+            "type": "text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "paragraph",
+        "version": 1
+      },
+      {
+        "children": [
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": "But that might not be quite as bad news as it looks at first…",
+            "type": "text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "paragraph",
+        "version": 1
+      },
+      {
+        "children": [
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": "A glimpse of AI-assisted journalism's future",
+            "type": "text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "heading",
+        "tag": "h2",
+        "version": 1
+      },
+      {
+        "children": [
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": "Read a recent article on ",
+            "type": "text",
+            "version": 1
+          },
+          {
+            "detail": 0,
+            "format": 2,
+            "mode": "normal",
+            "style": "",
+            "text": "CNET",
+            "type": "text",
+            "version": 1
+          },
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": "? There's a fair chance that ",
+            "type": "text",
+            "version": 1
+          },
+          {
+            "children": [
+              {
+                "detail": 0,
+                "format": 0,
+                "mode": "normal",
+                "style": "",
+                "text": "an AI engine created it",
+                "type": "text",
+                "version": 1
+              }
+            ],
+            "direction": "ltr",
+            "format": "",
+            "indent": 0,
+            "type": "link",
+            "rel": null,
+            "target": null,
+            "title": null,
+            "url": "https://futurism.com/the-byte/cnet-publishing-articles-by-ai",
+            "version": 1
+          },
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": ": ",
+            "type": "text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "paragraph",
+        "version": 1
+      },
+      {
+        "children": [
+          {
+            "detail": 0,
+            "format": 2,
+            "mode": "normal",
+            "style": "",
+            "text": "CNET",
+            "type": "text",
+            "version": 1
+          },
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": ", a massively popular tech news outlet, has been quietly employing the help of \"automation technology\" — a stylistic euphemism for AI — on a new wave of financial explainer articles, seemingly starting around November of last year.",
+            "type": "text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "quote",
+        "version": 1
+      },
+      {
+        "children": [
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": "So, is there human input? It seems so:",
+            "type": "text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "paragraph",
+        "version": 1
+      },
+      {
+        "children": [
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": "\"This article was generated using automation technology,\" reads a dropdown description, \"and thoroughly edited and fact-checked by an editor on our editorial staff.\"",
+            "type": "text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "quote",
+        "version": 1
+      },
+      {
+        "children": [
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": "This is going to move fast. We'll see more and more copy start off generated by AI tools like ChatGPT, and then improved and developed by journalists. The tech is here, and won't be uninvented, so we need to figure out how to live with it. ",
+            "type": "text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "paragraph",
+        "version": 1
+      },
+      {
+        "children": [
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": "In theory, using it to do the grunt work on fairly basic, formulaic service journalism, freeing up humans to spend more time researching and interviewing? That could be a good thing. ",
+            "type": "text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "paragraph",
+        "version": 1
+      },
+      {
+        "children": [
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": "Talking of AI, it's time to start listening…",
+            "type": "text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "heading",
+        "tag": "h2",
+        "version": 1
+      },
+      {
+        "children": [
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": "Apple is using machine learning to deliver audio versions of the books sold in its Books app.",
+            "type": "text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "paragraph",
+        "version": 1
+      },
+      {
+        "children": [
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": "I suspect that cheap access to machine learning-based audio narration tools will make widespread delivery of written articles in audio form a common part of the industry in the next couple of years. ",
+            "type": "text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "paragraph",
+        "version": 1
+      },
+      {
+        "type": "bookmark",
+        "url": "https://www.macrumors.com/2023/01/05/ai-narrated-audiobooks-now-available/",
+        "metadata": {
+          "url": "https://www.macrumors.com/2023/01/05/ai-narrated-audiobooks-now-available/",
+          "title": "AI-Narrated Audiobooks Now Available in Apple Books",
+          "description": "Apple has now launched Apple Books digital narration, offering a new way for publishers to automatically generate high-quality AI-narrated audio from...",
+          "author": "Hartley Charlton",
+          "publisher": "MacRumors",
+          "thumbnail": "https://images.macrumors.com/t/rUnnLf_duGExkeNlQZPCBqVRbuU=/2250x/article-new/2022/01/General-Books-Feature.jpg",
+          "icon": "https://images.macrumors.com/images-new/favicon-32x32.png"
+        }
+      },
+      {
+        "children": [
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": "Snippets from the tech winter",
+            "type": "text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "heading",
+        "tag": "h2",
+        "version": 1
+      },
+      {
+        "children": [
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": "In some of the other work I do, we're spending time thinking about the “tech winter”, the downturn that's hit the once-booming digital industry. The crypto/Web3 market has been particularly hit, with values crashing, and frauds exposed. The biggest, perhaps, has been the ",
+            "type": "text",
+            "version": 1
+          },
+          {
+            "children": [
+              {
+                "detail": 0,
+                "format": 0,
+                "mode": "normal",
+                "style": "",
+                "text": "fall of Sam Bankman-Fried and his company FTX",
+                "type": "text",
+                "version": 1
+              }
+            ],
+            "direction": "ltr",
+            "format": "",
+            "indent": 0,
+            "type": "link",
+            "rel": null,
+            "target": null,
+            "title": null,
+            "url": "https://www.theguardian.com/business/2023/jan/11/ftx-fraud-value-crypto-sbf",
+            "version": 1
+          },
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": ". ",
+            "type": "text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "paragraph",
+        "version": 1
+      },
+      {
+        "children": [
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": "Yet, even as the business was collapsing, people were doing softball interviews with him. As John Naughton asks, ",
+            "type": "text",
+            "version": 1
+          },
+          {
+            "children": [
+              {
+                "detail": 0,
+                "format": 0,
+                "mode": "normal",
+                "style": "",
+                "text": "why did the media go so easy on him",
+                "type": "text",
+                "version": 1
+              }
+            ],
+            "direction": "ltr",
+            "format": "",
+            "indent": 0,
+            "type": "link",
+            "rel": null,
+            "target": null,
+            "title": null,
+            "url": "https://www.theguardian.com/commentisfree/2022/dec/17/sam-bankman-fried-arrest-ftx-media-sec",
+            "version": 1
+          },
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": "?",
+            "type": "text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "paragraph",
+        "version": 1
+      },
+      {
+        "children": [
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": "The biggest question prompted by this apology tour is: why did so many apparently serious media outfits let him get away with it? The interview questions were often softball ones, occasionally toe-curlingly so. Some interviewers confessed apologetically that they knew nothing about the complex businesses he had run and allowed themselves to be bemused by the incomprehensible bullshit he was emitting. Often, they seemed hypnotised, as many otherwise sensible people had been before the crash, by this tech wunderkind with big hair and baggy shorts who had, until recently, been promising to give away his phenomenal wealth to good causes, while in fact he had seemingly been presiding over the vaporisation of billions of dollars of other people’s savings.",
+            "type": "text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "quote",
+        "version": 1
+      },
+      {
+        "children": [
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": "My guess? The combination of general ignorance of how Web3 works amongst reporters, coupled with a desire not to end up like those journos who wrote the internet off as a “fad” 20 years ago, means that the crypto world has never got the scrutiny it richly deserves. ",
+            "type": "text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "paragraph",
+        "version": 1
+      },
+      {
+        "children": [
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": "The robotically positive language of LinkedIn",
+            "type": "text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "heading",
+        "tag": "h2",
+        "version": 1
+      },
+      {
+        "children": [
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": "Even as the wider economy collapses around us, everything on LinkedIn is Relentlessly. Upbeat. 🙏🏻",
+            "type": "text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "paragraph",
+        "version": 1
+      },
+      {
+        "children": [
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": "This is a lovely piece exploring the weird tone of voice that social conformity has made the default on the platform: ",
+            "type": "text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "paragraph",
+        "version": 1
+      },
+      {
+        "children": [
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": "More than any other social media site, LinkedIn requires its users to flatten the broad spectrum of human emotions into something relentlessly aspirational. The glass is always half-full, if not overflowing, even if you can't remember the last time you tasted a drop of water.",
+            "type": "text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "quote",
+        "version": 1
+      },
+      {
+        "type": "bookmark",
+        "url": "https://the-story.media/articles/how-to-use-linkedin/",
+        "metadata": {
+          "url": "https://the-story.media/articles/how-to-use-linkedin/",
+          "title": "So you’ve been fired. Here’s how not to post about it on LinkedIn.",
+          "description": "Can you post about being laid off without seeming like an unhinged automaton? Comedian Patrick Marlborough ponders getting fired in the age of LinkedIn.",
+          "author": "Patrick Marlborough",
+          "publisher": null,
+          "thumbnail": "https://cdn.sanity.io/images/wz9nu6vv/production/23772be1ff761857294bb87154d6119a0eea154f-2400x1600.jpg?auto=format",
+          "icon": "https://the-story.media/images/favicon.png"
+        }
+      },
+      {
+        "children": [
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": "A journalist's guide to the iPad",
+            "type": "text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "heading",
+        "tag": "h2",
+        "version": 1
+      },
+      {
+        "children": [
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": "For ",
+            "type": "text",
+            "version": 1
+          },
+          {
+            "detail": 0,
+            "format": 2,
+            "mode": "normal",
+            "style": "",
+            "text": "years",
+            "type": "text",
+            "version": 1
+          },
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": " now, the iPad has been my preferred writing tool. Bill Bennett has put together a fantastic guide to using it as a writing and research tool. Well worth your time:",
+            "type": "text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "paragraph",
+        "version": 1
+      },
+      {
+        "type": "bookmark",
+        "version": "1.0",
+        "url": "https://billbennett.co.nz/ipad-pro-writing-field-guide/",
+        "metadata": {
+          "url": "https://billbennett.co.nz/ipad-pro-writing-field-guide/",
+          "title": "A practical guide to writing on the iPad",
+          "description": "Apple didn’t design the original iPad for writing. It was a device for reading or viewing media, not creating it. Over the years it has become a great portable writing tool. Many writers find it is better than a laptop. Here we look at why the iPad could be the",
+          "author": "Bill Bennett",
+          "publisher": "Bill Bennett",
+          "thumbnail": "https://billbennett.co.nz/content/images/2023/01/iA-Writer-6.png",
+          "icon": "https://billbennett.co.nz/favicon.ico"
+        }
+      },
+      {
+        "type": "button",
+        "alignment": "center",
+        "buttonText": "Sign up to get this in your inbox daily!",
+        "buttonUrl": "__GHOST_URL__/#/portal/signup/free"
+      },
+      {
+        "children": [
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": "No, I don't want your effin' guest post",
+            "type": "text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "heading",
+        "tag": "h2",
+        "version": 1
+      },
+      {
+        "children": [
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": "A little SEO warning from me earlier today:",
+            "type": "text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "paragraph",
+        "version": 1
+      },
+      {
+        "type": "bookmark",
+        "version": "1.0",
+        "url": "__GHOST_URL__/2023/01/the-case-against-guest-posting/",
+        "metadata": {
+          "url": "__GHOST_URL__/2023/01/the-case-against-guest-posting/",
+          "title": "The case against guest posting",
+          "description": "Beware emails offering free posts. The cost might be much higher than you think…",
+          "author": "Adam Tinworth",
+          "publisher": "One Man & His Blog",
+          "thumbnail": "__GHOST_URL__/content/images/2023/01/link-spam-seller.jpg",
+          "icon": "__GHOST_URL__/content/images/size/w256h256/2021/05/COV-1638-3865.png"
+        }
+      },
+      {
+        "type": "horizontalrule"
+      },
+      {
+        "children": [
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": "Funding corner: cross-border journalism",
+            "type": "text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "heading",
+        "tag": "h2",
+        "version": 1
+      },
+      {
+        "type": "embed",
+        "url": "https://twitter.com/ejcnet/status/1613476233400012802?s=61&t=pxLsd5dMixZXNrQPWWGNiQ",
+        "html": "<blockquote class=\"twitter-tweet\"><p lang=\"en\" dir=\"ltr\">📢 Applications are now open for the second round of the <a href=\"https://twitter.com/hashtag/IJ4EU?src=hash&amp;ref_src=twsrc%5Etfw\">#IJ4EU</a> fund! With <a href=\"https://twitter.com/globalfreemedia?ref_src=twsrc%5Etfw\">@globalfreemedia</a> &amp; <a href=\"https://twitter.com/ECPMF?ref_src=twsrc%5Etfw\">@ECPMF</a> we will support <a href=\"https://twitter.com/hashtag/InvestigativeJournalism?src=hash&amp;ref_src=twsrc%5Etfw\">#InvestigativeJournalism</a> &amp; provide €680,000 in grants to cross-border teams of journalists in 🇪🇺 member states &amp; candidate countries.  <a href=\"https://t.co/YGmwvmjXpQ\">https://t.co/YGmwvmjXpQ</a></p>&mdash; European Journalism Centre (@ejcnet) <a href=\"https://twitter.com/ejcnet/status/1613476233400012802?ref_src=twsrc%5Etfw\">January 12, 2023</a></blockquote>\n<script async src=\"https://platform.twitter.com/widgets.js\" charset=\"utf-8\"></script>\n",
+        "metadata": {
+          "url": "https://twitter.com/ejcnet/status/1613476233400012802",
+          "author_name": "European Journalism Centre",
+          "author_url": "https://twitter.com/ejcnet",
+          "width": 550,
+          "height": null,
+          "cache_age": "3153600000",
+          "provider_name": "Twitter",
+          "provider_url": "http://www.twitter.com/",
+          "version": "1.0",
+          "tweet_data": {
+            "entities": {
+              "mentions": [
+                {
+                  "start": 74,
+                  "end": 90,
+                  "username": "globalfreemedia",
+                  "id": "20445006"
+                },
+                {
+                  "start": 97,
+                  "end": 103,
+                  "username": "ECPMF",
+                  "id": "3253231276"
+                }
+              ],
+              "urls": [
+                {
+                  "start": 263,
+                  "end": 286,
+                  "url": "https://t.co/YGmwvmjXpQ",
+                  "expanded_url": "https://www.investigativejournalismforeu.net/ij4eu-fund-opens-new-calls-for-cross-border-investigative-journalism-23",
+                  "display_url": "investigativejournalismforeu.net/ij4eu-fund-ope…",
+                  "images": [
+                    {
+                      "url": "https://pbs.twimg.com/news_img/1613475900149960704/KqtpfXpV?format=jpg&name=orig",
+                      "width": 1100,
+                      "height": 628
+                    },
+                    {
+                      "url": "https://pbs.twimg.com/news_img/1613475900149960704/KqtpfXpV?format=jpg&name=150x150",
+                      "width": 150,
+                      "height": 150
+                    }
+                  ],
+                  "status": 200,
+                  "title": "IJ4EU fund opens new calls for cross-border investigative journalism - IJ4EU",
+                  "description": "Grants of up to €50,000 available for cross-border projects in the European Union and EU candidate countries",
+                  "unwound_url": "https://www.investigativejournalismforeu.net/ij4eu-fund-opens-new-calls-for-cross-border-investigative-journalism-23"
+                }
+              ],
+              "hashtags": [
+                {
+                  "start": 56,
+                  "end": 62,
+                  "tag": "IJ4EU"
+                },
+                {
+                  "start": 120,
+                  "end": 144,
+                  "tag": "InvestigativeJournalism"
+                }
+              ],
+              "annotations": [
+                {
+                  "start": 57,
+                  "end": 61,
+                  "probability": 0.6159,
+                  "type": "Organization",
+                  "normalized_text": "IJ4EU"
+                }
+              ]
+            },
+            "created_at": "2023-01-12T10:01:25.000Z",
+            "id": "1613476233400012802",
+            "reply_settings": "everyone",
+            "conversation_id": "1613476233400012802",
+            "text": "📢 Applications are now open for the second round of the #IJ4EU fund! With @globalfreemedia &amp; @ECPMF we will support #InvestigativeJournalism &amp; provide €680,000 in grants to cross-border teams of journalists in 🇪🇺 member states &amp; candidate countries.  https://t.co/YGmwvmjXpQ",
+            "edit_history_tweet_ids": [
+              "1613476233400012802"
+            ],
+            "author_id": "22495264",
+            "context_annotations": [
+              {
+                "domain": {
+                  "id": "131",
+                  "name": "Unified Twitter Taxonomy",
+                  "description": "A taxonomy of user interests. "
+                },
+                "entity": {
+                  "id": "1046545033657081857",
+                  "name": "News",
+                  "description": "News"
+                }
+              },
+              {
+                "domain": {
+                  "id": "131",
+                  "name": "Unified Twitter Taxonomy",
+                  "description": "A taxonomy of user interests. "
+                },
+                "entity": {
+                  "id": "1074755369530880001",
+                  "name": "Journalists",
+                  "description": "Journalism"
+                }
+              },
+              {
+                "domain": {
+                  "id": "131",
+                  "name": "Unified Twitter Taxonomy",
+                  "description": "A taxonomy of user interests. "
+                },
+                "entity": {
+                  "id": "1237072960952750081",
+                  "name": "Journalism"
+                }
+              },
+              {
+                "domain": {
+                  "id": "131",
+                  "name": "Unified Twitter Taxonomy",
+                  "description": "A taxonomy of user interests. "
+                },
+                "entity": {
+                  "id": "1278000653416099840",
+                  "name": "Writing"
+                }
+              }
+            ],
+            "public_metrics": {
+              "retweet_count": 6,
+              "reply_count": 1,
+              "like_count": 10,
+              "quote_count": 2,
+              "impression_count": 1232
+            },
+            "lang": "en",
+            "possibly_sensitive": false,
+            "includes": {
+              "users": [
+                {
+                  "public_metrics": {
+                    "followers_count": 38696,
+                    "following_count": 697,
+                    "tweet_count": 20370,
+                    "listed_count": 1645
+                  },
+                  "description": "The European Journalism Centre connects journalists to new people, skills, funding and ideas. We support careers, newsrooms, and the industry.",
+                  "created_at": "2009-03-02T15:39:59.000Z",
+                  "url": "https://t.co/x8fNdTp0Ss",
+                  "profile_image_url": "https://pbs.twimg.com/profile_images/892299990663663617/1UbYzVnS_normal.jpg",
+                  "pinned_tweet_id": "1593544551825899520",
+                  "name": "European Journalism Centre",
+                  "protected": false,
+                  "id": "22495264",
+                  "entities": {
+                    "url": {
+                      "urls": [
+                        {
+                          "start": 0,
+                          "end": 23,
+                          "url": "https://t.co/x8fNdTp0Ss",
+                          "expanded_url": "http://ejc.net/newsletters",
+                          "display_url": "ejc.net/newsletters"
+                        }
+                      ]
+                    }
+                  },
+                  "location": "Maastricht",
+                  "verified": true,
+                  "username": "ejcnet"
+                },
+                {
+                  "public_metrics": {
+                    "followers_count": 50435,
+                    "following_count": 3892,
+                    "tweet_count": 33007,
+                    "listed_count": 1000
+                  },
+                  "description": "Official account of the International Press Institute (IPI), a global network of editors, journalists and media executives defending #pressfreedom since 1950.",
+                  "created_at": "2009-02-09T16:14:42.000Z",
+                  "url": "https://t.co/7beYMOCqV2",
+                  "profile_image_url": "https://pbs.twimg.com/profile_images/927518392948547584/nyhroe-a_normal.jpg",
+                  "name": "IPI - The Global Network for Independent Media",
+                  "protected": false,
+                  "id": "20445006",
+                  "entities": {
+                    "url": {
+                      "urls": [
+                        {
+                          "start": 0,
+                          "end": 23,
+                          "url": "https://t.co/7beYMOCqV2",
+                          "expanded_url": "http://ipi.media",
+                          "display_url": "ipi.media"
+                        }
+                      ]
+                    },
+                    "description": {
+                      "hashtags": [
+                        {
+                          "start": 133,
+                          "end": 146,
+                          "tag": "pressfreedom"
+                        }
+                      ]
+                    }
+                  },
+                  "location": "International",
+                  "verified": true,
+                  "username": "globalfreemedia"
+                },
+                {
+                  "public_metrics": {
+                    "followers_count": 16881,
+                    "following_count": 1753,
+                    "tweet_count": 25262,
+                    "listed_count": 408
+                  },
+                  "description": "We strive for a society where #MediaFreedom enables open discourse and everyone can receive and impart information freely. \nFor press inquiries: press@ecpmf.eu",
+                  "created_at": "2015-05-14T07:23:54.000Z",
+                  "url": "https://t.co/AoP4lqsySR",
+                  "profile_image_url": "https://pbs.twimg.com/profile_images/1583836942449483776/oIox2PZX_normal.jpg",
+                  "name": "European Centre for Press & Media Freedom",
+                  "protected": false,
+                  "id": "3253231276",
+                  "entities": {
+                    "url": {
+                      "urls": [
+                        {
+                          "start": 0,
+                          "end": 23,
+                          "url": "https://t.co/AoP4lqsySR",
+                          "expanded_url": "http://www.ecpmf.eu",
+                          "display_url": "ecpmf.eu"
+                        }
+                      ]
+                    },
+                    "description": {
+                      "hashtags": [
+                        {
+                          "start": 30,
+                          "end": 43,
+                          "tag": "MediaFreedom"
+                        }
+                      ]
+                    }
+                  },
+                  "location": "Leipzig, Germany",
+                  "verified": true,
+                  "username": "ECPMF"
+                }
+              ]
+            }
+          }
+        },
+        "embedType": "twitter"
+      },
+      {
+        "children": [
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": "Job corner: social media editors",
+            "type": "text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "heading",
+        "tag": "h2",
+        "version": 1
+      },
+      {
+        "type": "bookmark",
+        "version": "1.0",
+        "url": "https://jobs.reachplc.com/job-description/id/14741",
+        "metadata": {
+          "url": "https://jobs.reachplc.com/job-description/id/14741",
+          "title": "Social Media Editor - Daily Mirror & Daily Star",
+          "description": "It is a really exciting time to join the Reach family. Due to our sustained growth we are now looking for a Social Media Editor to join our social team.\nAs a Social Media Editor, you will be managing social accounts for one of Reach’s National brands - the Daily Mirror or Daily Star to drive web tra…",
+          "author": null,
+          "publisher": "Reach Jobs",
+          "thumbnail": "https://jobs.reachplc.com/application/themes/trmrjobs1701/assets/img/og_image_reach.jpg",
+          "icon": "https://jobs.reachplc.com/application/files/2915/2645/6599/reach_favicon.ico"
+        }
+      },
+      {
+        "children": [
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": "                            ",
+            "type": "text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "paragraph",
+        "version": 1
+      }
+    ],
+    "direction": "ltr",
+    "format": "",
+    "indent": 0,
+    "type": "root",
+    "version": 1
+  }
+}

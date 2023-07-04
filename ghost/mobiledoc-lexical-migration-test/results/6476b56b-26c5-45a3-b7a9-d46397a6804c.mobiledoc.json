@@ -1,0 +1,285 @@
+{
+  "version": "0.3.1",
+  "atoms": [],
+  "cards": [
+    [
+      "email-cta",
+      {
+        "showButton": true,
+        "showDividers": false,
+        "segment": "status:free",
+        "alignment": "center",
+        "html": "<p><strong><em>Please <a href=\"__GHOST_URL__/subscribe\">become a paid subscriber</a>. You get exclusive podcasts, <a href=\"__GHOST_URL__/citizens-guide-to-holding-the-powerful-accountable/\">digital publications</a>, and live events – and you support this journalism.</em></strong></p>",
+        "buttonText": "Click Here To Subscribe",
+        "buttonUrl": "__GHOST_URL__/subscribe"
+      }
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "email-cta",
+      {
+        "showButton": true,
+        "showDividers": false,
+        "segment": "status:free",
+        "alignment": "center",
+        "html": "",
+        "buttonText": "Click Here To Subscribe",
+        "buttonUrl": "__GHOST_URL__/subscribe"
+      }
+    ]
+  ],
+  "markups": [
+    [
+      "a",
+      [
+        "href",
+        "https://www.manchin.senate.gov/newsroom/press-releases/manchin-statement-on-build-back-better-act"
+      ]
+    ],
+    [
+      "em"
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/midday-poster-the-food-crisis-growing-under-manchins-watch/"
+      ]
+    ],
+    [
+      "strong"
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/subscribe/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/new-the-citizens-guide-to-holding/"
+      ]
+    ]
+  ],
+  "sections": [
+    [
+      10,
+      0
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Democratic Sen. Joe Manchin (D-W.Va.) has dashed his party’s hopes to pass their Build Back Better social safety net package before the end of the year, noting in "
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "a statement"
+        ],
+        [
+          0,
+          [],
+          0,
+          " that “I have always said, ‘If I can’t go back home and explain it, I can’t vote for it.’ Despite my best efforts, I cannot explain the sweeping Build Back Better Act in West Virginia.”"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Maybe it would help if he explained to his constituents how the legislation could help address the spiraling food crisis now taking place in his state, according to new census data uncovered by "
+        ],
+        [
+          0,
+          [
+            1
+          ],
+          1,
+          "The Daily Poster"
+        ],
+        [
+          0,
+          [],
+          0,
+          "."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Read all about it and much more in "
+        ],
+        [
+          0,
+          [
+            2
+          ],
+          1,
+          "today’s Midday Poster"
+        ],
+        [
+          0,
+          [],
+          0,
+          ", exclusively for subscribers"
+        ]
+      ]
+    ],
+    [
+      1,
+      "h3",
+      [
+        [
+          0,
+          [
+            3
+          ],
+          1,
+          "ADDITIONALLY FOR PAID SUBSCRIBERS ("
+        ],
+        [
+          0,
+          [
+            4,
+            3
+          ],
+          2,
+          "click here to subscribe"
+        ],
+        [
+          0,
+          [
+            3
+          ],
+          1,
+          "):"
+        ]
+      ]
+    ],
+    [
+      3,
+      "ul",
+      [
+        [
+          [
+            0,
+            [],
+            0,
+            "Profit-driven healthcare has forgotten to “first, do no harm.”"
+          ]
+        ],
+        [
+          [
+            0,
+            [],
+            0,
+            "Chileans will see a long-awaited social democracy next year."
+          ]
+        ],
+        [
+          [
+            0,
+            [],
+            0,
+            "The undisclosed conflicts of interest behind a new report calling for more arms sales."
+          ]
+        ]
+      ]
+    ],
+    [
+      10,
+      1
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [
+            1,
+            3
+          ],
+          0,
+          "If you’d like to "
+        ],
+        [
+          0,
+          [
+            2
+          ],
+          1,
+          "read the full report"
+        ],
+        [
+          0,
+          [],
+          0,
+          ", please "
+        ],
+        [
+          0,
+          [
+            4
+          ],
+          1,
+          "click here"
+        ],
+        [
+          0,
+          [],
+          2,
+          " to become an $8-a-month or $70-a-year supporting subscriber. When you become a supporting subscriber, you get this kind of exclusive content, you get access to our live events, you get our new "
+        ],
+        [
+          0,
+          [
+            3,
+            5
+          ],
+          2,
+          "Citizens' Guide To Holding The Powerful Accountable"
+        ],
+        [
+          0,
+          [
+            1,
+            3
+          ],
+          2,
+          " – and you are helping us hire more journalists."
+        ]
+      ]
+    ],
+    [
+      10,
+      2
+    ]
+  ],
+  "ghostVersion": "4.0"
+}

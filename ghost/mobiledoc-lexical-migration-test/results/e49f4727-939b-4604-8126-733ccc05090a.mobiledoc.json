@@ -1,0 +1,389 @@
+{
+  "version": "0.3.1",
+  "atoms": [],
+  "cards": [
+    [
+      "hr",
+      {}
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "html",
+      {
+        "html": "<table id=\"production-numbers-table\">\n<tbody>\n\t<tr>\n\t\t<td>2-DR Hardtop</td>\n\t\t<td>45,415</td>\n\t</tr>\n    \t<tr>\n\t\t<td>2-DR Coupe</td>\n\t\t<td>11,995</td>\n\t</tr>\n    \t<tr>\n\t\t<td>SE Hardtop</td>\n\t\t<td>61,908</td>\n\t</tr>\n\t\t<td><b>Total Production</b></td>\n\t\t<td><b>119,318</b></td>\n\t</tr>\n</tbody>\n</table>"
+      }
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "html",
+      {
+        "html": "<table id=\"performance-specs-table\">\n<tbody>\n\t<tr>\n\t\t<th><b>Engine</b></th>\n\t\t<th><b>Size</b></td>\n\t\t<th><b>Carb.</b></td>\n\t\t<th><b>HP</b></td>\n\t\t<th><b>Torque</b></td>\n\t\t<th><b>0 to 60</b></td>\n\t\t<th><b>Quarter mile</b></td>\n\t</tr>\n\t<tr>\n\t\t<td>I6</td>\n\t\t<td>225ci</td>\n\t\t<td>1x1bbl</td>\n\t\t<td>145</td>\n\t\t<td>215 lb-ft</td>\n\t\t<td>-</td>\n\t\t<td>-</td>\n\t</tr>\n\t<tr>\n\t\t<td>Standard V8</td>\n\t\t<td>318ci</td>\n\t\t<td>1x2bbl</td>\n\t\t<td>230</td>\n\t\t<td>340 lb-ft</td>\n\t\t<td>-</td>\n\t\t<td>-</td>\n\t</tr>\n\t<tr>\n\t\t<td>V8</td>\n\t\t<td>340ci</td>\n\t\t<td>1x2bbl</td>\n\t\t<td>240</td>\n\t\t<td>290 lb-ft</td>\n\t\t<td>-</td>\n\t\t<td>-</td>\n\t</tr>\n\t<tr>\n\t\t<td>V8</td>\n\t\t<td>400ci</td>\n\t\t<td>1x2bbl</td>\n\t\t<td>190</td>\n\t\t<td>310 lb-ft</td>\n\t\t<td>-</td>\n\t\t<td>-</td>\n\t</tr>\n\t<tr>\n\t\t<td>V8</td>\n\t\t<td>400ci</td>\n\t\t<td>1x4bbl</td>\n\t\t<td>255</td>\n\t\t<td>340 lb-ft</td>\n\t\t<td>-</td>\n\t\t<td>-</td>\n\t</tr>\n\t<tr>\n\t\t<td>V8</td>\n\t\t<td>440ci</td>\n\t\t<td>1x4bbl</td>\n\t\t<td>280</td>\n\t\t<td>340 lb-ft</td>\n\t\t<td>7.4 sec</td>\n\t\t<td>15.2 sec</td>\n\t</tr>\n</tbody>\n</table>"
+      }
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "html",
+      {
+        "html": "<h4 id='colors-sub-heading'>Exterior</h4>\n<div class=\"colors-row\">\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #636468\"></div>\n        <div class=\"color-name\">Dark Silver Metallic</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #a1b2c2\"></div>\n        <div class=\"color-name\">Light Blue</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #376ca0\"></div>\n        <div class=\"color-name\">Super Blue</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #4d648e\"></div>\n        <div class=\"color-name\">Bright Blue Metallic</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #1e2132\"></div>\n        <div class=\"color-name\">Dark Blue Metallic</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #902e18\"></div>\n        <div class=\"color-name\">Bright Red</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #9eab7d\"></div>\n        <div class=\"color-name\">Pale Green</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #626d4b\"></div>\n        <div class=\"color-name\">Light Green Metallic</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #21261f\"></div>\n        <div class=\"color-name\">Dark Green Metallic</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #552e1f\"></div>\n        <div class=\"color-name\">Bronze Metallic</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #afa790\"></div>\n        <div class=\"color-name\">Parchment</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #29566b\"></div>\n        <div class=\"color-name\">Turquoise Metallic</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #746347\"></div>\n        <div class=\"color-name\">Medium Tan Metallic</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #5f402c\"></div>\n        <div class=\"color-name\">Dark Tan Metallic</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #e1dcc9\"></div>\n        <div class=\"color-name\">Eggshell White</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #decd5f\"></div>\n        <div class=\"color-name\">Top Banana</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #ded595\"></div>\n        <div class=\"color-name\">Yellow</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #a9a173\"></div>\n        <div class=\"color-name\">Light Gold</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #766136\"></div>\n        <div class=\"color-name\">Gold Metallic</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #412e20\"></div>\n        <div class=\"color-name\">Dark Gold Metallic</div>\n    </div>\n</div>"
+      }
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "gallery",
+      {
+        "images": [
+          {
+            "fileName": "815_73cha_low_res.jpeg",
+            "row": 0,
+            "width": 441,
+            "height": 595,
+            "src": "__GHOST_URL__/content/images/2020/06/815_73cha_low_res.jpeg"
+          },
+          {
+            "fileName": "811_73_8_low_res.jpeg",
+            "row": 0,
+            "width": 790,
+            "height": 605,
+            "src": "__GHOST_URL__/content/images/2020/06/811_73_8_low_res.jpeg"
+          },
+          {
+            "fileName": "812_73_9_low_res.jpeg",
+            "row": 0,
+            "width": 790,
+            "height": 607,
+            "src": "__GHOST_URL__/content/images/2020/06/812_73_9_low_res.jpeg"
+          },
+          {
+            "fileName": "813_73_22_low_res.jpeg",
+            "row": 1,
+            "width": 790,
+            "height": 297,
+            "src": "__GHOST_URL__/content/images/2020/06/813_73_22_low_res.jpeg"
+          },
+          {
+            "fileName": "814_73_23_low_res.jpeg",
+            "row": 1,
+            "width": 790,
+            "height": 609,
+            "src": "__GHOST_URL__/content/images/2020/06/814_73_23_low_res.jpeg"
+          }
+        ],
+        "caption": "1973 Dodge Charger OEM Brochures"
+      }
+    ],
+    [
+      "hr",
+      {}
+    ]
+  ],
+  "markups": [
+    [
+      "strong"
+    ],
+    [
+      "em"
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/tag/research/"
+      ]
+    ]
+  ],
+  "sections": [
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Overview"
+        ]
+      ]
+    ],
+    [
+      10,
+      0
+    ],
+    [
+      1,
+      "h3",
+      [
+        [
+          0,
+          [],
+          0,
+          "The grille was slightly revised and new taillights that featured 22 individual lenses were the new visual revisions for the 1973 Charger. Most noticeable, however, was the new roofline around the quarter windows."
+        ]
+      ]
+    ],
+    [
+      10,
+      1
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "The grille was slightly revised and new taillights that featured 22 individual lenses were the new visual revisions for the 1973 Charger. Most noticeable, however, was the new roofline around the quarter windows. The Rallye option was still available and came with a 318 standard, but you could still get the 440ci 4bbl engine."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "The SE acted more as a luxury model, though any of the optional V8s could be had for additional performance. It included pleated vinyl seats, a vinyl roof, and came standard with the Rallye instrument cluster."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "While styling and powertrain changes were evolutionary, the chassis was radically re-engineered. New rubber-isolated suspension systems (front and rear) reduced noise and vibration, but significantly added to the vehicle’s mass, especially at the front, and reduced torsional rigidity. Gone was the taut handling of the ’62-’72 B-body Mopars. Front disc brakes were now standard, no doubt at least partially to cope with the added weight."
+        ]
+      ]
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Production Numbers"
+        ]
+      ]
+    ],
+    [
+      10,
+      2
+    ],
+    [
+      10,
+      3
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Performance Specs"
+        ]
+      ]
+    ],
+    [
+      10,
+      4
+    ],
+    [
+      10,
+      5
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Transmission"
+        ]
+      ]
+    ],
+    [
+      10,
+      6
+    ],
+    [
+      3,
+      "ul",
+      [
+        [
+          [
+            0,
+            [
+              0,
+              0
+            ],
+            2,
+            "3-Speed Manual"
+          ]
+        ],
+        [
+          [
+            0,
+            [
+              0,
+              0
+            ],
+            2,
+            "4-Speed Manual"
+          ]
+        ],
+        [
+          [
+            0,
+            [
+              0,
+              0
+            ],
+            2,
+            "Torqueflite Auto"
+          ]
+        ]
+      ]
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Paint & Colors"
+        ]
+      ]
+    ],
+    [
+      10,
+      7
+    ],
+    [
+      10,
+      8
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "OEM Brochures"
+        ]
+      ]
+    ],
+    [
+      10,
+      9
+    ],
+    [
+      10,
+      10
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "About the Knowledge Base"
+        ]
+      ]
+    ],
+    [
+      10,
+      11
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "The Motorious Knowledge Base provides a comprehensive vehicle overview for the 1973 Dodge Charger"
+        ],
+        [
+          0,
+          [
+            1,
+            1
+          ],
+          2,
+          " "
+        ],
+        [
+          0,
+          [],
+          0,
+          "including production numbers, performance specs, factory colors, and OEM brochures. Check out additional model years or related content linked to this article or view other Makes and Models in our "
+        ],
+        [
+          0,
+          [
+            2
+          ],
+          1,
+          "Research"
+        ],
+        [
+          0,
+          [],
+          0,
+          " center."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "If you have any interesting facts about the 1973 Dodge Charger to add, want to tell us how we did covering the Charger, or want to tell us about yours, please leave a comment below."
+        ]
+      ]
+    ]
+  ],
+  "ghostVersion": "3.0"
+}

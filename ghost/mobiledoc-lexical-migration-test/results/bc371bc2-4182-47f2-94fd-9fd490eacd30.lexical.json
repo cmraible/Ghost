@@ -1,0 +1,80 @@
+{
+  "root": {
+    "children": [
+      {
+        "type": "markdown",
+        "markdown": "If you're reading this, I've just updated the Ghost CMS underlying the blog to version 2.0, which [released earlier this week](https://blog.ghost.org/2-0/). I'm normally one for jumping on updates as soon as they are released, but I had to wait for [JustGoodThemes](https://justgoodthemes.com/ghost-themes/) to update the theme I use - which took them less than 48 hours!\n\nWhat's interesting about this update? Well, it starts to change the underlying philosphy of the platform. While it can still function as a pure blogging platform, it also now more easily adapts to a more traditional website form as well. I won't be making much use of that here in the foreseeable future, but it's useful to know about. \n\nOf more direct interest is the update to the post editor. It now looks like this:"
+      },
+      {
+        "type": "image",
+        "src": "__GHOST_URL__/content/images/2018/08/post-video-ghost2.gif",
+        "caption": "Ghost 2.0 in action",
+        "cardWidth": "wide"
+      },
+      {
+        "type": "markdown",
+        "markdown": "So, two key points here from a user perspective:\n\n* You're working on something that looks like the finished page. This is a big conceptual change that's spreading across CMSes generally, and which I'll write more about in the near future. The separation of the \"back end\" and the \"front end\" of the system is invisible to the creator while developing a page. You end up with a much clearer idea of how your site will look when you press \"publish\". \n* The individual elements of the page can now be managed and edited separately. This starts opening up the pages to more sophisticated layouts - and the underlying systems is extensible. I'm really looking forwards to playing more with that. \n\nThere's a fair chunk of underlying technical change, too, but I'll explore that more in a later post, once I've had the chance to experiment more. "
+      },
+      {
+        "children": [
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": "The verdict?",
+            "type": "text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "heading",
+        "tag": "h2",
+        "version": 1
+      },
+      {
+        "children": [
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": "My experience of constructing this first post has been great. It's a big conceptual change from any blogging platform I've used before, with the exception of Medium. And, while it carries the ease-of-use of that platform, it also has more underlying power. ",
+            "type": "text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "paragraph",
+        "version": 1
+      },
+      {
+        "children": [
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": "I'm really looking forward to seeing how they move forward with it. ",
+            "type": "text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "paragraph",
+        "version": 1
+      }
+    ],
+    "direction": "ltr",
+    "format": "",
+    "indent": 0,
+    "type": "root",
+    "version": 1
+  }
+}

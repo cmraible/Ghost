@@ -1,0 +1,868 @@
+{
+  "version": "0.3.1",
+  "atoms": [],
+  "cards": [
+    [
+      "email-cta",
+      {
+        "showButton": true,
+        "showDividers": false,
+        "segment": "status:-free",
+        "alignment": "center",
+        "html": "<p><em><strong>This is You Love To See It — a weekly feature reviewing good news, progress and action steps that’s one of the many features available only to </strong></em><strong>Lever</strong><em><strong> supporting subscribers. Thank you so much for being a supporting subscriber — we couldn’t do this reporting without your support.</strong></em></p>",
+        "buttonText": "Click Here To Comment",
+        "buttonUrl": "__GHOST_URL__/you-love-to-see-it-management-in-disarray-exclusive-for-subscribers/#comments"
+      }
+    ],
+    [
+      "email",
+      {
+        "html": "<p><em><strong><a href=\"https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.levernews.com%2Fyou-love-to-see-it-management-in-disarray-exclusive-for-subscribers%2F&amp;amp;src=sdkpreparse\">Click to share on Facebook</a></strong></em></p>"
+      }
+    ],
+    [
+      "paywall",
+      {}
+    ],
+    [
+      "email-cta",
+      {
+        "showButton": true,
+        "showDividers": false,
+        "segment": "status:-free",
+        "alignment": "center",
+        "html": "",
+        "buttonText": "Click Here To Comment",
+        "buttonUrl": "__GHOST_URL__/you-love-to-see-it-management-in-disarray-exclusive-for-subscribers/#comments"
+      }
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "email-cta",
+      {
+        "showButton": true,
+        "showDividers": false,
+        "segment": "status:-free",
+        "alignment": "center",
+        "html": "",
+        "buttonText": "Tip Jar",
+        "buttonUrl": "https://dailyposter.outpost.pub/ghost-integration/60818189ad12f332071054b8/tips"
+      }
+    ],
+    [
+      "email-cta",
+      {
+        "showButton": true,
+        "showDividers": false,
+        "segment": "status:free",
+        "alignment": "center",
+        "html": "",
+        "buttonText": "Upgrade",
+        "buttonUrl": "https://levernews.com/membership"
+      }
+    ],
+    [
+      "email",
+      {
+        "html": "<p><em><strong>Help us spread the word! </strong>Please forward this email to family and friends.</em></p><p><em><strong>Was this email forwarded to you? </strong><a href=\"https://levernews.com/membership/\">Sign up for free</a> to receive original reporting like this in your inbox every day.</em></p>"
+      }
+    ]
+  ],
+  "markups": [
+    [
+      "a",
+      [
+        "href",
+        "https://twitter.com/jamieson/status/1522615332166324224?s=20&t=MgXd1uwtjGrjLavjaEh5dw"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.fool.com/earnings/call-transcripts/2022/05/04/starbucks-sbux-q2-2022-earnings-call-transcript/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://twitter.com/LaurenKGurley/status/1522237361366745095?s=20&t=l7RHpZUTzo0sy2ybnH4SAw"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://twitter.com/jamieson/status/1522251619391447046?s=20&t=l7RHpZUTzo0sy2ybnH4SAw"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.nytimes.com/2022/05/06/technology/amazon-fires-managers-union-staten-island.html?smid=tw-share"
+      ]
+    ],
+    [
+      "em"
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://twitter.com/alexnpress/status/1522633255031300097?s=20&t=46nuwUwHFz0EBnnF2tWDTQ"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://twitter.com/AndrewFeinberg/status/1522547050671443968?s=20&t=l7RHpZUTzo0sy2ybnH4SAw"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://twitter.com/saaaauuull/status/1522585140941238272?s=20&t=jnh8U5mzmNn8xnpA6lZSjw"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://twitter.com/Congress_Union/status/1522565853765640192?s=20&t=uELphUBtGObXH-spNIwvPw"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.thenation.com/article/activism/congress-staff-unions/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.desertsun.com/story/news/environment/2022/05/01/california-100-percent-powered-renewables-first-time/9609975002/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.bloomberg.com/news/articles/2022-05-05/california-s-all-renewable-moment-shows-the-future-of-the-power-grid"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://twitter.com/stacyfmitchell/status/1430149663735402514?s=20&t=z1sAnbLSGHy9ikhRC2AiPg"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://boondoggle.substack.com/p/maine-took-on-big-box-stores-and?token=eyJ1c2VyX2lkIjo4Njk4Mjk1LCJwb3N0X2lkIjo1MzI1MDczMiwiXyI6IkV2a1d6IiwiaWF0IjoxNjUxODYzMDMxLCJleHAiOjE2NTE4NjY2MzEsImlzcyI6InB1Yi0xMzc0NCIsInN1YiI6InBvc3QtcmVhY3Rpb24ifQ.OzxIZbLiR9rv31v2vGckfWfwX5BDBUlReJI6BQpDrYw&s=r"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.courant.com/news/connecticut/hc-news-captive-audience-20220501-vovzlfrdm5eonik5j7bfcyvim4-story.html"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://ctmirror.org/2022/04/30/unions-win-final-passage-of-captive-audience-ban/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://twitter.com/bfnewsunion/status/1522640548540129284"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.thedailybeast.com/buzzfeed-company-wide-shakeup-means-eic-mark-schoofs-is-out"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.propublica.org/article/intuit-will-pay-millions-to-customers-tricked-into-paying-for-turbotax"
+      ]
+    ],
+    [
+      "strong"
+    ]
+  ],
+  "sections": [
+    [
+      10,
+      0
+    ],
+    [
+      10,
+      1
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Good things are happening! Amazon and Starbucks management are freaking out about unionization efforts at their companies, especially after union organizers from both companies visited the White House. Also on the union front, congressional staffers are getting a raise, likely in response to their efforts to unionize, and the House is voting next week on a resolution to endorse their efforts. And here’s some news you can use: You could be eligible for payments as a result of a class action lawsuit against one of the major tax-prep software companies."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "All this and much more in this week’s edition of You Love To See It, exclusively for supporting subscribers below."
+        ]
+      ]
+    ],
+    [
+      10,
+      2
+    ],
+    [
+      1,
+      "h3",
+      [
+        [
+          0,
+          [],
+          0,
+          "STARBUCKS EXECUTIVES FEEL LEFT OUT"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Executives at Amazon and Starbucks are reeling in the wake of successful union drives at their companies. Now, to add insult to injury, key organizers of these drives just visited the White House."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "After a Starbucks Workers United organizer met with Biden in the Oval Office this week, a top Starbucks executive "
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "sent a letter"
+        ],
+        [
+          0,
+          [],
+          0,
+          " to President Joe Biden complaining that “official Starbucks representatives” were not also invited. Boo hoo!"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Meanwhile, Starbucks interim CEO and short-lived Democratic presidential candidate Howard Schultz recently warned investors about the insurgent workers movement. “Across America, there is a movement in the media and across multiple industries, including the service sector, whereby fellow citizens have begun turning to labor unions as a means of gaining voice, representation, and improved working conditions,” he said on an "
+        ],
+        [
+          0,
+          [
+            1
+          ],
+          1,
+          "earnings call"
+        ],
+        [
+          0,
+          [],
+          0,
+          " earlier this week."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Amazon Labor Union President Chris Smalls also visited the White House and testified before Congress on Thursday. He "
+        ],
+        [
+          0,
+          [
+            2
+          ],
+          1,
+          "reminded Sen. Lindsey Graham (R-S.C.)"
+        ],
+        [
+          0,
+          [],
+          0,
+          " that corporations need workers in order to function and "
+        ],
+        [
+          0,
+          [
+            3
+          ],
+          1,
+          "explained in great detail"
+        ],
+        [
+          0,
+          [],
+          0,
+          " how Amazon ran its union-busting campaign on Staten Island. On Friday, Amazon "
+        ],
+        [
+          0,
+          [
+            4
+          ],
+          1,
+          "fired the senior management"
+        ],
+        [
+          0,
+          [],
+          0,
+          " at the Staten Island warehouse who failed to bust the union drive."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "As "
+        ],
+        [
+          0,
+          [
+            5
+          ],
+          1,
+          "Jacobin "
+        ],
+        [
+          0,
+          [],
+          0,
+          "staff writer "
+        ],
+        [
+          0,
+          [
+            6
+          ],
+          1,
+          "Alex Press tweeted"
+        ],
+        [
+          0,
+          [],
+          0,
+          ", “From Starbucks to Amazon, management in disarray!”"
+        ]
+      ]
+    ],
+    [
+      1,
+      "h3",
+      [
+        [
+          0,
+          [],
+          0,
+          "CONGRESSIONAL STAFFERS WIN A RAISE"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Elsewhere in D.C. this week, congressional staffers won a raise and are marching ahead with their own efforts to unionize."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "House Speaker Nancy Pelosi (D-Calif.) "
+        ],
+        [
+          0,
+          [
+            7
+          ],
+          1,
+          "announced a new salary floor"
+        ],
+        [
+          0,
+          [],
+          0,
+          " for staffers of $45,000, which will "
+        ],
+        [
+          0,
+          [
+            8
+          ],
+          1,
+          "deliver raises"
+        ],
+        [
+          0,
+          [],
+          0,
+          " to hundreds of workers. Pelosi "
+        ],
+        [
+          0,
+          [
+            9
+          ],
+          1,
+          "also announced"
+        ],
+        [
+          0,
+          [],
+          0,
+          " that the House of Representatives will vote next week on a resolution to recognize the right of congressional staffers to unionize."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Read more about the congressional staff union effort "
+        ],
+        [
+          0,
+          [
+            10
+          ],
+          0,
+          "in "
+        ],
+        [
+          0,
+          [
+            5
+          ],
+          2,
+          "The Nation"
+        ],
+        [
+          0,
+          [
+            5
+          ],
+          1,
+          "."
+        ]
+      ]
+    ],
+    [
+      1,
+      "h3",
+      [
+        [
+          0,
+          [],
+          0,
+          "CALIFORNIA GRID (BRIEFLY) POWERED BY RENEWABLES"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "For a few hours last weekend, California’s energy grid was powered "
+        ],
+        [
+          0,
+          [
+            11
+          ],
+          1,
+          "almost entirely by renewable energy"
+        ],
+        [
+          0,
+          [],
+          0,
+          ", mostly from large amounts of solar power. “Power systems outside the U.S. have reached this target before (Denmark with wind power and South Australia with solar alone last year),” "
+        ],
+        [
+          0,
+          [
+            5
+          ],
+          1,
+          "Bloomberg "
+        ],
+        [
+          0,
+          [
+            12
+          ],
+          1,
+          "reported"
+        ],
+        [
+          0,
+          [],
+          0,
+          ". “But California’s main grid, which serves 80 percent of the state, is far bigger than those examples.”"
+        ]
+      ]
+    ],
+    [
+      1,
+      "h3",
+      [
+        [
+          0,
+          [],
+          0,
+          "THOMASTON, MAINE VS. WALMART"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Big box stores are "
+        ],
+        [
+          0,
+          [
+            13
+          ],
+          1,
+          "often a terrible deal"
+        ],
+        [
+          0,
+          [],
+          0,
+          " for the towns they move into, draining them of revenue through generous property tax deals and suppressing wages. But towns can fight back and win — as one town in Maine just did."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "“A Walmart Supercenter in Thomaston, Maine, was causing the town headaches by fighting its property tax bills, using a scam tactic that has spread all across the nation,” "
+        ],
+        [
+          0,
+          [
+            14
+          ],
+          1,
+          "Pat Garofalo wrote"
+        ],
+        [
+          0,
+          [],
+          0,
+          " in his newsletter, "
+        ],
+        [
+          0,
+          [
+            5
+          ],
+          1,
+          "Boondoggle"
+        ],
+        [
+          0,
+          [],
+          0,
+          ". “So the state representative for the area, Democratic Rep. Ann Matlack, set out to do something about it — and won, beating the big box stores and their lobbyists, and securing a major new protection for local communities and taxpayers from corporate tax shenanigans.”"
+        ]
+      ]
+    ],
+    [
+      1,
+      "h3",
+      [
+        [
+          0,
+          [],
+          0,
+          "AND MORE:"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "•  "
+        ],
+        [
+          0,
+          [
+            15
+          ],
+          1,
+          "Connecticut just passed"
+        ],
+        [
+          0,
+          [],
+          0,
+          " a law banning captive audience meetings, which require workers to listen to anti-union messaging from their employers. Connecticut Gov. Ned Lamont (D) is "
+        ],
+        [
+          0,
+          [
+            16
+          ],
+          1,
+          "expected to sign"
+        ],
+        [
+          0,
+          [],
+          0,
+          " the bill."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "•  The Buzzfeed News Union just "
+        ],
+        [
+          0,
+          [
+            17
+          ],
+          1,
+          "won a contract"
+        ],
+        [
+          0,
+          [],
+          0,
+          ", which is especially important as workers at the company "
+        ],
+        [
+          0,
+          [
+            18
+          ],
+          1,
+          "face imminent mass layoffs"
+        ],
+        [
+          0,
+          [],
+          0,
+          " as the company works to “accelerate the timeline to profitability.”"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "•  Intuit, the corporation that operates TurboTax, "
+        ],
+        [
+          0,
+          [
+            19
+          ],
+          1,
+          "will have to send up to $90 to about four million people"
+        ],
+        [
+          0,
+          [],
+          0,
+          " who were led to believe the tax filing service was free, but then had to pay to finish filing."
+        ]
+      ]
+    ],
+    [
+      10,
+      3
+    ],
+    [
+      10,
+      4
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [
+            5,
+            20
+          ],
+          1,
+          "Our news organization relies on readers pitching in to support our journalism. "
+        ],
+        [
+          0,
+          [
+            5,
+            20
+          ],
+          3,
+          "If you like this story, please support "
+        ],
+        [
+          0,
+          [
+            20,
+            5,
+            20
+          ],
+          3,
+          "our"
+        ],
+        [
+          0,
+          [
+            5,
+            5,
+            20
+          ],
+          3,
+          " work."
+        ]
+      ]
+    ],
+    [
+      10,
+      5
+    ],
+    [
+      10,
+      6
+    ],
+    [
+      10,
+      7
+    ],
+    [
+      1,
+      "p",
+      []
+    ],
+    [
+      1,
+      "p",
+      []
+    ]
+  ],
+  "ghostVersion": "4.0"
+}

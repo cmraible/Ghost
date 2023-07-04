@@ -1,0 +1,411 @@
+{
+  "version": "0.3.1",
+  "atoms": [],
+  "cards": [
+    [
+      "hr",
+      {}
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "html",
+      {
+        "html": "<table id=\"production-numbers-table\">\n<tbody>\n\t<tr>\n\t\t<td>SED 4D and 350 SED 4D</td>\n\t\t<td>42,206</td>\n\t</tr>\n    \t<tr>\n\t\t<td>CPE</td>\n\t\t<td>14,552</td>\n\t</tr>\n    \t<tr>\n\t\t<td>HTP CPE and 350 HTP CPE</td>\n\t\t<td>84,868</td>\n\t</tr>\n    \t<tr>\n\t\t<td>CUST SDN 4D</td>\n\t\t<td>9,924</td>\n\t</tr>\n    \t<tr>\n\t\t<td>CUST HTP SDN</td>\n\t\t<td>12,925</td>\n\t</tr>\n    \t<tr>\n\t\t<td>CUST HTP CPE</td>\n\t\t<td>34,271</td>\n\t</tr>\n    \t<tr>\n\t\t<td>CUST CONV CPE</td>\n\t\t<td>3,608</td>\n\t</tr>\n    \t<tr>\n\t\t<td>Sportwagon 4D 2S</td>\n\t\t<td>14,417</td>\n\t</tr>\n\t\t<td><b>Total Production</b></td>\n\t\t<td><b>216,771</b></td>\n\t</tr>\n</tbody>\n</table>"
+      }
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "html",
+      {
+        "html": "<table id=\"performance-specs-table\">\n<tbody>\n\t<tr>\n\t\t<th><b>Engine</b></th>\n\t\t<th><b>Size</b></td>\n\t\t<th><b>Carb.</b></td>\n\t\t<th><b>HP</b></td>\n\t\t<th><b>Torque</b></td>\n\t\t<th><b>0 to 60</b></td>\n\t\t<th><b>Quarter mile</b></td>\n\t</tr>\n\t<tr>\n\t\t<td>V8</td>\n\t\t<td>400</td>\n\t\t<td>1x2bbl</td>\n\t\t<td>265 hp</td>\n\t\t<td>397 lb-ft</td>\n\t\t<td>-</td>\n\t\t<td>-</td>\n\t</tr>\n\t<tr>\n\t\t<td>V8</td>\n\t\t<td>400 ci</td>\n\t\t<td>1x4bbl</td>\n\t\t<td>350 hp</td>\n\t\t<td>445 lb-ft</td>\n\t\t<td>-</td>\n\t\t<td>-</td>\n\t</tr>\n\t<tr>\n\t\t<td>Ram Air III</td>\n\t\t<td>400</td>\n\t\t<td>1x4bbl</td>\n\t\t<td>366 hp</td>\n\t\t<td>445 lb-ft</td>\n\t\t<td>-</td>\n\t\t<td>-</td>\n\t</tr>\n\t<tr>\n\t\t<td>Ram Air IV</td>\n\t\t<td>400 ci</td>\n\t\t<td>1x4bbl</td>\n\t\t<td>370 hp</td>\n\t\t<td>445 lb-ft</td>\n\t\t<td>-</td>\n\t\t<td>-</td>\n\t</tr>\n</tbody>\n</table>"
+      }
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "html",
+      {
+        "html": "<h4 id='colors-sub-heading'>Exterior</h4>\n<div class=\"colors-row\">\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #000000\"></div>\n        <div class=\"color-name\">Starlight Black</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #fff5e4\"></div>\n        <div class=\"color-name\">Cameo White</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #181c42\"></div>\n        <div class=\"color-name\">Liberty Blue</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #bdaa8c\"></div>\n        <div class=\"color-name\">Antique Gold</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #31757b\"></div>\n        <div class=\"color-name\">Crystal Turquoise</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #841c42\"></div>\n        <div class=\"color-name\">Burgundy</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #5a6746\"></div>\n        <div class=\"color-name\">Verdoro Green</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #a99773\"></div>\n        <div class=\"color-name\">Champagne</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #e0582b\"></div>\n        <div class=\"color-name\">Carousel Red</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #503315\"></div>\n        <div class=\"color-name\">Expresso Brown</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #395484\"></div>\n        <div class=\"color-name\">Warwick Blue</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #21656b\"></div>\n        <div class=\"color-name\">Windward Blue</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #94a26b\"></div>\n        <div class=\"color-name\">Limelight</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #2b4022\"></div>\n        <div class=\"color-name\">Midnight Green</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #848e8c\"></div>\n        <div class=\"color-name\">Palladium Silver</div>\n     </div>\n     <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #bd1c37\"></div>\n        <div class=\"color-name\">Matador Red</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #fff3b5\"></div>\n        <div class=\"color-name\">Mayfair Maize</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #efe06b\"></div>\n        <div class=\"color-name\">Goldenrod Yellow</div>\n    </div>\n</div>\n\n<h4 id='colors-sub-heading'>Interior</h4>\n<div class=\"colors-row\">\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #2b346b\"></div>\n        <div class=\"color-name\">Blue</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #9c414a\"></div>\n        <div class=\"color-name\">Red</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #ded3c6\"></div>\n        <div class=\"color-name\">Parchment</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #b58a52\"></div>\n        <div class=\"color-name\">Gold</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #386e40\"></div>\n        <div class=\"color-name\">Green</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #000000\"></div>\n        <div class=\"color-name\">Black</div>\n    </div>\n</div>"
+      }
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "gallery",
+      {
+        "images": [
+          {
+            "fileName": "552_1969_Pontiac_Performance-01_low_res.jpeg",
+            "row": 0,
+            "width": 768,
+            "height": 1024,
+            "src": "__GHOST_URL__/content/images/2020/06/552_1969_Pontiac_Performance-01_low_res.jpeg"
+          },
+          {
+            "fileName": "553_1969_Pontiac_Performance-02-03_low_res1.jpeg",
+            "row": 0,
+            "width": 790,
+            "height": 360,
+            "src": "__GHOST_URL__/content/images/2020/06/553_1969_Pontiac_Performance-02-03_low_res1.jpeg"
+          },
+          {
+            "fileName": "554_1969_Pontiac_Performance-04-05_low_res2.jpeg",
+            "row": 0,
+            "width": 790,
+            "height": 361,
+            "src": "__GHOST_URL__/content/images/2020/06/554_1969_Pontiac_Performance-04-05_low_res2.jpeg"
+          },
+          {
+            "fileName": "555_1969_Pontiac_Performance-06-07_low_res3.jpeg",
+            "row": 1,
+            "width": 790,
+            "height": 360,
+            "src": "__GHOST_URL__/content/images/2020/06/555_1969_Pontiac_Performance-06-07_low_res3.jpeg"
+          },
+          {
+            "fileName": "556_1969_Pontiac_Performance-08-09_low_res4.jpeg",
+            "row": 1,
+            "width": 790,
+            "height": 360,
+            "src": "__GHOST_URL__/content/images/2020/06/556_1969_Pontiac_Performance-08-09_low_res4.jpeg"
+          }
+        ]
+      }
+    ],
+    [
+      "hr",
+      {}
+    ]
+  ],
+  "markups": [
+    [
+      "em"
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/tag/research/"
+      ]
+    ]
+  ],
+  "sections": [
+    [
+      1,
+      "h3",
+      [
+        [
+          0,
+          [],
+          0,
+          "Overview"
+        ]
+      ]
+    ],
+    [
+      10,
+      0
+    ],
+    [
+      1,
+      "h3",
+      [
+        [
+          0,
+          [],
+          0,
+          "Many consider 1969 to be the last of the golden years for muscle cars."
+        ]
+      ]
+    ],
+    [
+      10,
+      1
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Ironically so, Pontiac decided to release their most promising GTO, The Judge."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "The design of the 1969 GTO had little change from the previous year. The few changes that did occur were the removal or replacement of the emblem from several locations, and the Endura bumper was back, but this time with no optional chrome."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "The Judge was standard equipped with the Ram Air III, but had the same options as the base model GTO. Also to note, the 1969 GTO “The Judge” convertible with the Ram Air IV was the most rare, having only five produced."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "“The Goat” was noticing declining sales figures from stiff competition, mainly the Chevelle SS, but the image of “The Tiger” remained indestructible."
+        ]
+      ]
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Production Numbers"
+        ]
+      ]
+    ],
+    [
+      10,
+      2
+    ],
+    [
+      10,
+      3
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Performance Specs"
+        ]
+      ]
+    ],
+    [
+      10,
+      4
+    ],
+    [
+      10,
+      5
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Transmission"
+        ]
+      ]
+    ],
+    [
+      10,
+      6
+    ],
+    [
+      3,
+      "ul",
+      [
+        [
+          [
+            0,
+            [],
+            0,
+            "3-Speed Manual"
+          ]
+        ],
+        [
+          [
+            0,
+            [],
+            0,
+            "4-Speed Manual"
+          ]
+        ],
+        [
+          [
+            0,
+            [],
+            0,
+            "Turbo Hydra-Matic"
+          ]
+        ],
+        [
+          [
+            0,
+            [],
+            0,
+            "4-Speed Close Ratio Manual"
+          ]
+        ]
+      ]
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Paint & Colors"
+        ]
+      ]
+    ],
+    [
+      10,
+      7
+    ],
+    [
+      10,
+      8
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "OEM Brochures"
+        ]
+      ]
+    ],
+    [
+      10,
+      9
+    ],
+    [
+      10,
+      10
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "About the Knowledge Base"
+        ]
+      ]
+    ],
+    [
+      10,
+      11
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "The Motorious Knowledge Base provides a comprehensive vehicle overview for the 1969 Pontiac GTO"
+        ],
+        [
+          0,
+          [
+            0,
+            0
+          ],
+          2,
+          " "
+        ],
+        [
+          0,
+          [],
+          0,
+          "including production numbers, performance specs, factory colors, and OEM brochures. Check out additional model years or related content linked to this article or view other Makes and Models in our "
+        ],
+        [
+          0,
+          [
+            1
+          ],
+          1,
+          "Research"
+        ],
+        [
+          0,
+          [],
+          0,
+          " center."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "If you have any interesting facts about the 1969 Pontiac GTO"
+        ],
+        [
+          0,
+          [
+            0,
+            0
+          ],
+          2,
+          " "
+        ],
+        [
+          0,
+          [],
+          0,
+          "to add, want to tell us how we did covering the GTO, or want to tell us about yours, please leave a comment below."
+        ]
+      ]
+    ]
+  ],
+  "ghostVersion": "3.0"
+}

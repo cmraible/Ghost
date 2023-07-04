@@ -1,0 +1,497 @@
+{
+  "version": "0.3.1",
+  "atoms": [],
+  "cards": [
+    [
+      "hr",
+      {}
+    ],
+    [
+      "embed",
+      {
+        "url": "https://twitter.com/johnlegend/status/1336068753407152131?s=20&t=BvMD0y31m0vas4lUdPPZEg",
+        "html": "<blockquote class=\"twitter-tweet\"><p lang=\"en\" dir=\"ltr\">George Gascón, our new DA in Los Angeles, just announced some major reforms on his first day. Proud to have supported his election. This is the kind of change we voted for and the kind of change we need to bring our system closer to true justice <a href=\"https://t.co/MDEXGQaFe3\">https://t.co/MDEXGQaFe3</a></p>&mdash; John Legend (@johnlegend) <a href=\"https://twitter.com/johnlegend/status/1336068753407152131?ref_src=twsrc%5Etfw\">December 7, 2020</a></blockquote>\n<script async src=\"https://platform.twitter.com/widgets.js\" charset=\"utf-8\"></script>\n",
+        "type": "twitter",
+        "metadata": {
+          "url": "https://twitter.com/johnlegend/status/1336068753407152131",
+          "author_name": "John Legend",
+          "author_url": "https://twitter.com/johnlegend",
+          "width": 550,
+          "height": null,
+          "cache_age": "3153600000",
+          "provider_name": "Twitter",
+          "provider_url": "http://www.twitter.com/",
+          "version": "1.0",
+          "tweet_data": {
+            "entities": {
+              "urls": [
+                {
+                  "start": 246,
+                  "end": 269,
+                  "url": "https://t.co/MDEXGQaFe3",
+                  "expanded_url": "https://twitter.com/GeorgeGascon/status/1336050937597554688",
+                  "display_url": "twitter.com/GeorgeGascon/s…"
+                }
+              ],
+              "annotations": [
+                {
+                  "start": 0,
+                  "end": 12,
+                  "probability": 0.9234,
+                  "type": "Person",
+                  "normalized_text": "George Gascón"
+                },
+                {
+                  "start": 29,
+                  "end": 39,
+                  "probability": 0.9688,
+                  "type": "Place",
+                  "normalized_text": "Los Angeles"
+                }
+              ]
+            },
+            "author_id": "18228898",
+            "referenced_tweets": [
+              {
+                "type": "quoted",
+                "id": "1336050937597554688"
+              }
+            ],
+            "context_annotations": [
+              {
+                "domain": {
+                  "id": "10",
+                  "name": "Person",
+                  "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                  "id": "807316102036353024",
+                  "name": "John Legend",
+                  "description": "John Legend"
+                }
+              },
+              {
+                "domain": {
+                  "id": "54",
+                  "name": "Musician",
+                  "description": "A musician in the world, like Adele or Bob Dylan"
+                },
+                "entity": {
+                  "id": "807316102036353024",
+                  "name": "John Legend",
+                  "description": "John Legend"
+                }
+              },
+              {
+                "domain": {
+                  "id": "55",
+                  "name": "Music Genre",
+                  "description": "A category for a musical style, like Pop, Rock, or Rap"
+                },
+                "entity": {
+                  "id": "849684722695327744",
+                  "name": "R&B and soul",
+                  "description": "R&B and soul"
+                }
+              },
+              {
+                "domain": {
+                  "id": "131",
+                  "name": "Unified Twitter Taxonomy",
+                  "description": "A taxonomy of user interests. "
+                },
+                "entity": {
+                  "id": "807316102036353024",
+                  "name": "John Legend",
+                  "description": "John Legend"
+                }
+              },
+              {
+                "domain": {
+                  "id": "131",
+                  "name": "Unified Twitter Taxonomy",
+                  "description": "A taxonomy of user interests. "
+                },
+                "entity": {
+                  "id": "847524658970636288",
+                  "name": "Music",
+                  "description": "Music and radio"
+                }
+              },
+              {
+                "domain": {
+                  "id": "131",
+                  "name": "Unified Twitter Taxonomy",
+                  "description": "A taxonomy of user interests. "
+                },
+                "entity": {
+                  "id": "849684722695327744",
+                  "name": "R&B and soul",
+                  "description": "R&B and soul"
+                }
+              },
+              {
+                "domain": {
+                  "id": "131",
+                  "name": "Unified Twitter Taxonomy",
+                  "description": "A taxonomy of user interests. "
+                },
+                "entity": {
+                  "id": "1286087026526150656",
+                  "name": "Soul music"
+                }
+              }
+            ],
+            "public_metrics": {
+              "retweet_count": 114,
+              "reply_count": 135,
+              "like_count": 1286,
+              "quote_count": 26
+            },
+            "edit_history_tweet_ids": [
+              "1336068753407152131"
+            ],
+            "created_at": "2020-12-07T22:03:08.000Z",
+            "conversation_id": "1336068753407152131",
+            "text": "George Gascón, our new DA in Los Angeles, just announced some major reforms on his first day. Proud to have supported his election. This is the kind of change we voted for and the kind of change we need to bring our system closer to true justice https://t.co/MDEXGQaFe3",
+            "source": "Twitter for iPhone",
+            "reply_settings": "everyone",
+            "lang": "en",
+            "id": "1336068753407152131",
+            "possibly_sensitive": false,
+            "includes": {
+              "users": [
+                {
+                  "entities": {
+                    "url": {
+                      "urls": [
+                        {
+                          "start": 0,
+                          "end": 23,
+                          "url": "https://t.co/zYWh7pCI4E",
+                          "expanded_url": "https://www.johnlegend.com/",
+                          "display_url": "johnlegend.com"
+                        }
+                      ]
+                    },
+                    "description": {
+                      "urls": [
+                        {
+                          "start": 101,
+                          "end": 124,
+                          "url": "https://t.co/W0YOsNZmGG",
+                          "expanded_url": "http://johnlegend.com",
+                          "display_url": "johnlegend.com"
+                        }
+                      ],
+                      "hashtags": [
+                        {
+                          "start": 43,
+                          "end": 58,
+                          "tag": "LoveInLasVegas"
+                        }
+                      ],
+                      "mentions": [
+                        {
+                          "start": 141,
+                          "end": 151,
+                          "username": "lve_wines"
+                        }
+                      ]
+                    }
+                  },
+                  "id": "18228898",
+                  "name": "John Legend",
+                  "public_metrics": {
+                    "followers_count": 13733578,
+                    "following_count": 1534,
+                    "tweet_count": 16833,
+                    "listed_count": 21215
+                  },
+                  "url": "https://t.co/zYWh7pCI4E",
+                  "verified": true,
+                  "profile_image_url": "https://pbs.twimg.com/profile_images/1556091675365126146/Q7E_Fdb2_normal.jpg",
+                  "pinned_tweet_id": "1568086860664287232",
+                  "username": "johnlegend",
+                  "created_at": "2008-12-18T23:42:30.000Z",
+                  "protected": false,
+                  "description": "Chrissy's husband. Father of Luna & Miles. #LoveInLasVegas The Residency in 2022. Tickets and VIP at https://t.co/W0YOsNZmGG. Drink like me: @lve_wines"
+                },
+                {
+                  "location": "Los Angeles",
+                  "entities": {
+                    "url": {
+                      "urls": [
+                        {
+                          "start": 0,
+                          "end": 23,
+                          "url": "https://t.co/9c8lajNdLz",
+                          "expanded_url": "http://georgegascon.org",
+                          "display_url": "georgegascon.org"
+                        }
+                      ]
+                    }
+                  },
+                  "id": "322937211",
+                  "name": "George Gascón",
+                  "public_metrics": {
+                    "followers_count": 30648,
+                    "following_count": 2995,
+                    "tweet_count": 4407,
+                    "listed_count": 354
+                  },
+                  "url": "https://t.co/9c8lajNdLz",
+                  "verified": true,
+                  "profile_image_url": "https://pbs.twimg.com/profile_images/1188818033667502080/EcA6mbpY_normal.jpg",
+                  "username": "GeorgeGascon",
+                  "created_at": "2011-06-24T00:19:27.000Z",
+                  "protected": false,
+                  "description": "LA County District Attorney. I've spent my life modernizing criminal justice through data and science to reduce victimization and enhance safety and equity."
+                }
+              ],
+              "tweets": [
+                {
+                  "entities": {
+                    "urls": [
+                      {
+                        "start": 133,
+                        "end": 156,
+                        "url": "https://t.co/6pkjGgleQY",
+                        "expanded_url": "https://twitter.com/GeorgeGascon/status/1336050937597554688/photo/1",
+                        "display_url": "pic.twitter.com/6pkjGgleQY",
+                        "media_key": "3_1336042763310092288"
+                      }
+                    ],
+                    "annotations": [
+                      {
+                        "start": 120,
+                        "end": 130,
+                        "probability": 0.8726,
+                        "type": "Place",
+                        "normalized_text": "Los Angeles"
+                      }
+                    ]
+                  },
+                  "author_id": "322937211",
+                  "public_metrics": {
+                    "retweet_count": 1531,
+                    "reply_count": 824,
+                    "like_count": 10780,
+                    "quote_count": 2418
+                  },
+                  "attachments": {
+                    "media_keys": [
+                      "3_1336042763310092288"
+                    ]
+                  },
+                  "edit_history_tweet_ids": [
+                    "1336050937597554688"
+                  ],
+                  "created_at": "2020-12-07T20:52:20.000Z",
+                  "conversation_id": "1336050937597554688",
+                  "text": "40 years ago I walked my first beat as a young police officer. \n\nToday, I was sworn in as the 43rd District Attorney of Los Angeles. https://t.co/6pkjGgleQY",
+                  "source": "Twitter Web App",
+                  "reply_settings": "everyone",
+                  "lang": "en",
+                  "id": "1336050937597554688",
+                  "possibly_sensitive": false
+                }
+              ]
+            }
+          }
+        }
+      }
+    ]
+  ],
+  "markups": [
+    [
+      "strong"
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.youtube.com/watch?v=7NGQjqH3XmE"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://ktla.com/news/local-news/john-legends-stolen-car-case-getting-preferential-treatment-l-a-county-deputy-da-says/"
+      ]
+    ]
+  ],
+  "sections": [
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Do you think the average person’s case would be handled the same way?"
+        ]
+      ]
+    ],
+    [
+      10,
+      0
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Los Angeles District Attorney George Gascon is no stranger to controversy, with many objecting to what they characterize as a soft-on-crime approach. However, accusations are flying that the DA is giving singer, songwriter, and producer John Legend preferential treatment after someone tried stealing the celebrity’s Porsche."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [
+            0
+          ],
+          0,
+          "Check out the Motorious Podcast "
+        ],
+        [
+          0,
+          [
+            1
+          ],
+          1,
+          "here"
+        ],
+        [
+          0,
+          [],
+          1,
+          "."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Car thefts unfortunately happen all the time in Los Angeles. On November 28, Legend fell victim to the crime as he was working in a recording studio. A suspect reportedly tried stealing Legend’s Porsche yet didn’t get far with the car. Los Angeles police quickly arrested the person for grand theft auto."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "There have been accusations that in cities like LA car thieves are on the street before cops can fill out all the paperwork. It doesn’t sound like that was the case here. In fact, some prosecutors in the DA’s office claim an email was sent out asking them to keep Acting Head Deputy John Harlan in the loop about any updates."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "L.A. County Deputy DA Jonathan Hatami didn’t have kind words for what’s happening. “This specific case, it has the appearance of impropriety because he’s trying to get the case before it’s even filed, before the case is even presented, and so that’s unusual,” he said a local reporter."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Director of communications for the DA’s office, Tiffany Blackwell, provided a statement to a local news station:"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "“The allegation that we gave preferential treatment to a case involving John Legend is baseless. It is the routine practice for the Head Deputy of the Charge Evaluation Division to seek information on all cases generating media interest. This matter was received the same way any media case is treated by the filing unit. Our office did not file this case. It was referred to the L.A. County Attorney’s Office back on November 23 for misdemeanor filing consideration.”"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "We’re sure this is just a mix-up and the fact John Legend has been an ardent supporter of Gascon is purely coincidental. The husband of Chrissy Teigen has thrown his support behind the DA both in person and online, so he’s just be treated like every other citizen who had a car stolen."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Source: "
+        ],
+        [
+          0,
+          [
+            2
+          ],
+          1,
+          "KTLA"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Image via Facebook"
+        ]
+      ]
+    ],
+    [
+      10,
+      1
+    ],
+    [
+      1,
+      "p",
+      []
+    ]
+  ],
+  "ghostVersion": "4.0"
+}

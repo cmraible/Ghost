@@ -1,0 +1,534 @@
+{
+  "version": "0.3.1",
+  "atoms": [],
+  "cards": [
+    [
+      "hr",
+      {}
+    ],
+    [
+      "image",
+      {
+        "src": "__GHOST_URL__/content/images/2020/04/J2-1730_6-1.png"
+      }
+    ],
+    [
+      "image",
+      {
+        "src": "__GHOST_URL__/content/images/2020/04/Allard-M-flathead-Ford.jpg",
+        "caption": "Allard M Ford Flathead V-8"
+      }
+    ],
+    [
+      "image",
+      {
+        "src": "__GHOST_URL__/content/images/2020/04/J2-1855_2.jpg",
+        "caption": "Allard J2"
+      }
+    ],
+    [
+      "gallery",
+      {
+        "images": [
+          {
+            "fileName": "Allard L.jpg",
+            "row": 0,
+            "width": 750,
+            "height": 563,
+            "src": "__GHOST_URL__/content/images/2020/05/Allard-L.jpg"
+          },
+          {
+            "fileName": "Allard L  another.png",
+            "row": 0,
+            "width": 750,
+            "height": 420,
+            "src": "__GHOST_URL__/content/images/2020/05/Allard-L--another.png"
+          },
+          {
+            "fileName": "Allard K1.jpg",
+            "row": 0,
+            "width": 750,
+            "height": 563,
+            "src": "__GHOST_URL__/content/images/2020/05/Allard-K1.jpg"
+          },
+          {
+            "fileName": "Allard_K3-3195_2.jpg",
+            "row": 1,
+            "width": 750,
+            "height": 500,
+            "src": "__GHOST_URL__/content/images/2020/05/Allard_K3-3195_2-1.jpg"
+          },
+          {
+            "fileName": "M-872_4.jpg",
+            "row": 1,
+            "width": 750,
+            "height": 500,
+            "src": "__GHOST_URL__/content/images/2020/05/M-872_4.jpg"
+          },
+          {
+            "fileName": "72-7106XK_4.jpg",
+            "row": 1,
+            "width": 500,
+            "height": 375,
+            "src": "__GHOST_URL__/content/images/2020/05/72-7106XK_4.jpg"
+          },
+          {
+            "fileName": "J2X-3041_1.jpg",
+            "row": 2,
+            "width": 750,
+            "height": 511,
+            "src": "__GHOST_URL__/content/images/2020/05/J2X-3041_1-1.jpg"
+          },
+          {
+            "fileName": "L-771_12.jpg",
+            "row": 2,
+            "width": 648,
+            "height": 489,
+            "src": "__GHOST_URL__/content/images/2020/05/L-771_12.jpg"
+          },
+          {
+            "fileName": "1.jpg",
+            "row": 2,
+            "width": 795,
+            "height": 579,
+            "src": "__GHOST_URL__/content/images/2020/05/1.jpg"
+          }
+        ]
+      }
+    ],
+    [
+      "bookmark",
+      {
+        "type": "bookmark",
+        "url": "__GHOST_URL__/articles/features-3/tiny-concours-big-reach/",
+        "metadata": {
+          "url": "__GHOST_URL__/articles/features-3/tiny-concours-big-reach/",
+          "title": "Tiny Concours with a Big Impact",
+          "description": "Get out your magnifiers, q-tips and that sample bottle of Slick Products Instant Detailer. Find your favorite die-cast or resin model and prepare for The Isolation Island Concours d’Elegance.",
+          "author": "Mark Moskowitz",
+          "publisher": "Motorious",
+          "thumbnail": "__GHOST_URL__/content/images/2020/04/TinyConcoursBMW.jpg",
+          "icon": "__GHOST_URL__/favicon.png"
+        }
+      }
+    ],
+    [
+      "bookmark",
+      {
+        "type": "bookmark",
+        "url": "__GHOST_URL__/articles/handpicked/forgo-the-ferrari-consider-a-classic-jaguar/",
+        "metadata": {
+          "url": "__GHOST_URL__/articles/handpicked/forgo-the-ferrari-consider-a-classic-jaguar/",
+          "title": "Forgo the Ferrari; Consider a Classic Jaguar",
+          "description": "This Jag will put a smile on your face and other as all proceeds benefit charity",
+          "author": "Mark Moskowitz",
+          "publisher": "Motorious",
+          "thumbnail": "__GHOST_URL__/content/images/2020/03/Screen-Shot-2020-03-16-at-10.29.04-AM.png",
+          "icon": "__GHOST_URL__/favicon.png"
+        }
+      }
+    ]
+  ],
+  "markups": [
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/articles/news/forced-laborers-freed/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://buy.motorious.com/vehicles/search/Triumph"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://buy.motorious.com/vehicles/search/Lotus"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://buy.motorious.com/vehicles/search/Austin%20Healey"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://buy.motorious.com/vehicles/search/MG"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://buy.motorious.com/vehicles/search/Jaguar"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://buy.motorious.com/vehicles/search/Allard"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/articles/news/70th-pebble-beach-concours-postponed-covid-19/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/articles/features-3/covid19-industry-disruptor/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/articles/features-3/what-happened-to-ebay-motors/"
+      ]
+    ],
+    [
+      "em"
+    ],
+    [
+      "a",
+      [
+        "href",
+        "http://www.allardregister.org/"
+      ]
+    ]
+  ],
+  "sections": [
+    [
+      1,
+      "h3",
+      [
+        [
+          0,
+          [],
+          0,
+          "Allard Motor Company had lot of influence with little exposure."
+        ]
+      ]
+    ],
+    [
+      10,
+      0
+    ],
+    [
+      10,
+      1
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "”Export or die” was the mantra in "
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "post war"
+        ],
+        [
+          0,
+          [],
+          0,
+          " Britain. Despite limited capital and natural resources, Brits were able to flood our shores with memorable open two seaters.  "
+        ],
+        [
+          0,
+          [
+            1
+          ],
+          1,
+          "Triumph"
+        ],
+        [
+          0,
+          [],
+          0,
+          ", "
+        ],
+        [
+          0,
+          [
+            2
+          ],
+          1,
+          "Lotus"
+        ],
+        [
+          0,
+          [],
+          0,
+          ", "
+        ],
+        [
+          0,
+          [
+            3
+          ],
+          1,
+          "Austin Healey"
+        ],
+        [
+          0,
+          [],
+          0,
+          ", Morgan, "
+        ],
+        [
+          0,
+          [
+            4
+          ],
+          1,
+          "MG"
+        ],
+        [
+          0,
+          [],
+          0,
+          ", and "
+        ],
+        [
+          0,
+          [
+            5
+          ],
+          1,
+          "Jaguar"
+        ],
+        [
+          0,
+          [],
+          0,
+          " soon became part of the American lexicon."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [
+            6
+          ],
+          1,
+          "Allard cars"
+        ],
+        [
+          0,
+          [],
+          0,
+          " remain less well-known; they were produced in smaller numbers yet had a profound influence. Sydney Allard was an accomplished trials racer prior to the Second World War. His lightweight yet durable competition vehicles excelled in the classic British events best described as a combination of hill climbs and motocross for cars."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Allard Motor Company Limited was launched in 1945. Station wagons, sedans, luxury tourers, and sports cars followed. With Sydney at the wheel, an Allard P1- a five-seat sedan won the prestigious Monte Carlo rally in 1952. Allard was quick to adopt high performance measures, employing rudimentary versions of front and rear independent suspensions. The DeDion rear employed hinged rear axles hung from a differential with inboard brakes. The Bellamy suspension divided a solid axle and pivoted each side beneath a front crossmember. Many of the early cars were fitted with American flathead V8s."
+        ]
+      ]
+    ],
+    [
+      10,
+      2
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Zora Arkus-Duntov, the acknowledged father of the Corvette. lent his skills as part of the Allard team from 1950 to 1952.  Allard famously fitted a Cadillac overhead valve V-8 into his lightweight J2 sports car. He drove one to third place at LeMans in 1950. In the United States, Allards dominated road racing at such venues as "
+        ],
+        [
+          0,
+          [
+            7
+          ],
+          1,
+          "Pebble Beach"
+        ],
+        [
+          0,
+          [],
+          0,
+          " and Watkins Glen. Among the more famous Allard chauffeurs was a young Carroll Shelby. Somewhere during this time Carroll realized that “you can’t beat cubic inches”. Many believe his time with Allard was his inspiration for the Cobra"
+        ]
+      ]
+    ],
+    [
+      10,
+      3
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "The legacy remains popular in America. J2s and J2xs are auction favorites commanding hundreds of thousands of dollars. Owners on the East Coast seem to remain in close touch with the British Allard Club. The California based Allard Register inspires the faithful with hundreds of pictures, stories, tech articles and online links. "
+        ],
+        [
+          0,
+          [
+            8
+          ],
+          1,
+          "During the COVID crisis"
+        ],
+        [
+          0,
+          [],
+          0,
+          ", registrar Colin Warnes. a packaging manufacturer by day and an Allard fan and restorer on nights and weekends, "
+        ],
+        [
+          0,
+          [
+            9
+          ],
+          1,
+          "proposed an online"
+        ],
+        [
+          0,
+          [],
+          0,
+          " concours. Seven days later nearly 4% of the entirety of Allard’s 13-year production was represented by 100-word essays and eight picture submissions.  "
+        ]
+      ]
+    ],
+    [
+      1,
+      "blockquote",
+      [
+        [
+          0,
+          [],
+          0,
+          "Colin noted, “many owners would rather drive their cars than park them on a show field; here warts, dings, scratches and the occasional variances from a stock configuration do not matter.” "
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "A noteworthy group of online concours judges includes Shelby authority Colin Comer, Allan Allard and noted author Tony Adriaensens who recently published "
+        ],
+        [
+          0,
+          [
+            10
+          ],
+          1,
+          "Weekend Heroes 2"
+        ],
+        [
+          0,
+          [],
+          0,
+          ", a three-volume study of California road racing in the 1950s. The entries in five separate classes demonstrate the variety of Sydney’s accomplishments and the dedication of Allard aficionados. The online event is worthy of your review.  All 73 entries and the class  winners can be seen "
+        ],
+        [
+          0,
+          [
+            11
+          ],
+          1,
+          "here"
+        ],
+        [
+          0,
+          [],
+          0,
+          ".           "
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [
+            10
+          ],
+          1,
+          "All pictures reproduced with the permission of the Allard Register."
+        ]
+      ]
+    ],
+    [
+      10,
+      4
+    ],
+    [
+      1,
+      "h3",
+      [
+        [
+          0,
+          [],
+          0,
+          "Related Articles..."
+        ]
+      ]
+    ],
+    [
+      10,
+      5
+    ],
+    [
+      10,
+      6
+    ],
+    [
+      1,
+      "p",
+      []
+    ]
+  ],
+  "ghostVersion": "3.0"
+}

@@ -1,0 +1,1094 @@
+{
+  "version": "0.3.1",
+  "atoms": [],
+  "cards": [
+    [
+      "email-cta",
+      {
+        "showButton": true,
+        "showDividers": true,
+        "segment": "status:free",
+        "alignment": "left",
+        "buttonText": "Get The Discount: $4 Per Month + Support The RWU",
+        "buttonUrl": "__GHOST_URL__/rwu-fundraiser-discount",
+        "html": "<p><em>The Lever</em> is fully independent and reader-supported to ensure that we aren't beholden to the same powerful interests that we report on. However, that means we need your help. Today, <a href=\"__GHOST_URL__/rwu-fundraiser-discount\"><strong>click here to get a 50% discount</strong></a> on a full supporter subscription to <em>The Lever</em>. As an added bonus, we'll donate your first month's payment to Railroad Workers United, so you're not only supporting true independent journalism that holds the powerful accountable, but you'll be directly supporting railroad workers as they fight for their rights.</p>"
+      }
+    ],
+    [
+      "email-cta",
+      {
+        "showButton": false,
+        "showDividers": false,
+        "segment": "status:-free",
+        "alignment": "left",
+        "html": "<p><strong>Spread the word: Forward this email to encourage others <a href=\"https://levernews.com/membership/?utm_source=daily&amp;utm_medium=link&amp;utm_campaign=forward-signup\">to subscribe to <em>The Lever</em></a>.</strong></p>"
+      }
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "image",
+      {
+        "src": "__GHOST_URL__/content/images/2022/12/Axelrod-Rove-Cover-Art-2-1.png",
+        "width": 2000,
+        "height": 2000
+      }
+    ],
+    [
+      "image",
+      {
+        "src": "__GHOST_URL__/content/images/2022/12/Nina-Turner-2.png",
+        "width": 567,
+        "height": 305,
+        "cardWidth": ""
+      }
+    ],
+    [
+      "callout",
+      {
+        "calloutEmoji": "💡",
+        "calloutText": "<strong>On top of all that, </strong><em><strong>The Lever</strong></em><strong>’s supporting subscribers will receive early access to </strong><em><strong>The Audit</strong></em><strong>’s entire second mini-season on December 12th, ahead of its weekly releases. </strong><em><strong>The Audit</strong></em><strong>’s premium version will also include additional content, including deep-dive conversations between the study group.</strong>",
+        "backgroundColor": "yellow"
+      }
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "image",
+      {
+        "src": "__GHOST_URL__/content/images/2022/12/Newspaper-16by9-4k.png",
+        "width": 3840,
+        "height": 2160
+      }
+    ],
+    [
+      "email-cta",
+      {
+        "showButton": true,
+        "showDividers": false,
+        "segment": "status:-free",
+        "alignment": "center",
+        "html": "",
+        "buttonText": "Click Here To Comment",
+        "buttonUrl": "__GHOST_URL__/coming-monday-the-audit-season-two-featuring-nina-turner/#comments"
+      }
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "email",
+      {
+        "html": "<p><em><strong>Help us spread the word! </strong>Please forward this email to family and friends.</em></p><p><em><strong>Was this email forwarded to you? </strong><a href=\"https://levernews.com/membership/\">Sign up for free</a> to receive original reporting like this in your inbox every day.</em></p>"
+      }
+    ]
+  ],
+  "markups": [
+    [
+      "a",
+      [
+        "href",
+        "https://the.levernews.com/podcasts/#the-audit"
+      ]
+    ],
+    [
+      "em"
+    ],
+    [
+      "strong"
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://twitter.com/ninaturner"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/manchins-pipeline-campaign-continues/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://podcasts.apple.com/us/podcast/the-audit/id1646493564"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://open.spotify.com/show/4fK4XZf9IdtmMVtJ2CFFO9"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy50cmFuc2lzdG9yLmZtL3RoZS1hdWRpdA=="
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.iheart.com/podcast/269-the-audit-102363375/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://music.amazon.com/podcasts/3e63f3ef-d604-48c2-bfe5-44dc0b1f24d8/the-audit"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.stitcher.com/show/1026978"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://overcast.fm/itunes1646493564/the-audit"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://pca.st/aahlx8sb"
+      ]
+    ],
+    [
+      "u"
+    ],
+    [
+      "a",
+      [
+        "href",
+        "mailto:support@levernews.com"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/membership/"
+      ]
+    ]
+  ],
+  "sections": [
+    [
+      10,
+      0
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "We’ve got some very exciting news to share: Our “educational” podcast "
+        ],
+        [
+          0,
+          [
+            0,
+            1,
+            2
+          ],
+          3,
+          "The Audit"
+        ],
+        [
+          0,
+          [],
+          0,
+          " will be returning on December 12th with its second mini-season. This time around, hosts Dave Anthony and Josh Olson will be joined by a new study buddy: the one-and-only "
+        ],
+        [
+          0,
+          [
+            3,
+            2
+          ],
+          2,
+          "Senator Nina Turner"
+        ],
+        [
+          0,
+          [],
+          0,
+          "! Nina is a former Ohio State Senator, U.S. Congressional candidate, and one of the fiercest progressive voices in modern politics. More information about the season is below."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Also:"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [
+            2
+          ],
+          0,
+          "• "
+        ],
+        [
+          0,
+          [
+            4
+          ],
+          1,
+          "Read This"
+        ],
+        [
+          0,
+          [],
+          1,
+          ":"
+        ],
+        [
+          0,
+          [],
+          0,
+          " The coal baron senator, Joe Manchin, and his fossil fuel allies are still pushing to fast-track the construction of dirty pipelines as a matter of national security. "
+        ],
+        [
+          0,
+          [
+            4
+          ],
+          1,
+          "Click here to read the new full article"
+        ],
+        [
+          0,
+          [],
+          0,
+          " from journalists Andrew Perez and Ricardo Gomez."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Rock the boat."
+        ]
+      ]
+    ],
+    [
+      10,
+      1
+    ],
+    [
+      10,
+      2
+    ],
+    [
+      10,
+      3
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "On "
+        ],
+        [
+          0,
+          [
+            1
+          ],
+          1,
+          "The Audit"
+        ],
+        [
+          0,
+          [],
+          0,
+          ", Dave, Josh, and their study-buddy audit a variety of supposedly educational products created by noxious political figures and boil them down to the good stuff. By which they mean… the bad stuff. "
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [
+            2
+          ],
+          1,
+          "This season, the study group, including Nina Turner, will be auditing the"
+        ],
+        [
+          0,
+          [],
+          0,
+          " "
+        ],
+        [
+          0,
+          [
+            2
+          ],
+          1,
+          "David Axelrod & Karl Rove MasterClass on campaign strategy and messaging"
+        ],
+        [
+          0,
+          [],
+          0,
+          ". Yes, Barack Obama and George W. Bush’s chief campaign strategists got together to make a quick buck shilling their neoliberal BS on MasterClass — and now "
+        ],
+        [
+          0,
+          [
+            1
+          ],
+          1,
+          "The Audit"
+        ],
+        [
+          0,
+          [],
+          0,
+          "’s study group will sit through the entire thing and ruthlessly tear it to pieces."
+        ]
+      ]
+    ],
+    [
+      10,
+      4
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Click one of the links below and follow "
+        ],
+        [
+          0,
+          [
+            1
+          ],
+          1,
+          "The Audit"
+        ],
+        [
+          0,
+          [],
+          0,
+          " on your preferred podcast player. Once you click the link, make sure to “follow” or “subscribe” in your podcast app."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [
+            5,
+            2
+          ],
+          2,
+          "Apple Podcasts"
+        ],
+        [
+          0,
+          [
+            2
+          ],
+          1,
+          " ~ "
+        ],
+        [
+          0,
+          [
+            6,
+            2
+          ],
+          2,
+          "Spotify"
+        ],
+        [
+          0,
+          [
+            2
+          ],
+          1,
+          " ~ "
+        ],
+        [
+          0,
+          [
+            7,
+            2
+          ],
+          2,
+          "Google Podcasts"
+        ],
+        [
+          0,
+          [
+            2
+          ],
+          1,
+          " ~ "
+        ],
+        [
+          0,
+          [
+            8,
+            2
+          ],
+          2,
+          "iHeartRadio"
+        ],
+        [
+          0,
+          [
+            2
+          ],
+          1,
+          " "
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [
+            9,
+            2
+          ],
+          2,
+          "Amazon Music"
+        ],
+        [
+          0,
+          [
+            2
+          ],
+          1,
+          " ~ "
+        ],
+        [
+          0,
+          [
+            10,
+            2
+          ],
+          2,
+          "Stitcher"
+        ],
+        [
+          0,
+          [
+            2
+          ],
+          1,
+          " ~ "
+        ],
+        [
+          0,
+          [
+            11,
+            2
+          ],
+          2,
+          "Overcast"
+        ],
+        [
+          0,
+          [
+            2
+          ],
+          1,
+          " ~ "
+        ],
+        [
+          0,
+          [
+            12,
+            2
+          ],
+          2,
+          "Pocket Casts"
+        ]
+      ]
+    ],
+    [
+      10,
+      5
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "If you’d like access to "
+        ],
+        [
+          0,
+          [
+            1
+          ],
+          1,
+          "The Audit"
+        ],
+        [
+          0,
+          [],
+          0,
+          "’s premium episodes, read on…"
+        ]
+      ]
+    ],
+    [
+      10,
+      6
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Introducing… "
+        ],
+        [
+          0,
+          [
+            1
+          ],
+          1,
+          "Lever Premium Podcasts"
+        ]
+      ]
+    ],
+    [
+      10,
+      7
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "We have another very exciting announcement: On December 12, the "
+        ],
+        [
+          0,
+          [
+            1
+          ],
+          1,
+          "Lever Time Premium "
+        ],
+        [
+          0,
+          [],
+          0,
+          "podcast feed will become "
+        ],
+        [
+          0,
+          [
+            1,
+            2
+          ],
+          2,
+          "L"
+        ],
+        [
+          0,
+          [
+            2,
+            1
+          ],
+          1,
+          "ever Premium Podcasts, "
+        ],
+        [
+          0,
+          [],
+          0,
+          "the home for all of "
+        ],
+        [
+          0,
+          [
+            1
+          ],
+          1,
+          "The Lever"
+        ],
+        [
+          0,
+          [],
+          1,
+          "’s premium audio content"
+        ],
+        [
+          0,
+          [],
+          0,
+          ", exclusively available for "
+        ],
+        [
+          0,
+          [
+            1
+          ],
+          1,
+          "The Lever"
+        ],
+        [
+          0,
+          [],
+          0,
+          "’s supporting subscribers. "
+        ],
+        [
+          0,
+          [
+            1
+          ],
+          1,
+          "Lever Premium Podcasts"
+        ],
+        [
+          0,
+          [],
+          0,
+          " will be where you can access all of our subscriber-only podcasts, including the premium versions of "
+        ],
+        [
+          0,
+          [
+            1
+          ],
+          1,
+          "Lever Time"
+        ],
+        [
+          0,
+          [],
+          0,
+          " and "
+        ],
+        [
+          0,
+          [
+            1
+          ],
+          1,
+          "The Audit"
+        ],
+        [
+          0,
+          [],
+          0,
+          "."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [
+            2,
+            13,
+            2
+          ],
+          1,
+          "How do I access "
+        ],
+        [
+          0,
+          [
+            1,
+            2
+          ],
+          2,
+          "Lever Premium Podcasts"
+        ],
+        [
+          0,
+          [
+            2
+          ],
+          3,
+          "?"
+        ]
+      ]
+    ],
+    [
+      3,
+      "ul",
+      [
+        [
+          [
+            0,
+            [
+              2
+            ],
+            1,
+            "If you’re a"
+          ],
+          [
+            0,
+            [
+              1,
+              2
+            ],
+            2,
+            " "
+          ],
+          [
+            0,
+            [
+              2
+            ],
+            1,
+            "supporting subscriber who has already activated their "
+          ],
+          [
+            0,
+            [
+              1,
+              2
+            ],
+            2,
+            "Lever Time Premium "
+          ],
+          [
+            0,
+            [
+              2
+            ],
+            1,
+            "account"
+          ],
+          [
+            0,
+            [],
+            0,
+            ": You don’t have to do anything. The "
+          ],
+          [
+            0,
+            [
+              1
+            ],
+            1,
+            "Lever Time Premium"
+          ],
+          [
+            0,
+            [],
+            0,
+            " feed will automatically change into "
+          ],
+          [
+            0,
+            [
+              1
+            ],
+            1,
+            "Lever Premium Podcasts "
+          ],
+          [
+            0,
+            [],
+            0,
+            "on December 12."
+          ]
+        ],
+        [
+          [
+            0,
+            [
+              2
+            ],
+            1,
+            "If you’re a"
+          ],
+          [
+            0,
+            [
+              1,
+              2
+            ],
+            2,
+            " "
+          ],
+          [
+            0,
+            [
+              2
+            ],
+            1,
+            "supporting subscriber who has not activated their "
+          ],
+          [
+            0,
+            [
+              1,
+              2
+            ],
+            2,
+            "Lever Time Premium"
+          ],
+          [
+            0,
+            [
+              2
+            ],
+            1,
+            " account"
+          ],
+          [
+            0,
+            [],
+            0,
+            ": Email us at "
+          ],
+          [
+            0,
+            [
+              14
+            ],
+            1,
+            "support@levernews.com"
+          ],
+          [
+            0,
+            [],
+            0,
+            " and we’ll send you the link to the private podcast feed."
+          ]
+        ],
+        [
+          [
+            0,
+            [
+              2
+            ],
+            1,
+            "If you’re not a supporting subscriber but would like access to "
+          ],
+          [
+            0,
+            [
+              1,
+              2
+            ],
+            2,
+            "Lever Premium Podcasts"
+          ],
+          [
+            0,
+            [],
+            0,
+            ": Go to "
+          ],
+          [
+            0,
+            [
+              15
+            ],
+            1,
+            "levernews.com/membership"
+          ],
+          [
+            0,
+            [],
+            0,
+            " to subscribe. Not only will you get access to "
+          ],
+          [
+            0,
+            [
+              1
+            ],
+            1,
+            "Lever Premium Podcasts"
+          ],
+          [
+            0,
+            [],
+            0,
+            ", you’ll receive all of "
+          ],
+          [
+            0,
+            [
+              1
+            ],
+            1,
+            "The Lever"
+          ],
+          [
+            0,
+            [],
+            0,
+            "’s subscriber-only content like our weekend newsletters and live events, and you’ll be directly supporting "
+          ],
+          [
+            0,
+            [
+              1
+            ],
+            1,
+            "The Lever"
+          ],
+          [
+            0,
+            [],
+            0,
+            "’s independent journalism."
+          ]
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "We’re so excited to be adding more exciting content to "
+        ],
+        [
+          0,
+          [
+            1
+          ],
+          1,
+          "The Lever"
+        ],
+        [
+          0,
+          [],
+          0,
+          "’s podcast network. We truly couldn’t do this work with the support of our subscribers, so from the bottom of our hearts: Thank you!"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Rock the boat,"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Sirota"
+        ]
+      ]
+    ],
+    [
+      10,
+      8
+    ],
+    [
+      10,
+      9
+    ],
+    [
+      10,
+      10
+    ],
+    [
+      1,
+      "p",
+      []
+    ],
+    [
+      1,
+      "p",
+      []
+    ],
+    [
+      1,
+      "p",
+      []
+    ]
+  ],
+  "ghostVersion": "4.0"
+}

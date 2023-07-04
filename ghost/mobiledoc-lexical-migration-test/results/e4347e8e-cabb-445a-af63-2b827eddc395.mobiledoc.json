@@ -1,0 +1,522 @@
+{
+  "version": "0.3.1",
+  "atoms": [],
+  "cards": [
+    [
+      "hr",
+      {}
+    ],
+    [
+      "image",
+      {
+        "src": "__GHOST_URL__/content/images/2020/07/1969_Chevrolet_Camaro_SS.jpg",
+        "width": 1170,
+        "height": 597,
+        "caption": "1969 Chevrolet Camaro SS (GM Heritage Center)"
+      }
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "embed",
+      {
+        "url": "https://youtu.be/g_TLWSJrU9I",
+        "html": "<iframe width=\"612\" height=\"344\" src=\"https://www.youtube.com/embed/g_TLWSJrU9I?feature=oembed\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+        "type": "video",
+        "metadata": {
+          "provider_name": "YouTube",
+          "version": "1.0",
+          "width": 612,
+          "height": 344,
+          "thumbnail_url": "https://i.ytimg.com/vi/g_TLWSJrU9I/hqdefault.jpg",
+          "provider_url": "https://www.youtube.com/",
+          "thumbnail_height": 360,
+          "thumbnail_width": 480,
+          "author_url": "https://www.youtube.com/user/myclassicgarage",
+          "author_name": "Motorious",
+          "title": "1969 Chevrolet Camaro Knowledge Base"
+        }
+      }
+    ],
+    [
+      "html",
+      {
+        "html": "<iframe\n    src=\"https://cdn.spincar.com/static.swipetospin.com/20190909/?_=1588884128345#!customer=motorious!vin=mcg-1969-chevrolet-camaro!managerpreview\"\n    name=\"iFrame Name\"\n    scrolling=\"No\"\n    height=\"500px\"\n    width=\"100%\"\n    style=\"border: none;\">\n</iframe>"
+      }
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "html",
+      {
+        "html": "<table id=\"production-numbers-table\">\n<tbody>\n\t<tr>\n\t\t<td>Sport Coupe</td>\n\t\t<td>165,226</td>\n\t</tr>\n    <tr>\n\t\t<td>Sport Coupe Convertible</td>\n\t\t<td>17,573</td>\n\t</tr>\n    <tr>\n\t\t<td>RS</td>\n\t\t<td>37,773</td>\n\t</tr>\n    <tr>\n\t\t<td>Z/28</td>\n\t\t<td>20,302</td>\n\t</tr>\n    <tr>\n\t\t<td>SS</td>\n\t\t<td>36,309</td>\n\t</tr>\n    <tr>\n\t\t<td>YENKO</td>\n\t\t<td>201</td>\n\t</tr>\n    <tr>\n\t\t<td>ZL-1</td>\n\t\t<td>69</td>\n\t</tr>\n    <tr>\n\t\t<td><b>Total Production</b></td>\n\t\t<td><b>277,453</b></td>\n\t</tr>\n</tbody>\n</table>"
+      }
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "html",
+      {
+        "html": "<table id=\"performance-specs-table\">\n<tbody>\n\t<tr>\n\t\t<th><b>Engine</b></th>\n        <th><b>Size</b></td>\n\t\t<th><b>HP</b></td>\n\t\t<th><b>0 to 60</b></td>\n\t\t<th><b>Quarter mile</b></td>\n\t</tr>\n\t<tr>\n\t\t<td>Turbo-Thrift Six Cylinder</td>\n\t\t<td>230ci</td>\n\t\t<td>140</td>\n\t\t<td>-</td>\n\t\t<td>-</td>\n\t</tr>\n<tr>\n\t\t<td>Turbo-Fire V8</td>\n\t\t<td>327ci</td>\n\t\t<td>210</td>\n\t\t<td>-</td>\n\t\t<td>-</td>\n\t</tr>\n<tr>\n\t\t<td>Turbo-Thrift Six Cylinder</td>\n\t\t<td>250ci</td>\n\t\t<td>155</td>\n\t\t<td>-</td>\n\t\t<td>-</td>\n\t</tr>\n<tr>\n\t\t<td>Turbo-Fire 350 V8</td>\n\t\t<td>350ci</td>\n\t\t<td>255</td>\n\t\t<td>-</td>\n\t\t<td>-</td>\n\t</tr>\n<tr>\n\t\t<td>Turbo-Fire V8 Z/28</td>\n\t\t<td>302ci</td>\n\t\t<td>290</td>\n\t\t<td>-</td>\n\t\t<td>14.7 sec at 95.9 mph</td>\n\t</tr>\n\n<tr>\n\t\t<td>Turbo-Fire V8</td>\n\t\t<td>350ci</td>\n\t\t<td>300</td>\n\t\t<td>-</td>\n\t\t<td>-</td>\n\t</tr>\n<tr>\n\t\t<td>Turbo-Jet V8</td>\n\t\t<td>396ci</td>\n\t\t<td>325</td>\n\t\t<td>-</td>\n\t\t<td>14.2 sec at 97.3 mph</td>\n\t</tr>\n<tr>\n\t\t<td>L-72 Yenko</td>\n\t\t<td>427ci</td>\n\t\t<td>425</td>\n\t\t<td>5.4 sec</td>\n\t\t<td>11.9 Sec at 114.5 mph</td>\n\t</tr>\n</tbody>\n</table>"
+      }
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "html",
+      {
+        "html": "<h4 id='colors-sub-heading'>Exterior</h4>\n<div class=\"colors-row\">\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #ece4d3\"></div>\n        <div class=\"color-name\">Dover White</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #526685\"></div>\n        <div class=\"color-name\">Glacier Blue</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #2d4c6c\"></div>\n        <div class=\"color-name\">Le Mans Blue</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #212a42\"></div>\n        <div class=\"color-name\">Dusk Blue</div>\n    </div>\n  \t<div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #8e7d55\"></div>\n        <div class=\"color-name\">Olympic Gold</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #3a6e7b\"></div>\n        <div class=\"color-name\">Azure Turqois</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #828b6c\"></div>\n        <div class=\"color-name\">Frost Green</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #747b80\"></div>\n        <div class=\"color-name\">Cortez Silver</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #7a2220\"></div>\n        <div class=\"color-name\">Garnet Red</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #222a1d\"></div>\n        <div class=\"color-name\">Fathom Green</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #c73e22\"></div>\n        <div class=\"color-name\">Hugger Orange</div>\n    </div><div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #fdf142\"></div>\n        <div class=\"color-name\">Daytona Yellow</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #fdf142\"></div>\n        <div class=\"color-name\">Butternut Yellow</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #3d704a\"></div>\n        <div class=\"color-name\">Rallye Green</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #2f2e29\"></div>\n        <div class=\"color-name\">Burnished Brown</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #391d1c\"></div>\n        <div class=\"color-name\">Burgundy</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #000000\"></div>\n        <div class=\"color-name\">Tuxedo Black</div>\n    </div>\n</div>\n\n<h4 id='colors-sub-heading'>Interior</h4>\n<div class=\"colors-row\">\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #000000\"></div>\n        <div class=\"color-name\">Black</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #1a2845\"></div>\n        <div class=\"color-name\">Dark Blue</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #7c2c25\"></div>\n        <div class=\"color-name\">Medium Red</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #8d907d\"></div>\n        <div class=\"color-name\">Medium Green</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #fffff0\"></div>\n        <div class=\"color-name\">Ivory/Black</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #000000\"></div>\n        <div class=\"color-name\">Black Houndstooth</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #000000\"></div>\n        <div class=\"color-name\">Ivory Houndstooth</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #000000\"></div>\n        <div class=\"color-name\">Orange Houndstooth</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #000000\"></div>\n        <div class=\"color-name\">Yellow Houndstooth</div>\n    </div>\n</div>\n"
+      }
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "gallery",
+      {
+        "images": [
+          {
+            "fileName": "29_1_low_res.jpeg",
+            "row": 0,
+            "width": 790,
+            "height": 1005,
+            "src": "__GHOST_URL__/content/images/2020/05/29_1_low_res.jpeg"
+          },
+          {
+            "fileName": "30_2_low_res.jpeg",
+            "row": 0,
+            "width": 790,
+            "height": 478,
+            "src": "__GHOST_URL__/content/images/2020/05/30_2_low_res.jpeg"
+          },
+          {
+            "fileName": "31_3_low_res.jpeg",
+            "row": 0,
+            "width": 790,
+            "height": 465,
+            "src": "__GHOST_URL__/content/images/2020/05/31_3_low_res.jpeg"
+          },
+          {
+            "fileName": "36_8_low_res.jpeg",
+            "row": 1,
+            "width": 790,
+            "height": 958,
+            "src": "__GHOST_URL__/content/images/2020/05/36_8_low_res.jpeg"
+          },
+          {
+            "fileName": "37_1969camaro_04_low_res.jpeg",
+            "row": 1,
+            "width": 790,
+            "height": 481,
+            "src": "__GHOST_URL__/content/images/2020/05/37_1969camaro_04_low_res.jpeg"
+          },
+          {
+            "fileName": "38_1969camaro_05_low_res.jpeg",
+            "row": 1,
+            "width": 790,
+            "height": 482,
+            "src": "__GHOST_URL__/content/images/2020/05/38_1969camaro_05_low_res.jpeg"
+          },
+          {
+            "fileName": "33_5_low_res.jpeg",
+            "row": 2,
+            "width": 790,
+            "height": 952,
+            "src": "__GHOST_URL__/content/images/2020/05/33_5_low_res.jpeg"
+          },
+          {
+            "fileName": "34_6_low_res.jpeg",
+            "row": 2,
+            "width": 790,
+            "height": 935,
+            "src": "__GHOST_URL__/content/images/2020/05/34_6_low_res.jpeg"
+          }
+        ],
+        "caption": "1969 Chevrolet Camaro OEM Brochures"
+      }
+    ],
+    [
+      "hr",
+      {}
+    ]
+  ],
+  "markups": [
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/articles/handpicked/1969-camaro-rs-convertible/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/tag/research/"
+      ]
+    ]
+  ],
+  "sections": [
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Overview"
+        ]
+      ]
+    ],
+    [
+      10,
+      0
+    ],
+    [
+      1,
+      "h3",
+      [
+        [
+          0,
+          [],
+          0,
+          "The "
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "1969 Camaro"
+        ],
+        [
+          0,
+          [],
+          0,
+          " marked the last of the first generations and is arguably the most popular."
+        ]
+      ]
+    ],
+    [
+      10,
+      1
+    ],
+    [
+      10,
+      2
+    ],
+    [
+      10,
+      3
+    ],
+    [
+      10,
+      4
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "It featured entirely new, more aggressive looking sheet metal and revised grille. Going away was the coke bottle shape, making room for a flatter, wider looking stance."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "The Camaro was available in many different configurations, from a standard Sport Coupe, a rubber melting Super Sport, or a track-ready Z/28. The Rally Sport option with hidden headlights, special stripes and wheels, special bucket seats, nice carpeting, and other items could be added as a separate package to any of the models."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "The Sport Coupe was longer and wider this year, had bucket seats, carpeting, and improved Astro Ventilation System."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "The Z/28 was for the road racing fan. Dual exhausts, special suspension, heavy-duty radiator, quick-ratio steering, and 15x7 inch rally wheels."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "The SS was \"The One with a Name Like the Hiss of a Snake.\" Big power, special 3-speed transmission, sport striping, heavy insulated hood."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "In 1969, there were three different COPO orders for a Camaro. Order #9560 and #9561 were almost the same cars, but #9560 had one big difference: The engine was all-aluminum, and that is the brutal ZL1 (Fred Gibb Chevrolet was responsible for getting the ZL-1 cars into production). These cars had different variations of the 427ci V8, making up to 425 hp. One of the other COPO numbers was the Yenko Camaro, dreamed up by Don Yenko of Yenko Chevrolet, in which he persuaded Chevy to install the L-72s on the assembly line in a limited number of Camaros later to be known as Yenko."
+        ]
+      ]
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Production Numbers"
+        ]
+      ]
+    ],
+    [
+      10,
+      5
+    ],
+    [
+      10,
+      6
+    ],
+    [
+      10,
+      7
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Performance Specs"
+        ]
+      ]
+    ],
+    [
+      10,
+      8
+    ],
+    [
+      10,
+      9
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Transmissions"
+        ]
+      ]
+    ],
+    [
+      10,
+      10
+    ],
+    [
+      3,
+      "ul",
+      [
+        [
+          [
+            0,
+            [],
+            0,
+            "3-Speed Manual"
+          ]
+        ],
+        [
+          [
+            0,
+            [],
+            0,
+            "Special 3-Speed Manual"
+          ]
+        ],
+        [
+          [
+            0,
+            [],
+            0,
+            "4-Speed Manual"
+          ]
+        ],
+        [
+          [
+            0,
+            [],
+            0,
+            "Torque Drive"
+          ]
+        ],
+        [
+          [
+            0,
+            [],
+            0,
+            "Powerglide Automatic"
+          ]
+        ],
+        [
+          [
+            0,
+            [],
+            0,
+            "Turbo Hydra-Matic"
+          ]
+        ]
+      ]
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Paint & Colors"
+        ]
+      ]
+    ],
+    [
+      10,
+      11
+    ],
+    [
+      10,
+      12
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "OEM Brochures"
+        ]
+      ]
+    ],
+    [
+      10,
+      13
+    ],
+    [
+      10,
+      14
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "About the Knowledge Base"
+        ]
+      ]
+    ],
+    [
+      10,
+      15
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "The Motorious Knowledge Base provides a comprehensive vehicle overview for the 1969 Chevrolet Camaro including production numbers, performance specs, factory colors, and OEM brochures. Check out additional model years or related content linked to this article or view other Makes and Models in our "
+        ],
+        [
+          0,
+          [
+            1
+          ],
+          1,
+          "Research"
+        ],
+        [
+          0,
+          [],
+          0,
+          " center."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "If you have any interesting facts about the 1969 Chevrolet Camaro to add, want to tell us how we did covering the Camaro, or want to tell us about yours, please leave a comment below."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      []
+    ]
+  ],
+  "ghostVersion": "3.0"
+}

@@ -1,0 +1,1628 @@
+{
+  "version": "0.3.1",
+  "atoms": [],
+  "cards": [
+    [
+      "email-cta",
+      {
+        "showButton": true,
+        "showDividers": false,
+        "segment": "status:-free",
+        "alignment": "center",
+        "html": "",
+        "buttonText": "Click Here To Comment",
+        "buttonUrl": "__GHOST_URL__/midday-poster-the-food-crisis-growing-under-manchins-watch/#comments"
+      }
+    ],
+    [
+      "html",
+      {
+        "html": "<div class=\"fb-share-button\" data-href=\"https://www.dailyposter.com/midday-poster-the-food-crisis-growing-under-manchins-watch/\" data-layout=\"button\" data-size=\"small\"><a target=\"_blank\" href=\"https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.dailyposter.com%2Fmidday-poster-the-food-crisis-growing-under-manchins-watch%2F&amp;src=sdkpreparse\" class=\"fb-xfbml-parse-ignore\"><strong><em>Click to share this on Facebook</em></strong></a></div>"
+      }
+    ],
+    [
+      "paywall",
+      {}
+    ],
+    [
+      "callout",
+      {
+        "calloutEmoji": "🎁",
+        "calloutText": "<strong>Need A Holiday Gift? <a href=\"https://dailyposter.outpost.pub/gift_subscription#/\">Give A Gift Subscription!</a></strong>",
+        "backgroundColor": "green"
+      }
+    ],
+    [
+      "button",
+      {
+        "alignment": "center",
+        "buttonText": "Tip Jar",
+        "buttonUrl": "https://dailyposter.outpost.pub/public/donate#/donate"
+      }
+    ],
+    [
+      "callout",
+      {
+        "calloutEmoji": "🎁",
+        "calloutText": "<strong>Need A Holiday Gift? <a href=\"https://dailyposter.outpost.pub/gift_subscription#/\">Give A Gift Subscription!</a></strong>",
+        "backgroundColor": "green"
+      }
+    ],
+    [
+      "embed",
+      {
+        "url": "https://twitter.com/KateAronoff/status/1473728485944401935",
+        "html": "<blockquote class=\"twitter-tweet\"><p lang=\"en\" dir=\"ltr\">Cancel culture has not gone far enough <a href=\"https://t.co/VnVlDq39v1\">https://t.co/VnVlDq39v1</a></p>&mdash; Kate Aronoff (@KateAronoff) <a href=\"https://twitter.com/KateAronoff/status/1473728485944401935?ref_src=twsrc%5Etfw\">December 22, 2021</a></blockquote>\n<script async src=\"https://platform.twitter.com/widgets.js\" charset=\"utf-8\"></script>\n",
+        "type": "twitter",
+        "metadata": {
+          "url": "https://twitter.com/KateAronoff/status/1473728485944401935",
+          "author_name": "Kate Aronoff",
+          "author_url": "https://twitter.com/KateAronoff",
+          "width": 550,
+          "height": null,
+          "cache_age": "3153600000",
+          "provider_name": "Twitter",
+          "provider_url": "http://www.twitter.com/",
+          "version": "1.0",
+          "tweet_data": {
+            "lang": "en",
+            "created_at": "2021-12-22T18:53:46.000Z",
+            "id": "1473728485944401935",
+            "text": "Cancel culture has not gone far enough https://t.co/VnVlDq39v1",
+            "author_id": "637196658",
+            "entities": {
+              "urls": [
+                {
+                  "start": 39,
+                  "end": 62,
+                  "url": "https://t.co/VnVlDq39v1",
+                  "expanded_url": "https://twitter.com/JonLemire/status/1473703761856061445",
+                  "display_url": "twitter.com/JonLemire/stat…"
+                }
+              ]
+            },
+            "context_annotations": [
+              {
+                "domain": {
+                  "id": "123",
+                  "name": "Ongoing News Story",
+                  "description": "Ongoing News Stories like 'Brexit'"
+                },
+                "entity": {
+                  "id": "1220701888179359745",
+                  "name": "COVID-19"
+                }
+              },
+              {
+                "domain": {
+                  "id": "10",
+                  "name": "Person",
+                  "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                  "id": "10040395078",
+                  "name": "Joe Biden",
+                  "description": "US President Joe Biden"
+                }
+              },
+              {
+                "domain": {
+                  "id": "35",
+                  "name": "Politician",
+                  "description": "Politicians in the world, like Joe Biden"
+                },
+                "entity": {
+                  "id": "10040395078",
+                  "name": "Joe Biden",
+                  "description": "US President Joe Biden"
+                }
+              }
+            ],
+            "public_metrics": {
+              "retweet_count": 30,
+              "reply_count": 1,
+              "like_count": 320,
+              "quote_count": 0
+            },
+            "source": "Twitter Web App",
+            "reply_settings": "everyone",
+            "referenced_tweets": [
+              {
+                "type": "quoted",
+                "id": "1473703761856061445"
+              }
+            ],
+            "conversation_id": "1473728485944401935",
+            "possibly_sensitive": false,
+            "includes": {
+              "users": [
+                {
+                  "entities": {
+                    "url": {
+                      "urls": [
+                        {
+                          "start": 0,
+                          "end": 23,
+                          "url": "https://t.co/ik2QazQjaW",
+                          "expanded_url": "https://newrepublic.com/authors/kate-aronoff",
+                          "display_url": "newrepublic.com/authors/kate-a…"
+                        }
+                      ]
+                    },
+                    "description": {
+                      "mentions": [
+                        {
+                          "start": 8,
+                          "end": 20,
+                          "username": "NewRepublic"
+                        },
+                        {
+                          "start": 31,
+                          "end": 39,
+                          "username": "NYguild"
+                        },
+                        {
+                          "start": 53,
+                          "end": 67,
+                          "username": "BoldTypeBooks"
+                        },
+                        {
+                          "start": 85,
+                          "end": 96,
+                          "username": "VersoBooks"
+                        },
+                        {
+                          "start": 116,
+                          "end": 128,
+                          "username": "thenewpress"
+                        },
+                        {
+                          "start": 137,
+                          "end": 148,
+                          "username": "ClimateSSN"
+                        }
+                      ]
+                    }
+                  },
+                  "url": "https://t.co/ik2QazQjaW",
+                  "location": "Brooklyn / Providence",
+                  "description": "Climate @NewRepublic & proudly @NYguild 📚 Overheated @BoldTypeBooks, A Planet To Win @VersoBooks, We Own The Future @thenewpress. Fellow @ClimateSSN",
+                  "profile_image_url": "https://pbs.twimg.com/profile_images/1468777297108996106/g4er-Fp6_normal.jpg",
+                  "public_metrics": {
+                    "followers_count": 87918,
+                    "following_count": 1572,
+                    "tweet_count": 30714,
+                    "listed_count": 1313
+                  },
+                  "pinned_tweet_id": "1384522849327665152",
+                  "protected": false,
+                  "name": "Kate Aronoff",
+                  "id": "637196658",
+                  "created_at": "2012-07-16T16:59:31.000Z",
+                  "username": "KateAronoff",
+                  "verified": true
+                },
+                {
+                  "entities": {
+                    "url": {
+                      "urls": [
+                        {
+                          "start": 0,
+                          "end": 23,
+                          "url": "https://t.co/NwH1jDfjqe",
+                          "expanded_url": "http://www.politico.com",
+                          "display_url": "politico.com"
+                        }
+                      ]
+                    },
+                    "description": {
+                      "mentions": [
+                        {
+                          "start": 25,
+                          "end": 34,
+                          "username": "Politico"
+                        },
+                        {
+                          "start": 44,
+                          "end": 56,
+                          "username": "WayTooEarly"
+                        },
+                        {
+                          "start": 66,
+                          "end": 72,
+                          "username": "MSNBC"
+                        },
+                        {
+                          "start": 74,
+                          "end": 82,
+                          "username": "NBCNews"
+                        },
+                        {
+                          "start": 95,
+                          "end": 98,
+                          "username": "AP"
+                        },
+                        {
+                          "start": 108,
+                          "end": 121,
+                          "username": "carriemelago"
+                        }
+                      ]
+                    }
+                  },
+                  "url": "https://t.co/NwH1jDfjqe",
+                  "location": "NYC/Washington",
+                  "description": "White House Bureau Chief @Politico. Host of @WayTooEarly, 5 am on @MSNBC. @NBCNews analyst. Ex-@AP, Dad, Mr @carriemelago, Red Sox fan. JLemire@politico.com",
+                  "profile_image_url": "https://pbs.twimg.com/profile_images/1406985195090231301/UvXUhhqI_normal.jpg",
+                  "public_metrics": {
+                    "followers_count": 259555,
+                    "following_count": 2375,
+                    "tweet_count": 38388,
+                    "listed_count": 3163
+                  },
+                  "pinned_tweet_id": "1452577246707961858",
+                  "protected": false,
+                  "name": "Jonathan Lemire",
+                  "id": "182398325",
+                  "created_at": "2010-08-24T14:17:53.000Z",
+                  "username": "JonLemire",
+                  "verified": true
+                }
+              ],
+              "tweets": [
+                {
+                  "entities": {
+                    "annotations": [
+                      {
+                        "start": 0,
+                        "end": 9,
+                        "probability": 0.5038,
+                        "type": "Place",
+                        "normalized_text": "WASHINGTON"
+                      },
+                      {
+                        "start": 18,
+                        "end": 22,
+                        "probability": 0.8773,
+                        "type": "Person",
+                        "normalized_text": "Biden"
+                      },
+                      {
+                        "start": 112,
+                        "end": 113,
+                        "probability": 0.8226,
+                        "type": "Place",
+                        "normalized_text": "US"
+                      }
+                    ]
+                  },
+                  "lang": "en",
+                  "created_at": "2021-12-22T17:15:31.000Z",
+                  "id": "1473703761856061445",
+                  "text": "WASHINGTON (AP) — Biden administration extends pause on student loan payments until May 1 as omicron surge hits US.",
+                  "author_id": "182398325",
+                  "context_annotations": [
+                    {
+                      "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                      },
+                      "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                      }
+                    },
+                    {
+                      "domain": {
+                        "id": "10",
+                        "name": "Person",
+                        "description": "Named people in the world like Nelson Mandela"
+                      },
+                      "entity": {
+                        "id": "10040395078",
+                        "name": "Joe Biden",
+                        "description": "US President Joe Biden"
+                      }
+                    },
+                    {
+                      "domain": {
+                        "id": "35",
+                        "name": "Politician",
+                        "description": "Politicians in the world, like Joe Biden"
+                      },
+                      "entity": {
+                        "id": "10040395078",
+                        "name": "Joe Biden",
+                        "description": "US President Joe Biden"
+                      }
+                    }
+                  ],
+                  "public_metrics": {
+                    "retweet_count": 1170,
+                    "reply_count": 116,
+                    "like_count": 4099,
+                    "quote_count": 1061
+                  },
+                  "source": "Twitter for iPhone",
+                  "reply_settings": "everyone",
+                  "conversation_id": "1473703761856061445",
+                  "possibly_sensitive": false
+                }
+              ]
+            }
+          }
+        }
+      }
+    ],
+    [
+      "email-cta",
+      {
+        "showButton": true,
+        "showDividers": false,
+        "segment": "status:-free",
+        "alignment": "center",
+        "html": "",
+        "buttonText": "Click Here To Comment",
+        "buttonUrl": "__GHOST_URL__/midday-poster-the-food-crisis-growing-under-manchins-watch/#comments"
+      }
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "email-cta",
+      {
+        "showButton": true,
+        "showDividers": false,
+        "segment": "status:-free",
+        "alignment": "center",
+        "html": "",
+        "buttonText": "Tip Jar",
+        "buttonUrl": "https://dailyposter.outpost.pub/ghost-integration/60818189ad12f332071054b8/tips"
+      }
+    ],
+    [
+      "html",
+      {
+        "html": "<div class=\"outpost-pub-container\" data-btn-allmembers></div>"
+      }
+    ]
+  ],
+  "markups": [
+    [
+      "a",
+      [
+        "href",
+        "https://www.manchin.senate.gov/newsroom/press-releases/manchin-statement-on-build-back-better-act"
+      ]
+    ],
+    [
+      "em"
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.ft.com/content/10d8f5e8-74eb-11ea-95fe-fcd274e920ca"
+      ]
+    ],
+    [
+      "strong"
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://prospect.org/labor/kellogg-is-digging-its-own-grave-union-strike/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.thenation.com/article/society/assange-freedom-press/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.propublica.org/article/how-black-communities-become-sacrifice-zones-for-industrial-air-pollution"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.washingtonpost.com/lifestyle/media/tom-friedman-new-york-times-donations-disclosure/2021/12/20/ee0cf4b0-4ba3-11ec-b0b0-766bbbe79347_story.html"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://jacobinmag.com/2021/12/nyc-dsa-lower-east-side-state-assembly-candidate/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.huffpost.com/entry/joe-manchin-build-back-better-child-tax-credit-drugs_n_61bf8f6be4b061afe394006d"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.census.gov/data/tables/2021/demo/hhp/hhp40.html"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.census.gov/data/tables/2021/demo/hhp/hhp33.html"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.census.gov/data/tables/2020/demo/hhp/hhp21.html"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.businessinsider.com/sen-joe-manchin-signals-federal-jobless-aid-renewal-gig-workers-2021-8"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.axios.com/manchin-senate-spending-biden-87a445c2-cfdf-4bba-bc20-dd62db2a613a.html"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.cbpp.org/research/food-assistance/nutrition-provisions-in-new-house-build-back-better-legislation-could"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://twitter.com/npr_ed/status/1472962171332136961?s=21"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://rooseveltinstitute.org/publications/student-debt-cancellation-is-progressive/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.bloomberg.com/news/articles/2021-12-20/calls-for-biden-to-cancel-50-000-student-debt-could-boost-black-wealth-by-40"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://thehill.com/homenews/administration/568209-biden-administration-freezes-afghan-government-reserves-in-us-banks"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.washingtonpost.com/us-policy/2021/12/20/treasury-yellen-afghanistan-reserves/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://progressives.house.gov/_cache/files/7/9/79c380ca-661d-4158-9a88-f3a67ca24cdd/0C4CB37A3A6799AA59E3FCF4E01FCF3F.12-20-21-afghanistan-humanitarian-crisis-letter-1-.pdf"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://twitter.com/KeaneBhatt/status/1472903515613937664?t=9Gqme7f50k7t6-zdJl1FbQ&s=19"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.americanprogress.org/article/strategic-reengagement-in-the-middle-east/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://responsiblestatecraft.org/2021/12/21/think-tank-report-doesnt-disclose-authors-foreign-ties/?s=09"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://twitter.com/jwbartlett92/status/1472739435297091584"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.theguardian.com/world/2021/dec/20/gabriel-boric-election-triumph-latin-america-resurgent-left?utm_term=Autofeed&CMP=twt_gu&utm_medium&utm_source=Twitter#Echobox=1640019348"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.theguardian.com/world/2021/dec/16/chile-far-right-candidate-jose-antonio-kast-win-presidency"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://apnews.com/article/elections-caribbean-donald-trump-chile-santiago-5fc78a1fe1cb26a06839e8a7b59c8730"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://twitter.com/GravelInstitute/status/1472720209001828360"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.nbcnews.com/health/health-care/get-money-dermatologist-says-patient-care-suffered-private-equity-back-rcna9152"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.antitrustinstitute.org/wp-content/uploads/2021/05/Private-Equity-I-Healthcare-Report-FINAL-1.pdf"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.aljazeera.com/economy/2021/12/20/trump-sues-ny-attorney-general-to-block-probe-of-his-business"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.politico.com/f/?id=0000017d-d866-d3d7-a37d-defeef8c0000"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.politico.com/news/2021/12/20/trump-sues-ny-attorney-general-525736"
+      ]
+    ]
+  ],
+  "sections": [
+    [
+      10,
+      0
+    ],
+    [
+      10,
+      1
+    ],
+    [
+      1,
+      "p",
+      []
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Democratic Sen. Joe Manchin (D-W.Va.) has dashed his party’s hopes to pass their Build Back Better social safety net package before the end of the year, noting in "
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "a statement"
+        ],
+        [
+          0,
+          [],
+          0,
+          " that “I have always said, ‘If I can’t go back home and explain it, I can’t vote for it.’ Despite my best efforts, I cannot explain the sweeping Build Back Better Act in West Virginia.”"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Maybe it would help if he looked at the spiraling food crisis now taking place in his state, according to new census data reviewed by "
+        ],
+        [
+          0,
+          [
+            1
+          ],
+          1,
+          "The Daily Poster"
+        ],
+        [
+          0,
+          [],
+          0,
+          "."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Read all about it and much more in today’s Midday Poster below, exclusively for subscribers."
+        ]
+      ]
+    ],
+    [
+      10,
+      2
+    ],
+    [
+      1,
+      "h3",
+      [
+        [
+          0,
+          [],
+          0,
+          "TODAY’S QUOTE:"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "“Our minds are still racing back and forth, longing for a return to “normality,” trying to stitch our future to our past and refusing to acknowledge the rupture. But the rupture exists. And in the midst of this terrible despair, it offers us a chance to rethink the doomsday machine we have built for ourselves. Nothing could be worse than a return to normality.” — Arundhati Roy, "
+        ],
+        [
+          0,
+          [
+            2,
+            1
+          ],
+          2,
+          "The Pandemic is a Portal"
+        ]
+      ]
+    ],
+    [
+      1,
+      "h3",
+      [
+        [
+          0,
+          [],
+          0,
+          "TODAY’S READS:"
+        ]
+      ]
+    ],
+    [
+      3,
+      "ol",
+      [
+        [
+          [
+            0,
+            [
+              3,
+              3,
+              4,
+              3
+            ],
+            4,
+            "Kellogg Is Digging Its Own Grave"
+          ]
+        ],
+        [
+          [
+            0,
+            [
+              3,
+              3,
+              5,
+              3
+            ],
+            4,
+            "The Prosecution Of Julian Assange Absolutely Threatens Freedom Of The Press"
+          ]
+        ],
+        [
+          [
+            0,
+            [
+              3,
+              3,
+              6,
+              3
+            ],
+            4,
+            "How Black Communities Become “Sacrifice Zones” For Industrial Air Pollution"
+          ]
+        ],
+        [
+          [
+            0,
+            [
+              3,
+              3,
+              7,
+              3
+            ],
+            4,
+            "Thomas Friedman's Columns Prompt Ethical Question For New York Times"
+          ]
+        ],
+        [
+          [
+            0,
+            [
+              3,
+              3,
+              8,
+              3
+            ],
+            4,
+            "Sairitupac Wants To Bring Socialist Representation Back To Lower Manhattan"
+          ]
+        ]
+      ]
+    ],
+    [
+      10,
+      3
+    ],
+    [
+      1,
+      "h3",
+      [
+        [
+          0,
+          [],
+          0,
+          "TODAY’S SCOOP:"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Sen. Joe Manchin (D-W.Va.) continues to cite concerns about the deficit and inflation to justify holding up Democrats’ Build Back Better agenda spending bill, and has reportedly been "
+        ],
+        [
+          0,
+          [
+            9
+          ],
+          1,
+          "complaining"
+        ],
+        [
+          0,
+          [],
+          0,
+          " to his colleagues that families will waste their child tax credit payments on drugs."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Meanwhile, food insecurity and food scarcity have "
+        ],
+        [
+          0,
+          [
+            10
+          ],
+          1,
+          "increased"
+        ],
+        [
+          0,
+          [],
+          0,
+          " a combined 38 percent in West Virginia since "
+        ],
+        [
+          0,
+          [
+            11
+          ],
+          1,
+          "this summer"
+        ],
+        [
+          0,
+          [],
+          0,
+          ", according to new data from the U.S. Census Bureau. The Census Bureau surveys define food insecurity as when people do not always have the kind of foods they want, and food scarcity as when people sometimes or often do not have enough food to eat."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "The percentage of West Virginians dealing with food insecurity and food scarcity increased sharply during the first year of the COVID pandemic, and dropped significantly following Democrats’ COVID relief bill in March, census data shows."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Now, the percentage of West Virgininians who are dealing with food insecurity or food scarcity is nearly as high as it was last "
+        ],
+        [
+          0,
+          [
+            12
+          ],
+          1,
+          "December"
+        ],
+        [
+          0,
+          [],
+          0,
+          ". Roughly 43 percent of West Virginia households report that they’re facing food insecurity or food scarcity, including 61 percent of state households earning less than $35,000, according to the Census Bureau’s latest household pulse survey."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "The numbers suggest that the absence of new stimulus checks and the expiration of expanded pandemic unemployment benefits have left people hurting. Democrats are not planning to bring back either of those aid programs again in their Build Back Better bill. In August, Manchin "
+        ],
+        [
+          0,
+          [
+            13
+          ],
+          1,
+          "publicly ruled out"
+        ],
+        [
+          0,
+          [],
+          0,
+          " the idea of extending the federal unemployment programs before they expired."
+        ]
+      ]
+    ],
+    [
+      10,
+      4
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "As "
+        ],
+        [
+          0,
+          [
+            1
+          ],
+          1,
+          "Axios"
+        ],
+        [
+          0,
+          [],
+          0,
+          " "
+        ],
+        [
+          0,
+          [
+            14
+          ],
+          1,
+          "previously reported"
+        ],
+        [
+          0,
+          [],
+          0,
+          ", Manchin supposedly uses a three-prong test when he considers supporting proposed policies, including: “Do they solve a specific problem facing his constituents?” According to the "
+        ],
+        [
+          0,
+          [
+            15
+          ],
+          1,
+          "Center on Budget and Policy Priorities"
+        ],
+        [
+          0,
+          [],
+          0,
+          ", the Build Back Better legislation would significantly reduce food insecurity among school-age children."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "And despite Manchin’s claim that people would use the bill’s child tax credit payments on drugs, studies "
+        ],
+        [
+          0,
+          [
+            16
+          ],
+          1,
+          "show"
+        ],
+        [
+          0,
+          [],
+          0,
+          " parents are using the benefits to cover basic necessities like rent payments and groceries for their families."
+        ]
+      ]
+    ],
+    [
+      1,
+      "h3",
+      [
+        [
+          0,
+          [],
+          0,
+          "TODAY’S STAT:"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "A June "
+        ],
+        [
+          0,
+          [
+            17
+          ],
+          1,
+          "report"
+        ],
+        [
+          0,
+          [],
+          0,
+          " from the Roosevelt Institute found that canceling $50,000 in student loan debt per person — an action President Biden could take at any time — would"
+        ],
+        [
+          0,
+          [
+            3
+          ],
+          1,
+          " immediately lift Black wealth by 40 percent"
+        ],
+        [
+          0,
+          [],
+          0,
+          ". “Black borrowers in the bottom 10% of net worth would have around $5,000 more forgiven than their White counterparts,” "
+        ],
+        [
+          0,
+          [
+            1
+          ],
+          1,
+          "Bloomberg "
+        ],
+        [
+          0,
+          [
+            18
+          ],
+          1,
+          "reported"
+        ],
+        [
+          0,
+          [],
+          0,
+          " of the brief’s findings."
+        ]
+      ]
+    ],
+    [
+      1,
+      "h3",
+      [
+        [
+          0,
+          [],
+          0,
+          "TODAY’S FLASHBACK:"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "In August, the Biden administration "
+        ],
+        [
+          0,
+          [
+            19
+          ],
+          1,
+          "froze"
+        ],
+        [
+          0,
+          [],
+          0,
+          " most of the Afghan central government’s $9.4 billion in reserves after the Taliban took control of the country. “The Biden administration has said recognition, and release of funds, will not come until the Taliban form an ‘inclusive’ government, guarantee the rights of minorities, women and girls… and sever all ties with terrorist groups including al-Qaeda that threaten the U.S. homeland, and end all reprisals against Afghans,” the "
+        ],
+        [
+          0,
+          [
+            1
+          ],
+          1,
+          "Washington Post "
+        ],
+        [
+          0,
+          [
+            20
+          ],
+          1,
+          "reported"
+        ],
+        [
+          0,
+          [],
+          0,
+          "."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "In a Monday "
+        ],
+        [
+          0,
+          [
+            21
+          ],
+          1,
+          "letter"
+        ],
+        [
+          0,
+          [],
+          0,
+          " spearheaded by Reps. Pramila Jayapal (D-Wash.), Chuy Garcia (D-Ill.), and Sara Jacobs (D-Calif.), more than 40 House Democrats urged Treasury Secretary Janet Yellen and President Biden to unfreeze Afghanistan’s central bank reserves, "
+        ],
+        [
+          0,
+          [
+            22
+          ],
+          1,
+          "warning"
+        ],
+        [
+          0,
+          [],
+          0,
+          " that a million Afghan children could die of starvation in the near-term."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "“The U.S. confiscation of $9.4 billion in Afghanistan’s currency reserves held in the United States is contributing to soaring inflation and the shuttering of commercial banks and vital private businesses, plunging the country — which relies overwhelmingly on imports that require hard currency — deeper into economic and humanitarian crisis,” noted the letter."
+        ]
+      ]
+    ],
+    [
+      1,
+      "h3",
+      [
+        [
+          0,
+          [],
+          0,
+          "TODAY’S CLICKS:"
+        ]
+      ]
+    ],
+    [
+      3,
+      "ul",
+      [
+        [
+          [
+            0,
+            [
+              3
+            ],
+            1,
+            "MIDDLE EAST MONEY FUNDS MIDDLE EAST EXPERTS IN U.S.:"
+          ],
+          [
+            0,
+            [],
+            0,
+            " Those with financial ties to Israel, the weapons industry, and the United Arab Emirates helped shape a new Center for American Progress (CAP) "
+          ],
+          [
+            0,
+            [
+              23
+            ],
+            1,
+            "report"
+          ],
+          [
+            0,
+            [],
+            0,
+            " titled “Strategic Reengagement in the Middle East,” which argues for “diplomacy, economic statecraft, and security cooperation… to build the confidence of all U.S. partners across the Middle East, to make the region’s people feel more secure, and to use the leverage the United States still possesses to make slow but steady progress.” According to "
+          ],
+          [
+            0,
+            [
+              24
+            ],
+            1,
+            "reporting"
+          ],
+          [
+            0,
+            [],
+            0,
+            " from "
+          ],
+          [
+            0,
+            [
+              1
+            ],
+            1,
+            "Responsible Statecraft"
+          ],
+          [
+            0,
+            [],
+            0,
+            ", “Countries like the UAE, Saudi Arabia, Qatar, Kuwait, and Oman fund D.C. think tanks and sponsor endowed chairs at American universities. All involved have tended to benefit except, perhaps, those in the U.S. military who have served in the region and its inhabitants, many of whom continue to suffer from violence, corruption, and deprivation.” The report’s authors failed to disclose their monetary ties to Gulf-state governments as possible conflicts of interest."
+          ]
+        ]
+      ]
+    ],
+    [
+      10,
+      5
+    ],
+    [
+      3,
+      "ul",
+      [
+        [
+          [
+            0,
+            [
+              3
+            ],
+            1,
+            "LEFTIST TO BECOME CHILEAN PRESIDENT: "
+          ],
+          [
+            0,
+            [],
+            0,
+            "On Sunday, hundreds of thousands of Chileans "
+          ],
+          [
+            0,
+            [
+              25
+            ],
+            1,
+            "celebrated"
+          ],
+          [
+            0,
+            [],
+            0,
+            " Gabriel Boric "
+          ],
+          [
+            0,
+            [
+              26
+            ],
+            1,
+            "becoming"
+          ],
+          [
+            0,
+            [],
+            0,
+            " the youngest modern president-elect in Chilean history and the country’s “most leftwing leader since Salvador Allende was overthrown in 1973,” "
+          ],
+          [
+            0,
+            [
+              1
+            ],
+            1,
+            "The Guardian"
+          ],
+          [
+            0,
+            [],
+            0,
+            " "
+          ],
+          [
+            0,
+            [
+              26
+            ],
+            1,
+            "reported"
+          ],
+          [
+            0,
+            [],
+            0,
+            ". Boric, 35, defeated "
+          ],
+          [
+            0,
+            [
+              27
+            ],
+            1,
+            "far-right"
+          ],
+          [
+            0,
+            [],
+            0,
+            " candidate José Antonio Kast with "
+          ],
+          [
+            0,
+            [
+              28
+            ],
+            1,
+            "56 percent"
+          ],
+          [
+            0,
+            [],
+            0,
+            " of the votes. \"If Chile was the cradle of neoliberalism, it will also be its grave,\" Boric "
+          ],
+          [
+            0,
+            [
+              29
+            ],
+            1,
+            "said"
+          ],
+          [
+            0,
+            [],
+            0,
+            ", promising to fight climate change, end Chile’s private pension system, and bring a European-style social democracy to the country."
+          ]
+        ],
+        [
+          [
+            0,
+            [
+              3
+            ],
+            1,
+            "“GET THAT MONEY!!”: "
+          ],
+          [
+            0,
+            [],
+            0,
+            "In August of 2020, Pinnacle Dermatology — a private equity-owned group of 90 dermatology practices across the country — circulated a memo to its Michigan-based health care workers advising them to boost profits in the final days of the month. “Don’t forget the August bonus incentive for all patients scheduled in August! That’s the easiest money you can make. Get that money,” the memo urged. Dr. Allison Brown, a former Pinnacle employee and board-certified dermatologist and dermatopathologist, "
+          ],
+          [
+            0,
+            [
+              30
+            ],
+            1,
+            "shared the memo"
+          ],
+          [
+            0,
+            [],
+            0,
+            " with "
+          ],
+          [
+            0,
+            [
+              1
+            ],
+            1,
+            "NBC News"
+          ],
+          [
+            0,
+            [],
+            0,
+            " and recounted being fired after relaying to management concerns about practices harmful to patients. In her letter to management, Brown documented instances of overlooked diagnoses, lost biopsies, and overbooking patients without adequate support staff, among other concerns. According to researchers, about 15 percent of dermatology practices were private equity-owned before the pandemic — a number that has likely grown. “The private equity business model is fundamentally incompatible with sound health care that serves patients,” researchers noted in a "
+          ],
+          [
+            0,
+            [
+              31
+            ],
+            1,
+            "paper"
+          ],
+          [
+            0,
+            [],
+            0,
+            " published in May."
+          ]
+        ],
+        [
+          [
+            0,
+            [
+              3
+            ],
+            1,
+            "TRUMP SUES NEW YORK AG JAMES: "
+          ],
+          [
+            0,
+            [],
+            0,
+            "Donald Trump "
+          ],
+          [
+            0,
+            [
+              32
+            ],
+            1,
+            "is suing"
+          ],
+          [
+            0,
+            [],
+            0,
+            " New York Attorney General Letitia James, who, according to the former president, has been investigating his real estate company merely for political gain. “Her mission is guided solely by political animus and a desire to harass, intimidate, and retaliate against a private citizen who she views as a political opponent,” argued the "
+          ],
+          [
+            0,
+            [
+              33
+            ],
+            1,
+            "30-page complaint"
+          ],
+          [
+            0,
+            [],
+            0,
+            " filed by Trump’s attorney. The lawsuit, filed on Monday in federal court in Albany, New York, aims to shut down James’s multi-year effort to determine whether Trump’s company had manipulated the value of key assets for tax and insurance reasons. The case will "
+          ],
+          [
+            0,
+            [
+              34
+            ],
+            1,
+            "likely face an uphill battle"
+          ],
+          [
+            0,
+            [],
+            0,
+            " in court because federal judges don’t often order a state prosecutor to end an investigation or avoid bringing charges."
+          ]
+        ]
+      ]
+    ],
+    [
+      1,
+      "h3",
+      [
+        [
+          0,
+          [],
+          0,
+          "TODAY’S OWN:"
+        ]
+      ]
+    ],
+    [
+      10,
+      6
+    ],
+    [
+      10,
+      7
+    ],
+    [
+      10,
+      8
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [
+            1,
+            3
+          ],
+          2,
+          "This newsletter relies on readers pitching in to support our journalism. If you like this story, please support "
+        ],
+        [
+          0,
+          [
+            3
+          ],
+          1,
+          "The Daily Poster"
+        ],
+        [
+          0,
+          [
+            1,
+            3
+          ],
+          2,
+          "'s work."
+        ]
+      ]
+    ],
+    [
+      10,
+      9
+    ],
+    [
+      10,
+      10
+    ]
+  ],
+  "ghostVersion": "4.0"
+}

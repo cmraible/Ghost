@@ -1,0 +1,835 @@
+{
+  "version": "0.3.1",
+  "atoms": [],
+  "cards": [
+    [
+      "email",
+      {
+        "html": "<p>Hey {first_name, \"there\"},</p><p>This week is going to test my commitment to keep this newsletter and site coming out at least four times a week, as my diary is just <em>packed</em>. Lots of interesting stuff happening though, so let's get straight on with it…</p>"
+      }
+    ],
+    [
+      "bookmark",
+      {
+        "version": "1.0",
+        "type": "bookmark",
+        "url": "https://ghost.org/resources/independent-local-news/",
+        "metadata": {
+          "url": "https://ghost.org/resources/independent-local-news/",
+          "title": "How to build an independent local news product",
+          "description": "Local news is in crisis. Traditional outlets saddled with debt are closing, leaving “news deserts” behind them.",
+          "author": "Kym Ellis",
+          "publisher": "Ghost Resources",
+          "thumbnail": "https://ghost.org/resources/content/images/2023/02/news-desert-1.png",
+          "icon": "https://ghost.org/resources/content/images/size/w256h256/2021/10/ghost-orb-pink-transparent-01-1.png"
+        }
+      }
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "image",
+      {
+        "src": "__GHOST_URL__/content/images/2023/02/adders_a_zombie_MacBook_Pro_rising_from_the_gra.jpg",
+        "caption": "",
+        "alt": "An old battered MacBook with a zombie rising out of the back of it. "
+      }
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "bookmark",
+      {
+        "version": "1.0",
+        "type": "bookmark",
+        "url": "https://armoxon.substack.com/p/the-case-for-shunning",
+        "metadata": {
+          "url": "https://armoxon.substack.com/p/the-case-for-shunning",
+          "title": "The Case For Shunning",
+          "description": "People like Scott Adams claim they’re being silenced. But what they actually seem to object to is being understood.",
+          "author": "A.R. Moxon",
+          "publisher": "The Reframe",
+          "thumbnail": "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd16496db-5916-4c32-9a55-aba0461a4734_630x420.jpeg",
+          "icon": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fd0b16cea-7901-40c3-892a-53fa400af4bf%2Fapple-touch-icon-1024x1024.png"
+        }
+      }
+    ],
+    [
+      "bookmark",
+      {
+        "version": "1.0",
+        "type": "bookmark",
+        "url": "https://www.charterworks.com/dilbert-cancellation-scott-adams/",
+        "metadata": {
+          "url": "https://www.charterworks.com/dilbert-cancellation-scott-adams/",
+          "title": "‘Dilbert’ was a historical artifact long before it was canceled",
+          "description": "America’s most famous office worker has been fired.",
+          "author": "S. Mitra Kalita",
+          "publisher": "Charter",
+          "thumbnail": "https://www.charterworks.com/content/images/2023/02/Scott-Adam.png",
+          "icon": "https://www.charterworks.com/content/images/size/w256h256/2021/06/profile-1.png"
+        }
+      }
+    ]
+  ],
+  "markups": [
+    [
+      "a",
+      [
+        "href",
+        "https://ghost.org/resources/independent-local-news/"
+      ]
+    ],
+    [
+      "em"
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://tcbmag.com/zombie-newspaper-sites-rise-from-the-grave/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.gov.uk/government/organisations/commission-for-architecture-and-the-built-environment-cabe"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.designcouncil.org.uk"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.theverge.com/2023/2/26/23615841/twitter-blue-esther-crawford-layoffs"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.propublica.org/article/politwoops-deleted-tweets-twitter-politicians-musk"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://searchengineland.com/bing-webmaster-tools-to-gain-bing-chat-and-index-coverage-reporting-393687"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://petapixel.com/2023/02/28/ai-tool-reveals-how-celebrities-faces-have-been-photoshopped/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.niemanlab.org/2023/02/meet-the-first-ever-artificial-intelligence-editor-at-the-financial-times/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://pressgazette.co.uk/news/politico-london-expansion/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.inma.org/blogs/smart-data-initiative/post.cfm/bbc-product-manager-shares-how-automation-ai-can-help-media-reach-fragmented-audiences"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.nytimes.com/2023/02/26/us/dilbert-newspapers-racism.html"
+      ]
+    ]
+  ],
+  "sections": [
+    [
+      10,
+      0
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "A practical guide to launching a local journalism startup"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "This flew under my radar: the team behind the Ghost CMS, partnered with the Google News Initiative to help launch some local news sites a couple of years ago. Ghost's Kym Ellis has spoken to three of the sites — RANGE media, Madison Minutes, and Sioux Falls Simplified — and extracted "
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          0,
+          "some "
+        ],
+        [
+          0,
+          [
+            1
+          ],
+          1,
+          "really"
+        ],
+        [
+          0,
+          [],
+          1,
+          " useful practical advice"
+        ],
+        [
+          0,
+          [],
+          0,
+          " for people looking to get their own hyperlocal venture up and going."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "For example:"
+        ]
+      ]
+    ],
+    [
+      1,
+      "blockquote",
+      [
+        [
+          0,
+          [],
+          0,
+          "Directly asking your audience to support your work financially can feel difficult, but if you’re creating something your readers truly value, it can also be an effective and rewarding way to grow your business."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "(There’s an example which led to a 40% increase in paid members, and a 44% increase in monthly recurring revenue.)"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "And:"
+        ]
+      ]
+    ],
+    [
+      1,
+      "blockquote",
+      [
+        [
+          0,
+          [],
+          0,
+          "Participating in the community helps spread the word and build trust. For example, consider making guest appearances on podcasts or local radio, getting involved in online communities, and attending or hosting in-person events."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "There’s nothing earth-shattering or new in here — but it's a valuable and most of all "
+        ],
+        [
+          0,
+          [
+            1
+          ],
+          1,
+          "practical"
+        ],
+        [
+          0,
+          [],
+          0,
+          " set of advice that beats out the hundreds of theoretical think pieces about local news that the industry has been churning out. We need less pontification and more practical guides to getting something useful going, by serving and, crucially, "
+        ],
+        [
+          0,
+          [
+            1
+          ],
+          1,
+          "engaging"
+        ],
+        [
+          0,
+          [],
+          0,
+          " with a community. Get the basics right, and the success flows from that."
+        ]
+      ]
+    ],
+    [
+      10,
+      1
+    ],
+    [
+      10,
+      2
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Zombie News Websites"
+        ]
+      ]
+    ],
+    [
+      10,
+      3
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "What happens to a dead newspaper’s website address? "
+        ],
+        [
+          0,
+          [
+            2
+          ],
+          1,
+          "Nothing good"
+        ],
+        [
+          0,
+          [],
+          0,
+          ":"
+        ]
+      ]
+    ],
+    [
+      1,
+      "blockquote",
+      [
+        [
+          0,
+          [],
+          0,
+          "Minneapolis neighborhood newspaper the Southwest Journal shuttered at the end of 2020, but its web domain continues to post fresh content under the auspices of a Delaware “SEO company” whose leader lives in Serbia. Though the site still includes a few legacy Journal articles now under fictitious bylines, all of the most recent posts are more or less junk content evidently designed to manipulate search engines."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "My RSS reader is full of dead feeds from old websites and blogs, some of which I followed over a decade ago. Occasionally, they spring back to live, full of spammy content, designed to juice SEO algorithms, and attract traffic to some sites. That’s "
+        ],
+        [
+          0,
+          [
+            1
+          ],
+          1,
+          "precisely"
+        ],
+        [
+          0,
+          [],
+          0,
+          " what’s being described here."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "In fact, I came across an example just a week or two back, when I discovered that the old "
+        ],
+        [
+          0,
+          [
+            3
+          ],
+          1,
+          "Commission for Architecture and the Built Environment site"
+        ],
+        [
+          0,
+          [],
+          0,
+          " was now a spam nest. (The quango was merged into the "
+        ],
+        [
+          0,
+          [
+            4
+          ],
+          1,
+          "Design Council"
+        ],
+        [
+          0,
+          [],
+          0,
+          " in 2011.)"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "But I’ve also learned that there’s an afterlife to this: if the site doesn’t deliver enough value, they tend to shut it down again, and then put the domain name up for sale again at a significant margin. General rule of thumb for companies and individuals: hang on to your domain names, unless you "
+        ],
+        [
+          0,
+          [
+            1
+          ],
+          1,
+          "really"
+        ],
+        [
+          0,
+          [],
+          0,
+          " can’t afford to. You never know when they might come in handy…"
+        ]
+      ]
+    ],
+    [
+      10,
+      4
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Twitter Watch 🍿"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Hey, remember that Twitter engineer who made such a big thing of sleeping in the office, and seemed to get promoted as a result?"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [
+            5
+          ],
+          1,
+          "She got fired"
+        ],
+        [
+          0,
+          [],
+          0,
+          "."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "It looks like Musk has cut another 10% of the workforce. Honestly, it sounds increasingly like he’s basically burning Twitter down to the ground — and rebuilding it from there. But it’s about to find out that it’s much easier to destroy a social network than it is to build a successful one."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Time to double my popcorn order."
+        ]
+      ]
+    ],
+    [
+      3,
+      "ul",
+      [
+        [
+          [
+            0,
+            [],
+            0,
+            "One victim of Musk’s Twitter: "
+          ],
+          [
+            0,
+            [
+              6
+            ],
+            1,
+            "Politiwoops, a service that tracked deleted tweets from politicians"
+          ],
+          [
+            0,
+            [],
+            0,
+            "."
+          ]
+        ]
+      ]
+    ],
+    [
+      10,
+      5
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Quickies"
+        ]
+      ]
+    ],
+    [
+      3,
+      "ul",
+      [
+        [
+          [
+            0,
+            [],
+            0,
+            "🔎 Bing’s "
+          ],
+          [
+            0,
+            [
+              7
+            ],
+            1,
+            "webmaster tools gets a Bing Chat report"
+          ],
+          [
+            0,
+            [],
+            0,
+            ". Time to register for it, if you haven’t already."
+          ]
+        ],
+        [
+          [
+            0,
+            [],
+            0,
+            "🤖 AI is being used to "
+          ],
+          [
+            0,
+            [
+              8
+            ],
+            1,
+            "spot manipulated faces on magazine covers"
+          ],
+          [
+            0,
+            [],
+            0,
+            "."
+          ]
+        ],
+        [
+          [
+            0,
+            [],
+            0,
+            "🧐 A profile of the "
+          ],
+          [
+            0,
+            [
+              9,
+              1
+            ],
+            1,
+            "Financial Times"
+          ],
+          [
+            0,
+            [],
+            1,
+            "’s first AI editor"
+          ],
+          [
+            0,
+            [],
+            0,
+            "."
+          ]
+        ],
+        [
+          [
+            0,
+            [],
+            0,
+            "📈 "
+          ],
+          [
+            0,
+            [
+              10
+            ],
+            1,
+            "Politico growing its London operation rapidly"
+          ],
+          [
+            0,
+            [],
+            0,
+            ", at a time when other publishers are shrinking. Theory: it’s created a B2B niche for itself as the independent voice reporting on the business politics in the UK and elsewhere, in a market largely dominated by partisan reporting."
+          ]
+        ],
+        [
+          [
+            0,
+            [],
+            0,
+            "🤷🏼 A piece about how the "
+          ],
+          [
+            0,
+            [
+              11
+            ],
+            1,
+            "BBC is experimenting with AI"
+          ],
+          [
+            0,
+            [],
+            0,
+            ". Having read this a couple of times, as far as I can see, it’s just taking a lot of words to say “AI exists, dunno how we’ll use it, but we’re playing with it.”"
+          ]
+        ]
+      ]
+    ],
+    [
+      10,
+      6
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Dilbert gets cancelled"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Is the way the internet exposes us to the reality of creators a good or a bad thing? Are we, for example, better for knowing that the creator of "
+        ],
+        [
+          0,
+          [
+            1
+          ],
+          1,
+          "Dilbert"
+        ],
+        [
+          0,
+          [],
+          0,
+          " is something of a right-wing nut-job? The popular comic strip, which satirised office life in a safe enough way that some companies — including one of my former employers — felt comfortable embedding it on their intranet, has been "
+        ],
+        [
+          0,
+          [
+            12
+          ],
+          1,
+          "yanked from a bunch of newspapers"
+        ],
+        [
+          0,
+          [],
+          0,
+          ", after its creator went on what sounds very much like a racist rant:"
+        ]
+      ]
+    ],
+    [
+      1,
+      "blockquote",
+      [
+        [
+          0,
+          [],
+          0,
+          "Hundreds of newspapers across the country will stop running the “Dilbert” comic strip after its creator said on a YouTube livestream that Black people were “a hate group” and that white people should “just get the hell away” from them."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Honestly, I haven’t paid attention to "
+        ],
+        [
+          0,
+          [
+            1
+          ],
+          1,
+          "Dilbert"
+        ],
+        [
+          0,
+          [],
+          0,
+          " for something like 20 years, but the news has created a market for some interesting writing on the subject of the strip and its strengths and weaknesses:"
+        ]
+      ]
+    ],
+    [
+      10,
+      7
+    ],
+    [
+      10,
+      8
+    ],
+    [
+      1,
+      "p",
+      []
+    ]
+  ],
+  "ghostVersion": "4.0"
+}

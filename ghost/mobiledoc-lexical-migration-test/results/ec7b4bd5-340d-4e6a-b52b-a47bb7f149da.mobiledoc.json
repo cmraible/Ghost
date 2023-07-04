@@ -1,0 +1,312 @@
+{
+  "version": "0.3.1",
+  "atoms": [],
+  "cards": [
+    [
+      "bookmark",
+      {
+        "url": "https://webmasters.googleblog.com/2020/07/rich-results-test-out-of-beta.html",
+        "metadata": {
+          "url": "https://webmasters.googleblog.com/2020/07/rich-results-test-out-of-beta.html",
+          "title": "The Rich Results Test is out of beta",
+          "description": "Official news on crawling and indexing sites for the Google index",
+          "author": "Google",
+          "publisher": "Official Google Webmaster Central Blog",
+          "thumbnail": "https://2.bp.blogspot.com/-7bZ5EziliZQ/VynIS9F7OAI/AAAAAAAASQ0/BJFntXCAntstZe6hQuo5KTrhi5Dyz9yHgCK4B/s1600/googlelogo_color_200x200.png",
+          "icon": "https://webmasters.googleblog.com/favicon.ico"
+        }
+      }
+    ]
+  ],
+  "markups": [
+    [
+      "a",
+      [
+        "href",
+        "https://webmasters.googleblog.com/2019/05/new-in-structured-data-faq-and-how-to.html"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://webmasters.googleblog.com/2019/04/enriching-search-results-structured-data.html"
+      ]
+    ],
+    [
+      "strong"
+    ],
+    [
+      "a",
+      [
+        "href",
+        "http://support.google.com/webmasters/bin/answer.py?hl=en&answer=99170"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "http://www.google.com/webmasters/tools/richsnippets"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "http://searchengineland.com/google-structured-snippets-officially-live-search-results-203900"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "http://www.seoskeptic.com/schema-org-enumerations/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "http://ogp.me/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://developers.facebook.com/tools/debug"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://developer.twitter.com/en/docs/tweets/optimize-with-cards/overview/abouts-cards"
+      ]
+    ]
+  ],
+  "sections": [
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Snippets are the extracts of your site that appear in search - and when your site is shared into social services like Facebook and LinkedIn. These are largely determined by the search engines themselves, but you can make suggestions which they often make use of."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "I have provided examples, and links to documentation. This will need implementation by your development team, but key areas like description and photo choice should be customisable by the author or editor."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Google ran a series of useful guides in early 2019, including "
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "an FAQ"
+        ],
+        [
+          0,
+          [],
+          0,
+          " and details on the "
+        ],
+        [
+          0,
+          [
+            1
+          ],
+          1,
+          "new “How To” markup"
+        ],
+        [
+          0,
+          [],
+          0,
+          "."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [
+            2
+          ],
+          1,
+          "Google: Rich snippets"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [
+            3
+          ],
+          1,
+          "Rich snippets documentation"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [
+            4
+          ],
+          1,
+          "Structured Data Testing Tool"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [
+            5
+          ],
+          1,
+          "Structured Snippets"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [
+            6
+          ],
+          1,
+          "schema.org enumerations"
+        ]
+      ]
+    ],
+    [
+      10,
+      0
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [
+            2
+          ],
+          1,
+          "Facebook: Open Graph"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [
+            7
+          ],
+          1,
+          "Open Graph Documentation"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [
+            8
+          ],
+          1,
+          "Facebook debugger"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [
+            2
+          ],
+          1,
+          "Twitter Cards"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Growing in "
+        ],
+        [
+          0,
+          [
+            9
+          ],
+          1,
+          "popularity and scope"
+        ],
+        [
+          0,
+          [],
+          0,
+          ", and with some cross-over with Open Graph"
+        ]
+      ]
+    ]
+  ],
+  "ghostVersion": "3.0"
+}

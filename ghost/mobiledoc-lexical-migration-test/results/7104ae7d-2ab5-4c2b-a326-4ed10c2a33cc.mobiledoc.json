@@ -1,0 +1,228 @@
+{
+  "version": "0.3.1",
+  "atoms": [],
+  "cards": [
+    [
+      "email-cta",
+      {
+        "showButton": true,
+        "showDividers": false,
+        "segment": "status:-free",
+        "alignment": "center",
+        "buttonText": "Click Here To Access The Live Chat",
+        "buttonUrl": "__GHOST_URL__/1-5-live-chat/"
+      }
+    ],
+    [
+      "email-cta",
+      {
+        "showButton": true,
+        "showDividers": false,
+        "segment": "status:free",
+        "alignment": "center",
+        "html": "<p><strong>To participate in this live chat, become <a href=\"__GHOST_URL__/subscribe/\">a paying subscriber</a>. You will receive an email with login information for the event.</strong></p>",
+        "buttonText": "SUBSCRIBE HERE",
+        "buttonUrl": "__GHOST_URL__/subscribe/"
+      }
+    ],
+    [
+      "email-cta",
+      {
+        "showButton": false,
+        "showDividers": false,
+        "segment": "status:-free",
+        "alignment": "left",
+        "html": "<p><em><strong>Go to our </strong></em><a href=\"__GHOST_URL__/1-5-live-chat/\"><em><strong>LIVE CHAT PAGE</strong></em></a><em><strong>, then click on the green “Save my spot!” button in the embedded Crowdcast player at the bottom of the page.</strong></em></p>"
+      }
+    ],
+    [
+      "email-cta",
+      {
+        "showButton": true,
+        "showDividers": false,
+        "segment": "status:-free",
+        "alignment": "center",
+        "buttonText": "Click Here To Access The Live Chat",
+        "buttonUrl": "__GHOST_URL__/1-5-live-chat/"
+      }
+    ],
+    [
+      "email-cta",
+      {
+        "showButton": false,
+        "showDividers": false,
+        "segment": "status:free",
+        "alignment": "left",
+        "html": "<p><em><strong>If you would like to participate in the live chat, please </strong></em><a href=\"__GHOST_URL__/subscribe/\"><em><strong>become a paying subscriber</strong></em></a><em><strong>. You will receive an email with login information for the event.</strong></em></p>"
+      }
+    ],
+    [
+      "email-cta",
+      {
+        "showButton": true,
+        "showDividers": false,
+        "segment": "status:free",
+        "alignment": "center",
+        "html": "",
+        "buttonText": "SUBSCRIBE HERE",
+        "buttonUrl": "__GHOST_URL__/subscribe/"
+      }
+    ]
+  ],
+  "markups": [
+    [
+      "em"
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://screenrant.com/dont-look-up-movie-netflix-views-ratings-numbers/"
+      ]
+    ],
+    [
+      "strong"
+    ]
+  ],
+  "sections": [
+    [
+      10,
+      0
+    ],
+    [
+      10,
+      1
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "As we previously announced, tonight at 6 pm ET (3 pm PT), "
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "Daily Poster"
+        ],
+        [
+          0,
+          [],
+          0,
+          " paying subscribers will chat with Oscar-winner Adam McKay about his new climate film "
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "Don’t Look Up"
+        ],
+        [
+          0,
+          [],
+          0,
+          ", which has become "
+        ],
+        [
+          0,
+          [
+            1
+          ],
+          1,
+          "one of the most-watched Netflix films of all time"
+        ],
+        [
+          0,
+          [],
+          0,
+          ". "
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "The Daily Poster"
+        ],
+        [
+          0,
+          [],
+          0,
+          "’s David Sirota co-produced "
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "Don’t Look Up"
+        ],
+        [
+          0,
+          [],
+          0,
+          " and crafted the movie’s overall story with McKay, who wrote the screenplay and directed the film."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [
+            0,
+            2
+          ],
+          2,
+          "Like all our live chats, the event is exclusively for "
+        ],
+        [
+          0,
+          [
+            2
+          ],
+          1,
+          "Daily Poster"
+        ],
+        [
+          0,
+          [
+            0,
+            2
+          ],
+          2,
+          " paying subscribers, who will be able to watch the broadcast live, ask questions in real time, and watch a replay of the event."
+        ]
+      ]
+    ],
+    [
+      10,
+      2
+    ],
+    [
+      10,
+      3
+    ],
+    [
+      10,
+      4
+    ],
+    [
+      10,
+      5
+    ]
+  ],
+  "ghostVersion": "4.0"
+}

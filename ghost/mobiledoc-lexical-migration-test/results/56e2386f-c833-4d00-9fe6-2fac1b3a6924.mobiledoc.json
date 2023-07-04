@@ -1,0 +1,736 @@
+{
+  "version": "0.3.1",
+  "atoms": [
+    [
+      "soft-return",
+      "",
+      {}
+    ]
+  ],
+  "cards": [
+    [
+      "hr",
+      {}
+    ],
+    [
+      "embed",
+      {
+        "url": "https://www.youtube.com/watch?v=uUeWDf-rEq0",
+        "html": "<iframe width=\"612\" height=\"344\" src=\"https://www.youtube.com/embed/uUeWDf-rEq0?feature=oembed\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+        "type": "video",
+        "metadata": {
+          "author_url": "https://www.youtube.com/channel/UCbvnFQK524Y7PXx3ceWCTQQ",
+          "height": 344,
+          "provider_url": "https://www.youtube.com/",
+          "width": 612,
+          "thumbnail_url": "https://i.ytimg.com/vi/uUeWDf-rEq0/hqdefault.jpg",
+          "author_name": "AutotopiaLA",
+          "title": "Crazy Mopar Collection in Sweden",
+          "thumbnail_width": 480,
+          "thumbnail_height": 360,
+          "version": "1.0",
+          "provider_name": "YouTube"
+        }
+      }
+    ],
+    [
+      "image",
+      {
+        "src": "__GHOST_URL__/content/images/2020/09/viper.png",
+        "width": 1992,
+        "height": 1046,
+        "cardWidth": "wide",
+        "alt": "<img src=\"viper.png\" alt=\"1996 Dodge Viper\">"
+      }
+    ],
+    [
+      "image",
+      {
+        "src": "__GHOST_URL__/content/images/2020/09/viper-engine.png",
+        "width": 1936,
+        "height": 1044,
+        "cardWidth": "wide",
+        "alt": "<img src=\"viper-engine.png\" alt=\"Under the hood of the 1996 Dodge Viper\">"
+      }
+    ],
+    [
+      "image",
+      {
+        "src": "__GHOST_URL__/content/images/2020/09/1968-charger.png",
+        "width": 2770,
+        "height": 1590,
+        "alt": "<img src=\"1968-charger.png\" alt=\"A modified 1968 Dodge Charger\">",
+        "cardWidth": "wide"
+      }
+    ],
+    [
+      "image",
+      {
+        "src": "__GHOST_URL__/content/images/2020/09/1968-charger-2.png",
+        "width": 1924,
+        "height": 1058,
+        "cardWidth": "wide"
+      }
+    ],
+    [
+      "image",
+      {
+        "alt": "<img src=\"dodge-charger.png\" alt=\"A 1968 Dodge Charger with a huge blower\">",
+        "src": "__GHOST_URL__/content/images/2020/09/dodge-charger.png",
+        "width": 1872,
+        "height": 996,
+        "cardWidth": "wide"
+      }
+    ],
+    [
+      "image",
+      {
+        "alt": "<img src=\"charger-burnout.png\" alt=\"Dodge Charger burnout\">",
+        "src": "__GHOST_URL__/content/images/2020/09/charger-burnout.png",
+        "width": 2010,
+        "height": 962,
+        "cardWidth": "wide"
+      }
+    ]
+  ],
+  "markups": [
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/articles/features-3/celebrities-who-love-mopars/"
+      ]
+    ],
+    [
+      "em"
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/articles/news/jay-lenos-1951-hudson-hornet-has-quite-the-history/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/articles/handpicked/supercharged-starwood-sema-jeep-jk8/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/articles/news/florida-man-dodge-charger/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/articles/news/tantrum-charger/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/articles/features-3/ten-things-you-might-not-know-about-the-dodge-viper/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/articles/news/1993-dodge-viper-jay-lenos-garage/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/articles/handpicked/1970-dodge-super-bee/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/articles/features-3/coolest-vipers-on-motorious/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/articles/research/1968-dodge-charger/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/articles/news/dodge-charger-demon/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/articles/research/1974-dodge-charger/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/articles/news/sema-1970-challenger/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/articles/news/storm-chasing-ford-super-duty-jay-lenos-garage/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/articles/news/craigslist-1969-dodge-charger-hellcat-restomod/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/articles/features-3/10-things-charger/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/articles/news/1970-dodge-charger-sprayed-down/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/articles/news/1968-dodge-charger-barn-find/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/articles/news/dodge-hellcat-redeye-races-police/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/articles/news/bagged-widebody-dodge-demon/"
+      ]
+    ]
+  ],
+  "sections": [
+    [
+      1,
+      "h3",
+      [
+        [
+          0,
+          [],
+          0,
+          "Fit enough for SEMA and Jay Leno's Garage."
+        ]
+      ]
+    ],
+    [
+      10,
+      0
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "In Sweden, there is a garage with about five incredible must-see "
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "Mopars"
+        ],
+        [
+          0,
+          [],
+          0,
+          ". As you will see for yourself, these builds are incredible, and at least two have attended SEMA with one of those also appearing on "
+        ],
+        [
+          0,
+          [
+            1,
+            2
+          ],
+          2,
+          "Jay Leno's Garage"
+        ],
+        [
+          0,
+          [],
+          0,
+          ". Shawn Davis from AutotopiaLA met Johan at "
+        ],
+        [
+          0,
+          [
+            3
+          ],
+          1,
+          "SEMA"
+        ],
+        [
+          0,
+          [],
+          0,
+          " 2017 when he had one of his beautiful '68 "
+        ],
+        [
+          0,
+          [
+            4
+          ],
+          1,
+          "Dodge"
+        ],
+        [
+          0,
+          [],
+          0,
+          " "
+        ],
+        [
+          0,
+          [
+            5
+          ],
+          1,
+          "Chargers"
+        ],
+        [
+          0,
+          [],
+          0,
+          " on display. Check out the video where Davis finally flies to Sweden to see to check out Johan's beautiful Mopar collection."
+        ]
+      ]
+    ],
+    [
+      10,
+      1
+    ],
+    [
+      1,
+      "h3",
+      [
+        [
+          0,
+          [],
+          0,
+          "1996 Dodge Viper"
+        ]
+      ]
+    ],
+    [
+      10,
+      2
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "The very first car that they check out is a 1996 "
+        ],
+        [
+          0,
+          [
+            6,
+            7
+          ],
+          2,
+          "Dodge Viper"
+        ],
+        [
+          0,
+          [],
+          0,
+          " that is anything but stock. Of course the wheels and tires have been switched out, but it also is quite the powerhouse. From the factory, this "
+        ],
+        [
+          0,
+          [
+            8
+          ],
+          1,
+          "Dodge"
+        ],
+        [
+          0,
+          [],
+          0,
+          " "
+        ],
+        [
+          0,
+          [
+            9
+          ],
+          1,
+          "Viper "
+        ],
+        [
+          0,
+          [],
+          0,
+          "would make 450-horsepower, but this one generates somewhere between 650 and 700-horsepower."
+        ]
+      ]
+    ],
+    [
+      10,
+      3
+    ],
+    [
+      1,
+      "h3",
+      [
+        [
+          0,
+          [],
+          0,
+          "Modified "
+        ],
+        [
+          0,
+          [
+            10
+          ],
+          1,
+          "1968 Dodge Charger"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Johan also owns a "
+        ],
+        [
+          0,
+          [
+            11
+          ],
+          1,
+          "1968 Dodge Charger"
+        ],
+        [
+          0,
+          [],
+          0,
+          " that has been modified inside and out. the vintage "
+        ],
+        [
+          0,
+          [
+            12
+          ],
+          1,
+          "Dodge"
+        ],
+        [
+          0,
+          [],
+          0,
+          " features aluminum components such as the incredibly large rear wheels (24 x 15.5), the center console, and steering wheel. Not only did this car make a splash at the 2017 "
+        ],
+        [
+          0,
+          [
+            13
+          ],
+          1,
+          "SEMA"
+        ],
+        [
+          0,
+          [],
+          0,
+          " show in a sea of other builds, this old muscle car also appeared on "
+        ],
+        [
+          0,
+          [
+            1,
+            14
+          ],
+          2,
+          "Jay Leno's Garage"
+        ],
+        [
+          0,
+          [],
+          0,
+          "."
+        ]
+      ]
+    ],
+    [
+      10,
+      4
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "An old-school Mopar with plenty of modern power on tap, under the hood sits a Gen 2 Viper V10 engine. Capable of 1,500-horsepower, this bad "
+        ],
+        [
+          0,
+          [
+            15
+          ],
+          1,
+          "Charger"
+        ],
+        [
+          0,
+          [],
+          0,
+          " is sitting somewhere between 700- and 800-horsepower. "
+        ]
+      ]
+    ],
+    [
+      1,
+      "h3",
+      [
+        [
+          0,
+          [],
+          0,
+          "Factory 1968 Dodge Charger"
+        ]
+      ]
+    ],
+    [
+      10,
+      5
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Another '68 "
+        ],
+        [
+          0,
+          [
+            16
+          ],
+          1,
+          "Charger"
+        ],
+        [
+          0,
+          [],
+          0,
+          " can be found in his collection, but this one sits more on the factory side of things. Everything appears factory besides the wheels and the paint, which appears black but shows metallic gray in the sun."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Johan, his brother, and two friends drove to Los Angeles and bought it, then they headed to Las Vegas for a week. Right on the strip in front of the Bellagio, Johan decided to roast the tires of the "
+        ],
+        [
+          0,
+          [
+            17
+          ],
+          1,
+          "Charger"
+        ],
+        [
+          0,
+          [],
+          0,
+          ", a stunt that landed him in handcuffs. "
+        ]
+      ]
+    ],
+    [
+      1,
+      "h3",
+      [
+        [
+          0,
+          [],
+          0,
+          "1968 Dodge Charger With Big Blower"
+        ]
+      ]
+    ],
+    [
+      10,
+      6
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Another incredible car found in Johan's collection is the third "
+        ],
+        [
+          0,
+          [
+            18
+          ],
+          1,
+          "1968 Dodge Charger"
+        ],
+        [
+          0,
+          [],
+          0,
+          ", but this has a massive blower protruding from the custom hood. Some may say that it looks similar to the vintage "
+        ],
+        [
+          0,
+          [
+            19
+          ],
+          1,
+          "Charger"
+        ],
+        [
+          0,
+          [],
+          0,
+          " driven by Vin Diesel in "
+        ],
+        [
+          0,
+          [
+            1
+          ],
+          1,
+          "The Fast and the Furious"
+        ],
+        [
+          0,
+          [],
+          0,
+          ", although this one looks like it could sweep up all the awards at any car show. Not only does this car have plenty of show, this Charger also has more than enough go. What started as a 400-cubic-inch V8 engine is now a 501-cubic-inch monster mill that is capable of 693-horsepower and 987 lb/ft of torque. "
+        ]
+      ]
+    ],
+    [
+      10,
+      7
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Amazingly enough, Johan and his friends build these incredible cars as a hobby. The work that went into these "
+        ],
+        [
+          0,
+          [
+            20
+          ],
+          1,
+          "Dodge"
+        ],
+        [
+          0,
+          [],
+          0,
+          " cars looks as if they paid a professional and high-reputable shop to do the work."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      []
+    ],
+    [
+      1,
+      "p",
+      []
+    ],
+    [
+      1,
+      "p",
+      []
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          1,
+          [],
+          0,
+          0
+        ]
+      ]
+    ]
+  ],
+  "ghostVersion": "3.0"
+}

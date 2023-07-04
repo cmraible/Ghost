@@ -1,66 +1,30 @@
 const jsdom = require('jsdom');
-const fs = require('fs');
-const path = require('path');
 let beautify = require('js-beautify').html;
+const prettier = require('prettier');
+const util = require('util');
+const mysql = require('mysql');
+const {decode} = require('html-entities');
 
 const {JSDOM} = jsdom;
 
-const assertHTML = async function (
-    postId,
-    mobiledocHtml,
-    lexicalHtml,
-    mobiledoc,
-    lexical,
-    {
-        ignoreClasses = false,
-        ignoreInlineStyles = false,
-        ignoreInnerSVG = false,
-        getBase64FileFormat = false,
-        ignoreCardContents = false,
-        ignoreCardToolbarContents = false,
-        ignoreDragDropAttrs = false,
-        ignoreDataTestId = false,
-        ignoreCardCaptionContents = false
-    } = {}
-) {
-    const mobiledocPrettifiedHtml = await prettifyHTML(mobiledocHtml.replace(/\n/gm, ''), {
-        ignoreClasses,
-        ignoreInlineStyles,
-        ignoreInnerSVG,
-        getBase64FileFormat,
-        ignoreCardContents,
-        ignoreCardToolbarContents,
-        ignoreDragDropAttrs,
-        ignoreDataTestId,
-        ignoreCardCaptionContents
-    });
-    const lexicalPrettifiedHtml = await prettifyHTML(lexicalHtml.replace(/\n/gm, ''), {
-        ignoreClasses,
-        ignoreInlineStyles,
-        ignoreInnerSVG,
-        getBase64FileFormat,
-        ignoreCardContents,
-        ignoreCardToolbarContents,
-        ignoreDragDropAttrs,
-        ignoreDataTestId,
-        ignoreCardCaptionContents
-    });
-    if (mobiledocPrettifiedHtml === lexicalPrettifiedHtml) {
-        console.log('Post ID: ' + postId + ': ✅');
-        return true;
-    } else {
-        console.log('Post ID: ' + postId + ': ❌');
-        fs.mkdirSync(path.join(__dirname, 'results', postId), {recursive: true});
-        const mobiledocHtmlPath = path.join(__dirname, 'results', postId, 'mobiledoc.html');
-        const lexicalHtmlPath = path.join(__dirname, 'results', postId, 'lexical.html');
-        const lexicalPath = path.join(__dirname, 'results', postId, 'lexical.json');
-        const mobiledocPath = path.join(__dirname, 'results', postId, 'mobiledoc.json');
-        fs.writeFileSync(mobiledocHtmlPath, mobiledocPrettifiedHtml, {flag: 'w+'});
-        fs.writeFileSync(lexicalHtmlPath, lexicalPrettifiedHtml, {flag: 'w+'});
-        fs.writeFileSync(lexicalPath, JSON.stringify(JSON.parse(lexical), null, 2), {flag: 'w+'});
-        fs.writeFileSync(mobiledocPath, JSON.stringify(JSON.parse(mobiledoc), null, 2), {flag: 'w+'});
-        return false;
-    }
+const makeDb = function () {
+    const config = {
+        host: '127.0.0.1',
+        user: 'root',
+        password: 'password',
+        database: 'migrationTest',
+        charset: 'utf8mb4'
+    };
+    const connection = mysql.createConnection(config);
+    
+    return {
+        query(sql, args) {
+            return util.promisify(connection.query).call(connection, sql, args);
+        },
+        close() {
+            return util.promisify(connection.end).call(connection);
+        }
+    };
 };
 
 const prettifyHTML = async function (string, options = {}) {
@@ -121,6 +85,9 @@ const prettifyHTML = async function (string, options = {}) {
     // remove spaces between brackets
     output = output.replace(/>\s+</g, '><');
 
+    // replace entities with unicode
+    output = decode(output);
+
     if (options.ignoreCardContents || options.ignoreCardToolbarContents || options.ignoreCardCaptionContents) {
         const {document} = (new JSDOM(output)).window;
 
@@ -140,13 +107,13 @@ const prettifyHTML = async function (string, options = {}) {
         });
         output = document.body.innerHTML;
     }
-
+    
     // const prettierFormatted = prettier
     //     .format(output, {
     //         attributeGroups: ['$DEFAULT', '^data-'],
     //         attributeSort: 'ASC',
     //         bracketSameLine: true,
-    //         htmlWhitespaceSensitivity: 'strict',
+    //         // htmlWhitespaceSensitivity: 'strict',
     //         singleAttributePerLine: true,
     //         parser: 'html'
     //     })
@@ -155,4 +122,4 @@ const prettifyHTML = async function (string, options = {}) {
     return beautify(output);
 };
 
-module.exports = {assertHTML};
+module.exports = {prettifyHTML, makeDb};

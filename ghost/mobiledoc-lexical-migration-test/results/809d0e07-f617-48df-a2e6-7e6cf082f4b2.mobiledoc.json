@@ -1,0 +1,21 @@
+{
+  "version": "0.3.1",
+  "markups": [],
+  "atoms": [],
+  "cards": [
+    [
+      "markdown",
+      {
+        "cardName": "card-markdown",
+        "markdown": "\n![AMPs in use](https://i1.wp.com/www.onemanandhisblog.com/content/images/2016/12/amp-in-use-1600x1201.jpg?resize=922%2C692)\n\n[John Gruber](http://daringfireball.net/linked/2016/10/21/google-amp), back in October:\n\n> Can someone explain to me why a website would publish AMP versions of their articles? They do load fast, which is a terrific user experience, but as far as I can see, sites that publish AMP pages are effectively ceding control over their content to Google.\n\nIn theory, Accelerate Mobile Pages are just highly optimised versions of your pages, that perform very quickly on mobile, and which live on your sever. The problem is that in many cases Google is saving them to its own cache, and then presenting the cache URL to visitors:\n\n[Danny Sullivan](http://searchengineland.com/google-url-for-amp-265344):\n\n> One of the biggest disadvantages for publishers in using AMP — the accelerated mobile pages format — is that Google will not show a publisher’s actual URL when displaying AMP pages. Google says this is so AMP pages load quickly.\n\n\n## Traffic & Revenue: yours to keep\n\nThis doesn’t lead to a net loss of traffic or ad revenue, as long as you’ve set up your AMPs properly. Sullivan again:\n\n> If you have AMP pages properly configured with analytics, ads and other goodies you might want, the traffic remains essentially yours. The cached URL might be shown, but everything on the page remains in the publisher’s control and is served from the publisher’s own site. It is your page, except for the URL.\n\nAnd, in many cases, acting on the cached URL will bring you back to the true one:\n\n> As for the URL, it will redirect to a publisher’s site if someone tries to go to it directly (though as a 302 “temporary” redirect, rather than a 301 “permanent,” which I feel would be better). AMP pages themselves also carry a form of source attribution in their canonical tags. Should someone share an article using options within the actual article, the publisher’s URL is used.\n\nAs [Charles Arthur puts it](https://theoverspill.wordpress.com/2016/12/15/start-up-trump-snubs-twitter-japans-vanishing-people-beatsx-delayed-surface-hubs-boom-and-more/#link12):\n\n> When Sullivan says “this feels odd” he’s essentially saying “wrong”, but couching it more gently, as his readers like Google. However AMP is not popular with people who like to share links, because it all goes back to Google, not the publisher.\n\n\n## The AMP trade-off\n\nI’ve had multiple reports from publishers – especially niche publishers – that implementing AMP has led to a very significant growth in traffic from search. I serve AMP pages here ([here’s this post as an AMP](https://www.onemanandhisblog.com/archives/2016/12/amp-google-urls.html/amp/)) – and when I remembered to add analytics to the AMP pages I was surprised how much traffic they were delivering. So, right now, you’re making a trade-off if you implement AMP – you’re giving up some control over your URLs in exchange for traffic.\n\nFor some publishers, that’s not a good trade-off:\n\n> Today we removed AMP support from MacStories. Our site is already fast, but, more importantly, no one messes with my permalinks. Feels good.\n> \n> — Federico Viticci (@viticci) [December 12, 2016](https://twitter.com/viticci/status/808342804153954305?ref_src=twsrc%5Etfw)\n\n<script async=\"\" charset=\"utf-8\" src=\"https://platform.twitter.com/widgets.js\"></script>\n\nAnd, quite frankly, I can’t see a good reason why Google couldn’t make this less difficult. Sullivan’s research suggests that Google caching the AMPs isn’t helping land times significantly – who why is Google so focused on doing this?\n\n\n"
+      }
+    ]
+  ],
+  "sections": [
+    [
+      10,
+      0
+    ]
+  ],
+  "ghostVersion": "3.0"
+}

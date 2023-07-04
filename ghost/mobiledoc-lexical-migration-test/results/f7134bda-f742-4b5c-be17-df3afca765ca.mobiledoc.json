@@ -1,0 +1,366 @@
+{
+  "version": "0.3.1",
+  "atoms": [],
+  "cards": [
+    [
+      "bookmark",
+      {
+        "version": "1.0",
+        "type": "bookmark",
+        "url": "https://om.co/2023/01/04/why-internet-silos-win/",
+        "metadata": {
+          "url": "https://om.co/2023/01/04/why-internet-silos-win/",
+          "title": "Why internet silos win",
+          "description": "Ever since Elon Musk took over Twitter and turned it into a tawdry reality show in which he is the star, the villain, and the comedian, everyone has been talking about a new decentralized web. New …",
+          "author": "More....",
+          "publisher": "On my Om",
+          "thumbnail": "https://149366103.v2.pressablecdn.com/wp-content/uploads/2021/05/image-og-fallback-om-left-white-vb.png",
+          "icon": "https://i0.wp.com/om.co/wp-content/uploads/2019/09/cropped-OmIcon-1.jpg?fit=192%2C192&ssl=1"
+        }
+      }
+    ],
+    [
+      "embed",
+      {
+        "url": "https://twitter.com/fleetstreetfox/status/1608841344872742913?s=61&t=dmNEOY8w6pH7c0zWJtF2Ew",
+        "html": "<blockquote class=\"twitter-tweet\"><p lang=\"en\" dir=\"ltr\">BBC News is getting rid of the nightly paper review. What an enormous shame - and also denies people worldwide a breakdown and analysis of what’s in the news by people other than bbc employees. <a href=\"https://t.co/tYWhm1FDsL\">pic.twitter.com/tYWhm1FDsL</a></p>&mdash; fleetstreetfox (@fleetstreetfox) <a href=\"https://twitter.com/fleetstreetfox/status/1608841344872742913?ref_src=twsrc%5Etfw\">December 30, 2022</a></blockquote>\n<script async src=\"https://platform.twitter.com/widgets.js\" charset=\"utf-8\"></script>\n",
+        "type": "twitter",
+        "metadata": {
+          "url": "https://twitter.com/fleetstreetfox/status/1608841344872742913",
+          "author_name": "fleetstreetfox",
+          "author_url": "https://twitter.com/fleetstreetfox",
+          "width": 550,
+          "height": null,
+          "cache_age": "3153600000",
+          "provider_name": "Twitter",
+          "provider_url": "http://www.twitter.com/",
+          "version": "1.0",
+          "tweet_data": {
+            "possibly_sensitive": false,
+            "entities": {
+              "urls": [
+                {
+                  "start": 194,
+                  "end": 217,
+                  "url": "https://t.co/tYWhm1FDsL",
+                  "expanded_url": "https://twitter.com/fleetstreetfox/status/1608841344872742913/photo/1",
+                  "display_url": "pic.twitter.com/tYWhm1FDsL",
+                  "media_key": "16_1608841337821958144"
+                }
+              ],
+              "annotations": [
+                {
+                  "start": 0,
+                  "end": 7,
+                  "probability": 0.9168,
+                  "type": "Organization",
+                  "normalized_text": "BBC News"
+                },
+                {
+                  "start": 179,
+                  "end": 181,
+                  "probability": 0.519,
+                  "type": "Organization",
+                  "normalized_text": "bbc"
+                }
+              ]
+            },
+            "conversation_id": "1608841344872742913",
+            "edit_history_tweet_ids": [
+              "1608841344872742913"
+            ],
+            "author_id": "85368735",
+            "text": "BBC News is getting rid of the nightly paper review. What an enormous shame - and also denies people worldwide a breakdown and analysis of what’s in the news by people other than bbc employees. https://t.co/tYWhm1FDsL",
+            "public_metrics": {
+              "retweet_count": 233,
+              "reply_count": 595,
+              "like_count": 1398,
+              "quote_count": 169,
+              "impression_count": 642109
+            },
+            "reply_settings": "everyone",
+            "lang": "en",
+            "context_annotations": [
+              {
+                "domain": {
+                  "id": "45",
+                  "name": "Brand Vertical",
+                  "description": "Top level entities that describe a Brands industry"
+                },
+                "entity": {
+                  "id": "781974597310615553",
+                  "name": "Entertainment"
+                }
+              },
+              {
+                "domain": {
+                  "id": "30",
+                  "name": "Entities [Entity Service]",
+                  "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain"
+                },
+                "entity": {
+                  "id": "781974597105094656",
+                  "name": "TV/Movies Related - Entertainment"
+                }
+              },
+              {
+                "domain": {
+                  "id": "46",
+                  "name": "Business Taxonomy",
+                  "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+                },
+                "entity": {
+                  "id": "1557697121477832705",
+                  "name": "Publisher & News Business",
+                  "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to  marketing and advertiser agencies, publishers of magazines, newspapers, blogs, books"
+                }
+              },
+              {
+                "domain": {
+                  "id": "47",
+                  "name": "Brand",
+                  "description": "Brands and Companies"
+                },
+                "entity": {
+                  "id": "1065659570578612224",
+                  "name": "BBC",
+                  "description": "BBC"
+                }
+              },
+              {
+                "domain": {
+                  "id": "131",
+                  "name": "Unified Twitter Taxonomy",
+                  "description": "A taxonomy of user interests. "
+                },
+                "entity": {
+                  "id": "1065659570578612224",
+                  "name": "BBC",
+                  "description": "BBC"
+                }
+              },
+              {
+                "domain": {
+                  "id": "45",
+                  "name": "Brand Vertical",
+                  "description": "Top level entities that describe a Brands industry"
+                },
+                "entity": {
+                  "id": "781974597310615553",
+                  "name": "Entertainment"
+                }
+              },
+              {
+                "domain": {
+                  "id": "30",
+                  "name": "Entities [Entity Service]",
+                  "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain"
+                },
+                "entity": {
+                  "id": "781974597105094656",
+                  "name": "TV/Movies Related - Entertainment"
+                }
+              },
+              {
+                "domain": {
+                  "id": "47",
+                  "name": "Brand",
+                  "description": "Brands and Companies"
+                },
+                "entity": {
+                  "id": "10047963348",
+                  "name": "BBC News",
+                  "description": "BBC News"
+                }
+              },
+              {
+                "domain": {
+                  "id": "131",
+                  "name": "Unified Twitter Taxonomy",
+                  "description": "A taxonomy of user interests. "
+                },
+                "entity": {
+                  "id": "10047963348",
+                  "name": "BBC News",
+                  "description": "BBC News"
+                }
+              },
+              {
+                "domain": {
+                  "id": "131",
+                  "name": "Unified Twitter Taxonomy",
+                  "description": "A taxonomy of user interests. "
+                },
+                "entity": {
+                  "id": "1046545033657081857",
+                  "name": "News",
+                  "description": "News"
+                }
+              },
+              {
+                "domain": {
+                  "id": "131",
+                  "name": "Unified Twitter Taxonomy",
+                  "description": "A taxonomy of user interests. "
+                },
+                "entity": {
+                  "id": "1196447117297905665",
+                  "name": "News outlets"
+                }
+              }
+            ],
+            "created_at": "2022-12-30T15:04:02.000Z",
+            "attachments": {
+              "media_keys": [
+                "16_1608841337821958144"
+              ]
+            },
+            "id": "1608841344872742913",
+            "includes": {
+              "media": [
+                {
+                  "type": "animated_gif",
+                  "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/FlPArDjXkAAdJC1.jpg",
+                  "media_key": "16_1608841337821958144",
+                  "height": 500,
+                  "width": 500
+                }
+              ],
+              "users": [
+                {
+                  "profile_image_url": "https://pbs.twimg.com/profile_images/684874064456986625/zTK0Y3t4_normal.jpg",
+                  "created_at": "2009-10-26T17:36:18.000Z",
+                  "verified": true,
+                  "entities": {
+                    "url": {
+                      "urls": [
+                        {
+                          "start": 0,
+                          "end": 23,
+                          "url": "https://t.co/fRGIwEptY6",
+                          "expanded_url": "http://www.susieboniface.com",
+                          "display_url": "susieboniface.com"
+                        }
+                      ]
+                    }
+                  },
+                  "name": "fleetstreetfox",
+                  "id": "85368735",
+                  "protected": false,
+                  "url": "https://t.co/fRGIwEptY6",
+                  "location": "Fleet Street, of course",
+                  "description": "Fleet Street hack and author. Often sarcastic, occasionally right. Fox (n) carnivore of genus vulpes; crafty person; scavenger; (vb) to confuse; to be drunk",
+                  "pinned_tweet_id": "1607658536338690049",
+                  "username": "fleetstreetfox",
+                  "public_metrics": {
+                    "followers_count": 95852,
+                    "following_count": 1636,
+                    "tweet_count": 142896,
+                    "listed_count": 1409
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    ],
+    [
+      "bookmark",
+      {
+        "version": "1.0",
+        "type": "bookmark",
+        "url": "https://pressgazette.co.uk/news/bbc-the-papers-ends/",
+        "metadata": {
+          "url": "https://pressgazette.co.uk/news/bbc-the-papers-ends/",
+          "title": "BBC ends nightly newspaper review ahead of channel merger",
+          "description": "The final edition of The Papers, the nightly newspaper review on the BBC News channel, has aired on 2 January.",
+          "author": "Charlotte Tobitt",
+          "publisher": "Press Gazette",
+          "thumbnail": "https://pressgazette.co.uk/wp-content/uploads/sites/7/2023/01/bbc-the-papers.jpg",
+          "icon": "https://pressgazette.co.uk/wp-content/uploads/sites/7/2022/09/cropped-Press-Gazette_favicon-270x270.jpg"
+        }
+      }
+    ],
+    [
+      "bookmark",
+      {
+        "version": "1.0",
+        "type": "bookmark",
+        "url": "https://pressgazette.co.uk/the-wire/media-jobs-uk-news/geordie-greig-the-independent-daily-mail/",
+        "metadata": {
+          "url": "https://pressgazette.co.uk/the-wire/media-jobs-uk-news/geordie-greig-the-independent-daily-mail/",
+          "title": "Ex-Daily Mail editor Geordie Greig takes helm at The Independent",
+          "description": "Geordie Greig has taken up the editorship at digital-only The Independent just over a year after he was ousted from the Daily Mail.",
+          "author": "Charlotte Tobitt",
+          "publisher": "Press Gazette",
+          "thumbnail": "https://pressgazette.co.uk/wp-content/uploads/sites/7/2020/03/Geordie-Greig-MAIL-e1583147552406.jpg",
+          "icon": "https://pressgazette.co.uk/wp-content/uploads/sites/7/2022/09/cropped-Press-Gazette_favicon-270x270.jpg"
+        }
+      }
+    ],
+    [
+      "bookmark",
+      {
+        "url": "http://onlinejournalismblog.com/2022/12/19/making-video-and-audio-interviews-searchable-how-pinpoint-helped-with-one-investigation/",
+        "metadata": {
+          "url": "https://onlinejournalismblog.com/2022/12/19/making-video-and-audio-interviews-searchable-how-pinpoint-helped-with-one-investigation/",
+          "title": "Making video and audio interviews searchable: how Pinpoint helped with one investigation",
+          "description": "Pinpoint creates a ranking of people, organisations, and locations with the number of times they are mentioned on your uploaded documents. MA Data Journalism student Tony Jarne spent eight months i…",
+          "author": "jarnavic",
+          "publisher": "Online Journalism Blog",
+          "thumbnail": "https://onlinejournalismblog.files.wordpress.com/2022/12/pinpoint_interface.png",
+          "icon": "https://s2.wp.com/i/webclip.png"
+        }
+      }
+    ],
+    [
+      "bookmark",
+      {
+        "url": "https://www.icopilots.com/the-tradeshows-were-tech-goes-to-die/",
+        "metadata": {
+          "url": "https://www.icopilots.com/the-tradeshows-were-tech-goes-to-die/",
+          "title": "👻 CES, the tradeshow where tech goes to die",
+          "description": "Every year for the CES Las Vegas, I have to shut down my social networks and stop listening to tech podcasts. But this is never 100% failproof, and I always catch glimpses of the recurring non-sensical projects pitched in the faint hope of generating some ephemeral buzz. I’m not even",
+          "author": "Philippe MEDA",
+          "publisher": "Innovation Copilots",
+          "thumbnail": "https://images.unsplash.com/photo-1587213221679-4670dc693d33?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDYyfHxsYXMlMjB2ZWdhc3xlbnwwfHx8fDE2NzI5OTU2Nzg&ixlib=rb-4.0.3&q=80&w=2000",
+          "icon": "https://www.icopilots.com/content/images/size/w256h256/2022/02/icopilots-logo-BIG.png"
+        }
+      }
+    ]
+  ],
+  "markups": [],
+  "sections": [
+    [
+      10,
+      0
+    ],
+    [
+      10,
+      1
+    ],
+    [
+      10,
+      2
+    ],
+    [
+      10,
+      3
+    ],
+    [
+      10,
+      4
+    ],
+    [
+      10,
+      5
+    ],
+    [
+      1,
+      "p",
+      []
+    ]
+  ],
+  "ghostVersion": "4.0"
+}

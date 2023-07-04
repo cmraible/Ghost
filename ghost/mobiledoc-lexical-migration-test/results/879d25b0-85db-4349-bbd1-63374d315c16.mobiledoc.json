@@ -1,0 +1,450 @@
+{
+  "version": "0.3.1",
+  "atoms": [],
+  "cards": [
+    [
+      "hr",
+      {}
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "html",
+      {
+        "html": "<table id=\"production-numbers-table\">\n<tbody>\n\t<tr>\n\t\t<td>Coupe DeVille</td>\n\t\t<td>63,935</td>\n\t</tr>\n    \t<tr>\n\t\t<td>4-DR Hardtop</td>\n\t\t<td>72,662</td>\n\t</tr>\n    \t<tr>\n\t\t<td>4-DR Sedan</td>\n\t\t<td>9,850</td>\n\t</tr>\n    \t<tr>\n\t\t<td>2-DR Convertible</td>\n\t\t<td>18,025</td>\n\t</tr>\n\t\t<td><b>Total Production</b></td>\n\t\t<td><b>164,472</b></td>\n\t</tr>\n</tbody>\n</table>"
+      }
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "html",
+      {
+        "html": "<table id=\"performance-specs-table\">\n<tbody>\n\t<tr>\n\t\t<th><b>Engine</b></th>\n\t\t<th><b>Size</b></td>\n\t\t<th><b>Carb.</b></td>\n\t\t<th><b>HP</b></td>\n\t\t<th><b>Torque</b></td>\n\t\t<th><b>0 to 60</b></td>\n\t\t<th><b>Quarter mile</b></td>\n\t</tr>\n\t<tr>\n\t\t<td>OHV V8</td>\n\t\t<td>472ci</td>\n\t\t<td>1x4bbl</td>\n\t\t<td>375</td>\n\t\t<td>525 lb-ft</td>\n\t\t<td>8.1 sec</td>\n\t\t<td>15.9 sec</td>\n\t</tr>\n</tbody>\n</table>"
+      }
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "html",
+      {
+        "html": "<h4 id='colors-sub-heading'>Exterior</h4>\n<div class=\"colors-row\">\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #000000\"></div>\n        <div class=\"color-name\">Sable Black</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #e1dcc9\"></div>\n        <div class=\"color-name\">Grecian White</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #9ca09e\"></div>\n        <div class=\"color-name\">Regal Silver</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #525860\"></div>\n        <div class=\"color-name\">Summit Gray</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #b1c2d8\"></div>\n        <div class=\"color-name\">Arctic Blue</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #5a6d93\"></div>\n        <div class=\"color-name\">Normandy Blue</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #1e2735\"></div>\n        <div class=\"color-name\">Emperor Blue</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #3b5e76\"></div>\n        <div class=\"color-name\">Caribe Aqua</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #6a827f\"></div>\n        <div class=\"color-name\">Silverpine Green</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #28363a\"></div>\n        <div class=\"color-name\">Ivanhoe Green</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #f2f0ae\"></div>\n        <div class=\"color-name\">Kashmir Ivory</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #cabda7\"></div>\n        <div class=\"color-name\">Sudan Beige</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #b5a893\"></div>\n        <div class=\"color-name\">Baroque Gold</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #534439\"></div>\n        <div class=\"color-name\">Chestnut Brown</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #7c312e\"></div>\n        <div class=\"color-name\">San Mateo Red</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #3e2b28\"></div>\n        <div class=\"color-name\">Regent Maroon</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #313d67\"></div>\n        <div class=\"color-name\">Spectre Blue Firemist</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #968059\"></div>\n        <div class=\"color-name\">Topaz Gold</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #4e6344\"></div>\n        <div class=\"color-name\">Monterey Green Firemist</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #453f3a\"></div>\n        <div class=\"color-name\">Rosewood Firemist</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #49292d\"></div>\n        <div class=\"color-name\">Madeira Plum Firemist</div>\n    </div>\n</div>\n\n<h4 id='colors-sub-heading'>Interior</h4>\n<div class=\"colors-row\">\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #000000\"></div>\n        <div class=\"color-name\">Black</div>\n    </div>\n       <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #c64442\"></div>\n        <div class=\"color-name\">Red</div>\n    </div>\n       <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #1a221e\"></div>\n        <div class=\"color-name\">Green</div>\n    </div>\n       <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #d0b683\"></div>\n        <div class=\"color-name\">Sandalwood</div>\n    </div>\n       <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #4e7082\"></div>\n        <div class=\"color-name\">Blue</div>\n    </div>\n       <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #f5ebd5\"></div>\n        <div class=\"color-name\">White</div>\n    </div>\n       <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #456e7d\"></div>\n        <div class=\"color-name\">Aqua</div>\n    </div>\n       <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #6d584c\"></div>\n        <div class=\"color-name\">Saddle</div>\n    </div>\n</div>\n"
+      }
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "gallery",
+      {
+        "images": [
+          {
+            "fileName": "2331_12_low_res.jpg",
+            "row": 0,
+            "width": 790,
+            "height": 617,
+            "src": "__GHOST_URL__/content/images/2020/07/2331_12_low_res.jpg"
+          },
+          {
+            "fileName": "2332_13_low_res.jpg",
+            "row": 0,
+            "width": 790,
+            "height": 600,
+            "src": "__GHOST_URL__/content/images/2020/07/2332_13_low_res.jpg"
+          },
+          {
+            "fileName": "2333_15_low_res.jpg",
+            "row": 0,
+            "width": 790,
+            "height": 613,
+            "src": "__GHOST_URL__/content/images/2020/07/2333_15_low_res.jpg"
+          },
+          {
+            "fileName": "2334_14_low_res.jpg",
+            "row": 1,
+            "width": 790,
+            "height": 613,
+            "src": "__GHOST_URL__/content/images/2020/07/2334_14_low_res.jpg"
+          },
+          {
+            "fileName": "2335_16_low_res.jpg",
+            "row": 1,
+            "width": 790,
+            "height": 606,
+            "src": "__GHOST_URL__/content/images/2020/07/2335_16_low_res.jpg"
+          },
+          {
+            "fileName": "2336_17_low_res.jpg",
+            "row": 1,
+            "width": 790,
+            "height": 612,
+            "src": "__GHOST_URL__/content/images/2020/07/2336_17_low_res.jpg"
+          },
+          {
+            "fileName": "2328_1_low_res.jpg",
+            "row": 2,
+            "width": 790,
+            "height": 609,
+            "src": "__GHOST_URL__/content/images/2020/07/2328_1_low_res.jpg"
+          },
+          {
+            "fileName": "2329_2_low_res.jpg",
+            "row": 2,
+            "width": 790,
+            "height": 607,
+            "src": "__GHOST_URL__/content/images/2020/07/2329_2_low_res.jpg"
+          },
+          {
+            "fileName": "2330_3_low_res.jpg",
+            "row": 2,
+            "width": 790,
+            "height": 613,
+            "src": "__GHOST_URL__/content/images/2020/07/2330_3_low_res.jpg"
+          }
+        ],
+        "caption": "1968 Cadillac DeVille OEM Brochures"
+      }
+    ],
+    [
+      "gallery",
+      {
+        "images": [
+          {
+            "fileName": "2337_22_low_res.jpg",
+            "row": 0,
+            "width": 790,
+            "height": 613,
+            "src": "__GHOST_URL__/content/images/2020/07/2337_22_low_res.jpg"
+          },
+          {
+            "fileName": "2338_23_low_res.jpg",
+            "row": 0,
+            "width": 790,
+            "height": 600,
+            "src": "__GHOST_URL__/content/images/2020/07/2338_23_low_res.jpg"
+          },
+          {
+            "fileName": "2339_24_low_res.jpg",
+            "row": 0,
+            "width": 790,
+            "height": 602,
+            "src": "__GHOST_URL__/content/images/2020/07/2339_24_low_res.jpg"
+          },
+          {
+            "fileName": "2340_68cdv_low_res.jpg",
+            "row": 1,
+            "width": 680,
+            "height": 1024,
+            "src": "__GHOST_URL__/content/images/2020/07/2340_68cdv_low_res.jpg"
+          }
+        ],
+        "caption": "1968 Cadillac DeVille OEM Brochures"
+      }
+    ],
+    [
+      "hr",
+      {}
+    ]
+  ],
+  "markups": [
+    [
+      "strong"
+    ],
+    [
+      "em"
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/tag/research/"
+      ]
+    ]
+  ],
+  "sections": [
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Overview"
+        ]
+      ]
+    ],
+    [
+      10,
+      0
+    ],
+    [
+      1,
+      "h3",
+      [
+        [
+          0,
+          [],
+          0,
+          "The 1968 DeVille saw the installation of a power-oriented front seat with horizontal adjustment and the addition of illuminated door panel reflectors. "
+        ]
+      ]
+    ],
+    [
+      10,
+      1
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "The 1968 DeVille saw the installation of a power-oriented front seat with horizontal adjustment and the addition of illuminated door panel reflectors. There were richer appointments inside and out, including the traditional rear fender Tiffany-like scripts and plusher upholstery trims."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "The biggest news however was the introduction of a new 472ci engine - the largest in the industry at the time. It was thoroughly tested with Cadillac putting some 500,000 miles on one. Though not as fuel efficient, it did offer more power and better performance."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "With revised looks and better performance, the DeVille saw an increase in production over the previous year."
+        ]
+      ]
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Production Numbers"
+        ]
+      ]
+    ],
+    [
+      10,
+      2
+    ],
+    [
+      10,
+      3
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Performance Specs"
+        ]
+      ]
+    ],
+    [
+      10,
+      4
+    ],
+    [
+      10,
+      5
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Transmission"
+        ]
+      ]
+    ],
+    [
+      10,
+      6
+    ],
+    [
+      3,
+      "ul",
+      [
+        [
+          [
+            0,
+            [
+              0,
+              0
+            ],
+            2,
+            "Turbo Hydra-Matic Auto"
+          ]
+        ]
+      ]
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Paint & Colors"
+        ]
+      ]
+    ],
+    [
+      10,
+      7
+    ],
+    [
+      10,
+      8
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "OEM Brochures"
+        ]
+      ]
+    ],
+    [
+      10,
+      9
+    ],
+    [
+      10,
+      10
+    ],
+    [
+      10,
+      11
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "About the Knowledge Base"
+        ]
+      ]
+    ],
+    [
+      10,
+      12
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "The Motorious Knowledge Base provides a comprehensive vehicle overview for the 1968 Cadillac DeVille"
+        ],
+        [
+          0,
+          [
+            1,
+            1
+          ],
+          2,
+          " "
+        ],
+        [
+          0,
+          [],
+          0,
+          "including production numbers, performance specs, factory colors, and OEM brochures. Check out additional model years or related content linked to this article or view other Makes and Models in our "
+        ],
+        [
+          0,
+          [
+            2
+          ],
+          1,
+          "Research"
+        ],
+        [
+          0,
+          [],
+          0,
+          " center."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "If you have any interesting facts about the 1968 Cadillac DeVille"
+        ],
+        [
+          0,
+          [
+            1,
+            1
+          ],
+          2,
+          " "
+        ],
+        [
+          0,
+          [],
+          0,
+          "to add, want to tell us how we did covering the DeVille, or want to tell us about yours, please leave a comment below."
+        ]
+      ]
+    ]
+  ],
+  "ghostVersion": "3.0"
+}

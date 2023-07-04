@@ -1,0 +1,263 @@
+{
+  "root": {
+    "children": [
+      {
+        "children": [
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": "But this hack works on virtually every modern car out there…",
+            "type": "text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "heading",
+        "tag": "h2",
+        "version": 1
+      },
+      {
+        "type": "horizontalrule"
+      },
+      {
+        "children": [
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": "Out of all the mainstream car brands on the market, we hear of thieves stealing Teslas less than pretty much anything. In the past, the American automaker has taken its cars to hacking competitions, asking participants to defeat its security systems, allowing the company to make software changes that are pushed out through over-the-air updates, closing up any loopholes. That’s why we were shocked to hear a security firm based in the UK claims it exploited a security flaw in the Tesla Model S and Model Y, allowing it to unlock and start the electric vehicles without the key fob nearby.",
+            "type": "text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "paragraph",
+        "version": 1
+      },
+      {
+        "children": [
+          {
+            "detail": 0,
+            "format": 1,
+            "mode": "normal",
+            "style": "",
+            "text": "Watch the latest Motorious Podcast ",
+            "type": "text",
+            "version": 1
+          },
+          {
+            "children": [
+              {
+                "detail": 0,
+                "format": 1,
+                "mode": "normal",
+                "style": "",
+                "text": "here",
+                "type": "text",
+                "version": 1
+              }
+            ],
+            "direction": "ltr",
+            "format": "",
+            "indent": 0,
+            "type": "link",
+            "rel": null,
+            "target": null,
+            "title": null,
+            "url": "https://www.youtube.com/watch?v=ao7kaUnmPNY",
+            "version": 1
+          },
+          {
+            "detail": 0,
+            "format": 1,
+            "mode": "normal",
+            "style": "",
+            "text": ".",
+            "type": "text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "paragraph",
+        "version": 1
+      },
+      {
+        "children": [
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": "This hack was demonstrated for The Telegraph by Sultan Qasim Khan, principal security consultant for NCC Group, on camera. A relay device is used to capture the key fob or owner’s phone’s signal, relaying it to a computer near the vehicle. We’ve seen this tactic used for just about every car with keyless entry. Still, this certainly is a concerning revelation. Khan did state it can be performed on many other cars as well as smart house locks, smartphones, and laptops among other products. Without being specific, he claimed to have performed the same hacking attack on several other automaker’s cars as well as numerous devices.",
+            "type": "text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "paragraph",
+        "version": 1
+      },
+      {
+        "type": "image",
+        "src": "__GHOST_URL__/content/images/2022/05/Hacker-Claims-To-Open--Start-Teslas-Remotely-2.jpg",
+        "width": 1920,
+        "height": 1080
+      },
+      {
+        "children": [
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": "To gain access to the Teslas and start up the electric motor(s) Khan says he exploits the Bluetooth Low Energy protocol. According to the Bluetooth SIG website, BLE helps conserve device power versus Bluetooth Classic. The technology has been on the market since 2010 and has been used heavily in the Internet of Things segment of the market.",
+            "type": "text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "paragraph",
+        "version": 1
+      },
+      {
+        "children": [
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": "So far, there are no recorded incidents of thieves using an attack like this to gain access to a car, home, or any device. However, Khan claims he let Tesla know about the risk and didn’t receive any affirmative response. He also claims to fix this security flaw, Tesla needs to change its hardware, not just the software.",
+            "type": "text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "paragraph",
+        "version": 1
+      },
+      {
+        "children": [
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": "One can fairly ask why Khan demonstrated this hack only on Tesla vehicles, especially since he claims it works on many other cars. Also, why didn’t he hack some electronics on camera? It seems odd, but the Tesla brand seems to be singled out in this demonstration, which can’t be coincidence.",
+            "type": "text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "paragraph",
+        "version": 1
+      },
+      {
+        "children": [
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": "Source: ",
+            "type": "text",
+            "version": 1
+          },
+          {
+            "children": [
+              {
+                "detail": 0,
+                "format": 0,
+                "mode": "normal",
+                "style": "",
+                "text": "The Telegraph",
+                "type": "text",
+                "version": 1
+              }
+            ],
+            "direction": "ltr",
+            "format": "",
+            "indent": 0,
+            "type": "link",
+            "rel": null,
+            "target": null,
+            "title": null,
+            "url": "https://www.telegraph.co.uk/business/2022/05/17/criminals-can-remotely-unlock-steal-car-tesla-owners-warned/",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "paragraph",
+        "version": 1
+      },
+      {
+        "children": [
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": "Photos via Tesla",
+            "type": "text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "paragraph",
+        "version": 1
+      },
+      {
+        "type": "embed",
+        "url": "https://www.youtube.com/watch?v=5mdU4ksOc2w",
+        "html": "<iframe width=\"200\" height=\"113\" src=\"https://www.youtube.com/embed/5mdU4ksOc2w?feature=oembed\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+        "metadata": {
+          "title": "Hacking group demonstrates Teslas can be unlocked remotely by relaying bluetooth from phone",
+          "author_name": "The Telegraph",
+          "author_url": "https://www.youtube.com/c/telegraph",
+          "height": 113,
+          "width": 200,
+          "version": "1.0",
+          "provider_name": "YouTube",
+          "provider_url": "https://www.youtube.com/",
+          "thumbnail_height": 360,
+          "thumbnail_width": 480,
+          "thumbnail_url": "https://i.ytimg.com/vi/5mdU4ksOc2w/hqdefault.jpg"
+        },
+        "embedType": "video"
+      },
+      {
+        "children": [],
+        "direction": null,
+        "format": "",
+        "indent": 0,
+        "type": "paragraph",
+        "version": 1
+      }
+    ],
+    "direction": "ltr",
+    "format": "",
+    "indent": 0,
+    "type": "root",
+    "version": 1
+  }
+}

@@ -1,0 +1,474 @@
+{
+  "version": "0.3.1",
+  "atoms": [
+    [
+      "soft-return",
+      "",
+      {}
+    ],
+    [
+      "soft-return",
+      "",
+      {}
+    ]
+  ],
+  "cards": [
+    [
+      "hr",
+      {}
+    ],
+    [
+      "image",
+      {
+        "src": "__GHOST_URL__/content/images/2020/07/1970_Oldsmobile_Cutlass_442.jpg",
+        "width": 1170,
+        "height": 597,
+        "caption": "1970 Oldsmobile Cutlass 442 (GM Heritage Center)"
+      }
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "html",
+      {
+        "html": "<table id=\"production-numbers-table\">\n<tbody>\n\t<tr>\n\t\t<td>Sports Coupe</td>\n        <td>1,688</td>\n    <tr>  \n\t\t<td>Hardtop Coupe</td>\n\t\t<td>14,709</td>\n    <tr>\n\t\t<td>Convertible</td>\n\t\t<td>2,933</td>\n    <tr>\n\t\t<td>Rallye 350</td>\n\t\t<td>3,547</td>\n\t</tr>\n\t\t<td><b>Total Production</b></td>\n\t\t<td><b>22,877</b></td>\n\t</tr>\n</tbody>\n</table>"
+      }
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "html",
+      {
+        "html": "<table id=\"performance-specs-table\">\n<tbody>\n\t<tr>\n\t\t<th><b>Engine</b></th>\n\t\t<th><b>Size</b></td>\n\t\t<th><b>Carb.</b></td>\n\t\t<th><b>HP</b></td>\n\t\t<th><b>Torque</b></td>\n\t\t<th><b>0 to 60</b></td>\n\t\t<th><b>Quarter mile</b></td>\n\t</tr>\n\t<tr>\n\t\t<td>Rally 350</td>\n\t\t<td>350ci</td>\n\t\t<td>1x4bbl</td>\n\t\t<td>310</td>\n\t\t<td>490 lb-ft</td>\n\t\t<td>-</td>\n\t\t<td>-</td>\n\t</tr>\n<tr>\n\t\t<td>W-30</td>\n\t\t<td>455ci</td>\n\t\t<td>1x4bbl</td>\n\t\t<td>370</td>\n\t\t<td>500 lb-ft</td>\n\t\t<td>-</td>\n\t\t<td>13.9 sec @ 103.2 mph</td>\n\t</tr>\n<tr>\n\t\t<td>Standard V8</td>\n\t\t<td>455ci</td>\n\t\t<td>1x4bbl</td>\n\t\t<td>365</td>\n\t\t<td>500 lb-ft</td>\n\t\t<td>-</td>\n\t\t<td>-</td>\n\t</tr>\n</tbody>\n</table>"
+      }
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "html",
+      {
+        "html": "<h4 id='colors-sub-heading'>Exterior</h4>\n<div class=\"colors-row\">\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #000000\"></div>\n        <div class=\"color-name\">Ebony Black</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #fefefb\"></div>\n        <div class=\"color-name\">Porcelain White</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #b0bdc2\"></div>\n        <div class=\"color-name\">Platinum Poly</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #c1dcef\"></div>\n        <div class=\"color-name\">Azure Blue</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #538ab1\"></div>\n        <div class=\"color-name\">Astro Blue Poly</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #003e64\"></div>\n        <div class=\"color-name\">Twilight Blue Poly</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #84bdc5\"></div>\n        <div class=\"color-name\">Reef Turquoise Poly</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #107690\"></div>\n        <div class=\"color-name\">Aegean Aqua Poly</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #a0ae9c\"></div>\n        <div class=\"color-name\">Aspen Green Poly</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #204c3e\"></div>\n        <div class=\"color-name\">Sherwood Green Poly</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #d1c796\"></div>\n        <div class=\"color-name\">Bamboo</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #f7d85c\"></div>\n        <div class=\"color-name\">Sebring Yellow</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #b1874c\"></div>\n        <div class=\"color-name\">Nugget Gold Poly</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #c3ae80\"></div>\n        <div class=\"color-name\">Galleon Poly</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #8c7c5a\"></div>\n        <div class=\"color-name\">Burnished Gold Poly</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #b9a082\"></div>\n        <div class=\"color-name\">Copper Poly</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #ec3238\"></div>\n        <div class=\"color-name\">Rally Red</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #9f0123\"></div>\n        <div class=\"color-name\">Matador Red</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #34000d\"></div>\n        <div class=\"color-name\">Burgundy Mist Poly</div>\n    </div>\n</div>\n\n<h4 id='colors-sub-heading'>Interior</h4>\n<div class=\"colors-row\">\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #000000\"></div>\n        <div class=\"color-name\">Black</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #6d8b9c\"></div>\n        <div class=\"color-name\">Lt. Blue</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #4f6656\"></div>\n        <div class=\"color-name\">Dark Green/Dark Olive</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #a8976b\"></div>\n        <div class=\"color-name\">Gold</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #bfc0b2\"></div>\n        <div class=\"color-name\">Pearl</div>\n    </div>\n</div>"
+      }
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "gallery",
+      {
+        "images": [
+          {
+            "fileName": "1700_1970_Oldsmobile_Rallye_350_Folder-01_low_res.jpg",
+            "row": 0,
+            "width": 790,
+            "height": 512,
+            "src": "__GHOST_URL__/content/images/2020/06/1700_1970_Oldsmobile_Rallye_350_Folder-01_low_res.jpg"
+          },
+          {
+            "fileName": "1698_1970_Oldsmobile_Rallye_350_Folder-04_low_res.jpg",
+            "row": 0,
+            "width": 790,
+            "height": 506,
+            "src": "__GHOST_URL__/content/images/2020/06/1698_1970_Oldsmobile_Rallye_350_Folder-04_low_res.jpg"
+          },
+          {
+            "fileName": "1699_1970_Oldsmobile_Rallye_350_Folder-02-03_low_res.jpg",
+            "row": 0,
+            "width": 785,
+            "height": 1024,
+            "src": "__GHOST_URL__/content/images/2020/06/1699_1970_Oldsmobile_Rallye_350_Folder-02-03_low_res.jpg"
+          },
+          {
+            "fileName": "1701_1970_Oldsmobile_Performance-10-11_low_res.jpg",
+            "row": 1,
+            "width": 790,
+            "height": 504,
+            "src": "__GHOST_URL__/content/images/2020/06/1701_1970_Oldsmobile_Performance-10-11_low_res.jpg"
+          },
+          {
+            "fileName": "1702_1970_Oldsmobile_Performance-08-09_low_res.jpg",
+            "row": 1,
+            "width": 790,
+            "height": 495,
+            "src": "__GHOST_URL__/content/images/2020/06/1702_1970_Oldsmobile_Performance-08-09_low_res.jpg"
+          },
+          {
+            "fileName": "1703_1970_Oldsmobile_Performance-06-07_low_res.jpg",
+            "row": 1,
+            "width": 790,
+            "height": 499,
+            "src": "__GHOST_URL__/content/images/2020/06/1703_1970_Oldsmobile_Performance-06-07_low_res.jpg"
+          },
+          {
+            "fileName": "1704_1970_Oldsmobile_Performance-02-03_low_res.jpg",
+            "row": 2,
+            "width": 790,
+            "height": 503,
+            "src": "__GHOST_URL__/content/images/2020/06/1704_1970_Oldsmobile_Performance-02-03_low_res.jpg"
+          },
+          {
+            "fileName": "1705_1970_Oldsmobile_Performance-01_low_res.jpg",
+            "row": 2,
+            "width": 790,
+            "height": 1012,
+            "src": "__GHOST_URL__/content/images/2020/06/1705_1970_Oldsmobile_Performance-01_low_res.jpg"
+          }
+        ],
+        "caption": "1970 Oldsmobile 442 OEM Brochures"
+      }
+    ],
+    [
+      "hr",
+      {}
+    ]
+  ],
+  "markups": [
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/articles/handpicked/1970-oldsmobile-442-w-30/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/tag/research/"
+      ]
+    ]
+  ],
+  "sections": [
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Overview"
+        ]
+      ]
+    ],
+    [
+      10,
+      0
+    ],
+    [
+      1,
+      "h3",
+      [
+        [
+          0,
+          [],
+          0,
+          "With the new engine and revised styling, the Indianapolis 500 came knocking requesting pace car services."
+        ]
+      ]
+    ],
+    [
+      10,
+      1
+    ],
+    [
+      10,
+      2
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          1,
+          [],
+          0,
+          0
+        ],
+        [
+          0,
+          [],
+          0,
+          "The 1970 "
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "Olds 442"
+        ],
+        [
+          0,
+          [],
+          0,
+          " was the pinnacle of performance from Oldsmobile. GM dropped the regulation of no more than 400ci, so Olds responded with the Olds 455 V8 as the standard engine! Output was 365 hp and 500 lb-ft of torque with a 370 hp variant available with the W-30 option."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "With the new engine and revised styling, the Indianapolis 500 came knocking requesting pace car services."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "The W-30 package included a fiberglass hood with functional hood scoops and low-restriction air cleaner, aluminum intake manifold, special camshaft, cylinder heads, distributor, and carburetor."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "A Rallye 350 model became available and not only came with the smaller 350ci, it also had an extremely unique look. The body was painted a bright Sebring Yellow, and both the wheels and the bumpers were the same color. Orange and black accents were added to the hood scoops and trunk-lid spoilers of the car."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "To distinguish a 442 as a 1970 look for vertical bars in silver grille, rectangular parking lights in front bumper, and vertical taillights."
+        ],
+        [
+          1,
+          [],
+          0,
+          1
+        ]
+      ]
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Production Numbers"
+        ]
+      ]
+    ],
+    [
+      10,
+      3
+    ],
+    [
+      10,
+      4
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Performance Specs"
+        ]
+      ]
+    ],
+    [
+      10,
+      5
+    ],
+    [
+      10,
+      6
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Transmission"
+        ]
+      ]
+    ],
+    [
+      10,
+      7
+    ],
+    [
+      3,
+      "ul",
+      [
+        [
+          [
+            0,
+            [],
+            0,
+            "4-Speed Manual Wide Ratio"
+          ]
+        ],
+        [
+          [
+            0,
+            [],
+            0,
+            "3-Speed Turbo Hydra-Matic"
+          ]
+        ],
+        [
+          [
+            0,
+            [],
+            0,
+            "4-Speed Manual Close Ratio"
+          ]
+        ],
+        [
+          [
+            0,
+            [],
+            0,
+            "Heavy-Duty 3-Speed Manual"
+          ]
+        ]
+      ]
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Paint & Colors"
+        ]
+      ]
+    ],
+    [
+      10,
+      8
+    ],
+    [
+      10,
+      9
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "OEM Brochures"
+        ]
+      ]
+    ],
+    [
+      10,
+      10
+    ],
+    [
+      1,
+      "p",
+      []
+    ],
+    [
+      10,
+      11
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "About the Knowledge Base"
+        ]
+      ]
+    ],
+    [
+      10,
+      12
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "The Motorious Knowledge Base provides a comprehensive vehicle overview for the 1970 Oldsmobile 442 including production numbers, performance specs, factory colors, and OEM brochures. Check out additional model years or related content linked to this article or view other Makes and Models in our "
+        ],
+        [
+          0,
+          [
+            1
+          ],
+          1,
+          "Research"
+        ],
+        [
+          0,
+          [],
+          0,
+          " center."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "If you have any interesting facts about the 1970 Oldsmobile 442 to add, want to tell us how we did covering the Olds 442, or want to tell us about yours, please leave a comment below."
+        ]
+      ]
+    ]
+  ],
+  "ghostVersion": "3.0"
+}

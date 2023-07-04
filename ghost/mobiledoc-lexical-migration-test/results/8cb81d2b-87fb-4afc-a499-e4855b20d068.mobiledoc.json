@@ -1,0 +1,447 @@
+{
+  "version": "0.3.1",
+  "atoms": [],
+  "cards": [
+    [
+      "hr",
+      {}
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "html",
+      {
+        "html": "<table id=\"production-numbers-table\">\n<tbody>\n\t<tr>\n\t\t<td>2-DR Hardtop</td>\n\t\t<td>10,622</td>\n\t</tr>\n    \t<tr>\n\t\t<td>2-DR Hardtop 'Cuda</td>\n\t\t<td>7,828</td>\n\t</tr>\n\t\t<td><b>Total Production</b></td>\n\t\t<td><b>18,450</b></td>\n\t</tr>\n</tbody>\n</table>"
+      }
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "html",
+      {
+        "html": "<table id=\"performance-specs-table\">\n<tbody>\n\t<tr>\n\t\t<th><b>Engine</b></th>\n\t\t<th><b>Size</b></td>\n\t\t<th><b>Carb.</b></td>\n\t\t<th><b>HP</b></td>\n\t\t<th><b>Torque</b></td>\n\t\t<th><b>0 to 60</b></td>\n\t\t<th><b>Quarter mile</b></td>\n\t</tr>\n\t<tr>\n\t\t<td>I-6</td>\n\t\t<td>225ci</td>\n\t\t<td>1x1bbl</td>\n\t\t<td>145 at 4000</td>\n\t\t<td>215 lb-ft at 2400</td>\n\t\t<td>-</td>\n\t\t<td>-</td>\n\t</tr>\n\t<tr>\n\t\t<td>V8</td>\n\t\t<td>318ci</td>\n\t\t<td>1x2bbl</td>\n\t\t<td>150</td>\n\t\t<td>-</td>\n\t\t<td>-</td>\n\t\t<td>-</td>\n\t</tr>\n\t<tr>\n\t\t<td>V8</td>\n\t\t<td>340ci</td>\n\t\t<td>1x4bbl</td>\n\t\t<td>340</td>\n\t\t<td>-</td>\n\t\t<td>8.0 sec</td>\n\t\t<td>14.35 sec at 91 mph</td>\n\t</tr>\n</tbody>\n</table>"
+      }
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "html",
+      {
+        "html": "<h4 id='colors-sub-heading'>Exterior</h4>\n<div class=\"colors-row\">\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #80958e\"></div>\n        <div class=\"color-name\">Gray</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #55595d\"></div>\n        <div class=\"color-name\">Silver Frost</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #47464d\"></div>\n        <div class=\"color-name\">Charcoal</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #8fabc9\"></div>\n        <div class=\"color-name\">Blue Sky</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #366aad\"></div>\n        <div class=\"color-name\">Basin Street Blue</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #33649b\"></div>\n        <div class=\"color-name\">True Blue</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #103e69\"></div>\n        <div class=\"color-name\">Evening Blue</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #17212d\"></div>\n        <div class=\"color-name\">Regal BLue</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #b52821\"></div>\n        <div class=\"color-name\">Rallye Red</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #9eb169\"></div>\n        <div class=\"color-name\">Mist Green</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #58613f\"></div>\n        <div class=\"color-name\">Amber Sherwood</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #2d3927\"></div>\n        <div class=\"color-name\">Forest Green</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #98b857\"></div>\n        <div class=\"color-name\">Meadow Green</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #c6b590\"></div>\n        <div class=\"color-name\">Sahara Biege</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #326991\"></div>\n        <div class=\"color-name\">Coral Turquoise</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #9f6b3d\"></div>\n        <div class=\"color-name\">Mojave Tan</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #4a3021\"></div>\n        <div class=\"color-name\">Chestnut</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #ce3e2b\"></div>\n        <div class=\"color-name\">Tor-Red</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #faf6dd\"></div>\n        <div class=\"color-name\">Spinake White</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #000000\"></div>\n        <div class=\"color-name\">Formal BLack</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #ffe8ae\"></div>\n        <div class=\"color-name\">Lemon Twist</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #eedf92\"></div>\n        <div class=\"color-name\">Sunfire Yellow</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #b1995d\"></div>\n        <div class=\"color-name\">Honey Gold</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #b39c65\"></div>\n        <div class=\"color-name\">Honeydew</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #765939\"></div>\n        <div class=\"color-name\">Golden Haze</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #77613d\"></div>\n        <div class=\"color-name\">Gold Leaf</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #3d2f20\"></div>\n        <div class=\"color-name\">Tahitian Gold</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #3f3629\"></div>\n        <div class=\"color-name\">Tawney Gold</div>\n    </div>\n</div>\n\n<h4 id='colors-sub-heading'>Interior</h4>\n<div class=\"colors-row\">\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #647f90\"></div>\n        <div class=\"color-name\">Blue</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #524f28\"></div>\n        <div class=\"color-name\">Green</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #000000\"></div>\n        <div class=\"color-name\">Black</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #fbf7e2\"></div>\n        <div class=\"color-name\">White</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #c89f4d\"></div>\n        <div class=\"color-name\">Gold</div>\n    </div>\n</div>\n"
+      }
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "gallery",
+      {
+        "images": [
+          {
+            "fileName": "967_11_low_res.jpeg",
+            "row": 0,
+            "width": 754,
+            "height": 992,
+            "src": "__GHOST_URL__/content/images/2020/08/967_11_low_res.jpeg"
+          },
+          {
+            "fileName": "968_10_low_res.jpeg",
+            "row": 0,
+            "width": 775,
+            "height": 992,
+            "src": "__GHOST_URL__/content/images/2020/08/968_10_low_res.jpeg"
+          },
+          {
+            "fileName": "969_9_low_res.jpeg",
+            "row": 0,
+            "width": 749,
+            "height": 992,
+            "src": "__GHOST_URL__/content/images/2020/08/969_9_low_res.jpeg"
+          },
+          {
+            "fileName": "970_8_low_res.jpeg",
+            "row": 1,
+            "width": 790,
+            "height": 510,
+            "src": "__GHOST_URL__/content/images/2020/08/970_8_low_res.jpeg"
+          },
+          {
+            "fileName": "971_7_low_res.jpeg",
+            "row": 1,
+            "width": 763,
+            "height": 992,
+            "src": "__GHOST_URL__/content/images/2020/08/971_7_low_res.jpeg"
+          },
+          {
+            "fileName": "972_6_low_res.jpeg",
+            "row": 1,
+            "width": 777,
+            "height": 992,
+            "src": "__GHOST_URL__/content/images/2020/08/972_6_low_res.jpeg"
+          },
+          {
+            "fileName": "973_3_low_res.jpeg",
+            "row": 2,
+            "width": 723,
+            "height": 992,
+            "src": "__GHOST_URL__/content/images/2020/08/973_3_low_res.jpeg"
+          },
+          {
+            "fileName": "974_2_low_res.jpeg",
+            "row": 2,
+            "width": 770,
+            "height": 992,
+            "src": "__GHOST_URL__/content/images/2020/08/974_2_low_res.jpeg"
+          },
+          {
+            "fileName": "975_1_low_res.jpeg",
+            "row": 2,
+            "width": 754,
+            "height": 992,
+            "src": "__GHOST_URL__/content/images/2020/08/975_1_low_res.jpeg"
+          }
+        ],
+        "caption": "1972 Plymouth Barracuda OEM Brochures"
+      }
+    ],
+    [
+      "hr",
+      {}
+    ]
+  ],
+  "markups": [
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/articles/news/viper-plymouth-gtx/"
+      ]
+    ],
+    [
+      "strong"
+    ],
+    [
+      "em"
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/tag/research/"
+      ]
+    ]
+  ],
+  "sections": [
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Overview"
+        ]
+      ]
+    ],
+    [
+      10,
+      0
+    ],
+    [
+      1,
+      "h3",
+      [
+        [
+          0,
+          [],
+          0,
+          "As the ‘72’s hit the streets, both emissions and safety were grabbing government (and insurance company) attention. In response, the big-block was gone from the ‘Cuda’s option sheet."
+        ]
+      ]
+    ],
+    [
+      10,
+      1
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "As the ‘72’s hit the streets, both emissions and safety were grabbing government (and insurance company) attention. In response, the big-block was gone from the ‘Cuda’s option sheet. It was a sad time in the muscle car era- no more underrating cars, fooling insurance companies; the man stepped in. It was time to get serious for the car companies and "
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "Plymouth"
+        ],
+        [
+          0,
+          [],
+          0,
+          " was at the forefront of this with the Barracuda."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Big Block motors were discontinued in the 72 models of the Barracuda, still offered was the four speed with the pistol grip shifter. The only other major changes were there were a lot less options on the Barracuda, they removed the powered seats, power windows and interior upgrades to leather were dropped. One other point to be made was the quad headlights were removed and replaced with two large headlights."
+        ]
+      ]
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Production Numbers"
+        ]
+      ]
+    ],
+    [
+      10,
+      2
+    ],
+    [
+      10,
+      3
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Performance Specs"
+        ]
+      ]
+    ],
+    [
+      10,
+      4
+    ],
+    [
+      10,
+      5
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Transmission"
+        ]
+      ]
+    ],
+    [
+      10,
+      6
+    ],
+    [
+      3,
+      "ul",
+      [
+        [
+          [
+            0,
+            [
+              1,
+              1
+            ],
+            1,
+            "4-Speed Manu"
+          ],
+          [
+            0,
+            [],
+            1,
+            "al"
+          ]
+        ],
+        [
+          [
+            0,
+            [
+              1,
+              1
+            ],
+            2,
+            "TorqueFlite Automatic"
+          ]
+        ],
+        [
+          [
+            0,
+            [
+              1,
+              1
+            ],
+            2,
+            "3-Speed Manual"
+          ]
+        ]
+      ]
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Paint & Colors"
+        ]
+      ]
+    ],
+    [
+      10,
+      7
+    ],
+    [
+      10,
+      8
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "OEM Brochures"
+        ]
+      ]
+    ],
+    [
+      10,
+      9
+    ],
+    [
+      10,
+      10
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "About the Knowledge Base"
+        ]
+      ]
+    ],
+    [
+      10,
+      11
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "The Motorious Knowledge Base provides a comprehensive vehicle overview for the 1972 Plymouth Barracuda"
+        ],
+        [
+          0,
+          [
+            2,
+            2
+          ],
+          2,
+          " "
+        ],
+        [
+          0,
+          [],
+          0,
+          "including production numbers, performance specs, factory colors, and OEM brochures. Check out additional model years or related content linked to this article or view other Makes and Models in our "
+        ],
+        [
+          0,
+          [
+            3
+          ],
+          1,
+          "Research"
+        ],
+        [
+          0,
+          [],
+          0,
+          " center."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "If you have any interesting facts about the 1972 Plymouth Barracuda"
+        ],
+        [
+          0,
+          [
+            2,
+            2
+          ],
+          2,
+          " "
+        ],
+        [
+          0,
+          [],
+          0,
+          "to add, want to tell us how we did covering the Barracuda, or want to tell us about yours, please leave a comment below."
+        ]
+      ]
+    ]
+  ],
+  "ghostVersion": "3.0"
+}

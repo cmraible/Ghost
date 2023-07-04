@@ -1,0 +1,730 @@
+{
+  "version": "0.3.1",
+  "atoms": [],
+  "cards": [
+    [
+      "callout",
+      {
+        "calloutEmoji": "💻",
+        "calloutText": "The Interhacktives (my students on the MA Interactive Journalism at City, University of London) live-covered <a href=\"https://www.interhacktives.com/2022/11/30/media-moments-2022-live-blog/\">the launch event for Media Moments 22</a>.",
+        "backgroundColor": "red"
+      }
+    ],
+    [
+      "image",
+      {
+        "src": "__GHOST_URL__/content/images/2022/11/adders_newsletters_tweets_videos__moneyand_podcasts_exploding_o_ebb3c31f-fec3-4705-9727-77ce1e45ef9d.jpg",
+        "width": 720,
+        "height": 480,
+        "caption": "An explosion of 2022's media moments"
+      }
+    ],
+    [
+      "callout",
+      {
+        "calloutEmoji": "📓",
+        "calloutText": "Download <a href=\"https://voices.media/mm22/\">your copy of the report here</a>.",
+        "backgroundColor": "green"
+      }
+    ]
+  ],
+  "markups": [
+    [
+      "a",
+      [
+        "href",
+        "https://voices.media/mm22/"
+      ]
+    ],
+    [
+      "em"
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://voices.media"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://poool.fr/en"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/2019/01/chinas-paid-podcast-model/"
+      ]
+    ]
+  ],
+  "sections": [
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "The annual "
+        ],
+        [
+          0,
+          [
+            0,
+            1
+          ],
+          1,
+          "Media Moments"
+        ],
+        [
+          0,
+          [],
+          1,
+          " report"
+        ],
+        [
+          0,
+          [],
+          0,
+          ", published by "
+        ],
+        [
+          0,
+          [
+            1
+          ],
+          1,
+          "What’s New in Publishing"
+        ],
+        [
+          0,
+          [],
+          0,
+          ", written by the "
+        ],
+        [
+          0,
+          [
+            2,
+            1
+          ],
+          1,
+          "Media Voices"
+        ],
+        [
+          0,
+          [],
+          1,
+          " team"
+        ],
+        [
+          0,
+          [],
+          0,
+          ", and sponsored by "
+        ],
+        [
+          0,
+          [
+            3
+          ],
+          1,
+          "Poool"
+        ],
+        [
+          0,
+          [],
+          0,
+          " this year, is out."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "I’ve had access to an advance copy since last night, and here are my highlights:"
+        ]
+      ]
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Ad volume reductions mean a better user experience"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "This is an interesting observation about decreasing ad volumes on some pages:"
+        ]
+      ]
+    ],
+    [
+      1,
+      "blockquote",
+      [
+        [
+          0,
+          [],
+          0,
+          "At the Press Gazette’s Future of Media Technology Conference both the UK’s Independent and Telegraph newspapers said that they have been reducing the number of ads appearing on their web pages. Increased regulatory scrutiny and the threat of tighter privacy rules contributed to the moves. But concerns over user experience are at the heart of the shift. The Independent’s chief data and marketing officer, Jo Holdaway, said that putting less ‘weight on the page’ improves site performance and respects user data."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "I suspect the motivations are different here. "
+        ],
+        [
+          0,
+          [
+            1
+          ],
+          1,
+          "The Telegraph"
+        ],
+        [
+          0,
+          [],
+          0,
+          " has moved to a membership model, and so is motivated to increase reader experience by decreasing ad load. "
+        ],
+        [
+          0,
+          [
+            1
+          ],
+          1,
+          "The Independent"
+        ],
+        [
+          0,
+          [],
+          0,
+          ", on the other hand, is still largely ad-driven. My suspicious soul suggests to me that this might be more to do with the penalties Google now applies for a shitty ad-driven user experience, and a desire to recover from them."
+        ]
+      ]
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Newsletters are at the centre of a local news renaissance"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Local newsletters are the foundation stone of a reborn local media:"
+        ]
+      ]
+    ],
+    [
+      1,
+      "blockquote",
+      [
+        [
+          0,
+          [],
+          0,
+          "6AM City co-founder Ryan Heafy told Media Voices in March that they had reached 1 million newsletter subscribers across the 24 cities they covered, and were on track to exceed $10 million in revenue this year. That’s pretty good going for a 6-year-old hyper-local business."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "And there are other examples in that section of the report. If somebody gave me a bunch of cash to start a local title today. I’d absolutely start it as a newsletter with an accompanying web presence, and see search and social as vital acquisition channels for acquiring new newsletter subscribers. "
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "And I’d build it on Substack or Ghost because there’s no justification for building your own tech and subs stack when those two are both driving forward so fast."
+        ]
+      ]
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "And B2B should be taking them seriously, too."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "25 years ago, a good proportion of the paying readers of "
+        ],
+        [
+          0,
+          [
+            1
+          ],
+          1,
+          "EGi"
+        ],
+        [
+          0,
+          [],
+          0,
+          ", the original name for the online version of "
+        ],
+        [
+          0,
+          [
+            1
+          ],
+          1,
+          "Estates Gazette"
+        ],
+        [
+          0,
+          [],
+          0,
+          ", saw their sub as buying them a twice daily newsletter. A "
+        ],
+        [
+          0,
+          [
+            1
+          ],
+          1,
+          "quarter of a century"
+        ],
+        [
+          0,
+          [],
+          0,
+          " later, people are still failing to learn that lesson. "
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [
+            1
+          ],
+          1,
+          "Quartz"
+        ],
+        [
+          0,
+          [],
+          0,
+          ", one of the early innovators in the new wave of newsletters, is slowly waking up to it, abandoning its paywall in favour of more focus on its newsletters."
+        ]
+      ]
+    ],
+    [
+      1,
+      "blockquote",
+      [
+        [
+          0,
+          [],
+          0,
+          "CEO Zach Seward explained: “We found that 75% of Quartz members read us primarily through email, so we’ve been putting more of our best stuff directly in their inboxes.”"
+        ]
+      ]
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "The jury’s still out on newsletter as a renovation technique"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Interesting to hear how things are going at "
+        ],
+        [
+          0,
+          [
+            1
+          ],
+          1,
+          "The Atlantic"
+        ],
+        [
+          0,
+          [],
+          0,
+          ":"
+        ]
+      ]
+    ],
+    [
+      1,
+      "blockquote",
+      [
+        [
+          0,
+          [],
+          0,
+          "Recent reporting has described initial subscriber acquisition targets as ‘too ambitious’ and The Atlantic is said to be reassessing its position. However, Nicholas Thompson has said the company will extend the contracts of its newsletter writers until they develop a better understanding of the impact newsletters have on subscriber retention."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "I have faith that newsletters could be great for retention. I have slightly less faith in the selection of newsletters that "
+        ],
+        [
+          0,
+          [
+            1
+          ],
+          1,
+          "The Atlantic"
+        ],
+        [
+          0,
+          [],
+          0,
+          " has chosen."
+        ]
+      ]
+    ],
+    [
+      10,
+      0
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "But new forms of feedback are emerging in a post-open rate world"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "People are still clinging to open rates as a core metric for newsletter, but Apple’s changes mean that most open rates are now, basically, a lie. Anyone using an Apple device with email tracking protection turned on looks like they open your newsletters as soon as they get it — even if they never really open it."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "I’d argue there’s still some value in looking at variance in open rate, but we clearly need more than that. And that’s what the "
+        ],
+        [
+          0,
+          [
+            1
+          ],
+          1,
+          "FT"
+        ],
+        [
+          0,
+          [],
+          0,
+          " team is up to:"
+        ]
+      ]
+    ],
+    [
+      1,
+      "blockquote",
+      [
+        [
+          0,
+          [],
+          0,
+          "To maximise response rates and make survey results as useful as possible, they created a one-click feedback mechanism embedded at the bottom of the newsletter, letting readers give feedback as they finished reading. This rated satisfaction on a scale of one to five and was used as the basis for an overall satisfaction score of -100 to +100."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Those of you who got this post via email can do a more primitive version of that and the end of the email…"
+        ]
+      ]
+    ],
+    [
+      10,
+      1
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "People are paying for podcasts"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "I first wrote about the potential of paid podcasts, based on China's experience —"
+        ],
+        [
+          0,
+          [
+            1
+          ],
+          1,
+          "checks notes — "
+        ],
+        [
+          0,
+          [
+            4
+          ],
+          1,
+          "over three years ago"
+        ],
+        [
+          0,
+          [],
+          0,
+          ". But now it’s here in the western world…"
+        ]
+      ]
+    ],
+    [
+      1,
+      "blockquote",
+      [
+        [
+          0,
+          [],
+          0,
+          "Tortoise, for instance, is using Apple Podcasts’ Subscriptions tool to allow users to gain access to gated podcasts – without paying for a full membership10. It is a more considered approach to using audio, one that doesn’t simply rely on pointing at huge audience numbers."
+        ]
+      ]
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Outrage isn’t the only emotion"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "It’s a fact that people react to things that trigger emotions in them on social media. The more reaction, the more signals to the algorithm that this is “good” content, and so the more it spreads. But this has gone rather wrong in journalism:"
+        ]
+      ]
+    ],
+    [
+      1,
+      "blockquote",
+      [
+        [
+          0,
+          [],
+          0,
+          "Feeding the outrage engine with emotive headlines in pursuit of short-term traffic gains is having a negative long-term impact on the media’s ability to engage with audiences. It is also adding to the polarisation that has defined public debate recently; another major reason given for news avoidance (17%) was that discussing the news stoked arguments."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "This is what happens when the horrible old maxim “if it bleeds, it leads” meets social media. Folks, let’s start experimenting with emotions that aren’t just outrage…"
+        ]
+      ]
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "And one sentence I disagree with"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Cringe:"
+        ]
+      ]
+    ],
+    [
+      1,
+      "blockquote",
+      [
+        [
+          0,
+          [],
+          0,
+          "The larger organisations fell into the digital publishing trap of SEO and clickbait, which has degraded the quality of the audience."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "“The digital publishing trap of SEO”? "
+        ],
+        [
+          0,
+          [
+            1
+          ],
+          1,
+          "Really?"
+        ],
+        [
+          0,
+          [],
+          0,
+          " C’mon now. SEO at its best is about identifying a reader need for information and delivering on that need. Lumping it in with clickbait without any sort of qualifier is doing a fundamental audience engagement technique a massive disservice."
+        ]
+      ]
+    ],
+    [
+      10,
+      2
+    ],
+    [
+      1,
+      "p",
+      []
+    ]
+  ],
+  "ghostVersion": "4.0"
+}

@@ -1,0 +1,701 @@
+{
+  "root": {
+    "children": [
+      {
+        "type": "email",
+        "html": "<p>Hey {first_name, \"there\"},</p><p>Guess what day it is?! That's right, Hump day! Today's newsletter is about my experience with the M1 Mac mini and why I've decided to return it and keep my older iMac Pro. The key takeaway? Benchmarks aren't everything.</p><p>By the way, this afternoon I recorded a new episode of TechieBytes with Jesse Chambers, founder &amp; CEO at <a href=\"https://wrkfrce.com\">wrkfrce</a>. The episode is all about the future of [remote] work and will be out next Tuesday! So stay tuned for that. In the mean time, if you caught up on <a href=\"__GHOST_URL__/podcast/\">all 70+ episodes of TechieBytes</a> -- what are you waiting for? :)</p><p>Take care of your computers!</p><p>Jeff</p>"
+      },
+      {
+        "children": [
+          {
+            "detail": 0,
+            "format": 2,
+            "mode": "normal",
+            "style": "",
+            "text": "Sorry M1 Mac mini, it's not you, it's me. Well... maybe it's both of us.",
+            "type": "text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "paragraph",
+        "version": 1
+      },
+      {
+        "children": [
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": "For the past three years I've been using an iMac Pro – it's pretty spec'd out with a 3GHz 10-core Intel Xeon CPU, 64GB DDR4 RAM, and a Radeon Pro Vega 64 16 GB video card. It's the [second?] best Mac I've ever owned, only after my 2008 Mac Pro (cheese grater). It's extremely powerful, fast, and quiet. When Apple announced the brand new M1 Macs I was a bit skeptical about the performance but literally every single tech YouTuber shared and gushed about the M1's impressive benchmarks. I wasn't just surprised by the benchmarks being shared, I was ",
+            "type": "text",
+            "version": 1
+          },
+          {
+            "detail": 0,
+            "format": 1,
+            "mode": "normal",
+            "style": "",
+            "text": "shocked",
+            "type": "text",
+            "version": 1
+          },
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": " by them. These benchmarks looked incredibly promising – for even CPU and GPU intensive tasks such as video editing. ",
+            "type": "text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "paragraph",
+        "version": 1
+      },
+      {
+        "children": [
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": "So, I thought, perhaps I should put one of these machines to the test? Maybe I don't need an iMac Pro to do my work. So I went ahead and ordered a brand new M1 Mac mini. My plan was to have it replace my iMac Pro as my every day computer. The model of M1 Mac mini that I purchased was the one with 16GB unified memory and a 2TB SSD. So how did the M1 do?",
+            "type": "text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "paragraph",
+        "version": 1
+      },
+      {
+        "children": [
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": "The benchmarks",
+            "type": "text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "heading",
+        "tag": "h2",
+        "version": 1
+      },
+      {
+        "children": [
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": "Mac mini M1 (Late 2020)",
+            "type": "text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "heading",
+        "tag": "h3",
+        "version": 1
+      },
+      {
+        "children": [
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": "Like so many others, I ran GeekBench on my M1 Mac mini and the ",
+            "type": "text",
+            "version": 1
+          },
+          {
+            "children": [
+              {
+                "detail": 0,
+                "format": 0,
+                "mode": "normal",
+                "style": "",
+                "text": "results",
+                "type": "text",
+                "version": 1
+              }
+            ],
+            "direction": "ltr",
+            "format": "",
+            "indent": 0,
+            "type": "link",
+            "rel": null,
+            "target": null,
+            "title": null,
+            "url": "https://browser.geekbench.com/v5/cpu/5282047",
+            "version": 1
+          },
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": " were impressive with the highest single core performance on any Mac and a very respectable multi-core score. But as we all know, benchmarks don't always equate to real world performance. ",
+            "type": "text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "paragraph",
+        "version": 1
+      },
+      {
+        "type": "image",
+        "src": "__GHOST_URL__/content/images/2020/12/mac-mini-m1-geekbench.png",
+        "width": 1792,
+        "height": 678
+      },
+      {
+        "children": [
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": "iMac Pro (Late 2017)",
+            "type": "text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "heading",
+        "tag": "h3",
+        "version": 1
+      },
+      {
+        "children": [
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": "Just to keep things in perspective I'm also including my iMac Pro's GeekBench ",
+            "type": "text",
+            "version": 1
+          },
+          {
+            "children": [
+              {
+                "detail": 0,
+                "format": 0,
+                "mode": "normal",
+                "style": "",
+                "text": "results",
+                "type": "text",
+                "version": 1
+              }
+            ],
+            "direction": "ltr",
+            "format": "",
+            "indent": 0,
+            "type": "link",
+            "rel": null,
+            "target": null,
+            "title": null,
+            "url": "https://browser.geekbench.com/v5/cpu/5368871",
+            "version": 1
+          },
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": " here. As you'll see, the M1 scored higher in these benchmarks for single core performance but still significantly lower on the multi-core score. This is to be expected. ",
+            "type": "text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "paragraph",
+        "version": 1
+      },
+      {
+        "type": "image",
+        "src": "__GHOST_URL__/content/images/2020/12/imac-pro-2017-geekbench.png",
+        "width": 1742,
+        "height": 688
+      },
+      {
+        "children": [
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": "So what do these single and multi-core scores mean when it comes to real world usage? To be honest, not as much as you'd think, especially when you take into account some other factors which I'm about to discuss.",
+            "type": "text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "paragraph",
+        "version": 1
+      },
+      {
+        "children": [
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": "Memory ",
+            "type": "text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "heading",
+        "tag": "h2",
+        "version": 1
+      },
+      {
+        "children": [
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": "For starters, the M1 Mac mini has 16GB of what Apple calls Unified memory. If you're not sure what Unified memory is, that's ok, I wasn't sure at first either. As it turns out, with unified memory (something introduced with the M1), your computer has a single pool of high-bandwidth, low-latency memory that allows apps to share data between the CPU, GPU, and Neural Engine efficiently. Meanwhile, my iMac Pro has 64GB of 2666MHz DD4 ECC RAM. ",
+            "type": "text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "paragraph",
+        "version": 1
+      },
+      {
+        "children": [
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": "This unified memory is hella fast, no doubt, but the fact that my iMac Pro has 3x more RAM can't be ignored, especially when it comes to my workflows. While using the M1 Mac mini I noticed that my computer would use way more swap memory than my iMac Pro ever has. I'm talking about seeing swap memory usage of 7-8GB. On my iMac Pro, at most, I've seen 3GB of swap memory in use. ",
+            "type": "text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "paragraph",
+        "version": 1
+      },
+      {
+        "children": [
+          {
+            "detail": 0,
+            "format": 1,
+            "mode": "normal",
+            "style": "",
+            "text": "Note:",
+            "type": "text",
+            "version": 1
+          },
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": " using swap memory instead of RAM will result in slower computer performance. ",
+            "type": "text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "paragraph",
+        "version": 1
+      },
+      {
+        "children": [
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": "I use a lot of different apps and I tend not to close them that frequently if I can get away with it, every morning when I got to my desk and turned on my M1 Mac mini, the instant on functionality was great, but I found things to be very sluggish for a minute or two as I clicked around to various apps. I don't experience that at all with my iMac Pro. ",
+            "type": "text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "paragraph",
+        "version": 1
+      },
+      {
+        "type": "image",
+        "src": "__GHOST_URL__/content/images/2020/12/mac-mini-m1-back.png",
+        "width": 4032,
+        "height": 3024
+      },
+      {
+        "children": [
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": "Cache",
+            "type": "text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "heading",
+        "tag": "h2",
+        "version": 1
+      },
+      {
+        "children": [
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": "Something I haven't seen discussed at all is the fact the M1 has limited cache on the CPU.",
+            "type": "text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "paragraph",
+        "version": 1
+      },
+      {
+        "children": [
+          {
+            "detail": 0,
+            "format": 1,
+            "mode": "normal",
+            "style": "",
+            "text": "What is cache?",
+            "type": "text",
+            "version": 1
+          },
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": " Cache is small, but ",
+            "type": "text",
+            "version": 1
+          },
+          {
+            "detail": 0,
+            "format": 2,
+            "mode": "normal",
+            "style": "",
+            "text": "very ",
+            "type": "text",
+            "version": 1
+          },
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": "fast memory that sits right next to the processor's logic units. L1 is the fastest, followed by L2 and L3 respectively. For a much more informational explainer ",
+            "type": "text",
+            "version": 1
+          },
+          {
+            "children": [
+              {
+                "detail": 0,
+                "format": 0,
+                "mode": "normal",
+                "style": "",
+                "text": "check this out",
+                "type": "text",
+                "version": 1
+              }
+            ],
+            "direction": "ltr",
+            "format": "",
+            "indent": 0,
+            "type": "link",
+            "rel": null,
+            "target": null,
+            "title": null,
+            "url": "https://www.techspot.com/article/2066-cpu-l1-l2-l3-cache/",
+            "version": 1
+          },
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": ".",
+            "type": "text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "paragraph",
+        "version": 1
+      },
+      {
+        "children": [
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": "Mac mini (M1) cache",
+            "type": "text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "heading",
+        "tag": "h3",
+        "version": 1
+      },
+      {
+        "type": "image",
+        "src": "__GHOST_URL__/content/images/2020/12/mac-mini-m1-cache.png",
+        "width": 888,
+        "height": 188,
+        "caption": "CPU cache for Mac mini M1"
+      },
+      {
+        "children": [
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": "iMac Pro (10-core) cache",
+            "type": "text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "heading",
+        "tag": "h3",
+        "version": 1
+      },
+      {
+        "type": "image",
+        "src": "__GHOST_URL__/content/images/2020/12/imac-pro-cache.png",
+        "width": 902,
+        "height": 256,
+        "caption": "CPU cache for 10-core iMac Pro."
+      },
+      {
+        "children": [
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": "As you can see after a quick glance, the 10-core Intel Xeon in the iMac Pro has much more cache (more than 2x the L1). In fact, the M1 doesn't have any L3 cache – something I'd imagine will change in future M-based CPU's. Nonetheless, this lack of cache is noticeable (at least to me) when performing tasks. Things feel snappier on my iMac Pro than they did on the Mac mini M1. Apps launch faster, respond faster, and just feel more fluid on the iMac Pro. ",
+            "type": "text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "paragraph",
+        "version": 1
+      },
+      {
+        "children": [
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": "That's not to say that the M1 CPU isn't powerful or impressive – it is, it just isn't ideal for my workflows (yet). ",
+            "type": "text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "paragraph",
+        "version": 1
+      },
+      {
+        "children": [
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": "Multi-core",
+            "type": "text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "heading",
+        "tag": "h2",
+        "version": 1
+      },
+      {
+        "children": [
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": "When it comes to multi-core performance, the iMac Pro still has the M1 beat, you can see that for yourself with the benchmarks, but it's certainly true with exporting videos with Final Cut Pro and other apps that can take advantage of all of my iMac Pro's 10-cores. ",
+            "type": "text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "paragraph",
+        "version": 1
+      },
+      {
+        "children": [
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": "Early days",
+            "type": "text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "heading",
+        "tag": "h2",
+        "version": 1
+      },
+      {
+        "children": [
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": "I love being an early adopter and I'm really freaking excited about Apple's Mac silicon, however, it's just too early for me to use an M1 computer as a production machine to edit videos, record podcasts, etc. Not just for the reasons I outlined above but also because not all of the apps I use have been fully optimized or work 100% of the time on the M1. Obviously that will change but we're not there yet.",
+            "type": "text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "paragraph",
+        "version": 1
+      },
+      {
+        "type": "horizontalrule"
+      },
+      {
+        "children": [
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": "I have no doubt that Apple's silicon will be outperforming most, if not all, of Intel's processor's in the next few years, but for me, that isn't the case yet. It may not be for you either and that's ok. ",
+            "type": "text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "paragraph",
+        "version": 1
+      },
+      {
+        "children": [
+          {
+            "detail": 0,
+            "format": 1,
+            "mode": "normal",
+            "style": "",
+            "text": "Bottom line",
+            "type": "text",
+            "version": 1
+          },
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": ": don't go by benchmarks alone, go based on your own real world usage. I certainly expect to see a 3x-5x increase in Apple silicon performance in the next year or two that will likely blow us all away.",
+            "type": "text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "paragraph",
+        "version": 1
+      }
+    ],
+    "direction": "ltr",
+    "format": "",
+    "indent": 0,
+    "type": "root",
+    "version": 1
+  }
+}

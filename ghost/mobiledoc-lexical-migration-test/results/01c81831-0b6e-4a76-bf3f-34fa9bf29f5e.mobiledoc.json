@@ -1,0 +1,590 @@
+{
+  "version": "0.3.1",
+  "atoms": [
+    [
+      "soft-return",
+      "",
+      {}
+    ],
+    [
+      "soft-return",
+      "",
+      {}
+    ]
+  ],
+  "cards": [
+    [
+      "hr",
+      {}
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "html",
+      {
+        "html": "<table id=\"production-numbers-table\">\n<tbody>\n\t<tr>\n\t\t<td>HTP CPE I-6</td>\n\t\t<td>13,151</td>\n\t</tr>\n    \t<tr>\n\t\t<td>HTP CPE V8</td>\n\t\t<td>13,151</td>\n\t</tr>\n    \t<tr>\n\t\t<td>4D SDN I-6</td>\n\t\t<td>17,450</td>\n\t</tr>\n    \t<tr>\n\t\t<td>4D SDN V8</td>\n\t\t<td>17,450</td>\n\t</tr>\n    \t<tr>\n\t\t<td>HTP SDN V8</td>\n\t\t<td>13,713</td>\n\t</tr>\n    \t<tr>\n\t\t<td>CONV CPE V8</td>\n\t\t<td>5,173</td>\n\t</tr>\n    \t<tr>\n\t\t<td>4D WGN 6P V8</td>\n\t\t<td>3,646</td>\n\t</tr>\n    \t<tr>\n\t\t<td>4D WGN 9P V8</td>\n\t\t<td>4,482</td>\n\t</tr>\n    \t<tr>\n\t\t<td>Sport Fury HTP CPE V8</td>\n\t\t<td>23,695</td>\n\t</tr>\n    \t<tr>\n\t\t<td>Sport Fury CONV CPE V8</td>\n\t\t<td>3,858</td>\n\t</tr>\n\t\t<td><b>Total Production</b></td>\n\t\t<td><b>278,331</b></td>\n\t</tr>\n</tbody>\n</table>"
+      }
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "html",
+      {
+        "html": "<table id=\"performance-specs-table\">\n<tbody>\n\t<tr>\n\t\t<th><b>Engine</b></th>\n\t\t<th><b>Size</b></td>\n\t\t<th><b>Carb.</b></td>\n\t\t<th><b>HP</b></td>\n\t\t<th><b>Torque</b></td>\n\t\t<th><b>0 to 60</b></td>\n\t\t<th><b>Quarter mile</b></td>\n\t</tr>\n\t<tr>\n\t\t<td>225 Six</td>\n\t\t<td>225ci</td>\n\t\t<td>1x1bbl</td>\n\t\t<td>145</td>\n\t\t<td>215 lb-ft</td>\n\t\t<td>17 sec</td>\n\t\t<td>-</td>\n\t</tr>\n\t<tr>\n\t\t<td>V8</td>\n\t\t<td>318ci</td>\n\t\t<td>1x2bbl</td>\n\t\t<td>230</td>\n\t\t<td>340 lb-ft</td>\n\t\t<td>-</td>\n\t\t<td>-</td>\n\t</tr>\n\t<tr>\n\t\t<td>V8</td>\n\t\t<td>361ci</td>\n\t\t<td>1x2bbl</td>\n\t\t<td>265</td>\n\t\t<td>380 lb-ft</td>\n\t\t<td>-</td>\n\t\t<td>-</td>\n\t</tr>\n\t<tr>\n\t\t<td>V8</td>\n\t\t<td>383ci</td>\n\t\t<td>1x4bbl</td>\n\t\t<td>330</td>\n\t\t<td>425 lb-ft</td>\n\t\t<td>7.2 sec</td>\n\t\t<td>15.9 sec at 95 mph</td>\n\t</tr>\n\t<tr>\n\t\t<td>V8</td>\n\t\t<td>426ci</td>\n\t\t<td>1x4bbl</td>\n\t\t<td>365</td>\n\t\t<td>470 lb-ft</td>\n\t\t<td>6.8 sec</td>\n\t\t<td>15.2 sec at 95.5 mph</td>\n\t</tr>\n\t<tr>\n\t\t<td>V8</td>\n\t\t<td>426ci</td>\n\t\t<td>1x4bbl</td>\n\t\t<td>425</td>\n\t\t<td>470 lb-ft</td>\n\t\t<td>-</td>\n\t\t<td>-</td>\n\t</tr>\n</tbody>\n</table>"
+      }
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "html",
+      {
+        "html": "<h4 id='colors-sub-heading'>Exterior</h4>\n<div class=\"colors-row\">\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #000000\"></div>\n        <div class=\"color-name\">Ebony Black</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #acbfc9\"></div>\n        <div class=\"color-name\">Light Blue</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #2c3d40\"></div>\n        <div class=\"color-name\">Medium Blue</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #0a0b0d\"></div>\n        <div class=\"color-name\">Dark Blue</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #2c1d14\"></div>\n        <div class=\"color-name\">Sandalwood</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #2a3636\"></div>\n        <div class=\"color-name\">Medium Turquoise</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #0c1010\"></div>\n        <div class=\"color-name\">Dark Turquoise</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #23231e\"></div>\n        <div class=\"color-name\">Medium Gray</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #931a0c\"></div>\n        <div class=\"color-name\">Ruby</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #160f0d\"></div>\n        <div class=\"color-name\">Chestnut</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #edddd1\"></div>\n        <div class=\"color-name\">White</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #a27e64\"></div>\n        <div class=\"color-name\">Light Tan</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #493723\"></div>\n        <div class=\"color-name\">Medium Tan</div>\n    </div>\n</div>\n\n<h4 id='colors-sub-heading'>Interior</h4>\n<div class=\"colors-row\">\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #000000\"></div>\n        <div class=\"color-name\">Black</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #1e2c30\"></div>\n        <div class=\"color-name\">Blue</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #567174\"></div>\n        <div class=\"color-name\">Turquoise</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #830a01\"></div>\n        <div class=\"color-name\">Red</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #453528\"></div>\n        <div class=\"color-name\">Tan</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #402515\"></div>\n        <div class=\"color-name\">Copper</div>\n    </div>\n</div>\n"
+      }
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "gallery",
+      {
+        "images": [
+          {
+            "fileName": "2927_1964_Plymouth_Full_Size-15_low_res.jpg",
+            "row": 0,
+            "width": 712,
+            "height": 1024,
+            "src": "__GHOST_URL__/content/images/2020/09/2927_1964_Plymouth_Full_Size-15_low_res.jpg"
+          },
+          {
+            "fileName": "2928_1964_Plymouth_Full_Size-14_low_res.jpg",
+            "row": 0,
+            "width": 710,
+            "height": 1024,
+            "src": "__GHOST_URL__/content/images/2020/09/2928_1964_Plymouth_Full_Size-14_low_res.jpg"
+          },
+          {
+            "fileName": "2929_1964_Plymouth_Full_Size-13_low_res.jpg",
+            "row": 0,
+            "width": 713,
+            "height": 1024,
+            "src": "__GHOST_URL__/content/images/2020/09/2929_1964_Plymouth_Full_Size-13_low_res.jpg"
+          },
+          {
+            "fileName": "2930_1964_Plymouth_Full_Size-12_low_res.jpg",
+            "row": 1,
+            "width": 710,
+            "height": 1024,
+            "src": "__GHOST_URL__/content/images/2020/09/2930_1964_Plymouth_Full_Size-12_low_res.jpg"
+          },
+          {
+            "fileName": "2931_1964_Plymouth_Full_Size-11_low_res.jpg",
+            "row": 1,
+            "width": 710,
+            "height": 1024,
+            "src": "__GHOST_URL__/content/images/2020/09/2931_1964_Plymouth_Full_Size-11_low_res.jpg"
+          },
+          {
+            "fileName": "2932_1964_Plymouth_Full_Size-10_low_res.jpg",
+            "row": 1,
+            "width": 713,
+            "height": 1024,
+            "src": "__GHOST_URL__/content/images/2020/09/2932_1964_Plymouth_Full_Size-10_low_res.jpg"
+          },
+          {
+            "fileName": "2924_1964_Plymouth_Full_Size-18_low_res.jpg",
+            "row": 2,
+            "width": 710,
+            "height": 1024,
+            "src": "__GHOST_URL__/content/images/2020/09/2924_1964_Plymouth_Full_Size-18_low_res.jpg"
+          },
+          {
+            "fileName": "2925_1964_Plymouth_Full_Size-17_low_res.jpg",
+            "row": 2,
+            "width": 715,
+            "height": 1024,
+            "src": "__GHOST_URL__/content/images/2020/09/2925_1964_Plymouth_Full_Size-17_low_res.jpg"
+          },
+          {
+            "fileName": "2926_1964_Plymouth_Full_Size-16_low_res.jpg",
+            "row": 2,
+            "width": 710,
+            "height": 1024,
+            "src": "__GHOST_URL__/content/images/2020/09/2926_1964_Plymouth_Full_Size-16_low_res.jpg"
+          }
+        ],
+        "caption": "1964 Plymouth Fury OEM Brochures"
+      }
+    ],
+    [
+      "gallery",
+      {
+        "images": [
+          {
+            "fileName": "2933_1964_Plymouth_Full_Size-08-09_low_res.jpg",
+            "row": 0,
+            "width": 790,
+            "height": 566,
+            "src": "__GHOST_URL__/content/images/2020/09/2933_1964_Plymouth_Full_Size-08-09_low_res.jpg"
+          },
+          {
+            "fileName": "2934_1964_Plymouth_Full_Size-07_low_res.jpg",
+            "row": 0,
+            "width": 710,
+            "height": 1024,
+            "src": "__GHOST_URL__/content/images/2020/09/2934_1964_Plymouth_Full_Size-07_low_res.jpg"
+          },
+          {
+            "fileName": "2935_1964_Plymouth_Full_Size-06_low_res.jpg",
+            "row": 0,
+            "width": 713,
+            "height": 1024,
+            "src": "__GHOST_URL__/content/images/2020/09/2935_1964_Plymouth_Full_Size-06_low_res.jpg"
+          },
+          {
+            "fileName": "2936_1964_Plymouth_Full_Size-05_low_res.jpg",
+            "row": 1,
+            "width": 707,
+            "height": 1024,
+            "src": "__GHOST_URL__/content/images/2020/09/2936_1964_Plymouth_Full_Size-05_low_res.jpg"
+          },
+          {
+            "fileName": "2937_1964_Plymouth_Full_Size-04_low_res.jpg",
+            "row": 1,
+            "width": 712,
+            "height": 1024,
+            "src": "__GHOST_URL__/content/images/2020/09/2937_1964_Plymouth_Full_Size-04_low_res.jpg"
+          },
+          {
+            "fileName": "2938_1964_Plymouth_Full_Size-02-03_low_res.jpg",
+            "row": 1,
+            "width": 790,
+            "height": 566,
+            "src": "__GHOST_URL__/content/images/2020/09/2938_1964_Plymouth_Full_Size-02-03_low_res.jpg"
+          },
+          {
+            "fileName": "2939_1964_Plymouth_Full_Size-01_low_res.jpg",
+            "row": 2,
+            "width": 709,
+            "height": 1024,
+            "src": "__GHOST_URL__/content/images/2020/09/2939_1964_Plymouth_Full_Size-01_low_res.jpg"
+          }
+        ],
+        "caption": "1964 Plymouth Fury OEM Brochures"
+      }
+    ],
+    [
+      "hr",
+      {}
+    ]
+  ],
+  "markups": [
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/articles/research/1957-plymouth-fury/"
+      ]
+    ],
+    [
+      "strong"
+    ],
+    [
+      "em"
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/tag/research/"
+      ]
+    ]
+  ],
+  "sections": [
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Overview"
+        ]
+      ]
+    ],
+    [
+      10,
+      0
+    ],
+    [
+      1,
+      "h3",
+      [
+        [
+          0,
+          [],
+          0,
+          "The 1964 Plymouth Fury was a carryover from the previous year. It carried sheet metal identical to the 1963 from the doors back, except for a wider rear to hold a 2\" wider axle."
+        ]
+      ]
+    ],
+    [
+      10,
+      1
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "The 1964 Plymouth Fury was a carryover from the previous year. It carried sheet metal identical to the 1963 from the doors back, except for a wider rear to hold a 2\" wider axle."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Plymouth designer/stylist John Samsen wrote, \"At the time we designed these cars [1964 to 1966 Fury and Belvedere], the guidance from Sales was to make the cars look as wide as possible, front and rear. Quad lamps were mandated on all but the A body cars at that time. Being smaller than standard lamps, they were easier to fit into the grilles.”"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "The front end of the car is what really made the biggest change. Plymouth's grille was a much cleaner design that included a multi-segmented grille with quad headlights floating in an open cavity creased horizontally two-thirds of the way up. It was a very appealing design."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "The 1964 "
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "Fury"
+        ],
+        [
+          0,
+          [],
+          0,
+          " also showcased a new set of roof panels, again the third new design in as many years. The sedans continued with the \"Thunderbird-style\" C-pillars, but now without the upper lip over the rear window. A definite crease running front-to-back above the side windows created a bit more headroom. The biggest news for the roof, however, belonged to the two-door hardtop. Distinctive triangular pillars with a convertible top crease and a curved backlight gave the whole car a much more streamlined appearance."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Big news mid-year was the introduction of the Hemi motor. The Max Wedge V-8 was upstaged in the middle of the year when the 426-cid, 425-hp “Super Commando” Hemi V-8 appeared. When the 426 Hemi was introduced in 1964, it was strictly a racing engine. On February 23 of that year, Hemi cars ended the Daytona 500 by finishing 1-2-3-4. This single event caught the racing world by surprise and eventually prompted NASCAR to impose stricter production rules on Chrysler. Instead of producing only a few blueprinted Hemi motors each production year, they would instead have to produce several thousand and sell them in \"ordinary\" production vehicles."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "The street version differed from its racing cousin by virtue of a lower compression ratio (10.25:1), milder valve timing, and different intake and exhaust manifolds. For reliability, cast iron heads were used instead of aluminum."
+        ]
+      ]
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Production Numbers"
+        ]
+      ]
+    ],
+    [
+      10,
+      2
+    ],
+    [
+      10,
+      3
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Performance Specs"
+        ]
+      ]
+    ],
+    [
+      10,
+      4
+    ],
+    [
+      10,
+      5
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Transmission"
+        ]
+      ]
+    ],
+    [
+      10,
+      6
+    ],
+    [
+      3,
+      "ul",
+      [
+        [
+          [
+            0,
+            [
+              1,
+              1
+            ],
+            2,
+            "3-Speed Manual"
+          ]
+        ],
+        [
+          [
+            0,
+            [
+              1,
+              1
+            ],
+            2,
+            "HD 3-Speed Manual"
+          ]
+        ],
+        [
+          [
+            0,
+            [
+              1,
+              1
+            ],
+            2,
+            "4-Speed Manual"
+          ]
+        ],
+        [
+          [
+            0,
+            [
+              1,
+              1
+            ],
+            2,
+            "TorqueFlite Automatic"
+          ]
+        ]
+      ]
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Paint & Colors"
+        ]
+      ]
+    ],
+    [
+      10,
+      7
+    ],
+    [
+      10,
+      8
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "OEM Brochures"
+        ]
+      ]
+    ],
+    [
+      10,
+      9
+    ],
+    [
+      10,
+      10
+    ],
+    [
+      10,
+      11
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "About the Knowledge Base"
+        ]
+      ]
+    ],
+    [
+      10,
+      12
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "The Motorious Knowledge Base provides a comprehensive vehicle overview for the 1964 Plymouth Fury"
+        ],
+        [
+          0,
+          [
+            2,
+            2
+          ],
+          2,
+          " "
+        ],
+        [
+          0,
+          [],
+          0,
+          "including production numbers, performance specs, factory colors, and OEM brochures. Check out additional model years or related content linked to this article or view other Makes and Models in our "
+        ],
+        [
+          0,
+          [
+            3
+          ],
+          1,
+          "Research"
+        ],
+        [
+          0,
+          [],
+          0,
+          " center."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "If you have any interesting facts about the 1964 Plymouth Fury"
+        ],
+        [
+          0,
+          [
+            2,
+            2
+          ],
+          2,
+          " "
+        ],
+        [
+          0,
+          [],
+          0,
+          "to add, want to tell us how we did covering the Fury, or want to tell us about yours, please leave a comment below."
+        ],
+        [
+          1,
+          [],
+          0,
+          0
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          1,
+          [],
+          0,
+          1
+        ]
+      ]
+    ]
+  ],
+  "ghostVersion": "3.0"
+}

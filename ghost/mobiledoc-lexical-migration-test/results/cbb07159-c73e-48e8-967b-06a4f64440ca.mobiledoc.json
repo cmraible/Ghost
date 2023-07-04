@@ -1,0 +1,239 @@
+{
+  "version": "0.3.1",
+  "atoms": [],
+  "cards": [
+    [
+      "email-cta",
+      {
+        "showButton": true,
+        "showDividers": false,
+        "segment": "status:free",
+        "alignment": "center",
+        "html": "<p><strong><em>Please <a href=\"__GHOST_URL__/subscribe\">become a paid subscriber</a>. You get exclusive podcasts, <a href=\"__GHOST_URL__/citizens-guide-to-holding-the-powerful-accountable/\">digital publications</a>, and live events – and you support this journalism.</em></strong></p>",
+        "buttonText": "Click Here To Subscribe",
+        "buttonUrl": "__GHOST_URL__/subscribe"
+      }
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "email-cta",
+      {
+        "showButton": true,
+        "showDividers": false,
+        "segment": "status:free",
+        "alignment": "center",
+        "html": "<p><em><strong>This newsletter relies on readers pitching in to support our journalism. If you like this story, please support </strong></em><strong>The Daily Poster</strong><em><strong>'s work.</strong></em></p>",
+        "buttonText": "Click Here To Subscribe",
+        "buttonUrl": "__GHOST_URL__/subscribe"
+      }
+    ]
+  ],
+  "markups": [
+    [
+      "em"
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.followthemoney.org/show-me?dt=1&f-fc=2,3&law-eid=2935542&d-cci=33#[%7B1%7Cgro="
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.washingtonpost.com/opinions/2021/05/14/gretchen-whitmer-enbridge-line-5-pipeline-mackinac-time-bomb/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.startribune.com/enbridge-says-aggressive-climate-policies-shortening-life-of-its-pipelines/600124059/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.versobooks.com/books/2254-disaster-capitalism"
+      ]
+    ],
+    [
+      "strong"
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.newsweek.com/what-disaster-capitalism-giant-oil-company-cashes-climate-crisis-1660405"
+      ]
+    ]
+  ],
+  "sections": [
+    [
+      10,
+      0
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "As Republican state officials insist that Canadian oil pipelines are necessary to lower energy costs for American consumers, the fossil fuel giant operating those pipelines is suddenly citing the climate crisis its products are creating as a rationale for raising those prices higher, according to new documents reviewed by "
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "The Daily Poster"
+        ],
+        [
+          0,
+          [],
+          0,
+          "."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Last month, Ohio Republican Gov. Mike DeWine — who has raked in nearly "
+        ],
+        [
+          0,
+          [
+            1
+          ],
+          1,
+          "$400,000"
+        ],
+        [
+          0,
+          [],
+          0,
+          " from fossil fuel industry donors — demanded the Biden administration keep open Enbridge’s controversial Line 5 pipeline, which runs "
+        ],
+        [
+          0,
+          [
+            2
+          ],
+          1,
+          "under the Great Lakes"
+        ],
+        [
+          0,
+          [],
+          0,
+          ", as a way to reduce energy prices."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "But Enbridge just "
+        ],
+        [
+          0,
+          [
+            3
+          ],
+          1,
+          "dropped a bombshell"
+        ],
+        [
+          0,
+          [],
+          0,
+          " undercutting that argument: The firm told government regulators that climate change means its tar sands pipeline network only has 19 years left of economic life. That assertion could allow the company to jack up the tolls that its customers pay to transport oil through its pipelines, because pipeline operators are authorized to recoup their operational costs through rate increases — and a shorter timetable means higher levies. "
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "The episode is a spectacle of what’s been called "
+        ],
+        [
+          0,
+          [
+            4
+          ],
+          1,
+          "disaster capitalism"
+        ],
+        [
+          0,
+          [],
+          0,
+          ": In this case, a fossil fuel behemoth is citing the ecological crisis it is intensifying as a justification to extract more profits from consumers already being crushed by higher prices."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [
+            5,
+            6
+          ],
+          0,
+          "Click here to read the full Daily Poster article in "
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "Newsweek"
+        ],
+        [
+          0,
+          [],
+          2,
+          "..."
+        ]
+      ]
+    ],
+    [
+      10,
+      1
+    ],
+    [
+      10,
+      2
+    ]
+  ],
+  "ghostVersion": "4.0"
+}

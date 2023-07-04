@@ -1,0 +1,328 @@
+{
+  "version": "0.3.1",
+  "atoms": [],
+  "cards": [
+    [
+      "image",
+      {
+        "src": "__GHOST_URL__/content/images/2020/08/core-web-vitals.jpg",
+        "width": 1600,
+        "height": 506,
+        "caption": "The Core Web Vitals test in Search Console",
+        "alt": "The Core Web Vitals test in Search Console"
+      }
+    ],
+    [
+      "bookmark",
+      {
+        "url": "https://webmasters.googleblog.com/2020/05/evaluating-page-experience.html",
+        "metadata": {
+          "url": "https://webmasters.googleblog.com/2020/05/evaluating-page-experience.html",
+          "title": "Evaluating page experience for a better web",
+          "description": "We’re introducing page experience as a new ranking signal that provides a holistic picture of the quality of a user’s experience on a web page.",
+          "author": "Google",
+          "publisher": "Official Google Webmaster Central Blog",
+          "thumbnail": "https://2.bp.blogspot.com/-7bZ5EziliZQ/VynIS9F7OAI/AAAAAAAASQ0/BJFntXCAntstZe6hQuo5KTrhi5Dyz9yHgCK4B/s1600/googlelogo_color_200x200.png",
+          "icon": "https://webmasters.googleblog.com/favicon.ico"
+        }
+      }
+    ],
+    [
+      "bookmark",
+      {
+        "url": "__GHOST_URL__/2020/07/why-google-core-web-vitals-update-is-going-to-squeeze-medium-sized-publishers-hard/",
+        "metadata": {
+          "url": "__GHOST_URL__/2020/07/why-google-core-web-vitals-update-is-going-to-squeeze-medium-sized-publishers-hard/",
+          "title": "Why Google’s Core Web Vitals update is going to hit medium-sized publishers hard",
+          "description": "Major changes are coming to Google next year - and the technical burden of them are likely to fall disproportionatly on the middle rank of publishers.",
+          "author": "Adam Tinworth",
+          "publisher": "One Man & His Blog",
+          "thumbnail": "https://images.unsplash.com/photo-1513224502586-d1e602410265?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=2000&fit=max&ixid=eyJhcHBfaWQiOjExNzczfQ",
+          "icon": "__GHOST_URL__/favicon.png"
+        }
+      }
+    ],
+    [
+      "bookmark",
+      {
+        "url": "https://searchengineland.com/google-core-web-vitals-guide-for-seo-developers-337825",
+        "metadata": {
+          "url": "https://searchengineland.com/google-core-web-vitals-guide-for-seo-developers-337825",
+          "title": "Guide to Core Web Vitals for SEOs and Developers",
+          "description": "What you need to know about Google’s latest set of key user experience metrics for Web Developers.",
+          "author": "Detlef Johnson",
+          "publisher": "Search Engine Land",
+          "thumbnail": "https://searchengineland.com/figz/wp-content/seloads/2020/07/user-experience-UX-SS_1091979356-1920x1080-1.jpg",
+          "icon": "https://searchengineland.com/apple-touch-icon.png"
+        }
+      }
+    ]
+  ],
+  "markups": [
+    [
+      "em"
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://search.google.com/search-console/about"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/seo-notes/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/seo-on-page-optimisation/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/seo-links-and-linking/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/seo-helps-hinderences/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/seo-paywalls/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/seo-with-wordpress-and-yoast/"
+      ]
+    ]
+  ],
+  "sections": [
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Sometime in 2021, Google is making a big change to its algorithm, adding what it calls \"Core Web Vitals\" as a ranking signal. This is, at its heart, an assesment of how swiftly your page loads "
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "from a user persepective:"
+        ]
+      ]
+    ],
+    [
+      3,
+      "ul",
+      [
+        [
+          [
+            0,
+            [],
+            0,
+            "How quickly is there usable information on the page?"
+          ]
+        ],
+        [
+          [
+            0,
+            [],
+            0,
+            "How long until I can interact with this page?"
+          ]
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "It's worth thinking of this as a more sophisticated evolution of the old page speed metric. Google is now less interested in how quickly your page load completes, and more interested in how long until the reader can do eveything they want. "
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "This is largely likely to be a technicla challenge - but you can monitor your performance using the Core Web Vital test in "
+        ],
+        [
+          0,
+          [
+            1
+          ],
+          1,
+          "Search Console"
+        ],
+        [
+          0,
+          [],
+          0,
+          ". "
+        ]
+      ]
+    ],
+    [
+      10,
+      0
+    ],
+    [
+      1,
+      "h3",
+      [
+        [
+          0,
+          [],
+          0,
+          "Read More"
+        ]
+      ]
+    ],
+    [
+      10,
+      1
+    ],
+    [
+      10,
+      2
+    ],
+    [
+      1,
+      "h3",
+      [
+        [
+          0,
+          [],
+          0,
+          "Technical Guides"
+        ]
+      ]
+    ],
+    [
+      10,
+      3
+    ],
+    [
+      1,
+      "h3",
+      [
+        [
+          0,
+          [],
+          0,
+          "Other SEO resources"
+        ]
+      ]
+    ],
+    [
+      1,
+      "h3",
+      [
+        [
+          0,
+          [],
+          0,
+          "Read More:"
+        ]
+      ]
+    ],
+    [
+      3,
+      "ul",
+      [
+        [
+          [
+            0,
+            [
+              2
+            ],
+            1,
+            "The Basics"
+          ]
+        ],
+        [
+          [
+            0,
+            [
+              3
+            ],
+            1,
+            "On Page Optimisation"
+          ]
+        ],
+        [
+          [
+            0,
+            [
+              4
+            ],
+            1,
+            "Links and Linking"
+          ]
+        ],
+        [
+          [
+            0,
+            [
+              5
+            ],
+            1,
+            "Helps and Hindrances"
+          ]
+        ],
+        [
+          [
+            0,
+            [
+              6
+            ],
+            1,
+            "SEO & Paywalls"
+          ]
+        ],
+        [
+          [
+            0,
+            [
+              7
+            ],
+            1,
+            "SEO with WordPress"
+          ]
+        ]
+      ]
+    ]
+  ],
+  "ghostVersion": "3.0"
+}

@@ -1,0 +1,472 @@
+{
+  "version": "0.3.1",
+  "atoms": [],
+  "cards": [
+    [
+      "hr",
+      {}
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "html",
+      {
+        "html": "<table id=\"production-numbers-table\">\n<tbody>\n\t<tr>\n\t\t<td>SS</td>\n\t\t<td>5,571</td>\n\t</tr>\n    <tr>\n\t\t<td>2-Dr. Sedan</td>\n\t\t<td>105,680</td>\n\t</tr>\n    <tr>\n\t\t<td>4-Dr. Sedan</td>\n\t\t<td>77,872</td>\n\t</tr>\n\t\t<td><b>Total Production</b></td>\n\t\t<td><b>183,552</b></td>\n\t</tr>\n</tbody>\n</table>"
+      }
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "html",
+      {
+        "html": "<table id=\"performance-specs-table\">\n<tbody>\n\t<tr>\n\t\t<th><b>Engine</b></th>\n\t\t<th><b>Size</b></td>\n\t\t<th><b>Carb.</b></td>\n\t\t<th><b>HP</b></td>\n\t\t<th><b>Torque</b></td>\n\t\t<th><b>0 to 60</b></td>\n\t\t<th><b>Quarter mile</b></td>\n\t</tr>\n\t<tr>\n\t\t<td>Turbo-Thrift 230</td>\n\t\t<td>230ci</td>\n\t\t<td>-</td>\n\t\t<td>140hp</td>\n\t\t<td>-</td>\n\t\t<td>-</td>\n\t\t<td>-</td>\n\t</tr>\n    <tr>\n\t\t<td>Turbo-Fire 307</td>\n\t\t<td>307ci</td>\n\t\t<td>-</td>\n\t\t<td>200hp</td>\n\t\t<td>-</td>\n\t\t<td>-</td>\n\t\t<td>-</td>\n\t</tr>\n    <tr>\n\t\t<td>Turbo-Thrift 250</td>\n\t\t<td>250ci</td>\n\t\t<td>-</td>\n\t\t<td>155hp</td>\n\t\t<td>-</td>\n\t\t<td>-</td>\n\t\t<td>-</td>\n\t</tr>\n    <tr>\n\t\t<td>Turbo-Fire 327</td>\n\t\t<td>327ci</td>\n\t\t<td>-</td>\n\t\t<td>275hp</td>\n\t\t<td>-</td>\n\t\t<td>-</td>\n\t\t<td>-</td>\n\t</tr>\n    <tr>\n\t\t<td>Turbo-Fire 350</td>\n\t\t<td>250ci</td>\n\t\t<td>-</td>\n\t\t<td>295hp</td>\n\t\t<td>-</td>\n\t\t<td>-</td>\n\t\t<td>-</td>\n\t</tr>\n    <tr>\n\t\t<td>396</td>\n\t\t<td>396ci</td>\n\t\t<td>-</td>\n\t\t<td>350/375hp</td>\n\t\t<td>-</td>\n\t\t<td>5.9 sec</td>\n\t\t<td>14.50 sec @ 101.10 mph</td>\n\t</tr>\n</tbody>\n</table>"
+      }
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "html",
+      {
+        "html": "<h4 id='colors-sub-heading'>Exterior</h4>\n<div class=\"colors-row\">\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #000000\"></div>\n        <div class=\"color-name\">Tuxedo Black</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #bcb69a\"></div>\n        <div class=\"color-name\">Palomino Ivory</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #311f20\"></div>\n        <div class=\"color-name\">Cordovan Maroon</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #647d70\"></div>\n        <div class=\"color-name\">Grecian Green</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #222d47\"></div>\n        <div class=\"color-name\">Fathom Blue</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #6d818f\"></div>\n        <div class=\"color-name\">Island Teal</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #e1dcc9\"></div>\n        <div class=\"color-name\">Ermine White</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #28342d\"></div>\n        <div class=\"color-name\">Sequoia Green</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #7b8085\"></div>\n        <div class=\"color-name\">Seafrost Green</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #446f83\"></div>\n        <div class=\"color-name\">Tripoli Turquoise</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #6d818f\"></div>\n        <div class=\"color-name\">Teal Blue</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #9a9480\"></div>\n        <div class=\"color-name\">Ash Gold</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #6086a1\"></div>\n        <div class=\"color-name\">Grotto Blue</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #fdeda5\"></div>\n        <div class=\"color-name\">Butternut Yellow</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #7a2220\"></div>\n        <div class=\"color-name\">Matador Red</div>\n    </div>\n</div>\n\n<h4 id='colors-sub-heading'>Interior</h4>\n<div class=\"colors-row\">\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #000000\"></div>\n        <div class=\"color-name\">Black</div>\n    </div>\n     <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #193942\"></div>\n        <div class=\"color-name\">Dark Blue</div>\n    </div>\n     <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #77754f\"></div>\n        <div class=\"color-name\">Gold</div>\n    </div>\n</div>\n"
+      }
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "gallery",
+      {
+        "images": [
+          {
+            "fileName": "1549_1968_Chevrolet_Chevy_II_Nova-02_low_res.jpg",
+            "row": 0,
+            "width": 581,
+            "height": 768,
+            "src": "__GHOST_URL__/content/images/2020/07/1549_1968_Chevrolet_Chevy_II_Nova-02_low_res.jpg"
+          },
+          {
+            "fileName": "1550_1968_Chevrolet_Chevy_II_Nova-01_low_res.jpg",
+            "row": 0,
+            "width": 585,
+            "height": 768,
+            "src": "__GHOST_URL__/content/images/2020/07/1550_1968_Chevrolet_Chevy_II_Nova-01_low_res.jpg"
+          },
+          {
+            "fileName": "1551_1968_Chevrolet_Chevy_II_Nova-03_low_res.jpg",
+            "row": 0,
+            "width": 583,
+            "height": 768,
+            "src": "__GHOST_URL__/content/images/2020/07/1551_1968_Chevrolet_Chevy_II_Nova-03_low_res.jpg"
+          },
+          {
+            "fileName": "1552_1968_Chevrolet_Chevy_II_Nova-04_low_res.jpg",
+            "row": 1,
+            "width": 588,
+            "height": 768,
+            "src": "__GHOST_URL__/content/images/2020/07/1552_1968_Chevrolet_Chevy_II_Nova-04_low_res.jpg"
+          },
+          {
+            "fileName": "1553_1968_Chevrolet_Chevy_II_Nova-05_low_res.jpg",
+            "row": 1,
+            "width": 585,
+            "height": 768,
+            "src": "__GHOST_URL__/content/images/2020/07/1553_1968_Chevrolet_Chevy_II_Nova-05_low_res.jpg"
+          },
+          {
+            "fileName": "1554_1968_Chevrolet_Chevy_II_Nova-06_low_res.jpg",
+            "row": 1,
+            "width": 562,
+            "height": 768,
+            "src": "__GHOST_URL__/content/images/2020/07/1554_1968_Chevrolet_Chevy_II_Nova-06_low_res.jpg"
+          },
+          {
+            "fileName": "1555_1968_Chevrolet_Chevy_II_Nova-07_low_res.jpg",
+            "row": 2,
+            "width": 597,
+            "height": 768,
+            "src": "__GHOST_URL__/content/images/2020/07/1555_1968_Chevrolet_Chevy_II_Nova-07_low_res.jpg"
+          },
+          {
+            "fileName": "1556_1968_Chevrolet_Chevy_II_Nova-08_low_res.jpg",
+            "row": 2,
+            "width": 603,
+            "height": 768,
+            "src": "__GHOST_URL__/content/images/2020/07/1556_1968_Chevrolet_Chevy_II_Nova-08_low_res.jpg"
+          },
+          {
+            "fileName": "1557_1968_Chevrolet_Chevy_II_Nova-09_low_res.jpg",
+            "row": 2,
+            "width": 578,
+            "height": 768,
+            "src": "__GHOST_URL__/content/images/2020/07/1557_1968_Chevrolet_Chevy_II_Nova-09_low_res.jpg"
+          }
+        ]
+      }
+    ],
+    [
+      "gallery",
+      {
+        "images": [
+          {
+            "fileName": "1558_1968_Chevrolet_Chevy_II_Nova-11_low_res.jpg",
+            "row": 0,
+            "width": 605,
+            "height": 768,
+            "src": "__GHOST_URL__/content/images/2020/07/1558_1968_Chevrolet_Chevy_II_Nova-11_low_res.jpg"
+          },
+          {
+            "fileName": "1559_1968_Chevrolet_Chevy_II_Nova-10_low_res.jpg",
+            "row": 0,
+            "width": 602,
+            "height": 768,
+            "src": "__GHOST_URL__/content/images/2020/07/1559_1968_Chevrolet_Chevy_II_Nova-10_low_res.jpg"
+          },
+          {
+            "fileName": "1560_1968_Chevrolet_Chevy_II_Nova-12_low_res.jpg",
+            "row": 0,
+            "width": 585,
+            "height": 768,
+            "src": "__GHOST_URL__/content/images/2020/07/1560_1968_Chevrolet_Chevy_II_Nova-12_low_res.jpg"
+          }
+        ],
+        "caption": "1968 Chevrolet Nova OEM Brochures"
+      }
+    ],
+    [
+      "hr",
+      {}
+    ]
+  ],
+  "markups": [
+    [
+      "em"
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/tag/research/"
+      ]
+    ]
+  ],
+  "sections": [
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Overview"
+        ]
+      ]
+    ],
+    [
+      10,
+      0
+    ],
+    [
+      1,
+      "h3",
+      [
+        [
+          0,
+          [],
+          0,
+          "The 1968 Nova was fully redesigned on a longer 111-inch wheelbase, which was only one inch shorter than Chevy's midsize Chevelle."
+        ]
+      ]
+    ],
+    [
+      10,
+      1
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "The 1968 Nova was fully redesigned on a longer 111-inch wheelbase, which was only one inch shorter than Chevy's midsize Chevelle."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "There were a few Novas built with the 194ci, although not listed in the Drivetrain section."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "The station wagon and hardtop sport coupe were discontinued."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "The Nova Super Sport was transformed from a trim option to a performance package for 1968. It could be had with a 295 hp 350ci up to a 375 hp 396ci. Along with the heavier engines came heavy-duty suspension and \"rock crusher\" transmission."
+        ]
+      ]
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Production Numbers"
+        ]
+      ]
+    ],
+    [
+      10,
+      2
+    ],
+    [
+      10,
+      3
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Performance Specs"
+        ]
+      ]
+    ],
+    [
+      10,
+      4
+    ],
+    [
+      10,
+      5
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Transmission"
+        ]
+      ]
+    ],
+    [
+      10,
+      6
+    ],
+    [
+      3,
+      "ul",
+      [
+        [
+          [
+            0,
+            [],
+            0,
+            "Powerglide"
+          ]
+        ],
+        [
+          [
+            0,
+            [],
+            0,
+            "4-Speed Manual (fully synch)"
+          ]
+        ],
+        [
+          [
+            0,
+            [],
+            0,
+            "3-Speed Manual (fully synch)"
+          ]
+        ],
+        [
+          [
+            0,
+            [],
+            0,
+            "Special 3-Speed (fully synch)"
+          ]
+        ]
+      ]
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Paint & Colors"
+        ]
+      ]
+    ],
+    [
+      10,
+      7
+    ],
+    [
+      10,
+      8
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "OEM Brochures"
+        ]
+      ]
+    ],
+    [
+      10,
+      9
+    ],
+    [
+      10,
+      10
+    ],
+    [
+      10,
+      11
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "About the Knowledge Base"
+        ]
+      ]
+    ],
+    [
+      10,
+      12
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "The Motorious Knowledge Base provides a comprehensive vehicle overview for the 1968 Chevrolet Nova"
+        ],
+        [
+          0,
+          [
+            0,
+            0
+          ],
+          2,
+          " "
+        ],
+        [
+          0,
+          [],
+          0,
+          "including production numbers, performance specs, factory colors, and OEM brochures. Check out additional model years or related content linked to this article or view other Makes and Models in our "
+        ],
+        [
+          0,
+          [
+            1
+          ],
+          1,
+          "Research"
+        ],
+        [
+          0,
+          [],
+          0,
+          " center."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "If you have any interesting facts about the 1968 Chevrolet Nova"
+        ],
+        [
+          0,
+          [
+            0,
+            0
+          ],
+          2,
+          " "
+        ],
+        [
+          0,
+          [],
+          0,
+          "to add, want to tell us how we did covering the Nova, or want to tell us about yours, please leave a comment below."
+        ]
+      ]
+    ]
+  ],
+  "ghostVersion": "3.0"
+}

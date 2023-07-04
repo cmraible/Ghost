@@ -1,0 +1,941 @@
+{
+  "version": "0.3.1",
+  "atoms": [],
+  "cards": [
+    [
+      "email",
+      {
+        "html": "<p>Hello {first_name, \"there\"},</p>"
+      }
+    ],
+    [
+      "email",
+      {
+        "html": "<p>Thanks to all of you who have been sending in suggestions and feedback. I'm planning a reader-led issue later in the week, so keep those suggestions coming.&nbsp;</p>"
+      }
+    ],
+    [
+      "bookmark",
+      {
+        "version": "1.0",
+        "type": "bookmark",
+        "url": "https://searchengineland.com/ai-content-helpful-or-spam-391745",
+        "metadata": {
+          "url": "https://searchengineland.com/ai-content-helpful-or-spam-391745",
+          "title": "AI content: Is it helpful or spam?",
+          "description": "AI-generated content has its place in SEO. Whether it’s helpful or spam depends on how, where and why you’re using it.",
+          "author": "Tadeusz Szewczyk",
+          "publisher": "Search Engine Land",
+          "thumbnail": "https://searchengineland.com/wp-content/seloads/2023/01/AI-content-Is-it-helpful-or-spam.png",
+          "icon": "https://searchengineland.com/apple-touch-icon.png"
+        }
+      }
+    ],
+    [
+      "bookmark",
+      {
+        "version": "1.0",
+        "type": "bookmark",
+        "url": "https://pressgazette.co.uk/newsletters/cheapskate-newsletter-georgina-henry-award/",
+        "metadata": {
+          "url": "https://pressgazette.co.uk/newsletters/cheapskate-newsletter-georgina-henry-award/",
+          "title": "How newsletter for thrifty Londoners built a 10,000 person audience by word of mouth",
+          "description": "Press Gazette spoke with Cheapskate’s co-founder about how the newsletter grew on minimal funding and why it won a British Journalism Award.",
+          "author": "Bron Maher",
+          "publisher": "Press Gazette",
+          "thumbnail": "https://pressgazette.co.uk/wp-content/uploads/sites/7/2022/12/ASV19065-scaled-e1673450771259.jpg",
+          "icon": "https://pressgazette.co.uk/wp-content/uploads/sites/7/2022/09/cropped-Press-Gazette_favicon-270x270.jpg"
+        }
+      }
+    ],
+    [
+      "image",
+      {
+        "src": "__GHOST_URL__/content/images/2023/01/mastodon-or-more.jpg",
+        "width": 2304,
+        "height": 1536,
+        "caption": "There's more to the Fediverse than just Mastodon…"
+      }
+    ],
+    [
+      "bookmark",
+      {
+        "url": "https://furbo.org/2023/01/15/the-shit-show/",
+        "metadata": {
+          "url": "https://furbo.org/2023/01/15/the-shit-show/",
+          "title": "The Shit Show • furbo.org",
+          "description": "Well, it happened. We knew it was coming. A prick pulled the plug. And what bothers me most about it is how Space Karen did it. My mom passed away just before Christmas. Her decline was something everyone in the family saw coming and we prepared for her demise. It still hurts like hell, but […]",
+          "author": null,
+          "publisher": "Furbo.org by Craig Hockenberry",
+          "thumbnail": "https://furbo.org/wp-content/themes/furbo/images/share.png",
+          "icon": "https://furbo.org/favicon.ico"
+        }
+      }
+    ],
+    [
+      "callout",
+      {
+        "calloutEmoji": "💡",
+        "calloutText": "Interested in explainer journalism? The Knight Foundation is <a href=\"https://journalismcourses.org/course/explain_this_explanatory_journalism/\">doing a free online course</a> about it.&nbsp;",
+        "backgroundColor": "yellow"
+      }
+    ],
+    [
+      "bookmark",
+      {
+        "url": "https://www.nytimes.com/2022/12/23/insider/snow-fall-at-10-how-it-changed-journalism.html",
+        "metadata": {
+          "url": "https://www.nytimes.com/2022/12/23/insider/snow-fall-at-10-how-it-changed-journalism.html",
+          "title": "‘Snow Fall’ at 10: How It Changed Journalism",
+          "description": "The Pulitzer Prize-winning multimedia feature about an avalanche in Washington State changed the way The New York Times approaches storytelling.",
+          "author": "By",
+          "publisher": "NYTimes",
+          "thumbnail": "https://static01.nyt.com/images/2022/12/24/insider/24snowfall-still/24snowfall-still-facebookJumbo-v4.jpg",
+          "icon": "https://www.nytimes.com/vi-assets/static-assets/ios-ipad-144x144-28865b72953380a40aa43318108876cb.png"
+        }
+      }
+    ],
+    [
+      "bookmark",
+      {
+        "url": "https://lauraprice.substack.com/p/major-surgery-book-launch-from-hospital",
+        "metadata": {
+          "url": "https://lauraprice.substack.com/p/major-surgery-book-launch-from-hospital",
+          "title": "Major surgery and a book launch from my hospital bed",
+          "description": "Plus some very exciting news",
+          "author": "Laura Price",
+          "publisher": "Doughnuts for Breakfast with Laura Price",
+          "thumbnail": "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1d7960f4-83fc-4a2b-bcef-263ec62f22d9_1280x914.jpeg",
+          "icon": "https://substack-post-media.s3.amazonaws.com/public/images/6a22e7d2-7071-4260-abf0-9c7cb7c1df1f/apple-touch-icon-1024x1024.png"
+        }
+      }
+    ],
+    [
+      "bookmark",
+      {
+        "version": "1.0",
+        "type": "bookmark",
+        "url": "https://www.bloomberg.com/news/newsletters/2023-01-12/elon-musk-s-twitter-drives-even-its-early-employees-to-mastodon",
+        "metadata": {
+          "url": "https://www.bloomberg.com/news/newsletters/2023-01-12/elon-musk-s-twitter-drives-even-its-early-employees-to-mastodon",
+          "title": "Elon Musk Drives Even Some Twitter Founders to Mastodon",
+          "description": "Even former Twitter executives are heading to Mastodon. But first...",
+          "author": "Kurt Wagner",
+          "publisher": "Bloomberg",
+          "thumbnail": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iBkGVNaWQHuY/v1/1200x799.jpg",
+          "icon": "https://assets.bwbx.io/s3/javelin/public/javelin/images/favicon-black-63fe5249d3.png"
+        }
+      }
+    ],
+    [
+      "image",
+      {
+        "src": "https://media.tenor.com/rs6J_MhI4dcAAAAC/hahaha-lol.gif",
+        "width": 240,
+        "height": 122,
+        "caption": "How you feeling, Mr Musk?",
+        "type": "gif"
+      }
+    ]
+  ],
+  "markups": [
+    [
+      "strong"
+    ],
+    [
+      "em"
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.cheapskatelondon.com/",
+        "rel",
+        "noopener"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://daringfireball.net/linked/2023/01/14/information-twitter-slack-confirmation"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://daringfireball.net/linked/2023/01/16/hockenberry-on-the-shit-show"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.w3.org/TR/activitypub/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://joinmastodon.org/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://micro.blog/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://techcrunch.com/2022/11/21/tumblr-to-add-support-for-activitypub-the-social-protocol-powering-mastodon-and-other-apps/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://pixelfed.org/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://fediverse.party/en/miscellaneous/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://fediverse.party/en/portal/servers/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "@adders@microblog.onemanandhisblog.comhttps://micro.blog/adders?remote_follow=1"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://thebigscarycword.wordpress.com"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://uk.bookshop.org/a/5008/9781529074260"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://blog.medium.com/medium-embraces-mastodon-19dcb873eb11"
+      ]
+    ]
+  ],
+  "sections": [
+    [
+      10,
+      0
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "We're only a couple of weeks into 2023, and it already feels like we're deep in anothe shift in the environment that surrounds our journalism. There's plenty to get your teeth into, whatever you do, below."
+        ]
+      ]
+    ],
+    [
+      10,
+      1
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Is AI-generated journalism going to put your search traffic at risk?"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "The short answer:"
+        ],
+        [
+          0,
+          [],
+          0,
+          " Maybe."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "The longer answer:"
+        ],
+        [
+          0,
+          [],
+          0,
+          " Maybe, but not right at the moment. Prioritise quality over quantity, and human edit the output."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "The full answer: "
+        ]
+      ]
+    ],
+    [
+      10,
+      2
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Local newsletters need a clear value proposition"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Another good piece from "
+        ],
+        [
+          0,
+          [
+            1
+          ],
+          1,
+          "Press Gazette"
+        ],
+        [
+          0,
+          [],
+          0,
+          ", on a London newsletter called "
+        ],
+        [
+          0,
+          [
+            1
+          ],
+          1,
+          "Cheapskate"
+        ],
+        [
+          0,
+          [],
+          0,
+          ":"
+        ]
+      ]
+    ],
+    [
+      1,
+      "blockquote",
+      [
+        [
+          0,
+          [
+            2
+          ],
+          1,
+          "The publication"
+        ],
+        [
+          0,
+          [],
+          0,
+          " runs on a simple premise: it wants to tell Londoners what free, good events are happening in the city each week. And without paying to promote itself, that formula has seen Cheapskate build up 10,000 subscribers in less than four years."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "It's a beautifully simple propostion, and one that will drive people to forward it on to their friends. Platforms aren't magic fixes, but a great concept on the right platform can be "
+        ],
+        [
+          0,
+          [
+            1
+          ],
+          1,
+          "incredibly"
+        ],
+        [
+          0,
+          [],
+          0,
+          " powerful. "
+        ]
+      ]
+    ],
+    [
+      10,
+      3
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "ActivityPub is more than Mastodon"
+        ]
+      ]
+    ],
+    [
+      10,
+      4
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Craig Hockenberry has a right to be angry. As the creator of the Twitterific app, he can claim to have brought many things we associate with Twitter — from the blue bird to the word “tweets\" — into the platform. "
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Last week, Twitter killed the API access that allowed the app to work, in what is almost "
+        ],
+        [
+          0,
+          [
+            3
+          ],
+          1,
+          "certainly an intentional move"
+        ],
+        [
+          0,
+          [],
+          0,
+          ", even if Twitter has said exactly nothing publicly about it. Hockenberry's written an angry (but "
+        ],
+        [
+          0,
+          [
+            4
+          ],
+          1,
+          "apparently toned down"
+        ],
+        [
+          0,
+          [],
+          0,
+          ") post about the end of the app — but also, what comes next. And his experiences on Mastodon make him think it's be more than just that platform:"
+        ]
+      ]
+    ],
+    [
+      1,
+      "blockquote",
+      [
+        [
+          0,
+          [],
+          0,
+          "One thing I’ve noticed is that everyone is going to great lengths to make something that replaces the clients we’ve known for years. That’s an excellent goal that eases a transition in the short-term, but ignores how a "
+        ],
+        [
+          0,
+          [
+            5
+          ],
+          1,
+          "new open standard"
+        ],
+        [
+          0,
+          [],
+          0,
+          " (ActivityPub) can be leveraged in new and different ways."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "What does that mean?"
+        ]
+      ]
+    ],
+    [
+      1,
+      "blockquote",
+      [
+        [
+          0,
+          [],
+          0,
+          "Federation exposes a lot of different data sources that you’d want to follow. Not all of these sources will be "
+        ],
+        [
+          0,
+          [
+            6
+          ],
+          1,
+          "Mastodon"
+        ],
+        [
+          0,
+          [],
+          0,
+          " instances: you may want to stay up-to-date with someone’s "
+        ],
+        [
+          0,
+          [
+            7
+          ],
+          1,
+          "Micro.blog"
+        ],
+        [
+          0,
+          [],
+          0,
+          ", or maybe another person’s "
+        ],
+        [
+          0,
+          [
+            8
+          ],
+          1,
+          "Tumblr"
+        ],
+        [
+          0,
+          [],
+          0,
+          ", or someone else’s "
+        ],
+        [
+          0,
+          [
+            9
+          ],
+          1,
+          "photo feed"
+        ],
+        [
+          0,
+          [],
+          0,
+          ". There are many "
+        ],
+        [
+          0,
+          [
+            10
+          ],
+          1,
+          "apps"
+        ],
+        [
+          0,
+          [],
+          0,
+          " and "
+        ],
+        [
+          0,
+          [
+            11
+          ],
+          1,
+          "servers"
+        ],
+        [
+          0,
+          [],
+          0,
+          " for you to choose from."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "He's right, of course. If you're a Mastodon user, you can follow my notebook (hosted on Micro.blog) at "
+        ],
+        [
+          0,
+          [
+            12
+          ],
+          1,
+          "@adders@microblog.onemanandhisblog.com"
+        ],
+        [
+          0,
+          [],
+          0,
+          ", for example. "
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "The app he builds next could be very interesting, if it helps tie all this together:"
+        ]
+      ]
+    ],
+    [
+      1,
+      "blockquote",
+      [
+        [
+          0,
+          [],
+          0,
+          "It feels like the time is right for a truly universal timeline."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Worth watching. That could solve a whole world of audience issues. "
+        ]
+      ]
+    ],
+    [
+      10,
+      5
+    ],
+    [
+      10,
+      6
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Snow Fall at 10"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "A decade ago, the "
+        ],
+        [
+          0,
+          [
+            1
+          ],
+          1,
+          "New York Times"
+        ],
+        [
+          0,
+          [],
+          0,
+          "'s Snow Fall feature started a conversation about rich, multimedia features in journalism that we're still having. Here, the team look back on the impact of the work — and what they learned from it:"
+        ]
+      ]
+    ],
+    [
+      1,
+      "blockquote",
+      [
+        [
+          0,
+          [],
+          0,
+          "“It generated the idea among people with visual skills that journalism might be a place for them,” Mr. Duenes said. “Not people who were experts at the moment, but people in school who could see an overlap between an area where they had talent and the discipline of visual journalism.”"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "We've still got a long way to go on this. We still default to words plus a picture, while we should be having much earlier conversations about “what's the best way to tell this story?”"
+        ]
+      ]
+    ],
+    [
+      10,
+      7
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "A book launch from a hospital bed"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "A decade back, I used to teach on the MA Magazine Journalism at City. One of the students I had the privildge of working with was Laura Price, who was recovreing from breast cancer, and writing a blog called the "
+        ],
+        [
+          0,
+          [
+            13,
+            1
+          ],
+          2,
+          "Big Scary C Word"
+        ],
+        [
+          0,
+          [],
+          0,
+          ". "
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "The good news is that she's had a book published since, called "
+        ],
+        [
+          0,
+          [
+            1,
+            14
+          ],
+          2,
+          "Single Bald Female"
+        ],
+        [
+          0,
+          [],
+          0,
+          ". The bad news is that the cancer is back. She's about to have a major operation to remove it, which will involve rebuilding part of her skeleton, but she's planning on doing a book launch of the paperback edition from her recovery bed this Thursday. "
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Give her your support:"
+        ]
+      ]
+    ],
+    [
+      10,
+      8
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Or you could "
+        ],
+        [
+          0,
+          [
+            14
+          ],
+          1,
+          "pre-order the book"
+        ],
+        [
+          0,
+          [],
+          0,
+          ". "
+        ]
+      ]
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "And Finally…"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Two early Twitter execs, Ev Williams and Biz Stone, have joined Mastodon, partially as a result of Medium, which Williams went on to found, "
+        ],
+        [
+          0,
+          [
+            15
+          ],
+          1,
+          "setting up its own instance"
+        ],
+        [
+          0,
+          [],
+          0,
+          "…"
+        ]
+      ]
+    ],
+    [
+      10,
+      9
+    ],
+    [
+      10,
+      10
+    ],
+    [
+      1,
+      "p",
+      []
+    ]
+  ],
+  "ghostVersion": "4.0"
+}

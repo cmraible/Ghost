@@ -1,0 +1,750 @@
+{
+  "version": "0.3.1",
+  "atoms": [],
+  "cards": [
+    [
+      "email-cta",
+      {
+        "showButton": true,
+        "showDividers": false,
+        "segment": "status:-free",
+        "alignment": "center",
+        "html": "",
+        "buttonText": "Click Here To Access The Live Chat",
+        "buttonUrl": "__GHOST_URL__/1-5-live-chat/"
+      }
+    ],
+    [
+      "email-cta",
+      {
+        "showButton": true,
+        "showDividers": false,
+        "segment": "status:free",
+        "alignment": "center",
+        "html": "<p><strong><em>Please <a href=\"__GHOST_URL__/subscribe\">become a paid subscriber</a>. You get exclusive podcasts, <a href=\"__GHOST_URL__/citizens-guide-to-holding-the-powerful-accountable/\">digital publications</a>, and live events – and you support this journalism.</em></strong></p>",
+        "buttonText": "Subscribe ",
+        "buttonUrl": "__GHOST_URL__/subscribe/"
+      }
+    ],
+    [
+      "html",
+      {
+        "html": "<div class=\"fb-share-button\" data-href=\"https://www.dailyposter.com/1-5-live-chat/\" data-layout=\"button\" data-size=\"small\"><a target=\"_blank\" href=\"https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.dailyposter.com%2F1-5-live-chat%2F&amp;src=sdkpreparse\" class=\"fb-xfbml-parse-ignore\"><strong><em>Click to share this on Facebook</em></strong></a></div>"
+      }
+    ],
+    [
+      "embed",
+      {
+        "url": "https://www.youtube.com/watch?v=RbIxYm3mKzI ",
+        "html": "<iframe width=\"200\" height=\"113\" src=\"https://www.youtube.com/embed/RbIxYm3mKzI?feature=oembed\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+        "type": "video",
+        "metadata": {
+          "title": "DON'T LOOK UP | Leonardo DiCaprio, Jennifer Lawrence | Official Trailer | Netflix",
+          "author_name": "Netflix",
+          "author_url": "https://www.youtube.com/c/Netflix",
+          "height": 113,
+          "width": 200,
+          "version": "1.0",
+          "provider_name": "YouTube",
+          "provider_url": "https://www.youtube.com/",
+          "thumbnail_height": 360,
+          "thumbnail_width": 480,
+          "thumbnail_url": "https://i.ytimg.com/vi/RbIxYm3mKzI/hqdefault.jpg"
+        }
+      }
+    ],
+    [
+      "email-cta",
+      {
+        "showButton": true,
+        "showDividers": false,
+        "segment": "status:-free",
+        "alignment": "center",
+        "html": "",
+        "buttonText": "Click Here To Access The Live Chat",
+        "buttonUrl": "__GHOST_URL__/1-5-live-chat/"
+      }
+    ],
+    [
+      "embed",
+      {
+        "url": "https://twitter.com/davidsirota/status/1471983273886711811?s=20",
+        "html": "<blockquote class=\"twitter-tweet\"><p lang=\"en\" dir=\"ltr\">Lots of friends have asked how we came up with <a href=\"https://twitter.com/hashtag/DontLookUp?src=hash&amp;ref_src=twsrc%5Etfw\">#DontLookUp</a>, which many are hailing as the best climate movie ever. <br><br>Here&#39;s the origin story, as told by Adam McKay. <a href=\"https://t.co/5CQXs3tz9k\">pic.twitter.com/5CQXs3tz9k</a></p>&mdash; David Sirota (@davidsirota) <a href=\"https://twitter.com/davidsirota/status/1471983273886711811?ref_src=twsrc%5Etfw\">December 17, 2021</a></blockquote>\n<script async src=\"https://platform.twitter.com/widgets.js\" charset=\"utf-8\"></script>\n",
+        "type": "twitter",
+        "metadata": {
+          "url": "https://twitter.com/davidsirota/status/1471983273886711811",
+          "author_name": "David Sirota",
+          "author_url": "https://twitter.com/davidsirota",
+          "width": 550,
+          "height": null,
+          "cache_age": "3153600000",
+          "provider_name": "Twitter",
+          "provider_url": "http://www.twitter.com/",
+          "version": "1.0",
+          "tweet_data": {
+            "author_id": "14855994",
+            "created_at": "2021-12-17T23:18:55.000Z",
+            "text": "Lots of friends have asked how we came up with #DontLookUp, which many are hailing as the best climate movie ever. \n\nHere's the origin story, as told by Adam McKay. https://t.co/5CQXs3tz9k",
+            "entities": {
+              "hashtags": [
+                {
+                  "start": 47,
+                  "end": 58,
+                  "tag": "DontLookUp"
+                }
+              ],
+              "annotations": [
+                {
+                  "start": 153,
+                  "end": 162,
+                  "probability": 0.996,
+                  "type": "Person",
+                  "normalized_text": "Adam McKay"
+                }
+              ],
+              "urls": [
+                {
+                  "start": 165,
+                  "end": 188,
+                  "url": "https://t.co/5CQXs3tz9k",
+                  "expanded_url": "https://twitter.com/davidsirota/status/1471983273886711811/video/1",
+                  "display_url": "pic.twitter.com/5CQXs3tz9k"
+                }
+              ]
+            },
+            "possibly_sensitive": false,
+            "attachments": {
+              "media_keys": [
+                "7_1471983119838416898"
+              ]
+            },
+            "context_annotations": [
+              {
+                "domain": {
+                  "id": "10",
+                  "name": "Person",
+                  "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                  "id": "1095670142766276608",
+                  "name": "Adam McKay",
+                  "description": "Adam McKay"
+                }
+              },
+              {
+                "domain": {
+                  "id": "86",
+                  "name": "Movie",
+                  "description": "A film like Rogue One: A Star Wars Story"
+                },
+                "entity": {
+                  "id": "1461347524858441736",
+                  "name": "Don't Look Up",
+                  "description": "Produced by Hyperobject Industries and Bluegrass Films, the film is set to receive a limited theatrical release on December 10, 2021, prior to streaming on Netflix on December 24, 2021."
+                }
+              },
+              {
+                "domain": {
+                  "id": "87",
+                  "name": "Movie Genre",
+                  "description": "A movie genre like Action"
+                },
+                "entity": {
+                  "id": "856977093191647233",
+                  "name": "Sci-fi & fantasy films",
+                  "description": "Sci-fi and fantasy"
+                }
+              }
+            ],
+            "source": "Twitter Web App",
+            "lang": "en",
+            "conversation_id": "1471983273886711811",
+            "reply_settings": "everyone",
+            "public_metrics": {
+              "retweet_count": 41,
+              "reply_count": 14,
+              "like_count": 179,
+              "quote_count": 9
+            },
+            "id": "1471983273886711811",
+            "includes": {
+              "media": [
+                {
+                  "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1471983119838416898/pu/img/FTaYc1g0Uz_AWWze.jpg",
+                  "height": 720,
+                  "duration_ms": 72701,
+                  "type": "video",
+                  "width": 1280,
+                  "public_metrics": {
+                    "view_count": 11425
+                  },
+                  "media_key": "7_1471983119838416898"
+                }
+              ],
+              "users": [
+                {
+                  "url": "https://t.co/Dp4VDU3DYH",
+                  "id": "14855994",
+                  "protected": false,
+                  "public_metrics": {
+                    "followers_count": 265412,
+                    "following_count": 3205,
+                    "tweet_count": 15682,
+                    "listed_count": 3930
+                  },
+                  "username": "davidsirota",
+                  "name": "David Sirota",
+                  "created_at": "2008-05-21T12:59:37.000Z",
+                  "location": "Denver, CO",
+                  "verified": true,
+                  "entities": {
+                    "url": {
+                      "urls": [
+                        {
+                          "start": 0,
+                          "end": 23,
+                          "url": "https://t.co/Dp4VDU3DYH",
+                          "expanded_url": "https://www.davidsirota.com",
+                          "display_url": "davidsirota.com"
+                        }
+                      ]
+                    },
+                    "description": {
+                      "urls": [
+                        {
+                          "start": 11,
+                          "end": 34,
+                          "url": "https://t.co/ya8Ws7vJUN",
+                          "expanded_url": "http://dailyposter.com",
+                          "display_url": "dailyposter.com"
+                        }
+                      ],
+                      "hashtags": [
+                        {
+                          "start": 36,
+                          "end": 47,
+                          "tag": "DontLookUp"
+                        },
+                        {
+                          "start": 61,
+                          "end": 70,
+                          "tag": "Meltdown"
+                        }
+                      ],
+                      "mentions": [
+                        {
+                          "start": 90,
+                          "end": 102,
+                          "username": "DailyPoster"
+                        },
+                        {
+                          "start": 112,
+                          "end": 123,
+                          "username": "JacobinMag"
+                        },
+                        {
+                          "start": 124,
+                          "end": 135,
+                          "username": "GuardianUS"
+                        },
+                        {
+                          "start": 147,
+                          "end": 158,
+                          "username": "EmilyforCO"
+                        }
+                      ]
+                    }
+                  },
+                  "profile_image_url": "https://pbs.twimg.com/profile_images/1406683775468118016/4gvCfJ-a_normal.jpg",
+                  "pinned_tweet_id": "1471983273886711811",
+                  "description": "Subscribe: https://t.co/ya8Ws7vJUN; #DontLookUp co-producer; #Meltdown producer/narrator; @DailyPoster founder; @JacobinMag/@GuardianUS columnist; @EmilyforCO's spouse"
+                }
+              ]
+            }
+          }
+        }
+      }
+    ],
+    [
+      "email-cta",
+      {
+        "showButton": true,
+        "showDividers": false,
+        "segment": "status:-free",
+        "alignment": "center",
+        "html": "",
+        "buttonText": "Click Here To Access The Live Chat",
+        "buttonUrl": "__GHOST_URL__/1-5-live-chat/"
+      }
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "email-cta",
+      {
+        "showButton": true,
+        "showDividers": false,
+        "segment": "status:-free",
+        "alignment": "center",
+        "html": "",
+        "buttonText": "Tip Jar",
+        "buttonUrl": "https://dailyposter.outpost.pub/ghost-integration/60818189ad12f332071054b8/tips"
+      }
+    ]
+  ],
+  "markups": [
+    [
+      "em"
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.netflix.com/title/81252357"
+      ]
+    ],
+    [
+      "strong"
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/1-5-live-chat/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://twitter.com/davidsirota/status/1471983273886711811?s=20"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://variety.com/2021/awards/awards/critics-choice-nominations-2021-1235131779/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://sffilm.org/sffilm-awards-2021-sloan-science-in-cinema-prize-to-adam-mckays-dont-look-up/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://slate.com/technology/2021/12/dont-look-up-netflix-climate-change-allegory.html"
+      ]
+    ]
+  ],
+  "sections": [
+    [
+      10,
+      0
+    ],
+    [
+      10,
+      1
+    ],
+    [
+      10,
+      2
+    ],
+    [
+      1,
+      "p",
+      []
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Today, our new film "
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "Don’t Look Up"
+        ],
+        [
+          0,
+          [],
+          0,
+          " is "
+        ],
+        [
+          0,
+          [
+            1
+          ],
+          1,
+          "available"
+        ],
+        [
+          0,
+          [],
+          0,
+          " on Netflix to hundreds of millions of people across the globe — and I’ve got some fun news: "
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "Daily Poster"
+        ],
+        [
+          0,
+          [],
+          0,
+          " subscribers will have the chance to talk to director Adam McKay about the movie at an exclusive live chat on Wednesday 1/5 at 6pm EST (3pm PT). "
+        ]
+      ]
+    ],
+    [
+      10,
+      3
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Like all our live chats, the event is exclusively for "
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "Daily Poster "
+        ],
+        [
+          0,
+          [],
+          0,
+          "supporting subscribers, who will be able to watch the broadcast live, ask questions in real time, and watch a replay of the event."
+        ],
+        [
+          0,
+          [
+            2,
+            0
+          ],
+          2,
+          " "
+        ],
+        [
+          0,
+          [
+            3
+          ],
+          1,
+          "Click here"
+        ],
+        [
+          0,
+          [],
+          0,
+          " to register and attend the event."
+        ]
+      ]
+    ],
+    [
+      10,
+      4
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "I co-produced and co-created the overall story of "
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "Don’t Look Up"
+        ],
+        [
+          0,
+          [],
+          0,
+          ", with Adam, who wrote the screenplay and directed the movie. I’m thrilled to see it being hailed as one the most important climate films ever. As the movie launches today, I feel tremendous gratitude to all of our "
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "Daily Poster"
+        ],
+        [
+          0,
+          [],
+          0,
+          " subscribers for supporting the journalism that is the foundation for this kind of project, which will send a powerful message to millions of people across the planet. As you will see when you watch it, this movie spotlights many themes, controversies, and power struggles that we report on every day here at "
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "The Daily Poster"
+        ],
+        [
+          0,
+          [],
+          0,
+          " — and we can only do that reporting thanks to you."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "This movie started out as so many things do: as a conversation between two longtime friends who were bemoaning the state of the world. Adam and I were lamenting how the political class and corporate media were ignoring the climate crisis threatening all life on the planet. At one point, I said the whole thing felt like an asteroid is heading toward Earth and nobody seems to care — and that became the seed of this film. You can "
+        ],
+        [
+          0,
+          [
+            4
+          ],
+          1,
+          "click here"
+        ],
+        [
+          0,
+          [],
+          0,
+          " to watch Adam recount this origin story with the cast."
+        ]
+      ]
+    ],
+    [
+      10,
+      5
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "In recent weeks, "
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "Don’t Look Up"
+        ],
+        [
+          0,
+          [],
+          0,
+          " has been "
+        ],
+        [
+          0,
+          [
+            5
+          ],
+          1,
+          "nominated for prestigious awards"
+        ],
+        [
+          0,
+          [],
+          0,
+          ", and has just been named the "
+        ],
+        [
+          0,
+          [
+            6
+          ],
+          1,
+          "winner"
+        ],
+        [
+          0,
+          [],
+          0,
+          " of the SFFILM Sloan Science in Cinema Prize, which recognizes outstanding achievement in the depiction of science. As "
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "Slate"
+        ],
+        [
+          0,
+          [],
+          0,
+          " wrote in its "
+        ],
+        [
+          0,
+          [
+            7
+          ],
+          1,
+          "review"
+        ],
+        [
+          0,
+          [],
+          0,
+          ", the movie leaves viewers “with a prescient warning: about the hubris of billionaires, the corruption of politicians, a myopic American culture that gives rise to both, and a nation that is woefully unprepared to lead the world in the face of any existential risk.”"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "When you watch the movie, please know that the film is not prophecy or destiny — it is a cautionary tale that sounds an alarm. We still have the time and the ability to avert the worst impacts of the cataclysms bearing down on us — but only if we face them head on and start making some big changes. I know this is possible in part because I know "
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "Daily Poster"
+        ],
+        [
+          0,
+          [],
+          0,
+          " subscribers are already doing so, and are already part of the battle to save our world."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Thanks again for all of your support of our work. I hope to see you on January 5 for our chat with Adam."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Rock the boat,"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Sirota"
+        ]
+      ]
+    ],
+    [
+      10,
+      6
+    ],
+    [
+      10,
+      7
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [
+            0,
+            2
+          ],
+          2,
+          "This live chat relies on readers pitching in to support our journalism. Please support "
+        ],
+        [
+          0,
+          [
+            2
+          ],
+          1,
+          "The Daily Poster"
+        ],
+        [
+          0,
+          [
+            0,
+            2
+          ],
+          2,
+          "'s work."
+        ]
+      ]
+    ],
+    [
+      10,
+      8
+    ]
+  ],
+  "ghostVersion": "4.0"
+}

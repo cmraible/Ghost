@@ -1,0 +1,1531 @@
+{
+  "root": {
+    "children": [
+      {
+        "children": [
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": "Six months since the Mastodon hype hit, after Musk mad hit clear he was going to make a terrible mess of Twitter, people are already starting to write it off as “failed”. I wonder how many of those people were using Twitter in the 2006 to 2008 period. Twitter only really became the platform we used to know when two things happened:",
+            "type": "text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "paragraph",
+        "version": 1
+      },
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "detail": 0,
+                "format": 0,
+                "mode": "normal",
+                "style": "",
+                "text": "The first Twitter apps emerged (it was all web and SMS for the first couple of years)",
+                "type": "text",
+                "version": 1
+              }
+            ],
+            "direction": "ltr",
+            "format": "",
+            "indent": 0,
+            "type": "listitem",
+            "value": 1,
+            "version": 1
+          },
+          {
+            "children": [
+              {
+                "detail": 0,
+                "format": 0,
+                "mode": "normal",
+                "style": "",
+                "text": "Then first celebrities got on there as a result.",
+                "type": "text",
+                "version": 1
+              }
+            ],
+            "direction": "ltr",
+            "format": "",
+            "indent": 0,
+            "type": "listitem",
+            "value": 2,
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "tag": "ul",
+        "type": "list",
+        "listType": "bullet",
+        "start": 1,
+        "version": 1
+      },
+      {
+        "children": [
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": "I am not one of those people. One of my final lectures on the Audience Strategy module I teach covered Mastodon as one of the possible platforms of the future. And I stand by that. Let’s look at a couple of graphs from that deck.",
+            "type": "text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "paragraph",
+        "version": 1
+      },
+      {
+        "children": [
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": "Mastodon by the numbers",
+            "type": "text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "heading",
+        "tag": "h2",
+        "version": 1
+      },
+      {
+        "type": "image",
+        "src": "__GHOST_URL__/content/images/2023/04/DraggedImage.png",
+        "caption": "<a href=\"http://www.deweysquare.com/wp-content/uploads/2023/03/DSG-Snapshot-of-the-Twitter-Migration-March-2023.pdf\">Source</a>"
+      },
+      {
+        "children": [
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": "By far, Mastodon is the primary place where people are focusing their attention if they’re drifting away from Twitter. (There’s also a significant drift to LinkedIn in a way that this chart doesn’t;’t capture, but that’s fodder for a future post).",
+            "type": "text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "paragraph",
+        "version": 1
+      },
+      {
+        "children": [
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": "User growth is well down from the peak, but after that initial rush of people, many of whom didn’t stay, we’re close to a plateau, and I suspect we’ll see a return to steady growth in the coming months:",
+            "type": "text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "paragraph",
+        "version": 1
+      },
+      {
+        "type": "image",
+        "src": "__GHOST_URL__/content/images/2023/04/DraggedImage-1.png",
+        "caption": "<a href=\"https://the-federation.info\">Source</a>"
+      },
+      {
+        "children": [],
+        "direction": null,
+        "format": "",
+        "indent": 0,
+        "type": "paragraph",
+        "version": 1
+      },
+      {
+        "children": [
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": "But, most interestingly for me, the activity there is well up:",
+            "type": "text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "paragraph",
+        "version": 1
+      },
+      {
+        "type": "image",
+        "src": "__GHOST_URL__/content/images/2023/04/DraggedImage-2.png",
+        "caption": ""
+      },
+      {
+        "children": [
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": "The people who are there are ",
+            "type": "text",
+            "version": 1
+          },
+          {
+            "detail": 0,
+            "format": 2,
+            "mode": "normal",
+            "style": "",
+            "text": "using",
+            "type": "text",
+            "version": 1
+          },
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": " Mastodon — and many are finding engagement much higher than that on Twitter. Twitter’s algorithm tends to reward a small number of high-attention accounts and posts, and generally provide only mediocre or poor attention to everything else. If you find your community on Mastodon, you can get real engagement, but not the high viral impact of Twitter posts. It’s a fundamentally different platform.",
+            "type": "text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "paragraph",
+        "version": 1
+      },
+      {
+        "children": [
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": "The case against Mastodon",
+            "type": "text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "heading",
+        "tag": "h2",
+        "version": 1
+      },
+      {
+        "children": [
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": "There are sceptics. Simon Owens, always one for liking what platforms do instead of more nebulous open systems (I have a mental Baekdal/Owen scale for media criticism: Baekdal is the platform sceptical end of the scale, and Owens the platform-enthusiast end), took at sideswipe at its future in passing as part of ",
+            "type": "text",
+            "version": 1
+          },
+          {
+            "children": [
+              {
+                "detail": 0,
+                "format": 0,
+                "mode": "normal",
+                "style": "",
+                "text": "a piece about Substack Notes",
+                "type": "text",
+                "version": 1
+              }
+            ],
+            "direction": "ltr",
+            "format": "",
+            "indent": 0,
+            "type": "link",
+            "rel": null,
+            "target": null,
+            "title": null,
+            "url": "https://simonowens.substack.com/p/substack-notes-could-be-the-twitter",
+            "version": 1
+          },
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": ":",
+            "type": "text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "paragraph",
+        "version": 1
+      },
+      {
+        "children": [
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": "While Mastodon does have a fervent and loyal user base, its decentralized framework makes the platform difficult to scale to the level that would make it a true Twitter killer. Its UI is clunky and the onboarding process is truly atrocious. It’s a great platform for power users, but I doubt it will ever attract the casual user base that can propel a social network into the mainstream.",
+            "type": "text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "quote",
+        "version": 1
+      },
+      {
+        "children": [
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": "He even has a subhead that reads “Why other Twitter competitors failed”, which is objectively wrong. The numbers above show that Mastodon is doing very nicely, thank you. Sure, it may have “failed” to kill Twitter, but that’s a flawed premise, for reasons I’ll discuss below.",
+            "type": "text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "paragraph",
+        "version": 1
+      },
+      {
+        "children": [
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": "No platform will be a Twitter killer",
+            "type": "text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "heading",
+        "tag": "h3",
+        "version": 1
+      },
+      {
+        "children": [
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": "The main problem with Owens’ argument is two-fold:",
+            "type": "text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "paragraph",
+        "version": 1
+      },
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "detail": 0,
+                "format": 0,
+                "mode": "normal",
+                "style": "",
+                "text": "It assumes that these experiences can’t change. They can and will, especially because much of the recent migration there is from the techie types who are currently hammering on the rough edges of the platform. Everyone forgets the sea change in Twitter usage when the first apps arrived. The Mastodon experience is changing rapidly — compare the way ",
+                "type": "text",
+                "version": 1
+              },
+              {
+                "children": [
+                  {
+                    "detail": 0,
+                    "format": 0,
+                    "mode": "normal",
+                    "style": "",
+                    "text": "Ivory",
+                    "type": "text",
+                    "version": 1
+                  }
+                ],
+                "direction": "ltr",
+                "format": "",
+                "indent": 0,
+                "type": "link",
+                "rel": null,
+                "target": null,
+                "title": null,
+                "url": "https://tapbots.com/ivory/",
+                "version": 1
+              },
+              {
+                "detail": 0,
+                "format": 0,
+                "mode": "normal",
+                "style": "",
+                "text": " onboards you to Mastodon, in contrast to the native experience.",
+                "type": "text",
+                "version": 1
+              }
+            ],
+            "direction": "ltr",
+            "format": "",
+            "indent": 0,
+            "type": "listitem",
+            "value": 1,
+            "version": 1
+          },
+          {
+            "children": [
+              {
+                "detail": 0,
+                "format": 0,
+                "mode": "normal",
+                "style": "",
+                "text": "From an audience perspective, there has never been only one major platform – and, outside a narrow band of media commentary and politics, Twitter has never been that big for traffic. Indeed, it’s relatively rare for one platform to displace and “kill” another. Owens’ thesis, that Substack Notes is a potential Twitter-killer, is inherently flawed because Twitter won’t be killed by a single platform. If it dies, it will die from a slow bleed of attention to multiple other places.",
+                "type": "text",
+                "version": 1
+              }
+            ],
+            "direction": "ltr",
+            "format": "",
+            "indent": 0,
+            "type": "listitem",
+            "value": 2,
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "tag": "ol",
+        "type": "list",
+        "listType": "number",
+        "start": 1,
+        "version": 1
+      },
+      {
+        "children": [
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": "Mastodon is creating a home for communities of interest",
+            "type": "text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "heading",
+        "tag": "h2",
+        "version": 1
+      },
+      {
+        "type": "image",
+        "src": "__GHOST_URL__/content/images/2023/04/journo-mammoth.jpg",
+        "width": 3072,
+        "height": 3072
+      },
+      {
+        "children": [
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": "Mastodon has been great at slowly capturing communities of ",
+            "type": "text",
+            "version": 1
+          },
+          {
+            "detail": 0,
+            "format": 2,
+            "mode": "normal",
+            "style": "",
+            "text": "interest",
+            "type": "text",
+            "version": 1
+          },
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": ", as Maz Hamilton pointed out in ",
+            "type": "text",
+            "version": 1
+          },
+          {
+            "children": [
+              {
+                "detail": 0,
+                "format": 0,
+                "mode": "normal",
+                "style": "",
+                "text": "a brief discussion on… Mastodon",
+                "type": "text",
+                "version": 1
+              }
+            ],
+            "direction": "ltr",
+            "format": "",
+            "indent": 0,
+            "type": "link",
+            "rel": null,
+            "target": null,
+            "title": null,
+            "url": "https://dice.camp/@maz/110184795566667935",
+            "version": 1
+          },
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": ":",
+            "type": "text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "paragraph",
+        "version": 1
+      },
+      {
+        "children": [
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": "I think a lot of the Twitter migration patterns among different communities start to make sense if you consider the relative importance of networks of interest vs networks of power. The latter thrive on status markers and therefore aren’t well suited to the fediverse as it’s currently operating. Useful lens for the whole blue tick schemozzle too.",
+            "type": "text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "quote",
+        "version": 1
+      },
+      {
+        "children": [
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": "And I think Anil Dash was spot on with this post:",
+            "type": "text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "paragraph",
+        "version": 1
+      },
+      {
+        "type": "embed",
+        "url": "https://twitter.com/anildash/status/1642714308248256513?s=61&t=spLC9CX5F6BUVy58ZLxHkA",
+        "html": "<blockquote class=\"twitter-tweet\"><p lang=\"en\" dir=\"ltr\">Mastodon isn’t on that chart? And it’s not optimized for conventional media types any more than Twitter was in 2007. Prestige media won’t go to the fediverse for another 2 years, same lag where they didn’t think Twitter existed until after Ashton Kutcher legitimized it.</p>&mdash; anildash.com (@anildash) <a href=\"https://twitter.com/anildash/status/1642714308248256513?ref_src=twsrc%5Etfw\">April 3, 2023</a></blockquote>\n<script async src=\"https://platform.twitter.com/widgets.js\" charset=\"utf-8\"></script>\n",
+        "metadata": {
+          "url": "https://twitter.com/anildash/status/1642714308248256513",
+          "author_name": "anildash.com",
+          "author_url": "https://twitter.com/anildash",
+          "width": 550,
+          "height": null,
+          "cache_age": "3153600000",
+          "provider_name": "Twitter",
+          "provider_url": "http://www.twitter.com/",
+          "version": "1.0",
+          "tweet_data": {
+            "edit_history_tweet_ids": [
+              "1642714308248256513"
+            ],
+            "possibly_sensitive": false,
+            "context_annotations": [
+              {
+                "domain": {
+                  "id": "10",
+                  "name": "Person",
+                  "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                  "id": "1052691557357219840",
+                  "name": "Anil Dash",
+                  "description": "Anil Dash"
+                }
+              },
+              {
+                "domain": {
+                  "id": "30",
+                  "name": "Entities [Entity Service]",
+                  "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain"
+                },
+                "entity": {
+                  "id": "781974596752842752",
+                  "name": "Services"
+                }
+              },
+              {
+                "domain": {
+                  "id": "46",
+                  "name": "Business Taxonomy",
+                  "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+                },
+                "entity": {
+                  "id": "1557696848252391426",
+                  "name": "Financial Services Business",
+                  "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks "
+                }
+              },
+              {
+                "domain": {
+                  "id": "47",
+                  "name": "Brand",
+                  "description": "Brands and Companies"
+                },
+                "entity": {
+                  "id": "10044977745",
+                  "name": "Snapchat"
+                }
+              },
+              {
+                "domain": {
+                  "id": "65",
+                  "name": "Interests and Hobbies Vertical",
+                  "description": "Top level interests and hobbies groupings, like Food or Travel"
+                },
+                "entity": {
+                  "id": "781974596148793345",
+                  "name": "Business & finance"
+                }
+              },
+              {
+                "domain": {
+                  "id": "65",
+                  "name": "Interests and Hobbies Vertical",
+                  "description": "Top level interests and hobbies groupings, like Food or Travel"
+                },
+                "entity": {
+                  "id": "781974596148793345",
+                  "name": "Business & finance"
+                }
+              },
+              {
+                "domain": {
+                  "id": "66",
+                  "name": "Interests and Hobbies Category",
+                  "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+                },
+                "entity": {
+                  "id": "857878777191211008",
+                  "name": "Leadership",
+                  "description": "Leadership"
+                }
+              },
+              {
+                "domain": {
+                  "id": "30",
+                  "name": "Entities [Entity Service]",
+                  "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain"
+                },
+                "entity": {
+                  "id": "857879456773357569",
+                  "name": "Technology",
+                  "description": "Technology"
+                }
+              },
+              {
+                "domain": {
+                  "id": "78",
+                  "name": "Video Game Publisher",
+                  "description": "A Video Game Publisher like 'Activision'"
+                },
+                "entity": {
+                  "id": "1575492107740934146",
+                  "name": "Prestige"
+                }
+              },
+              {
+                "domain": {
+                  "id": "131",
+                  "name": "Unified Twitter Taxonomy",
+                  "description": "A taxonomy of user interests. "
+                },
+                "entity": {
+                  "id": "1052691557357219840",
+                  "name": "Anil Dash",
+                  "description": "Anil Dash"
+                }
+              },
+              {
+                "domain": {
+                  "id": "131",
+                  "name": "Unified Twitter Taxonomy",
+                  "description": "A taxonomy of user interests. "
+                },
+                "entity": {
+                  "id": "1166406108623163392",
+                  "name": "Business personalities"
+                }
+              },
+              {
+                "domain": {
+                  "id": "10",
+                  "name": "Person",
+                  "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                  "id": "806969173607727104",
+                  "name": "Ashton Kutcher",
+                  "description": "Ashton Kutcher"
+                }
+              },
+              {
+                "domain": {
+                  "id": "47",
+                  "name": "Brand",
+                  "description": "Brands and Companies"
+                },
+                "entity": {
+                  "id": "10045225402",
+                  "name": "Twitter"
+                }
+              },
+              {
+                "domain": {
+                  "id": "56",
+                  "name": "Actor",
+                  "description": "An actor or actress in the world, like Kate Winslet or Leonardo DiCaprio"
+                },
+                "entity": {
+                  "id": "806969173607727104",
+                  "name": "Ashton Kutcher",
+                  "description": "Ashton Kutcher"
+                }
+              },
+              {
+                "domain": {
+                  "id": "131",
+                  "name": "Unified Twitter Taxonomy",
+                  "description": "A taxonomy of user interests. "
+                },
+                "entity": {
+                  "id": "806969173607727104",
+                  "name": "Ashton Kutcher",
+                  "description": "Ashton Kutcher"
+                }
+              },
+              {
+                "domain": {
+                  "id": "131",
+                  "name": "Unified Twitter Taxonomy",
+                  "description": "A taxonomy of user interests. "
+                },
+                "entity": {
+                  "id": "1095352268046495745",
+                  "name": "Celebrities",
+                  "description": "Celebrities"
+                }
+              },
+              {
+                "domain": {
+                  "id": "131",
+                  "name": "Unified Twitter Taxonomy",
+                  "description": "A taxonomy of user interests. "
+                },
+                "entity": {
+                  "id": "1303715075421646849",
+                  "name": "Actors"
+                }
+              }
+            ],
+            "created_at": "2023-04-03T02:23:05.000Z",
+            "public_metrics": {
+              "retweet_count": 3,
+              "reply_count": 3,
+              "like_count": 10,
+              "quote_count": 0,
+              "impression_count": 1430
+            },
+            "reply_settings": "everyone",
+            "lang": "en",
+            "in_reply_to_user_id": "989",
+            "id": "1642714308248256513",
+            "entities": {
+              "mentions": [
+                {
+                  "start": 0,
+                  "end": 3,
+                  "username": "om",
+                  "id": "989"
+                },
+                {
+                  "start": 4,
+                  "end": 15,
+                  "username": "semaforben",
+                  "id": "9532402"
+                },
+                {
+                  "start": 16,
+                  "end": 25,
+                  "username": "Snapchat",
+                  "id": "376502929"
+                }
+              ],
+              "annotations": [
+                {
+                  "start": 26,
+                  "end": 33,
+                  "probability": 0.3613,
+                  "type": "Place",
+                  "normalized_text": "Mastodon"
+                },
+                {
+                  "start": 122,
+                  "end": 128,
+                  "probability": 0.9771,
+                  "type": "Other",
+                  "normalized_text": "Twitter"
+                },
+                {
+                  "start": 238,
+                  "end": 244,
+                  "probability": 0.953,
+                  "type": "Other",
+                  "normalized_text": "Twitter"
+                },
+                {
+                  "start": 266,
+                  "end": 279,
+                  "probability": 0.9676,
+                  "type": "Person",
+                  "normalized_text": "Ashton Kutcher"
+                }
+              ]
+            },
+            "conversation_id": "1642692639056343040",
+            "referenced_tweets": [
+              {
+                "type": "replied_to",
+                "id": "1642701838003871745"
+              }
+            ],
+            "author_id": "36823",
+            "text": "@om @semaforben @Snapchat Mastodon isn’t on that chart? And it’s not optimized for conventional media types any more than Twitter was in 2007. Prestige media won’t go to the fediverse for another 2 years, same lag where they didn’t think Twitter existed until after Ashton Kutcher legitimized it.",
+            "includes": {
+              "users": [
+                {
+                  "verified": true,
+                  "pinned_tweet_id": "1613597389104742411",
+                  "entities": {
+                    "url": {
+                      "urls": [
+                        {
+                          "start": 0,
+                          "end": 23,
+                          "url": "https://t.co/Jk98rJi2re",
+                          "expanded_url": "https://anildash.com/",
+                          "display_url": "anildash.com"
+                        }
+                      ]
+                    },
+                    "description": {
+                      "mentions": [
+                        {
+                          "start": 15,
+                          "end": 22,
+                          "username": "glitch"
+                        },
+                        {
+                          "start": 38,
+                          "end": 42,
+                          "username": "eff"
+                        },
+                        {
+                          "start": 43,
+                          "end": 55,
+                          "username": "girlsclubny"
+                        },
+                        {
+                          "start": 56,
+                          "end": 66,
+                          "username": "themarkup"
+                        }
+                      ]
+                    }
+                  },
+                  "description": "helping make 🎏 @glitch • board member @eff @girlsclubny @themarkup • over at @anildash@me.dm now • used to be well-known on here when Twitter still mattered",
+                  "profile_image_url": "https://pbs.twimg.com/profile_images/1593220093433057281/tYEbecqQ_normal.jpg",
+                  "created_at": "2006-12-02T09:15:15.000Z",
+                  "username": "anildash",
+                  "public_metrics": {
+                    "followers_count": 570916,
+                    "following_count": 2231,
+                    "tweet_count": 251797,
+                    "listed_count": 8337
+                  },
+                  "url": "https://t.co/Jk98rJi2re",
+                  "name": "anildash.com",
+                  "protected": false,
+                  "location": "NYC",
+                  "id": "36823"
+                },
+                {
+                  "verified": true,
+                  "pinned_tweet_id": "1597972793504645122",
+                  "entities": {
+                    "url": {
+                      "urls": [
+                        {
+                          "start": 0,
+                          "end": 23,
+                          "url": "https://t.co/w2JPTCI3Ic",
+                          "expanded_url": "https://om.co/newsletters/",
+                          "display_url": "om.co/newsletters/"
+                        }
+                      ]
+                    },
+                    "description": {
+                      "urls": [
+                        {
+                          "start": 75,
+                          "end": 98,
+                          "url": "https://t.co/bsm7q5FzIT",
+                          "expanded_url": "http://om.co",
+                          "display_url": "om.co"
+                        },
+                        {
+                          "start": 111,
+                          "end": 134,
+                          "url": "https://t.co/V3CysXbJnu",
+                          "expanded_url": "http://Om.blog",
+                          "display_url": "Om.blog"
+                        },
+                        {
+                          "start": 169,
+                          "end": 192,
+                          "url": "https://t.co/DlJUkufF1R",
+                          "expanded_url": "http://om.co/newsletters/",
+                          "display_url": "om.co/newsletters/"
+                        }
+                      ],
+                      "mentions": [
+                        {
+                          "start": 17,
+                          "end": 30,
+                          "username": "Trueventures"
+                        }
+                      ]
+                    }
+                  },
+                  "description": "Partner emeritus @Trueventures I was a reporter once. I write about tech @ https://t.co/bsm7q5FzIT  My Tumblr: https://t.co/V3CysXbJnu. Subscribe to my FREE Newsletter: https://t.co/DlJUkufF1R",
+                  "profile_image_url": "https://pbs.twimg.com/profile_images/895351217487921152/UTMFqZPD_normal.jpg",
+                  "created_at": "2006-07-15T05:53:13.000Z",
+                  "username": "om",
+                  "public_metrics": {
+                    "followers_count": 1265872,
+                    "following_count": 1697,
+                    "tweet_count": 63943,
+                    "listed_count": 12967
+                  },
+                  "url": "https://t.co/w2JPTCI3Ic",
+                  "name": "OM",
+                  "protected": false,
+                  "location": "ÜT: 37.795917,-122.39966",
+                  "id": "989"
+                },
+                {
+                  "verified": true,
+                  "entities": {
+                    "url": {
+                      "urls": [
+                        {
+                          "start": 0,
+                          "end": 23,
+                          "url": "https://t.co/O76m3ojLVR",
+                          "expanded_url": "http://www.semafor.com",
+                          "display_url": "semafor.com"
+                        }
+                      ]
+                    },
+                    "description": {
+                      "mentions": [
+                        {
+                          "start": 19,
+                          "end": 27,
+                          "username": "semafor"
+                        },
+                        {
+                          "start": 36,
+                          "end": 44,
+                          "username": "nytimes"
+                        },
+                        {
+                          "start": 62,
+                          "end": 75,
+                          "username": "buzzfeednews"
+                        }
+                      ]
+                    }
+                  },
+                  "description": "Editor-in-chief of @semafor. Former @nytimes media columnist, @buzzfeednews EIC. Fireworks enthusiast. bsmith@semafor.com",
+                  "profile_image_url": "https://pbs.twimg.com/profile_images/1154905038755700737/GnV1kdPz_normal.jpg",
+                  "created_at": "2007-10-19T00:25:20.000Z",
+                  "username": "semaforben",
+                  "public_metrics": {
+                    "followers_count": 342614,
+                    "following_count": 782,
+                    "tweet_count": 139424,
+                    "listed_count": 7879
+                  },
+                  "url": "https://t.co/O76m3ojLVR",
+                  "name": "Ben Smith",
+                  "protected": false,
+                  "location": "Brooklyn, NY",
+                  "id": "9532402"
+                },
+                {
+                  "verified": true,
+                  "pinned_tweet_id": "1646136095141408769",
+                  "entities": {
+                    "url": {
+                      "urls": [
+                        {
+                          "start": 0,
+                          "end": 23,
+                          "url": "https://t.co/ei6BwS7RqM",
+                          "expanded_url": "http://SnapPartnerSummit.com",
+                          "display_url": "SnapPartnerSummit.com"
+                        }
+                      ]
+                    }
+                  },
+                  "description": "Wait'll you see this.",
+                  "profile_image_url": "https://pbs.twimg.com/profile_images/1607410723227054082/RaQz46j7_normal.jpg",
+                  "created_at": "2011-09-20T00:35:44.000Z",
+                  "username": "Snapchat",
+                  "public_metrics": {
+                    "followers_count": 2365823,
+                    "following_count": 18,
+                    "tweet_count": 7957,
+                    "listed_count": 4527
+                  },
+                  "url": "https://t.co/ei6BwS7RqM",
+                  "name": "Snapchat",
+                  "protected": false,
+                  "location": "Los Angeles, CA",
+                  "id": "376502929"
+                }
+              ],
+              "tweets": [
+                {
+                  "edit_history_tweet_ids": [
+                    "1642701838003871745"
+                  ],
+                  "possibly_sensitive": false,
+                  "context_annotations": [
+                    {
+                      "domain": {
+                        "id": "30",
+                        "name": "Entities [Entity Service]",
+                        "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain"
+                      },
+                      "entity": {
+                        "id": "781974596752842752",
+                        "name": "Services"
+                      }
+                    },
+                    {
+                      "domain": {
+                        "id": "47",
+                        "name": "Brand",
+                        "description": "Brands and Companies"
+                      },
+                      "entity": {
+                        "id": "10044977745",
+                        "name": "Snapchat"
+                      }
+                    },
+                    {
+                      "domain": {
+                        "id": "47",
+                        "name": "Brand",
+                        "description": "Brands and Companies"
+                      },
+                      "entity": {
+                        "id": "1364653904433045506",
+                        "name": "Aposto!"
+                      }
+                    },
+                    {
+                      "domain": {
+                        "id": "47",
+                        "name": "Brand",
+                        "description": "Brands and Companies"
+                      },
+                      "entity": {
+                        "id": "10045225402",
+                        "name": "Twitter"
+                      }
+                    }
+                  ],
+                  "created_at": "2023-04-03T01:33:32.000Z",
+                  "attachments": {
+                    "media_keys": [
+                      "3_1642701473950875648"
+                    ]
+                  },
+                  "public_metrics": {
+                    "retweet_count": 8,
+                    "reply_count": 3,
+                    "like_count": 19,
+                    "quote_count": 5,
+                    "impression_count": 18988
+                  },
+                  "entities": {
+                    "urls": [
+                      {
+                        "start": 187,
+                        "end": 210,
+                        "url": "https://t.co/8E1XBBguWG",
+                        "expanded_url": "https://twitter.com/om/status/1642701838003871745/photo/1",
+                        "display_url": "pic.twitter.com/8E1XBBguWG",
+                        "media_key": "3_1642701473950875648"
+                      }
+                    ],
+                    "mentions": [
+                      {
+                        "start": 23,
+                        "end": 34,
+                        "username": "semaforben",
+                        "id": "9532402"
+                      },
+                      {
+                        "start": 150,
+                        "end": 159,
+                        "username": "Snapchat",
+                        "id": "376502929"
+                      }
+                    ],
+                    "annotations": [
+                      {
+                        "start": 102,
+                        "end": 109,
+                        "probability": 0.4367,
+                        "type": "Place",
+                        "normalized_text": "Mastodon"
+                      },
+                      {
+                        "start": 123,
+                        "end": 129,
+                        "probability": 0.9429,
+                        "type": "Other",
+                        "normalized_text": "Twitter"
+                      }
+                    ]
+                  },
+                  "reply_settings": "everyone",
+                  "lang": "en",
+                  "in_reply_to_user_id": "989",
+                  "id": "1642701838003871745",
+                  "conversation_id": "1642692639056343040",
+                  "referenced_tweets": [
+                    {
+                      "type": "replied_to",
+                      "id": "1642692639056343040"
+                    }
+                  ],
+                  "author_id": "989",
+                  "text": "Interesting graphic in @semaforben newsletter today — no one in media is mentioning increased time on Mastodon but more on Twitter for sure! And poor @Snapchat still can’t catch a break. https://t.co/8E1XBBguWG"
+                }
+              ]
+            }
+          }
+        },
+        "embedType": "twitter"
+      },
+      {
+        "children": [
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": "Journalists like both the ",
+            "type": "text",
+            "version": 1
+          },
+          {
+            "detail": 0,
+            "format": 2,
+            "mode": "normal",
+            "style": "",
+            "text": "traffic",
+            "type": "text",
+            "version": 1
+          },
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": " from Twitter but also, and perhaps most importantly, the ",
+            "type": "text",
+            "version": 1
+          },
+          {
+            "detail": 0,
+            "format": 2,
+            "mode": "normal",
+            "style": "",
+            "text": "status",
+            "type": "text",
+            "version": 1
+          },
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": " it conveys, as the traffic was always marginal. As ",
+            "type": "text",
+            "version": 1
+          },
+          {
+            "children": [
+              {
+                "detail": 0,
+                "format": 0,
+                "mode": "normal",
+                "style": "",
+                "text": "Ian Betteridge",
+                "type": "text",
+                "version": 1
+              }
+            ],
+            "direction": "ltr",
+            "format": "",
+            "indent": 0,
+            "type": "link",
+            "rel": null,
+            "target": null,
+            "title": null,
+            "url": "https://ianbetteridge.com/2023/04/10/just-why-do-journalists-love-twitter-so-much/",
+            "version": 1
+          },
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": " put it:",
+            "type": "text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "paragraph",
+        "version": 1
+      },
+      {
+        "children": [
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": "Some journalists have made their careers through being noticed by other journalists on Twitter: there is an entire coterie of political journalists, for example, who have become “big beasts” because of the attention they get there, not from ordinary people, but from other journalists.",
+            "type": "text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "quote",
+        "version": 1
+      },
+      {
+        "children": [
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": "You’re not going to get that on Mastodon — yet.",
+            "type": "text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "paragraph",
+        "version": 1
+      },
+      {
+        "children": [
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": "The Mastodon acceleration",
+            "type": "text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "heading",
+        "tag": "h2",
+        "version": 1
+      },
+      {
+        "children": [
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": "We’re going through an accelerated ",
+            "type": "text",
+            "version": 1
+          },
+          {
+            "children": [
+              {
+                "detail": 0,
+                "format": 0,
+                "mode": "normal",
+                "style": "",
+                "text": "Gartner Hype Cycle",
+                "type": "text",
+                "version": 1
+              }
+            ],
+            "direction": "ltr",
+            "format": "",
+            "indent": 0,
+            "type": "link",
+            "rel": null,
+            "target": null,
+            "title": null,
+            "url": "https://en.wikipedia.org/wiki/Gartner_hype_cycle",
+            "version": 1
+          },
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": " on Mastodon. And the great thing about the platform is that, while we’re in the trough of disillusionment with the service, work is going on behind the scenes. There are moves afoot to integrate WordPress, Medium and Tumblr (among others) with ActivityPub, which is the underlying open protocol behind Mastodon.",
+            "type": "text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "paragraph",
+        "version": 1
+      },
+      {
+        "children": [
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": "The Mastodon of 2025 will be a significantly different place than in 2023. And you’d be stupid to ignore that just because Substack has done something cool — but also something very self-serving. (And yes, I’ll write about Notes next.)",
+            "type": "text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "paragraph",
+        "version": 1
+      },
+      {
+        "children": [
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": "What to do about Mastodon?",
+            "type": "text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "heading",
+        "tag": "h2",
+        "version": 1
+      },
+      {
+        "children": [
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": "Simply put, any audience team who is serious about long-term traffic development needs to keep monitoring it. They should have accounts there, even if submarine ones, to keep a check on the development of the platform. And, critically, they should keep checking to see if their audience are there in any significant numbers.",
+            "type": "text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "paragraph",
+        "version": 1
+      },
+      {
+        "children": [
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": "Should you throw significant resources at Mastodon?",
+            "type": "text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "paragraph",
+        "version": 1
+      },
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "detail": 0,
+                "format": 0,
+                "mode": "normal",
+                "style": "",
+                "text": "If you find evidence your audience is there, yes",
+                "type": "text",
+                "version": 1
+              }
+            ],
+            "direction": "ltr",
+            "format": "",
+            "indent": 0,
+            "type": "listitem",
+            "value": 1,
+            "version": 1
+          },
+          {
+            "children": [
+              {
+                "detail": 0,
+                "format": 0,
+                "mode": "normal",
+                "style": "",
+                "text": "If you can’t find evidence your audience is there, no yet. But adopt a long-term monitoring and experimentation approach.",
+                "type": "text",
+                "version": 1
+              }
+            ],
+            "direction": "ltr",
+            "format": "",
+            "indent": 0,
+            "type": "listitem",
+            "value": 2,
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "tag": "ul",
+        "type": "list",
+        "listType": "bullet",
+        "start": 1,
+        "version": 1
+      },
+      {
+        "children": [
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": "Mastodon will almost certainly be a part of the long-term future of social media. But how big it will be, and the number of sectors where it will be relevant, remains an open question. It would be remiss of us not to keep a careful eye on it in the coming months.",
+            "type": "text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "paragraph",
+        "version": 1
+      }
+    ],
+    "direction": "ltr",
+    "format": "",
+    "indent": 0,
+    "type": "root",
+    "version": 1
+  }
+}

@@ -1,0 +1,432 @@
+{
+  "version": "0.3.1",
+  "atoms": [],
+  "cards": [
+    [
+      "hr",
+      {}
+    ],
+    [
+      "embed",
+      {
+        "url": "https://twitter.com/GoldnerTV/status/1653507905889419264?s=20",
+        "html": "<blockquote class=\"twitter-tweet\"><p lang=\"en\" dir=\"ltr\">Mantua Twp Police are looking for this vehicle, which, they say, was involved in the theft of two luxury cars from a locked garage. Police say the thieves are part of a sophisticated organized luxury car theft ring based out of North Jersey. The story today on <a href=\"https://twitter.com/CBSPhiladelphia?ref_src=twsrc%5Etfw\">@CBSPhiladelphia</a>. <a href=\"https://t.co/JmpV8oCFoM\">pic.twitter.com/JmpV8oCFoM</a></p>&mdash; Brandon Goldner (@GoldnerTV) <a href=\"https://twitter.com/GoldnerTV/status/1653507905889419264?ref_src=twsrc%5Etfw\">May 2, 2023</a></blockquote>\n<script async src=\"https://platform.twitter.com/widgets.js\" charset=\"utf-8\"></script>\n",
+        "type": "twitter",
+        "metadata": {
+          "url": "https://twitter.com/GoldnerTV/status/1653507905889419264",
+          "author_name": "Brandon Goldner",
+          "author_url": "https://twitter.com/GoldnerTV",
+          "width": 550,
+          "height": null,
+          "cache_age": "3153600000",
+          "provider_name": "Twitter",
+          "provider_url": "http://www.twitter.com/",
+          "version": "1.0",
+          "tweet_data": {
+            "attachments": {
+              "media_keys": [
+                "3_1653507632282456067",
+                "3_1653507632307601411"
+              ]
+            },
+            "conversation_id": "1653507905889419264",
+            "public_metrics": {
+              "retweet_count": 1,
+              "reply_count": 3,
+              "like_count": 1,
+              "quote_count": 0,
+              "impression_count": 2276
+            },
+            "possibly_sensitive": false,
+            "text": "Mantua Twp Police are looking for this vehicle, which, they say, was involved in the theft of two luxury cars from a locked garage. Police say the thieves are part of a sophisticated organized luxury car theft ring based out of North Jersey. The story today on @CBSPhiladelphia. https://t.co/JmpV8oCFoM",
+            "author_id": "289610868",
+            "context_annotations": [
+              {
+                "domain": {
+                  "id": "46",
+                  "name": "Business Taxonomy",
+                  "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+                },
+                "entity": {
+                  "id": "1557696420500541440",
+                  "name": "Automotive, Aircraft & Boat Business",
+                  "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to automobile, spacecraft, aircraft and boat manufacturing"
+                }
+              },
+              {
+                "domain": {
+                  "id": "65",
+                  "name": "Interests and Hobbies Vertical",
+                  "description": "Top level interests and hobbies groupings, like Food or Travel"
+                },
+                "entity": {
+                  "id": "847528391163092993",
+                  "name": "Automotive",
+                  "description": "Car culture"
+                }
+              },
+              {
+                "domain": {
+                  "id": "66",
+                  "name": "Interests and Hobbies Category",
+                  "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+                },
+                "entity": {
+                  "id": "847528646185070592",
+                  "name": "Luxury Cars",
+                  "description": "Luxury"
+                }
+              }
+            ],
+            "entities": {
+              "annotations": [
+                {
+                  "start": 0,
+                  "end": 9,
+                  "probability": 0.6536,
+                  "type": "Other",
+                  "normalized_text": "Mantua Twp"
+                },
+                {
+                  "start": 228,
+                  "end": 239,
+                  "probability": 0.9013,
+                  "type": "Place",
+                  "normalized_text": "North Jersey"
+                }
+              ],
+              "urls": [
+                {
+                  "start": 279,
+                  "end": 302,
+                  "url": "https://t.co/JmpV8oCFoM",
+                  "expanded_url": "https://twitter.com/GoldnerTV/status/1653507905889419264/photo/1",
+                  "display_url": "pic.twitter.com/JmpV8oCFoM",
+                  "media_key": "3_1653507632282456067"
+                },
+                {
+                  "start": 279,
+                  "end": 302,
+                  "url": "https://t.co/JmpV8oCFoM",
+                  "expanded_url": "https://twitter.com/GoldnerTV/status/1653507905889419264/photo/1",
+                  "display_url": "pic.twitter.com/JmpV8oCFoM",
+                  "media_key": "3_1653507632307601411"
+                }
+              ],
+              "mentions": [
+                {
+                  "start": 261,
+                  "end": 277,
+                  "username": "CBSPhiladelphia",
+                  "id": "16083576"
+                }
+              ]
+            },
+            "id": "1653507905889419264",
+            "lang": "en",
+            "created_at": "2023-05-02T21:13:00.000Z",
+            "reply_settings": "everyone",
+            "edit_history_tweet_ids": [
+              "1653507905889419264"
+            ],
+            "includes": {
+              "media": [
+                {
+                  "media_key": "3_1653507632282456067",
+                  "width": 2048,
+                  "url": "https://pbs.twimg.com/media/FvJwbk-X0AMSEHv.jpg",
+                  "height": 1536,
+                  "type": "photo"
+                },
+                {
+                  "media_key": "3_1653507632307601411",
+                  "width": 960,
+                  "url": "https://pbs.twimg.com/media/FvJwblEXgAM6lZp.jpg",
+                  "height": 720,
+                  "type": "photo"
+                }
+              ],
+              "users": [
+                {
+                  "public_metrics": {
+                    "followers_count": 2090,
+                    "following_count": 1431,
+                    "tweet_count": 8234,
+                    "listed_count": 92
+                  },
+                  "created_at": "2011-04-28T23:11:15.000Z",
+                  "name": "Brandon Goldner",
+                  "verified": false,
+                  "username": "GoldnerTV",
+                  "profile_image_url": "https://pbs.twimg.com/profile_images/1534572835645136898/uUhm5Oq1_normal.jpg",
+                  "entities": {
+                    "url": {
+                      "urls": [
+                        {
+                          "start": 0,
+                          "end": 23,
+                          "url": "https://t.co/BkPqYIlIAG",
+                          "expanded_url": "https://philadelphia.cbslocal.com/",
+                          "display_url": "philadelphia.cbslocal.com"
+                        }
+                      ]
+                    },
+                    "description": {
+                      "hashtags": [
+                        {
+                          "start": 134,
+                          "end": 146,
+                          "tag": "MerrillMade"
+                        }
+                      ],
+                      "mentions": [
+                        {
+                          "start": 28,
+                          "end": 44,
+                          "username": "CBSPhiladelphia"
+                        },
+                        {
+                          "start": 78,
+                          "end": 83,
+                          "username": "WCNC"
+                        },
+                        {
+                          "start": 85,
+                          "end": 91,
+                          "username": "WNCT9"
+                        },
+                        {
+                          "start": 94,
+                          "end": 109,
+                          "username": "MerrillCollege"
+                        }
+                      ]
+                    }
+                  },
+                  "url": "https://t.co/BkPqYIlIAG",
+                  "protected": false,
+                  "description": "Award-winning T.V. reporter @CBSPhiladelphia primarily covering South Jersey. @WCNC, @WNCT9 & @MerrillCollege alum. Baltimore native. #MerrillMade",
+                  "location": "Philadelphia",
+                  "id": "289610868"
+                },
+                {
+                  "public_metrics": {
+                    "followers_count": 221170,
+                    "following_count": 1281,
+                    "tweet_count": 301442,
+                    "listed_count": 2457
+                  },
+                  "created_at": "2008-09-01T15:25:37.000Z",
+                  "name": "CBS Philadelphia",
+                  "verified": false,
+                  "username": "CBSPhiladelphia",
+                  "profile_image_url": "https://pbs.twimg.com/profile_images/1646965819807617035/P3-gJDkm_normal.jpg",
+                  "entities": {
+                    "url": {
+                      "urls": [
+                        {
+                          "start": 0,
+                          "end": 23,
+                          "url": "https://t.co/aZO55MyiNy",
+                          "expanded_url": "https://cbsphiladelphia.com/",
+                          "display_url": "cbsphiladelphia.com"
+                        }
+                      ]
+                    }
+                  },
+                  "url": "https://t.co/aZO55MyiNy",
+                  "protected": false,
+                  "description": "We uncover the heart behind the headline",
+                  "location": "Philadelphia, PA",
+                  "id": "16083576"
+                }
+              ]
+            }
+          }
+        }
+      }
+    ]
+  ],
+  "markups": [
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/articles/news/criminals-steal-chevy-camaro/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/articles/news/1968-chevy-camaro-stolen-from-garage/"
+      ]
+    ],
+    [
+      "strong"
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/articles/news/car-thieves-hide-devices/"
+      ]
+    ]
+  ],
+  "sections": [
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "They’re breaking into residential garages to steal high-end vehicles…"
+        ]
+      ]
+    ],
+    [
+      10,
+      0
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "We’ve said it before and we’ll say it again: "
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "garage door openers aren’t security devices"
+        ],
+        [
+          0,
+          [],
+          0,
+          ". Sadly, the US and Canada have been civilized enough in the past few decades for people to get comfortable, essentially treating their garage door openers like they’re giant deadbolts. But criminals like a car theft ring in northern New Jersey are reminding everyone "
+        ],
+        [
+          0,
+          [
+            1
+          ],
+          1,
+          "that’s far from the case"
+        ],
+        [
+          0,
+          [],
+          0,
+          "."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [
+            2
+          ],
+          0,
+          "Learn how thieves hide theft electronics in plain sight "
+        ],
+        [
+          0,
+          [
+            3
+          ],
+          1,
+          "here"
+        ],
+        [
+          0,
+          [],
+          1,
+          "."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Authorities are on the hunt for the group which they say recently used an RFID reader to open a residential garage door, swiping a Ram TRX and Range Rover parked inside. This is being characterized as a “sophisticated” technological move, but in all honesty this tech has been around for some time."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "CBS News spoke with a neighbor of the house that was hit, and that resident seems to believe the solution is adding more cameras to her house. The thing is authorities have footage of the Jeep Grand Cherokee used by the thieves, but we can guarantee that vehicle is stolen as well, a fact police have confirmed. Smart thieves don’t drive their personal vehicles when they’re out on the prowl."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "There are other ways to defeat garage door openers, making them notoriously insecure to thieves who know a thing or two. That’s why you should always lock the door between your garage and house at night, otherwise a car theft could become a home invasion robbery."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "It’s also wise to look into ways of securing the garage door manually if you’re concerned about nighttime heists. There are many ways to do that, including many doors coming with such a provision. We don’t want to make too specific of recommendations since we’re sure thieves read these articles as well."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "In the meantime, we hope police catch up with these thieves soon."
+        ]
+      ]
+    ],
+    [
+      10,
+      1
+    ],
+    [
+      1,
+      "p",
+      []
+    ]
+  ],
+  "ghostVersion": "4.0"
+}

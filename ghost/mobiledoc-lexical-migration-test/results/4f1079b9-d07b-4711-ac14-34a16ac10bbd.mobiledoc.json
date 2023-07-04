@@ -1,0 +1,424 @@
+{
+  "version": "0.3.1",
+  "atoms": [
+    [
+      "soft-return",
+      "",
+      {}
+    ]
+  ],
+  "cards": [
+    [
+      "hr",
+      {}
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "html",
+      {
+        "html": "<table id=\"production-numbers-table\">\n<tbody>\n\t<tr>\n\t\t<td>442</td>\n\t\t<td>25,003</td>\n\t</tr>\n\t\t<td><b>Total Production</b></td>\n\t\t<td><b>25,003</b></td>\n\t</tr>\n</tbody>\n</table>"
+      }
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "html",
+      {
+        "html": "<table id=\"performance-specs-table\">\n<tbody>\n\t<tr>\n\t\t<th><b>Engine</b></th>\n\t\t<th><b>Size</b></td>\n\t\t<th><b>Carb.</b></td>\n\t\t<th><b>HP</b></td>\n\t\t<th><b>Torque</b></td>\n\t\t<th><b>0 to 60</b></td>\n\t\t<th><b>Quarter mile</b></td>\n\t</tr>\n\t<tr>\n\t\t<td>400 V8</td>\n\t\t<td>400ci</td>\n\t\t<td>1x4bbl</td>\n\t\t<td>345</td>\n\t\t<td>440 lb-ft</td>\n\t\t<td>5.5 sec</td>\n\t\t<td>15.0 sec @ 98 mph</td>\n\t</tr>\n</tbody>\n</table>"
+      }
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "html",
+      {
+        "html": "<h4 id='colors-sub-heading'>Exterior</h4>\n<div class=\"colors-row\">\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #000000\"></div>\n        <div class=\"color-name\">Ebony Black</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #2d313d\"></div>\n        <div class=\"color-name\">Nocturne Mist</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #e1dcc9\"></div>\n        <div class=\"color-name\">Provincial White</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #5f7594\"></div>\n        <div class=\"color-name\">Lucerne Blue</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #788580\"></div>\n        <div class=\"color-name\">Laurel Mist</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #2f3e45\"></div>\n        <div class=\"color-name\">Forest Mist</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #689097\"></div>\n        <div class=\"color-name\">Ocean Mist</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #223743\"></div>\n        <div class=\"color-name\">Turquoise Mist</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #4a2429\"></div>\n        <div class=\"color-name\">Burgundy Mist</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #832422\"></div>\n        <div class=\"color-name\">Target Red</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #9f9886\"></div>\n        <div class=\"color-name\">Mojave Mist</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #beb498\"></div>\n        <div class=\"color-name\">Almond Beige</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #798b98\"></div>\n        <div class=\"color-name\">Sterling Mist</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #fdeda5\"></div>\n        <div class=\"color-name\">Saffron Yellow</div>\n    </div>\n</div>\n\n<h4 id='colors-sub-heading'>Interior</h4>\n<div class=\"colors-row\">\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #f57575\"></div>\n        <div class=\"color-name\">Black</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #6d8b9c\"></div>\n        <div class=\"color-name\">Lt. Blue</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #821519\"></div>\n        <div class=\"color-name\">Red</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #e3decb\"></div>\n        <div class=\"color-name\">Off White</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #c2c3b5\"></div>\n        <div class=\"color-name\">Pearl</div>\n    </div>\n</div>"
+      }
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "gallery",
+      {
+        "images": [
+          {
+            "fileName": "1965 Oldsmobile Sports Models-05.jpg",
+            "row": 0,
+            "width": 2597,
+            "height": 992,
+            "src": "__GHOST_URL__/content/images/2020/06/1965-Oldsmobile-Sports-Models-05.jpg"
+          },
+          {
+            "fileName": "1965 Oldsmobile Sports Models-06.jpg",
+            "row": 0,
+            "width": 1284,
+            "height": 992,
+            "src": "__GHOST_URL__/content/images/2020/06/1965-Oldsmobile-Sports-Models-06.jpg"
+          },
+          {
+            "fileName": "1965 Oldsmobile Sports Models-10.jpg",
+            "row": 0,
+            "width": 1277,
+            "height": 984,
+            "src": "__GHOST_URL__/content/images/2020/06/1965-Oldsmobile-Sports-Models-10.jpg"
+          },
+          {
+            "fileName": "1965 Oldsmobile-13.jpg",
+            "row": 1,
+            "width": 1204,
+            "height": 482,
+            "src": "__GHOST_URL__/content/images/2020/06/1965-Oldsmobile-13.jpg"
+          },
+          {
+            "fileName": "1965 Oldsmobile-14.jpg",
+            "row": 1,
+            "width": 1204,
+            "height": 482,
+            "src": "__GHOST_URL__/content/images/2020/06/1965-Oldsmobile-14.jpg"
+          },
+          {
+            "fileName": "1965 Oldsmobile-a13.jpg",
+            "row": 1,
+            "width": 1237,
+            "height": 1496,
+            "src": "__GHOST_URL__/content/images/2020/06/1965-Oldsmobile-a13.jpg"
+          },
+          {
+            "fileName": "1965 Oldsmobile-a20.jpg",
+            "row": 2,
+            "width": 1176,
+            "height": 1439,
+            "src": "__GHOST_URL__/content/images/2020/06/1965-Oldsmobile-a20.jpg"
+          },
+          {
+            "fileName": "1965 Oldsmobile-a22.jpg",
+            "row": 2,
+            "width": 1160,
+            "height": 1133,
+            "src": "__GHOST_URL__/content/images/2020/06/1965-Oldsmobile-a22.jpg"
+          },
+          {
+            "fileName": "n_1965 Oldsmobile Dealer SPECS-05.jpg",
+            "row": 2,
+            "width": 1600,
+            "height": 1532,
+            "src": "__GHOST_URL__/content/images/2020/06/n_1965-Oldsmobile-Dealer-SPECS-05.jpg"
+          }
+        ],
+        "caption": "1965 Oldsmobile OEM Brochures"
+      }
+    ],
+    [
+      "hr",
+      {}
+    ]
+  ],
+  "markups": [
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/articles/handpicked/1970-oldsmobile-442-w-30/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/tag/research/"
+      ]
+    ]
+  ],
+  "sections": [
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Overview"
+        ]
+      ]
+    ],
+    [
+      10,
+      0
+    ],
+    [
+      1,
+      "h3",
+      [
+        [
+          0,
+          [],
+          0,
+          "Critics pronounced the 442 to be the best handling of the intermediate muscle cars and an all around balanced performer."
+        ]
+      ]
+    ],
+    [
+      10,
+      1
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          1,
+          [],
+          0,
+          0
+        ],
+        [
+          0,
+          [],
+          0,
+          "Oldsmobile got serious with the 1965 Olds 442 option package and made it optional on all two-door F-85s and Cutlass models, thus eliminating the four-door models."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Power was boosted with the replacement of a new 345 hp 400ci engine. The 4-4-2 name now signified the 400ci engine, four-barrel carb, and dual exhaust."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "In addition to the 4-speed manual, customers had the option of a 2-speed Jetaway automatic, as well."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "With more marketing, sales soared to 25,003 produced. Critics pronounced the 442 to be the best handling of the intermediate muscle cars and an all around balanced performer."
+        ]
+      ]
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Production Numbers"
+        ]
+      ]
+    ],
+    [
+      10,
+      2
+    ],
+    [
+      10,
+      3
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Performance Specs"
+        ]
+      ]
+    ],
+    [
+      10,
+      4
+    ],
+    [
+      10,
+      5
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Transmission"
+        ]
+      ]
+    ],
+    [
+      10,
+      6
+    ],
+    [
+      3,
+      "ul",
+      [
+        [
+          [
+            0,
+            [],
+            0,
+            "4-Speed Manuel"
+          ]
+        ],
+        [
+          [
+            0,
+            [],
+            0,
+            "2-Speed Jetaway Auto"
+          ]
+        ]
+      ]
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Paint & Colors"
+        ]
+      ]
+    ],
+    [
+      10,
+      7
+    ],
+    [
+      10,
+      8
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "OEM Brochures"
+        ]
+      ]
+    ],
+    [
+      10,
+      9
+    ],
+    [
+      10,
+      10
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "About the Knowledge Base"
+        ]
+      ]
+    ],
+    [
+      10,
+      11
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "The Motorious Knowledge Base provides a comprehensive vehicle overview for the 1965 "
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "Oldsmobile 442"
+        ],
+        [
+          0,
+          [],
+          0,
+          " including production numbers, performance specs, factory colors, and OEM brochures. Check out additional model years or related content linked to this article or view other Makes and Models in our "
+        ],
+        [
+          0,
+          [
+            1
+          ],
+          1,
+          "Research"
+        ],
+        [
+          0,
+          [],
+          0,
+          " center."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "If you have any interesting facts about the 1965 Oldsmobile 442 to add, want to tell us how we did covering the Olds 442, or want to tell us about yours, please leave a comment below."
+        ]
+      ]
+    ]
+  ],
+  "ghostVersion": "3.0"
+}

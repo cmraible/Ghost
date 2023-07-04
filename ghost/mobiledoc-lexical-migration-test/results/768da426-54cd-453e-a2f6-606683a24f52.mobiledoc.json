@@ -1,0 +1,1302 @@
+{
+  "version": "0.3.1",
+  "atoms": [],
+  "cards": [
+    [
+      "email-cta",
+      {
+        "showButton": true,
+        "showDividers": false,
+        "segment": "status:free",
+        "alignment": "left",
+        "html": "<p>Free offer to preview and upgrade text here. \"Read a preview below and <a href=\"https://levernews.com/membership/?utm_source=daily&amp;utm_medium=link&amp;utm_campaign=upgrade\">click here to upgrade</a> for full access.\"</p>",
+        "buttonText": "Click Here To Upgrade",
+        "buttonUrl": "https://levernews.com/membership/?utm_source=daily&utm_medium=link&utm_campaign=upgrade"
+      }
+    ],
+    [
+      "email-cta",
+      {
+        "showButton": false,
+        "showDividers": false,
+        "segment": "status:-free",
+        "alignment": "left",
+        "html": "<p><strong>• SPREAD THE WORD</strong>: Share this week's Lever Weekly article on <u><a href=\"https://twitter.com/intent/tweet?text=Who%20cleans%20the%20billionaire%20factory%3F%20America%E2%80%99s%20most%20vulnerable%20workers%20are%20doing%20hazardous%20work%20to%20help%20make%20private%20equity%20execs%20richer.%20https%3A%2F%2Fwww.levernews.com%2Fwho-cleans-the-billionaire-factory%2F\">Twitter</a></u> and forward this email<em> </em>to encourage others <a href=\"https://levernews.com/membership/?utm_source=daily&amp;utm_medium=link&amp;utm_campaign=forward-signup\">to subscribe to <em>The Lever</em></a>.</p>",
+        "buttonText": "",
+        "buttonUrl": ""
+      }
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "button",
+      {
+        "alignment": "center",
+        "buttonText": "Tip Jar",
+        "buttonUrl": "https://dailyposter.outpost.pub/ghost-integration/60818189ad12f332071054b8/tips"
+      }
+    ],
+    [
+      "button",
+      {
+        "alignment": "center",
+        "buttonText": "Become A Lever Leader Today",
+        "buttonUrl": "__GHOST_URL__/#/portal/account/plans"
+      }
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "email-cta",
+      {
+        "showButton": false,
+        "showDividers": false,
+        "segment": "status:free",
+        "alignment": "left",
+        "html": "<p>Last week, <em>The Lever</em> <a href=\"__GHOST_URL__/workers-are-funding-private-equitys-child-labor-exploitation/\">dove headfirst into this topic</a>, which is at the...</p>"
+      }
+    ],
+    [
+      "paywall",
+      {}
+    ],
+    [
+      "callout",
+      {
+        "calloutEmoji": "💡",
+        "calloutText": "Follow us on <a href=\"https://apple.news/TeRci1RtoQfWCNA5h7NTBlg\">Apple News</a> and <a href=\"https://news.google.com/publications/CAAqBwgKMPvKngswktW2Aw\">Google News</a> to make sure you see our stories first, and to help make sure others see our breaking news as well.",
+        "backgroundColor": "grey"
+      }
+    ],
+    [
+      "button",
+      {
+        "alignment": "center",
+        "buttonText": "Tip Jar",
+        "buttonUrl": "https://dailyposter.outpost.pub/ghost-integration/60818189ad12f332071054b8/tips"
+      }
+    ],
+    [
+      "email-cta",
+      {
+        "showButton": true,
+        "showDividers": false,
+        "segment": "status:-free",
+        "alignment": "center",
+        "html": "",
+        "buttonText": "Click Here To Comment",
+        "buttonUrl": "__GHOST_URL__/lever-weekly-who-cleans-the-billionaire-factory/#comments"
+      }
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "email",
+      {
+        "html": "<p><em><strong>Help us spread the word! </strong>Please forward this email to family and friends.</em></p><p><em><strong>Was this email forwarded to you? </strong><a href=\"https://levernews.com/membership/\">Sign up for free</a> to receive original reporting like this in your inbox every day.</em></p>"
+      }
+    ]
+  ],
+  "markups": [
+    [
+      "em"
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/svb-chief-pressed-lawmakers-to-weaken-bank-risk-regs/"
+      ]
+    ],
+    [
+      "strong"
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/rail-lobbyist-turned-senator-could-block-safety-bill/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/workers-are-funding-private-equitys-child-labor-exploitation/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/desantis-lets-electric-companies-hide-their-dirty-work/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/nina-turner-on-dems-working-class-voter-problem/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/movies-vs-capitalism-modern-times-w-pedro-angel-rivera-munoz/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/watch-now-how-the-lever-changed-the-response-to-east-palestine/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://theinsurgents.substack.com/p/ep-157-movies-vs-capitalism-ft-frank#details"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/author/andrew-perez/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.ubs.com/us/en/wealth-management/insights/market-news/article.1582725.html"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/a-wall-street-time-bomb/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3623820"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.dol.gov/newsroom/releases/whd/whd20230217-1"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.nbcnews.com/news/us-news/pssi-hired-same-child-twice-clean-slaughterhouses-document-rcna71633"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.bloomberg.com/news/features/2017-12-29/america-s-worst-graveyard-shift-is-grinding-up-workers"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.reuters.com/business/blackstones-schwarzman-received-over-1-bln-pay-dividends-2022-2023-02-25/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.nasdaq.com/articles/exclusive-u.s.-labor-department-probes-hearthside-food-solutions-for-possible-child-labor?ref=the-lever"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.nytimes.com/2023/02/25/us/unaccompanied-migrant-child-workers-exploitation.html"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.calstrs.com/files/dde3f45f7/PrivateEquityPerformance-06302022.pdf"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.osc.state.ny.us/files/common-retirement-fund/2017-11/report-2016-09.pdf"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.nctreasurer.com/media/323/download"
+      ]
+    ]
+  ],
+  "sections": [
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "This is Lever Weekly, a recap of our work from the past week. If you only read one email from us all week, this should be it."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Below you will find a breakdown of our reporting, podcasts, videos, and live events — a feature open to all subscribers. Following that, we are providing paid subscribers with an original column, written by a member of "
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "The Lever"
+        ],
+        [
+          0,
+          [],
+          0,
+          ", connecting the dots on our coverage to deliver important takeaways."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "In this week’s column, exclusively for paid subscribers, Andrew Perez breaks down how two of the darkest stories in recent news reveal who is being exploited to help private equity executives line their pockets."
+        ]
+      ]
+    ],
+    [
+      10,
+      0
+    ],
+    [
+      10,
+      1
+    ],
+    [
+      10,
+      2
+    ],
+    [
+      1,
+      "h3",
+      [
+        [
+          0,
+          [],
+          0,
+          "Stuff "
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "The Lever "
+        ],
+        [
+          0,
+          [],
+          0,
+          "Reported This Week:"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "• "
+        ],
+        [
+          0,
+          [
+            1,
+            2
+          ],
+          2,
+          "SVB Chief Pressed Lawmakers To Weaken Bank Risk Regs"
+        ],
+        [
+          0,
+          [],
+          0,
+          " — "
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "The collapsed bank’s president told Congress “enhanced prudential standards” should be lifted “given the low risk profile of our activities.”"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "• "
+        ],
+        [
+          0,
+          [
+            3,
+            2
+          ],
+          2,
+          "Rail-Lobbyist-Turned-Senator Could Block Safety Bill"
+        ],
+        [
+          0,
+          [],
+          0,
+          " — "
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "John Thune embodies the rail industry’s Washington influence machine that could now kill bipartisan safety legislation."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "• "
+        ],
+        [
+          0,
+          [
+            4,
+            2
+          ],
+          2,
+          "Workers Are Funding Private Equity’s Child Labor Exploitation"
+        ],
+        [
+          0,
+          [],
+          0,
+          " —"
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          " Public employees’ retirement savings have funded the private equity takeovers of companies that used child labor in dangerous factories."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "• "
+        ],
+        [
+          0,
+          [
+            5,
+            2
+          ],
+          2,
+          "DeSantis Lets Electric Companies Hide Their Dirty Work"
+        ],
+        [
+          0,
+          [],
+          0,
+          " — After industry cash flooded their war chests, Florida Republicans stopped requiring utilities from disclosing who they are punishing with power shutoffs."
+        ]
+      ]
+    ],
+    [
+      10,
+      3
+    ],
+    [
+      1,
+      "h3",
+      [
+        [
+          0,
+          [],
+          0,
+          "Stuff To Watch & Listen To:"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "• "
+        ],
+        [
+          0,
+          [
+            6,
+            2
+          ],
+          2,
+          "LEVER TIME: Nina Turner On Dems' Working-Class Voter Problem"
+        ],
+        [
+          0,
+          [],
+          0,
+          " — "
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "David sits down with the progressive powerhouse to discuss the Norfolk Southern derailment and Democrats’ “neo-liberal cult of self-righteousness.”"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "• "
+        ],
+        [
+          0,
+          [
+            7,
+            2
+          ],
+          2,
+          "MOVIES VS. CAPITALISM: Modern Times (w/ Pedro Ángel Rivera Muñoz)"
+        ],
+        [
+          0,
+          [],
+          0,
+          " — "
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "Rivka and Frank are joined by Pedro Ángel Rivera Muñoz  to discuss Charlie Chaplin’s anti-capitalist masterpiece "
+        ],
+        [
+          0,
+          [],
+          0,
+          "Modern Times"
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "• "
+        ],
+        [
+          0,
+          [
+            8,
+            2
+          ],
+          0,
+          "WATCH NOW: How "
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "The Lever"
+        ],
+        [
+          0,
+          [],
+          2,
+          " Changed The Response To East Palestine"
+        ],
+        [
+          0,
+          [],
+          0,
+          " — "
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "The Lever’s new video reveals how our coverage shifted the national dialogue around rail safety."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "•"
+        ],
+        [
+          0,
+          [
+            2
+          ],
+          1,
+          " "
+        ],
+        [
+          0,
+          [
+            9,
+            2
+          ],
+          2,
+          "THE INSURGENTS: Movies vs. Capitalism ft. Frank Cappello"
+        ],
+        [
+          0,
+          [],
+          0,
+          " —"
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          " Frank joins Rob Rousseau and Jordan Uhl to discuss analyzing film through an anti-capitalist lens, and why "
+        ],
+        [
+          0,
+          [],
+          0,
+          "You’ve Got Mail"
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          " is actually a psychological thriller."
+        ]
+      ]
+    ],
+    [
+      1,
+      "h3",
+      [
+        [
+          0,
+          [],
+          0,
+          "Thank You To Our Newest Lever Leaders:"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Lever Leaders provide us with our highest level of support and score additional perks in return.  Each week, we highlight folks who’ve taken that step, and the reasons they say they’ve done so."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [
+            2
+          ],
+          1,
+          "• Kalaadevi Ananda"
+        ],
+        [
+          0,
+          [],
+          0,
+          ": We need to question and see beyond the scene. You are doing the digging and seeing for all of us. I am grateful for the opportunity to support your work. Life is for others!"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [
+            2
+          ],
+          0,
+          "•"
+        ],
+        [
+          0,
+          [
+            2
+          ],
+          1,
+          " "
+        ],
+        [
+          0,
+          [],
+          1,
+          "John Hollingsworth"
+        ],
+        [
+          0,
+          [],
+          0,
+          ": Independent media is essential and"
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          " The Lever"
+        ],
+        [
+          0,
+          [],
+          0,
+          "’s reporting is incisive and unapologetic, especially on American politics."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [
+            2
+          ],
+          1,
+          "• Gary Steelman"
+        ],
+        [
+          0,
+          [],
+          0,
+          ": It's worth it."
+        ]
+      ]
+    ],
+    [
+      10,
+      4
+    ],
+    [
+      10,
+      5
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Who Cleans The Billionaire Factory"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "By "
+        ],
+        [
+          0,
+          [
+            10
+          ],
+          1,
+          "Andrew Perez"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "We often make the point at "
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "The Lever"
+        ],
+        [
+          0,
+          [],
+          0,
+          " that private equity has been a bad deal for public pension funds managing the retirement savings for unionized teachers, firefighters, police officers, and other government workers. State and local retirement systems have "
+        ],
+        [
+          0,
+          [
+            11
+          ],
+          1,
+          "plowed fortunes"
+        ],
+        [
+          0,
+          [],
+          0,
+          " into private equity, chasing higher returns that haven’t materialized, with high-fee investments that "
+        ],
+        [
+          0,
+          [
+            12
+          ],
+          1,
+          "could soon blow up"
+        ],
+        [
+          0,
+          [],
+          0,
+          "."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "At the end of the day, the fees have primarily served to help make a small number of Wall Street executives "
+        ],
+        [
+          0,
+          [
+            13
+          ],
+          1,
+          "exorbitantly rich"
+        ],
+        [
+          0,
+          [],
+          0,
+          " — leading French economist Ludovic Phalippou to name the private equity industry “the Billionaire Factory.”"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "But then there’s the issue of what public pension officials are actually investing in when they hand government workers’ retirement savings over to private equity firms. What companies are private equity funds buying with workers’ money? Whose work supports the Billionaire Factory?"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "The answers to these questions are disturbing."
+        ]
+      ]
+    ],
+    [
+      10,
+      6
+    ],
+    [
+      10,
+      7
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Last week, "
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "The Lever"
+        ],
+        [
+          0,
+          [],
+          0,
+          " "
+        ],
+        [
+          0,
+          [
+            4
+          ],
+          1,
+          "dove headfirst into this topic"
+        ],
+        [
+          0,
+          [],
+          0,
+          ", which is at the heart of two of the darker stories in recent news."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "In recent weeks, the Labor Department "
+        ],
+        [
+          0,
+          [
+            14
+          ],
+          1,
+          "announced"
+        ],
+        [
+          0,
+          [],
+          0,
+          " it fined a sanitation contract company, Packers Sanitation Services Inc., for employing more than a hundred children, some as young as 13, to clean slaughterhouses for giant meatpacking conglomerates."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "The kids, reportedly mostly "
+        ],
+        [
+          0,
+          [
+            15
+          ],
+          1,
+          "undocumented migrants"
+        ],
+        [
+          0,
+          [],
+          0,
+          ", were using hazardous chemicals to sanitize dangerous machinery and blood-soaked floors — for a company that a 2017 "
+        ],
+        [
+          0,
+          [
+            16,
+            0
+          ],
+          2,
+          "Businessweek"
+        ],
+        [
+          0,
+          [],
+          0,
+          " profile identified as potentially the most dangerous employer in America."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "That "
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "Businessweek "
+        ],
+        [
+          0,
+          [],
+          0,
+          "profile came out less than a year before the Blackstone Group, the world’s largest private equity firm, bought Packers. Blackstone’s CEO, conservative mega-donor Stephen Schwarzman, "
+        ],
+        [
+          0,
+          [
+            17
+          ],
+          1,
+          "took home $1.3 billion"
+        ],
+        [
+          0,
+          [],
+          0,
+          " last year."
+        ]
+      ]
+    ],
+    [
+      10,
+      8
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "The Labor Department is also "
+        ],
+        [
+          0,
+          [
+            18
+          ],
+          1,
+          "reportedly investigating"
+        ],
+        [
+          0,
+          [],
+          0,
+          " a contract baking manufacturer, Hearthside Food Solutions, for hiring migrant children in one of its factories, which manufacture and package snacks and cereal for some of the biggest brand-names in America like General Mills and Quaker Oats, following a "
+        ],
+        [
+          0,
+          [
+            19,
+            0
+          ],
+          2,
+          "New York Times"
+        ],
+        [
+          0,
+          [],
+          0,
+          " exposé."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Both companies, Packers and Hearthside, have gone through a series of private equity acquisitions over the past two decades. Our report traced how government workers’ retirement dollars have helped fund many of those acquisitions along the way."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "The Blackstone fund that bought Packers, for instance, received investments from state retirement systems in "
+        ],
+        [
+          0,
+          [
+            20
+          ],
+          1,
+          "California"
+        ],
+        [
+          0,
+          [],
+          0,
+          ", "
+        ],
+        [
+          0,
+          [
+            21
+          ],
+          1,
+          "New York"
+        ],
+        [
+          0,
+          [],
+          0,
+          ", and "
+        ],
+        [
+          0,
+          [
+            22
+          ],
+          1,
+          "North Carolina"
+        ],
+        [
+          0,
+          [],
+          0,
+          "."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "This is how public pension officials have chosen to deploy retirees’ savings — investing in private equity funds that are motivated to seek profits anywhere possible, no matter the social consequences — and that includes buying companies premised on outsourcing factory labor."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Investors in private equity funds can’t tell the future, and don’t know exactly how private equity funds will use their money. But public pension officials in Pennsylvania knew from the start that Packers’ first private equity buyer was eager to target the “industrial outsourcing” sector. They invested $100 million worth of workers’ savings in the fund, anyway."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Outsourcing invariably means paying workers lower wages; outsourcing factory work inevitably means underpaying workers to perform hazardous jobs."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "It should come as no surprise that Packers has reportedly relied "
+        ],
+        [
+          0,
+          [
+            16
+          ],
+          1,
+          "heavily"
+        ],
+        [
+          0,
+          [],
+          0,
+          " on undocumented workers to clean meatpacking plants, since the overnight sanitation workers get paid substantially less than workers on day shifts. Perhaps it should be equally unsurprising both Packers and Hearthside were eventually accused of illegally employing migrant children."
+        ]
+      ]
+    ],
+    [
+      10,
+      9
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "We already knew public employees were helping fund the Billionaire Factory. Now, we’ve learned who cleans it: the most vulnerable workers in America, including children, who are risking life and limb to make some of the wealthiest people in the world even richer."
+        ]
+      ]
+    ],
+    [
+      10,
+      10
+    ],
+    [
+      10,
+      11
+    ],
+    [
+      10,
+      12
+    ]
+  ],
+  "ghostVersion": "4.0"
+}

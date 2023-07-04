@@ -1,0 +1,443 @@
+{
+  "version": "0.3.1",
+  "atoms": [],
+  "cards": [
+    [
+      "hr",
+      {}
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "html",
+      {
+        "html": "<table id=\"production-numbers-table\">\n<tbody>\n\t<tr>\n\t\t<td>Coupe</td>\n\t\t<td>159,957</td>\n\t</tr>\n    <tr>\n\t\t<td>4-Dr. Sedan</td>\n\t\t<td>74,121</td>\n\t</tr>\n    <tr>\n\t\t<td>Hatchback Coupe</td>\n\t\t<td>34,349</td>\n\t</tr>\n    <tr>\n\t\t<td>Custom Hatchback</td>\n\t\t<td>46,284</td>\n\t</tr>\n    <tr>\n\t\t<td>Custom Coupe</td>\n\t\t<td>51,027</td>\n\t</tr>\n    <tr>\n\t\t<td>Custom 4-Dr. Sedan</td>\n\t\t<td>24,798</td>\n\t</tr>\n\t\t<td><b>Total Production</b></td>\n\t\t<td><b>390,536</b></td>\n\t</tr>\n</tbody>\n</table>"
+      }
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "html",
+      {
+        "html": "<table id=\"performance-specs-table\">\n<tbody>\n\t<tr>\n\t\t<th><b>Engine</b></th>\n\t\t<th><b>Size</b></td>\n\t\t<th><b>Carb.</b></td>\n\t\t<th><b>HP</b></td>\n\t\t<th><b>Torque</b></td>\n\t\t<th><b>0 to 60</b></td>\n\t\t<th><b>Quarter mile</b></td>\n\t</tr>\n\t<tr>\n\t\t<td>Turbo-Thrift 250</td>\n\t\t<td>250ci</td>\n\t\t<td>1x1bbl</td>\n\t\t<td>100hp</td>\n\t\t<td>-</td>\n\t\t<td>-</td>\n\t\t<td>-</td>\n\t</tr>\n    <tr>\n\t\t<td>Turbo-Fire 350</td>\n\t\t<td>350ci</td>\n\t\t<td>1x2bbl/1x4bbl/1x4bbl</td>\n\t\t<td>154/160/185hp</td>\n\t\t<td>-</td>\n\t\t<td>8.5 sec</td>\n\t\t<td>16.6 sec</td>\n\t</tr>\n</tbody>\n</table>"
+      }
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "html",
+      {
+        "html": "<h4 id='colors-sub-heading'>Exterior</h4>\n<div class=\"colors-row\">\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #ecedf0\"></div>\n        <div class=\"color-name\">Antique White</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #295a95\"></div>\n        <div class=\"color-name\">Bright Blue Metallic</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #01152f\"></div>\n        <div class=\"color-name\">Midnight Blue Metallic</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #05b1a8\"></div>\n        <div class=\"color-name\">Bright Aqua Metallic</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #b5d127\"></div>\n        <div class=\"color-name\">Lime Yellow</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #97bc64\"></div>\n        <div class=\"color-name\">Bright Green Metallic</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #367804\"></div>\n        <div class=\"color-name\">Dark Green Metallic</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #c8cb97\"></div>\n        <div class=\"color-name\">Cream Beige</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #e5e172\"></div>\n        <div class=\"color-name\">Bright Yellow</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #beaa45\"></div>\n        <div class=\"color-name\">Light Gold Metallic</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #837a46\"></div>\n        <div class=\"color-name\">Sandstone</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #6d4309\"></div>\n        <div class=\"color-name\">Golden Brown Metallic</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #9fa6b1\"></div>\n        <div class=\"color-name\">Silver Metallic</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #852505\"></div>\n        <div class=\"color-name\">Bronze Metallic</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #670805\"></div>\n        <div class=\"color-name\">Dark Red Metallic</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #be1b05\"></div>\n        <div class=\"color-name\">Medium Red</div>\n    </div>\n</div>\n\n<h4 id='colors-sub-heading'>Interior</h4>\n<div class=\"colors-row\">\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #000000\"></div>\n        <div class=\"color-name\">Black</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #193942\"></div>\n        <div class=\"color-name\">Midnight Blue</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #3d756c\"></div>\n        <div class=\"color-name\">Medium Green</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #a9a582\"></div>\n        <div class=\"color-name\">Light Neutral</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #b9a54e\"></div>\n        <div class=\"color-name\">Medium Saddle</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #efefef\"></div>\n        <div class=\"color-name\">White</div>\n    </div>\n</div>\n"
+      }
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "gallery",
+      {
+        "images": [
+          {
+            "fileName": "1615_1974nova_01_low_res.jpg",
+            "row": 0,
+            "width": 765,
+            "height": 1000,
+            "src": "__GHOST_URL__/content/images/2020/07/1615_1974nova_01_low_res.jpg"
+          },
+          {
+            "fileName": "1616_1974nova_02_low_res.jpg",
+            "row": 0,
+            "width": 790,
+            "height": 517,
+            "src": "__GHOST_URL__/content/images/2020/07/1616_1974nova_02_low_res.jpg"
+          },
+          {
+            "fileName": "1617_1974nova_03_low_res.jpg",
+            "row": 0,
+            "width": 749,
+            "height": 1000,
+            "src": "__GHOST_URL__/content/images/2020/07/1617_1974nova_03_low_res.jpg"
+          },
+          {
+            "fileName": "1618_1974nova_04_low_res.jpg",
+            "row": 1,
+            "width": 760,
+            "height": 1000,
+            "src": "__GHOST_URL__/content/images/2020/07/1618_1974nova_04_low_res.jpg"
+          },
+          {
+            "fileName": "1619_1974nova_05_low_res.jpg",
+            "row": 1,
+            "width": 790,
+            "height": 515,
+            "src": "__GHOST_URL__/content/images/2020/07/1619_1974nova_05_low_res.jpg"
+          },
+          {
+            "fileName": "1620_1974nova_07_low_res.jpg",
+            "row": 1,
+            "width": 771,
+            "height": 1000,
+            "src": "__GHOST_URL__/content/images/2020/07/1620_1974nova_07_low_res.jpg"
+          },
+          {
+            "fileName": "1621_1974nova_06_low_res.jpg",
+            "row": 2,
+            "width": 775,
+            "height": 1000,
+            "src": "__GHOST_URL__/content/images/2020/07/1621_1974nova_06_low_res.jpg"
+          },
+          {
+            "fileName": "1622_1974nova_08_low_res.jpg",
+            "row": 2,
+            "width": 790,
+            "height": 514,
+            "src": "__GHOST_URL__/content/images/2020/07/1622_1974nova_08_low_res.jpg"
+          }
+        ]
+      }
+    ],
+    [
+      "gallery",
+      {
+        "images": [
+          {
+            "fileName": "1623_1974nova_09_low_res.jpg",
+            "row": 0,
+            "width": 768,
+            "height": 1000,
+            "src": "__GHOST_URL__/content/images/2020/07/1623_1974nova_09_low_res.jpg"
+          }
+        ],
+        "caption": "1974 Chevrolet Nova OEM Brochures"
+      }
+    ],
+    [
+      "hr",
+      {}
+    ]
+  ],
+  "markups": [
+    [
+      "em"
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/tag/research/"
+      ]
+    ]
+  ],
+  "sections": [
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Overview"
+        ]
+      ]
+    ],
+    [
+      10,
+      0
+    ],
+    [
+      1,
+      "h3",
+      [
+        [
+          0,
+          [],
+          0,
+          "The 1974 Nova would mark the last year of the third-generation."
+        ]
+      ]
+    ],
+    [
+      10,
+      1
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "The 1974 Nova would mark the last year of the third-generation. It received larger parking lights and new bowtie grille emblems, as well as modified bumpers that added two inches to its overall length and helped cushion minor impacts."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "The Powerglide was replaced by a lightweight version of the 3-speed Turbo Hydra-Matic 350."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Production reached almost 400,000; a result of an increasing trend from previous years."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "The \"Spirit of America\" Nova was introduced in 1974 in anticipation of the US bicentennial in 1976. They were painted white and featured blue and red accent stripes as well as red and blue interior carpets and fabrics."
+        ]
+      ]
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Production Numbers"
+        ]
+      ]
+    ],
+    [
+      10,
+      2
+    ],
+    [
+      10,
+      3
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Performance Specs"
+        ]
+      ]
+    ],
+    [
+      10,
+      4
+    ],
+    [
+      10,
+      5
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Transmission"
+        ]
+      ]
+    ],
+    [
+      10,
+      6
+    ],
+    [
+      3,
+      "ul",
+      [
+        [
+          [
+            0,
+            [],
+            0,
+            "4-Speed Manual (fully synch)"
+          ]
+        ],
+        [
+          [
+            0,
+            [],
+            0,
+            "3-Speed (fully synch)"
+          ]
+        ],
+        [
+          [
+            0,
+            [],
+            0,
+            "Turbo Hydra-Matic"
+          ]
+        ]
+      ]
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Paint & Colors"
+        ]
+      ]
+    ],
+    [
+      10,
+      7
+    ],
+    [
+      10,
+      8
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "OEM Brochures"
+        ]
+      ]
+    ],
+    [
+      10,
+      9
+    ],
+    [
+      10,
+      10
+    ],
+    [
+      10,
+      11
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "About the Knowledge Base"
+        ]
+      ]
+    ],
+    [
+      10,
+      12
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "The Motorious Knowledge Base provides a comprehensive vehicle overview for the 1974 Chevrolet Nova"
+        ],
+        [
+          0,
+          [
+            0,
+            0
+          ],
+          2,
+          " "
+        ],
+        [
+          0,
+          [],
+          0,
+          "including production numbers, performance specs, factory colors, and OEM brochures. Check out additional model years or related content linked to this article or view other Makes and Models in our "
+        ],
+        [
+          0,
+          [
+            1
+          ],
+          1,
+          "Research"
+        ],
+        [
+          0,
+          [],
+          0,
+          " center."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "If you have any interesting facts about the 1974 Chevrolet Nova"
+        ],
+        [
+          0,
+          [
+            0,
+            0
+          ],
+          2,
+          " "
+        ],
+        [
+          0,
+          [],
+          0,
+          "to add, want to tell us how we did covering the Nova, or want to tell us about yours, please leave a comment below."
+        ]
+      ]
+    ]
+  ],
+  "ghostVersion": "3.0"
+}

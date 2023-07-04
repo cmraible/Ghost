@@ -1,0 +1,424 @@
+{
+  "version": "0.3.1",
+  "atoms": [
+    [
+      "soft-return",
+      "",
+      {}
+    ]
+  ],
+  "cards": [
+    [
+      "hr",
+      {}
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "html",
+      {
+        "html": "<table id=\"production-numbers-table\">\n<tbody>\n\t<tr>\n\t\t<td>Sports Coupe</td>\n\t\t<td>4,282</td>\n\t</tr>\n    <tr>\n\t\t<td>Hardtop Coupe</td>\n\t\t<td>24,183</td>\n\t</tr>\n    <tr>\n\t\t<td>Convertible</td>\n\t\t<td>5,142</td>\n\t</tr>\n\t\t<td><b>Total Production</b></td>\n\t\t<td><b>33,607</b></td>\n\t</tr>\n</tbody>\n</table>"
+      }
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "html",
+      {
+        "html": "<table id=\"performance-specs-table\">\n<tbody>\n\t<tr>\n\t\t<th><b>Engine</b></th>\n\t\t<th><b>Size</b></td>\n\t\t<th><b>Carb.</b></td>\n\t\t<th><b>HP</b></td>\n\t\t<th><b>Torque</b></td>\n\t\t<th><b>0 to 60</b></td>\n\t\t<th><b>Quarter mile</b></td>\n\t</tr>\n\t<tr>\n\t\t<td>W-30</td>\n\t\t<td>400ci</td>\n\t\t<td>1x4bbl</td>\n\t\t<td>360</td>\n\t\t<td>440 lb-ft</td>\n\t\t<td>6.3 sec</td>\n\t\t<td>13.3 sec at 103.6 mph</td>\n\t</tr>\n<tr>\n\t\t<td>Hurst/Olds</td>\n\t\t<td>455ci</td>\n\t\t<td>1x4bbl</td>\n\t\t<td>390</td>\n\t\t<td>500 lb-ft</td>\n\t\t<td>5.4 sec</td>\n\t\t<td>13.9 sec at 103 mph</td>\n\t</tr>\n</tbody>\n</table>"
+      }
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "html",
+      {
+        "html": "<h4 id='colors-sub-heading'>Exterior</h4>\n<div class=\"colors-row\">\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #000000\"></div>\n        <div class=\"color-name\">Ebony BLack</div>\n    </div>\n     <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #2f3340\"></div>\n        <div class=\"color-name\">Twilight Teal</div>\n    </div>\n     <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #e1dcc9\"></div>\n        <div class=\"color-name\">Provincial White</div>\n    </div>\n     <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #6086a1\"></div>\n        <div class=\"color-name\">Sapphire Blue</div>\n    </div>\n     <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #222d47\"></div>\n        <div class=\"color-name\">Nocturne Blue</div>\n    </div>\n     <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #6d818f\"></div>\n        <div class=\"color-name\">Teal Frost</div>\n    </div>\n     <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #9a9480\"></div>\n        <div class=\"color-name\">Willow Gold</div>\n    </div>\n     <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #446f83\"></div>\n        <div class=\"color-name\">Ocean Turqoise</div>\n    </div>\n     <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #604d3a\"></div>\n        <div class=\"color-name\">Cinnamon Bronze</div>\n    </div>\n     <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #311f20\"></div>\n        <div class=\"color-name\">Flambeau Burgundy</div>\n    </div>\n     <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #7b8085\"></div>\n        <div class=\"color-name\">Silver Green</div>\n    </div>\n     <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #7a2220\"></div>\n        <div class=\"color-name\">Scarlet</div>\n    </div>\n     <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #414135\"></div>\n        <div class=\"color-name\">Jade Gold</div>\n    </div>\n     <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #bcb69a\"></div>\n        <div class=\"color-name\">Ivory</div>\n    </div>\n     <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #28342d\"></div>\n        <div class=\"color-name\">Juneau Gray</div>\n    </div>\n     <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #929083\"></div>\n        <div class=\"color-name\">Silver Beige</div>\n    </div>\n     <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #9f9371\"></div>\n        <div class=\"color-name\">Buckskin</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #fdeda5\"></div>\n        <div class=\"color-name\">Saffron</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #747b80\"></div>\n        <div class=\"color-name\">Peruvian Silver</div>\n    </div>\n</div>\n\n<h4 id='colors-sub-heading'>Interior</h4>\n<div class=\"colors-row\">\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #000000\"></div>\n        <div class=\"color-name\">Black</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #6d8b9c\"></div>\n        <div class=\"color-name\">Lt.Blue</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #821519\"></div>\n        <div class=\"color-name\">Red</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #c1c2b4\"></div>\n        <div class=\"color-name\">Pearl</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #437d8b\"></div>\n        <div class=\"color-name\">Med. Blue</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #777d57\"></div>\n        <div class=\"color-name\">Ivy Gold</div>\n    </div>\n</div>"
+      }
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "gallery",
+      {
+        "images": [
+          {
+            "fileName": "1682_1968_Oldsmobile_Hurst_Olds_Folder-02_low_res.jpg",
+            "row": 0,
+            "width": 615,
+            "height": 1024,
+            "src": "__GHOST_URL__/content/images/2020/06/1682_1968_Oldsmobile_Hurst_Olds_Folder-02_low_res.jpg"
+          },
+          {
+            "fileName": "1683_1968_Oldsmobile_Hurst_Olds_Folder-01_low_res.jpg",
+            "row": 0,
+            "width": 790,
+            "height": 548,
+            "src": "__GHOST_URL__/content/images/2020/06/1683_1968_Oldsmobile_Hurst_Olds_Folder-01_low_res.jpg"
+          },
+          {
+            "fileName": "1684_1968_Oldsmobile_Sports-16_low_res.jpg",
+            "row": 0,
+            "width": 790,
+            "height": 843,
+            "src": "__GHOST_URL__/content/images/2020/06/1684_1968_Oldsmobile_Sports-16_low_res.jpg"
+          },
+          {
+            "fileName": "1685_1968_Oldsmobile_Sports-08-09_low_res.jpg",
+            "row": 1,
+            "width": 790,
+            "height": 417,
+            "src": "__GHOST_URL__/content/images/2020/06/1685_1968_Oldsmobile_Sports-08-09_low_res.jpg"
+          },
+          {
+            "fileName": "1686_1968_Oldsmobile_Sports-06-07_low_res.jpg",
+            "row": 1,
+            "width": 790,
+            "height": 417,
+            "src": "__GHOST_URL__/content/images/2020/06/1686_1968_Oldsmobile_Sports-06-07_low_res.jpg"
+          },
+          {
+            "fileName": "1687_1968_Oldsmobile_Sports-04-05_low_res.jpg",
+            "row": 1,
+            "width": 790,
+            "height": 417,
+            "src": "__GHOST_URL__/content/images/2020/06/1687_1968_Oldsmobile_Sports-04-05_low_res.jpg"
+          },
+          {
+            "fileName": "1688_1968_Oldsmobile_Sports-02-03_low_res.jpg",
+            "row": 2,
+            "width": 790,
+            "height": 416,
+            "src": "__GHOST_URL__/content/images/2020/06/1688_1968_Oldsmobile_Sports-02-03_low_res.jpg"
+          },
+          {
+            "fileName": "1689_1968_Oldsmobile_Sports-01_low_res.jpg",
+            "row": 2,
+            "width": 790,
+            "height": 844,
+            "src": "__GHOST_URL__/content/images/2020/06/1689_1968_Oldsmobile_Sports-01_low_res.jpg"
+          }
+        ],
+        "caption": "1968 Oldsmobile 442 OEM Brochures"
+      }
+    ],
+    [
+      "hr",
+      {}
+    ]
+  ],
+  "markups": [
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/tag/research/"
+      ]
+    ]
+  ],
+  "sections": [
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Overview"
+        ]
+      ]
+    ],
+    [
+      10,
+      0
+    ],
+    [
+      1,
+      "h3",
+      [
+        [
+          0,
+          [],
+          0,
+          "The 1968 442 finally became its own model from 1968 through 1971."
+        ]
+      ]
+    ],
+    [
+      10,
+      1
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          1,
+          [],
+          0,
+          0
+        ],
+        [
+          0,
+          [],
+          0,
+          "The 1968 442 finally became its own model from 1968 through 1971."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Engine displacement stayed at 400ci, but was based on the new 455 cranktrain and the bore decreased. Torque now came on earlier mostly due to a milder base cam grid."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "The '68 442s had unique rear bumpers with exhaust cutouts and special exhaust tips, and it was the first year Olds first partnered with Hurst Performance to create the Hurst/Olds rather than just adding Hurst shifters as with earlier models."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "These Hurst/Olds cars began with a limited regular production run of 515 and were painted Peruvian Silver with liberal black striping and white pinstripes, exterior and interior H/O badging, and a real walnut wood dash insert."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Mechanically, they had two drivetrain combos. A red 455 ci were backed by modified W-30 Turbo 400 transmissions. A/C cars got a W-46 engine while non A/C cars got a W-45 engine, both rated at 390 hp."
+        ]
+      ]
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Production Numbers"
+        ]
+      ]
+    ],
+    [
+      10,
+      2
+    ],
+    [
+      10,
+      3
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Performance Specs"
+        ]
+      ]
+    ],
+    [
+      10,
+      4
+    ],
+    [
+      10,
+      5
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Transmission"
+        ]
+      ]
+    ],
+    [
+      10,
+      6
+    ],
+    [
+      3,
+      "ul",
+      [
+        [
+          [
+            0,
+            [],
+            0,
+            "4-Speed Manual Wide Ratio"
+          ]
+        ],
+        [
+          [
+            0,
+            [],
+            0,
+            "3-Speed Turbo HydraMatic"
+          ]
+        ],
+        [
+          [
+            0,
+            [],
+            0,
+            "3-Speed Heavy-Duty "
+          ]
+        ],
+        [
+          [
+            0,
+            [],
+            0,
+            "4-Speed Manual Close Ratio"
+          ]
+        ]
+      ]
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Paint & Colors"
+        ]
+      ]
+    ],
+    [
+      10,
+      7
+    ],
+    [
+      10,
+      8
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "OEM Brochures"
+        ]
+      ]
+    ],
+    [
+      10,
+      9
+    ],
+    [
+      10,
+      10
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "About the Knowledge Base"
+        ]
+      ]
+    ],
+    [
+      10,
+      11
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "The Motorious Knowledge Base provides a comprehensive vehicle overview for the 1968 Oldsmobile 442 including production numbers, performance specs, factory colors, and OEM brochures. Check out additional model years or related content linked to this article or view other Makes and Models in our "
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "Research"
+        ],
+        [
+          0,
+          [],
+          0,
+          " center."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "If you have any interesting facts about the 1968 Oldsmobile 442 to add, want to tell us how we did covering the Olds 442, or want to tell us about yours, please leave a comment below."
+        ]
+      ]
+    ]
+  ],
+  "ghostVersion": "3.0"
+}

@@ -1,0 +1,1363 @@
+{
+  "version": "0.3.1",
+  "atoms": [],
+  "cards": [
+    [
+      "embed",
+      {
+        "url": "https://twitter.com/parismartineau/status/1572966103487315968?s=21&t=_88wdF8QB-sadl7dXTGOhA",
+        "html": "<blockquote class=\"twitter-tweet\"><p lang=\"en\" dir=\"ltr\">in may 2021 i published an investigation into the deadly toll of amazon&#39;s trucking boom, today, a year+ LATER, the WSJ published a report on the very same topic, featuring the same crash and similar statistics and methods — not a single reference to the reporting that came before <a href=\"https://t.co/9kV2PhoATC\">pic.twitter.com/9kV2PhoATC</a></p>&mdash; paris martineau (@parismartineau) <a href=\"https://twitter.com/parismartineau/status/1572966103487315968?ref_src=twsrc%5Etfw\">September 22, 2022</a></blockquote>\n<script async src=\"https://platform.twitter.com/widgets.js\" charset=\"utf-8\"></script>\n",
+        "type": "twitter",
+        "metadata": {
+          "url": "https://twitter.com/parismartineau/status/1572966103487315968",
+          "author_name": "paris martineau",
+          "author_url": "https://twitter.com/parismartineau",
+          "width": 550,
+          "height": null,
+          "cache_age": "3153600000",
+          "provider_name": "Twitter",
+          "provider_url": "http://www.twitter.com/",
+          "version": "1.0",
+          "tweet_data": {
+            "text": "in may 2021 i published an investigation into the deadly toll of amazon's trucking boom, today, a year+ LATER, the WSJ published a report on the very same topic, featuring the same crash and similar statistics and methods — not a single reference to the reporting that came before https://t.co/9kV2PhoATC",
+            "conversation_id": "1572966103487315968",
+            "lang": "en",
+            "public_metrics": {
+              "retweet_count": 84,
+              "reply_count": 4,
+              "like_count": 321,
+              "quote_count": 4
+            },
+            "entities": {
+              "urls": [
+                {
+                  "start": 281,
+                  "end": 304,
+                  "url": "https://t.co/9kV2PhoATC",
+                  "expanded_url": "https://twitter.com/parismartineau/status/1572966103487315968/photo/1",
+                  "display_url": "pic.twitter.com/9kV2PhoATC",
+                  "media_key": "3_1572965095377932288"
+                },
+                {
+                  "start": 281,
+                  "end": 304,
+                  "url": "https://t.co/9kV2PhoATC",
+                  "expanded_url": "https://twitter.com/parismartineau/status/1572966103487315968/photo/1",
+                  "display_url": "pic.twitter.com/9kV2PhoATC",
+                  "media_key": "3_1572965201909006337"
+                }
+              ],
+              "annotations": [
+                {
+                  "start": 65,
+                  "end": 70,
+                  "probability": 0.6497,
+                  "type": "Organization",
+                  "normalized_text": "amazon"
+                },
+                {
+                  "start": 115,
+                  "end": 117,
+                  "probability": 0.9766,
+                  "type": "Organization",
+                  "normalized_text": "WSJ"
+                }
+              ]
+            },
+            "reply_settings": "everyone",
+            "context_annotations": [
+              {
+                "domain": {
+                  "id": "46",
+                  "name": "Business Taxonomy",
+                  "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+                },
+                "entity": {
+                  "id": "1557697121477832705",
+                  "name": "Publisher & News Business",
+                  "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to  marketing and advertiser agencies, publishers of magazines, newspapers, blogs, books"
+                }
+              },
+              {
+                "domain": {
+                  "id": "47",
+                  "name": "Brand",
+                  "description": "Brands and Companies"
+                },
+                "entity": {
+                  "id": "10029237524",
+                  "name": "The Wall Street Journal"
+                }
+              },
+              {
+                "domain": {
+                  "id": "131",
+                  "name": "Unified Twitter Taxonomy",
+                  "description": "A taxonomy view into the Semantic Core knowledge graph"
+                },
+                "entity": {
+                  "id": "10029237524",
+                  "name": "The Wall Street Journal"
+                }
+              },
+              {
+                "domain": {
+                  "id": "131",
+                  "name": "Unified Twitter Taxonomy",
+                  "description": "A taxonomy view into the Semantic Core knowledge graph"
+                },
+                "entity": {
+                  "id": "1046545033657081857",
+                  "name": "News",
+                  "description": "News"
+                }
+              },
+              {
+                "domain": {
+                  "id": "131",
+                  "name": "Unified Twitter Taxonomy",
+                  "description": "A taxonomy view into the Semantic Core knowledge graph"
+                },
+                "entity": {
+                  "id": "1196447117297905665",
+                  "name": "News outlets"
+                }
+              }
+            ],
+            "id": "1572966103487315968",
+            "possibly_sensitive": false,
+            "created_at": "2022-09-22T15:08:38.000Z",
+            "attachments": {
+              "media_keys": [
+                "3_1572965095377932288",
+                "3_1572965201909006337"
+              ]
+            },
+            "author_id": "57724877",
+            "source": "Twitter Web App",
+            "includes": {
+              "media": [
+                {
+                  "height": 700,
+                  "url": "https://pbs.twimg.com/media/FdRLa5oXEAAlki3.jpg",
+                  "media_key": "3_1572965095377932288",
+                  "width": 1202,
+                  "type": "photo"
+                },
+                {
+                  "height": 463,
+                  "url": "https://pbs.twimg.com/media/FdRLhGfWQAEPw0v.jpg",
+                  "media_key": "3_1572965201909006337",
+                  "width": 1012,
+                  "type": "photo"
+                }
+              ],
+              "users": [
+                {
+                  "username": "parismartineau",
+                  "entities": {
+                    "url": {
+                      "urls": [
+                        {
+                          "start": 0,
+                          "end": 23,
+                          "url": "https://t.co/7KRv8UvQYJ",
+                          "expanded_url": "http://parismartineau.com",
+                          "display_url": "parismartineau.com"
+                        }
+                      ]
+                    },
+                    "description": {
+                      "mentions": [
+                        {
+                          "start": 41,
+                          "end": 56,
+                          "username": "theinformation"
+                        },
+                        {
+                          "start": 67,
+                          "end": 73,
+                          "username": "wired"
+                        }
+                      ]
+                    }
+                  },
+                  "description": "reporter covering amazon's influence for @theinformation. formerly @wired. DMs open. talk to me: parisⓐtheinformation,com / 267.797.8655 (signal whatsapp etc)",
+                  "created_at": "2009-07-17T18:58:46.000Z",
+                  "public_metrics": {
+                    "followers_count": 16206,
+                    "following_count": 1757,
+                    "tweet_count": 3477,
+                    "listed_count": 378
+                  },
+                  "url": "https://t.co/7KRv8UvQYJ",
+                  "verified": true,
+                  "protected": false,
+                  "name": "paris martineau",
+                  "location": "brooklyn",
+                  "id": "57724877",
+                  "profile_image_url": "https://pbs.twimg.com/profile_images/1559856639095853057/_AF1-rRA_normal.jpg"
+                }
+              ]
+            }
+          }
+        }
+      }
+    ],
+    [
+      "embed",
+      {
+        "url": "https://twitter.com/bbcleeds/status/1575405997589422081?s=21&t=_88wdF8QB-sadl7dXTGOhA",
+        "html": "<blockquote class=\"twitter-tweet\"><p lang=\"en\" dir=\"ltr\">“Where have you been?” 🤔<br><br>Watch <a href=\"https://twitter.com/therimaahmed?ref_src=twsrc%5Etfw\">@TheRimaAhmed</a> press the <a href=\"https://twitter.com/hashtag/PrimeMinister?src=hash&amp;ref_src=twsrc%5Etfw\">#PrimeMinister</a> on the fallout of the mini budget on <a href=\"https://twitter.com/hashtag/RadioLeeds?src=hash&amp;ref_src=twsrc%5Etfw\">#RadioLeeds</a> this morning. 📻<br><br>📲 Hear the full interview ➡️ <a href=\"https://t.co/uXU5eF3Yew\">https://t.co/uXU5eF3Yew</a> <a href=\"https://t.co/fnqAX1bwOG\">pic.twitter.com/fnqAX1bwOG</a></p>&mdash; BBC Radio Leeds (@BBCLeeds) <a href=\"https://twitter.com/BBCLeeds/status/1575405997589422081?ref_src=twsrc%5Etfw\">September 29, 2022</a></blockquote>\n<script async src=\"https://platform.twitter.com/widgets.js\" charset=\"utf-8\"></script>\n",
+        "type": "twitter",
+        "metadata": {
+          "url": "https://twitter.com/BBCLeeds/status/1575405997589422081",
+          "author_name": "BBC Radio Leeds",
+          "author_url": "https://twitter.com/BBCLeeds",
+          "width": 550,
+          "height": null,
+          "cache_age": "3153600000",
+          "provider_name": "Twitter",
+          "provider_url": "http://www.twitter.com/",
+          "version": "1.0",
+          "tweet_data": {
+            "entities": {
+              "mentions": [
+                {
+                  "start": 32,
+                  "end": 45,
+                  "username": "therimaahmed",
+                  "id": "2580700791"
+                }
+              ],
+              "urls": [
+                {
+                  "start": 166,
+                  "end": 189,
+                  "url": "https://t.co/uXU5eF3Yew",
+                  "expanded_url": "https://bbc.in/3dR8IR7",
+                  "display_url": "bbc.in/3dR8IR7",
+                  "images": [
+                    {
+                      "url": "https://pbs.twimg.com/news_img/1575387891735437313/_UE5WQmj?format=jpg&name=orig",
+                      "width": 640,
+                      "height": 360
+                    },
+                    {
+                      "url": "https://pbs.twimg.com/news_img/1575387891735437313/_UE5WQmj?format=jpg&name=150x150",
+                      "width": 150,
+                      "height": 150
+                    }
+                  ],
+                  "status": 200,
+                  "title": "BBC Radio Leeds - BBC Radio Leeds, \"We had to take decisive actions\"",
+                  "description": "Prime Minister Liz Truss takes your questions on BBC Radio Leeds",
+                  "unwound_url": "https://www.bbc.co.uk/programmes/p0d3d2gm"
+                },
+                {
+                  "start": 190,
+                  "end": 213,
+                  "url": "https://t.co/fnqAX1bwOG",
+                  "expanded_url": "https://twitter.com/BBCLeeds/status/1575405997589422081/video/1",
+                  "display_url": "pic.twitter.com/fnqAX1bwOG",
+                  "media_key": "7_1575405710371962880"
+                }
+              ],
+              "hashtags": [
+                {
+                  "start": 56,
+                  "end": 70,
+                  "tag": "PrimeMinister"
+                },
+                {
+                  "start": 108,
+                  "end": 119,
+                  "tag": "RadioLeeds"
+                }
+              ]
+            },
+            "text": "“Where have you been?” 🤔\n\nWatch @TheRimaAhmed press the #PrimeMinister on the fallout of the mini budget on #RadioLeeds this morning. 📻\n\n📲 Hear the full interview ➡️ https://t.co/uXU5eF3Yew https://t.co/fnqAX1bwOG",
+            "lang": "en",
+            "possibly_sensitive": false,
+            "id": "1575405997589422081",
+            "source": "Twitter Web App",
+            "reply_settings": "everyone",
+            "attachments": {
+              "media_keys": [
+                "7_1575405710371962880"
+              ]
+            },
+            "conversation_id": "1575405997589422081",
+            "public_metrics": {
+              "retweet_count": 426,
+              "reply_count": 102,
+              "like_count": 1707,
+              "quote_count": 147
+            },
+            "author_id": "94782577",
+            "created_at": "2022-09-29T08:43:54.000Z",
+            "context_annotations": [
+              {
+                "domain": {
+                  "id": "131",
+                  "name": "Unified Twitter Taxonomy",
+                  "description": "A taxonomy view into the Semantic Core knowledge graph"
+                },
+                "entity": {
+                  "id": "1332035282535813121",
+                  "name": "Leeds"
+                }
+              },
+              {
+                "domain": {
+                  "id": "171",
+                  "name": "Local News",
+                  "description": "For local-level news entities"
+                },
+                "entity": {
+                  "id": "1332035282535813121",
+                  "name": "Leeds"
+                }
+              }
+            ],
+            "includes": {
+              "media": [
+                {
+                  "duration_ms": 126600,
+                  "public_metrics": {
+                    "view_count": 98615
+                  },
+                  "height": 1280,
+                  "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1575405710371962880/pu/img/jMPPc8EBIVhpZDHg.jpg",
+                  "width": 1280,
+                  "media_key": "7_1575405710371962880",
+                  "type": "video"
+                }
+              ],
+              "users": [
+                {
+                  "description": "BBC Radio Leeds – the sound of West Yorkshire. 🔊 Listen on @bbcsounds, on your smart speaker and on 92.4FM",
+                  "entities": {
+                    "url": {
+                      "urls": [
+                        {
+                          "start": 0,
+                          "end": 23,
+                          "url": "https://t.co/LGxuGSA7HP",
+                          "expanded_url": "http://www.bbc.co.uk/radioleeds",
+                          "display_url": "bbc.co.uk/radioleeds"
+                        }
+                      ]
+                    },
+                    "description": {
+                      "mentions": [
+                        {
+                          "start": 59,
+                          "end": 69,
+                          "username": "bbcsounds"
+                        }
+                      ]
+                    }
+                  },
+                  "name": "BBC Radio Leeds",
+                  "pinned_tweet_id": "1575405997589422081",
+                  "profile_image_url": "https://pbs.twimg.com/profile_images/1546447161054957570/sKKIijyF_normal.jpg",
+                  "username": "BBCLeeds",
+                  "public_metrics": {
+                    "followers_count": 151439,
+                    "following_count": 1283,
+                    "tweet_count": 117572,
+                    "listed_count": 905
+                  },
+                  "id": "94782577",
+                  "verified": true,
+                  "protected": false,
+                  "created_at": "2009-12-05T12:26:34.000Z",
+                  "location": "Leeds, UK",
+                  "url": "https://t.co/LGxuGSA7HP"
+                },
+                {
+                  "description": "@BBCLeeds Breakfast Presenter | Writer | Faffer",
+                  "entities": {
+                    "url": {
+                      "urls": [
+                        {
+                          "start": 0,
+                          "end": 23,
+                          "url": "https://t.co/iZCpwWg1mo",
+                          "expanded_url": "https://www.bbc.co.uk/sounds/brand/p09fb4bp",
+                          "display_url": "bbc.co.uk/sounds/brand/p…"
+                        }
+                      ]
+                    },
+                    "description": {
+                      "mentions": [
+                        {
+                          "start": 0,
+                          "end": 9,
+                          "username": "BBCLeeds"
+                        }
+                      ]
+                    }
+                  },
+                  "name": "Rima",
+                  "pinned_tweet_id": "1550764003042988032",
+                  "profile_image_url": "https://pbs.twimg.com/profile_images/1522192554833371137/rVoGUI4z_normal.jpg",
+                  "username": "therimaahmed",
+                  "public_metrics": {
+                    "followers_count": 12340,
+                    "following_count": 2021,
+                    "tweet_count": 4195,
+                    "listed_count": 32
+                  },
+                  "id": "2580700791",
+                  "verified": false,
+                  "protected": false,
+                  "created_at": "2014-06-03T15:56:51.000Z",
+                  "url": "https://t.co/iZCpwWg1mo"
+                }
+              ]
+            }
+          }
+        }
+      }
+    ],
+    [
+      "embed",
+      {
+        "url": "https://twitter.com/charlotteahenry/status/1575410584060837888?s=21&t=_88wdF8QB-sadl7dXTGOhA",
+        "html": "<blockquote class=\"twitter-tweet\"><p lang=\"en\" dir=\"ltr\">The patronising surprise being displayed by some as they learn that journalists/presenters on BBC Local Radio are very good and tough interviewers says rather a lot about them.</p>&mdash; Charlotte Henry (@charlotteahenry) <a href=\"https://twitter.com/charlotteahenry/status/1575410584060837888?ref_src=twsrc%5Etfw\">September 29, 2022</a></blockquote>\n<script async src=\"https://platform.twitter.com/widgets.js\" charset=\"utf-8\"></script>\n",
+        "type": "twitter",
+        "metadata": {
+          "url": "https://twitter.com/charlotteahenry/status/1575410584060837888",
+          "author_name": "Charlotte Henry",
+          "author_url": "https://twitter.com/charlotteahenry",
+          "width": 550,
+          "height": null,
+          "cache_age": "3153600000",
+          "provider_name": "Twitter",
+          "provider_url": "http://www.twitter.com/",
+          "version": "1.0",
+          "tweet_data": {
+            "lang": "en",
+            "entities": {
+              "annotations": [
+                {
+                  "start": 94,
+                  "end": 108,
+                  "probability": 0.965,
+                  "type": "Organization",
+                  "normalized_text": "BBC Local Radio"
+                }
+              ]
+            },
+            "public_metrics": {
+              "retweet_count": 6,
+              "reply_count": 5,
+              "like_count": 22,
+              "quote_count": 0
+            },
+            "source": "Twitter for iPhone",
+            "created_at": "2022-09-29T09:02:07.000Z",
+            "id": "1575410584060837888",
+            "author_id": "320202040",
+            "text": "The patronising surprise being displayed by some as they learn that journalists/presenters on BBC Local Radio are very good and tough interviewers says rather a lot about them.",
+            "possibly_sensitive": false,
+            "conversation_id": "1575410584060837888",
+            "reply_settings": "everyone",
+            "context_annotations": [
+              {
+                "domain": {
+                  "id": "45",
+                  "name": "Brand Vertical",
+                  "description": "Top level entities that describe a Brands industry"
+                },
+                "entity": {
+                  "id": "781974597310615553",
+                  "name": "Entertainment"
+                }
+              },
+              {
+                "domain": {
+                  "id": "30",
+                  "name": "Entities [Entity Service]",
+                  "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain"
+                },
+                "entity": {
+                  "id": "781974597105094656",
+                  "name": "TV/Movies Related - Entertainment"
+                }
+              },
+              {
+                "domain": {
+                  "id": "47",
+                  "name": "Brand",
+                  "description": "Brands and Companies"
+                },
+                "entity": {
+                  "id": "1065659570578612224",
+                  "name": "BBC",
+                  "description": "BBC"
+                }
+              },
+              {
+                "domain": {
+                  "id": "131",
+                  "name": "Unified Twitter Taxonomy",
+                  "description": "A taxonomy view into the Semantic Core knowledge graph"
+                },
+                "entity": {
+                  "id": "1046545033657081857",
+                  "name": "News",
+                  "description": "News"
+                }
+              },
+              {
+                "domain": {
+                  "id": "131",
+                  "name": "Unified Twitter Taxonomy",
+                  "description": "A taxonomy view into the Semantic Core knowledge graph"
+                },
+                "entity": {
+                  "id": "1065659570578612224",
+                  "name": "BBC",
+                  "description": "BBC"
+                }
+              },
+              {
+                "domain": {
+                  "id": "131",
+                  "name": "Unified Twitter Taxonomy",
+                  "description": "A taxonomy view into the Semantic Core knowledge graph"
+                },
+                "entity": {
+                  "id": "1074755369530880001",
+                  "name": "Journalists",
+                  "description": "Journalism"
+                }
+              }
+            ],
+            "includes": {
+              "users": [
+                {
+                  "id": "320202040",
+                  "name": "Charlotte Henry",
+                  "protected": false,
+                  "verified": false,
+                  "created_at": "2011-06-19T13:59:39.000Z",
+                  "pinned_tweet_id": "1575122329688068098",
+                  "url": "https://t.co/noyJzg11xt",
+                  "public_metrics": {
+                    "followers_count": 4903,
+                    "following_count": 2759,
+                    "tweet_count": 65514,
+                    "listed_count": 198
+                  },
+                  "username": "charlotteahenry",
+                  "description": "Journalist covering media/tech/culture/politics at https://t.co/8iZOezorxk Book on #fakenews: https://t.co/AElZ4ncTOa Impatience is a virtue. #COYS",
+                  "entities": {
+                    "url": {
+                      "urls": [
+                        {
+                          "start": 0,
+                          "end": 23,
+                          "url": "https://t.co/noyJzg11xt",
+                          "expanded_url": "https://theaddition.substack.com/",
+                          "display_url": "theaddition.substack.com"
+                        }
+                      ]
+                    },
+                    "description": {
+                      "urls": [
+                        {
+                          "start": 51,
+                          "end": 74,
+                          "url": "https://t.co/8iZOezorxk",
+                          "expanded_url": "https://theaddition.substack.com",
+                          "display_url": "theaddition.substack.com"
+                        },
+                        {
+                          "start": 94,
+                          "end": 117,
+                          "url": "https://t.co/AElZ4ncTOa",
+                          "expanded_url": "http://amzn.to/2Xm3cIK",
+                          "display_url": "amzn.to/2Xm3cIK"
+                        }
+                      ],
+                      "hashtags": [
+                        {
+                          "start": 83,
+                          "end": 92,
+                          "tag": "fakenews"
+                        },
+                        {
+                          "start": 142,
+                          "end": 147,
+                          "tag": "COYS"
+                        }
+                      ]
+                    }
+                  },
+                  "profile_image_url": "https://pbs.twimg.com/profile_images/1089304395295178752/a4MYjezX_normal.jpg"
+                }
+              ]
+            }
+          }
+        }
+      }
+    ],
+    [
+      "embed",
+      {
+        "url": "https://twitter.com/shirishmm/status/1575435619001573376?s=21&t=_88wdF8QB-sadl7dXTGOhA",
+        "html": "<blockquote class=\"twitter-tweet\"><p lang=\"en\" dir=\"ltr\">“Journalism is an industry that prides itself on telling hard truths to other people, why can’t we take our own medicine.”<a href=\"https://twitter.com/rasmus_kleis?ref_src=twsrc%5Etfw\">@rasmus_kleis</a> dropping the truth bombs on journalism’s unwillingness to engage with the hard questions about content and product 🔥 <a href=\"https://twitter.com/hashtag/WNMC22?src=hash&amp;ref_src=twsrc%5Etfw\">#WNMC22</a> <a href=\"https://t.co/HPE7ZOMBFE\">pic.twitter.com/HPE7ZOMBFE</a></p>&mdash; Shirish Kulkarni (@ShirishMM) <a href=\"https://twitter.com/ShirishMM/status/1575435619001573376?ref_src=twsrc%5Etfw\">September 29, 2022</a></blockquote>\n<script async src=\"https://platform.twitter.com/widgets.js\" charset=\"utf-8\"></script>\n",
+        "type": "twitter",
+        "metadata": {
+          "url": "https://twitter.com/ShirishMM/status/1575435619001573376",
+          "author_name": "Shirish Kulkarni",
+          "author_url": "https://twitter.com/ShirishMM",
+          "width": 550,
+          "height": null,
+          "cache_age": "3153600000",
+          "provider_name": "Twitter",
+          "provider_url": "http://www.twitter.com/",
+          "version": "1.0",
+          "tweet_data": {
+            "possibly_sensitive": false,
+            "text": "“Journalism is an industry that prides itself on telling hard truths to other people, why can’t we take our own medicine.”\n\n@rasmus_kleis dropping the truth bombs on journalism’s unwillingness to engage with the hard questions about content and product 🔥 #WNMC22 https://t.co/HPE7ZOMBFE",
+            "author_id": "434065560",
+            "entities": {
+              "urls": [
+                {
+                  "start": 263,
+                  "end": 286,
+                  "url": "https://t.co/HPE7ZOMBFE",
+                  "expanded_url": "https://twitter.com/ShirishMM/status/1575435619001573376/photo/1",
+                  "display_url": "pic.twitter.com/HPE7ZOMBFE",
+                  "media_key": "3_1575435611670020097"
+                }
+              ],
+              "hashtags": [
+                {
+                  "start": 255,
+                  "end": 262,
+                  "tag": "WNMC22"
+                }
+              ],
+              "mentions": [
+                {
+                  "start": 124,
+                  "end": 137,
+                  "username": "rasmus_kleis",
+                  "id": "1699604941"
+                }
+              ]
+            },
+            "public_metrics": {
+              "retweet_count": 14,
+              "reply_count": 0,
+              "like_count": 41,
+              "quote_count": 3
+            },
+            "conversation_id": "1575435619001573376",
+            "context_annotations": [
+              {
+                "domain": {
+                  "id": "46",
+                  "name": "Business Taxonomy",
+                  "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+                },
+                "entity": {
+                  "id": "1557696940178935808",
+                  "name": "Gaming Business",
+                  "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers"
+                }
+              },
+              {
+                "domain": {
+                  "id": "131",
+                  "name": "Unified Twitter Taxonomy",
+                  "description": "A taxonomy view into the Semantic Core knowledge graph"
+                },
+                "entity": {
+                  "id": "1237072960952750081",
+                  "name": "Journalism"
+                }
+              },
+              {
+                "domain": {
+                  "id": "131",
+                  "name": "Unified Twitter Taxonomy",
+                  "description": "A taxonomy view into the Semantic Core knowledge graph"
+                },
+                "entity": {
+                  "id": "1278000653416099840",
+                  "name": "Writing"
+                }
+              }
+            ],
+            "created_at": "2022-09-29T10:41:36.000Z",
+            "source": "Twitter for iPhone",
+            "id": "1575435619001573376",
+            "attachments": {
+              "media_keys": [
+                "3_1575435611670020097"
+              ]
+            },
+            "lang": "en",
+            "reply_settings": "everyone",
+            "includes": {
+              "media": [
+                {
+                  "alt_text": "Panellists on stage at the World News Media Congress",
+                  "width": 2048,
+                  "media_key": "3_1575435611670020097",
+                  "url": "https://pbs.twimg.com/media/Fd0SV4AXgAEq-8H.jpg",
+                  "height": 1536,
+                  "type": "photo"
+                }
+              ],
+              "users": [
+                {
+                  "location": "Wales",
+                  "verified": false,
+                  "entities": {
+                    "url": {
+                      "urls": [
+                        {
+                          "start": 0,
+                          "end": 23,
+                          "url": "https://t.co/THckIydqAA",
+                          "expanded_url": "http://www.shirishkulkarni.co.uk",
+                          "display_url": "shirishkulkarni.co.uk"
+                        }
+                      ]
+                    },
+                    "description": {
+                      "mentions": [
+                        {
+                          "start": 50,
+                          "end": 62,
+                          "username": "clwstwrcreu"
+                        },
+                        {
+                          "start": 83,
+                          "end": 88,
+                          "username": "tbij"
+                        },
+                        {
+                          "start": 99,
+                          "end": 115,
+                          "username": "journalismcymru"
+                        },
+                        {
+                          "start": 124,
+                          "end": 133,
+                          "username": "GALWAD22"
+                        },
+                        {
+                          "start": 144,
+                          "end": 156,
+                          "username": "bmc_college"
+                        }
+                      ]
+                    }
+                  },
+                  "created_at": "2011-12-11T11:14:57.000Z",
+                  "public_metrics": {
+                    "followers_count": 3379,
+                    "following_count": 2998,
+                    "tweet_count": 4232,
+                    "listed_count": 56
+                  },
+                  "name": "Shirish Kulkarni",
+                  "profile_image_url": "https://pbs.twimg.com/profile_images/1467941691000819716/zzsgDjHD_normal.jpg",
+                  "id": "434065560",
+                  "username": "ShirishMM",
+                  "description": "Journalism Innovation & Inclusion | Storytelling  @clwstwrcreu | People’s Newsroom @tbij | Founder @journalismcymru | Board @GALWAD22 | Trustee @bmc_college",
+                  "pinned_tweet_id": "1546752868635508738",
+                  "protected": false,
+                  "url": "https://t.co/THckIydqAA"
+                },
+                {
+                  "location": "Oxford/airports/elsewhere",
+                  "verified": true,
+                  "entities": {
+                    "url": {
+                      "urls": [
+                        {
+                          "start": 0,
+                          "end": 23,
+                          "url": "https://t.co/bSQjqV1CqH",
+                          "expanded_url": "http://rasmuskleisnielsen.net/",
+                          "display_url": "rasmuskleisnielsen.net"
+                        }
+                      ]
+                    },
+                    "description": {
+                      "mentions": [
+                        {
+                          "start": 81,
+                          "end": 93,
+                          "username": "risj_oxford"
+                        }
+                      ]
+                    }
+                  },
+                  "created_at": "2013-08-25T16:13:17.000Z",
+                  "public_metrics": {
+                    "followers_count": 34127,
+                    "following_count": 5223,
+                    "tweet_count": 44982,
+                    "listed_count": 1032
+                  },
+                  "name": "Rasmus Kleis Nielsen",
+                  "profile_image_url": "https://pbs.twimg.com/profile_images/1038011854805757954/gVJhWRh8_normal.jpg",
+                  "id": "1699604941",
+                  "username": "rasmus_kleis",
+                  "description": "Media/news/journalism researcher, empiricist, occasional contrarian. Director of @risj_oxford and Professor of Political Communication, University of Oxford",
+                  "pinned_tweet_id": "1536952411838980097",
+                  "protected": false,
+                  "url": "https://t.co/bSQjqV1CqH"
+                }
+              ]
+            }
+          }
+        }
+      }
+    ],
+    [
+      "embed",
+      {
+        "url": "https://twitter.com/erika_marzano/status/1575441300274511874?s=21&t=_88wdF8QB-sadl7dXTGOhA",
+        "html": "<blockquote class=\"twitter-tweet\"><p lang=\"en\" dir=\"ltr\">TikTok is not made for serious journalism...blabla<br><br>Watch this <a href=\"https://twitter.com/dw_indonesia?ref_src=twsrc%5Etfw\">@dw_indonesia</a> explainer about food waste.<br>According to <a href=\"https://twitter.com/UNEP?ref_src=twsrc%5Etfw\">@UNEP</a> food waste has environmental, social and economic costs. Around 8-10% of global emissions are associated with non-consumed food 🥗<a href=\"https://t.co/nMG7KNrTpb\">https://t.co/nMG7KNrTpb</a></p>&mdash; Erika Marzano (@erika_marzano) <a href=\"https://twitter.com/erika_marzano/status/1575441300274511874?ref_src=twsrc%5Etfw\">September 29, 2022</a></blockquote>\n<script async src=\"https://platform.twitter.com/widgets.js\" charset=\"utf-8\"></script>\n",
+        "type": "twitter",
+        "metadata": {
+          "url": "https://twitter.com/erika_marzano/status/1575441300274511874",
+          "author_name": "Erika Marzano",
+          "author_url": "https://twitter.com/erika_marzano",
+          "width": 550,
+          "height": null,
+          "cache_age": "3153600000",
+          "provider_name": "Twitter",
+          "provider_url": "http://www.twitter.com/",
+          "version": "1.0",
+          "tweet_data": {
+            "entities": {
+              "urls": [
+                {
+                  "start": 255,
+                  "end": 278,
+                  "url": "https://t.co/nMG7KNrTpb",
+                  "expanded_url": "https://www.tiktok.com/@dw.nesia/video/7148741004298865946?_r=1&_t=8W5MqhwTxiQ&is_from_webapp=v1&item_id=7148741004298865946",
+                  "display_url": "tiktok.com/@dw.nesia/vide…",
+                  "images": [
+                    {
+                      "url": "https://pbs.twimg.com/news_img/1575441302119915520/fvDnlq5-?format=jpg&name=orig",
+                      "width": 540,
+                      "height": 960
+                    },
+                    {
+                      "url": "https://pbs.twimg.com/news_img/1575441302119915520/fvDnlq5-?format=jpg&name=150x150",
+                      "width": 150,
+                      "height": 150
+                    }
+                  ],
+                  "status": 200,
+                  "title": "DW Indonesia on TikTok",
+                  "description": "Tahukah kamu, Indonesia adalah produsen sampah makanan terbesar di ASEAN? #dwnesia #sampahmakanan #foodwaste #foodloss #awareness",
+                  "unwound_url": "https://www.tiktok.com/@dw.nesia/video/7148741004298865946?_r=1&_t=8W5MqhwTxiQ&is_from_webapp=v1&item_id=7148741004298865946"
+                }
+              ],
+              "mentions": [
+                {
+                  "start": 63,
+                  "end": 76,
+                  "username": "dw_indonesia",
+                  "id": "150581612"
+                },
+                {
+                  "start": 118,
+                  "end": 123,
+                  "username": "UNEP",
+                  "id": "38146999"
+                }
+              ]
+            },
+            "created_at": "2022-09-29T11:04:10.000Z",
+            "possibly_sensitive": false,
+            "context_annotations": [
+              {
+                "domain": {
+                  "id": "30",
+                  "name": "Entities [Entity Service]",
+                  "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain"
+                },
+                "entity": {
+                  "id": "781974596752842752",
+                  "name": "Services"
+                }
+              },
+              {
+                "domain": {
+                  "id": "47",
+                  "name": "Brand",
+                  "description": "Brands and Companies"
+                },
+                "entity": {
+                  "id": "1286296657135468545",
+                  "name": "TikTok"
+                }
+              },
+              {
+                "domain": {
+                  "id": "47",
+                  "name": "Brand",
+                  "description": "Brands and Companies"
+                },
+                "entity": {
+                  "id": "1286296657135468545",
+                  "name": "TikTok"
+                }
+              },
+              {
+                "domain": {
+                  "id": "131",
+                  "name": "Unified Twitter Taxonomy",
+                  "description": "A taxonomy view into the Semantic Core knowledge graph"
+                },
+                "entity": {
+                  "id": "1196446161223028736",
+                  "name": "Social media"
+                }
+              },
+              {
+                "domain": {
+                  "id": "131",
+                  "name": "Unified Twitter Taxonomy",
+                  "description": "A taxonomy view into the Semantic Core knowledge graph"
+                },
+                "entity": {
+                  "id": "1237072960952750081",
+                  "name": "Journalism"
+                }
+              },
+              {
+                "domain": {
+                  "id": "131",
+                  "name": "Unified Twitter Taxonomy",
+                  "description": "A taxonomy view into the Semantic Core knowledge graph"
+                },
+                "entity": {
+                  "id": "1278000653416099840",
+                  "name": "Writing"
+                }
+              },
+              {
+                "domain": {
+                  "id": "131",
+                  "name": "Unified Twitter Taxonomy",
+                  "description": "A taxonomy view into the Semantic Core knowledge graph"
+                },
+                "entity": {
+                  "id": "1286296657135468545",
+                  "name": "TikTok"
+                }
+              },
+              {
+                "domain": {
+                  "id": "165",
+                  "name": "Technology",
+                  "description": "for individual and types of technology, e.g., food technology, 3D printing"
+                },
+                "entity": {
+                  "id": "1196446161223028736",
+                  "name": "Social media"
+                }
+              },
+              {
+                "domain": {
+                  "id": "45",
+                  "name": "Brand Vertical",
+                  "description": "Top level entities that describe a Brands industry"
+                },
+                "entity": {
+                  "id": "781974596157251587",
+                  "name": "Government/Education"
+                }
+              },
+              {
+                "domain": {
+                  "id": "30",
+                  "name": "Entities [Entity Service]",
+                  "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain"
+                },
+                "entity": {
+                  "id": "781974597226729473",
+                  "name": "Non-profit - Government/Education"
+                }
+              },
+              {
+                "domain": {
+                  "id": "47",
+                  "name": "Brand",
+                  "description": "Brands and Companies"
+                },
+                "entity": {
+                  "id": "10043140156",
+                  "name": "UNEP"
+                }
+              }
+            ],
+            "lang": "en",
+            "public_metrics": {
+              "retweet_count": 0,
+              "reply_count": 0,
+              "like_count": 3,
+              "quote_count": 0
+            },
+            "id": "1575441300274511874",
+            "source": "Twitter Web App",
+            "text": "TikTok is not made for serious journalism...blabla\n\nWatch this @dw_indonesia explainer about food waste.\nAccording to @UNEP food waste has environmental, social and economic costs. Around 8-10% of global emissions are associated with non-consumed food 🥗\n\nhttps://t.co/nMG7KNrTpb",
+            "conversation_id": "1575441300274511874",
+            "author_id": "109206822",
+            "reply_settings": "everyone",
+            "includes": {
+              "users": [
+                {
+                  "description": "📍 audience development @DeutscheWelle | formerly @iclei social media | views are my own | she/her | 🇮🇹 in 🇩🇪",
+                  "id": "109206822",
+                  "verified": false,
+                  "public_metrics": {
+                    "followers_count": 984,
+                    "following_count": 2077,
+                    "tweet_count": 37598,
+                    "listed_count": 19
+                  },
+                  "url": "https://t.co/BSrOMBOlwx",
+                  "profile_image_url": "https://pbs.twimg.com/profile_images/1563825806354354177/tnynYeWD_normal.jpg",
+                  "entities": {
+                    "url": {
+                      "urls": [
+                        {
+                          "start": 0,
+                          "end": 23,
+                          "url": "https://t.co/BSrOMBOlwx",
+                          "expanded_url": "https://erikamarzano.wordpress.com/",
+                          "display_url": "erikamarzano.wordpress.com"
+                        }
+                      ]
+                    },
+                    "description": {
+                      "mentions": [
+                        {
+                          "start": 23,
+                          "end": 37,
+                          "username": "DeutscheWelle"
+                        },
+                        {
+                          "start": 49,
+                          "end": 55,
+                          "username": "iclei"
+                        }
+                      ]
+                    }
+                  },
+                  "username": "erika_marzano",
+                  "created_at": "2010-01-28T08:56:17.000Z",
+                  "protected": false,
+                  "name": "Erika Marzano",
+                  "pinned_tweet_id": "1573218212703092736",
+                  "location": "Bonn, Germany"
+                },
+                {
+                  "description": "Tempat diskusi asyik bagi para pecinta IPTEK, lingkungan, sosial, dan budaya! Mau dari Indonesia 🇮🇩, Jerman 🇩🇪, dan dunia 🌎🌍🌏, semua ada di sini!",
+                  "id": "150581612",
+                  "verified": true,
+                  "public_metrics": {
+                    "followers_count": 70068,
+                    "following_count": 1087,
+                    "tweet_count": 81662,
+                    "listed_count": 331
+                  },
+                  "url": "https://t.co/0OSUuU7bZf",
+                  "profile_image_url": "https://pbs.twimg.com/profile_images/1456195764342837248/CVpvBpX3_normal.jpg",
+                  "entities": {
+                    "url": {
+                      "urls": [
+                        {
+                          "start": 0,
+                          "end": 23,
+                          "url": "https://t.co/0OSUuU7bZf",
+                          "expanded_url": "http://www.dw.com/indonesia",
+                          "display_url": "dw.com/indonesia"
+                        }
+                      ]
+                    }
+                  },
+                  "username": "dw_indonesia",
+                  "created_at": "2010-06-01T08:42:06.000Z",
+                  "protected": false,
+                  "name": "DW Indonesia",
+                  "pinned_tweet_id": "1574725585112223744",
+                  "location": "Bonn, Jerman"
+                },
+                {
+                  "description": "Official account of the United Nations Environment Programme.",
+                  "id": "38146999",
+                  "verified": true,
+                  "public_metrics": {
+                    "followers_count": 1248202,
+                    "following_count": 2969,
+                    "tweet_count": 35025,
+                    "listed_count": 11879
+                  },
+                  "url": "https://t.co/fxXhQKw5ly",
+                  "profile_image_url": "https://pbs.twimg.com/profile_images/1186261881436229632/3NxNNjLZ_normal.png",
+                  "entities": {
+                    "url": {
+                      "urls": [
+                        {
+                          "start": 0,
+                          "end": 23,
+                          "url": "https://t.co/fxXhQKw5ly",
+                          "expanded_url": "https://www.unep.org/",
+                          "display_url": "unep.org"
+                        }
+                      ]
+                    }
+                  },
+                  "username": "UNEP",
+                  "created_at": "2009-05-06T09:34:32.000Z",
+                  "protected": false,
+                  "name": "UN Environment Programme",
+                  "location": "Nairobi, Kenya"
+                }
+              ]
+            }
+          }
+        }
+      }
+    ],
+    [
+      "embed",
+      {
+        "url": "https://twitter.com/benwhitelaw/status/1576933732719525888?s=21&t=ew63se6Po6kvffuzNRuuiQ",
+        "html": "<blockquote class=\"twitter-tweet\"><p lang=\"en\" dir=\"ltr\">If UK subs publishers do well out of the economic chaos of the last week, we&#39;re calling it the Slump Bump™ right? <a href=\"https://twitter.com/hashtag/journobiz?src=hash&amp;ref_src=twsrc%5Etfw\">#journobiz</a></p>&mdash; Ben Whitelaw (@benwhitelaw) <a href=\"https://twitter.com/benwhitelaw/status/1576933732719525888?ref_src=twsrc%5Etfw\">October 3, 2022</a></blockquote>\n<script async src=\"https://platform.twitter.com/widgets.js\" charset=\"utf-8\"></script>\n",
+        "type": "twitter",
+        "metadata": {
+          "url": "https://twitter.com/benwhitelaw/status/1576933732719525888",
+          "author_name": "Ben Whitelaw",
+          "author_url": "https://twitter.com/benwhitelaw",
+          "width": 550,
+          "height": null,
+          "cache_age": "3153600000",
+          "provider_name": "Twitter",
+          "provider_url": "http://www.twitter.com/",
+          "version": "1.0",
+          "tweet_data": {
+            "public_metrics": {
+              "retweet_count": 1,
+              "reply_count": 1,
+              "like_count": 2,
+              "quote_count": 0
+            },
+            "lang": "en",
+            "entities": {
+              "hashtags": [
+                {
+                  "start": 116,
+                  "end": 126,
+                  "tag": "journobiz"
+                }
+              ]
+            },
+            "context_annotations": [
+              {
+                "domain": {
+                  "id": "131",
+                  "name": "Unified Twitter Taxonomy",
+                  "description": "A taxonomy view into the Semantic Core knowledge graph"
+                },
+                "entity": {
+                  "id": "847511168268644352",
+                  "name": "Global Economy",
+                  "description": "Conversation about global finance and economies."
+                }
+              }
+            ],
+            "created_at": "2022-10-03T13:54:34.000Z",
+            "possibly_sensitive": false,
+            "reply_settings": "everyone",
+            "text": "If UK subs publishers do well out of the economic chaos of the last week, we're calling it the Slump Bump™ right? \n\n#journobiz",
+            "id": "1576933732719525888",
+            "author_id": "208250069",
+            "source": "Twitter Web App",
+            "edit_history_tweet_ids": [
+              "1576933732719525888"
+            ],
+            "conversation_id": "1576933732719525888",
+            "includes": {
+              "users": [
+                {
+                  "entities": {
+                    "url": {
+                      "urls": [
+                        {
+                          "start": 0,
+                          "end": 23,
+                          "url": "https://t.co/2v9RFCO46x",
+                          "expanded_url": "http://benwhitelaw.co.uk/",
+                          "display_url": "benwhitelaw.co.uk"
+                        }
+                      ]
+                    },
+                    "description": {
+                      "hashtags": [
+                        {
+                          "start": 116,
+                          "end": 121,
+                          "tag": "LUFC"
+                        }
+                      ],
+                      "mentions": [
+                        {
+                          "start": 40,
+                          "end": 53,
+                          "username": "FTStrategies"
+                        },
+                        {
+                          "start": 61,
+                          "end": 68,
+                          "username": "EJCnet"
+                        },
+                        {
+                          "start": 70,
+                          "end": 79,
+                          "username": "TheTimes"
+                        },
+                        {
+                          "start": 81,
+                          "end": 90,
+                          "username": "Guardian"
+                        },
+                        {
+                          "start": 92,
+                          "end": 104,
+                          "username": "TheBJReview"
+                        },
+                        {
+                          "start": 135,
+                          "end": 144,
+                          "username": "eimdotco"
+                        }
+                      ]
+                    }
+                  },
+                  "username": "benwhitelaw",
+                  "public_metrics": {
+                    "followers_count": 6560,
+                    "following_count": 3254,
+                    "tweet_count": 16842,
+                    "listed_count": 321
+                  },
+                  "name": "Ben Whitelaw",
+                  "verified": true,
+                  "protected": false,
+                  "profile_image_url": "https://pbs.twimg.com/profile_images/1380452446284218372/2VVk3GSH_normal.jpg",
+                  "url": "https://t.co/2v9RFCO46x",
+                  "created_at": "2010-10-26T23:05:15.000Z",
+                  "id": "208250069",
+                  "description": "Supporting sustainable media businesses @FTStrategies. Past: @EJCnet, @TheTimes, @Guardian. @TheBJReview board. Shy #LUFC fan. I write @eimdotco (he/him)",
+                  "pinned_tweet_id": "1556923574685949953"
+                }
+              ]
+            }
+          }
+        }
+      }
+    ]
+  ],
+  "markups": [
+    [
+      "a",
+      [
+        "href",
+        "https://twitter.com/marcsettle/status/1575431505530216448?s=21&t=_88wdF8QB-sadl7dXTGOhA"
+      ]
+    ]
+  ],
+  "sections": [
+    [
+      1,
+      "p",
+      []
+    ],
+    [
+      10,
+      0
+    ],
+    [
+      10,
+      1
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "[via "
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "Marc Blank-Settle"
+        ],
+        [
+          0,
+          [],
+          0,
+          "]"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      []
+    ],
+    [
+      10,
+      2
+    ],
+    [
+      10,
+      3
+    ],
+    [
+      1,
+      "p",
+      []
+    ],
+    [
+      10,
+      4
+    ],
+    [
+      10,
+      5
+    ],
+    [
+      1,
+      "p",
+      []
+    ]
+  ],
+  "ghostVersion": "4.0"
+}

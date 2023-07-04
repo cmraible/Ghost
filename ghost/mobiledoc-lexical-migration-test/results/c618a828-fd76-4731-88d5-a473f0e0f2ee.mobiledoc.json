@@ -1,0 +1,906 @@
+{
+  "version": "0.3.1",
+  "atoms": [],
+  "cards": [
+    [
+      "embed",
+      {
+        "url": "https://www.youtube.com/watch?v=ytmtTSxjaiE",
+        "html": "<iframe width=\"200\" height=\"113\" src=\"https://www.youtube.com/embed/ytmtTSxjaiE?feature=oembed\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen title=\"Ghost Song Launch Trailer - Available NOW | Humble Games\"></iframe>",
+        "type": "video",
+        "metadata": {
+          "title": "Ghost Song Launch Trailer - Available NOW | Humble Games",
+          "author_name": "Humble Games",
+          "author_url": "https://www.youtube.com/@HumbleGames",
+          "height": 113,
+          "width": 200,
+          "version": "1.0",
+          "provider_name": "YouTube",
+          "provider_url": "https://www.youtube.com/",
+          "thumbnail_height": 360,
+          "thumbnail_width": 480,
+          "thumbnail_url": "https://i.ytimg.com/vi/ytmtTSxjaiE/hqdefault.jpg"
+        }
+      }
+    ],
+    [
+      "gallery",
+      {
+        "images": [
+          {
+            "fileName": "Screenshot 1.jpg",
+            "row": 0,
+            "width": 2560,
+            "height": 1440,
+            "src": "__GHOST_URL__/content/images/2022/11/Screenshot-1.jpg"
+          },
+          {
+            "fileName": "Screenshot 2.jpg",
+            "row": 0,
+            "width": 2560,
+            "height": 1440,
+            "src": "__GHOST_URL__/content/images/2022/11/Screenshot-2.jpg"
+          },
+          {
+            "fileName": "Screenshot 3.jpg",
+            "row": 0,
+            "width": 2560,
+            "height": 1440,
+            "src": "__GHOST_URL__/content/images/2022/11/Screenshot-3.jpg"
+          }
+        ]
+      }
+    ],
+    [
+      "image",
+      {
+        "src": "__GHOST_URL__/content/images/2022/06/Patreon-1--2-.png",
+        "width": 728,
+        "height": 90,
+        "href": "https://www.patreon.com/switchaboo"
+      }
+    ]
+  ],
+  "markups": [
+    [
+      "em"
+    ],
+    [
+      "strong"
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/ender-lilies-quietus-of-the-knights-switch-review/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.patreon.com/switchaboo"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.campedoutgame.com/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://rss.com/podcasts/nintenvania/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/various-daylife-switch-review/"
+      ]
+    ]
+  ],
+  "sections": [
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "The Kickstarter campaign for "
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "Ghost Song "
+        ],
+        [
+          0,
+          [],
+          0,
+          "began way back in 2013 and finally, here we are! I’ve always had a soft spot for solo-dev games, and "
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "Ghost Song "
+        ],
+        [
+          0,
+          [],
+          0,
+          "is the latest example of this from Matt White. Metroidvanias are perhaps more conducive to this as they are self-contained worlds and tend to be more passion-projects. "
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "Axiom Verge 1 and 2 "
+        ],
+        [
+          0,
+          [],
+          0,
+          "from Thomas Happ sprang to mind when reading about Matt White’s development story, and I’m eager to see whether "
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "Ghost Song"
+        ],
+        [
+          0,
+          [],
+          0,
+          " stands up to those."
+        ]
+      ]
+    ],
+    [
+      10,
+      0
+    ],
+    [
+      1,
+      "h3",
+      [
+        [
+          0,
+          [],
+          0,
+          "The Good"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "The story of "
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "Ghost Song "
+        ],
+        [
+          0,
+          [],
+          0,
+          "is set on a barren moon known as Lorian. Interwoven into Lorian’s ecosystem is a bunch of humanoid bionic-suited beings known as ‘deadsuits’, one of which is the story’s protagonist. The deadsuit you occupy (who is referred to in-game as ‘Deadsuit’) is frequently troubled by her own musings as to whether she’s human, robot, mechanoid, or something else entirely. She encounters a number of humans on her journey and it’s through dialogue with them that she is constantly trying to work out what she is and why she’s there. Deadsuit’s troubled reflections on her identity are told through careful and thought-provoking dialogue which tackles identity and self-esteem; something we can all relate to. The discovery of humans also forms the main plot point; you soon realise that the few remaining humans on Lorian have set up a base camp around a crashed spaceship, and you agree to help them track down the pieces they need to repair the ship and escape the desolate moon."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "It’s quite clear (and openly admitted in interviews) that "
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "Ghost Song "
+        ],
+        [
+          0,
+          [],
+          0,
+          "is strongly influenced by "
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "Super Metroid. "
+        ],
+        [
+          0,
+          [],
+          0,
+          "There’s an overwhelming feeling of isolation on Lorian and you really feel quite intimidated as you burrow deeper within the moon. The overall unsettling feel is amplified by some great audio, both from the background music and the bone-chilling battle cries that each creature makes. "
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Also, I’m delighted to say that the combat in "
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "Ghost Song "
+        ],
+        [
+          0,
+          [],
+          0,
+          "is crisp and effective. As is commonplace in metroidvanias, you can either shoot in the direction you’re facing or manually aim and shoot. Here, if you hold down ZL, you can manually aim, but it feels natural and allows you to effectively run-and-gun, rather than other manual aiming systems that are awkward and clunky as I have often found in other action-platformers."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [
+            1
+          ],
+          1,
+          "TL;DR"
+        ]
+      ]
+    ],
+    [
+      3,
+      "ul",
+      [
+        [
+          [
+            0,
+            [],
+            0,
+            "Story of self-discovery is engrossing and relatable"
+          ]
+        ],
+        [
+          [
+            0,
+            [],
+            0,
+            "Unsettling feeling of isolation is a faithful throwback to "
+          ],
+          [
+            0,
+            [
+              0
+            ],
+            1,
+            "Super Metroid"
+          ]
+        ],
+        [
+          [
+            0,
+            [],
+            0,
+            "Smooth combat and aiming system"
+          ]
+        ]
+      ]
+    ],
+    [
+      10,
+      1
+    ],
+    [
+      1,
+      "h3",
+      [
+        [
+          0,
+          [],
+          0,
+          "The Bad"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "If we’re inevitably comparing "
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "Ghost Song "
+        ],
+        [
+          0,
+          [],
+          0,
+          "to "
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "Super Metroid"
+        ],
+        [
+          0,
+          [],
+          0,
+          ", let’s quickly go through things… Isolated atmosphere? Check. Smooth run-and-gun combat? Check. Exploration? Check. Agile traversal and platforming?... Ah, this for me is where things falter a bit. In "
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "Super Metroid"
+        ],
+        [
+          0,
+          [],
+          0,
+          ","
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          " "
+        ],
+        [
+          0,
+          [],
+          0,
+          "Samus Aran jumps around almost like a ballerina or a gymnast, spinning through the air as you move from platform-to-platform. However in "
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "Ghost Song"
+        ],
+        [
+          0,
+          [],
+          0,
+          ","
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          " "
+        ],
+        [
+          0,
+          [],
+          0,
+          "things are a lot slower and unresponsive. Deadsuit jumps in a rigid and weirdly upright manner, meaning the platforming sections feel more like "
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "Super Mario Bros"
+        ],
+        [
+          0,
+          [],
+          0,
+          " than "
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "Super Metroid. "
+        ],
+        [
+          0,
+          [],
+          0,
+          "For the first few hours of "
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "Ghost Song"
+        ],
+        [
+          0,
+          [],
+          0,
+          ","
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          " "
+        ],
+        [
+          0,
+          [],
+          0,
+          "most of the boss fights you encounter are mini-bosses, but the first true boss you face (Henriette Scuttle) is another deadsuit, and at this point the agility, or lack thereof, of the Deadsuit that you play as is immediately exposed. Deadsuit turns like a small tank and the dash is annoyingly unresponsive."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "I had a similar bug-bear with "
+        ],
+        [
+          0,
+          [
+            2,
+            0
+          ],
+          2,
+          "Ender Lilies: Quietus of the Knights"
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "; "
+        ],
+        [
+          0,
+          [],
+          0,
+          "the indicator of low-health in "
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "Ghost Song "
+        ],
+        [
+          0,
+          [],
+          0,
+          "is far too inadequate and almost non-existent, in fact. You have a main health bar which can be replenished by manually using ‘health cores’. However, I died too many times in the heat of the moment where I didn’t realise my life was low and didn’t use a health core in time. Sure you might say that’s on me and my playing abilities, but it felt unnecessarily punishing."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Lastly, on the subject of being unnecessarily punishing, the positioning of some of the save points and fast travel locations feels a little too scarce. Also, I feel as though it’s gaming ‘etiquette’ to position a save point just before each boss battle so when you inevitably die on the first few attempts, you can restart almost instantly. However in "
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "Ghost Song"
+        ],
+        [
+          0,
+          [],
+          0,
+          ","
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          " "
+        ],
+        [
+          0,
+          [],
+          0,
+          "this etiquette isn’t always followed. In fact, the aforementioned Henriette Scuttle is a great example of this; the previous save point before the boss fight is at least three to five minutes worth of gameplay further back. Agh!"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [
+            1
+          ],
+          1,
+          "TL;DR"
+        ]
+      ]
+    ],
+    [
+      3,
+      "ul",
+      [
+        [
+          [
+            0,
+            [],
+            0,
+            "Awkward jumping and platforming"
+          ]
+        ],
+        [
+          [
+            0,
+            [],
+            0,
+            "Inadequate low-health indicator"
+          ]
+        ],
+        [
+          [
+            0,
+            [],
+            0,
+            "Frustrating pacing and frequency of save points"
+          ]
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      []
+    ],
+    [
+      10,
+      2
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Final Score: 8/10"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "For me, ultimately, the positives far outweigh the negatives in "
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "Ghost Song"
+        ],
+        [
+          0,
+          [],
+          0,
+          ", just"
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          " "
+        ],
+        [
+          0,
+          [],
+          0,
+          "in case that wasn’t abundantly clear. Most of the negatives are merely balancing issues which can probably be addressed. Matt White has done a fantastic job of stirring up those "
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "Super Metroid "
+        ],
+        [
+          0,
+          [],
+          0,
+          "memories. I would still say that "
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "Axiom Verge "
+        ],
+        [
+          0,
+          [],
+          0,
+          "is the best homage to the "
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "Metroid "
+        ],
+        [
+          0,
+          [],
+          0,
+          "games of old, but "
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "Ghost Song "
+        ],
+        [
+          0,
+          [],
+          0,
+          "is a very close second. Keep up the good work, Mr. White!"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          " "
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Thank you for checking out our "
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "Ghost Song"
+        ],
+        [
+          0,
+          [],
+          0,
+          " Switch review, thank you to Humble Games for providing the review code and thank you to our "
+        ],
+        [
+          0,
+          [
+            3
+          ],
+          1,
+          "Patreon"
+        ],
+        [
+          0,
+          [],
+          0,
+          " Backers for their ongoing support:"
+        ]
+      ]
+    ],
+    [
+      3,
+      "ul",
+      [
+        [
+          [
+            0,
+            [
+              4
+            ],
+            1,
+            "Andrew Caluzzi (Inca Studios / Camped Out)"
+          ]
+        ],
+        [
+          [
+            0,
+            [],
+            0,
+            "Bel Cubitt"
+          ]
+        ],
+        [
+          [
+            0,
+            [
+              5
+            ],
+            1,
+            "NintenVania Podcast"
+          ]
+        ],
+        [
+          [
+            0,
+            [],
+            0,
+            "Rachelle Suri-Tucker"
+          ]
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [
+            1,
+            6,
+            1,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          17,
+          "For more reading, check out our "
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "Various Daylife"
+        ],
+        [
+          0,
+          [
+            1,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          11,
+          " review."
+        ]
+      ]
+    ]
+  ],
+  "ghostVersion": "4.0"
+}

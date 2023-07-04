@@ -1,0 +1,131 @@
+{
+  "version": "0.3.1",
+  "atoms": [],
+  "cards": [
+    [
+      "email-cta",
+      {
+        "showButton": true,
+        "showDividers": false,
+        "segment": "status:free",
+        "alignment": "center",
+        "html": "<p><strong><em>Please <a href=\"__GHOST_URL__/subscribe\">become a paid subscriber</a>. You get exclusive podcasts, <a href=\"__GHOST_URL__/citizens-guide-to-holding-the-powerful-accountable/\">digital publications</a>, and live events – and you support this journalism.</em></strong></p>",
+        "buttonText": "Click Here To Subscribe",
+        "buttonUrl": "__GHOST_URL__/subscribe"
+      }
+    ],
+    [
+      "email-cta",
+      {
+        "showButton": true,
+        "showDividers": false,
+        "segment": "status:free",
+        "alignment": "center",
+        "html": "<p><em><strong>This is a short excerpt of </strong></em><strong>The Daily Poster</strong><em><strong>’s Weekend Reading List, which is <a href=\"__GHOST_URL__/weekend-reader-its-the-economy-stupid\">available to supporting subscribers here</a>. You can </strong></em><a href=\"__GHOST_URL__/subscribe\"><em><strong>click here</strong></em></a><em><strong> to become a </strong></em><strong>Daily Poster</strong><em><strong> supporting subscriber for $8 a month or $70 a year. When you subscribe, you are helping us do this reporting and hire more journalists.</strong></em></p>",
+        "buttonText": "Click Here To Subscribe",
+        "buttonUrl": "__GHOST_URL__/subscribe"
+      }
+    ]
+  ],
+  "markups": [
+    [
+      "strong"
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/weekend-reader-its-the-economy-stupid"
+      ]
+    ]
+  ],
+  "sections": [
+    [
+      10,
+      0
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "With all the headlines about supply chain woes and photos of empty grocery store shelves and container ships waiting in line at ship ports, one could get the impression that the economy is in shambles. At least, that’s what Republicans yelling about inflation want you to think. As we note in this edition of Weekend Reader, a number of reporters and economists dug into the issue to see what is really going on with the economy, and concluded that despite inflation, real wages are going up and government stimulus is working."
+        ]
+      ]
+    ],
+    [
+      1,
+      "h3",
+      [
+        [
+          0,
+          [
+            0
+          ],
+          0,
+          "Also In "
+        ],
+        [
+          0,
+          [
+            1
+          ],
+          1,
+          "Today’s Weekend Reader"
+        ],
+        [
+          0,
+          [],
+          1,
+          ":"
+        ]
+      ]
+    ],
+    [
+      3,
+      "ul",
+      [
+        [
+          [
+            0,
+            [],
+            0,
+            "Inside the battle for Buffalo."
+          ]
+        ],
+        [
+          [
+            0,
+            [],
+            0,
+            "Why Democrats refuse to stand up to Big Pharma."
+          ]
+        ],
+        [
+          [
+            0,
+            [],
+            0,
+            "The truth about today’s labor movement."
+          ]
+        ],
+        [
+          [
+            0,
+            [],
+            0,
+            "A disinformation startup called Good Information might be misnamed."
+          ]
+        ]
+      ]
+    ],
+    [
+      10,
+      1
+    ]
+  ],
+  "ghostVersion": "4.0"
+}

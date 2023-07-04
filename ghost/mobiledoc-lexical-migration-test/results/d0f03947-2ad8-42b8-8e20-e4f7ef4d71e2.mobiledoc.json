@@ -1,0 +1,587 @@
+{
+  "version": "0.3.1",
+  "atoms": [],
+  "cards": [
+    [
+      "paywall",
+      {}
+    ],
+    [
+      "bookmark",
+      {
+        "url": "__GHOST_URL__/seo-on-page-optimisation/",
+        "metadata": {
+          "url": "__GHOST_URL__/seo-on-page-optimisation/",
+          "title": "SEO: On Page Optimisation",
+          "description": "How to make fully SEO-ready pages.",
+          "author": "Adam Tinworth",
+          "publisher": "One Man & His Blog",
+          "thumbnail": "https://images.unsplash.com/photo-1482062364825-616fd23b8fc1?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=2000&fit=max&ixid=eyJhcHBfaWQiOjExNzczfQ",
+          "icon": "__GHOST_URL__/favicon.png"
+        }
+      }
+    ],
+    [
+      "bookmark",
+      {
+        "url": "__GHOST_URL__/seo-links-and-linking/",
+        "metadata": {
+          "url": "__GHOST_URL__/seo-links-and-linking/",
+          "title": "SEO: Links and Linking",
+          "description": "How to link for SEO joy.",
+          "author": "Adam Tinworth",
+          "publisher": "One Man & His Blog",
+          "thumbnail": "https://images.unsplash.com/photo-1416543974351-c28453497ef4?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=2000&fit=max&ixid=eyJhcHBfaWQiOjExNzczfQ",
+          "icon": "__GHOST_URL__/favicon.png"
+        }
+      }
+    ],
+    [
+      "bookmark",
+      {
+        "url": "__GHOST_URL__/seo-helps-hinderences/",
+        "metadata": {
+          "url": "__GHOST_URL__/seo-helps-hinderences/",
+          "title": "SEO: Helps & Hindrances",
+          "description": "Other factors to take into account in your SEO.",
+          "author": "Adam Tinworth",
+          "publisher": "One Man & His Blog",
+          "thumbnail": "https://images.unsplash.com/photo-1534078362425-387ae9668c17?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=2000&fit=max&ixid=eyJhcHBfaWQiOjExNzczfQ",
+          "icon": "__GHOST_URL__/favicon.png"
+        }
+      }
+    ],
+    [
+      "bookmark",
+      {
+        "url": "__GHOST_URL__/seo-paywalls/",
+        "metadata": {
+          "url": "__GHOST_URL__/seo-paywalls/",
+          "title": "SEO & Paywalls",
+          "description": "How does Google approach indexing paywalled content?",
+          "author": "Adam Tinworth",
+          "publisher": "One Man & His Blog",
+          "thumbnail": "https://images.unsplash.com/photo-1487088678257-3a541e6e3922?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=2000&fit=max&ixid=eyJhcHBfaWQiOjExNzczfQ",
+          "icon": "__GHOST_URL__/favicon.png"
+        }
+      }
+    ],
+    [
+      "bookmark",
+      {
+        "url": "__GHOST_URL__/seo-with-wordpress-and-yoast/",
+        "metadata": {
+          "url": "__GHOST_URL__/seo-with-wordpress-and-yoast/",
+          "title": "SEO with WordPress and Yoast",
+          "description": "A quick guide to the technical bits of using Yoast to improve your WordPress SEO.",
+          "author": "Adam Tinworth",
+          "publisher": "One Man & His Blog",
+          "thumbnail": "https://images.unsplash.com/photo-1566207474742-de921626ad0c?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=2000&fit=max&ixid=eyJhcHBfaWQiOjExNzczfQ",
+          "icon": "__GHOST_URL__/favicon.png"
+        }
+      }
+    ],
+    [
+      "bookmark",
+      {
+        "url": "__GHOST_URL__/seo-stop-words/",
+        "metadata": {
+          "url": "__GHOST_URL__/seo-stop-words/",
+          "title": "SEO: Stop Words and why you shouldn’t worry about them",
+          "description": "Should we be worrying about SEO in the 2020s?",
+          "author": "Adam Tinworth",
+          "publisher": "One Man & His Blog",
+          "thumbnail": "https://images.unsplash.com/photo-1523537444585-432d2bacc10d?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=2000&fit=max&ixid=eyJhcHBfaWQiOjExNzczfQ",
+          "icon": "__GHOST_URL__/favicon.png"
+        }
+      }
+    ]
+  ],
+  "markups": [
+    [
+      "em"
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://en.wikipedia.org/wiki/PageRank"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "http://searchengineland.com/google-has-confirmed-they-are-removing-toolbar-pagerank-244230"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://searchengineland.com/google-move-sites-mobile-first-index-within-next-several-weeks-292660"
+      ]
+    ],
+    [
+      "strong"
+    ],
+    [
+      "a",
+      [
+        "href",
+        "http://talkingpointsmemo.com/archives/2012/07/chutzpam.php"
+      ]
+    ]
+  ],
+  "sections": [
+    [
+      1,
+      "p",
+      []
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "The Theory"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Whatever anyone tries to tell you, Search Engine Optimisation is just the art of helping Google and other search engines understand what your page is "
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "about"
+        ],
+        [
+          0,
+          [],
+          0,
+          " and how "
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "good"
+        ],
+        [
+          0,
+          [],
+          0,
+          " it is - and then persuading people to choose your headline over numerous others."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Search engines are trying to be very fast, very effective humans. They want to look at every page on the internet, establish what it’s about, and use various sets of information to determine how "
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "popular"
+        ],
+        [
+          0,
+          [],
+          0,
+          " and "
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "good"
+        ],
+        [
+          0,
+          [],
+          0,
+          " the page is, so they can present the best results to searchers. You should never write for the machine - you should write for human beings - but with an eye to understanding how search engines assess your page. If a change you make helps both the search engine and a human reader understand the page better, it’s a good piece of SEO. If it only helps the search engine, with no human benefit at first or second hand, it’s a bad change."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Fundamentally, if you create good, compelling content that people want to link to and share, you’ve done a good SEO job. These pages, and the course they accompany, are designed to allow journalists and other communication pros to do that better than average, to make sure that your work will get found - if it’s good."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          " This is not designed as a highly technical course. Where I make reference to HTML-level work, I’ll provide links for you to explore that in greater detail - or for you to forward to your developers."
+        ]
+      ]
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Signals"
+        ]
+      ]
+    ],
+    [
+      10,
+      0
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "The profound change that Google brought to the search engine world in the late 90s was its way of assessing popularity, known as "
+        ],
+        [
+          0,
+          [
+            1
+          ],
+          1,
+          "PageRank"
+        ],
+        [
+          0,
+          [],
+          0,
+          " - a pun on the name of one of Google’s co-founders, Larry Page. He figured out that every link on the internet to a particular page could be counted as a “vote”, and the more links the pages had to it, the more popular the site, and therefore (most likely) the better quality it was. In its early days, Google was, in essence, a link popularity contest."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "In the years since, the Google algorithm (the piece of software that determines how your page appears in search engine results pages, or SERPS in SEO jargon) has grown considerably more sophisticated, as have its competitors. It now incorporates a whole range of “signals” to determine a site’s subject and quality. "
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "These include:"
+        ]
+      ]
+    ],
+    [
+      3,
+      "ul",
+      [
+        [
+          [
+            0,
+            [],
+            0,
+            "Links"
+          ]
+        ],
+        [
+          [
+            0,
+            [],
+            0,
+            "Keywords (but to a "
+          ],
+          [
+            0,
+            [
+              0
+            ],
+            1,
+            "much"
+          ],
+          [
+            0,
+            [],
+            0,
+            " smaller degree than it has historically)"
+          ]
+        ],
+        [
+          [
+            0,
+            [],
+            0,
+            "Social network sharing of links to the page"
+          ]
+        ],
+        [
+          [
+            0,
+            [],
+            0,
+            "How “fresh” the content its - how recently it was published"
+          ]
+        ],
+        [
+          [
+            0,
+            [],
+            0,
+            "The speed of the site, and its user experience"
+          ]
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "We’ll look at each of these in more detail later on."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "The actual factors used are both numerous and, in many cases, beyond the writer’s control. Obviously, we’ll focus on those that "
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "are"
+        ],
+        [
+          0,
+          [],
+          0,
+          " in your control. Google used to provide a tool that allowed you to see the PageRank of a page or site - that has become meaningless with the increasing personalisation of search results - and "
+        ],
+        [
+          0,
+          [
+            2
+          ],
+          1,
+          "has now been discontinued"
+        ],
+        [
+          0,
+          [],
+          0,
+          "."
+        ]
+      ]
+    ],
+    [
+      1,
+      "h3",
+      [
+        [
+          0,
+          [],
+          0,
+          "Mobile first"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Google has "
+        ],
+        [
+          0,
+          [
+            3
+          ],
+          1,
+          "switched to a mobile-first index"
+        ],
+        [
+          0,
+          [],
+          0,
+          ". From now on it will rank your mobile site (or your responsive site, if that’s how you handle mobile-friendliness). Even results on desktop will be based on the mobile index. In short: "
+        ],
+        [
+          0,
+          [
+            4
+          ],
+          1,
+          "Mobile friendliness is now essential for SEO success."
+        ]
+      ]
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Good and Bad SEO"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "For as long as there have been search engines, there have been people trying to game them. Those people who work to actively manipulate search engines to create higher ratings for poor or average content than it would earn based on its quality are usually referred to as “Black Hat” SEOs. They use techniques and tactics that are frowned on by the search engines, and which they actively seek to combat. Recent changes to Google’s algorithm in particular have been targeted at eliminating or penalising Black Hat SEO techniques."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Those people who follow practices recommended by the search engines are referred to as “White Hat” SEOs. All the advice given here and in the training course is White Hat. Why? Because Black Hat techniques are being actively penalised by Google, and tactics which once helped your ranking can turn around and become a negative factor later on. Here’s one good example of a company trying to "
+        ],
+        [
+          0,
+          [
+            5
+          ],
+          1,
+          "recover from Black Hat SEO"
+        ],
+        [
+          0,
+          [],
+          0,
+          "."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "(The names, incidentally, come from the convention in old Westerns that the good cowboys wore white hats and the bad ones black hats…)"
+        ]
+      ]
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "More SEO Guidance"
+        ]
+      ]
+    ],
+    [
+      10,
+      1
+    ],
+    [
+      10,
+      2
+    ],
+    [
+      10,
+      3
+    ],
+    [
+      10,
+      4
+    ],
+    [
+      10,
+      5
+    ],
+    [
+      10,
+      6
+    ],
+    [
+      1,
+      "p",
+      []
+    ]
+  ],
+  "ghostVersion": "3.0"
+}

@@ -1,0 +1,882 @@
+{
+  "root": {
+    "children": [
+      {
+        "children": [
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": "If you've ever been a freelancer, you will be familiar with the famine/feast cycle of the work-style. (If you've been or are a freelancer and you've only ever experienced the feast side of that equation, I hate you, but only because I'm jealous.) Happily, I'm passing through the feast side right now, and I'm pretty much well booked up until the summer. And last week, in particular, I  barely had time to look up from my desk. ",
+            "type": "text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "paragraph",
+        "version": 1
+      },
+      {
+        "children": [
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": "However, that means a few things around the edges have been neglected — including my personal reading and writing. Having hit a few deadlines, I've actually had time to start going through my rather terrifying backlog of open tabs, and here are a few choice cuts that I've encountered so far that might be useful for you. They're broken down into topics for easy browsing",
+            "type": "text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "paragraph",
+        "version": 1
+      },
+      {
+        "type": "horizontalrule"
+      },
+      {
+        "children": [
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": "SEO — death of AMP, Google News Showcase goes desktop",
+            "type": "text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "heading",
+        "tag": "h2",
+        "version": 1
+      },
+      {
+        "children": [
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": "A few people have asked me to write about the Core Web Vitals update that Google's implementing — I will get to that soon. However, in the meantime, here's one core (ho, ho) fact that you need to know: AMP ceases to be a requirement for appearing in the news carousel.",
+            "type": "text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "paragraph",
+        "version": 1
+      },
+      {
+        "children": [
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": "The upside of this is that it might well now be better focusing developer time on making your mobile pages better, rather than building out AMP and the separate set of pages that requires. ",
+            "type": "text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "paragraph",
+        "version": 1
+      },
+      {
+        "type": "bookmark",
+        "url": "https://plausible.io/blog/google-amp",
+        "metadata": {
+          "url": "https://plausible.io/blog/google-amp",
+          "title": "Google AMP is dead! AMP pages no longer get preferential treatment in Google search",
+          "description": "From the release of the page experience algorithm, there is no longer any preferential treatment for AMP in Google’s search results, Top Stories carousel and the Google News.",
+          "author": "Marko Saric",
+          "publisher": "Plausible Analytics",
+          "thumbnail": "https://plausible.io/uploads/google-amp-is-dead.png",
+          "icon": "https://plausible.io/assets/images/icon/favicon.png"
+        }
+      },
+      {
+        "children": [
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": "This is an interesting change. I still remain sceptical about how much traffic Google News (as opposed to the News element that gets extruded into the carousel) ",
+            "type": "text",
+            "version": 1
+          },
+          {
+            "detail": 0,
+            "format": 2,
+            "mode": "normal",
+            "style": "",
+            "text": "actually",
+            "type": "text",
+            "version": 1
+          },
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": " drives — but if you're seeing significant traffic from it, this is worth paying attention to: ",
+            "type": "text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "paragraph",
+        "version": 1
+      },
+      {
+        "type": "bookmark",
+        "url": "https://searchengineland.com/google-news-showcase-now-available-on-desktop-adds-enhanced-panels-on-mobile-348845",
+        "metadata": {
+          "url": "https://searchengineland.com/google-news-showcase-now-available-on-desktop-adds-enhanced-panels-on-mobile-348845",
+          "title": "Google News Showcase now available on desktop, adds enhanced panels on mobile",
+          "description": "If your publishing site is lagging on desktop, make sure to give it some attention as this update could drive more desktop traffic,",
+          "author": "Carolyn Lyden",
+          "publisher": "Search Engine Land",
+          "thumbnail": "https://searchengineland.com/figz/wp-content/seloads/2021/05/Google-news.jpg",
+          "icon": "https://searchengineland.com/apple-touch-icon.png"
+        }
+      },
+      {
+        "children": [
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": "Instagram — the algorithm (somewhat) explained",
+            "type": "text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "heading",
+        "tag": "h2",
+        "version": 1
+      },
+      {
+        "type": "paywall"
+      },
+      {
+        "children": [
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": "There's a whole bunch of myths floating out there about how the Instagram algorithm actually works, and this post goes some way to dispelling those myths — and, while it doesn't tell us everything, it does clarify some useful points: ",
+            "type": "text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "paragraph",
+        "version": 1
+      },
+      {
+        "type": "bookmark",
+        "url": "https://about.instagram.com/blog/announcements/shedding-more-light-on-how-instagram-works",
+        "metadata": {
+          "url": "https://about.instagram.com/blog/announcements/shedding-more-light-on-how-instagram-works",
+          "title": "Shedding More Light on How Instagram Works",
+          "description": "Today, we’re sharing the first in a series of posts that will shed more light on how Instagram’s technology works and how it impacts the experiences that people have across the app.",
+          "author": "Instagram",
+          "publisher": "Instagram",
+          "thumbnail": "https://scontent.xx.fbcdn.net/v/t39.2365-6/176153988_286857319592653_8432693927381290872_n.png?_nc_cat=105&ccb=1-3&_nc_sid=ad8a9d&_nc_ohc=mn6r4XPy26oAX9v9WTf&_nc_ht=scontent.xx&oh=be83ab7f0d0030a1e4128a3ac2c36c8f&oe=60F1F0CA",
+          "icon": "https://static.xx.fbcdn.net/rsrc.php/v3/yw/r/HTE9u6HBvgx.png"
+        }
+      },
+      {
+        "children": [
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": "Twitter — lots of news",
+            "type": "text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "heading",
+        "tag": "h2",
+        "version": 1
+      },
+      {
+        "children": [
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": "Paid Twitter is slowly making its way around the world. I'm not sure how compelling the offer is right now, but they're bound to extend it over time. ",
+            "type": "text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "paragraph",
+        "version": 1
+      },
+      {
+        "type": "bookmark",
+        "url": "https://www.theverge.com/2021/6/3/22464291/twitter-blue-subscription-service-canada-australia-undo-reader-mode",
+        "metadata": {
+          "url": "https://www.theverge.com/2021/6/3/22464291/twitter-blue-subscription-service-canada-australia-undo-reader-mode",
+          "title": "The Twitter Blue subscription service starts rolling out Thursday",
+          "description": "But only in Australia and Canada, at first",
+          "author": "Jon Porter",
+          "publisher": "The Verge",
+          "thumbnail": "https://cdn.vox-cdn.com/thumbor/31wcDz-dd7XKS5dJnkQVko0eII0=/0x146:2040x1214/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/12645609/acastro_180827_1777_0002.jpg",
+          "icon": "https://cdn.vox-cdn.com/uploads/chorus_asset/file/7395351/android-chrome-192x192.0.png"
+        }
+      },
+      {
+        "children": [
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": "This is ",
+            "type": "text",
+            "version": 1
+          },
+          {
+            "detail": 0,
+            "format": 2,
+            "mode": "normal",
+            "style": "",
+            "text": "really",
+            "type": "text",
+            "version": 1
+          },
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": " interesting, though: Twitter is taking away as much friction as possible in getting people to sign up for your Revue-based newsletter. This is a really practical, intelligent integration of an acquisition that will make Revue more compelling for people with large Twitter followings. ",
+            "type": "text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "paragraph",
+        "version": 1
+      },
+      {
+        "type": "bookmark",
+        "url": "https://mashable.com/article/twitter-revue-newsletter-user-profile-subscribe-button/",
+        "metadata": {
+          "url": "https://mashable.com/article/twitter-revue-newsletter-user-profile-subscribe-button/",
+          "title": "Twitter to add a newsletter ‘subscribe’ button to profiles for simple sign-ups",
+          "description": "Twitter wants to make it easy for users with newsletters to grow their subscriber base, and this tweak is key to that goal.",
+          "author": "Jack Morse",
+          "publisher": "Mashable",
+          "thumbnail": "https://mondrian.mashable.com/2021%2F06%2F10%2F1e%2Fc5835afb4132401cbd9284a99c894aef.919d8.png%2F1200x630.png?signature=LWOHpkuXTPLiurK1rvTOKy3uvzE=",
+          "icon": "https://mashable.com/android-chrome-192x192.png?v=m2Pmw8zNwm"
+        }
+      },
+      {
+        "children": [
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": "There is not enough popcorn in the world for the entertainment this is going to cause as the political tribal warriors on Twitter have their relationship (or lack of it) with the truth highlighted for all…",
+            "type": "text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "paragraph",
+        "version": 1
+      },
+      {
+        "type": "bookmark",
+        "url": "https://gizmodo.com/twitter-may-roll-out-tiered-misinformation-warning-labe-1847004671",
+        "metadata": {
+          "url": "https://gizmodo.com/twitter-may-roll-out-tiered-misinformation-warning-labe-1847004671",
+          "title": "Twitter May Start Labeling Your Tweets Based on How Wrong You Are",
+          "description": "Twitter is one of many social media companies that’s struggled to keep misinformation from running rampant on its platform over the years. Its latest attempt to move the needle looks to be a tiered warning label system that changes based on how wrong you are, according to app researcher Jane Manchun…",
+          "author": "The A.V. Club",
+          "publisher": "Gizmodo",
+          "thumbnail": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/bf8ededbe05edfb314830919502c6cb2.jpg",
+          "icon": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_200,q_80,w_200/fdj3buryz5nuzyf2k620.png"
+        }
+      },
+      {
+        "children": [
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": "However, the new verification system which was launched a couple of months ago, and then promptly closed down again is clearly not working as it should:",
+            "type": "text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "paragraph",
+        "version": 1
+      },
+      {
+        "type": "embed",
+        "url": "https://twitter.com/marthedeferrer/status/1404545546325532675?s=21",
+        "html": "<blockquote class=\"twitter-tweet\"><p lang=\"en\" dir=\"ltr\">Literally do not understand what’s going on with <a href=\"https://twitter.com/verified?ref_src=twsrc%5Etfw\">@verified</a>. There’s been a huge push to apply for verification with very clear rules, which almost all journalist meet.<br><br>But…so so many of us have been rejected with no explanation?! <a href=\"https://t.co/SPJFG7pHAe\">https://t.co/SPJFG7pHAe</a></p>&mdash; Marthe de Ferrer (@MarthedeFerrer) <a href=\"https://twitter.com/MarthedeFerrer/status/1404545546325532675?ref_src=twsrc%5Etfw\">June 14, 2021</a></blockquote>\n<script async src=\"https://platform.twitter.com/widgets.js\" charset=\"utf-8\"></script>\n",
+        "metadata": {
+          "url": "https://twitter.com/MarthedeFerrer/status/1404545546325532675",
+          "author_name": "Marthe de Ferrer",
+          "author_url": "https://twitter.com/MarthedeFerrer",
+          "width": 550,
+          "height": null,
+          "cache_age": "3153600000",
+          "provider_name": "Twitter",
+          "provider_url": "http://www.twitter.com/",
+          "version": "1.0"
+        },
+        "embedType": "rich"
+      },
+      {
+        "children": [
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": "Clearly, ",
+            "type": "text",
+            "version": 1
+          },
+          {
+            "children": [
+              {
+                "detail": 0,
+                "format": 0,
+                "mode": "normal",
+                "style": "",
+                "text": "verification remains a crapshoot",
+                "type": "text",
+                "version": 1
+              }
+            ],
+            "direction": "ltr",
+            "format": "",
+            "indent": 0,
+            "type": "link",
+            "rel": null,
+            "target": null,
+            "title": null,
+            "url": "__GHOST_URL__/2019/04/social-media-verification-still-a-crapshoot/",
+            "version": 1
+          },
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": ". And it probably always will, as long as Twitter keeps running it as a ",
+            "type": "text",
+            "version": 1
+          },
+          {
+            "detail": 0,
+            "format": 2,
+            "mode": "normal",
+            "style": "",
+            "text": "prestige",
+            "type": "text",
+            "version": 1
+          },
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": " system, rather than a genuine ",
+            "type": "text",
+            "version": 1
+          },
+          {
+            "detail": 0,
+            "format": 2,
+            "mode": "normal",
+            "style": "",
+            "text": "verification",
+            "type": "text",
+            "version": 1
+          },
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": " system. ",
+            "type": "text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "paragraph",
+        "version": 1
+      },
+      {
+        "type": "horizontalrule"
+      },
+      {
+        "children": [
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": "Outside rethinks the bundle",
+            "type": "text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "heading",
+        "tag": "h2",
+        "version": 1
+      },
+      {
+        "children": [
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": "Those of you who have studied with me in any way will be familiar with the tendency of digital media to ",
+            "type": "text",
+            "version": 1
+          },
+          {
+            "detail": 0,
+            "format": 2,
+            "mode": "normal",
+            "style": "",
+            "text": "atomise",
+            "type": "text",
+            "version": 1
+          },
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": " — breaking publishing bundles down to their constituent parts. However, rebundling in new forms is the next logical step, and this is a really interesting attempt in the consumer sector.",
+            "type": "text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "paragraph",
+        "version": 1
+      },
+      {
+        "children": [
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": "Building a bundle of content around a particular interest, but letting subscribers choose the elements of that content that most appeal to them, might be a successful answer to the “flight to niche” problem that has eroded the viability of more generalist titles.",
+            "type": "text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "paragraph",
+        "version": 1
+      },
+      {
+        "children": [
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": "Or, of course, it might fall foul of the general problem of being too generalist in a crowded marketplace that causes the flight to niche in the first place. Worth watching. ",
+            "type": "text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "paragraph",
+        "version": 1
+      },
+      {
+        "type": "bookmark",
+        "url": "https://www.axios.com/outside-digital-membership-model-7e7cb81c-f2bb-4064-8f4f-3bd8240110fb.html",
+        "metadata": {
+          "url": "https://www.axios.com/outside-digital-membership-model-7e7cb81c-f2bb-4064-8f4f-3bd8240110fb.html",
+          "title": "Outside launches membership model",
+          "description": "“We have almost all of them integrated at this point.”",
+          "author": "Sara Fischer",
+          "publisher": "Axios",
+          "thumbnail": "https://images.axios.com/PAIMEIpFw6CFwGtnGP6Ne2_QBFs=/0x54:1618x964/1366x768/2021/06/01/1622548575059.png",
+          "icon": "https://static.axios.com/img/axios-site/favicon-32x32.png"
+        }
+      },
+      {
+        "type": "horizontalrule"
+      },
+      {
+        "children": [
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": "Substack's comic ambitions",
+            "type": "text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "heading",
+        "tag": "h2",
+        "version": 1
+      },
+      {
+        "children": [
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": "In our self-important myopia, journalists often think everything is about, well, us. But it's not, and even Substack, the latest obsession of the media development classes, has its eyes on wider markets. They've hired Nick Spencer, the current writer of ",
+            "type": "text",
+            "version": 1
+          },
+          {
+            "detail": 0,
+            "format": 2,
+            "mode": "normal",
+            "style": "",
+            "text": "Amazing Spider-Man",
+            "type": "text",
+            "version": 1
+          },
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": " and the man who turned Captain America into a ",
+            "type": "text",
+            "version": 1
+          },
+          {
+            "children": [
+              {
+                "detail": 0,
+                "format": 0,
+                "mode": "normal",
+                "style": "",
+                "text": "fascist supporter of Hydra",
+                "type": "text",
+                "version": 1
+              }
+            ],
+            "direction": "ltr",
+            "format": "",
+            "indent": 0,
+            "type": "link",
+            "rel": null,
+            "target": null,
+            "title": null,
+            "url": "https://www.vulture.com/2019/04/marvel-hydra-captain-america-nick-spencer.html",
+            "version": 1
+          },
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": ", to help steer a new wave of comics delivered via Substack newsletter. He's bowing out from his current Marvel gig to do this. ",
+            "type": "text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "paragraph",
+        "version": 1
+      },
+      {
+        "children": [
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": "Substack comics could actually be a lot of fun, and probably a lot less controversial than the wave of culture warriors that recently joined the platform. ",
+            "type": "text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "paragraph",
+        "version": 1
+      },
+      {
+        "type": "bookmark",
+        "url": "https://www.businessinsider.com/substack-is-getting-into-comic-books-and-fiction-2021-6?r=US&IR=T",
+        "metadata": {
+          "url": "https://www.businessinsider.com/substack-is-getting-into-comic-books-and-fiction-2021-6",
+          "title": "Substack just made a major new hire as it goes after comic-book writers and expands its fiction efforts",
+          "description": "Substack has hired ‘The Amazing Spider-Man’ writer Nick Spencer to try to lure comic book writers to the platform.",
+          "author": "Steven Perlberg",
+          "publisher": "Business Insider",
+          "thumbnail": "https://i.insider.com/60c0c3ea6b60c70019c29d0f?width=1200&format=jpeg",
+          "icon": "https://www.businessinsider.com/public/assets/BI/US/favicons/apple-touch-icon.png?v=2021-05"
+        }
+      },
+      {
+        "type": "horizontalrule"
+      },
+      {
+        "children": [
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": "The Big Read",
+            "type": "text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "heading",
+        "tag": "h2",
+        "version": 1
+      },
+      {
+        "children": [
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": "I've been online for something like a quarter of a century now, and like many people who were enthusiasts of the early web, I was somewhat sucked into the techno-utopianism of the earliest evangelists. I'm older, more tired and more cynical these days, but even so, I'm still somewhat depressed at the speed with which the Italian Five Star Movement has moved from being an exemplar of the growing digital democracy wave, to a cautionary tale…",
+            "type": "text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "paragraph",
+        "version": 1
+      },
+      {
+        "children": [
+          {
+            "detail": 0,
+            "format": 2,
+            "mode": "normal",
+            "style": "",
+            "text": "WIRED",
+            "type": "text",
+            "version": 1
+          },
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": "'s Michele Barbero tells the whole story:",
+            "type": "text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "paragraph",
+        "version": 1
+      },
+      {
+        "type": "bookmark",
+        "url": "https://www.wired.co.uk/article/italy-five-star-rousseau-online",
+        "metadata": {
+          "url": "https://www.wired.co.uk/article/italy-five-star-rousseau-online",
+          "title": "Italy’s failed digital democracy dream is a warning",
+          "description": "The Five Star Movement’s row with its voting platform bodes ill for the future of online politics",
+          "author": "Michele Barbero",
+          "publisher": "WIRED UK",
+          "thumbnail": "https://media.wired.co.uk/photos/60be341ae672eef6195dcbcf/16:9/w_1280,c_limit/GettyImages-1052685894.jpg",
+          "icon": "https://www.wired.co.uk/verso/static/wired/assets/favicon.ico"
+        }
+      },
+      {
+        "type": "horizontalrule"
+      },
+      {
+        "children": [
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": "The Big Watch",
+            "type": "text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "heading",
+        "tag": "h2",
+        "version": 1
+      },
+      {
+        "children": [
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": "A short documentary about a Mum sucked into QAnon conspiracies…",
+            "type": "text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "paragraph",
+        "version": 1
+      },
+      {
+        "type": "embed",
+        "url": "https://youtu.be/Dz-IEB0tFt8",
+        "html": "<iframe width=\"200\" height=\"113\" src=\"https://www.youtube.com/embed/Dz-IEB0tFt8?feature=oembed\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+        "metadata": {
+          "title": "QAmom - Confronting my mom's conspiracy theories",
+          "author_name": "DurtySean",
+          "author_url": "https://www.youtube.com/c/durtysean",
+          "height": 113,
+          "width": 200,
+          "version": "1.0",
+          "provider_name": "YouTube",
+          "provider_url": "https://www.youtube.com/",
+          "thumbnail_height": 360,
+          "thumbnail_width": 480,
+          "thumbnail_url": "https://i.ytimg.com/vi/Dz-IEB0tFt8/hqdefault.jpg"
+        },
+        "embedType": "video"
+      },
+      {
+        "type": "horizontalrule"
+      },
+      {
+        "type": "image",
+        "src": "__GHOST_URL__/content/images/2021/06/087A1E7D-1D2F-4C94-8DAF-BC5F0F3E279A.jpeg",
+        "width": 2757,
+        "height": 1947,
+        "alt": "Working in Ghost in an M1-powered iPad Pro. "
+      },
+      {
+        "children": [
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": "Oh, and for what it's worth, this is the first post I've constructed entirely on my new M1-based iPad Pro with smart keyboard. It really is a delightful wee reading and writing machine. As and when I return to London, and business travel generally, I'm certainly going to experiment with this as the ",
+            "type": "text",
+            "version": 1
+          },
+          {
+            "detail": 0,
+            "format": 2,
+            "mode": "normal",
+            "style": "",
+            "text": "only",
+            "type": "text",
+            "version": 1
+          },
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": " device I take with me. ",
+            "type": "text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "paragraph",
+        "version": 1
+      }
+    ],
+    "direction": "ltr",
+    "format": "",
+    "indent": 0,
+    "type": "root",
+    "version": 1
+  }
+}

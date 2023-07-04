@@ -1,0 +1,731 @@
+{
+  "version": "0.3.1",
+  "atoms": [],
+  "cards": [
+    [
+      "email-cta",
+      {
+        "showButton": true,
+        "showDividers": false,
+        "segment": "status:-free",
+        "alignment": "center",
+        "html": "",
+        "buttonText": "Click Here To Comment",
+        "buttonUrl": "__GHOST_URL__/dont-look-up-is-here/#comments"
+      }
+    ],
+    [
+      "email-cta",
+      {
+        "showButton": true,
+        "showDividers": false,
+        "segment": "status:free",
+        "alignment": "center",
+        "html": "<p><strong><em>Please <a href=\"__GHOST_URL__/subscribe\">become a paid subscriber</a>. You get exclusive podcasts, <a href=\"__GHOST_URL__/citizens-guide-to-holding-the-powerful-accountable/\">digital publications</a>, and live events – and you support this journalism.</em></strong></p>",
+        "buttonText": "Subscribe ",
+        "buttonUrl": "__GHOST_URL__/subscribe/"
+      }
+    ],
+    [
+      "html",
+      {
+        "html": "<div class=\"fb-share-button\" data-href=\"https://www.dailyposter.com/dont-look-up-is-here/\" data-layout=\"button\" data-size=\"small\"><a target=\"_blank\" href=\"https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.dailyposter.com%2Fdont-look-up-is-here%2F&amp;src=sdkpreparse\" class=\"fb-xfbml-parse-ignore\"><strong><em>Click to share this on Facebook</em></strong></a></div>"
+      }
+    ],
+    [
+      "embed",
+      {
+        "url": "https://www.youtube.com/watch?v=RbIxYm3mKzI",
+        "html": "<iframe width=\"200\" height=\"113\" src=\"https://www.youtube.com/embed/RbIxYm3mKzI?feature=oembed\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+        "type": "video",
+        "metadata": {
+          "title": "DON'T LOOK UP | Leonardo DiCaprio, Jennifer Lawrence | Official Trailer | Netflix",
+          "author_name": "Netflix",
+          "author_url": "https://www.youtube.com/c/Netflix",
+          "height": 113,
+          "width": 200,
+          "version": "1.0",
+          "provider_name": "YouTube",
+          "provider_url": "https://www.youtube.com/",
+          "thumbnail_height": 360,
+          "thumbnail_width": 480,
+          "thumbnail_url": "https://i.ytimg.com/vi/RbIxYm3mKzI/hqdefault.jpg"
+        }
+      }
+    ],
+    [
+      "email-cta",
+      {
+        "showButton": true,
+        "showDividers": false,
+        "segment": "status:-free",
+        "alignment": "center",
+        "html": "",
+        "buttonText": "Click Here To Comment",
+        "buttonUrl": "__GHOST_URL__/dont-look-up-is-here/#comments"
+      }
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "email-cta",
+      {
+        "showButton": true,
+        "showDividers": false,
+        "segment": "status:-free",
+        "alignment": "center",
+        "html": "",
+        "buttonText": "Tip Jar",
+        "buttonUrl": "https://dailyposter.outpost.pub/ghost-integration/60818189ad12f332071054b8/tips"
+      }
+    ],
+    [
+      "email-cta",
+      {
+        "showButton": true,
+        "showDividers": false,
+        "segment": "status:free",
+        "alignment": "center",
+        "html": "",
+        "buttonText": "Subscribe",
+        "buttonUrl": "__GHOST_URL__/subscribe/"
+      }
+    ],
+    [
+      "html",
+      {
+        "html": "<div class=\"outpost-pub-container\" data-btn-allmembers></div>"
+      }
+    ]
+  ],
+  "markups": [
+    [
+      "a",
+      [
+        "href",
+        "https://www.netflix.com/title/81252357"
+      ]
+    ],
+    [
+      "em"
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.youtube.com/watch?v=RbIxYm3mKzI"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.axios.com/climate-movie-dont-look-up-dicaprio-lawrence-0ff624e1-dc61-4cff-a296-b80881fa0264.html"
+      ]
+    ],
+    [
+      "strong"
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.afi.com/news/announcing-2021-afi-awards-honorees/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://twitter.com/davidsirota/status/1469084869451915274?s=20"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://gizmodo.com/don-t-look-up-is-a-climate-movie-about-more-than-disast-1848180805"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.bostonglobe.com/2021/12/09/science/biggest-movie-year-is-also-most-important-climate-movie-all-time/?p1=StaffPage"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://kbco.iheart.com/featured/bret-saunders/content/2021-12-09-the-bret-saunders-podcast-david-sirota/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://twitter.com/davidsirota/status/1467725576068816899?s=20"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://twitter.com/davidsirota/status/1467865421487345672?s=20"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://twitter.com/astro_mike/status/1467853591067217923?s=21"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://twitter.com/doctorvive/status/1467873784568987652?s=21"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://twitter.com/davidsirota/status/1468243608839102474"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://twitter.com/repblumenauer/status/1468415796493885440?s=20"
+      ]
+    ]
+  ],
+  "sections": [
+    [
+      10,
+      0
+    ],
+    [
+      10,
+      1
+    ],
+    [
+      10,
+      2
+    ],
+    [
+      1,
+      "p",
+      []
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Friends:"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Today is a huge day: We are releasing "
+        ],
+        [
+          0,
+          [
+            0,
+            1
+          ],
+          2,
+          "DON’T LOOK UP"
+        ],
+        [
+          0,
+          [],
+          0,
+          ", a blockbuster film that will make you laugh, cry, and hopefully be more engaged than ever in the fight for our future."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [
+            1
+          ],
+          1,
+          "DON’T LOOK UP"
+        ],
+        [
+          0,
+          [],
+          0,
+          " is in theaters across the country today, and "
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "comes out on Netflix on 12/24"
+        ],
+        [
+          0,
+          [],
+          0,
+          " ("
+        ],
+        [
+          0,
+          [
+            2
+          ],
+          1,
+          "watch the trailer here"
+        ],
+        [
+          0,
+          [],
+          0,
+          "). To know this film is both hilarious and vitally important, just read how "
+        ],
+        [
+          0,
+          [
+            3,
+            4
+          ],
+          2,
+          "Axios"
+        ],
+        [
+          0,
+          [],
+          0,
+          " described it: “This is the most prominent climate change movie to be released since Al Gore's "
+        ],
+        [
+          0,
+          [
+            1
+          ],
+          1,
+          "An Inconvenient Truth"
+        ],
+        [
+          0,
+          [],
+          0,
+          " in 2006, and it has the best cast ever assembled around this topic.”"
+        ]
+      ]
+    ],
+    [
+      10,
+      3
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "I helped come up with the film’s overall story with director and screenwriter Adam McKay, who convinced Jennifer Lawrence, Leonardo DiCaprio, Meryl Streep, Jonah Hill, and so many other great actors to be part of the project. The film has already been "
+        ],
+        [
+          0,
+          [
+            5
+          ],
+          1,
+          "named"
+        ],
+        [
+          0,
+          [],
+          0,
+          " one of the top ten of the year by the American Film Institute, and it has a chance to be seen by hundreds of millions of people across the globe, which is exactly why we didn’t pull any punches. It’s an extremely rare chance to try to shake the world into action."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "This film is about climate change, but also about how powerful forces in corporate media and politics ignore, downplay, and distract us from basic scientific facts. It is not a departure from the work we do here at "
+        ],
+        [
+          0,
+          [
+            1
+          ],
+          1,
+          "The Daily Poster"
+        ],
+        [
+          0,
+          [],
+          0,
+          " — it is an extension of our work challenging power and trying to change the status quo. (And to thank McKay for making it, "
+        ],
+        [
+          0,
+          [
+            6
+          ],
+          1,
+          "I gave him this gift"
+        ],
+        [
+          0,
+          [],
+          0,
+          ".)"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "You don’t have to believe me about this point. Read "
+        ],
+        [
+          0,
+          [
+            7
+          ],
+          1,
+          "this"
+        ],
+        [
+          0,
+          [],
+          0,
+          " and "
+        ],
+        [
+          0,
+          [
+            8
+          ],
+          1,
+          "this"
+        ],
+        [
+          0,
+          [],
+          0,
+          " to get a sense of what the movie spotlights, and why it is already evoking such strong reactions. You can also listen to my brief "
+        ],
+        [
+          0,
+          [
+            9
+          ],
+          1,
+          "discussion"
+        ],
+        [
+          0,
+          [],
+          0,
+          " with Denver radio host Bret Saunders about the project."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "My partner Emily and I attended the world premiere of the film in New York last week. As two people who don’t have much Hollywood experience, we found it surreal to walk the red carpet, see all the cameras and meet some of the stars ("
+        ],
+        [
+          0,
+          [
+            10
+          ],
+          1,
+          "Perlman!"
+        ],
+        [
+          0,
+          [],
+          0,
+          "). In particular, I was honored when "
+        ],
+        [
+          0,
+          [
+            11
+          ],
+          1,
+          "McKay shouted out the journalism"
+        ],
+        [
+          0,
+          [],
+          0,
+          " we do here at "
+        ],
+        [
+          0,
+          [
+            1
+          ],
+          1,
+          "The Daily Poster"
+        ],
+        [
+          0,
+          [],
+          0,
+          "."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "But the most powerful experience was seeing "
+        ],
+        [
+          0,
+          [
+            12
+          ],
+          1,
+          "all"
+        ],
+        [
+          0,
+          [],
+          0,
+          " the "
+        ],
+        [
+          0,
+          [
+            13
+          ],
+          1,
+          "scientists in attendance"
+        ],
+        [
+          0,
+          [],
+          0,
+          " and watching the audience absorb the film’s urgent message about climate change and so many other crises bearing down on our world."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "My hope is that people watch this movie and do the kind of thing Jonah Hill did during his "
+        ],
+        [
+          0,
+          [
+            14
+          ],
+          1,
+          "appearance"
+        ],
+        [
+          0,
+          [],
+          0,
+          " this week on "
+        ],
+        [
+          0,
+          [
+            1
+          ],
+          1,
+          "The Tonight Show Starring Jimmy Fallon"
+        ],
+        [
+          0,
+          [],
+          0,
+          ", where he pushed people to demand Congress pass specific climate legislation. (And "
+        ],
+        [
+          0,
+          [
+            15
+          ],
+          1,
+          "see here"
+        ],
+        [
+          0,
+          [],
+          0,
+          " — lawmakers are listening)."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "It’s clear that everyone who worked on this movie did so because it is not just a hilarious and entertaining film, but because it’s also a clarion call to speak out and do everything we can in our communities to save this planet. Right now."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Rock the boat,"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Sirota"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "P.S. In January, McKay is scheduled for a live chat with "
+        ],
+        [
+          0,
+          [
+            1
+          ],
+          1,
+          "Daily Poster"
+        ],
+        [
+          0,
+          [],
+          0,
+          " subscribers about the film. Stay tuned for details on that in the coming weeks!"
+        ]
+      ]
+    ],
+    [
+      10,
+      4
+    ],
+    [
+      10,
+      5
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [
+            1,
+            4
+          ],
+          2,
+          "This newsletter relies on readers pitching in to support our journalism. If you like this story, please support "
+        ],
+        [
+          0,
+          [
+            4
+          ],
+          1,
+          "The Daily Poster"
+        ],
+        [
+          0,
+          [
+            1,
+            4
+          ],
+          2,
+          "'s work."
+        ]
+      ]
+    ],
+    [
+      10,
+      6
+    ],
+    [
+      10,
+      7
+    ],
+    [
+      10,
+      8
+    ]
+  ],
+  "ghostVersion": "4.0"
+}

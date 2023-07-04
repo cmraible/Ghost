@@ -1,0 +1,434 @@
+{
+  "version": "0.3.1",
+  "atoms": [
+    [
+      "soft-return",
+      "",
+      {}
+    ]
+  ],
+  "cards": [
+    [
+      "hr",
+      {}
+    ],
+    [
+      "image",
+      {
+        "src": "__GHOST_URL__/content/images/2021/02/Screen-Shot-2021-02-02-at-4.18.10-PM.png",
+        "width": 2574,
+        "height": 1424
+      }
+    ],
+    [
+      "gallery",
+      {
+        "images": [
+          {
+            "fileName": "Screen Shot 2021-02-02 at 3.42.01 PM.png",
+            "row": 0,
+            "width": 2252,
+            "height": 1518,
+            "src": "__GHOST_URL__/content/images/2021/02/Screen-Shot-2021-02-02-at-3.42.01-PM-1.png"
+          },
+          {
+            "fileName": "Screen Shot 2021-02-02 at 3.42.15 PM.png",
+            "row": 0,
+            "width": 1932,
+            "height": 1370,
+            "src": "__GHOST_URL__/content/images/2021/02/Screen-Shot-2021-02-02-at-3.42.15-PM-1.png"
+          },
+          {
+            "fileName": "Screen Shot 2021-02-02 at 3.42.22 PM.png",
+            "row": 0,
+            "width": 2168,
+            "height": 1282,
+            "src": "__GHOST_URL__/content/images/2021/02/Screen-Shot-2021-02-02-at-3.42.22-PM-1.png"
+          },
+          {
+            "fileName": "Screen Shot 2021-02-02 at 3.42.29 PM.png",
+            "row": 1,
+            "width": 2090,
+            "height": 1130,
+            "src": "__GHOST_URL__/content/images/2021/02/Screen-Shot-2021-02-02-at-3.42.29-PM-1.png"
+          }
+        ]
+      }
+    ],
+    [
+      "image",
+      {
+        "src": "__GHOST_URL__/content/images/2021/02/Screen-Shot-2021-02-02-at-4.16.49-PM.png",
+        "width": 2084,
+        "height": 1358
+      }
+    ],
+    [
+      "gallery",
+      {
+        "images": [
+          {
+            "fileName": "Screen Shot 2021-02-02 at 4.17.48 PM.png",
+            "row": 0,
+            "width": 2502,
+            "height": 1394,
+            "src": "__GHOST_URL__/content/images/2021/02/Screen-Shot-2021-02-02-at-4.17.48-PM.png"
+          },
+          {
+            "fileName": "Screen Shot 2021-02-02 at 4.20.06 PM.png",
+            "row": 0,
+            "width": 2524,
+            "height": 1448,
+            "src": "__GHOST_URL__/content/images/2021/02/Screen-Shot-2021-02-02-at-4.20.06-PM.png"
+          },
+          {
+            "fileName": "Screen Shot 2021-02-02 at 4.20.16 PM.png",
+            "row": 0,
+            "width": 2236,
+            "height": 1466,
+            "src": "__GHOST_URL__/content/images/2021/02/Screen-Shot-2021-02-02-at-4.20.16-PM.png"
+          }
+        ]
+      }
+    ],
+    [
+      "image",
+      {
+        "src": "__GHOST_URL__/content/images/2021/02/Screen-Shot-2021-02-02-at-2.00.52-PM.png",
+        "width": 2122,
+        "height": 1098,
+        "caption": "Image from the 'Making of' for the Music Video"
+      }
+    ],
+    [
+      "embed",
+      {
+        "url": "https://www.youtube.com/watch?v=cMVB6sZEP5A",
+        "html": "<iframe width=\"200\" height=\"113\" src=\"https://www.youtube.com/embed/cMVB6sZEP5A?feature=oembed\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+        "type": "video",
+        "metadata": {
+          "title": "The Borough Boys @TheNYCConcours 2019 @PIER17 This is how we do it",
+          "author_name": "Al Young Cuda",
+          "author_url": "https://www.youtube.com/channel/UCXkKSrJY9bGdW6ljyFrnEIw",
+          "height": 113,
+          "width": 200,
+          "version": "1.0",
+          "provider_name": "YouTube",
+          "provider_url": "https://www.youtube.com/",
+          "thumbnail_height": 360,
+          "thumbnail_width": 480,
+          "thumbnail_url": "https://i.ytimg.com/vi/cMVB6sZEP5A/hqdefault.jpg"
+        }
+      }
+    ],
+    [
+      "image",
+      {
+        "src": "__GHOST_URL__/content/images/2021/02/Screen-Shot-2021-02-02-at-4.18.26-PM.png",
+        "width": 2164,
+        "height": 1444
+      }
+    ],
+    [
+      "embed",
+      {
+        "url": "https://www.youtube.com/watch?v=g6rxCfqe99Q",
+        "html": "<iframe width=\"200\" height=\"113\" src=\"https://www.youtube.com/embed/g6rxCfqe99Q?feature=oembed\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+        "type": "video",
+        "metadata": {
+          "title": "1971 Plymouth Cuda 340 driveway edition",
+          "author_name": "Al Young Cuda",
+          "author_url": "https://www.youtube.com/channel/UCXkKSrJY9bGdW6ljyFrnEIw",
+          "height": 113,
+          "width": 200,
+          "version": "1.0",
+          "provider_name": "YouTube",
+          "provider_url": "https://www.youtube.com/",
+          "thumbnail_height": 360,
+          "thumbnail_width": 480,
+          "thumbnail_url": "https://i.ytimg.com/vi/g6rxCfqe99Q/hqdefault.jpg"
+        }
+      }
+    ]
+  ],
+  "markups": [
+    [
+      "strong"
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.youtube.com/watch?v=bNkgbjLo0ow"
+      ]
+    ]
+  ],
+  "sections": [
+    [
+      1,
+      "h3",
+      [
+        [
+          0,
+          [],
+          0,
+          "This Plymouth muscle car is an absolute stunner!"
+        ]
+      ]
+    ],
+    [
+      10,
+      0
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "When the Motorious Online Car Show concluded, the team unanimously picked a stunning 1971 Plymouth 'Cuda as the overall winner. While we had hundreds of some of the most impressive cars from all varieties, this classic 'Cuda stole the spotlight. We recently got a chance to sit down with the owner to find out the backstory of the 'Cuda, and we uncovered a charming story behind the car."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "Watch the latest Motorious Podcast "
+        ],
+        [
+          0,
+          [
+            1,
+            0
+          ],
+          2,
+          "here"
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "."
+        ]
+      ]
+    ],
+    [
+      10,
+      1
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "When Al Young was 17 years old and in high school, his Automotive class really ignited his passion for working on cars. It was then when he talked to his parents about buying a car to fix up, with the intent of buying and selling a few. Al asked his brother Richie about any cars for sale, and he heard through a friend that there was a car in NYC worth checking out, so they did. "
+        ]
+      ]
+    ],
+    [
+      10,
+      2
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "The car they went to see was parked outside of this taxi cab repair shop. It was this purple car with yellow taxi cab wheels,white vinyl top, white interior, bench seat, rear spoiler, front rubber bumper, column shifted automatic with this scoop sticking out of the hood. It was the 'Cuda you see before you today, bought by Al in 1977. "
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "\"My brother thought that was cool because it shakes with the engine, so we took it for a ride - it was loud and fast and I could hardly see over the dash and for the price of $500.00 dollars, I was Hooked.\" Al Young tells Motorious, \"I fell in love with it and as you can see I never sold it, she was my daily driver to school and it was the only purple car around town and I painted it a candy apple purple with white pinstripes.\""
+        ]
+      ]
+    ],
+    [
+      10,
+      3
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "When Al and the 'Cuda had some wild days back then, with plenty of racing and cruising that resulted in tickets, and even had a few accidents. He shares with us a pretty funny story:"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "\"Here in New Jersey the Great Adventure theme park had a animal drive thru park where all the animals roamed free with no chain link fence like they have nowadays. You drive along the paved road and the animals are free to jump on your car. Monkeys rip your wipers off and at one point a lion took a liking to my right front rubber bumper and started to tear it apart rocking my car back and forth,I honked the horn to get him to move but he did not so silly Me I got got of the car to scare him away knowing that I can get killed but did it anyway and the Lion let it go and to this day I still have the front bumper and the piece of the corner left dangling now displayed in my garage.\""
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "After all this 'fun', his brother told him the insurance became to much for him under his name to cover on the 'Cuda, and so Al decided to store it away. It was a long 5 years for Al Young, and in those years, he went to custom car shows in New York City and Long Island. It was the influence from these shows that got him hooked on chrome and fancy paint jobs, wild displays. "
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Al started saving up enough money, and in 1986, he took the 'Cuda apart. The complete front and rear suspension were sent out to get chromed, as well as the torsion bars, steering parts, rotors, brake drums, axles, leaf springs, driveshaft, engine components - anything that unbolted was chromed. "
+        ]
+      ]
+    ],
+    [
+      10,
+      4
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "The interior was redone, the paint and body work were completed, and painted Black Cherry with a white metal flake shaker and tail panel. The paint garners a lot of questions, because people can't quite figure out what color it is, especially without a lot of light, but stuff like that can cause two strangers to bond at car shows, or make a friend out of a curious gearhead at the gas station."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "The year 1987 was the build's coming out party, and the 'Cudas 1st car show entry at Mopars at Englishtown and many more 1st place trophies to follow. After many years on the show circuit it was time to do something else with the car, so why not try enrolling in movies or pictures, or automotive modeling. Although this Plymouth 'Cuda has the looks of a movie star, it was never picked for a movie, but did have a role in a music video for the band The Dirty Pearls for a song called \"Who’s Coming Back to Who.\""
+        ]
+      ]
+    ],
+    [
+      10,
+      5
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "In 2019, New York City had its 1st rooftop concours show at Pier17 and Al's 'Cuda was invited to participate. The 'Cuda was one of only a few to participate with a muscle car, and the rest were elite class cars. "
+        ]
+      ]
+    ],
+    [
+      10,
+      6
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "As it sits today, the 1971 Plymouth 'Cuda is powered by a 340 engine with aftermarket cam and Holley 780 carb setup, and it exhales through a set of Hooker headers and a Flowmaster exhaust. It rolls on old school Cragar wheels with BF Goodrich rubber to grip the pavement."
+        ]
+      ]
+    ],
+    [
+      10,
+      7
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Al Young, like many people with 'lifer' cars, feels as though the 'Cuda found him, in a way. He was only set out to find a car to fix and sell, with nothing in particular in mind, but it turned out to be one he couldn't part with. So many people regret selling cars like these, but Al knew her couldn't let her get away."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "As far a future plans go, enjoying the 'Cuda and maintaining it are the main priorities. Al's car is also going to appear in a calendar soon, so we hope he send us a copy to enjoy!"
+        ]
+      ]
+    ],
+    [
+      10,
+      8
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          1,
+          [],
+          0,
+          0
+        ],
+        [
+          0,
+          [],
+          0,
+          "\t◦"
+        ]
+      ]
+    ]
+  ],
+  "ghostVersion": "3.0"
+}

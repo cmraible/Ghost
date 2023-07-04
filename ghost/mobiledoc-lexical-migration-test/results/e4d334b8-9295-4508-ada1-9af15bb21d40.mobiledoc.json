@@ -1,0 +1,680 @@
+{
+  "version": "0.3.1",
+  "atoms": [],
+  "cards": [
+    [
+      "email",
+      {
+        "html": "<p>Hey {first_name, \"there\"},</p><p>I took last week off the site. I was hovering dangerously close to burn out generally, and so a week to rest, reconsider and change things a little seemed like a good call.&nbsp;</p><p>The result is another shift in format, which will play out over the week. Let me know what you think…</p>"
+      }
+    ],
+    [
+      "image",
+      {
+        "src": "__GHOST_URL__/content/images/2020/07/not-blogosphere.png",
+        "width": 1129,
+        "height": 375
+      }
+    ],
+    [
+      "image",
+      {
+        "src": "__GHOST_URL__/content/images/2020/07/growth-hack.png",
+        "alt": "",
+        "title": "",
+        "caption": ""
+      }
+    ],
+    [
+      "embed",
+      {
+        "url": "https://twitter.com/josephstash/status/1277531446043971584?s=21",
+        "html": "<blockquote class=\"twitter-tweet\" data-width=\"550\"><p lang=\"en\" dir=\"ltr\">Lol. A journalist with 10k followers followed me, dm-ed me this, then unfollowed when I didn’t reply. Big up <a href=\"https://t.co/WKv4aXszxz\">pic.twitter.com/WKv4aXszxz</a></p>&mdash; Joseph 🇺🇦 (@JosephStash) <a href=\"https://twitter.com/JosephStash/status/1277531446043971584?ref_src=twsrc%5Etfw\">June 29, 2020</a></blockquote>\n<script async src=\"https://platform.twitter.com/widgets.js\" charset=\"utf-8\"></script>\n",
+        "type": "rich",
+        "metadata": {
+          "url": "https://twitter.com/JosephStash/status/1277531446043971584",
+          "author_name": "Joseph 🇺🇦",
+          "author_url": "https://twitter.com/JosephStash",
+          "width": 550,
+          "height": null,
+          "cache_age": "3153600000",
+          "provider_name": "Twitter",
+          "provider_url": "http://www.twitter.com/",
+          "version": "1.0"
+        }
+      }
+    ],
+    [
+      "hr",
+      {}
+    ]
+  ],
+  "markups": [
+    [
+      "em"
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://futurenews.substack.com"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://futurenews.substack.com/p/its-not-the-new-blogosphere?token=eyJ1c2VyX2lkIjoxMTY1MzAsInBvc3RfaWQiOjc3MDk1NCwiXyI6IkdHQlhPIiwiaWF0IjoxNTk1ODUxMTg3LCJleHAiOjE1OTU4NTQ3ODcsImlzcyI6InB1Yi02Mjg5OSIsInN1YiI6InBvc3QtcmVhY3Rpb24ifQ.M3m4TZQP1_cjYo-x1fEDolHEmCIhRuA4MyVoKZRzcs8"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/2020/07/rise-of-the-blogletter/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.insidehook.com/feature/internet/best-single-operator-email-newsletters-internet"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.washingtonpost.com/business/2020/07/24/substack-email-newsletter-journalism/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://digiday.com/media/its-like-telling-a-reporter-he-cant-have-a-twitter-account-reporters-are-starting-their-own-newsletters-outside-of-their-employer/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/signup/"
+      ]
+    ]
+  ],
+  "sections": [
+    [
+      10,
+      0
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "The latest edition of Ian Silvera’s newsletter "
+        ],
+        [
+          0,
+          [
+            0,
+            1
+          ],
+          2,
+          "Future News"
+        ],
+        [
+          0,
+          [],
+          0,
+          " caught my attention with its headline:"
+        ]
+      ]
+    ],
+    [
+      10,
+      1
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "As a very long-term blogger, I’m fascinated by the similarities and differences between the new wave of independent newsletters and the emerging blogosphere of the early 2000s. Such a blunt statement that they are "
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "not"
+        ],
+        [
+          0,
+          [],
+          0,
+          " the same intrigued me."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [
+            2
+          ],
+          1,
+          "Diving into the newsletter"
+        ],
+        [
+          0,
+          [],
+          0,
+          ", I found that the actual justification for that statement was only mentioned briefly, in the context of big names creating their own newsletters:"
+        ]
+      ]
+    ],
+    [
+      1,
+      "blockquote",
+      [
+        [
+          0,
+          [],
+          0,
+          "To some extent I’m onboard with Chen’s thesis: readers can now have a direct financial and editorial relationship with their favourite writers, the most recent being conservative columnist Andrew Sullivan (@SullyDish) who quit New York Magazine for Substack. But unlike the blogosphere that Sullivan helped create, there doesn’t yet seem to be a community where writers would post and share other people’s work."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "This is the one critical idea that was central to early blogging that has not (yet) been widely embraced by newsletters: the sense that bloggers were a "
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "community"
+        ],
+        [
+          0,
+          [],
+          0,
+          " and that the discussion was going on "
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "between"
+        ],
+        [
+          0,
+          [],
+          0,
+          " them. Why did this matter? Well, for one it helped define the voice of blogging - more conversational, more discursive that traditional journalism. That seems less striking now, two decades on, because mainstream journalism has largely appropriated that tone of voice for good or (I’d argue) ill."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "But the other thing it brought was "
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "discovery"
+        ],
+        [
+          0,
+          [],
+          0,
+          " - the ability to find other blogs worth reading. This was an era before Twitter, Facebook or many of the tools of discovery we use now. Search — and Google in particular — did exist. And it was one way of finding new readers. But a link from another well-read blogger was the real win you hoped for."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Equally, this worked for readers, because you could quickly and easily expand your range of reading. You would have your favourites, of course, but you'd trust them to be a good filter of other writing out there. "
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Blogging was a social process before the phrase “social media” had been coined. But newsletters are still adopting a much more traditional media approach, acting as micro-publications with little awareness of others. "
+        ]
+      ]
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Create your newsletter neighbourhood"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "This is a basic growth strategy any newsletter writer could adopt right now. Stop thinking of your missive as something that exists in isolation, but acknowledge and link to the places that you’ve drawn ideas from - or with whom you disagree."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Certainly, if you’re an independent journalist creating a newsletter, it’s worth finding a group of peers, who make an effort to interlink between each other. Why? Because that interlinking is the rising tide that floats all boats."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "The biggest challenge for email newsletters as a product in the own right is "
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "discovery"
+        ],
+        [
+          0,
+          [],
+          0,
+          ". Newsletters that are part of a wide publication can gain subscribers that way. Their aim is slightly different - it’s to boost engagement with an existing user base, rather than being a product in its own right."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "If you’re just selling a newsletter, you’re highly reliant on constant plugs via social media, and recommendations from readers. A group of newsletter writers who are discussing related subjects have the potential to boost subscriptions right across the range, by interlinking. That’s why most newsletter platforms have a web presence - you can direct people towards a web-accessible version of the same content: it facilitates linking (as I’ve done to Silvera’s Substack newsletter above), as well as people discovering you via search."
+        ]
+      ]
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "The ported audience"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Many of the “big names” who have started newsletters are merely coasting on the audience that their employers have gifted them. Build a name on a major publication, and then head off to create your own newsletter."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "The problem with that is is that you need a path to replace the readers that churn out. Not everyone will stay subscribed, as as your old platform fades, you need to find ways of drawing in new people."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "As Silvera puts it:"
+        ]
+      ]
+    ],
+    [
+      1,
+      "blockquote",
+      [
+        [
+          0,
+          [],
+          0,
+          "That is probably why there are currently no ‘Substack stars’ since many high-profile journalists have simply lifted their followings from other platforms and outlets onto the network."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Finding ways of growing newsletter audiences is likely to become a big battleground in the coming months. In fact, it may have already started."
+        ]
+      ]
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Email growth hacking"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "There is at least one writer of a media newsletter who is “growth-hacking” by following people on Twitter, DMing them a stock message asking permission to subscribe them to the newsletter:"
+        ]
+      ]
+    ],
+    [
+      10,
+      2
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "I confess, as you can see, I fell for this. I was only alerted to the issue by a tweet from former "
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "Times"
+        ],
+        [
+          0,
+          [],
+          0,
+          " newsletter head Joseph Stashko:"
+        ]
+      ]
+    ],
+    [
+      10,
+      3
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "If you follow the Twitter thread, you can see that a lot of journalists have had the same. It may be growing our growth-hacking journalist's list - but it’s slowly destroying his reputation, too."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "(He's followed and unfollowed me a couple of times in the last few weeks, since I realised what he was doing and unsubscribed/unfollowed him everywhere. He's clearly using an automated service of some sort to manage this…)"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "All of which brings us back to the start. The element missing from newsletters right now is a sense of community, of a group of people exploring a topic together. And if you want to know what that looks like - well, this post is, itself, part of a dialogue between Silvera’s newsletter and my “"
+        ],
+        [
+          0,
+          [
+            3
+          ],
+          1,
+          "blogletter"
+        ],
+        [
+          0,
+          [],
+          0,
+          "”."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Will we see more people follow this path?"
+        ]
+      ]
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Lovely Links"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "📧 A "
+        ],
+        [
+          0,
+          [
+            4
+          ],
+          1,
+          "list of 80 single person newsletters"
+        ],
+        [
+          0,
+          [],
+          0,
+          " that might interest you"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "💸 Reporters are "
+        ],
+        [
+          0,
+          [
+            5
+          ],
+          1,
+          "leaving newsrooms for newsletters"
+        ],
+        [
+          0,
+          [],
+          0,
+          "."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "😡 Publishers are "
+        ],
+        [
+          0,
+          [
+            6
+          ],
+          1,
+          "not delighted about this"
+        ],
+        [
+          0,
+          [],
+          0,
+          ". This may yet become a battleground."
+        ]
+      ]
+    ],
+    [
+      10,
+      4
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [
+            0
+          ],
+          0,
+          "Hello! Thanks for reading. If you found this useful or interesting, you can get updates and exclusive, member-only analysis delivered direct to your mailbox "
+        ],
+        [
+          0,
+          [
+            7
+          ],
+          1,
+          "by signing up for the newsletter"
+        ],
+        [
+          0,
+          [],
+          1,
+          ". "
+        ]
+      ]
+    ]
+  ],
+  "ghostVersion": "3.0"
+}

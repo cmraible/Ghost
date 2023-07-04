@@ -1,0 +1,259 @@
+{
+  "version": "0.3.1",
+  "atoms": [
+    [
+      "soft-return",
+      "",
+      {}
+    ]
+  ],
+  "cards": [
+    [
+      "email-cta",
+      {
+        "showButton": true,
+        "showDividers": false,
+        "segment": "status:free",
+        "alignment": "center",
+        "buttonUrl": "__GHOST_URL__/15percentdiscount",
+        "buttonText": "CLICK HERE FOR A 15% DISCOUNT"
+      }
+    ],
+    [
+      "email-cta",
+      {
+        "showButton": true,
+        "showDividers": false,
+        "segment": "status:free",
+        "alignment": "center",
+        "buttonUrl": "mailto:editor@dailyposter.com",
+        "buttonText": "CLICK HERE TO EMAIL US"
+      }
+    ],
+    [
+      "email-cta",
+      {
+        "showButton": true,
+        "showDividers": false,
+        "segment": "status:free",
+        "alignment": "center",
+        "buttonUrl": "mailto:editor@dailyposter.com",
+        "buttonText": "CLICK HERE TO EMAIL US"
+      }
+    ]
+  ],
+  "markups": [
+    [
+      "em"
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/15percentdiscount"
+      ]
+    ],
+    [
+      "strong"
+    ],
+    [
+      "a",
+      [
+        "href",
+        "mailto:editor@dailyposter.com"
+      ]
+    ]
+  ],
+  "sections": [
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Friends:"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "The work "
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "The Daily Poster"
+        ],
+        [
+          0,
+          [],
+          0,
+          " does everyday is expensive and labor-intensive, but we’ve always said we will not price anyone out. Today, we are offering "
+        ],
+        [
+          0,
+          [
+            1
+          ],
+          1,
+          "a special 15 percent discount"
+        ],
+        [
+          0,
+          [],
+          0,
+          " off an annual subscription in perpetuity, a deal that will only last for the next 48 hours."
+        ]
+      ]
+    ],
+    [
+      10,
+      0
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Now, we have heard from some folks that they want to support us, but can’t afford to, even with our special discounts. "
+        ],
+        [
+          0,
+          [
+            2
+          ],
+          1,
+          "So if you want to subscribe but need more help to do so, please "
+        ],
+        [
+          0,
+          [
+            3,
+            2
+          ],
+          2,
+          "reply to this email"
+        ],
+        [
+          0,
+          [
+            2
+          ],
+          1,
+          " with a request for an additional need-based reduction."
+        ]
+      ]
+    ],
+    [
+      10,
+      1
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "We don’t like asking folks to pitch in. But we are a reader-supported news outlet, which means we rely on subscriptions to fund our work. And when you subscribe, you get all sorts of exclusive content, including live events, podcasts, special features, and our C"
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "itizens’ Guide To Holding The Powerful Accountable"
+        ],
+        [
+          0,
+          [],
+          0,
+          "."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "We hope you’ll use this big discount right now to help us hire more reporters and keep doing our follow-the-money reporting that holds politicians accountable. And again, if you’d like to subscribe, but your financial situation means you need an even lower rate, please email "
+        ],
+        [
+          0,
+          [
+            3
+          ],
+          1,
+          "editor@dailyposter.com"
+        ],
+        [
+          0,
+          [],
+          0,
+          " right now to let us know. Again, we will not price anyone out."
+        ]
+      ]
+    ],
+    [
+      10,
+      2
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Rock the boat,"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Sirota"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          1,
+          [],
+          0,
+          0
+        ]
+      ]
+    ]
+  ],
+  "ghostVersion": "4.0"
+}

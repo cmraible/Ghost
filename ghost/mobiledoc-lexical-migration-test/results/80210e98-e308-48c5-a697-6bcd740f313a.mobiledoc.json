@@ -1,0 +1,552 @@
+{
+  "version": "0.3.1",
+  "atoms": [],
+  "cards": [
+    [
+      "image",
+      {
+        "src": "__GHOST_URL__/content/images/2021/04/IMG_0078.jpeg",
+        "width": 1280,
+        "height": 960,
+        "alt": "Apple's Do Not Track on the iPad"
+      }
+    ],
+    [
+      "embed",
+      {
+        "url": "https://www.youtube.com/watch?v=Ihw_Al4RNno",
+        "html": "<iframe width=\"200\" height=\"113\" src=\"https://www.youtube.com/embed/Ihw_Al4RNno?feature=oembed\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+        "type": "video",
+        "metadata": {
+          "title": "Privacy | App Tracking Transparency | Apple",
+          "author_name": "Apple",
+          "author_url": "https://www.youtube.com/user/Apple",
+          "height": 113,
+          "width": 200,
+          "version": "1.0",
+          "provider_name": "YouTube",
+          "provider_url": "https://www.youtube.com/",
+          "thumbnail_height": 360,
+          "thumbnail_width": 480,
+          "thumbnail_url": "https://i.ytimg.com/vi/Ihw_Al4RNno/hqdefault.jpg"
+        }
+      }
+    ],
+    [
+      "embed",
+      {
+        "url": "https://twitter.com/baekdal/status/1386648852724342788?s=20",
+        "html": "<blockquote class=\"twitter-tweet\"><p lang=\"en\" dir=\"ltr\">*sigh* ... there is not a single reader in the world who agrees with this. — German media groups file Apple antitrust complaint as it makes privacy changes  <a href=\"https://t.co/tgdpqN1ysy\">https://t.co/tgdpqN1ysy</a></p>&mdash; Thomas Baekdal (@baekdal) <a href=\"https://twitter.com/baekdal/status/1386648852724342788?ref_src=twsrc%5Etfw\">April 26, 2021</a></blockquote>\n<script async src=\"https://platform.twitter.com/widgets.js\" charset=\"utf-8\"></script>\n",
+        "type": "rich",
+        "metadata": {
+          "url": "https://twitter.com/baekdal/status/1386648852724342788",
+          "author_name": "Thomas Baekdal",
+          "author_url": "https://twitter.com/baekdal",
+          "width": 550,
+          "height": null,
+          "cache_age": "3153600000",
+          "provider_name": "Twitter",
+          "provider_url": "http://www.twitter.com/",
+          "version": "1.0"
+        }
+      }
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "bookmark",
+      {
+        "url": "https://www.nytimes.com/interactive/2021/04/24/technology/online-slander-websites.html",
+        "metadata": {
+          "url": "https://www.nytimes.com/interactive/2021/04/24/technology/online-slander-websites.html",
+          "title": "The Slander Industry",
+          "description": "Who makes money from destroying reputations online?",
+          "author": "Aaron Krolik and Kashmir HillApril 24, 2021",
+          "publisher": "The New York Times",
+          "thumbnail": "https://static01.nyt.com/images/2021/04/23/us/online-slander-websites-promo-1619220438193/online-slander-websites-promo-1619220438193-facebookJumbo-v3.jpg",
+          "icon": null
+        }
+      }
+    ]
+  ],
+  "markups": [
+    [
+      "a",
+      [
+        "href",
+        "https://www.theverge.com/2021/4/26/22403554/apple-ios-ipados-14-5-now-available-iphone-unlock-face-mask-app-tracking?scrolla=5eb6d68b7fedc32c19ef33b4"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.facebook.com/business/help/331612538028890?id=428636648170202"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.ft.com/content/0a48d9aa-244b-4945-b2a0-01c68683544a"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://wtfseo.substack.com"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.seoforgooglenews.com"
+      ]
+    ],
+    [
+      "em"
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://digiday.com/media/publishers-like-the-guardian-become-conscientious-floc-objectors-as-the-new-york-times-and-others-are-open-to-testing-the-controversial-tech/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.buzzfeednews.com/article/ryanmac/full-facebook-stop-the-steal-internal-report"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://venturebeat.com/2021/04/26/zoom-launches-immersive-view-to-unify-participants-in-the-same-virtual-room/"
+      ]
+    ]
+  ],
+  "sections": [
+    [
+      1,
+      "p",
+      []
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "I wouldn't normally start with a minor software update — but Apple's release of iOS 14.5 last night isn't minor for publishers. Once you install the upgrade, your phone (or iPad) stops "
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "advertisers from tracking you between apps"
+        ],
+        [
+          0,
+          [],
+          0,
+          " and websites by default:"
+        ]
+      ]
+    ],
+    [
+      10,
+      0
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "You can go into that setting, switch it on, and you get asked, on per app basis, if you want to allow them to track your data, instead of blocking everything by default."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Here's Apple's own explanation of the change:"
+        ]
+      ]
+    ],
+    [
+      10,
+      1
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Whatever "
+        ],
+        [
+          0,
+          [
+            1
+          ],
+          1,
+          "Facebook says"
+        ],
+        [
+          0,
+          [],
+          0,
+          ", this could well be a good thing for publishers. If they've got a good data strategy already, if they've invested in building a useful, definable audience, and if they've built ways of reliably reaching those audiences — they can now offer something many of the big ad networks will struggle to do. "
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Happy times — if you're positioned to take advantage of the switch. "
+        ]
+      ]
+    ],
+    [
+      1,
+      "h3",
+      [
+        [
+          0,
+          [],
+          0,
+          "60% app revenue decline expected"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "However, my opinion is clearly not universally shared. A group of German publishers is "
+        ],
+        [
+          0,
+          [
+            2
+          ],
+          1,
+          "taking Apple to court over it"
+        ],
+        [
+          0,
+          [],
+          0,
+          ":"
+        ]
+      ]
+    ],
+    [
+      1,
+      "blockquote",
+      [
+        [
+          0,
+          [],
+          0,
+          "A group of Germany’s largest media, tech and advertising companies have accused Apple of antitrust abuse as it introduces changes to the privacy settings of iPhones that they say will harm the ads market. Nine industry associations, representing companies including Facebook and Axel Springer, the owner of Bild, Die Welt and Insider, filed the complaint on Monday with Germany’s competition regulator."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "They're predicting a 60% decline in ad revenue from apps, and a need to app developers to switch to a paid model. "
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Which seems, well, OK…?"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "As Thomas put it:"
+        ]
+      ]
+    ],
+    [
+      10,
+      2
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "It's a simple question, really: are you treating your audience as a valued set of subscribers, whom you have a relationship with? Or as a cohort of data points to be sold to whomever will pay? "
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "There's a spectrum between those two, of course, but where you sit on that spectrum will have a huge impact on how this affects you. "
+        ]
+      ]
+    ],
+    [
+      10,
+      3
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "SEO Newsletters"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "A couple of good SEO newsletters worth your time:"
+        ]
+      ]
+    ],
+    [
+      3,
+      "ul",
+      [
+        [
+          [
+            0,
+            [
+              3
+            ],
+            1,
+            "WTFSEO"
+          ],
+          [
+            0,
+            [],
+            0,
+            " — a weekly guide to the basics of editorial SEO "
+          ]
+        ],
+        [
+          [
+            0,
+            [
+              4
+            ],
+            1,
+            "SEO for Google News"
+          ],
+          [
+            0,
+            [],
+            0,
+            " — An occasional (and quite technical) look at optimising for Google News in particular."
+          ]
+        ]
+      ]
+    ],
+    [
+      10,
+      4
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Quick Links"
+        ]
+      ]
+    ],
+    [
+      3,
+      "ul",
+      [
+        [
+          [
+            0,
+            [
+              5
+            ],
+            1,
+            "✋🏻 The Guardian"
+          ],
+          [
+            0,
+            [],
+            0,
+            " is taking a "
+          ],
+          [
+            0,
+            [
+              6
+            ],
+            1,
+            "stand against Google's replacement"
+          ],
+          [
+            0,
+            [],
+            0,
+            " for the tracking Apple is killing off. "
+          ]
+        ],
+        [
+          [
+            0,
+            [],
+            0,
+            "🕵🏻‍♂️ Facebook tried to keep its internal report into how the platform was involved in the attempted insurrection in the US. "
+          ],
+          [
+            0,
+            [
+              7
+            ],
+            1,
+            "So, Buzzfeed has published it"
+          ],
+          [
+            0,
+            [],
+            0,
+            ". "
+          ]
+        ],
+        [
+          [
+            0,
+            [],
+            0,
+            "🤮 Oh, God, no. Zoom is launching "
+          ],
+          [
+            0,
+            [
+              8
+            ],
+            1,
+            "some horrible skeuomorphic meeting room environment"
+          ],
+          [
+            0,
+            [],
+            0,
+            ". "
+          ]
+        ]
+      ]
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "And Finally…"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "This is a bleak look at how a small group of companies are both facilitating online reputation destruction and charging you to clear it up:"
+        ]
+      ]
+    ],
+    [
+      10,
+      5
+    ],
+    [
+      1,
+      "p",
+      []
+    ]
+  ],
+  "ghostVersion": "4.0"
+}

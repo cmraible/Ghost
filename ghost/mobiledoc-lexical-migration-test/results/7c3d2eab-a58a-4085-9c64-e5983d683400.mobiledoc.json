@@ -1,0 +1,461 @@
+{
+  "version": "0.3.1",
+  "atoms": [],
+  "cards": [
+    [
+      "hr",
+      {}
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "html",
+      {
+        "html": "<table id=\"production-numbers-table\">\n<tbody>\n\t<tr>\n\t\t<td>2-DR Pillared Coupe</td>\n\t\t<td>15,716</td>\n\t</tr>\n    \t<tr>\n\t\t<td>2-DR Hardtop Coupe</td>\n\t\t<td>24,944</td>\n\t</tr>\n    \t<tr>\n\t\t<td>Convertible</td>\n\t\t<td>824</td>\n\t</tr>\n\t\t<td><b>Total Production</b></td>\n\t\t<td><b>41,484</b></td>\n\t</tr>\n</tbody>\n</table>"
+      }
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "html",
+      {
+        "html": "<table id=\"performance-specs-table\">\n<tbody>\n\t<tr>\n\t\t<th><b>Engine</b></th>\n\t\t<th><b>Size</b></td>\n\t\t<th><b>Carb.</b></td>\n\t\t<th><b>HP</b></td>\n\t\t<th><b>Torque</b></td>\n\t\t<th><b>0 to 60</b></td>\n\t\t<th><b>Quarter mile</b></td>\n\t</tr>\n\t<tr>\n\t\t<td>Road Runner</td>\n\t\t<td>383ci</td>\n\t\t<td>1x4bbl</td>\n\t\t<td>335</td>\n\t\t<td>425 lb-ft</td>\n\t\t<td>-</td>\n\t\t<td>-</td>\n\t</tr>\n\t<tr>\n\t\t<td>HEMI</td>\n\t\t<td>426ci</td>\n\t\t<td>2x4bbl</td>\n\t\t<td>425</td>\n\t\t<td>490 lb-ft</td>\n\t\t<td>5.6 sec</td>\n\t\t<td>13.49 sec at 106</td>\n\t</tr>\n\t<tr>\n\t\t<td>A12 V8</td>\n\t\t<td>440ci</td>\n\t\t<td>3x2</td>\n\t\t<td>390</td>\n\t\t<td>490 lb-ft</td>\n\t\t<td>-</td>\n\t\t<td>-</td>\n\t</tr>\n\t<tr>\n\t\t<td>V8</td>\n\t\t<td>440ci</td>\n\t\t<td>-</td>\n\t\t<td>375</td>\n\t\t<td>480 lb-ft</td>\n\t\t<td>-</td>\n\t\t<td>-</td>\n\t</tr>\n</tbody>\n</table>"
+      }
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "html",
+      {
+        "html": "<h4 id='colors-sub-heading'>Exterior</h4>\n<div class=\"colors-row\">\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #959692\"></div>\n        <div class=\"color-name\">Platinum</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #577ead\"></div>\n        <div class=\"color-name\">Ice Blue</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #285ea6\"></div>\n        <div class=\"color-name\">Blue Fire</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #3e4d6c\"></div>\n        <div class=\"color-name\">Jamaica Blue</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #453e7a\"></div>\n        <div class=\"color-name\">In Violet</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #b52821\"></div>\n        <div class=\"color-name\">Rally Red</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #798054\"></div>\n        <div class=\"color-name\">Lime Green</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #616c4d\"></div>\n        <div class=\"color-name\">Ivy Green</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #91ea3e\"></div>\n        <div class=\"color-name\">Lime Light</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #cc3227\"></div>\n        <div class=\"color-name\">Vitamin C</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #872d26\"></div>\n        <div class=\"color-name\">Burnt Orange</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #62201d\"></div>\n        <div class=\"color-name\">Deep Burnt Orange</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #bbb695\"></div>\n        <div class=\"color-name\">Sand Pebble Beige</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #c4468d\"></div>\n        <div class=\"color-name\">Moulin Rouge</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #466a74\"></div>\n        <div class=\"color-name\">Frosted Teal</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #7c221d\"></div>\n        <div class=\"color-name\">Scorch Red</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #967961\"></div>\n        <div class=\"color-name\">Sahara Tan</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #735339\"></div>\n        <div class=\"color-name\">Burnt Tan</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #4e3623\"></div>\n        <div class=\"color-name\">Walnut</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #ce3e2b\"></div>\n        <div class=\"color-name\">Tor Red</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #faf6dd\"></div>\n        <div class=\"color-name\">Alpine White</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #000000\"></div>\n        <div class=\"color-name\">Black Velvet</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #ffe91e\"></div>\n        <div class=\"color-name\">Lemon Twist</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #eedf92\"></div>\n        <div class=\"color-name\">Sunfire Yellow</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #dcca95\"></div>\n        <div class=\"color-name\">Yellow Gold</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #958258\"></div>\n        <div class=\"color-name\">Citron Mist</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #7e6f4c\"></div>\n        <div class=\"color-name\">Citron Gold</div>\n    </div>\n</div>\n\n<h4 id='colors-sub-heading'>Interior</h4>\n<div class=\"colors-row\">\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #000000\"></div>\n        <div class=\"color-name\">Black</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #efefef\"></div>\n        <div class=\"color-name\">White</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #2b4b74\"></div>\n        <div class=\"color-name\">Dark Blue</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #014015\"></div>\n        <div class=\"color-name\">Dark Green</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #801f1d\"></div>\n        <div class=\"color-name\">Red</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #959692\"></div>\n        <div class=\"color-name\">Silver</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #474749\"></div>\n        <div class=\"color-name\">Charcoal</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #3996dd\"></div>\n        <div class=\"color-name\">Brite Blue</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #872d26\"></div>\n        <div class=\"color-name\">Burnt Orange</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #4e3623\"></div>\n        <div class=\"color-name\">Dark Brown</div>\n    </div>\n</div>\n"
+      }
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "gallery",
+      {
+        "images": [
+          {
+            "fileName": "1737_1970belvedere_14_low_res.jpg",
+            "row": 0,
+            "width": 790,
+            "height": 869,
+            "src": "__GHOST_URL__/content/images/2020/08/1737_1970belvedere_14_low_res.jpg"
+          },
+          {
+            "fileName": "1738_1970belvedere_13_low_res.jpg",
+            "row": 0,
+            "width": 790,
+            "height": 868,
+            "src": "__GHOST_URL__/content/images/2020/08/1738_1970belvedere_13_low_res.jpg"
+          },
+          {
+            "fileName": "1739_1970belvedere_12_low_res.jpg",
+            "row": 0,
+            "width": 790,
+            "height": 864,
+            "src": "__GHOST_URL__/content/images/2020/08/1739_1970belvedere_12_low_res.jpg"
+          },
+          {
+            "fileName": "1740_1970belvedere_11_low_res.jpg",
+            "row": 1,
+            "width": 790,
+            "height": 867,
+            "src": "__GHOST_URL__/content/images/2020/08/1740_1970belvedere_11_low_res.jpg"
+          },
+          {
+            "fileName": "1741_1970belvedere_10_low_res.jpg",
+            "row": 1,
+            "width": 790,
+            "height": 867,
+            "src": "__GHOST_URL__/content/images/2020/08/1741_1970belvedere_10_low_res.jpg"
+          },
+          {
+            "fileName": "1742_1970belvedere_01_low_res.jpg",
+            "row": 1,
+            "width": 790,
+            "height": 866,
+            "src": "__GHOST_URL__/content/images/2020/08/1742_1970belvedere_01_low_res.jpg"
+          },
+          {
+            "fileName": "1743_1970belvedere_02_low_res.jpg",
+            "row": 2,
+            "width": 790,
+            "height": 434,
+            "src": "__GHOST_URL__/content/images/2020/08/1743_1970belvedere_02_low_res.jpg"
+          },
+          {
+            "fileName": "1736_70rr_low_res.jpg",
+            "row": 2,
+            "width": 390,
+            "height": 595,
+            "src": "__GHOST_URL__/content/images/2020/08/1736_70rr_low_res.jpg"
+          }
+        ],
+        "caption": "1970 Plymouth Road Runner OEM Brochures"
+      }
+    ],
+    [
+      "hr",
+      {}
+    ]
+  ],
+  "markups": [
+    [
+      "strong"
+    ],
+    [
+      "em"
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/tag/research/"
+      ]
+    ]
+  ],
+  "sections": [
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Overview"
+        ]
+      ]
+    ],
+    [
+      10,
+      0
+    ],
+    [
+      1,
+      "h3",
+      [
+        [
+          0,
+          [],
+          0,
+          "The 1970 Road Runner arrived with new front and rear looks. Updates included a new grille, leather seats, hood, front fenders, quarter panels, single-piston Kelsey-Hayes disc brakes, and even non-functional scoops in the rear quarters."
+        ]
+      ]
+    ],
+    [
+      10,
+      1
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "The 1970 Road Runner arrived with new front and rear looks. Updates included a new grille, leather seats, hood, front fenders, quarter panels, single-piston Kelsey-Hayes disc brakes, and even non-functional scoops in the rear quarters."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "The Air Grabber option was redesigned to increase efficiency to better intimidate opponents. A switch below the dash initiated a vacuum servo to slowly raise the forward-facing scoop exposing shark-like teeth on either side."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "A heavy-duty 3-speed manual became the standard transmission making the 4-speed and Torquflite auto options."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "This was only the second, and final, year for convertibles, but are actually more sought-after because of a better dash, high-impact colors, and more options like high-back bucket seats."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "The 440 Six Barrel option returned but with a factory recalled cast iron intake that were supposed to be replaced with the more desirable Edelbrock intake from the previous year."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Sales dropped dramatically, but still outpaced the GTO in production, but came up short against the Chevell SS 396. Sales took a beating because of insurance premiums and stiff competition from the ancestor Duster 340 that performed as well and was eligible for cheaper insurance."
+        ]
+      ]
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Production Numbers"
+        ]
+      ]
+    ],
+    [
+      10,
+      2
+    ],
+    [
+      10,
+      3
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Performance Specs"
+        ]
+      ]
+    ],
+    [
+      10,
+      4
+    ],
+    [
+      10,
+      5
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Transmission"
+        ]
+      ]
+    ],
+    [
+      10,
+      6
+    ],
+    [
+      3,
+      "ul",
+      [
+        [
+          [
+            0,
+            [
+              0,
+              0
+            ],
+            2,
+            "4-Speed Manual"
+          ]
+        ],
+        [
+          [
+            0,
+            [
+              0,
+              0
+            ],
+            2,
+            "3-Speed Torqueflite Auto"
+          ]
+        ],
+        [
+          [
+            0,
+            [
+              0,
+              0
+            ],
+            2,
+            "Heavy-Duty 3-Speed Manual"
+          ]
+        ]
+      ]
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Paint & Colors"
+        ]
+      ]
+    ],
+    [
+      10,
+      7
+    ],
+    [
+      10,
+      8
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "OEM Brochures"
+        ]
+      ]
+    ],
+    [
+      10,
+      9
+    ],
+    [
+      10,
+      10
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "About the Knowledge Base"
+        ]
+      ]
+    ],
+    [
+      10,
+      11
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "The Motorious Knowledge Base provides a comprehensive vehicle overview for the 1970 Plymouth Road Runner"
+        ],
+        [
+          0,
+          [
+            1,
+            1
+          ],
+          2,
+          " "
+        ],
+        [
+          0,
+          [],
+          0,
+          "including production numbers, performance specs, factory colors, and OEM brochures. Check out additional model years or related content linked to this article or view other Makes and Models in our "
+        ],
+        [
+          0,
+          [
+            2
+          ],
+          1,
+          "Research"
+        ],
+        [
+          0,
+          [],
+          0,
+          " center."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "If you have any interesting facts about the 1970 Plymouth Road Runner"
+        ],
+        [
+          0,
+          [
+            1,
+            1
+          ],
+          2,
+          " "
+        ],
+        [
+          0,
+          [],
+          0,
+          "to add, want to tell us how we did covering the Road Runner, or want to tell us about yours, please leave a comment below."
+        ]
+      ]
+    ]
+  ],
+  "ghostVersion": "3.0"
+}

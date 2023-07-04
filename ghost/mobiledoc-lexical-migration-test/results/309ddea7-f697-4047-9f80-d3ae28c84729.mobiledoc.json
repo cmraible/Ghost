@@ -1,0 +1,535 @@
+{
+  "version": "0.3.1",
+  "atoms": [],
+  "cards": [
+    [
+      "hr",
+      {}
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "html",
+      {
+        "html": "<table id=\"production-numbers-table\">\n<tbody>\n\t<tr>\n\t\t<td>Sport Coupe</td>\n\t\t<td>176,813</td>\n\t</tr>\n    <tr>\n\t\t<td>Sport Coupe Convertible</td>\n\t\t<td>20,440</td>\n\t</tr>\n    <tr>\n\t\t<td>RS</td>\n\t\t<td>64,842</td>\n\t</tr>\n    <tr>\n\t\t<td>Z/28</td>\n\t\t<td>7,199</td>\n\t</tr>\n    <tr>\n\t\t<td>SS</td>\n\t\t<td>34,411</td>\n\t</tr>\n\t\t<td><b>Total Production</b></td>\n\t\t<td><b>303,705</b></td>\n\t</tr>\n</tbody>\n</table>"
+      }
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "html",
+      {
+        "html": "<table id=\"performance-specs-table\">\n<tbody>\n\t<tr>\n\t\t<th><b>Engine</b></th>\n\t\t<th><b>Size</b></td>\n\t\t<th><b>Carb.</b></td>\n\t\t<th><b>HP</b></td>\n\t\t<th><b>Torque</b></td>\n\t\t<th><b>0 to 60</b></td>\n\t\t<th><b>Quarter mile</b></td>\n\t</tr>\n\t<tr>\n\t\t<td>Std. I-6</td>\n\t\t<td>230ci</td>\n\t\t<td>1x1bbl</td>\n\t\t<td>140hp</td>\n\t\t<td>220 lb-ft</td>\n\t\t<td>-</td>\n\t\t<td>-</td>\n\t</tr>\n    <tr>\n\t\t<td>L22 I-6</td>\n\t\t<td>250ci</td>\n\t\t<td>1x1bbl</td>\n\t\t<td>155hp</td>\n\t\t<td>235 lb-ft</td>\n\t\t<td>-</td>\n\t\t<td>-</td>\n\t</tr>\n    <tr>\n\t\t<td>Z/28</td>\n\t\t<td>302ci</td>\n\t\t<td>1x4bbl</td>\n\t\t<td>290hp</td>\n\t\t<td>290 lb-ft</td>\n\t\t<td>5.5 sec</td>\n\t\t<td>13.8 sec @ 107 mph</td>\n\t</tr>\n    <tr>\n\t\t<td>L30</td>\n\t\t<td>327ci</td>\n\t\t<td>1x4bbl</td>\n\t\t<td>275hp</td>\n\t\t<td>355 lb-ft</td>\n\t\t<td>-</td>\n\t\t<td>-</td>\n\t</tr>\n    <tr>\n\t\t<td>Std. V8</td>\n\t\t<td>327ci</td>\n\t\t<td>1x2bbl</td>\n\t\t<td>210hp</td>\n\t\t<td>320 lb-ft</td>\n\t\t<td>-</td>\n\t\t<td>-</td>\n\t</tr>\n    <tr>\n\t\t<td>L48</td>\n\t\t<td>350ci</td>\n\t\t<td>1x4bbl</td>\n\t\t<td>295hp</td>\n\t\t<td>380 lb-ft</td>\n\t\t<td>-</td>\n\t\t<td>-</td>\n\t</tr>\n    <tr>\n\t\t<td>L78</td>\n\t\t<td>396ci</td>\n\t\t<td>1x4bbl</td>\n\t\t<td>375hp</td>\n\t\t<td>415 lb-ft</td>\n\t\t<td>14.1 sec @ 99 mph</td>\n\t\t<td>-</td>\n\t</tr>\n    <tr>\n\t\t<td>L35</td>\n\t\t<td>396ci</td>\n\t\t<td>1x4bbl</td>\n\t\t<td>325</td>\n\t\t<td>410 lb-ft</td>\n\t\t<td>6.6 sec</td>\n\t\t<td>15.0 sec @ 94 mph</td>\n\t</tr>\n    <tr>\n\t\t<td>L34</td>\n\t\t<td>396ci</td>\n\t\t<td>1x4bbl</td>\n\t\t<td>350hp</td>\n\t\t<td>415 lb-ft</td>\n\t\t<td>-</td>\n\t\t<td>-</td>\n\t</tr>\n    <tr>\n\t\t<td>L72</td>\n\t\t<td>427ci</td>\n\t\t<td>1x4bbl</td>\n\t\t<td>425hp</td>\n\t\t<td>460 lb-ft</td>\n\t\t<td>-</td>\n\t\t<td>-</td>\n\t</tr>\n</tbody>"
+      }
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "html",
+      {
+        "html": "<h4 id='colors-sub-heading'>Exterior</h4>\n<div class=\"colors-row\">\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #000000\"></div>\n        <div class=\"color-name\">Tuxedo Black</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #e1dcc9\"></div>\n        <div class=\"color-name\">Ermine White</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #6086a1\"></div>\n        <div class=\"color-name\">Grotto Blue</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #222d47\"></div>\n        <div class=\"color-name\">Fathom Blue</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #6d818f\"></div>\n        <div class=\"color-name\">Island Teal</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #9a9480\"></div>\n        <div class=\"color-name\">Ash Gold</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #647d70\"></div>\n        <div class=\"color-name\">Grecian Green</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #446f83\"></div>\n        <div class=\"color-name\">Tripoli Turquoise</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #3d4e5e\"></div>\n        <div class=\"color-name\">Teal Blue</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #311f20\"></div>\n        <div class=\"color-name\">Cordovan Maroon</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #7b8085\"></div>\n        <div class=\"color-name\">Seafrost Green</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #7a2220\"></div>\n        <div class=\"color-name\">Matador Red</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #bcb69a\"></div>\n        <div class=\"color-name\">Palomino Ivory</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #28342d\"></div>\n        <div class=\"color-name\">Sequoia Green</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #fdeda5\"></div>\n        <div class=\"color-name\">Butternut Yellow</div>\n    </div>\n</div>\n\n<h4 id='colors-sub-heading'>Interior</h4>\n<div class=\"colors-row\">\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #000000\"></div>\n        <div class=\"color-name\">Black</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #82c1e9\"></div>\n        <div class=\"color-name\">Blue</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #bb3c35\"></div>\n        <div class=\"color-name\">Red</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #9b8346\"></div>\n        <div class=\"color-name\">Gold</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #e5d6b9\"></div>\n        <div class=\"color-name\">Parchment/Black</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #84a18b\"></div>\n        <div class=\"color-name\">Turquoise</div>\n    </div>\n</div>\n"
+      }
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "gallery",
+      {
+        "images": [
+          {
+            "fileName": "14_1_low_res.jpeg",
+            "row": 0,
+            "width": 772,
+            "height": 1024,
+            "src": "__GHOST_URL__/content/images/2020/06/14_1_low_res.jpeg"
+          },
+          {
+            "fileName": "15_2_low_res.jpeg",
+            "row": 0,
+            "width": 753,
+            "height": 1024,
+            "src": "__GHOST_URL__/content/images/2020/06/15_2_low_res.jpeg"
+          },
+          {
+            "fileName": "16_3_low_res.jpeg",
+            "row": 0,
+            "width": 752,
+            "height": 1024,
+            "src": "__GHOST_URL__/content/images/2020/06/16_3_low_res.jpeg"
+          },
+          {
+            "fileName": "17_4_low_res.jpeg",
+            "row": 1,
+            "width": 770,
+            "height": 1024,
+            "src": "__GHOST_URL__/content/images/2020/06/17_4_low_res.jpeg"
+          },
+          {
+            "fileName": "18_5_low_res.jpeg",
+            "row": 1,
+            "width": 761,
+            "height": 1024,
+            "src": "__GHOST_URL__/content/images/2020/06/18_5_low_res.jpeg"
+          },
+          {
+            "fileName": "20_7_low_res.jpeg",
+            "row": 1,
+            "width": 765,
+            "height": 1024,
+            "src": "__GHOST_URL__/content/images/2020/06/20_7_low_res.jpeg"
+          },
+          {
+            "fileName": "21_8_low_res.jpeg",
+            "row": 2,
+            "width": 790,
+            "height": 519,
+            "src": "__GHOST_URL__/content/images/2020/06/21_8_low_res.jpeg"
+          },
+          {
+            "fileName": "22_9_low_res.jpeg",
+            "row": 2,
+            "width": 772,
+            "height": 1024,
+            "src": "__GHOST_URL__/content/images/2020/06/22_9_low_res.jpeg"
+          },
+          {
+            "fileName": "23_10_low_res.jpeg",
+            "row": 2,
+            "width": 775,
+            "height": 1024,
+            "src": "__GHOST_URL__/content/images/2020/06/23_10_low_res.jpeg"
+          }
+        ]
+      }
+    ],
+    [
+      "gallery",
+      {
+        "images": [
+          {
+            "fileName": "24_11_low_res.jpeg",
+            "row": 0,
+            "width": 768,
+            "height": 1024,
+            "src": "__GHOST_URL__/content/images/2020/06/24_11_low_res.jpeg"
+          },
+          {
+            "fileName": "25_12_low_res.jpeg",
+            "row": 0,
+            "width": 763,
+            "height": 1024,
+            "src": "__GHOST_URL__/content/images/2020/06/25_12_low_res.jpeg"
+          },
+          {
+            "fileName": "26_13_low_res.jpeg",
+            "row": 0,
+            "width": 771,
+            "height": 1024,
+            "src": "__GHOST_URL__/content/images/2020/06/26_13_low_res.jpeg"
+          },
+          {
+            "fileName": "27_14_low_res.jpeg",
+            "row": 1,
+            "width": 768,
+            "height": 1024,
+            "src": "__GHOST_URL__/content/images/2020/06/27_14_low_res.jpeg"
+          },
+          {
+            "fileName": "3077_28_15_small_low_res.jpeg",
+            "row": 1,
+            "width": 772,
+            "height": 1020,
+            "src": "__GHOST_URL__/content/images/2020/06/3077_28_15_small_low_res.jpeg"
+          },
+          {
+            "fileName": "3078_19_6_small_low_res.jpeg",
+            "row": 1,
+            "width": 772,
+            "height": 1020,
+            "src": "__GHOST_URL__/content/images/2020/06/3078_19_6_small_low_res.jpeg"
+          }
+        ],
+        "caption": "1968 Chevrolet Camaro OEM Brochures"
+      }
+    ],
+    [
+      "hr",
+      {}
+    ]
+  ],
+  "markups": [
+    [
+      "em"
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/tag/research/"
+      ]
+    ]
+  ],
+  "sections": [
+    [
+      1,
+      "p",
+      []
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Overview"
+        ]
+      ]
+    ],
+    [
+      10,
+      0
+    ],
+    [
+      1,
+      "h3",
+      [
+        [
+          0,
+          [],
+          0,
+          "The 1968 Camaro was almost visually identical to the ’67, with the exception of new front and rear side marker lights and vent-less door glass."
+        ]
+      ]
+    ],
+    [
+      10,
+      1
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "The 1968 Camaro was almost visually identical to the ’67, with the exception of new front and rear side marker lights and vent-less door glass. What really made the ’68 Camaro stand out was big engines, upgraded suspension, and special equipment features."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "The popularity of the Z/28 package started to climb based on its first-year racing reputation of winning 10 out of the 13 races in the Trans-Am series. Chevrolet wasn’t sure if they wanted to market the option strictly for racing or to the public, but output climbed to 7,199 cars."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "The RS package included numerous cosmetic changes including a blacked-out grille with hidden headlights, revised parking and taillights, upgraded interior trim, and RS badging."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "The SS package contained a modified 350 V8 with an available 396 producing 325hp, and a 375hp version, along with simulated air intakes on the hood, special bumble bee striping, and a blacked-out grille. It was possible to order a RS/SS."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "The Z/28 was once again available to the public as a full-pledged racer with no A/C or an automatic transmission available. Engine, suspension, and tranny were all built up. This was the real deal."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "In 1968 the Z/28 Camaro dominated all Motorsport arenas winning the SCCA Trans Am series and NHRA Super Stock World Championship title thanks to the Penske racing team (SCCA) and Jenkins Strickler racing team (NHRA)."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      []
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Production Numbers"
+        ]
+      ]
+    ],
+    [
+      10,
+      2
+    ],
+    [
+      10,
+      3
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Performance Specs"
+        ]
+      ]
+    ],
+    [
+      10,
+      4
+    ],
+    [
+      10,
+      5
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Transmission"
+        ]
+      ]
+    ],
+    [
+      10,
+      6
+    ],
+    [
+      3,
+      "ul",
+      [
+        [
+          [
+            0,
+            [],
+            0,
+            "3-Speed Manual (shift lever is column-mounted unless floor-mount is specified)"
+          ]
+        ],
+        [
+          [
+            0,
+            [],
+            0,
+            "Special 3-Speed Manual (available with SS 350 only)"
+          ]
+        ],
+        [
+          [
+            0,
+            [],
+            0,
+            "4-Speed Manual"
+          ]
+        ],
+        [
+          [
+            0,
+            [],
+            0,
+            "Powerglide Automatic"
+          ]
+        ],
+        [
+          [
+            0,
+            [],
+            0,
+            "Turbo Hydra-Matic  3-Speed Automatic"
+          ]
+        ]
+      ]
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Paint & Colors"
+        ]
+      ]
+    ],
+    [
+      10,
+      7
+    ],
+    [
+      10,
+      8
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "OEM Brochures"
+        ]
+      ]
+    ],
+    [
+      10,
+      9
+    ],
+    [
+      10,
+      10
+    ],
+    [
+      10,
+      11
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "About the Knowledge Base"
+        ]
+      ]
+    ],
+    [
+      10,
+      12
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "The Motorious Knowledge Base provides a comprehensive vehicle overview for the 1968 Chevrolet Camaro"
+        ],
+        [
+          0,
+          [
+            0,
+            0
+          ],
+          2,
+          " "
+        ],
+        [
+          0,
+          [],
+          0,
+          "including production numbers, performance specs, factory colors, and OEM brochures. Check out additional model years or related content linked to this article or view other Makes and Models in our "
+        ],
+        [
+          0,
+          [
+            1
+          ],
+          1,
+          "Research"
+        ],
+        [
+          0,
+          [],
+          0,
+          " center."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "If you have any interesting facts about the 1968 Chevrolet Camaro"
+        ],
+        [
+          0,
+          [
+            0,
+            0
+          ],
+          2,
+          " "
+        ],
+        [
+          0,
+          [],
+          0,
+          "to add, want to tell us how we did covering the Camaro, or want to tell us about yours, please leave a comment below."
+        ]
+      ]
+    ]
+  ],
+  "ghostVersion": "3.0"
+}

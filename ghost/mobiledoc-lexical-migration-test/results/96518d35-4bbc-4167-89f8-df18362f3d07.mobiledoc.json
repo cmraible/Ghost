@@ -1,0 +1,1255 @@
+{
+  "version": "0.3.1",
+  "atoms": [],
+  "cards": [
+    [
+      "email-cta",
+      {
+        "showButton": true,
+        "showDividers": false,
+        "segment": "status:free",
+        "alignment": "left",
+        "html": "<p>In today's <a href=\"__GHOST_URL__/how-big-pharma-actually-spends-its-massive-profits/?utm_source=newsletter-email&amp;utm_medium=link&amp;utm_campaign=newsletter-article\">featured article</a>, we pull back the curtain on where Big Pharma’s big profits are actually going, rather than into much-needed drug research and innovation. As a reader-supported investigative news outlet, this work is directly funded by supporting subscribers. Consider helping us start this year strong by <a href=\"__GHOST_URL__/membership/?utm_source=newsletter-email&amp;utm_medium=link&amp;utm_campaign=newsletter-upgrade\">becoming a paid subscriber today</a>.</p>",
+        "buttonText": "Upgrade Now",
+        "buttonUrl": "__GHOST_URL__/membership/?utm_source=newsletter-email&utm_medium=link&utm_campaign=newsletter-upgrade"
+      }
+    ],
+    [
+      "email-cta",
+      {
+        "showButton": false,
+        "showDividers": false,
+        "segment": "status:-free",
+        "alignment": "left",
+        "html": "<p>In today's <a href=\"__GHOST_URL__/how-big-pharma-actually-spends-its-massive-profits/?utm_source=newsletter-email&amp;utm_medium=link&amp;utm_campaign=newsletter-article\">featured article</a>, we pull back the curtain on where Big Pharma’s big profits are actually going, rather than into much-needed drug research and innovation. As a reader-supported investigative news outlet, this work is directly funded by supporting subscribers like you. Help us start 2023 strong by forwarding this email to encourage others to <a href=\"__GHOST_URL__/membership/?utm_source=newsletter-email&amp;utm_medium=link&amp;utm_campaign=newsletter-upgrade-forward\">subscribe to <em>The Lever</em></a>.</p>"
+      }
+    ],
+    [
+      "email",
+      {
+        "html": "<p><strong>Also</strong>:</p><ul><li><a href=\"https://www.callin.com/episode/who-can-fix-americas-airline-problem-fsnFCvGywG\"><strong>Click here</strong></a> to listen to a replay of the latest episode of our weekly Callin show <em>Lever Live, </em>where we talked with listeners about the recent airline debacle and what can be done to fix the problem.</li></ul><p>Rock the boat.</p>"
+      }
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "image",
+      {
+        "src": "__GHOST_URL__/content/images/2023/01/Pharma-profits-1.png",
+        "width": 1600,
+        "height": 900,
+        "href": "https://www.levernews.com/how-big-pharma-actually-spends-its-massive-profits/?utm_source=newsletter-email&utm_medium=link&utm_campaign=newsletter-article"
+      }
+    ],
+    [
+      "callout",
+      {
+        "calloutEmoji": "👉",
+        "calloutText": "<strong><em>Share this article on <u><a href=\"https://twitter.com/intent/tweet?text=New%20research%20shows%20that%20pharmaceutical%20companies%20have%20spent%20more%20on%20enriching%20shareholders%20than%20drug%20research%20and%20development%20over%20the%20past%20decade.%20https%3A%2F%2Fwww.levernews.com%2Fhow-big-pharma-actually-spends-its-massive-profits%2F%3Futm_source%3Dtwitter%26utm_medium%3Dlink%26utm_campaign%3Dtw-prefill\">Twitter</a></u></em></strong>.",
+        "backgroundColor": "grey"
+      }
+    ],
+    [
+      "html",
+      {
+        "html": "<script type=\"text/javascript\" id=\"remixd-audio-player-script\"\nsrc=\"https://tags.remixd.com/player/v5/index.js\" charset=\"utf-8\" async></script>"
+      }
+    ],
+    [
+      "product",
+      {
+        "productButtonEnabled": true,
+        "productRatingEnabled": false,
+        "productStarRating": 5,
+        "productImageSrc": "__GHOST_URL__/content/images/2022/05/Hammer-WIDESCREEN-2.png",
+        "productTitle": "🎧 NEW PODCAST: How The Airline Industry Became A Living Nightmare",
+        "productDescription": "<p>In our new episode of <em>Lever Time</em>, we explore how the U.S. airline industry became one of the most concentrated and despised industries in the country.</p>",
+        "productButton": "Listen to the Episode Here",
+        "productUrl": "__GHOST_URL__/lever-time-how-the-airline-industry-became-a-living-nightmare/"
+      }
+    ],
+    [
+      "callout",
+      {
+        "calloutEmoji": "💡",
+        "calloutText": "Follow us on <a href=\"https://apple.news/TeRci1RtoQfWCNA5h7NTBlg\">Apple News</a> and <a href=\"https://news.google.com/publications/CAAqBwgKMPvKngswktW2Aw\">Google News</a> to make sure you see our stories first, and to help make sure others see our breaking news as well.",
+        "backgroundColor": "grey"
+      }
+    ],
+    [
+      "product",
+      {
+        "productButtonEnabled": true,
+        "productRatingEnabled": false,
+        "productStarRating": 5,
+        "productImageSrc": "__GHOST_URL__/content/images/2022/06/About-Page-Logo-1.png",
+        "productTitle": "Help Us Do More Stories Like This",
+        "productDescription": "<p>We're building a reader-supported investigative news outlet that holds accountable the people and corporations manipulating the levers of power. Can you spare a few dollars to help?</p>",
+        "productButton": "DONATE NOW",
+        "productUrl": "https://dailyposter.outpost.pub/ghost-integration/60818189ad12f332071054b8/tips"
+      }
+    ],
+    [
+      "email-cta",
+      {
+        "showButton": true,
+        "showDividers": false,
+        "segment": "status:-free",
+        "alignment": "center",
+        "html": "",
+        "buttonText": "Click Here To Comment",
+        "buttonUrl": "__GHOST_URL__/how-big-pharma-actually-spends-its-massive-profits/#comments"
+      }
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "email",
+      {
+        "html": "<p><em><strong>Help us spread the word! </strong>Please forward this email to family and friends.</em></p><p><em><strong>Was this email forwarded to you? </strong><a href=\"__GHOST_URL__/membership/?utm_source=newsletter-email&amp;utm_medium=link&amp;utm_campaign=newsletter-upgrade-forward\">Sign up for free</a> to receive original reporting like this in your inbox every day.</em></p>"
+      }
+    ]
+  ],
+  "markups": [
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/author/julia-rock/"
+      ]
+    ],
+    [
+      "em"
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/how-big-pharma-actually-spends-its-massive-profits/?utm_source=newsletter-email&utm_medium=link&utm_campaign=newsletter-article"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.reuters.com/business/healthcare-pharmaceuticals/drugmakers-raise-prices-least-350-drugs-us-january-2022-12-30/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.ineteconomics.org/perspectives/blog/sick-with-shareholder-value-us-pharmas-financialized-business-model-during-the-pandemic"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.opensecrets.org/federal-lobbying/industries/summary?cycle=2021&id=H04"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.opensecrets.org/federal-lobbying/industries/summary?id=H04"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.reuters.com/business/healthcare-pharmaceuticals/price-hikes-some-medicare-therapies-unsupported-by-clinical-benefits-data-report-2022-12-06/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.wsj.com/articles/stock-buybacks-are-on-course-for-another-record-11647304495"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.wsj.com/articles/how-short-termism-saps-the-economy-1475018087"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.bloomberg.com/news/articles/2021-07-08/house-democrats-release-report-on-drug-company-stock-buybacks"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.nytimes.com/2019/02/03/opinion/chuck-schumer-bernie-sanders.html"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/cheat-sheet-whats-really-driving-inflation/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.commonwealthfund.org/sites/default/files/documents/___media_files_publications_issue_brief_2017_oct_sarnak_paying_for_rx_ib_v2.pdf"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://theintercept.com/2021/10/29/big-pharma-donations-medicare-drug-pricing-democrats/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://web.archive.org/web/20211210140153/https://oversight.house.gov/sites/democrats.oversight.house.gov/files/DRUG%20PRICING%20REPORT%20WITH%20APPENDIX%20v3.pdf"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://phrma.org/resource-center/Topics/Cost-and-Value/PhRMA-Statement-on-Democrats-Drug-Pricing-Deal-in-Reconciliation-Package"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/follow-the-pharma-money/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/otherposts/exclusive-big-pharmas-dems-boosted-by-new-ads/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://khn.org/news/article/big-pharma-oppose-drug-pricing-negotiations-history/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/pharma-dems-helped-the-drug-industry-save-half-a-trillion-dollars/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://catalyst.phrma.org/an-open-letter-to-congress-stand-with-patients-and-future-cures"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.politico.com/news/2022/12/29/democrats-drug-pricing-medicare-00075246"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/xavier-becerra-could-lower-drug-prices-so-why-isnt-he/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.warren.senate.gov/imo/media/doc/Warren-Jayapal%20Follow%20Up%20Letter%20to%20USPTO%20re%20Patent%20Abuse%20and%20Drug%20Pricing%20-%2012.5.22.pdf"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.ineteconomics.org/perspectives/blog/us-tax-dollars-funded-every-new-pharmaceutical-in-the-last-decade"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/youre-being-gouged-on-medicine-you-already-paid-for/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.cbo.gov/system/files/2021-08/57010-New-Drug-Development.pdf"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://hbr.org/2021/10/the-u-s-can-lower-drug-prices-without-sacrificing-innovation"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.reuters.com/world/us/biden-budget-plan-seeks-add-corporate-buyback-restrictions-2022-03-28/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.sec.gov/news/press-release/2022-216"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.wsj.com/articles/new-tax-on-buybacks-is-weeks-away-but-finance-chiefs-arent-too-worried-11670544061"
+      ]
+    ]
+  ],
+  "sections": [
+    [
+      10,
+      0
+    ],
+    [
+      10,
+      1
+    ],
+    [
+      10,
+      2
+    ],
+    [
+      10,
+      3
+    ],
+    [
+      10,
+      4
+    ],
+    [
+      10,
+      5
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "By "
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "Julia Rock"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "["
+        ],
+        [
+          0,
+          [
+            1,
+            2
+          ],
+          2,
+          "View in browser"
+        ],
+        [
+          0,
+          [],
+          0,
+          "]"
+        ]
+      ]
+    ],
+    [
+      10,
+      6
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Pharmaceutical giants rang in the new year by quietly "
+        ],
+        [
+          0,
+          [
+            3
+          ],
+          1,
+          "announcing price hikes"
+        ],
+        [
+          0,
+          [],
+          0,
+          " in the United States on more than 350 drugs — and they continue to insist these price hikes are necessary for innovation. But new research shows that the business model of America’s largest pharmaceutical companies involves far more spending on enriching shareholders and executives than on research and development."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Between 2012 and 2021, the 14 largest publicly-traded pharmaceutical companies spent $747 billion on stock buybacks and dividends — substantially more than the $660 billion they spent on research and development, according to "
+        ],
+        [
+          0,
+          [
+            4
+          ],
+          1,
+          "a new study"
+        ],
+        [
+          0,
+          [],
+          0,
+          " by economists William Lazonick, professor emeritus of economics at University of Massachusetts, and Öner Tulum, a researcher at Brown University."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "But that hasn’t stopped drug companies and their lobbying groups from using the cost of innovation as a key argument in their campaign to keep Medicare from being able to negotiate lower drug prices. The pharmaceutical industry has spent at least $645 million on federal lobbying "
+        ],
+        [
+          0,
+          [
+            5
+          ],
+          1,
+          "over the past"
+        ],
+        [
+          0,
+          [],
+          0,
+          " "
+        ],
+        [
+          0,
+          [
+            6
+          ],
+          1,
+          "two years"
+        ],
+        [
+          0,
+          [],
+          0,
+          "."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "In the meantime, drug prices have continued to climb. Even before the latest round of price hikes were announced, Americans "
+        ],
+        [
+          0,
+          [
+            7
+          ],
+          1,
+          "spent $800 million"
+        ],
+        [
+          0,
+          [],
+          0,
+          " more on prescription drugs last year than they had the previous year."
+        ]
+      ]
+    ],
+    [
+      10,
+      7
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "“The pharmaceutical industry is saying, ‘We need the higher prices to reinvest in the next generation of products and give people access to medicines, if we don’t get the higher prices we won’t be able to do our job,’” Lazonick told "
+        ],
+        [
+          0,
+          [
+            1
+          ],
+          1,
+          "The Lever. "
+        ],
+        [
+          0,
+          [],
+          0,
+          "“Well, that’s just not the way they are using their profits. They are using their profits and more — sometimes more than 100 percent of their profits — for distribution to shareholders, and so put up or shut up, and stop making that claim.”"
+        ]
+      ]
+    ],
+    [
+      1,
+      "h3",
+      [
+        [
+          0,
+          [],
+          0,
+          "The Price Of “Innovation”"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "The trend of companies primarily returning profits to shareholders rather than reinvesting them in production is by no means unique to the pharmaceutical industry. For decades, companies have spent ever more of their profits on manipulating their own stock prices "
+        ],
+        [
+          0,
+          [
+            8
+          ],
+          1,
+          "via buybacks"
+        ],
+        [
+          0,
+          [],
+          0,
+          ", paying dividends to shareholders, and boosting executive pay."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Stock buybacks — whereby companies repurchase shares of their own stocks, reducing the number of shares available and increasing the value of remaining shares — were made legal by the Securities and Exchange Commission in 1982, and have been criticized by "
+        ],
+        [
+          0,
+          [
+            9
+          ],
+          1,
+          "President Joe Biden"
+        ],
+        [
+          0,
+          [],
+          0,
+          " "
+        ],
+        [
+          0,
+          [
+            10
+          ],
+          1,
+          "and top"
+        ],
+        [
+          0,
+          [],
+          0,
+          " "
+        ],
+        [
+          0,
+          [
+            11
+          ],
+          1,
+          "congressional Democrats"
+        ],
+        [
+          0,
+          [],
+          0,
+          "."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Meanwhile, investment in manufacturing has faltered, which has contributed to the "
+        ],
+        [
+          0,
+          [
+            12
+          ],
+          1,
+          "supply chain crisis and ensuing inflation"
+        ],
+        [
+          0,
+          [],
+          0,
+          " of the COVID-19 era."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "The pharmaceutical industry is certainly not alone in spending most of its profits enriching shareholders. According to the Lazonick and Tulum study, S&P 500 companies spent nearly $10 trillion on buybacks and dividends between 2012 and 202. But the pharmaceutical sector has stood out in justifying exorbitant prices, which leave tens of millions of people unable to afford life-saving drugs, by arguing that the profits from those markups will be reinvested in innovation."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "That was the argument deployed by industry over the past two years as Democrats worked on a measure to allow Medicare to negotiate drug prices, since the government health program has long been barred from such common-sense negotiations."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Democrats have campaigned on allowing Medicare to negotiate drug prices with pharmaceutical companies, as health programs in "
+        ],
+        [
+          0,
+          [
+            13
+          ],
+          1,
+          "most other high-income countries"
+        ],
+        [
+          0,
+          [],
+          0,
+          " do,"
+        ],
+        [
+          0,
+          [
+            14
+          ],
+          1,
+          " since at least 2006."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "The U.S. is an outlier on this issue, and it’s why drug companies have “targeted the United States for price increases for many years while maintaining or cutting prices in the rest of the world,” according to a "
+        ],
+        [
+          0,
+          [
+            15
+          ],
+          1,
+          "report"
+        ],
+        [
+          0,
+          [],
+          0,
+          " by House Democrats."
+        ]
+      ]
+    ],
+    [
+      10,
+      8
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "In 2021, Democrats initially proposed a drug price negotiation measure that would allow Medicare to negotiate the prices of between 50 and 250 high-cost drugs that lack competition, including insulin products. The plan was to require drugmakers to provide their products at the Medicare-negotiated price to all insurers, so that patients of all ages would benefit from lower prices."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "The pharmaceutical industry and its lobbying groups responded with a full-force pressure campaign against the legislation."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "“If passed, [the measure] will upend the same innovative ecosystem that brought us life-saving vaccines and therapies to combat COVID-19,” "
+        ],
+        [
+          0,
+          [
+            16
+          ],
+          1,
+          "said the president"
+        ],
+        [
+          0,
+          [],
+          0,
+          " and CEO of Pharmaceutical Research and Manufacturers of America (PhRMA), Washington’s top drug lobby. “Under the guise of ‘negotiation,’ it gives the government the power to dictate how much a medicine is worth and leaves many patients facing a future with less access to medicines and fewer new treatments.”"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Last summer, after a year and a half of pharmaceutical industry "
+        ],
+        [
+          0,
+          [
+            17
+          ],
+          1,
+          "lobbying"
+        ],
+        [
+          0,
+          [],
+          0,
+          " and "
+        ],
+        [
+          0,
+          [
+            18
+          ],
+          1,
+          "campaign "
+        ],
+        [
+          0,
+          [
+            19
+          ],
+          1,
+          "spending"
+        ],
+        [
+          0,
+          [],
+          0,
+          ", Democrats passed a "
+        ],
+        [
+          0,
+          [
+            20
+          ],
+          1,
+          "massively watered-down"
+        ],
+        [
+          0,
+          [],
+          0,
+          " measure that will only let Medicare negotiate prices on a handful of older drugs that no longer have patent exclusivity."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "While the measure set a cap on out-of-pocket drug costs for seniors on Medicare, the broader public will not benefit. It includes a co-pay cap for insulin for Medicare beneficiaries, but Medicare will not specifically be directed to negotiate insulin prices."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "The final measure was included in Democrats’ August social spending and climate legislation."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "The pharmaceutical industry has still criticized even these paltry regulations. “While the bill saves the federal government $300 billion, it takes far more from the biopharmaceutical industry and will have significant consequences for innovation and patients’ hope for the future,” PhRMA said in a "
+        ],
+        [
+          0,
+          [
+            21
+          ],
+          1,
+          "statement"
+        ],
+        [
+          0,
+          [],
+          0,
+          " on the bill."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Republicans, now in charge of the House of Representatives, "
+        ],
+        [
+          0,
+          [
+            22
+          ],
+          1,
+          "have their sights set"
+        ],
+        [
+          0,
+          [],
+          0,
+          " on repealing the measure before price negotiations start in 2026. Meanwhile, Biden "
+        ],
+        [
+          0,
+          [
+            23
+          ],
+          1,
+          "could use"
+        ],
+        [
+          0,
+          [],
+          0,
+          " "
+        ],
+        [
+          0,
+          [
+            24
+          ],
+          1,
+          "his existing regulatory authority"
+        ],
+        [
+          0,
+          [],
+          0,
+          " to lower drug prices before then, but has so far declined to do so."
+        ]
+      ]
+    ],
+    [
+      1,
+      "h3",
+      [
+        [
+          0,
+          [],
+          0,
+          "Drug Profits Flow To Shareholders, Executives"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Even before the new study, the drug industry’s claim that it needed to use the profits from prohibitively expensive medicines to fund new drug development already stood on shaky ground."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "For one, pharmaceutical companies continue to sell their products in countries that do not allow them to gouge their citizens in the way the U.S. government has. Then there’s the fact that pharmaceutical research relies on substantial public funding. Between 2010 and 2019, every single new drug approved by the Food and Drug Administration "
+        ],
+        [
+          0,
+          [
+            25
+          ],
+          1,
+          "relied at least in part"
+        ],
+        [
+          0,
+          [],
+          0,
+          " "
+        ],
+        [
+          0,
+          [
+            26
+          ],
+          1,
+          "on publicly funded"
+        ],
+        [
+          0,
+          [],
+          0,
+          " science."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Moreover, researchers had already shown such outsized profits weren’t necessary to spur most pharmaceutical innovation. In 2021, the federal, nonpartisan Congressional Budget Office "
+        ],
+        [
+          0,
+          [
+            27
+          ],
+          1,
+          "estimated"
+        ],
+        [
+          0,
+          [],
+          0,
+          " that reducing profits on top drugs by 15 to 25 percent would result in only two fewer drugs being introduced in over a decade."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "And most pharmaceutical research "
+        ],
+        [
+          0,
+          [
+            28
+          ],
+          1,
+          "doesn’t introduce"
+        ],
+        [
+          0,
+          [],
+          0,
+          " novel therapies, but instead modifies existing drugs to expand their purview to new patents, further bolstering drug company profits."
+        ]
+      ]
+    ],
+    [
+      10,
+      9
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "The new research on buybacks and dividends further undercuts the narrative that high prices are a necessary ingredient for research and development. “Companies say they need high drug prices to reinvest their profits in the next generation of medical innovation,” said Lazonick. “But they don’t need them, because they aren’t using their profits that way.”"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Lazonick and Tulum analyzed the finances of 14 major pharmaceutical companies to paint a picture of an industry in which larger firms scoop up smaller firms, squeeze every ounce of profits they can out of the drugs they already manufacture, return the profits to shareholders and executives, and then rinse and repeat."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Between 2012 and 2021, not only did those firms spend $747 billion on stock buybacks and dividends, but they also massively increased salaries for senior executives."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "In 2021, the average annual compensation for highest-paid executives at these pharma companies was $61 million, 93 percent of which came from realized gains from stock-based pay. In other words, the senior executives who decided to make payouts via buybacks and dividends were simultaneously enriching themselves, as the vast majority of their income came from the inflated price of the company stocks."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Lazonick and Tulum argue in the paper that while the Medicare drug price negotiation measure is a necessary step forward, the federal government should do more to regulate drug companies rather than just negotiating the prices of a small set of drugs."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Such efforts could include financial reforms "
+        ],
+        [
+          0,
+          [
+            29
+          ],
+          1,
+          "already proposed"
+        ],
+        [
+          0,
+          [],
+          0,
+          " "
+        ],
+        [
+          0,
+          [
+            30
+          ],
+          1,
+          "by the"
+        ],
+        [
+          0,
+          [],
+          0,
+          " Biden administration "
+        ],
+        [
+          0,
+          [
+            31
+          ],
+          1,
+          "and congressional Democrats"
+        ],
+        [
+          0,
+          [],
+          0,
+          ", like limits on executive stock compensation and stock buybacks."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "“It’s important to draw a distinction between regulating and negotiating,” said Lazonick. “The drug companies should be regulated — that is, the government should figure out what these companies need, the way you would with utility regulation and say, ‘Okay here’s what your drug price can be.’ In other countries, it’s not really a matter of negotiation.”"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      []
+    ],
+    [
+      10,
+      10
+    ],
+    [
+      10,
+      11
+    ],
+    [
+      10,
+      12
+    ],
+    [
+      1,
+      "p",
+      []
+    ]
+  ],
+  "ghostVersion": "4.0"
+}

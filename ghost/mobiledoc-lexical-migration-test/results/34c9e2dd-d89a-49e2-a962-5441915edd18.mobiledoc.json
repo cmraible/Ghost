@@ -1,0 +1,921 @@
+{
+  "version": "0.3.1",
+  "atoms": [],
+  "cards": [
+    [
+      "image",
+      {
+        "src": "__GHOST_URL__/content/images/2023/04/Fox-News.jpg",
+        "width": 1600,
+        "height": 1067,
+        "caption": "<em>Fox News Headquarters in New York (AP Photo/Mary Altaffer)</em>"
+      }
+    ],
+    [
+      "email-cta",
+      {
+        "showButton": false,
+        "showDividers": false,
+        "segment": "status:-free",
+        "alignment": "left",
+        "html": "<p><em>This is Lever Weekly, a recap of our work from the past week. If you only read one email from us all week, this should be it.</em></p><p>👇 &nbsp;<strong>Scroll down below our weekly recap for this week’s special column from David Sirota.</strong></p>"
+      }
+    ],
+    [
+      "email-cta",
+      {
+        "showButton": false,
+        "showDividers": false,
+        "segment": "status:free",
+        "alignment": "left",
+        "html": "<p><em>This is Lever Weekly, a recap of our work from the past week. If you only read one email from us all week, this should be it.</em></p><p>In this week’s essay below, which is usually for paid subscribers only but is open to all <em>Lever</em> subscribers today, David Sirota unpacks a new study showing that more and more Americans have ensconced themselves in an impenetrable bubble of partisan propaganda, never bothering to peek their heads out to consider inconvenient facts.</p>"
+      }
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "button",
+      {
+        "alignment": "center",
+        "buttonText": "BECOME A LEVER LEADER TODAY",
+        "buttonUrl": "__GHOST_URL__/#/portal/account/plans"
+      }
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "button",
+      {
+        "alignment": "center",
+        "buttonText": "Donate To The Lever",
+        "buttonUrl": "https://the-lever.fundjournalism.org/donate/"
+      }
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "email-cta",
+      {
+        "showButton": true,
+        "showDividers": false,
+        "segment": "status:-free",
+        "alignment": "center",
+        "html": "",
+        "buttonText": "Click Here To Comment",
+        "buttonUrl": "__GHOST_URL__/the-partisan-media-bubble-is-the-problem/#comments"
+      }
+    ],
+    [
+      "email",
+      {
+        "html": "<p><em><strong>Help us spread the word! </strong>Please forward this email to family and friends.</em></p><p><em><strong>Was this email forwarded to you? </strong><a href=\"https://levernews.com/membership/\">Sign up for free</a> to receive original reporting like this in your inbox every day.</em></p>"
+      }
+    ]
+  ],
+  "markups": [
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/the-clarence-thomas-secret-money-trail/"
+      ]
+    ],
+    [
+      "strong"
+    ],
+    [
+      "em"
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/movies-vs-capitalism-2/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/the-audit-propaganda-101-with-prageru/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/fox-can-claim-tax-writeoff-for-defamation-settlement/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/the-leonard-leo-presidential-primary/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/as-the-midwest-burns-biden-ignores-plastic-waste-dangers/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/tax-free-day-for-the-ultra-wealthy/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/author/david-sirota/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://osf.io/b54sx/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.nbcnews.com/meet-the-press/meetthepressblog/poll-61-republicans-still-believe-biden-didnt-win-fair-square-2020-rcna49630"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.reuters.com/article/us-usa-trump-russia-poll/despite-report-findings-almost-half-of-americans-think-trump-colluded-with-russia-reuters-ipsos-poll-idUSKCN1R72S0"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.cjr.org/special_report/trumped-up-press-versus-president-part-1.php"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/the-partisan-ghost-in-the-media-machine/"
+      ]
+    ]
+  ],
+  "sections": [
+    [
+      10,
+      0
+    ],
+    [
+      10,
+      1
+    ],
+    [
+      10,
+      2
+    ],
+    [
+      10,
+      3
+    ],
+    [
+      1,
+      "h3",
+      [
+        [
+          0,
+          [],
+          0,
+          "Stuff To Listen To:"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "• "
+        ],
+        [
+          0,
+          [
+            0,
+            1
+          ],
+          2,
+          "LEVER TIME: The Clarence Thomas Secret Money Trail"
+        ],
+        [
+          0,
+          [],
+          0,
+          " — ProPublica"
+        ],
+        [
+          0,
+          [
+            2
+          ],
+          1,
+          " reporter Justin Elliott provides an inside look at his explosive scoop on the justice’s undisclosed gifts from real estate magnate Harlan Crow. (Full transcript included.)"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "• "
+        ],
+        [
+          0,
+          [
+            3,
+            1
+          ],
+          2,
+          "MOVIES VS. CAPITALISM: MOVIES VS. CAPITALISM: Josie and the Pussycats (w/ Shannon Amabile)"
+        ],
+        [
+          0,
+          [
+            1
+          ],
+          1,
+          " "
+        ],
+        [
+          0,
+          [],
+          0,
+          "— "
+        ],
+        [
+          0,
+          [
+            2
+          ],
+          1,
+          "Rivka and Frank take a deep dive into the 2001 cult classic "
+        ],
+        [
+          0,
+          [],
+          0,
+          "Josie and the Pussycats"
+        ],
+        [
+          0,
+          [
+            2
+          ],
+          1,
+          "."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "• "
+        ],
+        [
+          0,
+          [
+            4,
+            1
+          ],
+          2,
+          "THE AUDIT: Propaganda 101 With PragerU"
+        ],
+        [
+          0,
+          [
+            1
+          ],
+          1,
+          " "
+        ],
+        [
+          0,
+          [],
+          0,
+          "— "
+        ],
+        [
+          0,
+          [
+            2
+          ],
+          1,
+          "Dave and Josh begin their surreal immersion into Prager University, a right-wing propaganda machine masquerading as an online education hub."
+        ]
+      ]
+    ],
+    [
+      1,
+      "h3",
+      [
+        [
+          0,
+          [],
+          0,
+          "Stuff The Lever Reported This Week:"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "• "
+        ],
+        [
+          0,
+          [
+            5,
+            1
+          ],
+          2,
+          "Fox Can Claim Tax Writeoff For Defamation Settlement"
+        ],
+        [
+          0,
+          [],
+          0,
+          " — "
+        ],
+        [
+          0,
+          [
+            2
+          ],
+          1,
+          "The company says it can deduct the cost of its $787 million payout to Dominion over its election lies."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "• "
+        ],
+        [
+          0,
+          [
+            6,
+            1
+          ],
+          2,
+          "The Leonard Leo Presidential Primary"
+        ],
+        [
+          0,
+          [],
+          0,
+          " — "
+        ],
+        [
+          0,
+          [
+            2
+          ],
+          1,
+          "A GOP operative involved with the conservative activist’s record-breaking $1.6 billion political advocacy fund is now leading Ron DeSantis’ super PAC."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "• "
+        ],
+        [
+          0,
+          [
+            7,
+            1
+          ],
+          2,
+          "As The Midwest Burns, Biden Ignores Plastic Waste Dangers"
+        ],
+        [
+          0,
+          [],
+          0,
+          " — "
+        ],
+        [
+          0,
+          [
+            2
+          ],
+          1,
+          "Between the Indiana recycling plant fire and the Ohio toxic train derailment, experts say the president needs to disregard industry lobbying and address the dangers of plastics."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "• "
+        ],
+        [
+          0,
+          [
+            8,
+            1
+          ],
+          2,
+          "Tax-Free Day For The Ultra-Wealthy"
+        ],
+        [
+          0,
+          [],
+          0,
+          " — "
+        ],
+        [
+          0,
+          [
+            2
+          ],
+          1,
+          "New data show the wealthiest Americans have stashed $2 trillion in offshore tax havens, as the government relaxes efforts to combat tax evasion."
+        ]
+      ]
+    ],
+    [
+      1,
+      "h3",
+      [
+        [
+          0,
+          [],
+          0,
+          "Thank You To Our Newest Lever Leaders:"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Lever Leaders provide us with our highest level of support and score additional perks in return.  Each week, we highlight folks who’ve taken that step, and the reasons they say they’ve done so."
+        ]
+      ]
+    ],
+    [
+      3,
+      "ul",
+      [
+        [
+          [
+            0,
+            [
+              1
+            ],
+            1,
+            "Evan Hornig:"
+          ],
+          [
+            0,
+            [],
+            0,
+            " \"Thorough, documented investigative reporting is back, and "
+          ],
+          [
+            0,
+            [
+              2
+            ],
+            1,
+            "The Lever"
+          ],
+          [
+            0,
+            [],
+            0,
+            " is my go-to for staying informed of the most critical news.\""
+          ]
+        ],
+        [
+          [
+            0,
+            [
+              1
+            ],
+            1,
+            "Nathan Gillespie:"
+          ],
+          [
+            0,
+            [],
+            0,
+            " \"Independent media is necessary to hold the powerful accountable.\""
+          ]
+        ],
+        [
+          [
+            0,
+            [
+              1
+            ],
+            1,
+            "Katherine Roberts:"
+          ],
+          [
+            0,
+            [],
+            0,
+            " \"Any news organization that is not brought to you by Pfizer is a-ok in my book.\""
+          ]
+        ]
+      ]
+    ],
+    [
+      10,
+      4
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [
+            2
+          ],
+          1,
+          "NOTE: You must be logged in to LeverNews.com when you click the button above to upgrade."
+        ]
+      ]
+    ],
+    [
+      10,
+      5
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [
+            1
+          ],
+          1,
+          "The Partisan Media Bubble Is The Problem"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "By "
+        ],
+        [
+          0,
+          [
+            9
+          ],
+          1,
+          "David Sirota"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "The Dominion-Fox News case is not just about defamation, but also about the spreading of bullshit about elections and voting. The antidote to these lies wasn’t supposed to be lawsuits — it was supposed to be 24-7 access to infinite information that would debunk such bullshit, humiliate its purveyors, and anchor the discourse in facts."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "But new data released days before the Dominion settlement suggest the opposite has happened — amid that deluge of information, more and more Americans have ensconced themselves in an impenetrable bubble of partisan bullshit, never bothering to peek their heads out so they can be alerted to inconvenient facts."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "The key "
+        ],
+        [
+          0,
+          [
+            10
+          ],
+          1,
+          "findings"
+        ],
+        [
+          0,
+          [],
+          0,
+          " from researchers at Berkeley and Yale are stark: Roughly 1 in 7 Americans are consuming more than eight hours of partisan media per month. That’s comparable to the total viewership of the network broadcast news programs, and more than the total number of Americans who subscribe to a newspaper."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "In other words: Instead of reading the basic (if often imperfect) reporting in newspapers, more people are now being brainwashed by millionaire TV anchors and pundits whose entire business model is ripping, reading, and distorting that reporting for their own partisan causes."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "And here’s the kicker: “Partisan media consumers rarely consume cross-cutting channels; few partisan media consumers also consume national broadcast news, and even fewer consume both their side’s and the other side’s partisan media.”"
+        ]
+      ]
+    ],
+    [
+      10,
+      6
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "These findings, coupled with Fox News’ behavior detailed in the Dominion case, help explain why a recent "
+        ],
+        [
+          0,
+          [
+            11
+          ],
+          1,
+          "poll"
+        ],
+        [
+          0,
+          [],
+          0,
+          " showed nearly two-thirds of Republicans still believe the 2020 election was stolen, despite no factual evidence for that belief."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "But it also goes the other way. As just one example: Democratic-leaning partisan media convinced "
+        ],
+        [
+          0,
+          [
+            12
+          ],
+          1,
+          "large swaths of its audience"
+        ],
+        [
+          0,
+          [],
+          0,
+          " to believe all sorts of Russiagate theories that were "
+        ],
+        [
+          0,
+          [
+            13
+          ],
+          1,
+          "not substantiated by facts"
+        ],
+        [
+          0,
+          [],
+          0,
+          "."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "At "
+        ],
+        [
+          0,
+          [
+            14,
+            2
+          ],
+          2,
+          "The Lever"
+        ],
+        [
+          0,
+          [],
+          0,
+          ", we do something that has become exceedingly rare in media: Rather than shill for a particular political party, we hold politicians of "
+        ],
+        [
+          0,
+          [
+            2
+          ],
+          1,
+          "both"
+        ],
+        [
+          0,
+          [],
+          0,
+          " parties accountable. We "
+        ],
+        [
+          0,
+          [
+            2
+          ],
+          1,
+          "are"
+        ],
+        [
+          0,
+          [],
+          0,
+          " a cross-cutting news outlet."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "The problem, of course, is that news-consuming audiences have been conditioned to judge information not on its merits, but on whether it can be weaponized for or against their preferred party. That is the "
+        ],
+        [
+          0,
+          [
+            15
+          ],
+          1,
+          "partisan ghost in the media machine"
+        ],
+        [
+          0,
+          [],
+          0,
+          ", blowing us further away from the “trust but verify” ethos and toward even more bullshit."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "We are doing things differently at "
+        ],
+        [
+          0,
+          [
+            2
+          ],
+          1,
+          "The Lever"
+        ],
+        [
+          0,
+          [],
+          0,
+          ", and will continue to do so. Thank you for being a part of our team and supporting our efforts to expose and hold the powerful accountable."
+        ]
+      ]
+    ],
+    [
+      10,
+      7
+    ],
+    [
+      10,
+      8
+    ],
+    [
+      10,
+      9
+    ],
+    [
+      1,
+      "p",
+      []
+    ]
+  ],
+  "ghostVersion": "4.0"
+}

@@ -1,0 +1,2269 @@
+{
+  "root": {
+    "children": [
+      {
+        "type": "email",
+        "html": "<p>Hey {first_name, \"there\"},</p><p>Do you have a Twitter blue checkmark? I don't, falling just outside the old criteria. And now it looks like I never will. Musk's long-threatened bonfire of the blue ticks is upon us, and it's bound to change the relationship between Twitter and journalism.<br><br>Oh, and your weekend reads are below, too.&nbsp;</p>"
+      },
+      {
+        "children": [
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": "Legacy Blue Ticks die on Twitter from April 1st",
+            "type": "text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "heading",
+        "tag": "h2",
+        "version": 1
+      },
+      {
+        "children": [
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": "Since he took over Twitter, Elon Musk has been threatening to withdraw what he terms “legacy” verifications on the platform. The pre-existing Blue Ticks will be swept away in a Stalin-like Great Purge, and only the paid Twitter Blue members will be left standing.",
+            "type": "text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "paragraph",
+        "version": 1
+      },
+      {
+        "type": "embed",
+        "url": "https://twitter.com/verified/status/1639029459557679104?s=61&t=b5ARMxTpgn8LyFchWq3I1Q",
+        "html": "<blockquote class=\"twitter-tweet\"><p lang=\"en\" dir=\"ltr\">On April 1st, we will begin winding down our legacy verified program and removing legacy verified checkmarks. To keep your blue checkmark on Twitter, individuals can sign up for Twitter Blue here: <a href=\"https://t.co/gzpCcwOpLp\">https://t.co/gzpCcwOpLp</a> <br><br>Organizations can sign up for <a href=\"https://t.co/RlN5BbuGA3\">https://t.co/RlN5BbuGA3</a>…</p>&mdash; Twitter Verified (@verified) <a href=\"https://twitter.com/verified/status/1639029459557679104?ref_src=twsrc%5Etfw\">March 23, 2023</a></blockquote>\n<script async src=\"https://platform.twitter.com/widgets.js\" charset=\"utf-8\"></script>\n",
+        "metadata": {
+          "url": "https://twitter.com/verified/status/1639029459557679104",
+          "author_name": "Twitter Verified",
+          "author_url": "https://twitter.com/verified",
+          "width": 550,
+          "height": null,
+          "cache_age": "3153600000",
+          "provider_name": "Twitter",
+          "provider_url": "http://www.twitter.com/",
+          "version": "1.0",
+          "tweet_data": {
+            "created_at": "2023-03-23T22:20:49.000Z",
+            "entities": {
+              "urls": [
+                {
+                  "start": 197,
+                  "end": 220,
+                  "url": "https://t.co/gzpCcwOpLp",
+                  "expanded_url": "https://twitter.com/i/twitter_blue_sign_up",
+                  "display_url": "twitter.com/i/twitter_blue…",
+                  "status": 200,
+                  "title": "Log in to Twitter / Twitter",
+                  "description": "Log in to Twitter to see the latest. Join the conversation, follow accounts, see your Home Timeline, and catch up on Tweets from the people you know.",
+                  "unwound_url": "https://twitter.com/login"
+                },
+                {
+                  "start": 253,
+                  "end": 276,
+                  "url": "https://t.co/RlN5BbuGA3",
+                  "expanded_url": "https://twitter.com/i/en/verifiedorganizations/apply",
+                  "display_url": "twitter.com/i/en/verifiedo…",
+                  "images": [
+                    {
+                      "url": "https://pbs.twimg.com/news_img/1638646954501754880/dshHLbUl?format=jpg&name=orig",
+                      "width": 768,
+                      "height": 461
+                    },
+                    {
+                      "url": "https://pbs.twimg.com/news_img/1638646954501754880/dshHLbUl?format=jpg&name=150x150",
+                      "width": 150,
+                      "height": 150
+                    }
+                  ],
+                  "status": 200,
+                  "title": "Apply",
+                  "unwound_url": "https://twitter.com/i/en/verifiedorganizations/apply"
+                },
+                {
+                  "start": 278,
+                  "end": 301,
+                  "url": "https://t.co/wXLBdREzx9",
+                  "expanded_url": "https://twitter.com/i/web/status/1639029459557679104",
+                  "display_url": "twitter.com/i/web/status/1…"
+                }
+              ],
+              "annotations": [
+                {
+                  "start": 141,
+                  "end": 147,
+                  "probability": 0.9679,
+                  "type": "Other",
+                  "normalized_text": "Twitter"
+                },
+                {
+                  "start": 178,
+                  "end": 189,
+                  "probability": 0.7858,
+                  "type": "Other",
+                  "normalized_text": "Twitter Blue"
+                }
+              ]
+            },
+            "lang": "en",
+            "public_metrics": {
+              "retweet_count": 2240,
+              "reply_count": 7608,
+              "like_count": 6625,
+              "quote_count": 14787,
+              "impression_count": 55048476
+            },
+            "author_id": "63796828",
+            "context_annotations": [
+              {
+                "domain": {
+                  "id": "30",
+                  "name": "Entities [Entity Service]",
+                  "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain"
+                },
+                "entity": {
+                  "id": "781974596752842752",
+                  "name": "Services"
+                }
+              },
+              {
+                "domain": {
+                  "id": "47",
+                  "name": "Brand",
+                  "description": "Brands and Companies"
+                },
+                "entity": {
+                  "id": "10045225402",
+                  "name": "Twitter"
+                }
+              },
+              {
+                "domain": {
+                  "id": "48",
+                  "name": "Product",
+                  "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone."
+                },
+                "entity": {
+                  "id": "1499439674430951425",
+                  "name": "Twitter Blue"
+                }
+              },
+              {
+                "domain": {
+                  "id": "131",
+                  "name": "Unified Twitter Taxonomy",
+                  "description": "A taxonomy of user interests. "
+                },
+                "entity": {
+                  "id": "1196446161223028736",
+                  "name": "Social media"
+                }
+              },
+              {
+                "domain": {
+                  "id": "131",
+                  "name": "Unified Twitter Taxonomy",
+                  "description": "A taxonomy of user interests. "
+                },
+                "entity": {
+                  "id": "1499439674430951425",
+                  "name": "Twitter Blue"
+                }
+              },
+              {
+                "domain": {
+                  "id": "165",
+                  "name": "Technology",
+                  "description": "for individual and types of technology, e.g., food technology, 3D printing"
+                },
+                "entity": {
+                  "id": "1196446161223028736",
+                  "name": "Social media"
+                }
+              },
+              {
+                "domain": {
+                  "id": "47",
+                  "name": "Brand",
+                  "description": "Brands and Companies"
+                },
+                "entity": {
+                  "id": "10045225402",
+                  "name": "Twitter"
+                }
+              },
+              {
+                "domain": {
+                  "id": "131",
+                  "name": "Unified Twitter Taxonomy",
+                  "description": "A taxonomy of user interests. "
+                },
+                "entity": {
+                  "id": "10045225402",
+                  "name": "Twitter"
+                }
+              }
+            ],
+            "reply_settings": "everyone",
+            "text": "On April 1st, we will begin winding down our legacy verified program and removing legacy verified checkmarks. To keep your blue checkmark on Twitter, individuals can sign up for Twitter Blue here: https://t.co/gzpCcwOpLp \n\nOrganizations can sign up for https://t.co/RlN5BbuGA3… https://t.co/wXLBdREzx9",
+            "possibly_sensitive": false,
+            "id": "1639029459557679104",
+            "conversation_id": "1639029459557679104",
+            "edit_history_tweet_ids": [
+              "1639029459557679104"
+            ],
+            "includes": {
+              "users": [
+                {
+                  "protected": false,
+                  "verified": true,
+                  "username": "verified",
+                  "created_at": "2009-08-07T18:41:45.000Z",
+                  "id": "63796828",
+                  "url": "https://t.co/lycVhDnGI9",
+                  "name": "Twitter Verified",
+                  "entities": {
+                    "url": {
+                      "urls": [
+                        {
+                          "start": 0,
+                          "end": 23,
+                          "url": "https://t.co/lycVhDnGI9",
+                          "expanded_url": "https://twitter.com/i/twitter_blue_sign_up",
+                          "display_url": "twitter.com/i/twitter_blue…"
+                        }
+                      ]
+                    },
+                    "description": {
+                      "mentions": [
+                        {
+                          "start": 38,
+                          "end": 50,
+                          "username": "TwitterBlue"
+                        }
+                      ]
+                    }
+                  },
+                  "location": "San Francisco",
+                  "public_metrics": {
+                    "followers_count": 4192663,
+                    "following_count": 419371,
+                    "tweet_count": 2500,
+                    "listed_count": 9123
+                  },
+                  "profile_image_url": "https://pbs.twimg.com/profile_images/1354533298685566983/2mZQ3Lpt_normal.jpg",
+                  "description": "The blue checkmark is now included in @TwitterBlue. Subscribe now to get yours!"
+                }
+              ]
+            }
+          }
+        },
+        "embedType": "twitter"
+      },
+      {
+        "children": [
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": "Now, many of Musk’s threats and promises have not come to pass. The ",
+            "type": "text",
+            "version": 1
+          },
+          {
+            "children": [
+              {
+                "detail": 0,
+                "format": 0,
+                "mode": "normal",
+                "style": "",
+                "text": "big API access changes",
+                "type": "text",
+                "version": 1
+              }
+            ],
+            "direction": "ltr",
+            "format": "",
+            "indent": 0,
+            "type": "link",
+            "rel": null,
+            "target": null,
+            "title": null,
+            "url": "__GHOST_URL__/2023/02/the-death-of-life-of-websites/",
+            "version": 1
+          },
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": " still haven’t happened yet, for example. But this has been such a focus for him that I’ll be at least a little surprised if it doesn’t happen. And his chosen date — 1st April — is a typical move from a habitual shitposter that it seems more plausible.",
+            "type": "text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "paragraph",
+        "version": 1
+      },
+      {
+        "children": [
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": "What’s happening to Twitter verification?",
+            "type": "text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "heading",
+        "tag": "h3",
+        "version": 1
+      },
+      {
+        "children": [
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": "So, what does that mean for us?",
+            "type": "text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "paragraph",
+        "version": 1
+      },
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "detail": 0,
+                "format": 0,
+                "mode": "normal",
+                "style": "",
+                "text": "From late next week, pre-existing verification for journalists will start disappearing, unless the individual pays for Twitter Blue",
+                "type": "text",
+                "version": 1
+              }
+            ],
+            "direction": "ltr",
+            "format": "",
+            "indent": 0,
+            "type": "listitem",
+            "value": 1,
+            "version": 1
+          },
+          {
+            "children": [
+              {
+                "detail": 0,
+                "format": 0,
+                "mode": "normal",
+                "style": "",
+                "text": "Companies who pay for the ",
+                "type": "text",
+                "version": 1
+              },
+              {
+                "children": [
+                  {
+                    "detail": 0,
+                    "format": 0,
+                    "mode": "normal",
+                    "style": "",
+                    "text": "new $1000 per month corporate verification",
+                    "type": "text",
+                    "version": 1
+                  }
+                ],
+                "direction": "ltr",
+                "format": "",
+                "indent": 0,
+                "type": "link",
+                "rel": null,
+                "target": null,
+                "title": null,
+                "url": "https://www.socialmediatoday.com/news/twitter-expands-verification-for-organizations-to-more-regions/645885/",
+                "version": 1
+              },
+              {
+                "detail": 0,
+                "format": 0,
+                "mode": "normal",
+                "style": "",
+                "text": " can allow their employees to retain their ticks. That might be worth it for big publishers, but certainly not for small ones",
+                "type": "text",
+                "version": 1
+              }
+            ],
+            "direction": "ltr",
+            "format": "",
+            "indent": 0,
+            "type": "listitem",
+            "value": 2,
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "tag": "ul",
+        "type": "list",
+        "listType": "bullet",
+        "start": 1,
+        "version": 1
+      },
+      {
+        "type": "embed",
+        "url": "https://twitter.com/elonmusk/status/1639160599354519553?s=61&t=b5ARMxTpgn8LyFchWq3I1Q",
+        "html": "<blockquote class=\"twitter-tweet\"><p lang=\"en\" dir=\"ltr\">Any individual person’s Twitter account affiliated with a verified organization is automatically verified <a href=\"https://t.co/5j6gx6UKHm\">https://t.co/5j6gx6UKHm</a></p>&mdash; Elon Musk (@elonmusk) <a href=\"https://twitter.com/elonmusk/status/1639160599354519553?ref_src=twsrc%5Etfw\">March 24, 2023</a></blockquote>\n<script async src=\"https://platform.twitter.com/widgets.js\" charset=\"utf-8\"></script>\n",
+        "metadata": {
+          "url": "https://twitter.com/elonmusk/status/1639160599354519553",
+          "author_name": "Elon Musk",
+          "author_url": "https://twitter.com/elonmusk",
+          "width": 550,
+          "height": null,
+          "cache_age": "3153600000",
+          "provider_name": "Twitter",
+          "provider_url": "http://www.twitter.com/",
+          "version": "1.0",
+          "tweet_data": {
+            "created_at": "2023-03-24T07:01:55.000Z",
+            "entities": {
+              "urls": [
+                {
+                  "start": 106,
+                  "end": 129,
+                  "url": "https://t.co/5j6gx6UKHm",
+                  "expanded_url": "https://twitter.com/verified/status/1639029459557679104",
+                  "display_url": "twitter.com/verified/statu…"
+                }
+              ],
+              "annotations": [
+                {
+                  "start": 24,
+                  "end": 30,
+                  "probability": 0.9485,
+                  "type": "Other",
+                  "normalized_text": "Twitter"
+                }
+              ]
+            },
+            "lang": "en",
+            "referenced_tweets": [
+              {
+                "type": "quoted",
+                "id": "1639029459557679104"
+              }
+            ],
+            "public_metrics": {
+              "retweet_count": 2097,
+              "reply_count": 1765,
+              "like_count": 16791,
+              "quote_count": 248,
+              "impression_count": 9361913
+            },
+            "author_id": "44196397",
+            "context_annotations": [
+              {
+                "domain": {
+                  "id": "30",
+                  "name": "Entities [Entity Service]",
+                  "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain"
+                },
+                "entity": {
+                  "id": "781974596752842752",
+                  "name": "Services"
+                }
+              },
+              {
+                "domain": {
+                  "id": "46",
+                  "name": "Business Taxonomy",
+                  "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+                },
+                "entity": {
+                  "id": "1557696848252391426",
+                  "name": "Financial Services Business",
+                  "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks "
+                }
+              },
+              {
+                "domain": {
+                  "id": "46",
+                  "name": "Business Taxonomy",
+                  "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+                },
+                "entity": {
+                  "id": "1557697333571112960",
+                  "name": "Technology Business",
+                  "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares"
+                }
+              },
+              {
+                "domain": {
+                  "id": "47",
+                  "name": "Brand",
+                  "description": "Brands and Companies"
+                },
+                "entity": {
+                  "id": "10045225402",
+                  "name": "Twitter"
+                }
+              },
+              {
+                "domain": {
+                  "id": "48",
+                  "name": "Product",
+                  "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone."
+                },
+                "entity": {
+                  "id": "1499439674430951425",
+                  "name": "Twitter Blue"
+                }
+              },
+              {
+                "domain": {
+                  "id": "131",
+                  "name": "Unified Twitter Taxonomy",
+                  "description": "A taxonomy of user interests. "
+                },
+                "entity": {
+                  "id": "1499439674430951425",
+                  "name": "Twitter Blue"
+                }
+              },
+              {
+                "domain": {
+                  "id": "165",
+                  "name": "Technology",
+                  "description": "for individual and types of technology, e.g., food technology, 3D printing"
+                },
+                "entity": {
+                  "id": "1196446161223028736",
+                  "name": "Social media"
+                }
+              },
+              {
+                "domain": {
+                  "id": "10",
+                  "name": "Person",
+                  "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                  "id": "808713037230157824",
+                  "name": "Elon Musk",
+                  "description": "Elon Musk"
+                }
+              },
+              {
+                "domain": {
+                  "id": "47",
+                  "name": "Brand",
+                  "description": "Brands and Companies"
+                },
+                "entity": {
+                  "id": "10045225402",
+                  "name": "Twitter"
+                }
+              },
+              {
+                "domain": {
+                  "id": "65",
+                  "name": "Interests and Hobbies Vertical",
+                  "description": "Top level interests and hobbies groupings, like Food or Travel"
+                },
+                "entity": {
+                  "id": "781974596148793345",
+                  "name": "Business & finance"
+                }
+              },
+              {
+                "domain": {
+                  "id": "66",
+                  "name": "Interests and Hobbies Category",
+                  "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+                },
+                "entity": {
+                  "id": "857878777191211008",
+                  "name": "Leadership",
+                  "description": "Leadership"
+                }
+              },
+              {
+                "domain": {
+                  "id": "131",
+                  "name": "Unified Twitter Taxonomy",
+                  "description": "A taxonomy of user interests. "
+                },
+                "entity": {
+                  "id": "808713037230157824",
+                  "name": "Elon Musk",
+                  "description": "Elon Musk"
+                }
+              },
+              {
+                "domain": {
+                  "id": "131",
+                  "name": "Unified Twitter Taxonomy",
+                  "description": "A taxonomy of user interests. "
+                },
+                "entity": {
+                  "id": "1091420346660470784",
+                  "name": "Tech personalities",
+                  "description": "Tech Professionals"
+                }
+              },
+              {
+                "domain": {
+                  "id": "131",
+                  "name": "Unified Twitter Taxonomy",
+                  "description": "A taxonomy of user interests. "
+                },
+                "entity": {
+                  "id": "1166406108623163392",
+                  "name": "Business personalities"
+                }
+              }
+            ],
+            "reply_settings": "everyone",
+            "text": "Any individual person’s Twitter account affiliated with a verified organization is automatically verified https://t.co/5j6gx6UKHm",
+            "possibly_sensitive": false,
+            "id": "1639160599354519553",
+            "conversation_id": "1639160599354519553",
+            "edit_history_tweet_ids": [
+              "1639160599354519553"
+            ],
+            "includes": {
+              "users": [
+                {
+                  "protected": false,
+                  "verified": true,
+                  "pinned_tweet_id": "1639022301973970944",
+                  "username": "elonmusk",
+                  "created_at": "2009-06-02T20:12:29.000Z",
+                  "id": "44196397",
+                  "name": "Elon Musk",
+                  "public_metrics": {
+                    "followers_count": 132414288,
+                    "following_count": 184,
+                    "tweet_count": 23863,
+                    "listed_count": 118406
+                  },
+                  "profile_image_url": "https://pbs.twimg.com/profile_images/1590968738358079488/IY9Gx6Ok_normal.jpg",
+                  "description": ""
+                },
+                {
+                  "protected": false,
+                  "verified": true,
+                  "username": "verified",
+                  "created_at": "2009-08-07T18:41:45.000Z",
+                  "id": "63796828",
+                  "url": "https://t.co/lycVhDnGI9",
+                  "name": "Twitter Verified",
+                  "entities": {
+                    "url": {
+                      "urls": [
+                        {
+                          "start": 0,
+                          "end": 23,
+                          "url": "https://t.co/lycVhDnGI9",
+                          "expanded_url": "https://twitter.com/i/twitter_blue_sign_up",
+                          "display_url": "twitter.com/i/twitter_blue…"
+                        }
+                      ]
+                    },
+                    "description": {
+                      "mentions": [
+                        {
+                          "start": 38,
+                          "end": 50,
+                          "username": "TwitterBlue"
+                        }
+                      ]
+                    }
+                  },
+                  "location": "San Francisco",
+                  "public_metrics": {
+                    "followers_count": 4192661,
+                    "following_count": 419371,
+                    "tweet_count": 2500,
+                    "listed_count": 9123
+                  },
+                  "profile_image_url": "https://pbs.twimg.com/profile_images/1354533298685566983/2mZQ3Lpt_normal.jpg",
+                  "description": "The blue checkmark is now included in @TwitterBlue. Subscribe now to get yours!"
+                }
+              ],
+              "tweets": [
+                {
+                  "created_at": "2023-03-23T22:20:49.000Z",
+                  "entities": {
+                    "urls": [
+                      {
+                        "start": 197,
+                        "end": 220,
+                        "url": "https://t.co/gzpCcwOpLp",
+                        "expanded_url": "https://twitter.com/i/twitter_blue_sign_up",
+                        "display_url": "twitter.com/i/twitter_blue…",
+                        "status": 200,
+                        "title": "Log in to Twitter / Twitter",
+                        "description": "Log in to Twitter to see the latest. Join the conversation, follow accounts, see your Home Timeline, and catch up on Tweets from the people you know.",
+                        "unwound_url": "https://twitter.com/login"
+                      },
+                      {
+                        "start": 253,
+                        "end": 276,
+                        "url": "https://t.co/RlN5BbuGA3",
+                        "expanded_url": "https://twitter.com/i/en/verifiedorganizations/apply",
+                        "display_url": "twitter.com/i/en/verifiedo…",
+                        "images": [
+                          {
+                            "url": "https://pbs.twimg.com/news_img/1638646954501754880/dshHLbUl?format=jpg&name=orig",
+                            "width": 768,
+                            "height": 461
+                          },
+                          {
+                            "url": "https://pbs.twimg.com/news_img/1638646954501754880/dshHLbUl?format=jpg&name=150x150",
+                            "width": 150,
+                            "height": 150
+                          }
+                        ],
+                        "status": 200,
+                        "title": "Apply",
+                        "unwound_url": "https://twitter.com/i/en/verifiedorganizations/apply"
+                      },
+                      {
+                        "start": 278,
+                        "end": 301,
+                        "url": "https://t.co/wXLBdREzx9",
+                        "expanded_url": "https://twitter.com/i/web/status/1639029459557679104",
+                        "display_url": "twitter.com/i/web/status/1…"
+                      }
+                    ],
+                    "annotations": [
+                      {
+                        "start": 141,
+                        "end": 147,
+                        "probability": 0.9679,
+                        "type": "Other",
+                        "normalized_text": "Twitter"
+                      },
+                      {
+                        "start": 178,
+                        "end": 189,
+                        "probability": 0.7858,
+                        "type": "Other",
+                        "normalized_text": "Twitter Blue"
+                      }
+                    ]
+                  },
+                  "lang": "en",
+                  "public_metrics": {
+                    "retweet_count": 2240,
+                    "reply_count": 7607,
+                    "like_count": 6625,
+                    "quote_count": 14786,
+                    "impression_count": 55025473
+                  },
+                  "author_id": "63796828",
+                  "context_annotations": [
+                    {
+                      "domain": {
+                        "id": "30",
+                        "name": "Entities [Entity Service]",
+                        "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain"
+                      },
+                      "entity": {
+                        "id": "781974596752842752",
+                        "name": "Services"
+                      }
+                    },
+                    {
+                      "domain": {
+                        "id": "47",
+                        "name": "Brand",
+                        "description": "Brands and Companies"
+                      },
+                      "entity": {
+                        "id": "10045225402",
+                        "name": "Twitter"
+                      }
+                    },
+                    {
+                      "domain": {
+                        "id": "48",
+                        "name": "Product",
+                        "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone."
+                      },
+                      "entity": {
+                        "id": "1499439674430951425",
+                        "name": "Twitter Blue"
+                      }
+                    },
+                    {
+                      "domain": {
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy",
+                        "description": "A taxonomy of user interests. "
+                      },
+                      "entity": {
+                        "id": "1196446161223028736",
+                        "name": "Social media"
+                      }
+                    },
+                    {
+                      "domain": {
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy",
+                        "description": "A taxonomy of user interests. "
+                      },
+                      "entity": {
+                        "id": "1499439674430951425",
+                        "name": "Twitter Blue"
+                      }
+                    },
+                    {
+                      "domain": {
+                        "id": "165",
+                        "name": "Technology",
+                        "description": "for individual and types of technology, e.g., food technology, 3D printing"
+                      },
+                      "entity": {
+                        "id": "1196446161223028736",
+                        "name": "Social media"
+                      }
+                    },
+                    {
+                      "domain": {
+                        "id": "47",
+                        "name": "Brand",
+                        "description": "Brands and Companies"
+                      },
+                      "entity": {
+                        "id": "10045225402",
+                        "name": "Twitter"
+                      }
+                    },
+                    {
+                      "domain": {
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy",
+                        "description": "A taxonomy of user interests. "
+                      },
+                      "entity": {
+                        "id": "10045225402",
+                        "name": "Twitter"
+                      }
+                    }
+                  ],
+                  "reply_settings": "everyone",
+                  "text": "On April 1st, we will begin winding down our legacy verified program and removing legacy verified checkmarks. To keep your blue checkmark on Twitter, individuals can sign up for Twitter Blue here: https://t.co/gzpCcwOpLp \n\nOrganizations can sign up for https://t.co/RlN5BbuGA3… https://t.co/wXLBdREzx9",
+                  "possibly_sensitive": false,
+                  "id": "1639029459557679104",
+                  "conversation_id": "1639029459557679104",
+                  "edit_history_tweet_ids": [
+                    "1639029459557679104"
+                  ]
+                }
+              ]
+            }
+          }
+        },
+        "embedType": "twitter"
+      },
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "detail": 0,
+                "format": 0,
+                "mode": "normal",
+                "style": "",
+                "text": "It also means the prestige value of the Blue Tick as a symbol of authority will rapidly diminish.",
+                "type": "text",
+                "version": 1
+              }
+            ],
+            "direction": "ltr",
+            "format": "",
+            "indent": 0,
+            "type": "listitem",
+            "value": 1,
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "tag": "ul",
+        "type": "list",
+        "listType": "bullet",
+        "start": 1,
+        "version": 1
+      },
+      {
+        "children": [
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": "And that’s the critical issue here. The switch of the system from “Blue Tick means important” to “Blue Tick means paying, and you are who you say you are” is going to totally change the dynamic. For one thing, now that the tick no longer automatically conveys status, it suddenly becomes a lot less desirable.",
+            "type": "text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "paragraph",
+        "version": 1
+      },
+      {
+        "children": [
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": "The sheer fact that you will have the ",
+            "type": "text",
+            "version": 1
+          },
+          {
+            "children": [
+              {
+                "detail": 0,
+                "format": 0,
+                "mode": "normal",
+                "style": "",
+                "text": "ability to not display the tick",
+                "type": "text",
+                "version": 1
+              }
+            ],
+            "direction": "ltr",
+            "format": "",
+            "indent": 0,
+            "type": "link",
+            "rel": null,
+            "target": null,
+            "title": null,
+            "url": "https://boingboing.net/2023/03/23/twitter-blue-subscribers-will-be-able-to-hide-their-checkmarks-to-avoid-shaming-and-mockery.html",
+            "version": 1
+          },
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": " if you’re a Twitter Blue subscriber, emphasises that the value of it is ",
+            "type": "text",
+            "version": 1
+          },
+          {
+            "detail": 0,
+            "format": 2,
+            "mode": "normal",
+            "style": "",
+            "text": "already",
+            "type": "text",
+            "version": 1
+          },
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": " diminishing. It’s moved from a badge of status to a mark of shame.",
+            "type": "text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "paragraph",
+        "version": 1
+      },
+      {
+        "type": "embed",
+        "url": "https://twitter.com/benedictevans/status/1639158119124041728?s=61&t=b5ARMxTpgn8LyFchWq3I1Q",
+        "html": "<blockquote class=\"twitter-tweet\"><p lang=\"en\" dir=\"ltr\">“Paid for Twitter blue” has become an extremely reliable predictor of quality, just not in the way that Elon meant <a href=\"https://t.co/HEcKyD0Nag\">https://t.co/HEcKyD0Nag</a></p>&mdash; Benedict Evans (@benedictevans) <a href=\"https://twitter.com/benedictevans/status/1639158119124041728?ref_src=twsrc%5Etfw\">March 24, 2023</a></blockquote>\n<script async src=\"https://platform.twitter.com/widgets.js\" charset=\"utf-8\"></script>\n",
+        "metadata": {
+          "url": "https://twitter.com/benedictevans/status/1639158119124041728",
+          "author_name": "Benedict Evans",
+          "author_url": "https://twitter.com/benedictevans",
+          "width": 550,
+          "height": null,
+          "cache_age": "3153600000",
+          "provider_name": "Twitter",
+          "provider_url": "http://www.twitter.com/",
+          "version": "1.0",
+          "tweet_data": {
+            "entities": {
+              "annotations": [
+                {
+                  "start": 10,
+                  "end": 16,
+                  "probability": 0.9646,
+                  "type": "Other",
+                  "normalized_text": "Twitter"
+                },
+                {
+                  "start": 104,
+                  "end": 107,
+                  "probability": 0.9318,
+                  "type": "Person",
+                  "normalized_text": "Elon"
+                }
+              ],
+              "urls": [
+                {
+                  "start": 115,
+                  "end": 138,
+                  "url": "https://t.co/HEcKyD0Nag",
+                  "expanded_url": "https://twitter.com/verified/status/1639029459557679104",
+                  "display_url": "twitter.com/verified/statu…"
+                }
+              ]
+            },
+            "text": "“Paid for Twitter blue” has become an extremely reliable predictor of quality, just not in the way that Elon meant https://t.co/HEcKyD0Nag",
+            "created_at": "2023-03-24T06:52:04.000Z",
+            "possibly_sensitive": false,
+            "context_annotations": [
+              {
+                "domain": {
+                  "id": "30",
+                  "name": "Entities [Entity Service]",
+                  "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain"
+                },
+                "entity": {
+                  "id": "781974596752842752",
+                  "name": "Services"
+                }
+              },
+              {
+                "domain": {
+                  "id": "46",
+                  "name": "Business Taxonomy",
+                  "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+                },
+                "entity": {
+                  "id": "1557696848252391426",
+                  "name": "Financial Services Business",
+                  "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks "
+                }
+              },
+              {
+                "domain": {
+                  "id": "46",
+                  "name": "Business Taxonomy",
+                  "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+                },
+                "entity": {
+                  "id": "1557697333571112960",
+                  "name": "Technology Business",
+                  "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares"
+                }
+              },
+              {
+                "domain": {
+                  "id": "47",
+                  "name": "Brand",
+                  "description": "Brands and Companies"
+                },
+                "entity": {
+                  "id": "10045225402",
+                  "name": "Twitter"
+                }
+              },
+              {
+                "domain": {
+                  "id": "48",
+                  "name": "Product",
+                  "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone."
+                },
+                "entity": {
+                  "id": "1499439674430951425",
+                  "name": "Twitter Blue"
+                }
+              },
+              {
+                "domain": {
+                  "id": "131",
+                  "name": "Unified Twitter Taxonomy",
+                  "description": "A taxonomy of user interests. "
+                },
+                "entity": {
+                  "id": "848920371311001600",
+                  "name": "Technology",
+                  "description": "Technology and computing"
+                }
+              },
+              {
+                "domain": {
+                  "id": "131",
+                  "name": "Unified Twitter Taxonomy",
+                  "description": "A taxonomy of user interests. "
+                },
+                "entity": {
+                  "id": "1196446161223028736",
+                  "name": "Social media"
+                }
+              },
+              {
+                "domain": {
+                  "id": "131",
+                  "name": "Unified Twitter Taxonomy",
+                  "description": "A taxonomy of user interests. "
+                },
+                "entity": {
+                  "id": "1499439674430951425",
+                  "name": "Twitter Blue"
+                }
+              },
+              {
+                "domain": {
+                  "id": "165",
+                  "name": "Technology",
+                  "description": "for individual and types of technology, e.g., food technology, 3D printing"
+                },
+                "entity": {
+                  "id": "848920371311001600",
+                  "name": "Technology",
+                  "description": "Technology and computing"
+                }
+              },
+              {
+                "domain": {
+                  "id": "165",
+                  "name": "Technology",
+                  "description": "for individual and types of technology, e.g., food technology, 3D printing"
+                },
+                "entity": {
+                  "id": "1196446161223028736",
+                  "name": "Social media"
+                }
+              },
+              {
+                "domain": {
+                  "id": "10",
+                  "name": "Person",
+                  "description": "Named people in the world like Nelson Mandela"
+                },
+                "entity": {
+                  "id": "808713037230157824",
+                  "name": "Elon Musk",
+                  "description": "Elon Musk"
+                }
+              },
+              {
+                "domain": {
+                  "id": "47",
+                  "name": "Brand",
+                  "description": "Brands and Companies"
+                },
+                "entity": {
+                  "id": "10045225402",
+                  "name": "Twitter"
+                }
+              },
+              {
+                "domain": {
+                  "id": "65",
+                  "name": "Interests and Hobbies Vertical",
+                  "description": "Top level interests and hobbies groupings, like Food or Travel"
+                },
+                "entity": {
+                  "id": "781974596148793345",
+                  "name": "Business & finance"
+                }
+              },
+              {
+                "domain": {
+                  "id": "66",
+                  "name": "Interests and Hobbies Category",
+                  "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+                },
+                "entity": {
+                  "id": "857878777191211008",
+                  "name": "Leadership",
+                  "description": "Leadership"
+                }
+              },
+              {
+                "domain": {
+                  "id": "131",
+                  "name": "Unified Twitter Taxonomy",
+                  "description": "A taxonomy of user interests. "
+                },
+                "entity": {
+                  "id": "1091420346660470784",
+                  "name": "Tech personalities",
+                  "description": "Tech Professionals"
+                }
+              },
+              {
+                "domain": {
+                  "id": "131",
+                  "name": "Unified Twitter Taxonomy",
+                  "description": "A taxonomy of user interests. "
+                },
+                "entity": {
+                  "id": "1166406108623163392",
+                  "name": "Business personalities"
+                }
+              }
+            ],
+            "lang": "en",
+            "edit_history_tweet_ids": [
+              "1639158119124041728"
+            ],
+            "author_id": "1236101",
+            "reply_settings": "everyone",
+            "conversation_id": "1639158119124041728",
+            "public_metrics": {
+              "retweet_count": 54,
+              "reply_count": 11,
+              "like_count": 320,
+              "quote_count": 3,
+              "impression_count": 71488
+            },
+            "id": "1639158119124041728",
+            "referenced_tweets": [
+              {
+                "type": "quoted",
+                "id": "1639029459557679104"
+              }
+            ],
+            "includes": {
+              "users": [
+                {
+                  "profile_image_url": "https://pbs.twimg.com/profile_images/1431026502192205828/LaLAMvdn_normal.jpg",
+                  "location": "Zoom",
+                  "entities": {
+                    "url": {
+                      "urls": [
+                        {
+                          "start": 0,
+                          "end": 23,
+                          "url": "https://t.co/vp0xj1bPG0",
+                          "expanded_url": "http://www.ben-evans.com/",
+                          "display_url": "ben-evans.com"
+                        }
+                      ]
+                    }
+                  },
+                  "pinned_tweet_id": "1627291556678868992",
+                  "id": "1236101",
+                  "description": "Trying to work out what's going on, and what happens next. Mostly tech.",
+                  "url": "https://t.co/vp0xj1bPG0",
+                  "protected": false,
+                  "verified": true,
+                  "name": "Benedict Evans",
+                  "created_at": "2007-03-15T17:33:00.000Z",
+                  "username": "benedictevans",
+                  "public_metrics": {
+                    "followers_count": 379587,
+                    "following_count": 1033,
+                    "tweet_count": 183545,
+                    "listed_count": 8583
+                  }
+                },
+                {
+                  "profile_image_url": "https://pbs.twimg.com/profile_images/1354533298685566983/2mZQ3Lpt_normal.jpg",
+                  "location": "San Francisco",
+                  "entities": {
+                    "url": {
+                      "urls": [
+                        {
+                          "start": 0,
+                          "end": 23,
+                          "url": "https://t.co/lycVhDnGI9",
+                          "expanded_url": "https://twitter.com/i/twitter_blue_sign_up",
+                          "display_url": "twitter.com/i/twitter_blue…"
+                        }
+                      ]
+                    },
+                    "description": {
+                      "mentions": [
+                        {
+                          "start": 38,
+                          "end": 50,
+                          "username": "TwitterBlue"
+                        }
+                      ]
+                    }
+                  },
+                  "id": "63796828",
+                  "description": "The blue checkmark is now included in @TwitterBlue. Subscribe now to get yours!",
+                  "url": "https://t.co/lycVhDnGI9",
+                  "protected": false,
+                  "verified": true,
+                  "name": "Twitter Verified",
+                  "created_at": "2009-08-07T18:41:45.000Z",
+                  "username": "verified",
+                  "public_metrics": {
+                    "followers_count": 4192665,
+                    "following_count": 419371,
+                    "tweet_count": 2500,
+                    "listed_count": 9123
+                  }
+                }
+              ],
+              "tweets": [
+                {
+                  "entities": {
+                    "annotations": [
+                      {
+                        "start": 141,
+                        "end": 147,
+                        "probability": 0.9679,
+                        "type": "Other",
+                        "normalized_text": "Twitter"
+                      },
+                      {
+                        "start": 178,
+                        "end": 189,
+                        "probability": 0.7858,
+                        "type": "Other",
+                        "normalized_text": "Twitter Blue"
+                      }
+                    ],
+                    "urls": [
+                      {
+                        "start": 197,
+                        "end": 220,
+                        "url": "https://t.co/gzpCcwOpLp",
+                        "expanded_url": "https://twitter.com/i/twitter_blue_sign_up",
+                        "display_url": "twitter.com/i/twitter_blue…",
+                        "status": 200,
+                        "title": "Log in to Twitter / Twitter",
+                        "description": "Log in to Twitter to see the latest. Join the conversation, follow accounts, see your Home Timeline, and catch up on Tweets from the people you know.",
+                        "unwound_url": "https://twitter.com/login"
+                      },
+                      {
+                        "start": 253,
+                        "end": 276,
+                        "url": "https://t.co/RlN5BbuGA3",
+                        "expanded_url": "https://twitter.com/i/en/verifiedorganizations/apply",
+                        "display_url": "twitter.com/i/en/verifiedo…",
+                        "images": [
+                          {
+                            "url": "https://pbs.twimg.com/news_img/1638646954501754880/dshHLbUl?format=jpg&name=orig",
+                            "width": 768,
+                            "height": 461
+                          },
+                          {
+                            "url": "https://pbs.twimg.com/news_img/1638646954501754880/dshHLbUl?format=jpg&name=150x150",
+                            "width": 150,
+                            "height": 150
+                          }
+                        ],
+                        "status": 200,
+                        "title": "Apply",
+                        "unwound_url": "https://twitter.com/i/en/verifiedorganizations/apply"
+                      },
+                      {
+                        "start": 278,
+                        "end": 301,
+                        "url": "https://t.co/wXLBdREzx9",
+                        "expanded_url": "https://twitter.com/i/web/status/1639029459557679104",
+                        "display_url": "twitter.com/i/web/status/1…"
+                      }
+                    ]
+                  },
+                  "text": "On April 1st, we will begin winding down our legacy verified program and removing legacy verified checkmarks. To keep your blue checkmark on Twitter, individuals can sign up for Twitter Blue here: https://t.co/gzpCcwOpLp \n\nOrganizations can sign up for https://t.co/RlN5BbuGA3… https://t.co/wXLBdREzx9",
+                  "created_at": "2023-03-23T22:20:49.000Z",
+                  "possibly_sensitive": false,
+                  "context_annotations": [
+                    {
+                      "domain": {
+                        "id": "30",
+                        "name": "Entities [Entity Service]",
+                        "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain"
+                      },
+                      "entity": {
+                        "id": "781974596752842752",
+                        "name": "Services"
+                      }
+                    },
+                    {
+                      "domain": {
+                        "id": "47",
+                        "name": "Brand",
+                        "description": "Brands and Companies"
+                      },
+                      "entity": {
+                        "id": "10045225402",
+                        "name": "Twitter"
+                      }
+                    },
+                    {
+                      "domain": {
+                        "id": "48",
+                        "name": "Product",
+                        "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone."
+                      },
+                      "entity": {
+                        "id": "1499439674430951425",
+                        "name": "Twitter Blue"
+                      }
+                    },
+                    {
+                      "domain": {
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy",
+                        "description": "A taxonomy of user interests. "
+                      },
+                      "entity": {
+                        "id": "1196446161223028736",
+                        "name": "Social media"
+                      }
+                    },
+                    {
+                      "domain": {
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy",
+                        "description": "A taxonomy of user interests. "
+                      },
+                      "entity": {
+                        "id": "1499439674430951425",
+                        "name": "Twitter Blue"
+                      }
+                    },
+                    {
+                      "domain": {
+                        "id": "165",
+                        "name": "Technology",
+                        "description": "for individual and types of technology, e.g., food technology, 3D printing"
+                      },
+                      "entity": {
+                        "id": "1196446161223028736",
+                        "name": "Social media"
+                      }
+                    },
+                    {
+                      "domain": {
+                        "id": "47",
+                        "name": "Brand",
+                        "description": "Brands and Companies"
+                      },
+                      "entity": {
+                        "id": "10045225402",
+                        "name": "Twitter"
+                      }
+                    },
+                    {
+                      "domain": {
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy",
+                        "description": "A taxonomy of user interests. "
+                      },
+                      "entity": {
+                        "id": "10045225402",
+                        "name": "Twitter"
+                      }
+                    }
+                  ],
+                  "lang": "en",
+                  "edit_history_tweet_ids": [
+                    "1639029459557679104"
+                  ],
+                  "author_id": "63796828",
+                  "reply_settings": "everyone",
+                  "conversation_id": "1639029459557679104",
+                  "public_metrics": {
+                    "retweet_count": 2241,
+                    "reply_count": 7610,
+                    "like_count": 6626,
+                    "quote_count": 14787,
+                    "impression_count": 55048476
+                  },
+                  "id": "1639029459557679104"
+                }
+              ]
+            }
+          }
+        },
+        "embedType": "twitter"
+      },
+      {
+        "children": [
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": "Unleashing a vast social experiment on Twitter",
+            "type": "text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "heading",
+        "tag": "h3",
+        "version": 1
+      },
+      {
+        "type": "image",
+        "src": "__GHOST_URL__/content/images/2023/03/musk-and-the-network.jpg",
+        "width": 3072,
+        "height": 3072,
+        "caption": "Human social relationships are more complex than code, Elon."
+      },
+      {
+        "children": [
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": "To run a successful social platform, you ",
+            "type": "text",
+            "version": 1
+          },
+          {
+            "detail": 0,
+            "format": 2,
+            "mode": "normal",
+            "style": "",
+            "text": "need",
+            "type": "text",
+            "version": 1
+          },
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": " to understand the social psychology of human networks. And right now, Musk seems really determined to prove that he doesn’t understand it. At all. He’s completely hollowed out the essential appeal of the thing he’s hoping to make money from.",
+            "type": "text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "paragraph",
+        "version": 1
+      },
+      {
+        "children": [
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": "And in the process, he’s actually unleashed a massive disruptive force into the social structures of the platform. Long-term users are familiar with using the tick as a shorthand for notability and significance. That needs unlearning, and that will take time, leading to conflict and confusion.",
+            "type": "text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "paragraph",
+        "version": 1
+      },
+      {
+        "children": [
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": "More to the point, publishers who reply on Twitter for sources or traffic will need to find alternative strategies for proving the provenance of the journalists on the platform, unless they’re willing to cough up for the expensive corporate verification. My Audience Strategy students at City actually came up with some ",
+            "type": "text",
+            "version": 1
+          },
+          {
+            "detail": 0,
+            "format": 2,
+            "mode": "normal",
+            "style": "",
+            "text": "really",
+            "type": "text",
+            "version": 1
+          },
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": " smart ideas on this during our workshop, which I hope they’ll write up ",
+            "type": "text",
+            "version": 1
+          },
+          {
+            "children": [
+              {
+                "detail": 0,
+                "format": 0,
+                "mode": "normal",
+                "style": "",
+                "text": "for their site",
+                "type": "text",
+                "version": 1
+              }
+            ],
+            "direction": "ltr",
+            "format": "",
+            "indent": 0,
+            "type": "link",
+            "rel": null,
+            "target": null,
+            "title": null,
+            "url": "https://www.interhacktives.com",
+            "version": 1
+          },
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": ".",
+            "type": "text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "paragraph",
+        "version": 1
+      },
+      {
+        "children": [
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": "April will be another interesting month on Twitter.",
+            "type": "text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "paragraph",
+        "version": 1
+      },
+      {
+        "type": "horizontalrule"
+      },
+      {
+        "children": [
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": "Weekend Reads",
+            "type": "text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "heading",
+        "tag": "h2",
+        "version": 1
+      },
+      {
+        "type": "image",
+        "src": "__GHOST_URL__/content/images/2023/03/crungus-likes-to-read.jpg",
+        "width": 4032,
+        "height": 2688,
+        "caption": "Crungus likes to dress up and read some great articles at the weekend.",
+        "alt": "Midjourney’s idea of Crungus reading at the weekend."
+      },
+      {
+        "type": "paywall"
+      },
+      {
+        "children": [
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": "AI isn't intelligent in any way we would understand",
+            "type": "text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "heading",
+        "tag": "h3",
+        "version": 1
+      },
+      {
+        "children": [
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": "A really interesting piece from James Bridle in ",
+            "type": "text",
+            "version": 1
+          },
+          {
+            "detail": 0,
+            "format": 2,
+            "mode": "normal",
+            "style": "",
+            "text": "The Guardian",
+            "type": "text",
+            "version": 1
+          },
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": " looking at what generative AI ",
+            "type": "text",
+            "version": 1
+          },
+          {
+            "detail": 0,
+            "format": 2,
+            "mode": "normal",
+            "style": "",
+            "text": "really",
+            "type": "text",
+            "version": 1
+          },
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": " does, and how it can lead to weird, weird oddities:",
+            "type": "text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "paragraph",
+        "version": 1
+      },
+      {
+        "children": [
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": "One user tried typing in nonsense phrases and was confused and somewhat discomforted to discover that Dall-E mini seemed to have a very good idea of what a “Crungus” was: an otherwise unknown phrase that consistently produced images of a snarling, naked, ogre-like figure. Crungus was sufficiently clear within the program’s imagination that he could be manipulated easily: other users quickly offered up images of ancient Crungus tapestries, Roman-style Crungus mosaics, oil paintings of Crungus, photos of Crungus hugging various celebrities, and, this being the internet, “sexy” Crungus.",
+            "type": "text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "quote",
+        "version": 1
+      },
+      {
+        "children": [
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": "Simply put, the more common a thing is online, the more generative AI is likely to understand it, and build things based on it. The more obscure it is, the “valleys” in AI's understanding, as Bridle puts it, the more likely you are to get weird, hallucinogenic responses. Fascinating.",
+            "type": "text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "paragraph",
+        "version": 1
+      },
+      {
+        "type": "bookmark",
+        "version": "1.0",
+        "url": "https://www.theguardian.com/technology/2023/mar/16/the-stupidity-of-ai-artificial-intelligence-dall-e-chatgpt",
+        "metadata": {
+          "url": "https://www.theguardian.com/technology/2023/mar/16/the-stupidity-of-ai-artificial-intelligence-dall-e-chatgpt",
+          "title": "The stupidity of AI",
+          "description": "The long read: Artificial intelligence in its current form is based on the wholesale appropriation of existing culture, and the notion that it is actually intelligent could be actively dangerous",
+          "author": "James Bridle",
+          "publisher": "The Guardian",
+          "thumbnail": "https://i.guim.co.uk/img/media/fe28e6201ed09217261ef6d5aa55c1d2c9ca3395/0_365_5472_3283/master/5472.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=6ab6f59ca177f5929e54aa0a04295984",
+          "icon": "https://static.guim.co.uk/images/favicon-32x32.ico"
+        }
+      },
+      {
+        "children": [
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": "James is the perfect person to delve into this, as he been researching and writing about non-human intelligence styles, most recent in his latest book ",
+            "type": "text",
+            "version": 1
+          },
+          {
+            "children": [
+              {
+                "detail": 0,
+                "format": 2,
+                "mode": "normal",
+                "style": "",
+                "text": "Ways of Being",
+                "type": "text",
+                "version": 1
+              }
+            ],
+            "direction": "ltr",
+            "format": "",
+            "indent": 0,
+            "type": "link",
+            "rel": null,
+            "target": null,
+            "title": null,
+            "url": "https://amzn.to/3LOAOef",
+            "version": 1
+          },
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": ". He also gave an interesting talk on the subject at the most recent ",
+            "type": "text",
+            "version": 1
+          },
+          {
+            "children": [
+              {
+                "detail": 0,
+                "format": 0,
+                "mode": "normal",
+                "style": "",
+                "text": "NEXT Conference in",
+                "type": "text",
+                "version": 1
+              }
+            ],
+            "direction": "ltr",
+            "format": "",
+            "indent": 0,
+            "type": "link",
+            "rel": null,
+            "target": null,
+            "title": null,
+            "url": "https://nextconf.eu/2022/09/liveblog-james-bridle-a-crab-computer-the-size-of-the-world/",
+            "version": 1
+          },
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": " Hamburg: ",
+            "type": "text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "paragraph",
+        "version": 1
+      },
+      {
+        "type": "embed",
+        "url": "https://www.youtube.com/watch?v=2uI8972y4rc",
+        "html": "<iframe width=\"200\" height=\"113\" src=\"https://www.youtube.com/embed/2uI8972y4rc?feature=oembed\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen title=\"James Bridle: A Crab Computer the Size of the World\"></iframe>",
+        "metadata": {
+          "title": "James Bridle: A Crab Computer the Size of the World",
+          "author_name": "NEXT Conference",
+          "author_url": "https://www.youtube.com/@NEXTConference",
+          "height": 113,
+          "width": 200,
+          "version": "1.0",
+          "provider_name": "YouTube",
+          "provider_url": "https://www.youtube.com/",
+          "thumbnail_height": 360,
+          "thumbnail_width": 480,
+          "thumbnail_url": "https://i.ytimg.com/vi/2uI8972y4rc/hqdefault.jpg"
+        },
+        "embedType": "video"
+      },
+      {
+        "children": [
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": "Journalism should capitulate to those in powe… Wait. That's not right. ",
+            "type": "text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "heading",
+        "tag": "h3",
+        "version": 1
+      },
+      {
+        "children": [
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": "This is a spicy piece in defence of a friend of the author, who was fired from ",
+            "type": "text",
+            "version": 1
+          },
+          {
+            "detail": 0,
+            "format": 2,
+            "mode": "normal",
+            "style": "",
+            "text": "Axios",
+            "type": "text",
+            "version": 1
+          },
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": " for sending a dismissive and borderline rude email in response to a press release from the team behind US politician Ron DeSantis. Getting fired for being a bit rude to a politician's PR operation is an alarming precedent…",
+            "type": "text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "paragraph",
+        "version": 1
+      },
+      {
+        "children": [
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": "Axios stands revealed as a creepy little band of Beltway-drunk dilettantes who, taken together, don't have the courage God gave the average assistant night city editor at a 30,000-circulation daily. If there's one thing I despise most in this business, it's suits who don't stand behind their reporters in the face of unjust, performative outrage and flinch before they're hit.",
+            "type": "text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "quote",
+        "version": 1
+      },
+      {
+        "children": [
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": "🔥",
+            "type": "text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "paragraph",
+        "version": 1
+      },
+      {
+        "type": "bookmark",
+        "version": "1.0",
+        "url": "https://www.esquire.com/news-politics/politics/a43337271/axios-ben-montgomery-desantis/",
+        "metadata": {
+          "url": "https://www.esquire.com/news-politics/politics/a43337271/axios-ben-montgomery-desantis/",
+          "title": "The Media Better Be Smart and Get Wise to DeSantis’ Bad-Faith Press Operation",
+          "description": "If a reporter can’t recognize propaganda and call it out when he sees it, then what’s even the point?",
+          "author": "Charles P. Pierce",
+          "publisher": "Esquire",
+          "thumbnail": "https://hips.hearstapps.com/hmg-prod/images/florida-gov-ron-desantis-speaks-to-the-media-about-the-news-photo-1678979966.jpg?crop=1xw:0.75075xh;center,top&resize=1200:*",
+          "icon": "https://www.esquire.com/_assets/design-tokens/esquire/static/images/apple-touch-icon.1801cd0.png"
+        }
+      },
+      {
+        "children": [
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": "The weird world of the tech tycoon",
+            "type": "text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "heading",
+        "tag": "h3",
+        "version": 1
+      },
+      {
+        "children": [
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": "This piece is a few weeks old, but it seems more relevant than ever in light of recent events. It's hard to overstate the impact of the tight, closed bubble of wealth and privilege that so many of the recent wave of tech entrepreneurs and VCs live in, on why their products and opinions are diverging so wildly from what matters to the rest of us.",
+            "type": "text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "paragraph",
+        "version": 1
+      },
+      {
+        "type": "bookmark",
+        "version": "1.0",
+        "url": "https://anildash.com/2023/02/27/tycoon-martyrdom-charade/",
+        "metadata": {
+          "url": "https://anildash.com/2023/02/27/tycoon-martyrdom-charade/",
+          "title": "The tech tycoon martyrdom charade - Anil Dash",
+          "description": "A blog about making culture. Since 1999.",
+          "author": "undefined",
+          "publisher": "Anil Dash",
+          "thumbnail": "https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/anildash-2022.png?v=1669512851303",
+          "icon": "https://cdn.glitch.global/c4e475b2-a54e-47e0-973c-ed0bd1b46262/apple-touch-icon.png?v=1670219223610"
+        }
+      },
+      {
+        "children": [
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": "What happens to the children of influencers when they grow up?",
+            "type": "text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "heading",
+        "tag": "h3",
+        "version": 1
+      },
+      {
+        "children": [
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": "The idea of the “influencer” has been around just long enough that the children of the early mummy bloggers or parenting-focused YouTube stars are now grown-up. And they're not happy with what was done to their childhoods:",
+            "type": "text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "paragraph",
+        "version": 1
+      },
+      {
+        "children": [
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": "Once she doesn’t live with [her parents] anymore, she plans to speak out publicly about being the star of a YouTube channel. She’ll even use her real name. Claire wants people to know how her childhood was overshadowed by social media stardom that she didn’t choose.  And she wants her parents to know: “nothing they do now is going to take back the years of work I had to put in.”",
+            "type": "text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "quote",
+        "version": 1
+      },
+      {
+        "children": [
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": "Can children meaningfully consent to being used in a business like this?",
+            "type": "text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "paragraph",
+        "version": 1
+      },
+      {
+        "type": "bookmark",
+        "url": "https://www.teenvogue.com/story/influencer-parents-children-social-media-impact",
+        "metadata": {
+          "url": "https://www.teenvogue.com/story/influencer-parents-children-social-media-impact",
+          "title": "Influencer Parents and The Kids Who Had Their Childhood Made Into Content",
+          "description": "“Nothing they do now is going to take back the years of work I had to put in.”",
+          "author": "Condé Nast",
+          "publisher": "Teen Vogue",
+          "thumbnail": "https://assets.teenvogue.com/photos/640b8668604992368cdc0dc9/16:9/w_1280,c_limit/ID_ChildInfluencers_Mar10_HEADER.jpg",
+          "icon": "https://www.teenvogue.com/verso/static/teen-vogue/assets/favicon.ico"
+        }
+      },
+      {
+        "children": [
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": "Wordle has an editor",
+            "type": "text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "heading",
+        "tag": "h3",
+        "version": 1
+      },
+      {
+        "children": [
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": "Confession: I muted the Wordle squares on Twitter months ago, so it wasn't until I started using Mastodon extensively that I realised just how many people are playing it still. ‌",
+            "type": "text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "paragraph",
+        "version": 1
+      },
+      {
+        "children": [
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": "I was also completely unaware that it's no longer based on a random list of words, but actually has an editor who chooses each day's word…",
+            "type": "text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "paragraph",
+        "version": 1
+      },
+      {
+        "type": "bookmark",
+        "url": "https://www.businessinsider.com/new-york-times-editor-wordle-2023-2?r=US&IR=T",
+        "metadata": {
+          "url": "https://www.businessinsider.com/new-york-times-editor-wordle-2023-2",
+          "title": "I’m the Wordle editor. People complain about the words and recognize me on the street — but I wouldn’t trade this job for anything.",
+          "description": "Tracy Bennett, the editor of Wordle, said she can’t wait to add words like “bling” and “latke,” and to look for a difficult word coming in February.",
+          "author": "Kiera Fields",
+          "publisher": "Insider",
+          "thumbnail": "https://i.insider.com/63dd300e0a08ae0018a6a7d6?width=1200&format=jpeg",
+          "icon": "https://www.businessinsider.com/public/assets/BI/US/favicons/apple-touch-icon.png?v=2021-08"
+        }
+      },
+      {
+        "type": "email",
+        "html": "<p>See you Monday, folks.&nbsp;</p>"
+      },
+      {
+        "children": [],
+        "direction": null,
+        "format": "",
+        "indent": 0,
+        "type": "paragraph",
+        "version": 1
+      }
+    ],
+    "direction": "ltr",
+    "format": "",
+    "indent": 0,
+    "type": "root",
+    "version": 1
+  }
+}

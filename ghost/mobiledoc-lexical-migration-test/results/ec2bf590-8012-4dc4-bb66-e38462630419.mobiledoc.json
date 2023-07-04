@@ -1,0 +1,449 @@
+{
+  "version": "0.3.1",
+  "atoms": [],
+  "cards": [
+    [
+      "hr",
+      {}
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "html",
+      {
+        "html": "<table id=\"production-numbers-table\">\n<tbody>\n\t<tr>\n\t\t<td>Monza</td>\n\t\t<td>163,833</td>\n\t</tr>\n\t\t<td><b>Total Production</b></td>\n\t\t<td><b>163,833</b></td>\n\t</tr>\n</tbody>\n</table>"
+      }
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "html",
+      {
+        "html": "<table id=\"performance-specs-table\">\n<tbody>\n\t<tr>\n\t\t<th><b>Engine</b></th>\n\t\t<th><b>Size</b></td>\n\t\t<th><b>Carb.</b></td>\n\t\t<th><b>HP</b></td>\n\t\t<th><b>Torque</b></td>\n\t\t<th><b>0 to 60</b></td>\n\t\t<th><b>Quarter mile</b></td>\n\t</tr>\n\t<tr>\n\t\t<td>151</td>\n\t\t<td>151ci</td>\n\t\t<td>1x2bbl</td>\n\t\t<td>90</td>\n\t\t<td>128 lb-ft</td>\n\t\t<td>13.7 sec</td>\n\t\t<td>19.7 sec at 71 mph</td>\n\t</tr>\n\t<tr>\n\t\t<td>156</td>\n\t\t<td>156ci</td>\n\t\t<td>1x2bbl</td>\n\t\t<td>105</td>\n\t\t<td>160 lb-ft</td>\n\t\t<td>-</td>\n\t\t<td>-</td>\n\t</tr>\n\t<tr>\n\t\t<td>231</td>\n\t\t<td>231ci</td>\n\t\t<td>1x2bbl</td>\n\t\t<td>115</td>\n\t\t<td>190 lb-ft</td>\n\t\t<td>10.3 sec</td>\n\t\t<td>17.8 sec at 76 mph</td>\n\t</tr>\n\t<tr>\n\t\t<td>305</td>\n\t\t<td>305ci</td>\n\t\t<td>1x2bbl</td>\n\t\t<td>130</td>\n\t\t<td>245 lb-ft</td>\n\t\t<td>10.7 sec</td>\n\t\t<td>18.0 at 76 mph</td>\n\t</tr>\n</tbody>\n</table>"
+      }
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "html",
+      {
+        "html": "<h4 id='colors-sub-heading'>Exterior</h4>\n<div class=\"colors-row\">\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #fefefe\"></div>\n        <div class=\"color-name\">Classic White</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #fcfdf1\"></div>\n        <div class=\"color-name\">White</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #b6c7ce\"></div>\n        <div class=\"color-name\">Silver</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #53646c\"></div>\n        <div class=\"color-name\">Gray</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #dffcff\"></div>\n        <div class=\"color-name\">Pastel Blue</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #88aec8\"></div>\n        <div class=\"color-name\">Light Blue</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #0382b8\"></div>\n        <div class=\"color-name\">Bright Blue</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #d0eef9\"></div>\n        <div class=\"color-name\">Front Blue</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #c09e74\"></div>\n        <div class=\"color-name\">Caramel Firemist</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #630000\"></div>\n        <div class=\"color-name\">Dark Red</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #a2c5d9\"></div>\n        <div class=\"color-name\">Medium Blue</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #cebb91\"></div>\n        <div class=\"color-name\">Medium Beige</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #c0c0b2\"></div>\n        <div class=\"color-name\">Beige</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #d2d2c7\"></div>\n        <div class=\"color-name\">Oyster White</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #cad5b5\"></div>\n        <div class=\"color-name\">Pastel Green</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #024a67\"></div>\n        <div class=\"color-name\">Dark Aqua</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #6f8868\"></div>\n        <div class=\"color-name\">Medium Green</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #cedde8\"></div>\n        <div class=\"color-name\">Indy Silver</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #000000\"></div>\n        <div class=\"color-name\">Blackwatch Green</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #9d8c5e\"></div>\n        <div class=\"color-name\">Special Edition Gold</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #eed65f\"></div>\n        <div class=\"color-name\">Bright Yellow</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #f3d83e\"></div>\n        <div class=\"color-name\">Yellow</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #f5e2a8\"></div>\n        <div class=\"color-name\">Light Yellow</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #af9d6f\"></div>\n        <div class=\"color-name\">Gold</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #b99f7d\"></div>\n        <div class=\"color-name\">Burnished Gold</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #000008\"></div>\n        <div class=\"color-name\">Dark Green</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #f3e4c7\"></div>\n        <div class=\"color-name\">Frost Beige</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #b9a988\"></div>\n        <div class=\"color-name\">Medium Beige</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #f0deb6\"></div>\n        <div class=\"color-name\">Pastel Beige</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #996e4b\"></div>\n        <div class=\"color-name\">Camel</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #010130\"></div>\n        <div class=\"color-name\">Dark Blue</div>\n    </div>\n</div>\n\n<h4 id='colors-sub-heading'>Interior</h4>\n<div class=\"colors-row\">\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #fffff6\"></div>\n        <div class=\"color-name\">White</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #d5d5cd\"></div>\n        <div class=\"color-name\">Oyster White</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #547a8c\"></div>\n        <div class=\"color-name\">Blue</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #1e5b71\"></div>\n        <div class=\"color-name\">Light Blue</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #002f55\"></div>\n        <div class=\"color-name\">Dark Blue</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #01001e\"></div>\n        <div class=\"color-name\">Midnight Blue</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #c8ae8a\"></div>\n        <div class=\"color-name\">DoeSkin</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #784a3d\"></div>\n        <div class=\"color-name\">Saddle</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #947352\"></div>\n        <div class=\"color-name\">Camel Tan</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #6f533d\"></div>\n        <div class=\"color-name\">Dark Camel Tanel</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #56574b\"></div>\n        <div class=\"color-name\">Dark Gold</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #011632\"></div>\n        <div class=\"color-name\">Dark Brown</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #7e8b93\"></div>\n        <div class=\"color-name\">Light Gray</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #8a9ba2\"></div>\n        <div class=\"color-name\">Slate Gray</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #4f5c62\"></div>\n        <div class=\"color-name\">Dark Gray</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #4e6471\"></div>\n        <div class=\"color-name\">Dark Slate Gray</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #00516a\"></div>\n        <div class=\"color-name\">Dark Aqua</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #375e4c\"></div>\n        <div class=\"color-name\">Dark William Green</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #380a31\"></div>\n        <div class=\"color-name\">Dark Cedar</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #570031\"></div>\n        <div class=\"color-name\">Dark Carmine</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #91002e\"></div>\n        <div class=\"color-name\">Medium Red</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #f0dda6\"></div>\n        <div class=\"color-name\">Light Yellow</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #847e5a\"></div>\n        <div class=\"color-name\">Yellow</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #595d4e\"></div>\n        <div class=\"color-name\">Dark Yellow</div>\n    </div>\n</div>\n"
+      }
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "gallery",
+      {
+        "images": [
+          {
+            "fileName": "3400_1979_Chevrolet_Monza-01_low_res.jpg",
+            "row": 0,
+            "width": 650,
+            "height": 850,
+            "src": "__GHOST_URL__/content/images/2020/08/3400_1979_Chevrolet_Monza-01_low_res.jpg"
+          },
+          {
+            "fileName": "3401_1979_Chevrolet_Monza-02_low_res.jpg",
+            "row": 0,
+            "width": 790,
+            "height": 510,
+            "src": "__GHOST_URL__/content/images/2020/08/3401_1979_Chevrolet_Monza-02_low_res.jpg"
+          },
+          {
+            "fileName": "3402_1979_Chevrolet_Monza-03_low_res.jpg",
+            "row": 0,
+            "width": 790,
+            "height": 503,
+            "src": "__GHOST_URL__/content/images/2020/08/3402_1979_Chevrolet_Monza-03_low_res.jpg"
+          },
+          {
+            "fileName": "3403_1979_Chevrolet_Monza-04_low_res.jpg",
+            "row": 1,
+            "width": 790,
+            "height": 505,
+            "src": "__GHOST_URL__/content/images/2020/08/3403_1979_Chevrolet_Monza-04_low_res.jpg"
+          },
+          {
+            "fileName": "3404_1979_Chevrolet_Monza-05_low_res.jpg",
+            "row": 1,
+            "width": 790,
+            "height": 507,
+            "src": "__GHOST_URL__/content/images/2020/08/3404_1979_Chevrolet_Monza-05_low_res.jpg"
+          },
+          {
+            "fileName": "3405_1979_Chevrolet_Monza-06_low_res.jpg",
+            "row": 1,
+            "width": 664,
+            "height": 850,
+            "src": "__GHOST_URL__/content/images/2020/08/3405_1979_Chevrolet_Monza-06_low_res.jpg"
+          },
+          {
+            "fileName": "3406_1979_Chevrolet_Monza-07_low_res.jpg",
+            "row": 2,
+            "width": 655,
+            "height": 850,
+            "src": "__GHOST_URL__/content/images/2020/08/3406_1979_Chevrolet_Monza-07_low_res.jpg"
+          },
+          {
+            "fileName": "3407_1979_Chevrolet_Monza-08_low_res.jpg",
+            "row": 2,
+            "width": 663,
+            "height": 850,
+            "src": "__GHOST_URL__/content/images/2020/08/3407_1979_Chevrolet_Monza-08_low_res.jpg"
+          }
+        ],
+        "caption": "1979 Chevrolet Monza OEM Brochures"
+      }
+    ],
+    [
+      "hr",
+      {}
+    ]
+  ],
+  "markups": [
+    [
+      "strong"
+    ],
+    [
+      "em"
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/tag/research/"
+      ]
+    ]
+  ],
+  "sections": [
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Overview"
+        ]
+      ]
+    ],
+    [
+      10,
+      0
+    ],
+    [
+      1,
+      "h3",
+      [
+        [
+          0,
+          [],
+          0,
+          "The Chevrolet Monza was a subcompact, four-passenger automobile produced by the Chevrolet division of General Motors for the 1975–1980 model years. The Monza is based on the Chevrolet Vega, sharing its wheelbase, width and 140 CID inline-4 engine."
+        ]
+      ]
+    ],
+    [
+      10,
+      1
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "The Chevrolet Monza was a subcompact, four-passenger automobile produced by the Chevrolet division of General Motors for the 1975–1980 model years. The Monza is based on the Chevrolet Vega, sharing its wheelbase, width and 140 CID inline-4 engine."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "The 1979 Chevrolet Monza lineup contained only four models. Added standard equipment for 1979 included an AM radio, tinted glass, body side moldings, and sport steering wheel. Only one Monza model kept the sloped Euro-look front end, the 2+2 Sport hatchback. Others had a freshened grille."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "A more-potent standard 151-cubic-inch four-cylinder with a redesigned cross-flow cylinder head and two-barrel carburetor developed 90-horsepower, five more than in 1978. Three optional engines were available: the 105-horsepower 196-cubic-inch V-6, 115-horsepower 231 V-6, or 130-horsepower 305 V-8. Discontinued at the end of the 1979 model year were the Monza wagon, the 196 CID V6 and the 305 CI V8."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "The Spyder performance package cost $164.00, the Spyder appearance package added $231.00. All Monzas had a color-keyed instrument panel, and all except the base coupe had a center console."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Sales, however, climbed to nearly 164,000 cars, compared with 138,832. The 1979 Chevrolet Monza continued to appeal to first-time car buyers in particular, thanks to prices starting at a reasonable $3,850."
+        ]
+      ]
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Production Numbers"
+        ]
+      ]
+    ],
+    [
+      10,
+      2
+    ],
+    [
+      10,
+      3
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Performance Specs"
+        ]
+      ]
+    ],
+    [
+      10,
+      4
+    ],
+    [
+      10,
+      5
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Transmission"
+        ]
+      ]
+    ],
+    [
+      10,
+      6
+    ],
+    [
+      3,
+      "ul",
+      [
+        [
+          [
+            0,
+            [
+              0,
+              0
+            ],
+            2,
+            "3-Speed Automatic"
+          ]
+        ],
+        [
+          [
+            0,
+            [
+              0,
+              0
+            ],
+            2,
+            "4-Speed Manual"
+          ]
+        ],
+        [
+          [
+            0,
+            [
+              0,
+              0
+            ],
+            2,
+            "5-Speed Manual"
+          ]
+        ]
+      ]
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Paint & Colors"
+        ]
+      ]
+    ],
+    [
+      10,
+      7
+    ],
+    [
+      10,
+      8
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "OEM Brochures"
+        ]
+      ]
+    ],
+    [
+      10,
+      9
+    ],
+    [
+      10,
+      10
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "About the Knowledge Base"
+        ]
+      ]
+    ],
+    [
+      10,
+      11
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "The Motorious Knowledge Base provides a comprehensive vehicle overview for the 1979 Chevrolet Monza"
+        ],
+        [
+          0,
+          [
+            1,
+            1
+          ],
+          2,
+          " "
+        ],
+        [
+          0,
+          [],
+          0,
+          "including production numbers, performance specs, factory colors, and OEM brochures. Check out additional model years or related content linked to this article or view other Makes and Models in our "
+        ],
+        [
+          0,
+          [
+            2
+          ],
+          1,
+          "Research"
+        ],
+        [
+          0,
+          [],
+          0,
+          " center."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "If you have any interesting facts about the 1979 Chevrolet Monza"
+        ],
+        [
+          0,
+          [
+            1,
+            1
+          ],
+          2,
+          " "
+        ],
+        [
+          0,
+          [],
+          0,
+          "to add, want to tell us how we did covering the Monza, or want to tell us about yours, please leave a comment below."
+        ]
+      ]
+    ]
+  ],
+  "ghostVersion": "3.0"
+}

@@ -1,0 +1,637 @@
+{
+  "version": "0.3.1",
+  "atoms": [],
+  "cards": [
+    [
+      "image",
+      {
+        "src": "__GHOST_URL__/content/images/2021/06/kevin-bc.JPG",
+        "width": 2016,
+        "height": 1512,
+        "caption": "Kevin presenting his app's tech stack."
+      }
+    ],
+    [
+      "image",
+      {
+        "src": "__GHOST_URL__/content/images/2021/06/nikki-bc-1.JPG",
+        "width": 1280,
+        "height": 966,
+        "caption": "Nikki demoing her app."
+      }
+    ],
+    [
+      "image",
+      {
+        "src": "__GHOST_URL__/content/images/2021/06/adrian-bc.JPG",
+        "width": 1280,
+        "height": 1235,
+        "caption": "Adrian discussing his tech stack."
+      }
+    ],
+    [
+      "image",
+      {
+        "src": "__GHOST_URL__/content/images/2021/06/rue-bc.JPG",
+        "width": 1280,
+        "height": 1103,
+        "caption": "Rue answering questions after presenting his project."
+      }
+    ],
+    [
+      "image",
+      {
+        "src": "__GHOST_URL__/content/images/2021/06/vitoria-bc.JPG",
+        "width": 1280,
+        "height": 1013,
+        "caption": "Vitoria introducing herself at the start of her presentation."
+      }
+    ],
+    [
+      "image",
+      {
+        "src": "__GHOST_URL__/content/images/2021/06/jonah-bc.JPG",
+        "width": 1280,
+        "height": 1039,
+        "caption": "Jonah discussing his next steps for TManager."
+      }
+    ],
+    [
+      "embed",
+      {
+        "url": "https://www.youtube.com/watch?v=cHadBgWG_5Q",
+        "html": "<iframe width=\"200\" height=\"113\" src=\"https://www.youtube.com/embed/cHadBgWG_5Q?feature=oembed\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+        "type": "video",
+        "metadata": {
+          "title": "Spring 2021 Student Presentations",
+          "author_name": "Boca Code",
+          "author_url": "https://www.youtube.com/channel/UCxkH4dyPPVuuqaqq8lau8-g",
+          "height": 113,
+          "width": 200,
+          "version": "1.0",
+          "provider_name": "YouTube",
+          "provider_url": "https://www.youtube.com/",
+          "thumbnail_height": 360,
+          "thumbnail_width": 480,
+          "thumbnail_url": "https://i.ytimg.com/vi/cHadBgWG_5Q/hqdefault.jpg"
+        }
+      }
+    ]
+  ],
+  "markups": [
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/boca-code-developing-software-engineers-for-florida-startups/"
+      ]
+    ],
+    [
+      "strong"
+    ],
+    [
+      "a",
+      [
+        "href",
+        "http://hodl-good.s3-website-us-east-1.amazonaws.com"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://adoptablesfl.web.app"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://mindsapphire.com"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "http://majorlinkx.io-app.s3-website-us-east-1.amazonaws.com"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://meditation-app-vr.web.app"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://tmanager-web.web.app"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://play.google.com/store/apps/details?id=com.jbro129.tmanager&hl=en_US&gl=US"
+      ]
+    ],
+    [
+      "em"
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://bocacode.com/courses/career/software-engineering"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/plus/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/join-our-members-only-discord/"
+      ]
+    ]
+  ],
+  "sections": [
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "I've written about Boca Code before and the great work they're doing educating and developing (pun intended) the "
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "next generation of software engineers"
+        ],
+        [
+          0,
+          [],
+          0,
+          ". Yesterday, I was invited to attend the school's second 10-week cohort graduation where they graduated six new software engineers, and I have to say I'm hella impressed. "
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Here's an overview of the six student's projects (all of these are full stack applications, meaning they include a frontend, backend, API, and database):"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [
+            1
+          ],
+          1,
+          "Kevin Choi"
+        ],
+        [
+          0,
+          [],
+          0,
+          " -"
+        ],
+        [
+          0,
+          [
+            1
+          ],
+          1,
+          " "
+        ],
+        [
+          0,
+          [
+            2
+          ],
+          1,
+          "HODL GOOD"
+        ],
+        [
+          0,
+          [],
+          0,
+          " - log crypto purchases and calculate average cost. "
+        ]
+      ]
+    ],
+    [
+      10,
+      0
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "I was impressed with Kevin's project's website, it's clean and stylish. I'm excited to see him continue to develop this app as I see a lot of value in it. I'd love to see him add the ability to import data from third-party accounts (e.g. Coinbase, Robinhood, other wallets) in real time. "
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [
+            1
+          ],
+          1,
+          "Nikki Allen"
+        ],
+        [
+          0,
+          [],
+          0,
+          " - "
+        ],
+        [
+          0,
+          [
+            3
+          ],
+          1,
+          "Adoptable South Florida"
+        ],
+        [
+          0,
+          [],
+          0,
+          " - adopt out more cats with honest descriptions in one place."
+        ]
+      ]
+    ],
+    [
+      10,
+      1
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "As a cat daddy myself, I loved seeing Nikki's project and can't wait to see her add even more to it. Her future plans include giving rescues more control over listings, getting more rescues involved, and adding the ability to add multiple photos as well as take adoption applications. "
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [
+            1
+          ],
+          1,
+          "Adrian Perdomo"
+        ],
+        [
+          0,
+          [],
+          0,
+          " - "
+        ],
+        [
+          0,
+          [
+            4
+          ],
+          1,
+          "Mind Sapphire"
+        ],
+        [
+          0,
+          [],
+          0,
+          " - because your happiness is worth it."
+        ]
+      ]
+    ],
+    [
+      10,
+      2
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Adrian's project is really neat, I love the use of CSS on the site's homepage. I also love the cause, which is to help people suffering with Bipolar by allowing them to easily track their moods. "
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [
+            1
+          ],
+          1,
+          "Rue Johnson"
+        ],
+        [
+          0,
+          [],
+          0,
+          " - "
+        ],
+        [
+          0,
+          [
+            5
+          ],
+          1,
+          "MajorLinkx"
+        ],
+        [
+          0,
+          [],
+          0,
+          " - artist/producer info in one place."
+        ]
+      ]
+    ],
+    [
+      10,
+      3
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "I have to give Rue real props for tying his interest in music production into his final project. Rue decided to tackle the problem that many artists face: getting their content in front of their fans. That's where MajorLinkx comes in, it's a hub for artists to aggregate their social accounts. "
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [
+            1
+          ],
+          1,
+          "Vitoria Roas"
+        ],
+        [
+          0,
+          [],
+          0,
+          " - "
+        ],
+        [
+          0,
+          [
+            6
+          ],
+          1,
+          "Mindful Space"
+        ],
+        [
+          0,
+          [],
+          0,
+          " - meditation for beginners. "
+        ]
+      ]
+    ],
+    [
+      10,
+      4
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Vitoria built a great app that lets you meditate for 30 seconds – giving people an opportunity to get started with meditation and log it in a journal. "
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [
+            1
+          ],
+          1,
+          "Jonah Allen"
+        ],
+        [
+          0,
+          [],
+          0,
+          " - "
+        ],
+        [
+          0,
+          [
+            7
+          ],
+          1,
+          "TManager"
+        ],
+        [
+          0,
+          [],
+          0,
+          " - A hub for Terraria users to find worlds, modded players, insane builds, custom world seeds, awesome servers, and news. "
+        ]
+      ]
+    ],
+    [
+      10,
+      5
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Jonah's project was really freakin' cool, he built a completely new website based on an existing project of his, "
+        ],
+        [
+          0,
+          [
+            8
+          ],
+          1,
+          "TManager for Android"
+        ],
+        [
+          0,
+          [],
+          0,
+          ". With the new version, he built it utilizing new web technologies including Node, React, Firebase, and FireStore. I'm stoked to see how Jonah moves his new site forward with an account system and a way for users to submit their own content directly. "
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "You can watch the complete video of the presentations below:"
+        ]
+      ]
+    ],
+    [
+      10,
+      6
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "This is seriously incredible, some of these students had "
+        ],
+        [
+          0,
+          [
+            9
+          ],
+          1,
+          "zero coding knowledge"
+        ],
+        [
+          0,
+          [],
+          0,
+          " or skills prior to this course and they all built functional, full stack apps. A couple of them even added some more advanced functionality into their apps. For example, Jonah's app will show you instructions based on your operating system (as the steps vary between devices) and Rue's app lets you link your social accounts without having to include the full URL, you just need your username. That's not an automatic given, it requires extra coding – so am I impressed? You bet. These six individuals are well on their way to becoming productive software engineers. "
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "If you're interested in learning to code, you can "
+        ],
+        [
+          0,
+          [
+            10
+          ],
+          1,
+          "signup for the 10-week course"
+        ],
+        [
+          0,
+          [],
+          0,
+          " yourself. Boca Code also offers a number of great scholarship opportunities so there's no reason not to do it!"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Lastly, if you like what we're doing here at BestTechie, please consider a "
+        ],
+        [
+          0,
+          [
+            11
+          ],
+          1,
+          "BestTechie Plus membership"
+        ],
+        [
+          0,
+          [],
+          0,
+          " option to show your support and get even more value (including gaining access to the "
+        ],
+        [
+          0,
+          [
+            12
+          ],
+          1,
+          "BestTechie Discord"
+        ],
+        [
+          0,
+          [],
+          0,
+          ")!"
+        ]
+      ]
+    ]
+  ],
+  "ghostVersion": "4.0"
+}

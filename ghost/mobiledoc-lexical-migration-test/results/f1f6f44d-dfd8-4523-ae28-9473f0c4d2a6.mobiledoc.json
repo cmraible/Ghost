@@ -1,0 +1,603 @@
+{
+  "version": "0.3.1",
+  "atoms": [
+    [
+      "soft-return",
+      "",
+      {}
+    ],
+    [
+      "soft-return",
+      "",
+      {}
+    ]
+  ],
+  "cards": [
+    [
+      "hr",
+      {}
+    ],
+    [
+      "image",
+      {
+        "src": "__GHOST_URL__/content/images/2020/08/fuku-google-11-1.jpg",
+        "width": 1000,
+        "height": 502,
+        "cardWidth": "wide",
+        "caption": "A Nissan Skyline GT-R"
+      }
+    ],
+    [
+      "image",
+      {
+        "src": "__GHOST_URL__/content/images/2020/08/fukushima-porsche.jpg",
+        "width": 2000,
+        "height": 1333,
+        "cardWidth": "wide"
+      }
+    ],
+    [
+      "image",
+      {
+        "src": "__GHOST_URL__/content/images/2020/08/fukushima-1962-impala.jpg",
+        "width": 1600,
+        "height": 1067,
+        "cardWidth": "wide",
+        "caption": "1962 Chevrolet Impala"
+      }
+    ],
+    [
+      "image",
+      {
+        "src": "__GHOST_URL__/content/images/2020/08/fukushima-cars.jpg",
+        "width": 1600,
+        "height": 1067,
+        "cardWidth": "wide",
+        "caption": "Rears of the 1962 Impala and a 1990s Lincoln Town Car"
+      }
+    ],
+    [
+      "image",
+      {
+        "src": "__GHOST_URL__/content/images/2020/08/fukushima-cadillac.jpg",
+        "width": 1600,
+        "height": 1067,
+        "cardWidth": "wide",
+        "caption": "Cadillac Fleetwood Brougham"
+      }
+    ],
+    [
+      "image",
+      {
+        "src": "__GHOST_URL__/content/images/2020/08/fukushima-2.jpg",
+        "width": 960,
+        "height": 577,
+        "cardWidth": "wide"
+      }
+    ],
+    [
+      "image",
+      {
+        "src": "__GHOST_URL__/content/images/2020/08/fukushima-mercedes.jpg",
+        "width": 1959,
+        "height": 1102,
+        "cardWidth": "wide"
+      }
+    ],
+    [
+      "image",
+      {
+        "src": "__GHOST_URL__/content/images/2020/08/fukushima-gtr-spec.jpg",
+        "width": 960,
+        "height": 540,
+        "cardWidth": "wide"
+      }
+    ],
+    [
+      "gallery",
+      {
+        "images": [
+          {
+            "fileName": "fuku-google-2.jpg",
+            "row": 0,
+            "width": 1000,
+            "height": 537,
+            "src": "__GHOST_URL__/content/images/2020/08/fuku-google-2-1.jpg"
+          },
+          {
+            "fileName": "fuku-google-3.jpg",
+            "row": 0,
+            "width": 1000,
+            "height": 609,
+            "src": "__GHOST_URL__/content/images/2020/08/fuku-google-3-1.jpg"
+          },
+          {
+            "fileName": "fuku-google-4.jpg",
+            "row": 0,
+            "width": 1000,
+            "height": 681,
+            "src": "__GHOST_URL__/content/images/2020/08/fuku-google-4-1.jpg"
+          },
+          {
+            "fileName": "fuku-google-5.jpg",
+            "row": 1,
+            "width": 1000,
+            "height": 573,
+            "src": "__GHOST_URL__/content/images/2020/08/fuku-google-5-1.jpg"
+          },
+          {
+            "fileName": "fuku-google-6.jpg",
+            "row": 1,
+            "width": 1000,
+            "height": 299,
+            "src": "__GHOST_URL__/content/images/2020/08/fuku-google-6-1.jpg"
+          },
+          {
+            "fileName": "fuku-google-7.jpg",
+            "row": 1,
+            "width": 1000,
+            "height": 662,
+            "src": "__GHOST_URL__/content/images/2020/08/fuku-google-7-1.jpg"
+          },
+          {
+            "fileName": "fuku-google-9.jpg",
+            "row": 2,
+            "width": 1000,
+            "height": 603,
+            "src": "__GHOST_URL__/content/images/2020/08/fuku-google-9-1.jpg"
+          },
+          {
+            "fileName": "fuku-google-10.jpg",
+            "row": 2,
+            "width": 1000,
+            "height": 628,
+            "src": "__GHOST_URL__/content/images/2020/08/fuku-google-10-1.jpg"
+          },
+          {
+            "fileName": "fuku-google-12.jpg",
+            "row": 2,
+            "width": 911,
+            "height": 609,
+            "src": "__GHOST_URL__/content/images/2020/08/fuku-google-12.jpg"
+          }
+        ]
+      }
+    ],
+    [
+      "gallery",
+      {
+        "images": [
+          {
+            "fileName": "fuku-google.jpg",
+            "row": 0,
+            "width": 1000,
+            "height": 630,
+            "src": "__GHOST_URL__/content/images/2020/08/fuku-google.jpg"
+          },
+          {
+            "fileName": "fukushima-350z.jpg",
+            "row": 0,
+            "width": 960,
+            "height": 644,
+            "src": "__GHOST_URL__/content/images/2020/08/fukushima-350z.jpg"
+          },
+          {
+            "fileName": "fukushima-fairlady.jpg",
+            "row": 0,
+            "width": 960,
+            "height": 649,
+            "src": "__GHOST_URL__/content/images/2020/08/fukushima-fairlady.jpg"
+          },
+          {
+            "fileName": "fukushima-hearse.jpg",
+            "row": 1,
+            "width": 1600,
+            "height": 1067,
+            "src": "__GHOST_URL__/content/images/2020/08/fukushima-hearse.jpg"
+          },
+          {
+            "fileName": "fukushima-highway.jpg",
+            "row": 1,
+            "width": 600,
+            "height": 387,
+            "src": "__GHOST_URL__/content/images/2020/08/fukushima-highway.jpg"
+          },
+          {
+            "fileName": "fukushima-honda-truck.jpg",
+            "row": 1,
+            "width": 740,
+            "height": 451,
+            "src": "__GHOST_URL__/content/images/2020/08/fukushima-honda-truck.jpg"
+          },
+          {
+            "fileName": "fukushima-jaguar.jpg",
+            "row": 2,
+            "width": 1959,
+            "height": 1102,
+            "src": "__GHOST_URL__/content/images/2020/08/fukushima-jaguar.jpg"
+          },
+          {
+            "fileName": "fukushima-nissan.jpg",
+            "row": 2,
+            "width": 1000,
+            "height": 609,
+            "src": "__GHOST_URL__/content/images/2020/08/fukushima-nissan.jpg"
+          }
+        ]
+      }
+    ]
+  ],
+  "markups": [
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/articles/features-3/wildest-stolen-car-stories/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/articles/news/abandoned-camaro-z28/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/articles/news/this-shop-is-jdm-eye-candy-galore/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/articles/handpicked/1976-porsche-911-s-signature/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/articles/news/this-isnt-just-another-mercedes-300sl/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/articles/handpicked/chevy-impala-482/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.obsidianurbexphotography.com/other/fukushima-abandoned-cars-japan-haikyo/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://buy.motorious.com/articles/news/374651/1982-chevrolet-corvette-rescued/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/articles/handpicked/2015-superlite-gtr/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/articles/news/next-generation-nissan-z-car/"
+      ]
+    ]
+  ],
+  "sections": [
+    [
+      1,
+      "h3",
+      [
+        [
+          0,
+          [],
+          0,
+          "The nuclear accident left cars abandoned as is only to be reclaimed by Mother Nature, and the sight is undoubtedly sad."
+        ]
+      ]
+    ],
+    [
+      10,
+      0
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Declared the most severe nuclear accident since Chernobyl in 1986, the Fukushima disaster happened on March 11th, 2011 after the Tōhoku earthquake and 14-meter-high tsunami disabled the power supply and cooling of three Fukushima Daiichi reactors. All three cores melted within the first three days. This was the only other disaster besides Chernobyl to be classified as a Level 7 on the International Nuclear Event Scale. In the days following the disaster, 150,000 residents in a 20-kilometer area surrounding the plant were forced to evacuate due to radiation released into the atmosphere. The installed 20-kilometer exclusion zone still has almost every building and business remaining vacant, and "
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "plenty of cars"
+        ],
+        [
+          0,
+          [],
+          0,
+          " were "
+        ],
+        [
+          0,
+          [
+            1
+          ],
+          1,
+          "abandoned"
+        ],
+        [
+          0,
+          [],
+          0,
+          " as well with everything now being reclaimed by Mother Nature."
+        ]
+      ]
+    ],
+    [
+      10,
+      1
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Here are some of the cars abandoned in Fukushima with some being highly desired examples that car enthusiasts could dream of having, especially those with a strong love for "
+        ],
+        [
+          0,
+          [
+            2
+          ],
+          1,
+          "JDM"
+        ],
+        [
+          0,
+          [],
+          0,
+          " (considering that this disaster happened in Japan). However, a "
+        ],
+        [
+          0,
+          [
+            3
+          ],
+          1,
+          "Porsche"
+        ],
+        [
+          0,
+          [],
+          0,
+          ", "
+        ],
+        [
+          0,
+          [
+            4
+          ],
+          1,
+          "Mercedes"
+        ],
+        [
+          0,
+          [],
+          0,
+          ", and even a 1962 "
+        ],
+        [
+          0,
+          [
+            5
+          ],
+          1,
+          "Chevy Impala"
+        ],
+        [
+          0,
+          [],
+          0,
+          " were also left abandoned to the elements."
+        ]
+      ]
+    ],
+    [
+      10,
+      2
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [
+            6
+          ],
+          1,
+          "Obsidian Urbex Photography"
+        ],
+        [
+          0,
+          [],
+          0,
+          " captured some stunning and eerie images of some of these "
+        ],
+        [
+          0,
+          [
+            7
+          ],
+          1,
+          "abandoned"
+        ],
+        [
+          0,
+          [],
+          0,
+          " Fukushima cars."
+        ]
+      ]
+    ],
+    [
+      10,
+      3
+    ],
+    [
+      10,
+      4
+    ],
+    [
+      10,
+      5
+    ],
+    [
+      10,
+      6
+    ],
+    [
+      10,
+      7
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "A modified Mercedes left abandoned in a parking spot. Mother Nature is starting to reclaim her territory."
+        ]
+      ]
+    ],
+    [
+      10,
+      8
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Google even crept in to the site and has driven down the streets every year, and they took photos of these abandoned gems that will likely never move from these spots ever again."
+        ]
+      ]
+    ],
+    [
+      10,
+      9
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Within the exclusion zone of Fukushima, there are plenty of cars that will likely and unfortunately remain in the same spot forever more including a Mazda RX-7, plenty of "
+        ],
+        [
+          0,
+          [
+            8
+          ],
+          1,
+          "GT-Rs"
+        ],
+        [
+          0,
+          [],
+          0,
+          ", a "
+        ],
+        [
+          0,
+          [
+            9
+          ],
+          1,
+          "Nissan"
+        ],
+        [
+          0,
+          [],
+          0,
+          " 350-Z, and more. No matter what car category you fall into, we can all agree as car enthusiasts that this is an incredibly sad sight."
+        ]
+      ]
+    ],
+    [
+      10,
+      10
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Rest in peace."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          1,
+          [],
+          0,
+          0
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          1,
+          [],
+          0,
+          1
+        ]
+      ]
+    ]
+  ],
+  "ghostVersion": "3.0"
+}

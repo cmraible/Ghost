@@ -1,0 +1,418 @@
+{
+  "version": "0.3.1",
+  "atoms": [],
+  "cards": [
+    [
+      "hr",
+      {}
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "html",
+      {
+        "html": "<table id=\"production-numbers-table\">\n<tbody>\n\t<tr>\n\t\t<td>2-DR Sedan</td>\n\t\t<td>256,182</td>\n\t</tr>\n    \t<tr>\n\t\t<td>4-DR Sedan</td>\n\t\t<td>491,441</td>\n\t</tr>\n    \t<tr>\n\t\t<td>4-DR Station Wagon</td>\n\t\t<td>170,473</td>\n\t</tr>\n    \t<tr>\n\t\t<td>Sport Coupe</td>\n\t\t<td>145,592</td>\n\t</tr>\n    \t<tr>\n\t\t<td>Sport Sedan</td>\n\t\t<td>83,330</td>\n\t</tr>\n    \t<tr>\n\t\t<td>Convertible</td>\n\t\t<td>55,989</td>\n\t</tr>\n    \t<tr>\n\t\t<td>2-DR Station Wagon</td>\n\t\t<td>16,590</td>\n\t</tr>\n\t\t<td><b>Total Production</b></td>\n\t\t<td><b>1,216,597</b></td>\n\t</tr>\n</tbody>\n</table>"
+      }
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "html",
+      {
+        "html": "<table id=\"performance-specs-table\">\n<tbody>\n\t<tr>\n\t\t<th><b>Engine</b></th>\n\t\t<th><b>Size</b></td>\n\t\t<th><b>Carb.</b></td>\n\t\t<th><b>HP</b></td>\n\t\t<th><b>Torque</b></td>\n\t</tr>\n\t<tr>\n\t\t<td>I-6</td>\n\t\t<td>235.5td>\n\t\t<td>1x2bl</td>\n\t\t<td>145td>\n\t\t<td>215-ft</td>\n\t</tr>\n\t<tr>\n\t\t<td>V8</td>\n\t\t<td>283</td>\n\t\t<td>1x2bbl</td>\n\t\t<td>185</td>\n\t\t<td>275-ft</td>\n\t</tr>\n\t<tr>\n        <td>V8</td>\n\t\t<td>283</td>\n\t\t<td>1x4bbl/Ramjet FL</td>\n\t\t<td>230/250</td>\n\t\t<td>300/305 lb-ft</td>\n\t</tr>\n\t<tr>\n\t\t<td>V8</td>\n\t\t<td>283ci</td>\n\t\t<td>-</td>\n\t\t<td>290</td>\n\t\t<td>-</td>\n\t</tr>\n\t<tr>\n\t\t<td>V8</td>\n\t\t<td>348ci</td>\n\t\t<td>1x4bbl</td>\n\t\t<td>250</td>\n\t\t<td>355 lb-ft</td>\n\t</tr>\n\t<tr>\n\t\t<td>V8</td>\n\t\t<td>348ci</td>\n\t\t<td>1x2bbl/3x2bbl</td>\n\t\t<td>280/315</td>\n\t\t<td>355/356 lb-ft</td>\n\t</tr>\n</tbody>\n</table>"
+      }
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "html",
+      {
+        "html": "<h4 id='colors-sub-heading'>Exterior</h4>\n<div class=\"colors-row\">\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #44798c\"></div>\n        <div class=\"color-name\">Aegean Aqua</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #fff4e5\"></div>\n        <div class=\"color-name\">Arctic White</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #899297\"></div>\n        <div class=\"color-name\">Inca Silver</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #44798c\"></div>\n        <div class=\"color-name\">Regal Turquoise</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #c2372d\"></div>\n        <div class=\"color-name\">Signet Red</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #fbee35\"></div>\n        <div class=\"color-name\">Panama Yellow</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #000000\"></div>\n        <div class=\"color-name\">Onyx Black</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #8ec2ba\"></div>\n        <div class=\"color-name\">Glen Green</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #365654\"></div>\n        <div class=\"color-name\">Forest Green</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #5f95bf\"></div>\n        <div class=\"color-name\">Cashmere Blue</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #284267\"></div>\n        <div class=\"color-name\">Fathom Blue</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #70a6bc\"></div>\n        <div class=\"color-name\">Tropic Turquoise</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #2f4e5c\"></div>\n        <div class=\"color-name\">Aegean Turquoise</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #937c36\"></div>\n        <div class=\"color-name\">Anniversary Gold</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #934131\"></div>\n        <div class=\"color-name\">Sierra Gold</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #c2372d\"></div>\n        <div class=\"color-name\">Rio Red</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #dddf9a\"></div>\n        <div class=\"color-name\">Colonial Cream</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #8197aa\"></div>\n        <div class=\"color-name\">Silver Blue</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #90625b\"></div>\n        <div class=\"color-name\">Clay Coral</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #fcffec\"></div>\n        <div class=\"color-name\">Snowcrest White</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #f9ecc5\"></div>\n        <div class=\"color-name\">Honey Beige</div>\n    </div>\n</div>"
+      }
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "gallery",
+      {
+        "images": [
+          {
+            "fileName": "1110_1_low_res.jpg",
+            "row": 0,
+            "width": 790,
+            "height": 370,
+            "src": "__GHOST_URL__/content/images/2020/06/1110_1_low_res.jpg"
+          },
+          {
+            "fileName": "1111_2_low_res.jpg",
+            "row": 0,
+            "width": 790,
+            "height": 375,
+            "src": "__GHOST_URL__/content/images/2020/06/1111_2_low_res.jpg"
+          },
+          {
+            "fileName": "1112_4_low_res.jpg",
+            "row": 0,
+            "width": 790,
+            "height": 375,
+            "src": "__GHOST_URL__/content/images/2020/06/1112_4_low_res.jpg"
+          },
+          {
+            "fileName": "1113_7_low_res.jpg",
+            "row": 1,
+            "width": 790,
+            "height": 375,
+            "src": "__GHOST_URL__/content/images/2020/06/1113_7_low_res.jpg"
+          },
+          {
+            "fileName": "1114_8_low_res.jpg",
+            "row": 1,
+            "width": 790,
+            "height": 380,
+            "src": "__GHOST_URL__/content/images/2020/06/1114_8_low_res.jpg"
+          },
+          {
+            "fileName": "1115_58_chevy1_low_res.jpg",
+            "row": 1,
+            "width": 388,
+            "height": 595,
+            "src": "__GHOST_URL__/content/images/2020/06/1115_58_chevy1_low_res.jpg"
+          },
+          {
+            "fileName": "1116_585_low_res.jpg",
+            "row": 2,
+            "width": 388,
+            "height": 595,
+            "src": "__GHOST_URL__/content/images/2020/06/1116_585_low_res.jpg"
+          }
+        ],
+        "caption": "1958 Chevrolet Bel Air OEM Brochures"
+      }
+    ],
+    [
+      "hr",
+      {}
+    ]
+  ],
+  "markups": [
+    [
+      "strong"
+    ],
+    [
+      "em"
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/tag/research/"
+      ]
+    ]
+  ],
+  "sections": [
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Overview"
+        ]
+      ]
+    ],
+    [
+      10,
+      0
+    ],
+    [
+      1,
+      "h3",
+      [
+        [
+          0,
+          [],
+          0,
+          "The 1958 Bel Air sported \"curves where before there were lines.\" New to the Bel Air line was the well-appointed Impala models available as either a 2-door hardtop coupe or 2-door convertible."
+        ]
+      ]
+    ],
+    [
+      10,
+      1
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "The 1958 Bel Air sported \"curves where before there were lines.\" New to the Bel Air line was the well-appointed Impala models available as either a 2-door hardtop coupe or 2-door convertible."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Also, a new 348ci V8 was available that was originally intended for trucks."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "This third-generation Bel Air lasted only one year and included a new dash, broad grilled and quad headlights that helped simulate a \"baby Cadillac;\" the tail received a fan-shaped alcove on both side panels, which housed dual taillights."
+        ]
+      ]
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Production Numbers"
+        ]
+      ]
+    ],
+    [
+      10,
+      2
+    ],
+    [
+      10,
+      3
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Performance Specs"
+        ]
+      ]
+    ],
+    [
+      10,
+      4
+    ],
+    [
+      10,
+      5
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Transmission"
+        ]
+      ]
+    ],
+    [
+      10,
+      6
+    ],
+    [
+      3,
+      "ul",
+      [
+        [
+          [
+            0,
+            [
+              0,
+              0
+            ],
+            2,
+            "3-Speed Manual"
+          ]
+        ],
+        [
+          [
+            0,
+            [
+              0,
+              0
+            ],
+            2,
+            "Powerglide Auto"
+          ]
+        ],
+        [
+          [
+            0,
+            [
+              0,
+              0
+            ],
+            2,
+            "Turboglide Auto"
+          ]
+        ]
+      ]
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Paint & Colors"
+        ]
+      ]
+    ],
+    [
+      10,
+      7
+    ],
+    [
+      10,
+      8
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "OEM Brochures"
+        ]
+      ]
+    ],
+    [
+      10,
+      9
+    ],
+    [
+      10,
+      10
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "About the Knowledge Base"
+        ]
+      ]
+    ],
+    [
+      10,
+      11
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "The Motorious Knowledge Base provides a comprehensive vehicle overview for the 1958 Chevrolet Bel Air"
+        ],
+        [
+          0,
+          [
+            1,
+            1
+          ],
+          2,
+          " "
+        ],
+        [
+          0,
+          [],
+          0,
+          "including production numbers, performance specs, factory colors, and OEM brochures. Check out additional model years or related content linked to this article or view other Makes and Models in our "
+        ],
+        [
+          0,
+          [
+            2
+          ],
+          1,
+          "Research"
+        ],
+        [
+          0,
+          [],
+          0,
+          " center."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "If you have any interesting facts about the 1958 Chevrolet Bel Air"
+        ],
+        [
+          0,
+          [
+            1,
+            1
+          ],
+          2,
+          " "
+        ],
+        [
+          0,
+          [],
+          0,
+          "to add, want to tell us how we did covering the Bel Air, or want to tell us about yours, please leave a comment below."
+        ]
+      ]
+    ]
+  ],
+  "ghostVersion": "3.0"
+}

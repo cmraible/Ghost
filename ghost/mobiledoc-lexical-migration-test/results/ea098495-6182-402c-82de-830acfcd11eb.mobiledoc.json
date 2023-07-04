@@ -1,0 +1,535 @@
+{
+  "version": "0.3.1",
+  "atoms": [],
+  "cards": [
+    [
+      "image",
+      {
+        "src": "__GHOST_URL__/content/images/2021/04/bill-gate-misinfo-mug.jpg",
+        "alt": "An anti-vaxxer mug on Etsy",
+        "title": "",
+        "caption": "An anti-vaxxer mug on Etsy"
+      }
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "bookmark",
+      {
+        "type": "bookmark",
+        "url": "https://www.dailydot.com/unclick/bitche-facebook-french-town/",
+        "metadata": {
+          "url": "https://www.dailydot.com/unclick/bitche-facebook-french-town/",
+          "title": "Facebook takes down official page for the French town of Bitche",
+          "description": "Bitche is a commune in the Moselle department of the Grand Est administrative region in northeastern France, ear Germany.",
+          "author": "Kahron Spearman",
+          "publisher": "The Daily Dot",
+          "thumbnail": "https://uploads.dailydot.com/2021/04/Ville-de-Rohrbach.jpg?auto=compress%2Cformat&ixlib=php-3.3.0",
+          "icon": "https://uploads.dailydot.com/2020/03/cropped-favicon.png?fit=fit&h=192&ixlib=php-3.3.0&w=192"
+        }
+      }
+    ]
+  ],
+  "markups": [
+    [
+      "a",
+      [
+        "href",
+        "https://www.ben-evans.com/benedictevans/2021/4/13/is-content-moderation-a-dead-end"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.danah.org/papers/talks/PDF2009.html"
+      ]
+    ],
+    [
+      "em"
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://ijnet.org/en/story/social-media-middle-east-5-things-you-need-know"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.holdthefrontpage.co.uk/2021/news/facebook-launches-new-tool-to-drive-traffic-to-regional-press-websites-embargo-05-01am-1304/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.thedrum.com/news/2021/04/13/facebook-moves-local-news-market-the-uk"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.journalism.co.uk/news/-you-re-not-writing-the-hardest-hitting-stories-but-they-will-mean-something-to-someone-/s2/a811971/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://en.wikipedia.org/wiki/Scunthorpe_problem"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.theargus.co.uk/news/19035197.facebook-labels-devils-dyke-hate-speech-error/"
+      ]
+    ]
+  ],
+  "sections": [
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Leading tech thinker Benedict Evans has written an interesting post on the "
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "inherent problems with content moderation online"
+        ],
+        [
+          0,
+          [],
+          0,
+          ". All our efforts to “clean up” misinformation seem to be having less impact than we might like. Evans argues that this is an inherent property of the internet:"
+        ]
+      ]
+    ],
+    [
+      1,
+      "blockquote",
+      [
+        [
+          0,
+          [],
+          0,
+          "The internet is people: all of society is online now, and so all of society’s problems are expressed, amplified and channeled in new ways by the internet."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "This has resonance with the ideas danah boyd was exploring over a decade ago: that the internet is an amplifying mirror of humanity. As "
+        ],
+        [
+          0,
+          [
+            1
+          ],
+          1,
+          "she wrote in 2009"
+        ],
+        [
+          0,
+          [],
+          0,
+          ":"
+        ]
+      ]
+    ],
+    [
+      1,
+      "blockquote",
+      [
+        [
+          0,
+          [],
+          0,
+          "One thing to keep in mind about social media: the internet mirrors and magnifies pre-existing dynamics. And it makes many different realities much more visible than ever before."
+        ]
+      ]
+    ],
+    [
+      1,
+      "h3",
+      [
+        [
+          0,
+          [],
+          0,
+          "The internet as a city"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Evans likens the situation to a huge city: bringing all those people together has a positive impact in terms of innovation and creative mixing, but a downside in the opportunities for crime to build networks:"
+        ]
+      ]
+    ],
+    [
+      1,
+      "blockquote",
+      [
+        [
+          0,
+          [],
+          0,
+          "Anyone can find their tribe, and in the 90s this made AOL a way for gay people to meet, but the internet is also a way for Nazis or jihadis to find each other. One could also think of big European cities before modern policing — 18th century London or Paris were awash with sin and prone to mob violence, because they were cities."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "However, the parallel he’s drawing with cities is not exact. Online policing may "
+        ],
+        [
+          0,
+          [
+            2
+          ],
+          1,
+          "not"
+        ],
+        [
+          0,
+          [],
+          0,
+          " be the way forward: reengineering our online social spaces to minimise the opportunity for bad actors might be the way to go:"
+        ]
+      ]
+    ],
+    [
+      1,
+      "blockquote",
+      [
+        [
+          0,
+          [],
+          0,
+          "Hence, I wonder how far the answers to our problems with social media are not more moderators, just as the answer to PC security was not virus scanners, but to change the model — to remove whole layers of mechanics that enable abuse. So, for example, Instagram doesn’t have links, and Clubhouse doesn’t have replies, quotes or screenshots. Email newsletters don’t seem to have virality."
+        ]
+      ]
+    ],
+    [
+      1,
+      "h3",
+      [
+        [
+          0,
+          [],
+          0,
+          "The many vectors of misinformation"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "The problem, though, is there are so many different vectors for misinformation to spread. For example, I now have a date for my first vaccine jab. In a moment of whimsy, I thought I’d head to Etsy to see if I could find a Bill Gates badge to wear for the occasion. And guess what the first result was?"
+        ]
+      ]
+    ],
+    [
+      10,
+      0
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Is it possible to close enough vectors down that the ideas find it harder to spread? When people are printing misinformation on mugs (whether for political or financial reasons), is the problem just too pervasive now? Who is analysing the role of Etsy in misinformation spread? "
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Or could this be something of a “misinformation vaccine”, and if we can use it to shut down enough transmission vectors, we reach a level of population misinformation immunity?"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "It’s an interesting thought."
+        ]
+      ]
+    ],
+    [
+      10,
+      1
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Quick Links"
+        ]
+      ]
+    ],
+    [
+      3,
+      "ul",
+      [
+        [
+          [
+            0,
+            [],
+            0,
+            "Interesting research "
+          ],
+          [
+            0,
+            [
+              3
+            ],
+            1,
+            "into social media use in the Middle East"
+          ],
+          [
+            0,
+            [],
+            0,
+            "."
+          ]
+        ],
+        [
+          [
+            0,
+            [],
+            0,
+            "Facebook’s "
+          ],
+          [
+            0,
+            [
+              4
+            ],
+            1,
+            "local news product is coming to the UK"
+          ],
+          [
+            0,
+            [],
+            0,
+            ". Hard to get too excited about this — when was the last time "
+          ],
+          [
+            0,
+            [
+              2
+            ],
+            1,
+            "you"
+          ],
+          [
+            0,
+            [],
+            0,
+            " went into the news area of Facebook? How much will they "
+          ],
+          [
+            0,
+            [
+              2
+            ],
+            1,
+            "actually"
+          ],
+          [
+            0,
+            [],
+            0,
+            " push into the feed?"
+          ]
+        ],
+        [
+          [
+            0,
+            [
+              2
+            ],
+            1,
+            "The Drum"
+          ],
+          [
+            0,
+            [],
+            0,
+            " is "
+          ],
+          [
+            0,
+            [
+              5
+            ],
+            1,
+            "more positive"
+          ],
+          [
+            0,
+            [],
+            0,
+            " — but increasing the revenue from local papers while increasing their dependence on Facebook for audience feels like a Faustian bargain to me."
+          ]
+        ],
+        [
+          [
+            0,
+            [],
+            0,
+            "Talking of Facebook and news — how much "
+          ],
+          [
+            0,
+            [
+              6
+            ],
+            1,
+            "impact did its Community News Project actually have"
+          ],
+          [
+            0,
+            [],
+            0,
+            "?"
+          ]
+        ]
+      ]
+    ],
+    [
+      10,
+      2
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "And finally…"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Facebook is busy making the sort of embarrassingly basic filtering errors that made sending emails about "
+        ],
+        [
+          0,
+          [
+            7
+          ],
+          1,
+          "Scunthorpe needlessly challenging"
+        ],
+        [
+          0,
+          [],
+          0,
+          " 20 years ago:"
+        ]
+      ]
+    ],
+    [
+      10,
+      3
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "It wasn’t long ago that Facebook was suspending people for talking about "
+        ],
+        [
+          0,
+          [
+            8
+          ],
+          1,
+          "local Sussex beauty spot Devil’s Dyke"
+        ],
+        [
+          0,
+          [],
+          0,
+          "."
+        ]
+      ]
+    ]
+  ],
+  "ghostVersion": "4.0"
+}

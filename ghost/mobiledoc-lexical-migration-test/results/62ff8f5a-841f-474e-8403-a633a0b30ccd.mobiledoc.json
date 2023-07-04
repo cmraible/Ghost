@@ -1,0 +1,293 @@
+{
+  "version": "0.3.1",
+  "atoms": [],
+  "cards": [
+    [
+      "email-cta",
+      {
+        "showButton": true,
+        "showDividers": false,
+        "segment": "status:free",
+        "alignment": "center",
+        "html": "<p><strong><em>Please <a href=\"__GHOST_URL__/subscribe\">become a paid subscriber</a>. You get exclusive podcasts, <a href=\"__GHOST_URL__/citizens-guide-to-holding-the-powerful-accountable/\">digital publications</a>, and live events like this one – and you support this journalism.</em></strong></p>",
+        "buttonText": "Subscribe ",
+        "buttonUrl": "__GHOST_URL__/subscribe/"
+      }
+    ],
+    [
+      "embed",
+      {
+        "url": "https://www.youtube.com/watch?v=RbIxYm3mKzI",
+        "html": "<iframe width=\"200\" height=\"113\" src=\"https://www.youtube.com/embed/RbIxYm3mKzI?feature=oembed\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+        "type": "video",
+        "metadata": {
+          "title": "DON'T LOOK UP | Leonardo DiCaprio, Jennifer Lawrence | Official Trailer | Netflix",
+          "author_name": "Netflix",
+          "author_url": "https://www.youtube.com/c/Netflix",
+          "height": 113,
+          "width": 200,
+          "version": "1.0",
+          "provider_name": "YouTube",
+          "provider_url": "https://www.youtube.com/",
+          "thumbnail_height": 360,
+          "thumbnail_width": 480,
+          "thumbnail_url": "https://i.ytimg.com/vi/RbIxYm3mKzI/hqdefault.jpg"
+        }
+      }
+    ],
+    [
+      "email-cta",
+      {
+        "showButton": false,
+        "showDividers": false,
+        "segment": "status:free",
+        "alignment": "left",
+        "html": "<p><em><strong>If you would like to participate in the live chat, please <a href=\"__GHOST_URL__/subscribe/\">subscribe here</a>. You will receive an email with login information for the event.</strong></em></p>"
+      }
+    ],
+    [
+      "email-cta",
+      {
+        "showButton": true,
+        "showDividers": false,
+        "segment": "status:free",
+        "alignment": "center",
+        "html": "",
+        "buttonText": "Subscribe",
+        "buttonUrl": "__GHOST_URL__/subscribe/"
+      }
+    ],
+    [
+      "html",
+      {
+        "html": "<div class=\"outpost-pub-container\" data-btn-allmembers></div>"
+      }
+    ]
+  ],
+  "markups": [
+    [
+      "em"
+    ],
+    [
+      "strong"
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.netflix.com/title/81252357"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://variety.com/2021/awards/awards/critics-choice-nominations-2021-1235131779/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://sffilm.org/sffilm-awards-2021-sloan-science-in-cinema-prize-to-adam-mckays-dont-look-up/"
+      ]
+    ]
+  ],
+  "sections": [
+    [
+      10,
+      0
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "On Wednesday 1/5 at 6 pm ET (3 pm PT), "
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "Daily Poster"
+        ],
+        [
+          0,
+          [],
+          0,
+          " supporting subscribers will chat with Oscar-winner Adam McKay about his new film "
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "Don’t Look Up"
+        ],
+        [
+          0,
+          [],
+          0,
+          ", which has been called one of the most important climate films in history. "
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "The Daily Poster’s "
+        ],
+        [
+          0,
+          [],
+          0,
+          "David Sirota co-produced "
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "Don’t Look Up"
+        ],
+        [
+          0,
+          [],
+          0,
+          " and crafted the movie’s overall story with McKay, who wrote the screenplay and directed the film."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [
+            1,
+            0
+          ],
+          1,
+          "Like all our live chats, the event is exclusively for "
+        ],
+        [
+          0,
+          [],
+          0,
+          "Daily Poster"
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          2,
+          " supporting subscribers, who will be able to watch the broadcast live, ask questions in real time, and watch a replay of the event. "
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "Don’t Look Up"
+        ],
+        [
+          0,
+          [],
+          0,
+          " stars Leonardo DiCaprio, Jennifer Lawrence, Meryl Streep, Jonah Hill, and other megastars. It is "
+        ],
+        [
+          0,
+          [
+            2
+          ],
+          1,
+          "now available"
+        ],
+        [
+          0,
+          [],
+          0,
+          " on Netflix, and has been "
+        ],
+        [
+          0,
+          [
+            3
+          ],
+          1,
+          "nominated for several prestigious awards"
+        ],
+        [
+          0,
+          [],
+          0,
+          ". The film is also the "
+        ],
+        [
+          0,
+          [
+            4
+          ],
+          1,
+          "winner"
+        ],
+        [
+          0,
+          [],
+          0,
+          " of the SFFILM Sloan Science in Cinema Prize, which recognizes outstanding achievement in the depiction of science."
+        ]
+      ]
+    ],
+    [
+      10,
+      1
+    ],
+    [
+      10,
+      2
+    ],
+    [
+      10,
+      3
+    ],
+    [
+      10,
+      4
+    ],
+    [
+      1,
+      "p",
+      []
+    ],
+    [
+      1,
+      "p",
+      []
+    ],
+    [
+      1,
+      "p",
+      []
+    ]
+  ],
+  "ghostVersion": "4.0"
+}

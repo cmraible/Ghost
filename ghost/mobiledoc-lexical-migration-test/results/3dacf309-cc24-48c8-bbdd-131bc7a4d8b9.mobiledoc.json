@@ -1,0 +1,410 @@
+{
+  "version": "0.3.1",
+  "atoms": [],
+  "cards": [
+    [
+      "hr",
+      {}
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "html",
+      {
+        "html": "<table id=\"production-numbers-table\">\n<tbody>\n\t<tr>\n\t\t<td>Sport Coupe</td>\n\t\t<td>58,544</td>\n\t</tr>\n\t<tr>\n\t\t<td>RS</td>\n\t\t<td>11,364</td>\n\t</tr>\n\t<tr>\n\t\t<td>Z/28</td>\n\t\t<td>2,575</td>\n\t</tr>\n\t\t<td><b>Total Production</b></td>\n\t\t<td><b>80,015</b></td>\n\t</tr>\n</tbody>\n</table>"
+      }
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "html",
+      {
+        "html": "<table id=\"performance-specs-table\">\n<tbody>\n\t<tr>\n\t\t<th><b>Engine</b></th>\n\t\t<th><b>Size</b></td>\n\t\t<th><b>Carb.</b></td>\n\t\t<th><b>HP</b></td>\n\t\t<th><b>Torque</b></td>\n\t\t<th><b>0 to 60</b></td>\n\t\t<th><b>Quarter mile</b></td>\n\t</tr>\n\t<tr>\n\t\t<td>L22 I-6</td>\n\t\t<td>250ci</td>\n\t\t<td>1x1bbl</td>\n\t\t<td>110</td>\n\t\t<td>185 lb-ft</td>\n\t\t<td>-</td>\n\t\t<td>-</td>\n\t</tr>\n\t<tr>\n\t\t<td>Z/28</td>\n\t\t<td>350ci</td>\n\t\t<td>1x4bbl</td>\n\t\t<td>255</td>\n\t\t<td>280 lb-ft</td>\n\t\t<td>7.7 sec</td>\n\t\t<td>15.2 sec @ 86.6 mph</td>\n\t</tr>\n\t<tr>\n\t\t<td>Std. V8</td>\n\t\t<td>307ci</td>\n\t\t<td>1x2bbl</td>\n\t\t<td>130</td>\n\t\t<td>230 lb-ft</td>\n\t\t<td>-</td>\n\t\t<td>-</td>\n\t</tr>\n\t<tr>\n\t\t<td>L48</td>\n\t\t<td>350ci</td>\n\t\t<td>1x4bbl</td>\n\t\t<td>200</td>\n\t\t<td>280 lb-ft</td>\n\t\t<td>-</td>\n\t\t<td>-</td>\n\t</tr>\n\t<tr>\n\t\t<td>L65</td>\n\t\t<td>350ci</td>\n\t\t<td>1x2bbl</td>\n\t\t<td>165</td>\n\t\t<td>280 lb-ft</td>\n\t\t<td>-</td>\n\t\t<td>-</td>\n\t</tr>\n\t<tr>\n\t\t<td>LS3</td>\n\t\t<td>396ci</td>\n\t\t<td>1x4bbl</td>\n\t\t<td>240</td>\n\t\t<td>345 lb-ft</td>\n\t\t<td>-</td>\n\t\t<td>-</td>\n\t</tr>\n</tbody>\n</table>"
+      }
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "html",
+      {
+        "html": "<h4 id='colors-sub-heading'>Exterior</h4>\n<div class=\"colors-row\">\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #ece4d3\"></div>\n        <div class=\"color-name\">Antique White</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #888f8a\"></div>\n        <div class=\"color-name\">Pewter Silver</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #4a6482\"></div>\n        <div class=\"color-name\">Ascot Blue</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #2b4d73\"></div>\n        <div class=\"color-name\">Mulsanne Blue</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #2e5854\"></div>\n        <div class=\"color-name\">Spring Green</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #808e67\"></div>\n        <div class=\"color-name\">Gulf Green</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #2f382c\"></div>\n        <div class=\"color-name\">Sequoia Green</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #bcb08e\"></div>\n        <div class=\"color-name\">Covert Tan</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #b19443\"></div>\n        <div class=\"color-name\">Placer Gold</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #ebd375\"></div>\n        <div class=\"color-name\">Cream Yellow</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #49422f\"></div>\n        <div class=\"color-name\">Golden Brown</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #744e36\"></div>\n        <div class=\"color-name\">Mohave Gold</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #ac3d2e\"></div>\n        <div class=\"color-name\">Flame Orange</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #352d31\"></div>\n        <div class=\"color-name\">Midnight Bronze</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #a12a2c\"></div>\n        <div class=\"color-name\">Cranberry Red</div>\n    </div>\n</div>\n<h4 id='colors-sub-heading'>Interior</h4>\n<div class=\"colors-row\">\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #15160e\"></div>\n        <div class=\"color-name\">Black</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #3d3532\"></div>\n        <div class=\"color-name\">Blue</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #4d3d25\"></div>\n        <div class=\"color-name\">Green</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #805d16\"></div>\n        <div class=\"color-name\">Tan</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #b49366\"></div>\n        <div class=\"color-name\">Covert</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #cdbcb5\"></div>\n        <div class=\"color-name\">White</div>    \n    </div>\n</div>"
+      }
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "gallery",
+      {
+        "images": [
+          {
+            "fileName": "75_1_low_res.jpeg",
+            "row": 0,
+            "width": 631,
+            "height": 794,
+            "src": "__GHOST_URL__/content/images/2020/08/75_1_low_res.jpeg"
+          },
+          {
+            "fileName": "76_2_low_res.jpeg",
+            "row": 0,
+            "width": 790,
+            "height": 522,
+            "src": "__GHOST_URL__/content/images/2020/08/76_2_low_res.jpeg"
+          },
+          {
+            "fileName": "77_3_low_res.jpeg",
+            "row": 0,
+            "width": 790,
+            "height": 517,
+            "src": "__GHOST_URL__/content/images/2020/08/77_3_low_res.jpeg"
+          },
+          {
+            "fileName": "78_4_low_res.jpeg",
+            "row": 1,
+            "width": 790,
+            "height": 508,
+            "src": "__GHOST_URL__/content/images/2020/08/78_4_low_res.jpeg"
+          },
+          {
+            "fileName": "79_5_low_res.jpeg",
+            "row": 1,
+            "width": 790,
+            "height": 513,
+            "src": "__GHOST_URL__/content/images/2020/08/79_5_low_res.jpeg"
+          },
+          {
+            "fileName": "80_6_low_res.jpeg",
+            "row": 1,
+            "width": 790,
+            "height": 511,
+            "src": "__GHOST_URL__/content/images/2020/08/80_6_low_res.jpeg"
+          }
+        ]
+      }
+    ],
+    [
+      "hr",
+      {}
+    ]
+  ],
+  "markups": [
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/tag/research/"
+      ]
+    ]
+  ],
+  "sections": [
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Overview"
+        ]
+      ]
+    ],
+    [
+      10,
+      0
+    ],
+    [
+      1,
+      "h3",
+      [
+        [
+          0,
+          [],
+          0,
+          "It was a rough year for GM, but especially the Camaros."
+        ]
+      ]
+    ],
+    [
+      10,
+      1
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "1972 was a low-production year due to a strike at the plant where the cars were being produced, and the ’72 was one of the lowest production years ever. Sales were also declining due to the drop in performance options, and on top of all of that, over 1,000 Camaros were scrapped because they did not meet the new federal safety standards with the bumper."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Distinguishable for the new year was a grill with a large egg crate. Three-point shoulder belts were installed for the first time, and this year would be the last year SS models were produced until 1996."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "The RS package included numerous cosmetic changes including a distinctive front-end look that most noticeably featured two front bumpers on the left and right of the nose of the car instead of the normal full-width bumper. Virtually identical to the previous year."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "The SS package contained a modified 350 V8 producing 200hp, along with distinctive trim including a blacked-out grill with the SS emblem. It was possible to order a RS/SS."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "The Z/28 came standard with a 350ci, 255 hp V8."
+        ]
+      ]
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Production Numbers"
+        ]
+      ]
+    ],
+    [
+      10,
+      2
+    ],
+    [
+      10,
+      3
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Performance Specs"
+        ]
+      ]
+    ],
+    [
+      10,
+      4
+    ],
+    [
+      10,
+      5
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Paint & Colors"
+        ]
+      ]
+    ],
+    [
+      10,
+      6
+    ],
+    [
+      10,
+      7
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Transmissions"
+        ]
+      ]
+    ],
+    [
+      10,
+      8
+    ],
+    [
+      3,
+      "ul",
+      [
+        [
+          [
+            0,
+            [],
+            0,
+            "3-Speed Manual"
+          ]
+        ],
+        [
+          [
+            0,
+            [],
+            0,
+            "Special 3-Speed Manual"
+          ]
+        ],
+        [
+          [
+            0,
+            [],
+            0,
+            "4-Speed Manual"
+          ]
+        ],
+        [
+          [
+            0,
+            [],
+            0,
+            "Powerglide Automatic"
+          ]
+        ],
+        [
+          [
+            0,
+            [],
+            0,
+            "Turbo Hydra-Matic"
+          ]
+        ]
+      ]
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "OEM Brochures"
+        ]
+      ]
+    ],
+    [
+      10,
+      9
+    ],
+    [
+      10,
+      10
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "About the Knowledge Base"
+        ]
+      ]
+    ],
+    [
+      10,
+      11
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "The Motorious Knowledge Base provides a comprehensive vehicle overview for the 1972 Chevrolet Camaro including production numbers, performance specs, factory colors, and OEM brochures. Check out additional model years or related content linked to this article or view other Makes and Models in our "
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "Research"
+        ],
+        [
+          0,
+          [],
+          0,
+          " center."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "If you have any interesting facts about the 1972 Chevrolet Camaro to add, want to tell us how we did covering the Camaro, or want to tell us about yours, please leave a comment below."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      []
+    ]
+  ],
+  "ghostVersion": "3.0"
+}

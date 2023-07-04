@@ -1,0 +1,502 @@
+{
+  "version": "0.3.1",
+  "atoms": [
+    [
+      "soft-return",
+      "",
+      {}
+    ],
+    [
+      "soft-return",
+      "",
+      {}
+    ]
+  ],
+  "cards": [
+    [
+      "hr",
+      {}
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "html",
+      {
+        "html": "<table id=\"production-numbers-table\">\n<tbody>\n\t<tr>\n\t\t<td>CPE</td>\n\t\t<td>18,620</td>\n\t</tr>\n    \t<tr>\n\t\t<td>SDN 4D</td>\n\t\t<td>13,420</td>\n\t</tr>\n    \t<tr>\n\t\t<td>350 HTP CPE</td>\n\t\t<td>70,918</td>\n\t</tr>\n    \t<tr>\n\t\t<td>350 SDN CPE</td>\n\t\t<td>30,281</td>\n\t</tr>\n    \t<tr>\n\t\t<td>CUS HTP CPE</td>\n\t\t<td>36,367</td>\n\t</tr>\n    \t<tr>\n\t\t<td>CUS HTP SDN</td>\n\t\t<td>12,411</td>\n\t</tr>\n    \t<tr>\n\t\t<td>CUS CONV CPE</td>\n\t\t<td>4,954</td>\n\t</tr>\n    \t<tr>\n\t\t<td>CUS SDN 4D</td>\n\t\t<td>7,113</td>\n\t</tr>\n\t\t<td><b>Total Production</b></td>\n\t\t<td><b>194,084</b></td>\n\t</tr>\n</tbody>\n</table>"
+      }
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "html",
+      {
+        "html": "<table id=\"performance-specs-table\">\n<tbody>\n\t<tr>\n\t\t<th><b>Engine</b></th>\n\t\t<th><b>Size</b></td>\n\t\t<th><b>Carb.</b></td>\n\t\t<th><b>HP</b></td>\n\t\t<th><b>Torque</b></td>\n\t\t<th><b>0 to 60</b></td>\n\t\t<th><b>Quarter mile</b></td>\n\t</tr>\n\t<tr>\n\t\t<td>250-1 6-cyl</td>\n\t\t<td>250ci</td>\n\t\t<td>1x1bbl</td>\n\t\t<td>155</td>\n\t\t<td>235 lb-ft</td>\n\t\t<td>-</td>\n\t\t<td>-</td>\n\t</tr>\n\t<tr>\n\t\t<td>350-2 V8</td>\n\t\t<td>350ci</td>\n\t\t<td>1x2bbl</td>\n\t\t<td>260</td>\n\t\t<td>360 lb-ft</td>\n\t\t<td>-</td>\n\t\t<td>-</td>\n\t</tr>\n\t<tr>\n\t\t<td>350-4 V8</td>\n\t\t<td>350ci</td>\n\t\t<td>1x4bbl</td>\n\t\t<td>285</td>\n\t\t<td>375 lb-ft</td>\n\t\t<td>-</td>\n\t\t<td>-</td>\n\t</tr>\n\t<tr>\n\t\t<td>350-4 High Performance V8</td>\n\t\t<td>350ci</td>\n\t\t<td>1x4bbl</td>\n\t\t<td>315</td>\n\t\t<td>410 lb-ft</td>\n\t\t<td>7 sec</td>\n\t\t<td>15.3 sec</td>\n\t</tr>\n</tbody>\n</table>"
+      }
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "html",
+      {
+        "html": "<h4 id='colors-sub-heading'>Exterior</h4>\n<div class=\"colors-row\">\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #000000\"></div>\n        <div class=\"color-name\">Regal Black</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #fefefd\"></div>\n        <div class=\"color-name\">Glacier White</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #747b80\"></div>\n        <div class=\"color-name\">Silver Mist</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #576576\"></div>\n        <div class=\"color-name\">Tealmist Gray</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #b7cddf\"></div>\n        <div class=\"color-name\">Azure Blue</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #4f6b8d\"></div>\n        <div class=\"color-name\">Gulfstream Blue</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #2b4d73\"></div>\n        <div class=\"color-name\">Stratomist Blue</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #1f2c43\"></div>\n        <div class=\"color-name\">Diplomat Blue</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #63888e\"></div>\n        <div class=\"color-name\">Aqua Mist</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #6f8068\"></div>\n        <div class=\"color-name\">Seamist Green</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #475f45\"></div>\n        <div class=\"color-name\">Emerald Mist</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #313c33\"></div>\n        <div class=\"color-name\">Sherwood Green</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #dacb90\"></div>\n        <div class=\"color-name\">Bamboo Cream</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #9e8756\"></div>\n        <div class=\"color-name\">Cornet Gold</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #746747\"></div>\n        <div class=\"color-name\">Harvest Gold</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #c9b89a\"></div>\n        <div class=\"color-name\">Sandpiper Beige</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #968668\"></div>\n        <div class=\"color-name\">Desert Gold</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #574b3a\"></div>\n        <div class=\"color-name\">Burnished Saddle</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #692728\"></div>\n        <div class=\"color-name\">Titian Red</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #a12a2c\"></div>\n        <div class=\"color-name\">Matador Red</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #7a5a5f\"></div>\n        <div class=\"color-name\">Sunset Sage</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #391d1c\"></div>\n        <div class=\"color-name\">Misty Burgundy</div>\n    </div>\n</div>\n\n<h4 id='colors-sub-heading'>Interior</h4>\n<div class=\"colors-row\">\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #000000\"></div>\n        <div class=\"color-name\">Black</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #627389\"></div>\n        <div class=\"color-name\">Blue</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #414135\"></div>\n        <div class=\"color-name\">Green</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #ece4d3\"></div>\n        <div class=\"color-name\">Pearl</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #c9b89a\"></div>\n        <div class=\"color-name\">Sandalwood</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #574b3a\"></div>\n        <div class=\"color-name\">Burnished Saddle</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #968668\"></div>\n        <div class=\"color-name\">Saddle</div>\n    </div>\n</div>"
+      }
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "gallery",
+      {
+        "images": [
+          {
+            "fileName": "2536_22_low_res.jpg",
+            "row": 0,
+            "width": 790,
+            "height": 332,
+            "src": "__GHOST_URL__/content/images/2020/06/2536_22_low_res.jpg"
+          },
+          {
+            "fileName": "2537_23_low_res.jpg",
+            "row": 0,
+            "width": 790,
+            "height": 331,
+            "src": "__GHOST_URL__/content/images/2020/06/2537_23_low_res.jpg"
+          },
+          {
+            "fileName": "2538_24_low_res.jpg",
+            "row": 0,
+            "width": 790,
+            "height": 331,
+            "src": "__GHOST_URL__/content/images/2020/06/2538_24_low_res.jpg"
+          },
+          {
+            "fileName": "2539_25_low_res.jpg",
+            "row": 1,
+            "width": 790,
+            "height": 331,
+            "src": "__GHOST_URL__/content/images/2020/06/2539_25_low_res.jpg"
+          },
+          {
+            "fileName": "2540_26_low_res.jpg",
+            "row": 1,
+            "width": 790,
+            "height": 331,
+            "src": "__GHOST_URL__/content/images/2020/06/2540_26_low_res.jpg"
+          },
+          {
+            "fileName": "2541_27_low_res.jpg",
+            "row": 1,
+            "width": 790,
+            "height": 330,
+            "src": "__GHOST_URL__/content/images/2020/06/2541_27_low_res.jpg"
+          },
+          {
+            "fileName": "2542_28_low_res.jpg",
+            "row": 2,
+            "width": 790,
+            "height": 331,
+            "src": "__GHOST_URL__/content/images/2020/06/2542_28_low_res.jpg"
+          },
+          {
+            "fileName": "2534_1_low_res.jpg",
+            "row": 2,
+            "width": 790,
+            "height": 656,
+            "src": "__GHOST_URL__/content/images/2020/06/2534_1_low_res.jpg"
+          },
+          {
+            "fileName": "2535_2_low_res.jpg",
+            "row": 2,
+            "width": 790,
+            "height": 327,
+            "src": "__GHOST_URL__/content/images/2020/06/2535_2_low_res.jpg"
+          }
+        ],
+        "caption": "1970 Buick Skylark OEM Brochures"
+      }
+    ],
+    [
+      "gallery",
+      {
+        "images": [
+          {
+            "fileName": "2543_29_low_res.jpg",
+            "row": 0,
+            "width": 790,
+            "height": 331,
+            "src": "__GHOST_URL__/content/images/2020/06/2543_29_low_res.jpg"
+          }
+        ],
+        "caption": "1970 Buick Skylark OEM Brochures"
+      }
+    ],
+    [
+      "hr",
+      {}
+    ]
+  ],
+  "markups": [
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/articles/research/1969-buick-skylark/"
+      ]
+    ],
+    [
+      "strong"
+    ],
+    [
+      "em"
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/tag/research/"
+      ]
+    ]
+  ],
+  "sections": [
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Overview"
+        ]
+      ]
+    ],
+    [
+      10,
+      0
+    ],
+    [
+      1,
+      "h3",
+      [
+        [
+          0,
+          [],
+          0,
+          "For 1970, the mid-sized Buicks once again received new sheet metal and the Buick Skylark name was moved down another notch, replacing the previous Buick Special. "
+        ]
+      ]
+    ],
+    [
+      10,
+      1
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "For 1970, the mid-sized Buicks once again received new sheet metal and the "
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "Buick Skylark"
+        ],
+        [
+          0,
+          [],
+          0,
+          " name was moved down another notch, replacing the previous Buick Special. The Skylark became the entry-level Buick available in two- and four-door sedans with the 250-cubic-inch inline-6 as standard and the 350 cubic inch V8 in two variants (260 and 285 horsepower at 4600 rpm) available as options. Interestingly, the two-door models shared their roofline with the 1970 Chevelle, as opposed to the Pontiac LeMans and Oldsmobile Cutlass, which shared a different roof design. The two-door sedan body style was unique to Buick; it had the same swoopy roofline as the hardtop but with a thick \"B\" pillar. Chevrolet didn't offer a pillared coupe for the Chevelle from 1970–72; all two-doors were hardtops."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Replacing the previous Buick Skylark was the Buick Skylark 350, available as a two-door hardtop coupe or four-door sedan with the 350 cubic inch V8 as standard equipment. This 350 cubic inch engine was a different design than the Chevy's 350 CID engine (4.000 in × 3.48 in) the Buick design had a longer stroke and smaller bore (3.80 X 3.85 in) allowing for lower-end torque, deep skirt block construction, higher nickel-content cast iron, 3.0 in (76 mm) crank main journals, and 6.5 in (165 mm) connecting rods, the distributor was located in front of the engine (typical of Buick), the oil pump was external and mounted in the front of the engine, the rocker arm assembly had all rocker arms mounted on a single rod and were not adjustable. The Skylark Custom continued to be available, also using the 350 cubic inch V8 as standard equipment and still available as a two-door convertible coupe, two-door hardtop coupe, four-door hardtop sedan, and four-door sedan. Buick Gran Sport models continued to be available as a separate series. The Buick Sport Wagon name was now used on a conventional four-door station wagon that no longer featured a raised roof with glass panels over the cargo area, or a longer wheelbase, as in the past. It now used the same 116 in (2,946 mm) wheelbase as the Buick Skylark four-door sedan and the now-discontinued Buick Special four-door Station Wagon. It became, in effect, a Buick Skylark four-door station wagon in all respects but the name."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "There was a GM VIN# error on one 1970 Skylark. This car ended up with a GS455 stage1 engine, suspension, transmission, and brakes, but it has the regular skylark 350 body that has GS badges. This case has been verified from GM and is documented."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "The 2-speed auto was dropped leaving just the 3-speed manual and 3-speed auto."
+        ]
+      ]
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Production Numbers"
+        ]
+      ]
+    ],
+    [
+      10,
+      2
+    ],
+    [
+      10,
+      3
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Performance Specs"
+        ]
+      ]
+    ],
+    [
+      10,
+      4
+    ],
+    [
+      10,
+      5
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Transmission"
+        ]
+      ]
+    ],
+    [
+      10,
+      6
+    ],
+    [
+      3,
+      "ul",
+      [
+        [
+          [
+            0,
+            [
+              1,
+              1
+            ],
+            2,
+            "3-Speed"
+          ]
+        ],
+        [
+          [
+            0,
+            [
+              1,
+              1
+            ],
+            2,
+            "3-Speed Auto"
+          ]
+        ]
+      ]
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Paint & Colors"
+        ]
+      ]
+    ],
+    [
+      10,
+      7
+    ],
+    [
+      10,
+      8
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "OEM Brochures"
+        ]
+      ]
+    ],
+    [
+      10,
+      9
+    ],
+    [
+      10,
+      10
+    ],
+    [
+      10,
+      11
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "About the Knowledge Base"
+        ]
+      ]
+    ],
+    [
+      10,
+      12
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "The Motorious Knowledge Base provides a comprehensive vehicle overview for the 1970 Buick Skylark"
+        ],
+        [
+          0,
+          [
+            2,
+            2
+          ],
+          2,
+          " "
+        ],
+        [
+          0,
+          [],
+          0,
+          "including production numbers, performance specs, factory colors, and OEM brochures. Check out additional model years or related content linked to this article or view other Makes and Models in our "
+        ],
+        [
+          0,
+          [
+            3
+          ],
+          1,
+          "Research"
+        ],
+        [
+          0,
+          [],
+          0,
+          " center."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "If you have any interesting facts about the 1970 Buick Skylark"
+        ],
+        [
+          0,
+          [
+            2,
+            2
+          ],
+          2,
+          " "
+        ],
+        [
+          0,
+          [],
+          0,
+          "to add, want to tell us how we did covering the Skylark, or want to tell us about yours, please leave a comment below."
+        ],
+        [
+          1,
+          [],
+          0,
+          0
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          1,
+          [],
+          0,
+          1
+        ]
+      ]
+    ]
+  ],
+  "ghostVersion": "3.0"
+}

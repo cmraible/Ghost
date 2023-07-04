@@ -1,0 +1,928 @@
+{
+  "root": {
+    "children": [
+      {
+        "type": "email",
+        "html": "<p>Hey {first_name, \"there\"},</p><p>We're nearly there. One last push and the weekend is upon us. So, brew yourself a cup of something hot and tasty, and kick back with some decent long reads that will make you that bit more informed, successful and possibly even better looking.</p><p><em>Possibly.</em></p>"
+      },
+      {
+        "children": [
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": "Social networks don't die, they're abandoned",
+            "type": "text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "heading",
+        "tag": "h2",
+        "version": 1
+      },
+      {
+        "children": [
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": "I loved this piece, maybe because the author is of a similar internet vintage to myself. Through the prism of two faded social networks of the past — Livejournal (where ",
+            "type": "text",
+            "version": 1
+          },
+          {
+            "children": [
+              {
+                "detail": 0,
+                "format": 0,
+                "mode": "normal",
+                "style": "",
+                "text": "I started blogging",
+                "type": "text",
+                "version": 1
+              }
+            ],
+            "direction": "ltr",
+            "format": "",
+            "indent": 0,
+            "type": "link",
+            "rel": null,
+            "target": null,
+            "title": null,
+            "url": "https://adders.livejournal.com",
+            "version": 1
+          },
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": ") and Tumblr — Gita explores how changes of ownership, leading to changes of policy, can hollow out a network. ",
+            "type": "text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "paragraph",
+        "version": 1
+      },
+      {
+        "children": [
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": " It's a reminder that you can never ",
+            "type": "text",
+            "version": 1
+          },
+          {
+            "detail": 0,
+            "format": 2,
+            "mode": "normal",
+            "style": "",
+            "text": "own",
+            "type": "text",
+            "version": 1
+          },
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": " a community, merely ",
+            "type": "text",
+            "version": 1
+          },
+          {
+            "detail": 0,
+            "format": 2,
+            "mode": "normal",
+            "style": "",
+            "text": "host",
+            "type": "text",
+            "version": 1
+          },
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": " it. And it can and will move elsewhere if it feels unwelcome. Worth considering, eh, Elon? ",
+            "type": "text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "paragraph",
+        "version": 1
+      },
+      {
+        "type": "bookmark",
+        "version": "1.0",
+        "url": "https://www.theverge.com/2023/3/9/23629372/twitter-tumblr-livejournal-social-network",
+        "metadata": {
+          "url": "https://www.theverge.com/2023/3/9/23629372/twitter-tumblr-livejournal-social-network",
+          "title": "How a social network falls apart",
+          "description": "To divine what will happen to Twitter, just look to other social networks that changed under new owners.",
+          "author": "Gita Jackson",
+          "publisher": "The Verge",
+          "thumbnail": "https://cdn.vox-cdn.com/thumbor/ddod1SEN5DcyZGo7XFEOi8bdaC8=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/24415494/Vrg_how_social_networks_fall_apart_236521_D_Crosby_Close.jpg",
+          "icon": "https://www.theverge.com/icons/android_chrome_512x512.png"
+        }
+      },
+      {
+        "children": [
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": "Elon Musk versus the most popular man in Iceland",
+            "type": "text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "heading",
+        "tag": "h2",
+        "version": 1
+      },
+      {
+        "children": [
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": "Just in case you missed the spectacular “oh, my God, I can't believe Musk just did that” moment of the week, John Gruber has a lovely summary of it:",
+            "type": "text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "paragraph",
+        "version": 1
+      },
+      {
+        "type": "bookmark",
+        "url": "https://daringfireball.net/2023/03/thorleifsson_musk_twitter",
+        "metadata": {
+          "url": "https://daringfireball.net/2023/03/thorleifsson_musk_twitter",
+          "title": "Phony Stark Picks on the Wrong Guy, Attempting (and of Course Botching) an HR Exit Interview Live on Twitter",
+          "description": "Thorleifsson, to put it mildly, is a rather remarkable and inspiring person.",
+          "author": null,
+          "publisher": "Daring Fireball",
+          "thumbnail": "https://daringfireball.net/graphics/df-square-1024.png",
+          "icon": "https://daringfireball.net/graphics/apple-touch-icon.png"
+        }
+      },
+      {
+        "children": [
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": "When celebrities get radicalised",
+            "type": "text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "heading",
+        "tag": "h2",
+        "version": 1
+      },
+      {
+        "children": [
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": "The story of Russell Brand is a strange one. A decade or so he was a comedian and television presenter, who started getting plaudits for his forays into politics. And slowly, the presenting gigs and the movie appearances started to dry up (aside from voice acting, he didn't trouble the big screen much for half a decade, before he popped up again in Kenneth Branagh's ",
+            "type": "text",
+            "version": 1
+          },
+          {
+            "detail": 0,
+            "format": 2,
+            "mode": "normal",
+            "style": "",
+            "text": "Death on the Nile",
+            "type": "text",
+            "version": 1
+          },
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": "). And, in the meantime, the politics became ever more extreme as his personal audience grow.",
+            "type": "text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "paragraph",
+        "version": 1
+      },
+      {
+        "children": [
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": "He's beginning to look like another example of audience capture.  ",
+            "type": "text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "paragraph",
+        "version": 1
+      },
+      {
+        "type": "bookmark",
+        "url": "https://www.newstatesman.com/comment/2023/03/have-lost-russell-brand",
+        "metadata": {
+          "url": "https://www.newstatesman.com/comment/2023/03/have-lost-russell-brand",
+          "title": "We have lost Russell Brand",
+          "description": "This once-sexy communist has become an American culture wars pundit.",
+          "author": "Finn McRedmond",
+          "publisher": "New Statesman",
+          "thumbnail": "https://www.newstatesman.com/wp-content/uploads/sites/2/2023/03/Russel-Brand-800x418.jpg?1678461920",
+          "icon": "https://www.newstatesman.com/wp-content/uploads/sites/2/2021/07/cropped-TNS-favicon-1-300x300.png"
+        }
+      },
+      {
+        "children": [
+          {
+            "detail": 0,
+            "format": 1,
+            "mode": "normal",
+            "style": "",
+            "text": "Bonus fringe spiral content:",
+            "type": "text",
+            "version": 1
+          },
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": " the ",
+            "type": "text",
+            "version": 1
+          },
+          {
+            "children": [
+              {
+                "detail": 0,
+                "format": 0,
+                "mode": "normal",
+                "style": "",
+                "text": "descent of Scott Adams and ",
+                "type": "text",
+                "version": 1
+              },
+              {
+                "detail": 0,
+                "format": 2,
+                "mode": "normal",
+                "style": "",
+                "text": "Dilbert",
+                "type": "text",
+                "version": 1
+              }
+            ],
+            "direction": "ltr",
+            "format": "",
+            "indent": 0,
+            "type": "link",
+            "rel": null,
+            "target": null,
+            "title": null,
+            "url": "https://www.washingtonpost.com/comics/2023/03/06/scott-adams-dilbert-cartoon-controversy/",
+            "version": 1
+          },
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": ".",
+            "type": "text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "paragraph",
+        "version": 1
+      },
+      {
+        "children": [
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": "The horror of Audience Capture",
+            "type": "text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "heading",
+        "tag": "h2",
+        "version": 1
+      },
+      {
+        "children": [
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": "While on the subject of audience capture, this piece from last summer is essential reading about how the creator economy can lead people down dark paths because it's what they get a response from the audience for doing.",
+            "type": "text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "paragraph",
+        "version": 1
+      },
+      {
+        "children": [
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": "The first example borders on the horrifying. ",
+            "type": "text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "paragraph",
+        "version": 1
+      },
+      {
+        "type": "bookmark",
+        "version": "1.0",
+        "url": "https://gurwinder.substack.com/p/the-perils-of-audience-capture",
+        "metadata": {
+          "url": "https://gurwinder.substack.com/p/the-perils-of-audience-capture",
+          "title": "The Perils of Audience Capture",
+          "description": "How influencers become brainwashed by their audiences",
+          "author": "Gurwinder",
+          "publisher": "The Prism",
+          "thumbnail": "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F62f96f3e-f113-44d6-9897-c7eca5c83716_2048x1468.jpeg",
+          "icon": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F5fb19484-ae10-47fc-8e2f-f9bfc0cb9983%2Fapple-touch-icon-1024x1024.png"
+        }
+      },
+      {
+        "children": [
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": "Good neighbour make good frie… paying subscribers",
+            "type": "text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "heading",
+        "tag": "h2",
+        "version": 1
+      },
+      {
+        "children": [
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": "Absorbing piece on doing better reporting for and about non-white communities. Much of the advice is applicable beyond the specific communities they're talking about to any marginalised or fringe population: ",
+            "type": "text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "paragraph",
+        "version": 1
+      },
+      {
+        "children": [
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": "Journalism can feel ",
+            "type": "text",
+            "version": 1
+          },
+          {
+            "children": [
+              {
+                "detail": 0,
+                "format": 0,
+                "mode": "normal",
+                "style": "",
+                "text": "extractive",
+                "type": "text",
+                "version": 1
+              }
+            ],
+            "direction": "ltr",
+            "format": "",
+            "indent": 0,
+            "type": "link",
+            "rel": null,
+            "target": null,
+            "title": null,
+            "url": "https://www.freepress.net/blog/changing-dynamic-between-residents-and-reporters",
+            "version": 1
+          },
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": " in its relationship with sources, according to Free Press. Instead of genuinely listening to sources and responding to their issues, reporters can create more harm by using sources’ trauma to get sound bites and quotes. Derrick Cain, the director of community engagement at ",
+            "type": "text",
+            "version": 1
+          },
+          {
+            "children": [
+              {
+                "detail": 0,
+                "format": 0,
+                "mode": "normal",
+                "style": "",
+                "text": "Resolve Philly",
+                "type": "text",
+                "version": 1
+              }
+            ],
+            "direction": "ltr",
+            "format": "",
+            "indent": 0,
+            "type": "link",
+            "rel": null,
+            "target": null,
+            "title": null,
+            "url": "https://resolvephilly.org/",
+            "version": 1
+          },
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": ", aims to mitigate this issue by creating more of a relationship with community members.",
+            "type": "text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "quote",
+        "version": 1
+      },
+      {
+        "type": "bookmark",
+        "url": "https://www.poynter.org/ethics-trust/2023/why-trust-in-journalism-is-so-low-and-how-to-fix-it/",
+        "metadata": {
+          "url": "https://www.poynter.org/ethics-trust/2023/why-trust-in-journalism-is-so-low-and-how-to-fix-it/",
+          "title": "Journalists must understand the power of community engagement to earn trust - Poynter",
+          "description": "Residents of neighborhoods that have been misrepresented have lost faith that coverage will ever improve.",
+          "author": "Kelly Chan",
+          "publisher": "Poynter",
+          "thumbnail": "https://www.poynter.org/wp-content/uploads/2023/02/communityengagement1.png",
+          "icon": "https://www.poynter.org/wp-content/uploads/2020/06/favicon.png"
+        }
+      },
+      {
+        "type": "horizontalrule"
+      },
+      {
+        "children": [
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": "AI Scepticism",
+            "type": "text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "heading",
+        "tag": "h2",
+        "version": 1
+      },
+      {
+        "children": [
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": "Personally, I'm pretty bullish on generative AI in the medium term. I suspect there will be a short-term “bust” as too many companies try to foist immature technology on the public, but we'll get there. ",
+            "type": "text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "paragraph",
+        "version": 1
+      },
+      {
+        "children": [
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": "But never let it be said there's no room for dissenting voices on ",
+            "type": "text",
+            "version": 1
+          },
+          {
+            "detail": 0,
+            "format": 2,
+            "mode": "normal",
+            "style": "",
+            "text": "my",
+            "type": "text",
+            "version": 1
+          },
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": " blog. ",
+            "type": "text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "paragraph",
+        "version": 1
+      },
+      {
+        "children": [
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": "Noam Chomsky argues in the ",
+            "type": "text",
+            "version": 1
+          },
+          {
+            "detail": 0,
+            "format": 2,
+            "mode": "normal",
+            "style": "",
+            "text": "NYT",
+            "type": "text",
+            "version": 1
+          },
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": " that the current wave of AI is inherently too limited to ever achieve the hype built up around it:",
+            "type": "text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "paragraph",
+        "version": 1
+      },
+      {
+        "children": [
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": "Here, ChatGPT exhibits something like the banality of evil: plagiarism and apathy and obviation. It summarizes the standard arguments in the literature by a kind of super-autocomplete, refuses to take a stand on anything, pleads not merely ignorance but lack of intelligence and ultimately offers a “just following orders” defense, shifting responsibility to its creators.",
+            "type": "text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "quote",
+        "version": 1
+      },
+      {
+        "type": "bookmark",
+        "url": "https://www.nytimes.com/2023/03/08/opinion/noam-chomsky-chatgpt-ai.html",
+        "metadata": {
+          "url": "https://www.nytimes.com/2023/03/08/opinion/noam-chomsky-chatgpt-ai.html",
+          "title": "Opinion | Noam Chomsky: The False Promise of ChatGPT",
+          "description": "The most prominent strain of A.I. encodes a flawed conception of language and knowledge.",
+          "author": "By",
+          "publisher": "The New York Times",
+          "thumbnail": "https://static01.nyt.com/images/2023/03/08/opinion/08Chomsky-Promo/08Chomsky-Promo-facebookJumbo.png",
+          "icon": "https://www.nytimes.com/vi-assets/static-assets/ios-ipad-144x144-28865b72953380a40aa43318108876cb.png"
+        }
+      },
+      {
+        "children": [
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": "Meanwhile, Charlie Stross points out the curious co-incidence that AI has suddenly got hot just the crypto world collapses:",
+            "type": "text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "paragraph",
+        "version": 1
+      },
+      {
+        "children": [
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": "I'm ",
+            "type": "text",
+            "version": 1
+          },
+          {
+            "detail": 0,
+            "format": 2,
+            "mode": "normal",
+            "style": "",
+            "text": "sure",
+            "type": "text",
+            "version": 1
+          },
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": " it's just a coincidence that training neural networks and mining cryptocurrencies are both applications that benefit from very large arrays of GPUs. As in, hundreds of thousands to millions of GPUs soaking up entire nations' worth of electricity.",
+            "type": "text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "quote",
+        "version": 1
+      },
+      {
+        "children": [
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": "Unnecessary spoiler: he does not think it's a co-incidence. ",
+            "type": "text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "paragraph",
+        "version": 1
+      },
+      {
+        "type": "bookmark",
+        "url": "http://www.antipope.org/charlie/blog-static/2023/02/place-your-bets.html",
+        "metadata": {
+          "url": "http://www.antipope.org/charlie/blog-static/2023/02/place-your-bets.html",
+          "title": "Place your bets - Charlie’s Diary",
+          "description": null,
+          "author": "Charlie Stross",
+          "publisher": "Charlie's Diary",
+          "thumbnail": "http://www.antipope.org/mt/mt-static/images/default-userpic-90.jpg",
+          "icon": "http://www.antipope.org/favicon.ico"
+        }
+      },
+      {
+        "type": "horizontalrule"
+      },
+      {
+        "children": [
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": "Podcasting: a dangerous game",
+            "type": "text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "heading",
+        "tag": "h2",
+        "version": 1
+      },
+      {
+        "type": "embed",
+        "url": "https://youtu.be/tfrvgeWJyaM",
+        "html": "<iframe width=\"200\" height=\"113\" src=\"https://www.youtube.com/embed/tfrvgeWJyaM?feature=oembed\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen title=\"Car smashes through cafe during podcast session.\"></iframe>",
+        "metadata": {
+          "title": "Car smashes through cafe during podcast session.",
+          "author_name": "November Romeo ",
+          "author_url": "https://www.youtube.com/@nathanreeves",
+          "height": 113,
+          "width": 200,
+          "version": "1.0",
+          "provider_name": "YouTube",
+          "provider_url": "https://www.youtube.com/",
+          "thumbnail_height": 360,
+          "thumbnail_width": 480,
+          "thumbnail_url": "https://i.ytimg.com/vi/tfrvgeWJyaM/hqdefault.jpg"
+        },
+        "embedType": "video"
+      },
+      {
+        "type": "horizontalrule"
+      },
+      {
+        "children": [
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": "Bonus content for paid members",
+            "type": "text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "heading",
+        "tag": "h2",
+        "version": 1
+      },
+      {
+        "children": [
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": "Here's five more stories for paid members at any level (supporter, full or course attendee). Not a member yet? Please consider ",
+            "type": "text",
+            "version": 1
+          },
+          {
+            "children": [
+              {
+                "detail": 0,
+                "format": 0,
+                "mode": "normal",
+                "style": "",
+                "text": "signing up to support",
+                "type": "text",
+                "version": 1
+              }
+            ],
+            "direction": "ltr",
+            "format": "",
+            "indent": 0,
+            "type": "link",
+            "rel": null,
+            "target": null,
+            "title": null,
+            "url": "__GHOST_URL__/#/portal/account/plans",
+            "version": 1
+          },
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": " this newsletter. ",
+            "type": "text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "paragraph",
+        "version": 1
+      },
+      {
+        "type": "bookmark",
+        "version": "1.0",
+        "url": "__GHOST_URL__/2023/03/members-reads-activist-journalist/",
+        "metadata": {
+          "url": "__GHOST_URL__/2023/03/members-reads-activist-journalist/",
+          "title": "Members’ Reads: Activist versus Journalist",
+          "description": "Five reads for members, on a looming Google threat, the ethics of leaking WhatsApp messages and the choice the industry needs to make.",
+          "author": "Adam Tinworth",
+          "publisher": "One Man & His Blog",
+          "thumbnail": "__GHOST_URL__/content/images/2023/03/journalist-versus-activist.jpg",
+          "icon": "__GHOST_URL__/content/images/size/w256h256/2021/05/COV-1638-3865.png"
+        }
+      },
+      {
+        "type": "horizontalrule"
+      },
+      {
+        "children": [
+          {
+            "detail": 0,
+            "format": 0,
+            "mode": "normal",
+            "style": "",
+            "text": "Have a lovely weekend, and see you all on Monday. ",
+            "type": "text",
+            "version": 1
+          }
+        ],
+        "direction": "ltr",
+        "format": "",
+        "indent": 0,
+        "type": "paragraph",
+        "version": 1
+      }
+    ],
+    "direction": "ltr",
+    "format": "",
+    "indent": 0,
+    "type": "root",
+    "version": 1
+  }
+}

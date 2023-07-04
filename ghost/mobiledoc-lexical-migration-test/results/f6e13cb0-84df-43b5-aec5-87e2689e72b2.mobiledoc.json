@@ -1,0 +1,363 @@
+{
+  "version": "0.3.1",
+  "atoms": [],
+  "cards": [
+    [
+      "hr",
+      {}
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "html",
+      {
+        "html": "<table id=\"production-numbers-table\">\n<tbody>\n    <tr>\n        <td>2-Dr Hardtop</td>\n        <td>32,737</td>\n    </tr>\n    <td>2-Dr Convertible</td>\n        <td>3,615</td>\n    </tr>\n    <td>2-Dr Hardtop \"The Judge\"</td>\n        <td>3,629</td>\n    </tr>\n</tr>\n        <td><b>Total Production</b></td>\n        <td><b>39,981</b></td>\n    </tr>\n</tbody>\n</table>"
+      }
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "html",
+      {
+        "html": "<table id=\"performance-specs-table\">\n<tbody>\n    <tr>\n        <th><b>Engine</b></th>\n        <th><b>Size</b></td>\n        <th><b>Carb.</b></td>\n        <th><b>HP</b></td>\n        <th><b>Torque</b></td>\n        <th><b>0 to 60</b></td>\n        <th><b>Quarter mile</b></td>\n    </tr>\n    <tr>\n        <td>V8</td>\n        <td>400ci</td>\n        <td>1x4bbl</td>\n        <td>350 hp</td>\n        <td>445 lb-ft</td>\n        <td>-</td>\n        <td>-</td>\n    </tr>\n</tr>\n    <tr>\n        <td>Ram Air III</td>\n        <td>400ci</td>\n        <td>1x4bbl</td>\n        <td>366 hp</td>\n        <td>4445 lb-ft</td>\n        <td>6.6 sec</td>\n        <td>14.5 sec @ 100 mph</td>\n    </tr>\n</tr>\n    <tr>\n        <td>Ram Air IV</td>\n        <td>400ci</td>\n        <td>1x4bbl</td>\n        <td>3370 hp</td>\n        <td>445 lb-ft</td>\n        <td>6.0 sec</td>\n        <td>14.6 sec @ 99.55 mph</td>\n    </tr></tr>\n    <tr>\n        <td>455 HO</td>\n        <td>455ci</td>\n        <td>1x4bbl</td>\n        <td>360 hp</td>\n        <td>500 lb-ft</td>\n        <td>6.6 sec</td>\n        <td>14.8 sec @ 95.94 mph</td>\n    </tr>\n</tbody>\n</table>"
+      }
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "html",
+      {
+        "html": "<h4 id='colors-sub-heading'>Exterior</h4>\n<div class=\"colors-row\">\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #000000\"></div>\n        <div class=\"color-name\">Starlight Black</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #fff5e4\"></div>\n        <div class=\"color-name\">Polar White</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #31344a\"></div>\n        <div class=\"color-name\">Atoll Blue</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #738273\"></div>\n        <div class=\"color-name\">Palisade Green</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #29698c\"></div>\n        <div class=\"color-name\">Pepper Green</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #3b5738\"></div>\n        <div class=\"color-name\">Palladium Silver</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #bd1c37\"></div>\n        <div class=\"color-name\">Cardinal Red</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #846d52\"></div>\n        <div class=\"color-name\">Granada Gold</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #a57d5a\"></div>\n        <div class=\"color-name\">Palomino Copper</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #396594\"></div>\n        <div class=\"color-name\">Bermuda Blue</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #bdaa8c\"></div>\n        <div class=\"color-name\">Baja Gold</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #426d73\"></div>\n        <div class=\"color-name\">Mint Turquoise</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #841c42\"></div>\n        <div class=\"color-name\">Burgundy</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #841c42\"></div>\n        <div class=\"color-name\">Verdoro Green</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #d6c48c\"></div>\n        <div class=\"color-name\">Sierra Yellow</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #ffbd4a\"></div>\n        <div class=\"color-name\">Orbit Orange</div>\n    </div>\n<h4 id='colors-sub-heading'>Interior</h4>\n<div class=\"colors-row\">\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #3b578b\"></div>\n        <div class=\"color-name\">Blue</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #b58a52\"></div>\n        <div class=\"color-name\">Green</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #7c5533\"></div>\n        <div class=\"color-name\">Brown</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #b58a52\"></div>\n        <div class=\"color-name\">Saddle</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #000000\"></div>\n        <div class=\"color-name\">Black</div>\n </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #ded3c6\"></div>\n        <div class=\"color-name\">Sandalwood</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #9c414a\"></div>\n        <div class=\"color-name\">Red</div>\n    </div>\n</div>"
+      }
+    ],
+    [
+      "gallery",
+      {
+        "images": [
+          {
+            "fileName": "558_1970_Pontiac_Performance-01_low_res.jpeg",
+            "row": 0,
+            "width": 790,
+            "height": 793,
+            "src": "__GHOST_URL__/content/images/2020/05/558_1970_Pontiac_Performance-01_low_res-1.jpeg"
+          },
+          {
+            "fileName": "559_1970_Pontiac_Performance-02-03_low_res2.jpeg",
+            "row": 0,
+            "width": 790,
+            "height": 395,
+            "src": "__GHOST_URL__/content/images/2020/05/559_1970_Pontiac_Performance-02-03_low_res2.jpeg"
+          },
+          {
+            "fileName": "560_1970_Pontiac_Performance-04-05_low_res3.jpeg",
+            "row": 0,
+            "width": 790,
+            "height": 395,
+            "src": "__GHOST_URL__/content/images/2020/05/560_1970_Pontiac_Performance-04-05_low_res3.jpeg"
+          },
+          {
+            "fileName": "561_1970_Pontiac_Performance-20-21_low_res4.jpeg",
+            "row": 1,
+            "width": 790,
+            "height": 395,
+            "src": "__GHOST_URL__/content/images/2020/05/561_1970_Pontiac_Performance-20-21_low_res4.jpeg"
+          },
+          {
+            "fileName": "562_1970_Pontiac_Performance-22-23_low_res5.jpeg",
+            "row": 1,
+            "width": 790,
+            "height": 395,
+            "src": "__GHOST_URL__/content/images/2020/05/562_1970_Pontiac_Performance-22-23_low_res5.jpeg"
+          },
+          {
+            "fileName": "563_1970_Pontiac_Performance-24-25_low_res6.jpeg",
+            "row": 1,
+            "width": 790,
+            "height": 395,
+            "src": "__GHOST_URL__/content/images/2020/05/563_1970_Pontiac_Performance-24-25_low_res6.jpeg"
+          },
+          {
+            "fileName": "564_1970_Pontiac_Performance-26-27_low_res7.jpeg",
+            "row": 2,
+            "width": 790,
+            "height": 395,
+            "src": "__GHOST_URL__/content/images/2020/05/564_1970_Pontiac_Performance-26-27_low_res7.jpeg"
+          }
+        ]
+      }
+    ],
+    [
+      "gallery",
+      {
+        "images": [
+          {
+            "fileName": "565_1970_Pontiac_Performance-28-29_low_res8.jpeg",
+            "row": 0,
+            "width": 790,
+            "height": 395,
+            "src": "__GHOST_URL__/content/images/2020/05/565_1970_Pontiac_Performance-28-29_low_res8.jpeg"
+          },
+          {
+            "fileName": "566_1970_Pontiac_Performance-30-31_low_res9.jpeg",
+            "row": 0,
+            "width": 790,
+            "height": 395,
+            "src": "__GHOST_URL__/content/images/2020/05/566_1970_Pontiac_Performance-30-31_low_res9.jpeg"
+          },
+          {
+            "fileName": "567_1970_Pontiac_Performance-32_low_resq0.jpeg",
+            "row": 0,
+            "width": 790,
+            "height": 791,
+            "src": "__GHOST_URL__/content/images/2020/05/567_1970_Pontiac_Performance-32_low_resq0.jpeg"
+          }
+        ],
+        "caption": "1970 Pontiac GTO OEM Brochures"
+      }
+    ],
+    [
+      "hr",
+      {}
+    ]
+  ],
+  "markups": [],
+  "sections": [
+    [
+      1,
+      "h3",
+      [
+        [
+          0,
+          [],
+          0,
+          "Overview"
+        ]
+      ]
+    ],
+    [
+      10,
+      0
+    ],
+    [
+      1,
+      "h3",
+      [
+        [
+          0,
+          [],
+          0,
+          "The 1970 GTO was heavily restyled, and featured what many believe to be the best front-end design, with four exposed round headlights that were wrapped in Endura bumper with blacked out twin grilles."
+        ]
+      ]
+    ],
+    [
+      10,
+      1
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "The 1970 GTO was heavily restyled, and featured what many believe to be the best front-end design, with four exposed round headlights that were wrapped in Endura bumper with blacked out twin grilles."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "This year realized another great feature, the lift of GM’s 400 CID restriction, so Pontiac offered a new 455 CID V8 as a GTO option. To go with the new engine option was the Vacuum Operated Exhaust (VOE). This exhaust reduced backpressure and increased the power of the car, but reined a short time due to government emissions restrictions. Only 233 GTO’s were built with the VOE option."
+        ]
+      ]
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Production Numbers"
+        ]
+      ]
+    ],
+    [
+      10,
+      2
+    ],
+    [
+      10,
+      3
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Performance Specs"
+        ]
+      ]
+    ],
+    [
+      10,
+      4
+    ],
+    [
+      10,
+      5
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Transmissions"
+        ]
+      ]
+    ],
+    [
+      3,
+      "ul",
+      [
+        [
+          [
+            0,
+            [],
+            0,
+            "3-Speed Manual"
+          ]
+        ],
+        [
+          [
+            0,
+            [],
+            0,
+            "4-Speed Manual"
+          ]
+        ],
+        [
+          [
+            0,
+            [],
+            0,
+            "4-Speed Manual Close Ratio"
+          ]
+        ],
+        [
+          [
+            0,
+            [],
+            0,
+            "2-Speed Auto"
+          ]
+        ]
+      ]
+    ],
+    [
+      10,
+      6
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Paint & Colors"
+        ]
+      ]
+    ],
+    [
+      10,
+      7
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "OEM Brochures"
+        ]
+      ]
+    ],
+    [
+      10,
+      8
+    ],
+    [
+      10,
+      9
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "About the Knowledge Base"
+        ]
+      ]
+    ],
+    [
+      10,
+      10
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "The Motorious Knowledge Base provides a comprehensive vehicle overview for the 1970 Pontiac GTO including production numbers, performance specs, factory colors, and OEM brochures. Check out additional model years or related content linked to this article or view other Makes and Models in our Research center."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "If you have any interesting facts about the 1970 Pontiac GTO to add, want to tell us how we did covering the GTO, or want to tell us about yours, please leave a comment below."
+        ]
+      ]
+    ]
+  ],
+  "ghostVersion": "3.0"
+}

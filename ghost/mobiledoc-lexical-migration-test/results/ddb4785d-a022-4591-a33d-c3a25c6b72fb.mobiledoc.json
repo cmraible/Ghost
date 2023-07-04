@@ -1,0 +1,673 @@
+{
+  "version": "0.3.1",
+  "atoms": [],
+  "cards": [
+    [
+      "embed",
+      {
+        "url": "https://twitter.com/davidsirota/status/1482539718076080133",
+        "html": "<blockquote class=\"twitter-tweet\"><p lang=\"en\" dir=\"ltr\">On MSNBC just now, I talked about how corporate media takes big money from fossil fuel advertisers and then refuses to seriously cover the climate crisis. I’m shocked they didn’t cut my mic. Thanks a ton to <a href=\"https://twitter.com/AymanMSNBC?ref_src=twsrc%5Etfw\">@AymanMSNBC</a> for the serious discussion. Huge. <a href=\"https://t.co/ewo9tu1bRW\">pic.twitter.com/ewo9tu1bRW</a></p>&mdash; David Sirota (@davidsirota) <a href=\"https://twitter.com/davidsirota/status/1482539718076080133?ref_src=twsrc%5Etfw\">January 16, 2022</a></blockquote>\n<script async src=\"https://platform.twitter.com/widgets.js\" charset=\"utf-8\"></script>\n",
+        "type": "twitter",
+        "metadata": {
+          "url": "https://twitter.com/davidsirota/status/1482539718076080133",
+          "author_name": "David Sirota",
+          "author_url": "https://twitter.com/davidsirota",
+          "width": 550,
+          "height": null,
+          "cache_age": "3153600000",
+          "provider_name": "Twitter",
+          "provider_url": "http://www.twitter.com/",
+          "version": "1.0",
+          "tweet_data": {
+            "entities": {
+              "mentions": [
+                {
+                  "start": 207,
+                  "end": 218,
+                  "username": "AymanMSNBC",
+                  "id": "945745755339411460"
+                }
+              ],
+              "urls": [
+                {
+                  "start": 253,
+                  "end": 276,
+                  "url": "https://t.co/ewo9tu1bRW",
+                  "expanded_url": "https://twitter.com/AymanMSNBC/status/1482535240329539585/video/1",
+                  "display_url": "pic.twitter.com/ewo9tu1bRW"
+                }
+              ],
+              "annotations": [
+                {
+                  "start": 3,
+                  "end": 7,
+                  "probability": 0.9719,
+                  "type": "Organization",
+                  "normalized_text": "MSNBC"
+                }
+              ]
+            },
+            "created_at": "2022-01-16T02:26:27.000Z",
+            "text": "On MSNBC just now, I talked about how corporate media takes big money from fossil fuel advertisers and then refuses to seriously cover the climate crisis. I’m shocked they didn’t cut my mic. Thanks a ton to @AymanMSNBC for the serious discussion. Huge. https://t.co/ewo9tu1bRW",
+            "context_annotations": [
+              {
+                "domain": {
+                  "id": "45",
+                  "name": "Brand Vertical",
+                  "description": "Top level entities that describe a Brands industry"
+                },
+                "entity": {
+                  "id": "781974597310615553",
+                  "name": "Entertainment"
+                }
+              },
+              {
+                "domain": {
+                  "id": "46",
+                  "name": "Brand Category",
+                  "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+                },
+                "entity": {
+                  "id": "781974596157181956",
+                  "name": "Online Site"
+                }
+              },
+              {
+                "domain": {
+                  "id": "46",
+                  "name": "Brand Category",
+                  "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+                },
+                "entity": {
+                  "id": "781974597105094656",
+                  "name": "TV/Movies Related"
+                }
+              },
+              {
+                "domain": {
+                  "id": "47",
+                  "name": "Brand",
+                  "description": "Brands and Companies"
+                },
+                "entity": {
+                  "id": "1137022824931921920",
+                  "name": "MSNBC"
+                }
+              }
+            ],
+            "conversation_id": "1482539718076080133",
+            "lang": "en",
+            "reply_settings": "everyone",
+            "public_metrics": {
+              "retweet_count": 811,
+              "reply_count": 122,
+              "like_count": 3357,
+              "quote_count": 62
+            },
+            "possibly_sensitive": false,
+            "author_id": "14855994",
+            "attachments": {
+              "media_keys": [
+                "13_1482535144451977221"
+              ]
+            },
+            "id": "1482539718076080133",
+            "source": "Twitter for iPhone",
+            "includes": {
+              "media": [
+                {
+                  "preview_image_url": "https://pbs.twimg.com/media/FJMF8S9XIAITiR2.jpg",
+                  "height": 1080,
+                  "media_key": "13_1482535144451977221",
+                  "public_metrics": {
+                    "view_count": 105107
+                  },
+                  "width": 1920,
+                  "duration_ms": 136481,
+                  "type": "video"
+                }
+              ],
+              "users": [
+                {
+                  "location": "Denver, CO",
+                  "entities": {
+                    "url": {
+                      "urls": [
+                        {
+                          "start": 0,
+                          "end": 23,
+                          "url": "https://t.co/Dp4VDU3DYH",
+                          "expanded_url": "https://www.davidsirota.com",
+                          "display_url": "davidsirota.com"
+                        }
+                      ]
+                    },
+                    "description": {
+                      "urls": [
+                        {
+                          "start": 11,
+                          "end": 34,
+                          "url": "https://t.co/ya8Ws7vJUN",
+                          "expanded_url": "http://dailyposter.com",
+                          "display_url": "dailyposter.com"
+                        }
+                      ],
+                      "hashtags": [
+                        {
+                          "start": 36,
+                          "end": 47,
+                          "tag": "DontLookUp"
+                        },
+                        {
+                          "start": 61,
+                          "end": 70,
+                          "tag": "Meltdown"
+                        }
+                      ],
+                      "mentions": [
+                        {
+                          "start": 90,
+                          "end": 102,
+                          "username": "DailyPoster"
+                        },
+                        {
+                          "start": 112,
+                          "end": 120,
+                          "username": "Jacobin"
+                        },
+                        {
+                          "start": 121,
+                          "end": 132,
+                          "username": "GuardianUS"
+                        },
+                        {
+                          "start": 144,
+                          "end": 155,
+                          "username": "EmilyforCO"
+                        }
+                      ]
+                    }
+                  },
+                  "description": "Subscribe: https://t.co/ya8Ws7vJUN; #DontLookUp co-producer; #Meltdown producer/narrator; @DailyPoster founder; @Jacobin/@GuardianUS columnist; @EmilyforCO's spouse",
+                  "profile_image_url": "https://pbs.twimg.com/profile_images/1406683775468118016/4gvCfJ-a_normal.jpg",
+                  "id": "14855994",
+                  "username": "davidsirota",
+                  "protected": false,
+                  "public_metrics": {
+                    "followers_count": 274744,
+                    "following_count": 3236,
+                    "tweet_count": 15905,
+                    "listed_count": 3967
+                  },
+                  "url": "https://t.co/Dp4VDU3DYH",
+                  "name": "David Sirota",
+                  "pinned_tweet_id": "1471983273886711811",
+                  "created_at": "2008-05-21T12:59:37.000Z",
+                  "verified": true
+                },
+                {
+                  "location": "New York, NY",
+                  "entities": {
+                    "url": {
+                      "urls": [
+                        {
+                          "start": 0,
+                          "end": 23,
+                          "url": "https://t.co/VhlurAD678",
+                          "expanded_url": "http://msnbc.com/live",
+                          "display_url": "msnbc.com/live"
+                        }
+                      ]
+                    },
+                    "description": {
+                      "mentions": [
+                        {
+                          "start": 5,
+                          "end": 12,
+                          "username": "AymanM"
+                        },
+                        {
+                          "start": 42,
+                          "end": 52,
+                          "username": "TheChoice"
+                        }
+                      ]
+                    }
+                  },
+                  "description": "Join @AymanM live on Fridays at 7pm ET on @TheChoice, Saturdays at 8-10pm ET and Sundays at 9pm ET on MSNBC.",
+                  "profile_image_url": "https://pbs.twimg.com/profile_images/1441512067496808448/U8k7XpXd_normal.jpg",
+                  "id": "945745755339411460",
+                  "username": "AymanMSNBC",
+                  "protected": false,
+                  "public_metrics": {
+                    "followers_count": 36241,
+                    "following_count": 458,
+                    "tweet_count": 5970,
+                    "listed_count": 260
+                  },
+                  "url": "https://t.co/VhlurAD678",
+                  "name": "AYMAN",
+                  "created_at": "2017-12-26T19:58:53.000Z",
+                  "verified": true
+                }
+              ]
+            }
+          }
+        }
+      }
+    ],
+    [
+      "button",
+      {
+        "alignment": "center",
+        "buttonText": "Give A Gift Subscription",
+        "buttonUrl": "https://dailyposter.outpost.pub/gift_subscription#/"
+      }
+    ],
+    [
+      "button",
+      {
+        "alignment": "center",
+        "buttonText": "Tip Jar",
+        "buttonUrl": "https://dailyposter.outpost.pub/public/donate#/donate"
+      }
+    ]
+  ],
+  "markups": [
+    [
+      "a",
+      [
+        "href",
+        "https://twitter.com/davidsirota/status/1482539718076080133"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://twitter.com/davidsirota/status/1456686087229689859"
+      ]
+    ],
+    [
+      "em"
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/why-is-california-backtracking-on-climate-related-insurance-reform/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/fossil-fuel-investments-are-burning-california-pensioners/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/pipeline-giant-seeks-jackpot-before-climate-cataclysm/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/subscribe"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://dailyposter.outpost.pub/gift_subscription#/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://dailyposter.outpost.pub/public/donate#/donate"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.msnbc.com/ayman-mohyeldin/watch/-don-t-look-up-smashes-netflix-records-as-it-takes-on-climate-change-deniers-130969669550"
+      ]
+    ]
+  ],
+  "sections": [
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Friends:"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "This weekend, something amazing happened: We used the national TV airwaves to expose corporate media for raking in fossil fuel money and then downplaying the climate crisis."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "Watch this MSNBC video clip that’s gone viral"
+        ],
+        [
+          0,
+          [],
+          0,
+          ". It followed my "
+        ],
+        [
+          0,
+          [
+            1
+          ],
+          1,
+          "previous appearance on CNN"
+        ],
+        [
+          0,
+          [],
+          0,
+          " in which I spotlighted how the media’s Big Oil and Big Pharma sponsors are gutting climate and health care legislation."
+        ]
+      ]
+    ],
+    [
+      10,
+      0
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "To be honest, I’m surprised they didn’t cut my microphone, and I know that speaking out like this risks never being invited back on. But I don’t care. These emergencies are so huge that we have to use every opportunity we can to call out the villains."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "That’s what we do at "
+        ],
+        [
+          0,
+          [
+            2
+          ],
+          1,
+          "The Daily Poster"
+        ],
+        [
+          0,
+          [],
+          0,
+          " every single day in our reporting — you can see that most recently "
+        ],
+        [
+          0,
+          [
+            3
+          ],
+          1,
+          "here"
+        ],
+        [
+          0,
+          [],
+          0,
+          ", "
+        ],
+        [
+          0,
+          [
+            4
+          ],
+          1,
+          "here"
+        ],
+        [
+          0,
+          [],
+          0,
+          ", and "
+        ],
+        [
+          0,
+          [
+            5
+          ],
+          1,
+          "here"
+        ],
+        [
+          0,
+          [],
+          0,
+          "."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "We can only do this work because of you, our subscribers. So I want to thank you for being part of our team."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "I also want to ask for your additional help. There are three things you can do to help us hire more reporters to expand our reporting:"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "1. Forward this email and ask your friends to go to "
+        ],
+        [
+          0,
+          [
+            6
+          ],
+          1,
+          "www.dailyposter.com/subscribe"
+        ],
+        [
+          0,
+          [],
+          0,
+          " and become a subscriber."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "2. "
+        ],
+        [
+          0,
+          [
+            7
+          ],
+          1,
+          "Click here"
+        ],
+        [
+          0,
+          [],
+          0,
+          " to give a gift subscription."
+        ]
+      ]
+    ],
+    [
+      10,
+      1
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "3. "
+        ],
+        [
+          0,
+          [
+            8
+          ],
+          1,
+          "Click here"
+        ],
+        [
+          0,
+          [],
+          0,
+          " to pitch in to our tip jar, which directly funds our open records requests and our deep-dive investigative reporting."
+        ]
+      ]
+    ],
+    [
+      10,
+      2
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "We are working as hard as we can to finally build a better media that holds politicians and corporate malefactors accountable — and our work is having a big impact."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Thank you again for being part of our team. Your solidarity and support is what makes this work possible."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Rock the boat,"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Sirota"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "P.S. To see the full MSNBC discussion about climate change, you can "
+        ],
+        [
+          0,
+          [
+            9
+          ],
+          1,
+          "click here"
+        ],
+        [
+          0,
+          [],
+          0,
+          "."
+        ]
+      ]
+    ]
+  ],
+  "ghostVersion": "4.0"
+}

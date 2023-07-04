@@ -1,0 +1,455 @@
+{
+  "version": "0.3.1",
+  "atoms": [
+    [
+      "soft-return",
+      "",
+      {}
+    ],
+    [
+      "soft-return",
+      "",
+      {}
+    ],
+    [
+      "soft-return",
+      "",
+      {}
+    ]
+  ],
+  "cards": [
+    [
+      "hr",
+      {}
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "html",
+      {
+        "html": "<table id=\"production-numbers-table\">\n<tbody>\n\t<tr>\n\t\t<td>AMX</td>\n\t\t<td>4,116</td>\n\t</tr>\n\t\t<td><b>Total Production</b></td>\n\t\t<td><b>4,116</b></td>\n\t</tr>\n</tbody>\n</table>"
+      }
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "html",
+      {
+        "html": "<table id=\"performance-specs-table\">\n<tbody>\n\t<tr>\n\t\t<th><b>Engine</b></th>\n\t\t<th><b>Size</b></td>\n\t\t<th><b>Carb.</b></td>\n\t\t<th><b>HP</b></td>\n\t\t<th><b>Torque</b></td>\n\t\t<th><b>0 to 60</b></td>\n\t\t<th><b>Quarter mile</b></td>\n\t</tr>\n\t<tr>\n\t\t<td>360ci V8</td>\n\t\t<td>360ci</td>\n\t\t<td>1x4bbl</td>\n\t\t<td>290hp</td>\n\t\t<td>395 lb-ft</td>\n\t\t<td>-</td>\n\t\t<td>-</td>\n\t</tr>\n    <tr>\n\t\t<td>390ci V8</td>\n\t\t<td>390ci</td>\n\t\t<td>1x4bbl</td>\n\t\t<td>325hp</td>\n\t\t<td>425 lb-ft</td>\n\t\t<td>6.56 sec</td>\n\t\t<td>14.68 @ 92.0 mph</td>\n\t</tr>\n</tbody>\n</table>"
+      }
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "html",
+      {
+        "html": "<h4 id='colors-sub-heading'>Exterior</h4>\n<div class=\"colors-row\">\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #203867\"></div>\n        <div class=\"color-name\">Electric Blue</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #467eba\"></div>\n        <div class=\"color-name\">Big Bad Blue</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #d3290f\"></div>\n        <div class=\"color-name\">Big Bad Orange</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #56a52b\"></div>\n        <div class=\"color-name\">Big Bad Green</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #6b1412\"></div>\n        <div class=\"color-name\">Matador Red</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #fef4d8\"></div>\n        <div class=\"color-name\">Hialeah Yellow</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #eee7ca\"></div>\n        <div class=\"color-name\">Frost White</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #642514\"></div>\n        <div class=\"color-name\">Bittersweet Orange</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #394962\"></div>\n        <div class=\"color-name\">Bayshore Blue</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #111725\"></div>\n        <div class=\"color-name\">Commodore Blue</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #184157\"></div>\n        <div class=\"color-name\">Sea Foam Aqua</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #454b32\"></div>\n        <div class=\"color-name\">Mosport Green</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #1b251d\"></div>\n        <div class=\"color-name\">Glen Green</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #565225\"></div>\n        <div class=\"color-name\">Golden Lime</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #7c6f58\"></div>\n        <div class=\"color-name\">Tijuana Tan</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #3c3022\"></div>\n        <div class=\"color-name\">Moroccan Brown</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #454a4e\"></div>\n        <div class=\"color-name\">Sonic Silver</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #000000\"></div>\n        <div class=\"color-name\">Classic Black</div>\n    </div>\n</div>\n\n<h4 id='colors-sub-heading'>Interior</h4>\n<div class=\"colors-row\">\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #000000\"></div>\n        <div class=\"color-name\">Black</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #111725\"></div>\n        <div class=\"color-name\">Blue</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #3c3022\"></div>\n        <div class=\"color-name\">Brown</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #454b32\"></div>\n        <div class=\"color-name\">Green</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #6b1412\"></div>\n        <div class=\"color-name\">Red</div>\n    </div>\n</div>\n"
+      }
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "gallery",
+      {
+        "images": [
+          {
+            "fileName": "3086_70_AM_themix1_low_res.jpg",
+            "row": 0,
+            "width": 768,
+            "height": 1024,
+            "src": "__GHOST_URL__/content/images/2020/06/3086_70_AM_themix1_low_res.jpg"
+          },
+          {
+            "fileName": "3087_70_amc_1_low_res.jpg",
+            "row": 0,
+            "width": 692,
+            "height": 519,
+            "src": "__GHOST_URL__/content/images/2020/06/3087_70_amc_1_low_res.jpg"
+          }
+        ],
+        "caption": "1970 AMC AMX OEM Brochures"
+      }
+    ],
+    [
+      "hr",
+      {}
+    ]
+  ],
+  "markups": [
+    [
+      "em"
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/tag/research/"
+      ]
+    ]
+  ],
+  "sections": [
+    [
+      1,
+      "p",
+      []
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Overview"
+        ]
+      ]
+    ],
+    [
+      10,
+      0
+    ],
+    [
+      1,
+      "p",
+      []
+    ],
+    [
+      1,
+      "h3",
+      [
+        [
+          0,
+          [],
+          0,
+          "American Motors 1970 AMX advertising headlined, \"We made the AMX look tougher this year because it's tougher this year\"."
+        ]
+      ]
+    ],
+    [
+      10,
+      1
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "American Motors 1970 AMX advertising headlined, \"We made the AMX look tougher this year because it's tougher this year\". They were mildly face-lifted resembling the first two model years, but the changes were different enough to be a separate design for 1970. Featured was a new front end design with a longer hood that had a “power blister” with two large openings. These were a functional cold ram-air induction system with the popular \"Go Package\" available with the 360 and 390 engines. The new grille was flush and full-width incorporating the headlamps. The revised rear end also featured full-width tail lamps and a single center mounted backup light. Side marker lights were now shared with several other AMC models. Riding on the same wheelbase 97-inch as before, the changes increased the AMX's overall body length by about two inches to 179 in."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "American Motors also changed the AMX's engine lineup for 1970 with the introduction of a new 360 cu in four-barrel (290 hp P-code) to replace the 343 V8. The smallest 290 was dropped and AMC could claim 65 more base horsepower than the AMXs had previously. The 390 V8 engine continued, but upgraded to new heads with 51 cc combustion chambers that gave 325 hp. The code remained \"X\" for the engine on the vehicle identification number (VIN). The \"Go package\" was available with the 360 engine (including power front disc brakes, F70x14 raised white letter tires, handling package, and the ram-air induction system) for $298.85, or including the 390 engine for $383.90."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Also new, the double-wishbone front suspension had ball joints, upper and lower control arms, coil springs and shock absorbers above the upper control arms; as well as trailing struts on the lower control arms. The \"Magnum 500\" road wheels were now standard, but the new \"Machine\" 15x7 inch slot-styled wheels were optional."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "The interiors of the AMX were also redesigned. The broad wood-grained dashboard, center console, and two-spoke \"Rim Blow\" steering wheel were new. Tall bucket seats now featured a \"clamshell\" design integrating the headrests. Leather upholstery was $34 extra. The exterior rear view mirror featured a new design and in some cases matched the car's body color. The three \"Big Bad\" exterior paints continued to be optional on the 1970 AMXs, but they now came with regular chrome bumpers. A new \"shadow mask\" exterior finish applied over any available AMX color was a $52 option, which included a satin black-painted hood, engine compartment, front fender tops, and side window surrounds offset by thin silver striping. The optional \"C-stripe\" was $32."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "The manufacturer's suggested retail price (MSRP) for the base model was $3,395 as AMC promoted the 1970 AMX as, \"A sports car for the price of a sporty car.\""
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Motor Trend summed up a road test of a 1970 AMX with the 390 engine as \"one of better constructed cars around.\" Described as “the best version yet of this blend of muscle car and sports car”, the 1970 model was also the last “true AMX”."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          1,
+          [],
+          0,
+          0
+        ]
+      ]
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Production Numbers"
+        ]
+      ]
+    ],
+    [
+      10,
+      2
+    ],
+    [
+      10,
+      3
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Performance Specs"
+        ]
+      ]
+    ],
+    [
+      10,
+      4
+    ],
+    [
+      10,
+      5
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Transmission"
+        ]
+      ]
+    ],
+    [
+      10,
+      6
+    ],
+    [
+      3,
+      "ul",
+      [
+        [
+          [
+            0,
+            [],
+            0,
+            "4-Speed Manual Borg Warner"
+          ]
+        ],
+        [
+          [
+            0,
+            [],
+            0,
+            "\"Shift-Command\" 3-Speed Automatic Transmission"
+          ]
+        ]
+      ]
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Paint & Colors"
+        ]
+      ]
+    ],
+    [
+      10,
+      7
+    ],
+    [
+      10,
+      8
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "OEM Brochures"
+        ]
+      ]
+    ],
+    [
+      10,
+      9
+    ],
+    [
+      10,
+      10
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "About the Knowledge Base"
+        ]
+      ]
+    ],
+    [
+      10,
+      11
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "The Motorious Knowledge Base provides a comprehensive vehicle overview for the 1970 AMC AMX"
+        ],
+        [
+          0,
+          [
+            0,
+            0
+          ],
+          2,
+          " "
+        ],
+        [
+          0,
+          [],
+          0,
+          "including production numbers, performance specs, factory colors, and OEM brochures. Check out additional model years or related content linked to this article or view other Makes and Models in our "
+        ],
+        [
+          0,
+          [
+            1
+          ],
+          1,
+          "Research"
+        ],
+        [
+          0,
+          [],
+          0,
+          " center."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "If you have any interesting facts about the 1970 AMC AMX"
+        ],
+        [
+          0,
+          [
+            0,
+            0
+          ],
+          2,
+          " "
+        ],
+        [
+          0,
+          [],
+          0,
+          "to add, want to tell us how we did covering the AMX, or want to tell us about yours, please leave a comment below."
+        ],
+        [
+          1,
+          [],
+          0,
+          1
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          1,
+          [],
+          0,
+          2
+        ]
+      ]
+    ]
+  ],
+  "ghostVersion": "3.0"
+}

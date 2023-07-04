@@ -1,0 +1,365 @@
+{
+  "version": "0.3.1",
+  "atoms": [],
+  "cards": [
+    [
+      "hr",
+      {}
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "html",
+      {
+        "html": "<table id=\"production-numbers-table\">\n  <tbody>\n      <tr><td>2-Dr Hardtop</td><td>90,152</td></tr>\n      <tr><td>2-Dr Convertible</td><td>9,980</td></tr>\n      </tr><td><b>Total Production</b></td><td><b>100,132</b></td></tr>     </tbody>\n</table>"
+      }
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "html",
+      {
+        "html": "<table id=\"performance-specs-table\">\n<tbody>\n\t<tr>\n\t\t<th><b>Engine</b></th>\n\t\t<th><b>Size</b></td>\n\t\t<th><b>Carb.</b></td>\n\t\t<th><b>HP</b></td>\n\t\t<th><b>Torque</b></td>\n\t\t<th><b>0 to 60</b></td>\n\t\t<th><b>Quarter mile</b></td>\n\t</tr>\n\t<tr>\n\t\t<td>I6-Firebird</td>\n\t\t<td>230ci</td>\n\t\t<td>1x1bbl</td>\n\t\t<td>165 hp</td>\n\t\t<td>216 lb-ft</td>\n\t\t<td>-</td>\n        <td>-</td>\n\t</tr>\n\t<tr>\n\t\t<td>I6-Firebird Sprint</td>\n\t\t<td>230ci</td>\n\t\t<td>1x4bbl</td>\n\t\t<td>215 hp</td>\n\t\t<td>240 lb-ft</td>\n\t\t<td>-</td>\n        <td>-</td>\n\t</tr>\n<tr>\n\t\t<td>Firebird 326 V8</td>\n\t\t<td>326ci</td>\n\t\t<td>1x2bbl</td>\n\t\t<td>250 hp</td>\n\t\t<td>333 lb-ft</td>\n\t\t<td>-</td>\n    \t<td>-</td>\n\t</tr>\n<tr>\n\t\t<td>Firebird HO</td>\n\t\t<td>326ci</td>\n\t\t<td>1x4bbl</td>\n\t\t<td>285 hp</td>\n\t\t<td>359 lb-ft</td>\n\t\t<td>-</td>\n    \t<td>-</td>\n\t</tr>\n<tr>\n\t\t<td>Firebird 400</td>\n\t\t<td>400ci</td>\n\t\t<td>1x4bbl</td>\n\t\t<td>325 hp</td>\n\t\t<td>410 lb-ft</td>\n\t\t<td>5.8 sec</td>\n    \t<td>14.4 sec @ 100 mph</td>\n\t</tr>\n<tr>\n</tbody>\n</table>"
+      }
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "html",
+      {
+        "html": "<h4 id='colors-sub-heading'>Exterior</h4>\n<div class=\"colors-row\">   \n    <div class=\"color-pair \">       \n        <div class=\"color-chip\" style=\"background: #000000\"></div>       \t\t<div class=\"color-name\">Starlight Black</div>   \n\t</div>\n    <div class=\"color-pair \">       \n        <div class=\"color-chip\" style=\"background: #57708f\"></div>       \t\t<div class=\"color-name\">Monreux Blue Metallic</div>   \n\t</div>\n    <div class=\"color-pair \">       \n        <div class=\"color-chip\" style=\"background: #3a5a7e\"></div>       \t\t<div class=\"color-name\">Tyrol Blue Metallic</div>   \n\t</div>\n    <div class=\"color-pair \">       \n        <div class=\"color-chip\" style=\"background: #7c8b7a\"></div>       \t\t<div class=\"color-name\">Linden Green Metallic</div>   \n\t</div>\n    <div class=\"color-pair \">       \n        <div class=\"color-chip\" style=\"background: #2e4554\"></div>       \t\t<div class=\"color-name\">Mariner Turquoise Metallic</div>   \n\t</div>\n    <div class=\"color-pair \">       \n        <div class=\"color-chip\" style=\"background: #4a2429\"></div>       \t\t<div class=\"color-name\">Burgundy Metallic</div>   \n\t</div>\n    <div class=\"color-pair \">       \n        <div class=\"color-chip\" style=\"background: #41892d\"></div>       \t\t<div class=\"color-name\">Verdoro Green Metallic</div>   \n\t</div>\n    <div class=\"color-pair \">       \n        <div class=\"color-chip\" style=\"background: #a79675\"></div>       \t\t<div class=\"color-name\">Champagne Metallic</div>   \n\t</div>\n    <div class=\"color-pair \">       \n        <div class=\"color-chip\" style=\"background: #e1dcc9\"></div>       \t\t<div class=\"color-name\">Cameo Ivory</div>   \n\t</div>\n    <div class=\"color-pair \">       \n        <div class=\"color-chip\" style=\"background: #21263c\"></div>       \t\t<div class=\"color-name\">Fathom Blue Metallic</div>   \n\t</div>\n    <div class=\"color-pair \">       \n        <div class=\"color-chip\" style=\"background: #8d785e\"></div>       \t\t<div class=\"color-name\">Signet Gold Metallic</div>   \n\t</div>\n    <div class=\"color-pair \">       \n        <div class=\"color-chip\" style=\"background: #648e9a\"></div>       \t\t<div class=\"color-name\">Gulf Turquoise Metallic</div>   \n\t</div>\n    <div class=\"color-pair \">       \n        <div class=\"color-chip\" style=\"background: #3d2f35\"></div>       \t\t<div class=\"color-name\">Plum Mist Metallic</div>   \n\t</div>\n    <div class=\"color-pair \">       \n        <div class=\"color-chip\" style=\"background: #9e9683\"></div>       \t\t<div class=\"color-name\">Silverglaze Metallic</div>   \n\t</div>\n    <div class=\"color-pair \">       \n        <div class=\"color-chip\" style=\"background: #962523\"></div>       \t\t<div class=\"color-name\">Regimental Red</div>   \n\t</div>\n    <div class=\"color-pair \">       \n        <div class=\"color-chip\" style=\"background: #eae0bc\"></div>       \t\t<div class=\"color-name\">Montego Cream</div>   \n\t</div>\n<h4 id='colors-sub-heading'>Interior</h4>\n<div class=\"colors-row\">\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #d1cebd\"></div>\n        <div class=\"color-name\">Parchment</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #544c42\"></div>\n        <div class=\"color-name\">Midnight Fawn Metallic</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #6a7a91\"></div>\n        <div class=\"color-name\">Medium Blue Metallic</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #181415\"></div>\n        <div class=\"color-name\">Black</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #90846c\"></div>\n        <div class=\"color-name\">Medium Gold Metallic</div>\n </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #485c65\"></div>\n        <div class=\"color-name\">Dark Turquoise Metallic</div>\n</div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #863428\"></div>\n        <div class=\"color-name\">Red</div>\n    </div>\n</div>"
+      }
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "gallery",
+      {
+        "images": [
+          {
+            "fileName": "652_1_low_res.jpeg",
+            "row": 0,
+            "width": 739,
+            "height": 1024,
+            "src": "__GHOST_URL__/content/images/2020/06/652_1_low_res.jpeg"
+          },
+          {
+            "fileName": "653_2_low_res2.jpeg",
+            "row": 0,
+            "width": 769,
+            "height": 1024,
+            "src": "__GHOST_URL__/content/images/2020/06/653_2_low_res2.jpeg"
+          },
+          {
+            "fileName": "654_3_low_res3.jpeg",
+            "row": 0,
+            "width": 790,
+            "height": 342,
+            "src": "__GHOST_URL__/content/images/2020/06/654_3_low_res3.jpeg"
+          }
+        ],
+        "caption": "1967 Pontiac Firebird OEM Brochures"
+      }
+    ],
+    [
+      "hr",
+      {}
+    ]
+  ],
+  "markups": [
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/tag/research/"
+      ]
+    ]
+  ],
+  "sections": [
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Overview"
+        ]
+      ]
+    ],
+    [
+      10,
+      0
+    ],
+    [
+      1,
+      "h3",
+      [
+        [
+          0,
+          [],
+          0,
+          "Pontiac ushered in a new sports car in 1967-the Firebird."
+        ]
+      ]
+    ],
+    [
+      10,
+      1
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Pontiac ushered in a new sports car in 1967-the Firebird. It shared the same F-body styling and other elements with its General Motors cousin, the Camaro. Much of the sheet metal is shared, but Pontiac made sure to differentiate themselves from family."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "The front end was very much still Pontiac with enclosed taillights that very much resembled the GTO. Under the hood was all Pontiac, offering five different engines to throw in the bay of this Pony car."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Pontiac offered many options with the Firebird so that customers could truly own a unique sports car, different from other cars, even Pontiac drivers."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "The Firebird would never catch up to the sales and popularity of the first Pony car, the Mustang, but it was still successful, nevertheless."
+        ]
+      ]
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Production Numbers"
+        ]
+      ]
+    ],
+    [
+      10,
+      2
+    ],
+    [
+      10,
+      3
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Performance Specs"
+        ]
+      ]
+    ],
+    [
+      10,
+      4
+    ],
+    [
+      10,
+      5
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Transmission"
+        ]
+      ]
+    ],
+    [
+      10,
+      6
+    ],
+    [
+      3,
+      "ul",
+      [
+        [
+          [
+            0,
+            [],
+            0,
+            "2-Speed Auto (not 400 model)"
+          ]
+        ],
+        [
+          [
+            0,
+            [],
+            0,
+            "4-Speed Manual"
+          ]
+        ],
+        [
+          [
+            0,
+            [],
+            0,
+            "3-Speed Turbo Hydra-Matic (400 only)"
+          ]
+        ],
+        [
+          [
+            0,
+            [],
+            0,
+            "3-Speed Manual"
+          ]
+        ]
+      ]
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Paint & Colors"
+        ]
+      ]
+    ],
+    [
+      10,
+      7
+    ],
+    [
+      10,
+      8
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "OEM Brochures"
+        ]
+      ]
+    ],
+    [
+      10,
+      9
+    ],
+    [
+      10,
+      10
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "About the Knowledge Base"
+        ]
+      ]
+    ],
+    [
+      10,
+      11
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "The Motorious Knowledge Base provides a comprehensive vehicle overview for the 1967 Pontiac Firebird including production numbers, performance specs, factory colors, and OEM brochures. Check out additional model years or related content linked to this article or view other Makes and Models in our "
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "Research"
+        ],
+        [
+          0,
+          [],
+          0,
+          " center."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "If you have any interesting facts about the 1967 Pontiac Firebird to add, want to tell us how we did covering the Firebird, or want to tell us about yours, please leave a comment below."
+        ]
+      ]
+    ]
+  ],
+  "ghostVersion": "3.0"
+}

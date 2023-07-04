@@ -1,0 +1,16 @@
+{
+  "root": {
+    "children": [
+      {
+        "type": "markdown",
+        "cardName": "card-markdown",
+        "markdown": "\n![MT4 Comment Login](https://i2.wp.com/www.onemanandhisblog.com/content/images/2007/06/mt4signin.png?resize=550%2C342 \"MT4 Comment Login\")<span style=\"font-size:0pt;\">  \n  \n</span>First thing that I’ve discovered in Movable Type 4 that makes me really, really happy: comment registration. You can actually sign up to be a registered commenter on any MT blog natively under version 4 – and those user accounts can be upgraded to poster rights later, if you should so wish. Now, this ability has been there in other blogging platforms, but it’s nice to see it in MT.\n\nThe really nice touch is the implementation of [OpenID](http://openid.net/). Basically, the OpenID, Livejournal and Vox sign-in options are all just OpenID, but it’s handled is such a smooth, easy and non-techie way that it’s just lovely. I can certainly see my Mum signing in to post comments here using her Vox account, for example.\n\n![MT4 Vox Comment](https://i2.wp.com/www.onemanandhisblog.com/content/images/2007/06/MT4VoxComment.png?resize=524%2C220 \"MT4 Vox Comment\")\n\nGoing forwards, I see no reason that enterprising developers can’t extend that functionality to other OpenID-enabled systems. Very nice indeed.\n\n\n"
+      }
+    ],
+    "direction": null,
+    "format": "",
+    "indent": 0,
+    "type": "root",
+    "version": 1
+  }
+}

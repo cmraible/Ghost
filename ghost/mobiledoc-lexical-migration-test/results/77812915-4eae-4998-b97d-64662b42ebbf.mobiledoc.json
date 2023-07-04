@@ -1,0 +1,410 @@
+{
+  "version": "0.3.1",
+  "atoms": [],
+  "cards": [
+    [
+      "hr",
+      {}
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "html",
+      {
+        "html": "<table id=\"production-numbers-table\">\n<tbody>\n\t<tr>\n\t\t<td>Convertible Coupe</td>\n\t\t<td>79,903</td>\n\t</tr>\n    \t<tr>\n\t\t<td>4- DR Sedan</td>\n\t\t<td>number</td>\n\t</tr>\n    \t<tr>\n\t\t<td>Hardtop Coupe</td>\n\t\t<td>number</td>\n\t</tr>\n    \t<tr>\n\t\t<td>Hardtop Sedan</td>\n\t\t<td>number</td>\n\t</tr>\n    \t<tr>\n\t\t<td>Station Wagon</td>\n\t\t<td>number</td>\n\t</tr>\n    \t<tr>\n\t\t<td>4-DR Nomad</td>\n\t\t<td>number</td>\n\t</tr>\n\t\t<td><b>Total Production</b></td>\n\t\t<td><b>total number</b></td>\n\t</tr>\n</tbody>\n</table>"
+      }
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "html",
+      {
+        "html": "<table id=\"performance-specs-table\">\n<tbody>\n\t<tr>\n\t\t<th><b>Engine</b></th>\n\t\t<th><b>Size</b></td>\n\t\t<th><b>Carb.</b></td>\n\t\t<th><b>HP</b></td>\n\t\t<th><b>0 to 60</b></td>\n\t\t<th><b>Quarter mile</b></td>\n\t</tr>\n\t<tr>\n\t\t<td>Super Turbo Thrust V8</td>\n\t\t<td>348ci</td>\n\t\t<td>3x2bbl</td>\n\t\t<td>280</td>\n\t\t<td>-</td>\n\t\t<td>-</td>\n\t</tr>\n\t<tr>\n\t\t<td>Turbo Thrust V8</td>\n\t\t<td>348ci</td>\n\t\t<td>1x4bbl</td>\n\t\t<td>250</td>\n\t\t<td>-</td>\n\t\t<td>-</td>\n\t</tr>\n\t<tr>\n\t\t<td>Super Turbo Fire V8</td>\n\t\t<td>283ci</td>\n\t\t<td>1x4bbl</td>\n\t\t<td>230</td>\n\t\t<td>-</td>\n\t\t<td>-</td>\n\t</tr>\n\t<tr>\n\t\t<td>Economy Turbo Fire V8</td>\n\t\t<td>283ci</td>\n\t\t<td>1x2bbl</td>\n\t\t<td>170</td>\n\t\t<td>-</td>\n\t\t<td>-</td>\n\t</tr>\n\t<tr>\n\t\t<td>Hi Thrift 6</td>\n\t\t<td>235.5ci</td>\n\t\t<td>1x1bbl</td>\n\t\t<td>135</td>\n\t\t<td>-</td>\n\t\t<td>-</td>\n\t</tr>\n\t<tr>\n\t\t<td>Turbo Thrust Special V8</td>\n\t\t<td>348ci</td>\n\t\t<td>1x4bbl</td>\n\t\t<td>305</td>\n\t\t<td>-</td>\n\t\t<td>-</td>\n\t</tr>\n\t<tr>\n\t\t<td>Super Turbo Thrust Special V8</td>\n\t\t<td>348ci</td>\n\t\t<td>3x2bbl</td>\n\t\t<td>335</td>\n\t\t<td>7.2 sec</td>\n\t\t<td>15.5 sec</td>\n\t</tr>\n</tbody>\n</table>"
+      }
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "html",
+      {
+        "html": "<h4 id='colors-sub-heading'>Exterior</h4>\n<div class=\"colors-row\">\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #000000\"></div>\n        <div class=\"color-name\">Tuxedo Black</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #848f79\"></div>\n        <div class=\"color-name\">Cascade Green</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #4f6156\"></div>\n        <div class=\"color-name\">Jade Green</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #6988a7\"></div>\n        <div class=\"color-name\">Horizon Blue</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #2c476f\"></div>\n        <div class=\"color-name\">Royal Blue</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #4a6d80\"></div>\n        <div class=\"color-name\">Tasco Turquoise</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #8b6450\"></div>\n        <div class=\"color-name\">Suntan Copper</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #9d271e\"></div>\n        <div class=\"color-name\">Roman Red</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #e7e3a0\"></div>\n        <div class=\"color-name\">Crocus Cream</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #e3deca\"></div>\n        <div class=\"color-name\">Ermine White</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #c9beb0\"></div>\n        <div class=\"color-name\">Fawn Beige</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #899297\"></div>\n        <div class=\"color-name\">Sateen Silver</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #4c505c\"></div>\n        <div class=\"color-name\">Shadow Gray</div>\n    </div>\n</div>\n\n<h4 id='colors-sub-heading'>Interior</h4>\n<div class=\"colors-row\">\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #000000\"></div>\n        <div class=\"color-name\">Black</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #284267\"></div>\n        <div class=\"color-name\">Blue</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #734428\"></div>\n        <div class=\"color-name\">Copper</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #566d48\"></div>\n        <div class=\"color-name\">Green</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #70a6bc\"></div>\n        <div class=\"color-name\">Turquoise</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #c2372d\"></div>\n        <div class=\"color-name\">Red</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #e3deca\"></div>\n        <div class=\"color-name\">White</div>\n    </div>\n</div>\n"
+      }
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "gallery",
+      {
+        "images": [
+          {
+            "fileName": "1224_3_low_res.jpg",
+            "row": 0,
+            "width": 687,
+            "height": 907,
+            "src": "__GHOST_URL__/content/images/2020/08/1224_3_low_res.jpg"
+          },
+          {
+            "fileName": "1225_4_low_res.jpg",
+            "row": 0,
+            "width": 679,
+            "height": 907,
+            "src": "__GHOST_URL__/content/images/2020/08/1225_4_low_res.jpg"
+          },
+          {
+            "fileName": "1226_8_low_res.jpg",
+            "row": 0,
+            "width": 689,
+            "height": 1024,
+            "src": "__GHOST_URL__/content/images/2020/08/1226_8_low_res.jpg"
+          },
+          {
+            "fileName": "1221_1_low_res (1).jpg",
+            "row": 1,
+            "width": 666,
+            "height": 907,
+            "src": "__GHOST_URL__/content/images/2020/08/1221_1_low_res--1-.jpg"
+          },
+          {
+            "fileName": "1222_2__1__low_res (1).jpg",
+            "row": 1,
+            "width": 790,
+            "height": 281,
+            "src": "__GHOST_URL__/content/images/2020/08/1222_2__1__low_res--1-.jpg"
+          },
+          {
+            "fileName": "1223_2_low_res.jpg",
+            "row": 1,
+            "width": 679,
+            "height": 907,
+            "src": "__GHOST_URL__/content/images/2020/08/1223_2_low_res.jpg"
+          }
+        ],
+        "caption": "1960 Chevrolet Impala OEM Brochures"
+      }
+    ],
+    [
+      "hr",
+      {}
+    ]
+  ],
+  "markups": [
+    [
+      "strong"
+    ],
+    [
+      "em"
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/tag/research/"
+      ]
+    ]
+  ],
+  "sections": [
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Overview"
+        ]
+      ]
+    ],
+    [
+      10,
+      0
+    ],
+    [
+      1,
+      "h3",
+      [
+        [
+          0,
+          [],
+          0,
+          "1960 ushered in cleaner lines for the top-of-the-line Impala. Chevrolet reshaped and separated the \"bat wing\" tail fins and added 6 round taillights to the rear, a feature the car would become known for."
+        ]
+      ]
+    ],
+    [
+      10,
+      1
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "1960 ushered in cleaner lines for the top-of-the-line Impala. Chevrolet reshaped and separated the \"bat wing\" tail fins and added 6 round taillights to the rear, a feature the car would become known for."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "The 1960 Impala became the best-selling automobile in the US, and continued to hold that position for the next decade. It did this by producing 511,925 total."
+        ]
+      ]
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Production Numbers"
+        ]
+      ]
+    ],
+    [
+      10,
+      2
+    ],
+    [
+      10,
+      3
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Performance Specs"
+        ]
+      ]
+    ],
+    [
+      10,
+      4
+    ],
+    [
+      10,
+      5
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Transmission"
+        ]
+      ]
+    ],
+    [
+      10,
+      6
+    ],
+    [
+      3,
+      "ul",
+      [
+        [
+          [
+            0,
+            [
+              0,
+              0
+            ],
+            2,
+            "Turboglide"
+          ]
+        ],
+        [
+          [
+            0,
+            [
+              0,
+              0
+            ],
+            2,
+            "Powerglide"
+          ]
+        ],
+        [
+          [
+            0,
+            [
+              0,
+              0
+            ],
+            2,
+            "Overdrive"
+          ]
+        ],
+        [
+          [
+            0,
+            [
+              0,
+              0
+            ],
+            2,
+            "4-Speed Synchromesh"
+          ]
+        ]
+      ]
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Paint & Colors"
+        ]
+      ]
+    ],
+    [
+      10,
+      7
+    ],
+    [
+      10,
+      8
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "OEM Brochures"
+        ]
+      ]
+    ],
+    [
+      10,
+      9
+    ],
+    [
+      10,
+      10
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "About the Knowledge Base"
+        ]
+      ]
+    ],
+    [
+      10,
+      11
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "The Motorious Knowledge Base provides a comprehensive vehicle overview for the 1960 Chevrolet Impala"
+        ],
+        [
+          0,
+          [
+            1,
+            1
+          ],
+          2,
+          " "
+        ],
+        [
+          0,
+          [],
+          0,
+          "including production numbers, performance specs, factory colors, and OEM brochures. Check out additional model years or related content linked to this article or view other Makes and Models in our "
+        ],
+        [
+          0,
+          [
+            2
+          ],
+          1,
+          "Research"
+        ],
+        [
+          0,
+          [],
+          0,
+          " center."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "If you have any interesting facts about the 1960 Chevrolet Impala"
+        ],
+        [
+          0,
+          [
+            1,
+            1
+          ],
+          2,
+          " "
+        ],
+        [
+          0,
+          [],
+          0,
+          "to add, want to tell us how we did covering the Impala, or want to tell us about yours, please leave a comment below."
+        ]
+      ]
+    ]
+  ],
+  "ghostVersion": "3.0"
+}

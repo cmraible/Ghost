@@ -1,0 +1,41 @@
+<p>I'm busy working for my long-term clients at their <a href="https://nextconf.eu/blog/">NEXT Conference</a> in Hamburg today — right in the heart of the Reeperbahn Festival. To keep the blog ticking over, here's a piece that was sent to members of my audience engagement mailing list <a href="http://www.engagedreadingtime.com/issues/engaged-reading-time-issue-47-196462">last week</a>, looking at a big new change in SEO.</p>
+<hr>
+<p>Big SEO news, that's worth paying attention to — and planning for implementing. Google is about to change nofollow. And that matters.</p>
+<h2 id="a-little-nofollow-history"><strong>A little nofollow history</strong></h2>
+<p>Waaaaay back in the dawn of the Web 2.0 age, about 15 years ago, comment spam was a big problem. SEOs would spam comment sections with links, to try and boost their clients' search rankings. Links to a site ("backlinks") are a major part of Google's algorithm.</p>
+<p>Google and the major blog platforms of the day (aaah, Movable Type, how I loved you…) came together to create <em>rel="nofollow"</em>, a link attribute that told Google to ignore a link for ranking purposes. The idea was that, if you wrapped the comments section in that, you would remove the incentive for the spammer to, well, spam.</p>
+<p>In the years since, it's become more prominent as a tool for marking content as sponsored, so links in sponsored or advertising content don't count towards a site's search ranking. This has always been a blunt tool, and an abused one.</p>
+<p>Now Google is doing something more complex. It's added two more attributes to mark more clearly what is intended:</p>
+<ul>
+    <li>rel="sponsored"</li>
+    <li>rel="ugc"</li>
+</ul>
+<h2 id="why"><strong>Why?</strong></h2>
+<p>Here's Google's expansion of the reason for the change, from the <a href="https://webmasters.googleblog.com/2019/09/evolving-nofollow-new-ways-to-identify.html">blog post on Google Webmasters blog</a>:</p>
+<blockquote>Links contain valuable information that can help us improve search, such as how the words within links describe content they point at. Looking at all the links we encounter can also help us better understand unnatural linking patterns. By shifting to a hint model, we no longer lose this important information, while still allowing site owners to indicate that some links shouldn’t be given the weight of a first-party endorsement.</blockquote>
+<p>Basically, Google is saying "there's a while lot of useful indexing and ranking information locked up in those no followed links. Let's start using them."</p>
+<p>So all those no followed links out there are going to become relevant to search. Google wants us to help by being accurate in our classifications. That's almost certainly worth doing, if only as a defensive measure, to make sure we don't accidentally get penalised for publishing something sponsored with unmarked links in it.</p>
+<p>In fact, I suspect that part of the reason for this is to make it easier for Google to find un-marked sponsored links. If you publish and unmarked link from an advertiser at the same time as a competitor who has marked it "sponsored" - well, Google's going to be on top of that pretty quickly.</p>
+<h2 id="examining-the-new-link-attributes"><strong>Examining the new link attributes</strong></h2>
+<blockquote><strong>rel="sponsored"</strong>: Use the sponsored attribute to identify links on your site that were created as part of advertisements, sponsorships or other compensation agreements.</blockquote>
+<p>This is what nofollow has been used most for over the past few years. All your sponsored content, native advertising and just plain old advertising should be wrapped in this, to protect your search ranking.</p>
+<p><strong>New default</strong>: all adverts should be wrapped in "sponsored", no exceptions. If advertisers want links without the attribute, push back. It's just too risky. One of the reasons Google is shifting these to "hint" attributes is that it will make it <em>easier </em> for it to find unnatural linking patterns.</p>
+<blockquote><strong>rel="ugc"</strong>: UGC stands for User Generated Content, and the ugc attribute value is recommended for links within user generated content, such as comments and forum posts.</blockquote>
+<p>Now, this looks like the old, original use of nofollow - to differentiate links the site's staff have chosen to post, and those posted by visitors. In essence, this is saying "these are second class links, chosen by our community and not us".</p>
+<p>This could actually be quite valuable to sites with strong, relevant communities. Rather than the "blackout" approach of before, now Google can see those links, and potentially use them to help assess your site.</p>
+<p>Something I need to investigate further: should this be the default for links in contributed copy by guest autheors?</p>
+<blockquote><strong>rel="nofollow"</strong>: Use this attribute for cases where you want to link to a page but don’t want to imply any type of endorsement, including passing along ranking credit to another page.</blockquote>
+<p>This will get misused to try and shape search ranking, but it is what you might call the journalistic use of the attribute. If you want to link to something, but not be seen as endorsing it, this is the attribute to use.</p>
+<h2 id="consequences"><strong>Consequences</strong></h2>
+<p>A couple of key points:</p>
+<ol>
+    <li>You don't have to change - but you might want to in the medium term. You won't be penalised in any way from using "nofollow" instead of "sponsored" or "ugc".</li>
+    <li>Don't let advertisers talk you into using "ugc" when you should use "sponsored". And they <em>will</em> try.</li>
+    <li>You can used more than one attribute on a single link.</li>
+</ol>
+<p>Nofollow used to be a complete block on a link passing PageRank. No more. That's probably a good thing - some sites took the approach of nofollowing <em>all their links, </em> just to be on the safe side. That no longer works. As of March 2020, Google will be looking at those links as hints, not blocks.</p>
+<p>Honestly, we're not going to see how this impacts search for nearly a year. But start getting your technology act together for then. This is a big change, and it will start shifting things around. (Think of all those "nofollow" links on Wikipedia, which might start counting…) Oh, and we also need to wait and see is how the SEO Black Hats try to manipulate this…</p>
+<h2 id="deadline"><strong>Deadline</strong></h2>
+<p>This will go into effect from March 2020. Start talking to your web developers now.</p>
+<hr>
+<p><em>Members of <strong>Engaged Reading Time</strong> get content like this every week, for just £10 a month. <a href="http://www.getrevue.co/profile/adders/members"><em>Sign up here</em></a> for a regular boost to your engaged journalism skills and knowledge</em></p>

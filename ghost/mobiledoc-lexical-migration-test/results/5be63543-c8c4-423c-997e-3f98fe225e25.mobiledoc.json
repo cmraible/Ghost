@@ -1,0 +1,461 @@
+{
+  "version": "0.3.1",
+  "atoms": [
+    [
+      "soft-return",
+      "",
+      {}
+    ],
+    [
+      "soft-return",
+      "",
+      {}
+    ]
+  ],
+  "cards": [
+    [
+      "email",
+      {
+        "html": "<p>Morning {first_name, \"valued subscriber\"},</p><p>A quick switch of formats. I suddenly remembered that the format I use below was well received when I trialled it last year (which feels like it was about nine months ago, but is less than three…) and I think it hits the “quick digest” feel more cleanly. Let me know what you think.</p>"
+      }
+    ],
+    [
+      "bookmark",
+      {
+        "url": "https://unherd.com/2021/03/how-dangerous-is-the-astrazeneca-jab/",
+        "metadata": {
+          "url": "https://unherd.com/2021/03/how-dangerous-is-the-astrazeneca-jab/",
+          "title": "How safe is the AstraZeneca jab? - UnHerd",
+          "description": "Without a firm grasp of statistics, bad decisions are inevitable",
+          "author": "Tom Chivers",
+          "publisher": "UnHerd",
+          "thumbnail": "https://unherd.com/wp-content/uploads/2021/03/GettyImages-1231558318-1.jpg",
+          "icon": "https://unherd.com/wp-content/uploads/2019/09/cropped-favicon-192x192.jpg"
+        }
+      }
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "embed",
+      {
+        "url": "https://twitter.com/moorehn/status/1372158783980515331?s=21",
+        "html": "<blockquote class=\"twitter-tweet\"><p lang=\"en\" dir=\"ltr\">Twice this week I&#39;ve tangled with men who buy botnets to pile on to women with harassing tweets. This is such a normalized part of Twitter discourse that most of us don&#39;t even note it any more. <br><br>But take note that these botnets are meant to keep women silent and scared in public</p>&mdash; Heidi N. Moore (@moorehn) <a href=\"https://twitter.com/moorehn/status/1372158783980515331?ref_src=twsrc%5Etfw\">March 17, 2021</a></blockquote>\n<script async src=\"https://platform.twitter.com/widgets.js\" charset=\"utf-8\"></script>\n",
+        "type": "rich",
+        "metadata": {
+          "url": "https://twitter.com/moorehn/status/1372158783980515331",
+          "author_name": "Heidi N. Moore",
+          "author_url": "https://twitter.com/moorehn",
+          "width": 550,
+          "height": null,
+          "cache_age": "3153600000",
+          "provider_name": "Twitter",
+          "provider_url": "http://www.twitter.com/",
+          "version": "1.0"
+        }
+      }
+    ],
+    [
+      "email",
+      {
+        "html": "<p>Have a great day, folks.&nbsp;</p>"
+      }
+    ]
+  ],
+  "markups": [
+    [
+      "a",
+      [
+        "href",
+        "https://martinbelam.com"
+      ]
+    ],
+    [
+      "strong"
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/2020/09/cancel-culture-afterlife-glinner-and-substack/"
+      ]
+    ],
+    [
+      "em"
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.inpublishing.co.uk/articles/using-podcasts-to-drive-subs-18334"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://techcrunch.com/2021/03/17/in-expanded-crackdown-facebook-increases-penalties-for-rule-breaking-groups-and-their-members/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://zeynep.substack.com/p/long-covid-how-bungle-reporting-on?token=eyJ1c2VyX2lkIjoxMTY1MzAsInBvc3RfaWQiOjMzNjI4Nzg0LCJfIjoiclFSeFYiLCJpYXQiOjE2MTU5ODQ1MjIsImV4cCI6MTYxNTk4ODEyMiwiaXNzIjoicHViLTExODQiLCJzdWIiOiJwb3N0LXJlYWN0aW9uIn0.bAjRUAG_kmafTL9jDMgJ8wQhODS6WM2XtariX1qUx6w"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://medium.com/behind-local-news-uk/hyperlocal-news-wire-service-launches-71483524ab99"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.washingtonpost.com/lifestyle/media/online-harassment-female-journalists/2021/03/13/ed24b0aa-82aa-11eb-ac37-4383f7709abe_story.html"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://memex.naughtons.org/saturday-13-march-2021/33226/"
+      ]
+    ]
+  ],
+  "sections": [
+    [
+      10,
+      0
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "A statistical style guide"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Here's a gem from what "
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "Martin"
+        ],
+        [
+          0,
+          [],
+          0,
+          " calls “the cow site”: Tom Chivers starts talking about the current kerfuffle about the AstraZeneca vaccine, but then segues into breaking down how to report on statistics. For instance:"
+        ]
+      ]
+    ],
+    [
+      1,
+      "blockquote",
+      [
+        [
+          0,
+          [
+            1
+          ],
+          1,
+          "1) Put numbers into context"
+        ],
+        [
+          1,
+          [],
+          0,
+          0
+        ],
+        [
+          0,
+          [],
+          0,
+          "Ask yourself: is that a big number? If Britain dumps 6 million tons of sewage in the North Sea each year, that sounds pretty bad. But is it a lot? What’s the denominator? What numbers do you need to understand whether that is more or less than you’d expect? In this case, for instance, it’s probably relevant that the North Sea contains 54 thousand billion tons of water."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Well worth reading the whole thing."
+        ]
+      ]
+    ],
+    [
+      10,
+      1
+    ],
+    [
+      10,
+      2
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "There's some sort of kerfuffle brewing over Substack. I've suspected this would happen for a while ("
+        ],
+        [
+          0,
+          [
+            2
+          ],
+          1,
+          "receipts"
+        ],
+        [
+          0,
+          [],
+          0,
+          "), but I need to do a bit more reading around before I write about it. I might even get to it later today."
+        ]
+      ]
+    ],
+    [
+      10,
+      3
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Quick Links"
+        ]
+      ]
+    ],
+    [
+      3,
+      "ul",
+      [
+        [
+          [
+            0,
+            [],
+            0,
+            "🎧 How "
+          ],
+          [
+            0,
+            [
+              3
+            ],
+            1,
+            "The Telegraph"
+          ],
+          [
+            0,
+            [],
+            0,
+            " is using "
+          ],
+          [
+            0,
+            [
+              4
+            ],
+            1,
+            "podcasts to drive subs"
+          ]
+        ],
+        [
+          [
+            0,
+            [],
+            0,
+            "⌨ Facebook is "
+          ],
+          [
+            0,
+            [
+              5
+            ],
+            1,
+            "cracking down further on toxic groups "
+          ],
+          [
+            0,
+            [],
+            0,
+            "on its platform. Three years ago, it de-emphasised pages in favour of groups - but that just moved the problem."
+          ]
+        ],
+        [
+          [
+            0,
+            [],
+            0,
+            "🦠 Another excellent piece of meta reporting from Zeynep Tufekci —  "
+          ],
+          [
+            0,
+            [
+              6
+            ],
+            1,
+            "Long Covid: How to Bungle Reporting on a Thorny Topic"
+          ]
+        ],
+        [
+          [
+            0,
+            [],
+            0,
+            "📰 This seems like a bloody good idea: a "
+          ],
+          [
+            0,
+            [
+              7
+            ],
+            1,
+            "newswire to syndicate hyperlocal copy"
+          ],
+          [
+            0,
+            [],
+            0,
+            " to bigger publishers. "
+          ]
+        ],
+        [
+          [
+            0,
+            [],
+            0,
+            "♀The "
+          ],
+          [
+            0,
+            [
+              8
+            ],
+            1,
+            "online harrassment of female journalists"
+          ],
+          [
+            0,
+            [],
+            0,
+            " is out of control. Which is useful context for this worrying tweet:"
+          ]
+        ]
+      ]
+    ],
+    [
+      10,
+      4
+    ],
+    [
+      1,
+      "h3",
+      [
+        [
+          0,
+          [],
+          0,
+          "The First Sea Lord's Phone"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Lovely anecdote "
+        ],
+        [
+          0,
+          [
+            9
+          ],
+          1,
+          "from John Naughton"
+        ],
+        [
+          0,
+          [],
+          0,
+          " about visiting 10 Downing Street:"
+        ]
+      ]
+    ],
+    [
+      1,
+      "blockquote",
+      [
+        [
+          0,
+          [],
+          0,
+          "The other thing I remember (it was in the late 1990s) was that on entry you had to switch your mobile phone off and put it on the hall table with a post-it note giving your name. I did as required and went off to do the interview. When I went to reclaim my phone I noticed that next to it was a Nokia on which the post-it note said “First Sea Lord”."
+        ],
+        [
+          1,
+          [],
+          0,
+          1
+        ],
+        [
+          0,
+          [],
+          0,
+          "Straight out of Gilbert and Sullivan."
+        ]
+      ]
+    ],
+    [
+      10,
+      5
+    ],
+    [
+      1,
+      "p",
+      []
+    ]
+  ],
+  "ghostVersion": "4.0"
+}

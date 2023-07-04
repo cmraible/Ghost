@@ -1,0 +1,427 @@
+{
+  "version": "0.3.1",
+  "atoms": [
+    [
+      "soft-return",
+      "",
+      {}
+    ]
+  ],
+  "cards": [
+    [
+      "hr",
+      {}
+    ],
+    [
+      "image",
+      {
+        "src": "__GHOST_URL__/content/images/2020/07/1963_Chevrolet_Corvette.jpg",
+        "width": 1170,
+        "height": 597,
+        "caption": "1963 Chevrolet Corvette (GM Heritage Center)"
+      }
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "embed",
+      {
+        "url": "https://youtu.be/Zg9mg45DEjU",
+        "html": "<iframe width=\"612\" height=\"344\" src=\"https://www.youtube.com/embed/Zg9mg45DEjU?feature=oembed\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+        "type": "video",
+        "metadata": {
+          "version": "1.0",
+          "author_name": "Motorious",
+          "width": 612,
+          "title": "1963 Chevrolet Corvette Knowledge Base",
+          "thumbnail_url": "https://i.ytimg.com/vi/Zg9mg45DEjU/hqdefault.jpg",
+          "provider_name": "YouTube",
+          "thumbnail_height": 360,
+          "author_url": "https://www.youtube.com/user/myclassicgarage",
+          "provider_url": "https://www.youtube.com/",
+          "height": 344,
+          "thumbnail_width": 480
+        },
+        "caption": "1963 Chevrolet Corvette"
+      }
+    ],
+    [
+      "html",
+      {
+        "html": "<iframe   src=\"https://spins.spincar.com/motorious/mcg-1963-chevrolet-corvette\"\nname=\"iFrame Name\"\nscrolling=\"No\"\nheight=\"500px\"\nwidth=\"100%\"\nstyle=\"border: none;\">\n</iframe>"
+      }
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "html",
+      {
+        "html": "<table id=\"production-numbers-table\">\n    <tbody>\n      <tr><td>2-DR Fastback Coupe</td><td>10,594</td></tr>\n      <tr><td>2-DR Convertible</td><td>10,919</td></tr>\n      <td><b>Total Production</b></td><td><b>21,513</b></td></tr>\n</tbody>\n</table>"
+      }
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "html",
+      {
+        "html": "<table id=\"performance-specs-table\">\n<tbody>\n\t<tr>\n\t\t<th><b>Engine</b></th>\n\t\t<th><b>Size</b></td>\n\t\t<th><b>Carb.</b></td>\n\t\t<th><b>HP</b></td>\n\t\t<th><b>Torque</b></td>\n\t\t<th><b>0 to 60</b></td>\n\t\t<th><b>Quarter mile</b></td>\n\t</tr>\n\t<tr>\n\t\t<td>V8</td>\n\t\t<td>327ci</td>\n\t\t<td>Ram Jet F/I</td>\n\t\t<td>360</td>\n\t\t<td>352 lb-ft</td>\n\t\t<td>5.9 sec</td>\n\t\t<td>14.9 sec at 95 mph</td>\n\t</tr>\n<tr>\n\t\t<td>V8</td>\n\t\t<td>327ci</td>\n\t\t<td>1x4bbl</td>\n\t\t<td>340</td>\n\t\t<td>344 lb-ft</td>\n\t\t<td>-</td>\n\t\t<td>-</td>\n\t</tr>\n<tr>\n\t\t<td>V8</td>\n\t\t<td>327ci</td>\n\t\t<td>1x4bbl</td>\n\t\t<td>300</td>\n\t\t<td>360 lb-ft</td>\n\t\t<td>-</td>\n\t\t<td>-</td>\n\t</tr>\n<tr>\n\t\t<td>V8</td>\n\t\t<td>327ci</td>\n\t\t<td>1x4bbl</td>\n\t\t<td>250</td>\n\t\t<td>350 lb-ft</td>\n\t\t<td>-</td>\n\t\t<td>-</td>\n\t</tr>\n</tbody>\n</table>"
+      }
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "html",
+      {
+        "html": "<h4 id='colors-sub-heading'>Exterior</h4>\n<div class=\"colors-row\">\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #000000\"></div>\n        <div class=\"color-name\">Tuxedo Black</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #828ea4\"></div>\n        <div class=\"color-name\">Silver Blue</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #5a6baa\"></div>\n        <div class=\"color-name\">Daytona Blue</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #ec2636\"></div>\n        <div class=\"color-name\">Riverside Red</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #b3937e\"></div>\n        <div class=\"color-name\">Saddle Tan</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #ffffff\"></div>\n        <div class=\"color-name\">Ermine White</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #9c9c9e\"></div>\n        <div class=\"color-name\">Sebring Silver</div>\n    </div>\n</div>\n\n<h4 id='colors-sub-heading'>Interior</h4>\n<div class=\"colors-row\">\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #000000\"></div>\n        <div class=\"color-name\">Black</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #ec2636\"></div>\n        <div class=\"color-name\">Red</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #5a6baa\"></div>\n        <div class=\"color-name\">Blue</div>\n    </div>\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #b3937e\"></div>\n        <div class=\"color-name\">Saddle</div>\n    </div>\n</div>"
+      }
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "gallery",
+      {
+        "images": [
+          {
+            "fileName": "220_1_low_res.jpeg",
+            "row": 0,
+            "width": 790,
+            "height": 600,
+            "src": "__GHOST_URL__/content/images/2020/05/220_1_low_res.jpeg"
+          },
+          {
+            "fileName": "221_2_low_res.jpeg",
+            "row": 0,
+            "width": 790,
+            "height": 586,
+            "src": "__GHOST_URL__/content/images/2020/05/221_2_low_res.jpeg"
+          },
+          {
+            "fileName": "222_3_low_res.jpeg",
+            "row": 0,
+            "width": 790,
+            "height": 582,
+            "src": "__GHOST_URL__/content/images/2020/05/222_3_low_res.jpeg"
+          },
+          {
+            "fileName": "223_4_low_res.jpeg",
+            "row": 1,
+            "width": 790,
+            "height": 292,
+            "src": "__GHOST_URL__/content/images/2020/05/223_4_low_res.jpeg"
+          },
+          {
+            "fileName": "224_5_low_res.jpeg",
+            "row": 1,
+            "width": 790,
+            "height": 292,
+            "src": "__GHOST_URL__/content/images/2020/05/224_5_low_res.jpeg"
+          },
+          {
+            "fileName": "225_6_low_res.jpeg",
+            "row": 1,
+            "width": 790,
+            "height": 584,
+            "src": "__GHOST_URL__/content/images/2020/05/225_6_low_res.jpeg"
+          }
+        ],
+        "caption": "1963 Chevrolet Corvette OEM Brochures"
+      }
+    ],
+    [
+      "hr",
+      {}
+    ]
+  ],
+  "markups": [
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/tag/research/"
+      ]
+    ]
+  ],
+  "sections": [
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Overview"
+        ]
+      ]
+    ],
+    [
+      10,
+      0
+    ],
+    [
+      1,
+      "h3",
+      [
+        [
+          0,
+          [],
+          0,
+          "Many Corvette enthusiasts consider the ’63-’67 Vettes the best American sports car of all time."
+        ]
+      ]
+    ],
+    [
+      10,
+      1
+    ],
+    [
+      10,
+      2
+    ],
+    [
+      10,
+      3
+    ],
+    [
+      10,
+      4
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          1,
+          [],
+          0,
+          0
+        ],
+        [
+          0,
+          [],
+          0,
+          "Everything was changed from the 1962 Corvette to offer the new aerodynamic design, a fastback coupe, new passenger comfort, and new independent suspension both front and rear for the 1963 Corvette."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Many suspension parts could be interchanged between Chevy models in 1963 revealing how the Corvette was slowly winding its way into a daily driver, as well as a weekend racer. Much attention was given to the passenger with increased protection from side blows and new rubber insulators that isolated running gear noise. New for the year was also the famous ‘split-window’ design, and the use of the Sting Ray name, thus why these cars are highly sought-after to this day."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Many Corvette enthusiasts consider the ’63-’67 Vettes the best American sports car of all time. "
+        ]
+      ]
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Production Numbers"
+        ]
+      ]
+    ],
+    [
+      10,
+      5
+    ],
+    [
+      10,
+      6
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Performance Specs"
+        ]
+      ]
+    ],
+    [
+      10,
+      7
+    ],
+    [
+      10,
+      8
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Transmission"
+        ]
+      ]
+    ],
+    [
+      10,
+      9
+    ],
+    [
+      3,
+      "ul",
+      [
+        [
+          [
+            0,
+            [],
+            0,
+            "2-Speed Powerglide Automatic"
+          ]
+        ],
+        [
+          [
+            0,
+            [],
+            0,
+            "3-Speed Manual"
+          ]
+        ],
+        [
+          [
+            0,
+            [],
+            0,
+            "4-Speed Manual"
+          ]
+        ]
+      ]
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Paint & Colors"
+        ]
+      ]
+    ],
+    [
+      10,
+      10
+    ],
+    [
+      10,
+      11
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "OEM Brochures"
+        ]
+      ]
+    ],
+    [
+      10,
+      12
+    ],
+    [
+      10,
+      13
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "About the Knowledge Base"
+        ]
+      ]
+    ],
+    [
+      10,
+      14
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "The Motorious Knowledge Base provides a comprehensive vehicle overview for the 1963 Chevrolet Corvette including production numbers, performance specs, factory colors, and OEM brochures. Check out additional model years or related content linked to this article or view other Makes and Models in our "
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "Research"
+        ],
+        [
+          0,
+          [],
+          0,
+          " center."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "If you have any interesting facts about the 1963 Chevrolet Corvette to add, want to tell us how we did covering the Skylark, or want to tell us about yours, please leave a comment below."
+        ]
+      ]
+    ]
+  ],
+  "ghostVersion": "3.0"
+}

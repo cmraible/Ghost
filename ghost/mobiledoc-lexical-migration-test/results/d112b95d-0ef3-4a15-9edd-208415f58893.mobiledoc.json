@@ -1,0 +1,1839 @@
+{
+  "version": "0.3.1",
+  "atoms": [],
+  "cards": [
+    [
+      "image",
+      {
+        "src": "__GHOST_URL__/content/images/2022/08/Tweet-by-CHOAM-Nomsky.png",
+        "alt": "",
+        "title": "",
+        "caption": ""
+      }
+    ],
+    [
+      "embed",
+      {
+        "url": "https://twitter.com/samthielman/status/1559295377412706304?s=21&t=b4n_Icvp2zK6AYLq3u6VuQ",
+        "html": "<blockquote class=\"twitter-tweet\"><p lang=\"qme\" dir=\"ltr\"> <a href=\"https://t.co/o9ZufdWDLR\">pic.twitter.com/o9ZufdWDLR</a></p>&mdash; CHOAM Nomsky (@samthielman) <a href=\"https://twitter.com/samthielman/status/1559295377412706304?ref_src=twsrc%5Etfw\">August 15, 2022</a></blockquote>\n<script async src=\"https://platform.twitter.com/widgets.js\" charset=\"utf-8\"></script>\n",
+        "type": "twitter",
+        "metadata": {
+          "url": "https://twitter.com/samthielman/status/1559295377412706304",
+          "author_name": "CHOAM Nomsky",
+          "author_url": "https://twitter.com/samthielman",
+          "width": 550,
+          "height": null,
+          "cache_age": "3153600000",
+          "provider_name": "Twitter",
+          "provider_url": "http://www.twitter.com/",
+          "version": "1.0",
+          "tweet_data": {
+            "entities": {
+              "mentions": [
+                {
+                  "start": 0,
+                  "end": 5,
+                  "username": "rgay",
+                  "id": "6974622"
+                },
+                {
+                  "start": 6,
+                  "end": 18,
+                  "username": "SubstackInc",
+                  "id": "877295296828522496"
+                },
+                {
+                  "start": 19,
+                  "end": 31,
+                  "username": "attackerman",
+                  "id": "15978412"
+                }
+              ],
+              "urls": [
+                {
+                  "start": 32,
+                  "end": 55,
+                  "url": "https://t.co/o9ZufdWDLR",
+                  "expanded_url": "https://twitter.com/samthielman/status/1559295377412706304/photo/1",
+                  "display_url": "pic.twitter.com/o9ZufdWDLR",
+                  "media_key": "3_1559295352821501957"
+                },
+                {
+                  "start": 32,
+                  "end": 55,
+                  "url": "https://t.co/o9ZufdWDLR",
+                  "expanded_url": "https://twitter.com/samthielman/status/1559295377412706304/photo/1",
+                  "display_url": "pic.twitter.com/o9ZufdWDLR",
+                  "media_key": "3_1559295370278191110"
+                }
+              ]
+            },
+            "lang": "qme",
+            "author_id": "17220917",
+            "text": "@rgay @SubstackInc @attackerman https://t.co/o9ZufdWDLR",
+            "source": "Twitter Web App",
+            "referenced_tweets": [
+              {
+                "type": "replied_to",
+                "id": "1559295052836442114"
+              }
+            ],
+            "possibly_sensitive": false,
+            "created_at": "2022-08-15T21:46:02.000Z",
+            "id": "1559295377412706304",
+            "in_reply_to_user_id": "6974622",
+            "reply_settings": "everyone",
+            "conversation_id": "1559291178746580993",
+            "attachments": {
+              "media_keys": [
+                "3_1559295352821501957",
+                "3_1559295370278191110"
+              ]
+            },
+            "public_metrics": {
+              "retweet_count": 43,
+              "reply_count": 16,
+              "like_count": 462,
+              "quote_count": 34
+            },
+            "includes": {
+              "media": [
+                {
+                  "height": 1112,
+                  "width": 1012,
+                  "url": "https://pbs.twimg.com/media/FaO63KTX0AUpHlh.jpg",
+                  "media_key": "3_1559295352821501957",
+                  "type": "photo"
+                },
+                {
+                  "height": 1112,
+                  "width": 1006,
+                  "url": "https://pbs.twimg.com/media/FaO64LVXwAYu1nm.jpg",
+                  "media_key": "3_1559295370278191110",
+                  "type": "photo"
+                }
+              ],
+              "users": [
+                {
+                  "verified": true,
+                  "name": "CHOAM Nomsky",
+                  "entities": {
+                    "url": {
+                      "urls": [
+                        {
+                          "start": 0,
+                          "end": 23,
+                          "url": "https://t.co/nGuIJbnVJ2",
+                          "expanded_url": "http://samthielman.com",
+                          "display_url": "samthielman.com"
+                        }
+                      ]
+                    },
+                    "description": {
+                      "urls": [
+                        {
+                          "start": 40,
+                          "end": 63,
+                          "url": "https://t.co/MouCO2qu0n",
+                          "expanded_url": "http://foreverwars.ghost.io",
+                          "display_url": "foreverwars.ghost.io"
+                        }
+                      ],
+                      "mentions": [
+                        {
+                          "start": 18,
+                          "end": 28,
+                          "username": "newyorker"
+                        },
+                        {
+                          "start": 30,
+                          "end": 38,
+                          "username": "NBCNews"
+                        }
+                      ]
+                    }
+                  },
+                  "profile_image_url": "https://pbs.twimg.com/profile_images/1495090372468527120/TEXULmur_normal.jpg",
+                  "url": "https://t.co/nGuIJbnVJ2",
+                  "username": "samthielman",
+                  "public_metrics": {
+                    "followers_count": 23054,
+                    "following_count": 1836,
+                    "tweet_count": 52884,
+                    "listed_count": 451
+                  },
+                  "pinned_tweet_id": "1527052248722853888",
+                  "description": "Newsmonster. Seen @newyorker, @NBCNews, https://t.co/MouCO2qu0n | Brooklyner, pacifist, pastor of moppets | he/him | 741.5 (Comic books, strips, etc.)",
+                  "created_at": "2008-11-06T22:20:23.000Z",
+                  "location": "following you, but not on twitter",
+                  "id": "17220917",
+                  "protected": false
+                },
+                {
+                  "verified": true,
+                  "name": "roxane gay",
+                  "entities": {
+                    "url": {
+                      "urls": [
+                        {
+                          "start": 0,
+                          "end": 23,
+                          "url": "https://t.co/ES4amyopFH",
+                          "expanded_url": "https://audacity.substack.com/",
+                          "display_url": "audacity.substack.com"
+                        }
+                      ]
+                    }
+                  },
+                  "profile_image_url": "https://pbs.twimg.com/profile_images/1066623056896901120/rBzWchLh_normal.jpg",
+                  "url": "https://t.co/ES4amyopFH",
+                  "username": "rgay",
+                  "public_metrics": {
+                    "followers_count": 896295,
+                    "following_count": 2069,
+                    "tweet_count": 549,
+                    "listed_count": 4642
+                  },
+                  "pinned_tweet_id": "1239624181391577089",
+                  "description": "I write books like Bad Feminist. Forthcoming: How to Be Heard, Year I Learned Everything. Newsletter: The Audacity. Podcast: The Roxane Gay Agenda. 🐘 she/her",
+                  "created_at": "2007-06-20T18:44:41.000Z",
+                  "location": "The Gaygency, Wakanda ",
+                  "id": "6974622",
+                  "protected": false
+                },
+                {
+                  "verified": true,
+                  "name": "Substack",
+                  "entities": {
+                    "url": {
+                      "urls": [
+                        {
+                          "start": 0,
+                          "end": 23,
+                          "url": "https://t.co/CKFgsXPsH4",
+                          "expanded_url": "https://substack.com/",
+                          "display_url": "substack.com"
+                        }
+                      ]
+                    },
+                    "description": {
+                      "urls": [
+                        {
+                          "start": 53,
+                          "end": 76,
+                          "url": "https://t.co/acZVN0MYVm",
+                          "expanded_url": "http://substack.com/app",
+                          "display_url": "substack.com/app"
+                        },
+                        {
+                          "start": 78,
+                          "end": 101,
+                          "url": "https://t.co/tdxn7NpKBk",
+                          "expanded_url": "http://on.substack.com",
+                          "display_url": "on.substack.com"
+                        },
+                        {
+                          "start": 104,
+                          "end": 127,
+                          "url": "https://t.co/nsdFMZpu2z",
+                          "expanded_url": "http://support.substack.com",
+                          "display_url": "support.substack.com"
+                        },
+                        {
+                          "start": 130,
+                          "end": 153,
+                          "url": "https://t.co/G6mqwbbM9A",
+                          "expanded_url": "http://substack.com/jobs",
+                          "display_url": "substack.com/jobs"
+                        }
+                      ]
+                    }
+                  },
+                  "profile_image_url": "https://pbs.twimg.com/profile_images/1121882576774287360/BkSn04Pm_normal.png",
+                  "url": "https://t.co/CKFgsXPsH4",
+                  "username": "SubstackInc",
+                  "public_metrics": {
+                    "followers_count": 80450,
+                    "following_count": 2810,
+                    "tweet_count": 5075,
+                    "listed_count": 653
+                  },
+                  "pinned_tweet_id": "1554891963526025216",
+                  "description": "The home for great reading and writing. Get the app: https://t.co/acZVN0MYVm\n\nhttps://t.co/tdxn7NpKBk : https://t.co/nsdFMZpu2z : https://t.co/G6mqwbbM9A",
+                  "created_at": "2017-06-20T22:41:12.000Z",
+                  "location": "San Francisco",
+                  "id": "877295296828522496",
+                  "protected": false
+                },
+                {
+                  "verified": true,
+                  "name": "Spencer Ackerman",
+                  "entities": {
+                    "url": {
+                      "urls": [
+                        {
+                          "start": 0,
+                          "end": 23,
+                          "url": "https://t.co/QZ2oJECNXW",
+                          "expanded_url": "http://foreverwars.ghost.io",
+                          "display_url": "foreverwars.ghost.io"
+                        }
+                      ]
+                    },
+                    "description": {
+                      "urls": [
+                        {
+                          "start": 75,
+                          "end": 98,
+                          "url": "https://t.co/VGY9EnYAah",
+                          "expanded_url": "https://www.penguinrandomhouse.com/books/622555/reign-of-terror-by-spencer-ackerman/",
+                          "display_url": "penguinrandomhouse.com/books/622555/r…"
+                        }
+                      ]
+                    }
+                  },
+                  "profile_image_url": "https://pbs.twimg.com/profile_images/1433540115570233348/6jKlzUCk_normal.jpg",
+                  "url": "https://t.co/QZ2oJECNXW",
+                  "username": "attackerman",
+                  "public_metrics": {
+                    "followers_count": 178608,
+                    "following_count": 5333,
+                    "tweet_count": 814,
+                    "listed_count": 4424
+                  },
+                  "description": "reporter & author of REIGN OF TERROR. WALLER VS WILDSTORM out Nov from DC! https://t.co/VGY9EnYAah",
+                  "created_at": "2008-08-25T05:48:54.000Z",
+                  "location": "Brooklyn, NY",
+                  "id": "15978412",
+                  "protected": false
+                }
+              ],
+              "tweets": [
+                {
+                  "entities": {
+                    "mentions": [
+                      {
+                        "start": 0,
+                        "end": 12,
+                        "username": "samthielman",
+                        "id": "17220917"
+                      },
+                      {
+                        "start": 13,
+                        "end": 25,
+                        "username": "SubstackInc",
+                        "id": "877295296828522496"
+                      },
+                      {
+                        "start": 26,
+                        "end": 38,
+                        "username": "attackerman",
+                        "id": "15978412"
+                      }
+                    ],
+                    "annotations": [
+                      {
+                        "start": 39,
+                        "end": 50,
+                        "probability": 0.9461,
+                        "type": "Person",
+                        "normalized_text": "Jesus Christ"
+                      }
+                    ]
+                  },
+                  "lang": "en",
+                  "author_id": "6974622",
+                  "text": "@samthielman @SubstackInc @attackerman Jesus Christ. What?",
+                  "source": "Twitter for iPhone",
+                  "referenced_tweets": [
+                    {
+                      "type": "replied_to",
+                      "id": "1559291178746580993"
+                    }
+                  ],
+                  "possibly_sensitive": false,
+                  "created_at": "2022-08-15T21:44:45.000Z",
+                  "id": "1559295052836442114",
+                  "in_reply_to_user_id": "17220917",
+                  "reply_settings": "everyone",
+                  "conversation_id": "1559291178746580993",
+                  "public_metrics": {
+                    "retweet_count": 0,
+                    "reply_count": 1,
+                    "like_count": 130,
+                    "quote_count": 0
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    ],
+    [
+      "image",
+      {
+        "src": "__GHOST_URL__/content/images/2022/08/Tweet-by-Hamish-McKenzie.png",
+        "alt": "",
+        "title": "",
+        "caption": ""
+      }
+    ],
+    [
+      "image",
+      {
+        "src": "__GHOST_URL__/content/images/2022/08/Tweet-by-Lulu-Cheng-Meservey.png",
+        "alt": "",
+        "title": "",
+        "caption": ""
+      }
+    ],
+    [
+      "embed",
+      {
+        "url": "https://twitter.com/annehelen/status/1557866013563166724?s=21&t=b4n_Icvp2zK6AYLq3u6VuQ",
+        "html": "<blockquote class=\"twitter-tweet\"><p lang=\"en\" dir=\"ltr\">I am grateful that Substack offered me a healthcare subsidy for the last 2 years as I launched my Substack. Last week, they announced they were cutting the program to focus on &quot;other projects.&quot;</p>&mdash; Anne Helen Petersen (@annehelen) <a href=\"https://twitter.com/annehelen/status/1557866013563166724?ref_src=twsrc%5Etfw\">August 11, 2022</a></blockquote>\n<script async src=\"https://platform.twitter.com/widgets.js\" charset=\"utf-8\"></script>\n",
+        "type": "twitter",
+        "metadata": {
+          "url": "https://twitter.com/annehelen/status/1557866013563166724",
+          "author_name": "Anne Helen Petersen",
+          "author_url": "https://twitter.com/annehelen",
+          "width": 550,
+          "height": null,
+          "cache_age": "3153600000",
+          "provider_name": "Twitter",
+          "provider_url": "http://www.twitter.com/",
+          "version": "1.0",
+          "tweet_data": {
+            "id": "1557866013563166724",
+            "conversation_id": "1557866013563166724",
+            "reply_settings": "everyone",
+            "created_at": "2022-08-11T23:06:16.000Z",
+            "author_id": "16714443",
+            "lang": "en",
+            "public_metrics": {
+              "retweet_count": 30,
+              "reply_count": 13,
+              "like_count": 427,
+              "quote_count": 11
+            },
+            "entities": {
+              "annotations": [
+                {
+                  "start": 19,
+                  "end": 26,
+                  "probability": 0.4759,
+                  "type": "Organization",
+                  "normalized_text": "Substack"
+                }
+              ]
+            },
+            "source": "Twitter Web App",
+            "text": "I am grateful that Substack offered me a healthcare subsidy for the last 2 years as I launched my Substack. Last week, they announced they were cutting the program to focus on \"other projects.\"",
+            "possibly_sensitive": false,
+            "includes": {
+              "users": [
+                {
+                  "public_metrics": {
+                    "followers_count": 144932,
+                    "following_count": 1435,
+                    "tweet_count": 19623,
+                    "listed_count": 1948
+                  },
+                  "profile_image_url": "https://pbs.twimg.com/profile_images/1153838798993670144/J27RHvqN_normal.jpg",
+                  "created_at": "2008-10-13T01:11:40.000Z",
+                  "protected": false,
+                  "username": "annehelen",
+                  "id": "16714443",
+                  "pinned_tweet_id": "1295374665477627904",
+                  "entities": {
+                    "url": {
+                      "urls": [
+                        {
+                          "start": 0,
+                          "end": 23,
+                          "url": "https://t.co/ZZcW5ugIfA",
+                          "expanded_url": "https://annehelen.substack.com/",
+                          "display_url": "annehelen.substack.com"
+                        }
+                      ]
+                    },
+                    "description": {
+                      "mentions": [
+                        {
+                          "start": 79,
+                          "end": 91,
+                          "username": "prhspeakers"
+                        }
+                      ]
+                    }
+                  },
+                  "location": "A literal island",
+                  "url": "https://t.co/ZZcW5ugIfA",
+                  "verified": true,
+                  "name": "Anne Helen Petersen",
+                  "description": "I write Culture Study & also books — most recently, OUT OF OFFICE.  \nSpeaking: @prhspeakers\nIG: annehelenpetersen // email: annehelenpetersen @ gmail"
+                }
+              ]
+            }
+          }
+        }
+      }
+    ],
+    [
+      "image",
+      {
+        "src": "__GHOST_URL__/content/images/2022/08/849e72e9-09a4-4603-870d-408606af30d0_1600x1034.png",
+        "alt": "Substack's new threads community feature",
+        "title": "",
+        "caption": "Substack's new threads community feature"
+      }
+    ],
+    [
+      "image",
+      {
+        "src": "__GHOST_URL__/content/images/2022/08/adders_Substack_climbing_a_mountain_in_the_rain.png",
+        "alt": "",
+        "title": "",
+        "caption": ""
+      }
+    ]
+  ],
+  "markups": [
+    [
+      "a",
+      [
+        "href",
+        "https://www.vanityfair.com/news/2022/05/substacks-founders-dive-headfirst-into-the-culture-wars"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://foreverwars.ghost.io"
+      ]
+    ],
+    [
+      "em"
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://foreverwars.ghost.io/forever-wars-off-substack-on-ghost/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.nytimes.com/2022/06/29/business/media/substack-layoffs.html"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://substack.com/health"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://bleedingcool.com/comics/chip-zdarskys-substack-year-two-plans-are-reduced-fees-no-founders/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/2021/04/six-thoughts-about-the-substack-local-initiative/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://on.substack.com/p/announcing-the-winners-of-substack"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://thegoldenrod.substack.com/p/hail-and-farewell-from-the-goldenrod"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://pauliceia.substack.com/p/pauliceia-carta-final-da-editora"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://westafricaweekly.substack.com/p/flutterwave-the-african-unicorn-built"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://theatlantaobjective.substack.com/p/why-we-cant-have-nice-things"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://thefineprintnyc.com/article/what-went-wrong-with-substack-local/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://on.substack.com/p/threads-pilot"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.platformer.news/p/announcing-sidechannel-a-new-community"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://freddiedeboer.substack.com/p/comments-are-off-for-one-month"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://ghost.org/changelog/native-comments/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.beehiiv.com/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://twitter.com/iroughol/status/1559541199974924289?s=21&t=us_HDEz953_PtdpM5wWB2g"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.exponentialview.co/p/announcement-move-2022"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://tedgioia.substack.com/p/10-reasons-why-im-publishing-my-next"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://blog.ayjay.org/the-publishing-monoculture/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.theguardian.com/music/2022/aug/18/in-the-streaming-era-substack-helps-indie-rockers-pay-the-bills-can-it-last"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.ft.com/content/00f6f7de-3d84-419f-bd05-07583a3345c7"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://sifted.eu/articles/tech-downturn-european-startups-2022-h1/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.bloomberg.com/news/articles/2022-08-23/chip-sales-set-to-ease-further-as-global-recession-fears-mount"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://boingboing.net/2022/08/16/substack-fires-editor-in-retaliation-for-working-with-high-profile-writer-who-switched-to-rival-ghost.html"
+      ]
+    ]
+  ],
+  "sections": [
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Substack’s at the centre of controversy again. The free speech promoting newsletter service has often been the centre of storms but, for once, it’s not about the culture war issues, which have "
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "dogged the platform"
+        ],
+        [
+          0,
+          [],
+          0,
+          " for over a year now. No, it’s about how they behave towards people who leave the platform."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "The newsletter "
+        ],
+        [
+          0,
+          [
+            1,
+            2
+          ],
+          2,
+          "Forever Wars"
+        ],
+        [
+          0,
+          [],
+          0,
+          ", mostly written by Spencer Ackerman, which had recently switched from Substack to Ghost, revealed that Substack had fired its copy editor from his other contracts with Substack writers:"
+        ]
+      ]
+    ],
+    [
+      1,
+      "blockquote",
+      [
+        [
+          0,
+          [],
+          0,
+          "In July, Spencer took this blog off Substack immediately after his contract with the newsletter company expired. He explained his decision in what can only be reasonably described as a mild post, which I edited, "
+        ],
+        [
+          0,
+          [
+            3
+          ],
+          1,
+          "here"
+        ],
+        [
+          0,
+          [],
+          0,
+          ". Substack responded by ending my contract to edit their other freelance writers, telling me, in writing, that they were doing so because of Spencer’s explanation. Twice."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "It’s fair to say that the tweet by Sam Theilman, the editor in question and author of the piece, did #numbers:"
+        ]
+      ]
+    ],
+    [
+      10,
+      0
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "The emails he provided as receipts are quite something:"
+        ]
+      ]
+    ],
+    [
+      10,
+      1
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Tough times for VC-funded businesses"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Now, after a day or so of relentlessly negative publicity, Substack did backpedal:"
+        ]
+      ]
+    ],
+    [
+      10,
+      2
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Despite this, the crappy decision will have a lasting PR impact for the company. And the fact that they made this poor and rather petty call may well be indicative of a business suddenly finding itself under stress for the first time. We’re all more snappy when we’re stressed."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "These will be difficult times for Substack and, indeed, all content subscription businesses. They lack the venture capital money runway they had a year ago, and getting people to pay for subscriptions is going to be hard with inflation raging. The cost of living taking a dramatic turn towards the “oh, fuck” end of the scale just adds to the challenges."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "We already knew that Substack has had to tighten its belt, through a lack of available VC funding. It "
+        ],
+        [
+          0,
+          [
+            4
+          ],
+          1,
+          "laid off staff"
+        ],
+        [
+          0,
+          [],
+          0,
+          ", and its prominent comms person is on her way out of the door:"
+        ]
+      ]
+    ],
+    [
+      10,
+      3
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "And, more quietly, some of its big initiatives from the last couple of years are being quietly wound up. For example, their "
+        ],
+        [
+          0,
+          [
+            5
+          ],
+          1,
+          "health offer for US writers"
+        ],
+        [
+          0,
+          [],
+          0,
+          " is gone:"
+        ]
+      ]
+    ],
+    [
+      10,
+      4
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "In these financially straightened times, we should expect to see far fewer big, flashy initiatives from the platform. Which means less buzz around the brand."
+        ]
+      ]
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "No longer comics’ superpower"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Indeed, many of the creator funding initiatives they launched — with that now-scarce VC money — are now coming to an end. Their big expansion into comics is now in its make-or-break phase. As "
+        ],
+        [
+          0,
+          [
+            6,
+            2
+          ],
+          1,
+          "Bleeding Cool"
+        ],
+        [
+          0,
+          [],
+          1,
+          "’s Rich Johnson reports"
+        ],
+        [
+          0,
+          [],
+          0,
+          ":"
+        ]
+      ]
+    ],
+    [
+      1,
+      "blockquote",
+      [
+        [
+          0,
+          [],
+          0,
+          "As the initial Substack Pro comic book creators hit the second year of their subscription deals, they no longer get a grant from Substack, instead, they get 90% of their subscription fees. Some are doubling down, some are going all free, some are dropping the highest premium level, some are reducing costs."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Now, many of the creators they attracted to the initiative already had big names and significant followings themselves. They’ll be fine. But more and more Substack looks like a place where people who have existing big names can go independent, rather than a place where newcomers can make a sustainable business."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "And nothing makes that clearer than the quiet end of the Substack Local initiative."
+        ]
+      ]
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Whatever happened to Substack Local?"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "16 months ago, Substack announced it would help save local news with a program called Substack Local. They invited applications from local news startups, offering grants and editorial mentoring — largely from people who had no experience of local journalism, as "
+        ],
+        [
+          0,
+          [
+            7
+          ],
+          1,
+          "I noted at the time"
+        ],
+        [
+          0,
+          [],
+          0,
+          "."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Of the "
+        ],
+        [
+          0,
+          [
+            8
+          ],
+          1,
+          "12 Substack Local winners"
+        ],
+        [
+          0,
+          [],
+          0,
+          ", which were announced back in June 2021, two have closed down already. For example, Sarah Baird’s "
+        ],
+        [
+          0,
+          [
+            9,
+            2
+          ],
+          1,
+          "Goldenrod"
+        ],
+        [
+          0,
+          [],
+          1,
+          " wound up last month"
+        ],
+        [
+          0,
+          [],
+          0,
+          ":"
+        ]
+      ]
+    ],
+    [
+      1,
+      "blockquote",
+      [
+        [
+          0,
+          [],
+          0,
+          "After all this, though, I’ve made the decision to close up shop—and the why is pretty easy to guess. (Hint: it’s funding.) Despite a very robust number of free subscribers, our paid subscriber list never even came close to the level necessary to sustain the full-time (and then some) work that goes into making The Goldenrod, and the start-up capital allotted through the Substack Local program isn’t being renewed."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [
+            10,
+            2
+          ],
+          1,
+          "Paulicéia"
+        ],
+        [
+          0,
+          [],
+          1,
+          " has also shuttered"
+        ],
+        [
+          0,
+          [],
+          0,
+          ". A few others appear to be on life support, punishing "
+        ],
+        [
+          0,
+          [
+            11
+          ],
+          1,
+          "only a couple of times a month"
+        ],
+        [
+          0,
+          [],
+          0,
+          " — "
+        ],
+        [
+          0,
+          [
+            12
+          ],
+          1,
+          "or less"
+        ],
+        [
+          0,
+          [],
+          0,
+          ". And, as "
+        ],
+        [
+          0,
+          [
+            13
+          ],
+          1,
+          "The Fine Print reported last month"
+        ],
+        [
+          0,
+          [],
+          0,
+          ", even the most successful are still struggling:"
+        ]
+      ]
+    ],
+    [
+      1,
+      "blockquote",
+      [
+        [
+          0,
+          [],
+          0,
+          "They’re making up the difference with side hustles. “I clean pools,” said Stephenson. “I used to do it when I was a kid and then I always used to joke that I was going to quit journalism and go back to cleaning pools, because the pay is better and the stress is less. And then, I started actually doing it just as a side gig and now I’ve got enough pools that it keeps me busy one day a week, and I’m trying to grow that and hire somebody out eventually.”"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "This isn’t sustainable local journalism, and so far the initiative doesn’t seem to have had a break-out success. Clearly, more needs to be done to help readers become paying subscribers. And, to be fair, the platform does seem to be working on that."
+        ]
+      ]
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "The community play: Substack threads"
+        ]
+      ]
+    ],
+    [
+      10,
+      5
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "In among the kerfuffle about "
+        ],
+        [
+          0,
+          [
+            2
+          ],
+          1,
+          "Forever Wars"
+        ],
+        [
+          0,
+          [],
+          0,
+          ", Substack start piloting "
+        ],
+        [
+          0,
+          [
+            14
+          ],
+          1,
+          "a new community feature"
+        ],
+        [
+          0,
+          [],
+          0,
+          ":"
+        ]
+      ]
+    ],
+    [
+      1,
+      "blockquote",
+      [
+        [
+          0,
+          [],
+          0,
+          "With Threads, we hope to make it simpler than ever to connect with the people who care the most about your work—all in an intimate, controlled, and private space. You can interact casually with subscribers and cultivate a vibrant paid community without having to compete in a news feed algorithmically optimized for engagement."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Now, this is a "
+        ],
+        [
+          0,
+          [
+            2
+          ],
+          1,
+          "great"
+        ],
+        [
+          0,
+          [],
+          0,
+          " feature for community development. People have been already doing something like this by, for example, bringing their subscribers into exclusive Discord servers. "
+        ],
+        [
+          0,
+          [
+            15
+          ],
+          1,
+          "Sidechannel"
+        ],
+        [
+          0,
+          [],
+          0,
+          ", set up by a bunch of prominent early Substackers, is the best example of this. Now people can have that sort of community without any extra effort. Or, indeed, any technical know-how. That, after all, is the promise of Substack, it’s a subscription technology stack that hides all the complexity from the writer, allowing them to get on with creating."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "This idea extends that to community hosting. However, there are two "
+        ],
+        [
+          0,
+          [
+            2
+          ],
+          1,
+          "really"
+        ],
+        [
+          0,
+          [],
+          0,
+          " big drawbacks:"
+        ]
+      ]
+    ],
+    [
+      3,
+      "ul",
+      [
+        [
+          [
+            0,
+            [],
+            0,
+            "It creates lock-in. If you leave Substack and migrate to another newsletter platform, you have to find some way of replicating that community experience."
+          ]
+        ],
+        [
+          [
+            0,
+            [],
+            0,
+            "At the scale of community you need to make a Substack publication profitable, you’re probably going to need community management expertise to keep that community healthy. A platform alone is not enough — you require the skill. At least one successfully Substack writer has had to "
+          ],
+          [
+            0,
+            [
+              16
+            ],
+            1,
+            "keep turning off comments"
+          ],
+          [
+            0,
+            [],
+            0,
+            "."
+          ]
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Community management is a definite skill set and it doesn’t always overlap with the skills needed to build a thriving content business. If you’re going to build a business that mixes content and community, you better be certain your community management skills are good enough to carry you through until you pay for a dedicated community management person."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "This is the fundamental challenge for Substack. All they can deliver now is the platform. You need to bring the editorial, commercial, and community skills to make it all work. And that’s a rare combination to find in one person. And the Substacks that are making enough to support three people are even rarer."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Perhaps one of the things that’s most worrying about the abrupt firing of Theilman is that it makes some emergent jobs around newsletter platforms look precarious. You could share individuals with editing, commercial and community skills with other creators. Substack could facilitate that. News like this will make people think twice."
+        ]
+      ]
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "The platform game"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "That said, despite the drawbacks of threads, adding new features is generally good, and there’s always some feature loss when you swap platforms. No platform is perfect in that regard. For example, the platform I use to publish OM&HB, Ghost, has just "
+        ],
+        [
+          0,
+          [
+            17
+          ],
+          1,
+          "launched native comments"
+        ],
+        [
+          0,
+          [],
+          0,
+          ". That’s exciting — but there’s no import or export currently, so there’s no way to take the comments with me if I ever leave Ghost."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "But what is great is that there is plenty of competition in this space. There’s Substack, there’s Ghost, and there are other challenger platforms emerging like "
+        ],
+        [
+          0,
+          [
+            18
+          ],
+          1,
+          "Beehiiv"
+        ],
+        [
+          0,
+          [],
+          0,
+          ", and I’m sure there are others out there. And that’s why the behaviour the Substack team showed over the departure of "
+        ],
+        [
+          0,
+          [
+            2
+          ],
+          1,
+          "Forever Wars"
+        ],
+        [
+          0,
+          [],
+          0,
+          " is so damaging."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "We have multiple different platforms competing for what will be a finite pool of profitable creators. Some creators will switch around, or even, as Isabelle Roughol put it, "
+        ],
+        [
+          0,
+          [
+            19
+          ],
+          1,
+          "”boomerang” between platforms"
+        ],
+        [
+          0,
+          [],
+          0,
+          ", as "
+        ],
+        [
+          0,
+          [
+            2
+          ],
+          1,
+          "Exponential View"
+        ],
+        [
+          0,
+          [],
+          0,
+          " just did, "
+        ],
+        [
+          0,
+          [
+            20
+          ],
+          1,
+          "returning to Substack after a year on Ghost"
+        ],
+        [
+          0,
+          [],
+          0,
+          ":"
+        ]
+      ]
+    ],
+    [
+      1,
+      "blockquote",
+      [
+        [
+          0,
+          [],
+          0,
+          "Ultimately, EV was doing well but we were wasting time tweaking an open-source publishing platform to our needs. So we knew we needed to move. When that time came, we evaluated several alternatives. Substack came out on top, first and foremost, because the product rocks. And rocking products always have committed teams behind them."
+        ]
+      ]
+    ],
+    [
+      1,
+      "h3",
+      [
+        [
+          0,
+          [],
+          0,
+          "Books on Substack"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "The publishing world could do with a sustainable, profitable Substack. And I don’t just mean journalism. We’ve mentioned comics above, but now we have some authors choosing it as a way of publishing their book with reader support. "
+        ],
+        [
+          0,
+          [
+            21
+          ],
+          1,
+          "Ted Gioia is just the latest"
+        ],
+        [
+          0,
+          [],
+          0,
+          ":"
+        ]
+      ]
+    ],
+    [
+      1,
+      "blockquote",
+      [
+        [
+          0,
+          [],
+          0,
+          "So I’ve decided to publish my next book on Substack. Maybe I’ll later do a deal with a traditional publisher to issue physical books, but I’ll worry about that in good time. (That’s the downstream stuff and, blessedly, I can defer all that for now). My subscribers will receive the book in installments. And I will continue to do lots of other articles too—so this is a plus for them."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "And the more people who do this and succeed, the more interested others get. "
+        ],
+        [
+          0,
+          [
+            22
+          ],
+          1,
+          "As Alan Jacobs put it"
+        ],
+        [
+          0,
+          [],
+          0,
+          ":"
+        ]
+      ]
+    ],
+    [
+      1,
+      "blockquote",
+      [
+        [
+          0,
+          [],
+          0,
+          "I tell you, Ted’s post makes me fret — and not for the first time — about all the money I might be leaving on the table by not moving to Substack."
+        ]
+      ]
+    ],
+    [
+      1,
+      "h3",
+      [
+        [
+          0,
+          [],
+          0,
+          "Musicians on Substack"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "And it’s not just the writers. As "
+        ],
+        [
+          0,
+          [
+            2
+          ],
+          1,
+          "The Guardian"
+        ],
+        [
+          0,
+          [],
+          0,
+          " reported, "
+        ],
+        [
+          0,
+          [
+            23
+          ],
+          1,
+          "musicians are getting in on the act"
+        ],
+        [
+          0,
+          [],
+          0,
+          ", too:"
+        ]
+      ]
+    ],
+    [
+      1,
+      "blockquote",
+      [
+        [
+          0,
+          [],
+          0,
+          "Morby is among a growing number of mostly indie rock artists who’ve joined Substack in the past two years: headliners include Patti Smith, Jeff Tweedy, Perfume Genius’s Mike Hadreas, Neko Case, Tegan and Sara, Thao Nguyen, Incubus’s Brandon Boyd, and The Decemberists’ Colin Malloy. Each of these musicians now essentially serves as the editor-in-chief of a niche online publication about themselves."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Of course, Substack didn’t create this phenomenon. Patreon has allowed direct support of artists for a decade now. But it does mean that the platform has plenty of different creator groups to keep happy — just as things get so very much harder for it."
+        ]
+      ]
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Substack’s growing pains"
+        ]
+      ]
+    ],
+    [
+      10,
+      6
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "The "
+        ],
+        [
+          0,
+          [
+            24
+          ],
+          1,
+          "collapse in tech stocks"
+        ],
+        [
+          0,
+          [],
+          0,
+          ", the "
+        ],
+        [
+          0,
+          [
+            25
+          ],
+          1,
+          "paucity of venture funding"
+        ],
+        [
+          0,
+          [],
+          0,
+          " and the "
+        ],
+        [
+          0,
+          [
+            26
+          ],
+          1,
+          "general downturn in the global economy"
+        ],
+        [
+          0,
+          [],
+          0,
+          " are going to make the next couple of years hard for Substack. It’s not going to have the same level of cash to subsidise new creators on the platform, and that means it’ll be harder to generate the same sort of buzz that they’ve profited from in the past."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "The steady drip of Substack exits heading for other platforms is both raising awareness of those competitors, and making the newsletter renaissance seem less like a Substack-centric phenomenon. Subscribers will be tightening their belts, and some creators will see their incomes start to trend downwards."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "These are the hard yards for Substack, and their brash, upbeat and often arrogant online voice will have to change with them. Maybe a new head comms person will help. Or perhaps there’s an arrogance baked into the culture that will be difficult to shift. The Theilman shambles certainly shows that to be a possibility."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "I suspect either a leaner, tighter and more focused Substack will emerge from the current crisis — or one led by different leaders. Certainly, if I were one of the funders supporting the site, I’d be looking at this "
+        ],
+        [
+          0,
+          [
+            27
+          ],
+          1,
+          "unforced PR error"
+        ],
+        [
+          0,
+          [],
+          0,
+          " with a worried eye. Either way, I hope it survives the turbulent period ahead."
+        ]
+      ]
+    ]
+  ],
+  "ghostVersion": "4.0"
+}

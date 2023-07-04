@@ -1,0 +1,475 @@
+{
+  "version": "0.3.1",
+  "atoms": [
+    [
+      "soft-return",
+      "",
+      {}
+    ]
+  ],
+  "cards": [
+    [
+      "hr",
+      {}
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "html",
+      {
+        "html": "<table id=\"production-numbers-table\">\n<tbody>\n\t<tr>\n\t\t<td>Skylark Sport Coupe</td>\n\t\t<td>42,356</td>\n\t</tr>\n    \t<tr>\n\t\t<td>Skylark Convertible CPE</td>\n\t\t<td>10,225</td>\n\t</tr>\n    \t<tr>\n\t\t<td>4-DR Skylark SDN</td>\n\t\t<td>19,635</td>\n\t</tr>\n\t\t<td><b>Total Production</b></td>\n\t\t<td><b>72,216</b></td>\n\t</tr>\n</tbody>\n</table>"
+      }
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "html",
+      {
+        "html": "<table id=\"performance-specs-table\">\n<tbody>\n\t<tr>\n\t\t<th><b>Engine</b></th>\n\t\t<th><b>Size</b></td>\n\t\t<th><b>Carb.</b></td>\n\t\t<th><b>HP</b></td>\n\t\t<th><b>Torque</b></td>\n\t\t<th><b>0 to 60</b></td>\n\t\t<th><b>Quarter mile</b></td>\n\t</tr>\n\t<tr>\n\t\t<td>Fireball 225 V6</td>\n\t\t<td>225ci</td>\n\t\t<td>1x1bbl</td>\n\t\t<td>155</td>\n\t\t<td>1225 lb-ft</td>\n\t\t<td>-</td>\n\t\t<td>-</td>\n\t</tr>\n\t<tr>\n\t\t<td>300 V8</td>\n\t\t<td>300ci</td>\n\t\t<td>1x2bbl</td>\n\t\t<td>210</td>\n\t\t<td>310 lb-ft</td>\n\t\t<td>-</td>\n\t\t<td>-</td>\n\t</tr>\n\t<tr>\n\t\t<td>300 V8</td>\n\t\t<td>300ci</td>\n\t\t<td>1x4bbl</td>\n\t\t<td>250</td>\n\t\t<td>352 lb-ft</td>\n\t\t<td>7.2 sec</td>\n\t\t<td>15.8 sec</td>\n\t</tr>\n</tbody>\n</table>"
+      }
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "html",
+      {
+        "html": "<h4 id='colors-sub-heading'>Exterior</h4>\n<div class=\"colors-row\">\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #000000\"></div>\n        <div class=\"color-name\">Regal Black</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #e3deca\"></div>\n        <div class=\"color-name\">Arctic White</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #889097\"></div>\n        <div class=\"color-name\">Silver Cloud</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #627389\"></div>\n        <div class=\"color-name\">Marlin Blue</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #91a5bd\"></div>\n        <div class=\"color-name\">Wedgewood Blue</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #9da08f\"></div>\n        <div class=\"color-name\">Surf Green</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #e7df83\"></div>\n        <div class=\"color-name\">Sunburst Yellow</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #602422\"></div>\n        <div class=\"color-name\">Claret Mist</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #89514a\"></div>\n        <div class=\"color-name\">Coral Mist</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #547784\"></div>\n        <div class=\"color-name\">Teal Mist</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #cabda7\"></div>\n        <div class=\"color-name\">Desert Beige</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #95816c\"></div>\n        <div class=\"color-name\">Bronze Mist</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #9e8e84\"></div>\n        <div class=\"color-name\">Tawny Mist</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #8d2821\"></div>\n        <div class=\"color-name\">Granada Red</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #1a1d30\"></div>\n        <div class=\"color-name\">Diplomat Blue</div>\n    </div>\n</div>\n\n<h4 id='colors-sub-heading'>Interior</h4>\n<div class=\"colors-row\">\n    <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #000000\"></div>\n        <div class=\"color-name\">Black</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #000000\"></div>\n        <div class=\"color-name\">Black</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #000000\"></div>\n        <div class=\"color-name\">Black</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #000000\"></div>\n        <div class=\"color-name\">Black</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #000000\"></div>\n        <div class=\"color-name\">Black</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #000000\"></div>\n        <div class=\"color-name\">Black</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #000000\"></div>\n        <div class=\"color-name\">Black</div>\n    </div>\n        <div class=\"color-pair \">\n        <div class=\"color-chip\" style=\"background: #000000\"></div>\n        <div class=\"color-name\">Black</div>\n    </div>\n</div>"
+      }
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "gallery",
+      {
+        "images": [
+          {
+            "fileName": "2494_n_1964_Buick_Full_Line_Prestige-16-17_low_res.jpg",
+            "row": 0,
+            "width": 790,
+            "height": 537,
+            "src": "__GHOST_URL__/content/images/2020/06/2494_n_1964_Buick_Full_Line_Prestige-16-17_low_res.jpg"
+          },
+          {
+            "fileName": "2495_n_1964_Buick_Full_Line_Prestige-26-27_low_res.jpg",
+            "row": 0,
+            "width": 790,
+            "height": 511,
+            "src": "__GHOST_URL__/content/images/2020/06/2495_n_1964_Buick_Full_Line_Prestige-26-27_low_res.jpg"
+          },
+          {
+            "fileName": "2496_n_1964_Buick_Full_Line_Prestige-38-39_low_res.jpg",
+            "row": 0,
+            "width": 790,
+            "height": 518,
+            "src": "__GHOST_URL__/content/images/2020/06/2496_n_1964_Buick_Full_Line_Prestige-38-39_low_res.jpg"
+          },
+          {
+            "fileName": "2497_n_1964_Buick_Full_Line_Prestige-40-41_low_res.jpg",
+            "row": 1,
+            "width": 790,
+            "height": 518,
+            "src": "__GHOST_URL__/content/images/2020/06/2497_n_1964_Buick_Full_Line_Prestige-40-41_low_res.jpg"
+          },
+          {
+            "fileName": "2489_b_1964_Buick_Full_Line_Prestige-42-43_low_res.jpg",
+            "row": 1,
+            "width": 790,
+            "height": 519,
+            "src": "__GHOST_URL__/content/images/2020/06/2489_b_1964_Buick_Full_Line_Prestige-42-43_low_res.jpg"
+          },
+          {
+            "fileName": "2490_b_1964_Buick_Full_Line_Prestige-44-45_low_res.jpg",
+            "row": 1,
+            "width": 790,
+            "height": 517,
+            "src": "__GHOST_URL__/content/images/2020/06/2490_b_1964_Buick_Full_Line_Prestige-44-45_low_res.jpg"
+          },
+          {
+            "fileName": "2491_b_1964_Buick_Full_Line_Prestige-46_low_res.jpg",
+            "row": 2,
+            "width": 790,
+            "height": 1017,
+            "src": "__GHOST_URL__/content/images/2020/06/2491_b_1964_Buick_Full_Line_Prestige-46_low_res.jpg"
+          },
+          {
+            "fileName": "2492_b_1964_Buick_Full_Line_Prestige-47_low_res.jpg",
+            "row": 2,
+            "width": 763,
+            "height": 1024,
+            "src": "__GHOST_URL__/content/images/2020/06/2492_b_1964_Buick_Full_Line_Prestige-47_low_res.jpg"
+          },
+          {
+            "fileName": "2493_n_1964_Buick_Full_Line_Prestige-01_low_res.jpg",
+            "row": 2,
+            "width": 758,
+            "height": 1024,
+            "src": "__GHOST_URL__/content/images/2020/06/2493_n_1964_Buick_Full_Line_Prestige-01_low_res.jpg"
+          }
+        ],
+        "caption": "1964 Buick Skylark"
+      }
+    ],
+    [
+      "gallery",
+      {
+        "images": [
+          {
+            "fileName": "2499_n_1964_Buick_Full_Line_Prestige-60-61_low_res.jpg",
+            "row": 0,
+            "width": 790,
+            "height": 522,
+            "src": "__GHOST_URL__/content/images/2020/06/2499_n_1964_Buick_Full_Line_Prestige-60-61_low_res.jpg"
+          },
+          {
+            "fileName": "2500_n_1964_Buick_Full_Line_Prestige-63_low_res.jpg",
+            "row": 0,
+            "width": 784,
+            "height": 1024,
+            "src": "__GHOST_URL__/content/images/2020/06/2500_n_1964_Buick_Full_Line_Prestige-63_low_res.jpg"
+          },
+          {
+            "fileName": "2498_n_1964_Buick_Full_Line_Prestige-58-59_low_res.jpg",
+            "row": 0,
+            "width": 790,
+            "height": 512,
+            "src": "__GHOST_URL__/content/images/2020/06/2498_n_1964_Buick_Full_Line_Prestige-58-59_low_res.jpg"
+          }
+        ],
+        "caption": "1964 Buick Skylark"
+      }
+    ],
+    [
+      "hr",
+      {}
+    ]
+  ],
+  "markups": [
+    [
+      "strong"
+    ],
+    [
+      "em"
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/tag/research/"
+      ]
+    ]
+  ],
+  "sections": [
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Overview"
+        ]
+      ]
+    ],
+    [
+      10,
+      0
+    ],
+    [
+      1,
+      "h3",
+      [
+        [
+          0,
+          [],
+          0,
+          "The Skylark had enough sales to merit its own separate line in 1964. Along with the lower-priced Special from which it was derived, the Skylark would move to a new intermediate-size chassis that was shared with the Oldsmobile F-85, Pontiac Tempest, and the new Chevrolet Chevelle."
+        ]
+      ]
+    ],
+    [
+      10,
+      1
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "The Skylark had enough sales to merit its own separate line in 1964. Along with the lower-priced Special from which it was derived, the Skylark would move to a new intermediate-size chassis that was shared with the Oldsmobile F-85, Pontiac Tempest, and the new Chevrolet Chevelle. The new chassis had a wheelbase of 115 in (2,921 mm) and the Buick Special and Skylark had a length of 203.5 in (5,169 mm). The 215 cubic-inch-displacement aluminum block V8 engine was discontinued, and the associated tooling eventually was sold to the British manufacturer, Rover. That company would produce the engine in several versions for use in its sedans and Land Rover sport utility vehicles and trucks."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "The standard Skylark engine was now a 225 cubic-inch all cast iron block V6 with a Rochester 1-barrel carburetor that generated 155 hp (116 kW) at 4400 rpm. This engine was introduced in 1964, very similar to the earlier V6 beginning with the 1962 model year which had a smaller displacement of 196 cubic-inch. This engine was basically a Buick V8 300 CID engine with two cylinders sawed-off. The optional engine was a 300 cubic inch cast iron block and aluminum heads V8 with a Rochester 2-barrel carburetor that generated 210 hp (160 kW) at 4600 rpm. An optional V8 version of the 300 CID engine was offered with a 11:1 compression and a 4-barrel carburetor generating 250 hp (190 kW). A long-throw, 4-speed Hurst shifter was available. For the 1965 model cast iron blocks and heads were used for all engines."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "In addition to the two-door convertible and hardtop coupe body-styles, a Skylark four-door sedan became available for the first time. Skylarks, however, would continue to have higher levels of exterior and interior trim compared to the Special and Special Deluxe from which they were derived. All-vinyl bucket seats would be standard on the convertible and optional on the hardtop coupe. The sedan would come with cloth-and-vinyl seats standard, and an all-vinyl interior would be optional. The Sylark Coupe had a lower profile, sitting lower to the road than the Buick Special models."
+        ]
+      ]
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Production Numbers"
+        ]
+      ]
+    ],
+    [
+      10,
+      2
+    ],
+    [
+      10,
+      3
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Performance Specs"
+        ]
+      ]
+    ],
+    [
+      10,
+      4
+    ],
+    [
+      10,
+      5
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Transmission"
+        ]
+      ]
+    ],
+    [
+      10,
+      6
+    ],
+    [
+      3,
+      "ul",
+      [
+        [
+          [
+            0,
+            [
+              0,
+              0
+            ],
+            2,
+            "3-Speed"
+          ]
+        ],
+        [
+          [
+            0,
+            [
+              0,
+              0
+            ],
+            2,
+            "4-speed"
+          ]
+        ],
+        [
+          [
+            0,
+            [
+              0,
+              0
+            ],
+            2,
+            "2-speed auto"
+          ]
+        ]
+      ]
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "Paint & Colors"
+        ]
+      ]
+    ],
+    [
+      10,
+      7
+    ],
+    [
+      10,
+      8
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "OEM Brochures"
+        ]
+      ]
+    ],
+    [
+      10,
+      9
+    ],
+    [
+      10,
+      10
+    ],
+    [
+      10,
+      11
+    ],
+    [
+      1,
+      "h2",
+      [
+        [
+          0,
+          [],
+          0,
+          "About the Knowledge Base"
+        ]
+      ]
+    ],
+    [
+      10,
+      12
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "The Motorious Knowledge Base provides a comprehensive vehicle overview for the 1964 Buick Skylark"
+        ],
+        [
+          0,
+          [
+            1
+          ],
+          1,
+          " "
+        ],
+        [
+          0,
+          [],
+          0,
+          "including production numbers, performance specs, factory colors, and OEM brochures. Check out additional model years or related content linked to this article or view other Makes and Models in our "
+        ],
+        [
+          0,
+          [
+            2
+          ],
+          1,
+          "Research"
+        ],
+        [
+          0,
+          [],
+          0,
+          " center."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "If you have any interesting facts about the 1964 Buick Skylark"
+        ],
+        [
+          0,
+          [
+            1
+          ],
+          1,
+          " "
+        ],
+        [
+          0,
+          [],
+          0,
+          "to add, want to tell us how we did covering the Model, or want to tell us about yours, please leave a comment below."
+        ],
+        [
+          1,
+          [],
+          0,
+          0
+        ]
+      ]
+    ]
+  ],
+  "ghostVersion": "3.0"
+}
