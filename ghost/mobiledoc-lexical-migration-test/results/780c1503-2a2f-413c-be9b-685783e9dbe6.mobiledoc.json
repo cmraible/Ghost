@@ -1,0 +1,847 @@
+{
+  "version": "0.3.1",
+  "atoms": [],
+  "cards": [
+    [
+      "email-cta",
+      {
+        "showButton": true,
+        "showDividers": false,
+        "segment": "status:free",
+        "alignment": "left",
+        "html": "<p>We have been sounding the alarm about pension investments in private equity — and to illustrate why, our <strong><a href=\"__GHOST_URL__/the-left-banks-warning-about-wall-street/?utm_source=newsletter-email&amp;utm_medium=link&amp;utm_campaign=newsletter-article\">featured story today</a></strong> uses the example of a shady financial scheme in Paris that upended the world’s greatest rare book market. <em>Lever </em>Managing Editor Joel Warner wrote the piece based on reporting for his new book: <a href=\"https://www.joelwarner.com/\"><em>The Curse of the Marquis De Sade: A Notorious Scoundrel, a Mythical Manuscript, and the Biggest Scandal in Literary History</em></a>.<strong> If you enjoy it, please consider <a href=\"https://www.joelwarner.com/\">ordering a copy</a> from your local bookstore.</strong></p><p>To support <em>The Lever</em>’s critical work, including our ongoing train derailment disaster reporting that has shaped national coverage and held the powerful accountable, <a href=\"__GHOST_URL__/membership/?utm_source=newsletter-email&amp;utm_medium=link&amp;utm_campaign=newsletter-upgrade\">become a supporting subscriber today</a>. Not only do you directly fund this work, but you get great perks in return too.</p>",
+        "buttonText": "Upgrade Now",
+        "buttonUrl": "__GHOST_URL__/membership/?utm_source=newsletter-email&utm_medium=link&utm_campaign=newsletter-upgrade"
+      }
+    ],
+    [
+      "email-cta",
+      {
+        "showButton": false,
+        "showDividers": false,
+        "segment": "status:-free",
+        "alignment": "left",
+        "html": "<p>We have been sounding the alarm about pension investments in private equity — and to illustrate why, our <strong><a href=\"__GHOST_URL__/the-left-banks-warning-about-wall-street/?utm_source=newsletter-email&amp;utm_medium=link&amp;utm_campaign=newsletter-article\">featured story today</a></strong> uses the example of a shady financial scheme in Paris that upended the world’s greatest rare book market. <em>Lever </em>Managing Editor Joel Warner wrote the piece based on reporting for his new book: <a href=\"https://www.joelwarner.com/\"><em>The Curse of the Marquis De Sade: A Notorious Scoundrel, a Mythical Manuscript, and the Biggest Scandal in Literary History</em></a>.<strong> If you enjoy it, please consider <a href=\"https://www.joelwarner.com/\">ordering a copy</a> from your local bookstore.</strong></p><p>Spread the word: Forward this email to encourage others <a href=\"https://levernews.com/membership/?utm_source=daily&amp;utm_medium=link&amp;utm_campaign=forward-signup\">to subscribe to <em>The Lever</em></a>.</p>"
+      }
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "image",
+      {
+        "src": "__GHOST_URL__/content/images/2023/02/Paris-Aristophil-Booksellers-1.png",
+        "width": 1600,
+        "height": 900,
+        "caption": "(AP Photo/Rafael Yaghobzadeh)",
+        "href": "https://www.levernews.com/the-left-banks-warning-about-wall-street/?utm_source=newsletter-email&utm_medium=link&utm_campaign=newsletter-article"
+      }
+    ],
+    [
+      "callout",
+      {
+        "calloutEmoji": "👉",
+        "calloutText": "<strong><em>Share this article on <u><a href=\"https://twitter.com/intent/tweet?text=An%20obscure%20rare%20book%20scandal%20offers%20a%20cautionary%20tale%20about%20public%20pensions%E2%80%99%20growing%20reliance%20on%20private%20equity.%20https%3A%2F%2Fwww.levernews.com%2Fthe-left-banks-warning-about-wall-street%2F%3Futm_source%3Dtwitter%26utm_medium%3Dlink%26utm_campaign%3Dtw-prefill\">Twitter</a></u> and <u><a href=\"https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.levernews.com%2Fthe-left-banks-warning-about-wall-street%2F%3Futm_source%3Dfacebook%26utm_medium%3Dlink%26utm_campaign%3Dfb-article&amp;amp;src=sdkpreparse\">Facebook</a></u></em></strong>.",
+        "backgroundColor": "grey"
+      }
+    ],
+    [
+      "email",
+      {
+        "html": "<p>[<em><a href=\"__GHOST_URL__/the-left-banks-warning-about-wall-street/?utm_source=newsletter-email&amp;utm_medium=link&amp;utm_campaign=newsletter-article\">View in browser</a></em>]</p>"
+      }
+    ],
+    [
+      "callout",
+      {
+        "calloutEmoji": "💡",
+        "calloutText": "<em>You can order a copy of </em>The Curse of the Marquis de Sade <em>from your favorite bookstore by </em><a href=\"https://www.joelwarner.com/\"><em>clicking here</em></a><em>.</em>",
+        "backgroundColor": "grey"
+      }
+    ],
+    [
+      "callout",
+      {
+        "calloutEmoji": "👉",
+        "calloutText": "<strong>HELP US GROW, FOLLOW <em>THE LEVER </em>ON SOCIAL MEDIA:</strong><br>• <a href=\"https://www.twitter.com/LeverNews\"><strong>Twitter</strong></a><br>• <a href=\"https://www.facebook.com/TheLeverNews\"><strong>Facebook</strong></a><br>• <a href=\"https://www.instagram.com/LeverNews\"><strong>Instagram</strong></a><br>• <a href=\"https://www.youtube.com/c/LeverNews\"><strong>YouTube</strong></a>",
+        "backgroundColor": "grey"
+      }
+    ],
+    [
+      "callout",
+      {
+        "calloutEmoji": "💡",
+        "calloutText": "<em>You can order a copy of </em>The Curse of the Marquis de Sade <em>from your favorite bookstore by </em><a href=\"https://www.joelwarner.com/\"><em>clicking here</em></a><em>.</em>",
+        "backgroundColor": "grey"
+      }
+    ],
+    [
+      "email-cta",
+      {
+        "showButton": true,
+        "showDividers": false,
+        "segment": "status:-free",
+        "alignment": "center",
+        "html": "",
+        "buttonText": "Click Here To Comment",
+        "buttonUrl": "__GHOST_URL__/the-left-banks-warning-about-wall-street/#comments"
+      }
+    ],
+    [
+      "hr",
+      {}
+    ],
+    [
+      "email",
+      {
+        "html": "<p><em><strong>Help us spread the word! </strong>Please forward this email to family and friends.</em></p><p><em><strong>Was this email forwarded to you? </strong><a href=\"__GHOST_URL__/membership/?utm_source=newsletter-email&amp;utm_medium=link&amp;utm_campaign=newsletter-upgrade-forward\">Sign up for free</a> to receive original reporting like this in your inbox every day.</em></p>"
+      }
+    ]
+  ],
+  "markups": [
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/author/joel/"
+      ]
+    ],
+    [
+      "em"
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://pitchbook.com/news/articles/pensions-private-equity-warning"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.bloomberg.com/news/features/2023-01-04/us-public-pension-plans-run-by-investing-novices-are-on-the-edge-of-a-crisis"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.buyoutsinsider.com/writedowns-are-coming-but-the-pain-may-be-muted/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://comptroller.nyc.gov/newsroom/city-comptroller-lander-applauds-governor-hochuls-signing-of-legislation-to-allow-nys-public-pension-funds-more-flexibility-to-diversify-portfolios/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.wsj.com/articles/retirement-funds-bet-bigger-on-private-equity-11641810604"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.youtube.com/watch?v=uOfF_XnadrM"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.lexology.com/library/detail.aspx?g=d24536c0-ea31-40e8-b3c1-0b2949ce6a1b"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.collections-aristophil.com/en/presentation"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.investmentcouncil.org/private-equity-delivers-the-strongest-returns-for-public-servants/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.nakedcapitalism.com/2023/02/a-big-reckoning-starting-for-private-equity-and-its-public-pension-fund-enthusiasts.html"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.institutionalinvestor.com/article/b1zl0qr11jf8hj/Here-s-More-Evidence-That-Private-Equity-Managers-Inflate-Fund-Values-When-Raising-Money"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://cepr.net/press-release/are-private-equity-funds-values-too-good-to-be-true-take-a-lesson-from-the-spider-and-the-fly/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://m.youtube.com/watch?v=r3_41Whvr1I&t=1s&pp=2AEBkAIB"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.sec.gov/news/press-release/2022-19"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/biden-reversal-gives-wall-street-a-big-win/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.bloomberg.com/news/articles/2022-07-07/calpers-unloads-record-6-billion-of-private-equity-at-discount"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.reuters.com/business/finance/global-markets-privateequity-pix-2022-12-19/"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "__GHOST_URL__/wall-street-readies-an-avalanche-of-lies/"
+      ]
+    ]
+  ],
+  "sections": [
+    [
+      10,
+      0
+    ],
+    [
+      10,
+      1
+    ],
+    [
+      10,
+      2
+    ],
+    [
+      10,
+      3
+    ],
+    [
+      10,
+      4
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "By "
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "Joel Warner"
+        ]
+      ]
+    ],
+    [
+      10,
+      5
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "The alarm bells are ringing: The $400 billion in workers’ retirement dollars that public officials have invested in private equity could be on the verge of crisis, as the market downtown hits the alternative investments. Last month, the private equity analysts at "
+        ],
+        [
+          0,
+          [
+            1
+          ],
+          1,
+          "PitchBook"
+        ],
+        [
+          0,
+          [],
+          0,
+          " "
+        ],
+        [
+          0,
+          [
+            2
+          ],
+          1,
+          "warned"
+        ],
+        [
+          0,
+          [],
+          0,
+          " that “private equity returns are a major threat to pension plans’ ability to pay retirees in 2023.” Meanwhile, a top pension expert "
+        ],
+        [
+          0,
+          [
+            3
+          ],
+          0,
+          "told "
+        ],
+        [
+          0,
+          [
+            1
+          ],
+          2,
+          "Bloomberg"
+        ],
+        [
+          0,
+          [
+            1
+          ],
+          1,
+          ", "
+        ],
+        [
+          0,
+          [],
+          0,
+          "“The whole system is set up to fail.”"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Poppycock, say some experts. Writedowns will be minimal, "
+        ],
+        [
+          0,
+          [
+            4
+          ],
+          1,
+          "claim"
+        ],
+        [
+          0,
+          [],
+          0,
+          " alternative investment advisors. Doubling down on private equity “is the most significant long-term adjustment we can make to safely maximize returns,” New York City Comptroller Brad Lander recently "
+        ],
+        [
+          0,
+          [
+            5
+          ],
+          1,
+          "announced"
+        ],
+        [
+          0,
+          [],
+          0,
+          ". Other government officials appear to agree, pumping "
+        ],
+        [
+          0,
+          [
+            6
+          ],
+          1,
+          "an ever larger share"
+        ],
+        [
+          0,
+          [],
+          0,
+          " of public pension dollars into private equity. After all, these assets have a history of sterling returns — why would they run into trouble now?"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "The problem is that private equity portfolios are not only opaque, but also built on illiquid assets — investments like restructured companies that have no transparent public valuation and cannot be easily converted into cash. To understand why this is so dangerous, let’s look to an unlikely source: a scandal across the Atlantic involving the original manuscripts of some of the world’s most famous literary works, from André Breton’s surrealist manifestos to Charlotte Brontë’s early writings to a long-lost scroll of the Marquis de Sade."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "The tale is centered on a genteel Left Bank neighborhood in central Paris, an area said to boast more antiquarian booksellers and document dealers than anywhere else on the planet. Here, in cramped, dusty shops, illuminated manuscripts, intimate letters penned by historical greats, and autographed first editions have long commanded international attention and astronomical prices."
+        ]
+      ]
+    ],
+    [
+      10,
+      6
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "But the market was small and insular, fueled by a handful of expert dealers and the fervor of a few thousand high-end clients. That changed in the early 2000s, when a local upstart investment company called "
+        ],
+        [
+          0,
+          [
+            7
+          ],
+          1,
+          "Aristophil"
+        ],
+        [
+          0,
+          [],
+          0,
+          " began selling joint ownership shares of collections of letters and manuscripts for a few hundred euros on up. Suddenly, teachers, police officers, shopkeepers, and others making a modest living all over Europe could own a piece of the country’s celebrated literary heritage — and earn 40 percent returns in five years, promised the independent advisors touting the operation."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "As the newspaper "
+        ],
+        [
+          0,
+          [
+            1
+          ],
+          1,
+          "Le Figaro"
+        ],
+        [
+          0,
+          [],
+          0,
+          " declared, it was “the heyday of the manuscript.” At book auctions, Aristophil agents sent bids skyrocketing, fueling a bull market and drawing out texts that had long been hidden away in château libraries. Everybody made money — the booksellers, the investors, and most of all, Aristophil. The company amassed one of the largest private collections of letters and manuscripts in the world — including Napoléon’s love notes to Josephine, Isaac Newton’s personal notebooks, and fragments of the Dead Sea Scrolls."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "And since Aristophil’s contracts were structured as private deals, there was little the country’s stock market regulator could do but issue a tepid warning about “atypical investments” such as letters and manuscripts."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "But in November 2014, "
+        ],
+        [
+          0,
+          [
+            8
+          ],
+          1,
+          "everything fell apart"
+        ],
+        [
+          0,
+          [],
+          0,
+          ". Police raided Aristophil, seizing everything. They claimed the company was an elaborate Ponzi scheme, in which new investments were used to pay off old ones in order to make the operation appear sound as it grew ever bigger. Aristophil’s steadily rising rates of return were being driven by ever-more generous estimates provided by the company’s well-compensated document specialists. Such hefty markups were never challenged, since Aristophil functioned as a closed system. Once acquired, its books and manuscripts were never put up for sale at public auction."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "While the head of Aristophil is still awaiting trial, the company has long been liquidated. To help recoup the €850 million that 18,000 shareholders had invested in the operation, France sold off Aristophil’s 135,000 holdings in a series of "
+        ],
+        [
+          0,
+          [
+            9
+          ],
+          1,
+          "high-profile auctions"
+        ],
+        [
+          0,
+          [],
+          0,
+          ". While certain items fetched decent prices, the vast majority of sales revealed the company’s valuations were vastly overblown. On average, shareholders lost ninety percent of their investments. For many, this was their entire savings; one investor committed suicide. The only winners were the booksellers who’d been paid hefty fees to inflate the value of Aristophil’s holdings, since they now snatched up materials at rock-bottom prices."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "After attending one of these auctions, where many items were left unsold or went for far less than their estimate, one witness declared he had witnessed a “black sale.”"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "The rise and fall of Aristophil isn’t just a cautionary tale for those considering buying into U.S. joint-share art investment companies like Masterworks and Yieldstreet. Substitute private equity stakes for literary manuscripts, and the French disaster is a warning for millions of schoolworkers, firefighters, first responders, and other government employees — because "
+        ],
+        [
+          0,
+          [
+            10
+          ],
+          1,
+          "11 percen"
+        ],
+        [
+          0,
+          [],
+          0,
+          "t of all pension dollars are now invested in private equity assets."
+        ]
+      ]
+    ],
+    [
+      10,
+      7
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Both the rare documents amassed by Aristophil and the companies bought up by private equity firms are illiquid assets — assets that are rarely sold, and don’t have a firm public value, like cash or shares of stock on a public exchange. Private equity firms have used this fact to engage in what "
+        ],
+        [
+          0,
+          [
+            1
+          ],
+          1,
+          "Naked Capitalism"
+        ],
+        [
+          0,
+          [],
+          0,
+          "’s Susan Webber calls “"
+        ],
+        [
+          0,
+          [
+            11
+          ],
+          1,
+          "valuation chicanery"
+        ],
+        [
+          0,
+          [],
+          0,
+          "” — buying up companies, restructuring them, then valuing them at a much higher price when they need to "
+        ],
+        [
+          0,
+          [
+            12
+          ],
+          1,
+          "raise more money"
+        ],
+        [
+          0,
+          [],
+          0,
+          ", using secret metrics that, as the Center for Economic and Policy Research "
+        ],
+        [
+          0,
+          [
+            13
+          ],
+          1,
+          "put it"
+        ],
+        [
+          0,
+          [],
+          0,
+          ", are just “a figment of the PE managers’ fertile imaginations.”"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "As Warren Buffet "
+        ],
+        [
+          0,
+          [
+            14
+          ],
+          1,
+          "noted"
+        ],
+        [
+          0,
+          [],
+          0,
+          ": “We have seen a number of proposals from private equity funds where the returns are really not calculated in a manner that I would regard as honest… If I were running a pension fund, I would be very careful about what is being offered to me.”"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "For its part, the Biden administration has "
+        ],
+        [
+          0,
+          [
+            15
+          ],
+          1,
+          "proposed"
+        ],
+        [
+          0,
+          [],
+          0,
+          " a rule to increase transparency of private equity funds and limit preferential treatment offered to some investors. But it has "
+        ],
+        [
+          0,
+          [
+            16
+          ],
+          1,
+          "solidified"
+        ],
+        [
+          0,
+          [],
+          0,
+          " a Trump-era rule that allows public retirement plan administrators to shift ever-more pension money into these private equity timebombs."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "The same sort of overzealous valuations were at play during the 2000s housing bubble, and they could once again lead to catastrophe. We’ve already seen the first signs of trouble: Last year, the mammoth California Public Employees' Retirement System unloaded a $6 billion private equity portfolio at a "
+        ],
+        [
+          0,
+          [
+            17
+          ],
+          1,
+          "10 percent discount"
+        ],
+        [
+          0,
+          [],
+          0,
+          " — $600 million less than what private equity managers had valued it."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Like the high-end dealers and collectors in the Aristophil scandal, sophisticated operators will weather the pending private equity implosion. Private equity managers will take the massive fees they’ve earned and buy up the distressed companies left behind, while savvy investors are already "
+        ],
+        [
+          0,
+          [
+            18
+          ],
+          1,
+          "making moves"
+        ],
+        [
+          0,
+          [],
+          0,
+          " to avoid the bloodletting. But thanks to the "
+        ],
+        [
+          0,
+          [
+            19
+          ],
+          1,
+          "veil of secrecy"
+        ],
+        [
+          0,
+          [],
+          0,
+          " employed by private equity, the vast majority of public pension fund managers — and government employees whose retirement savings are on the line — have no idea what could befall them."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "It’s fine for experienced, high-net-worth individuals to bet their own money on alternative investments, just like wealthy collectors have long dabbled in the rare-book trade. But this is different: This is public officials gambling public pensioners’ retirement savings on opaque and risky schemes."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Something has to be done, and soon, or there could be more black sales on the horizon."
+        ]
+      ]
+    ],
+    [
+      10,
+      8
+    ],
+    [
+      10,
+      9
+    ],
+    [
+      10,
+      10
+    ],
+    [
+      10,
+      11
+    ],
+    [
+      1,
+      "p",
+      []
+    ],
+    [
+      1,
+      "p",
+      []
+    ]
+  ],
+  "ghostVersion": "4.0"
+}

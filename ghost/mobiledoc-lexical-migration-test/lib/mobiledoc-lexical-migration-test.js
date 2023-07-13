@@ -8,9 +8,8 @@ const fs = require('fs');
 const db = makeDb();
 
 const testPosts = async () => {
-    const posts = await db.query('SELECT uuid, mobiledoc FROM posts WHERE uuid = "e33108ed-026c-41e6-b09b-08088690dc77";');
-    // const posts = await db.query('SELECT uuid, mobiledoc FROM posts;');
-    const postCount = posts.length;
+    // const posts = await db.query('SELECT uuid, mobiledoc FROM posts WHERE uuid IN ("4f6498a3-e270-43cc-af05-38488a4cad8c", "a1545e01-1073-423e-b8d6-35acdafa06bd", "4b7c175a-5293-4ac0-9614-026324757da7");');
+    const posts = await db.query('SELECT uuid, mobiledoc FROM posts ORDER BY RAND();');
     let successCount = 0;
     let trialCount = 0;
     for (const post of posts) {
@@ -21,7 +20,6 @@ const testPosts = async () => {
             continue;
         }
         const mobiledocHtml = mobiledocLib.mobiledocHtmlRenderer.render(JSON.parse(mobiledoc));
-        console.log(mobiledocHtml);
         // Convert the mobiledoc to lexical, then render lexical to HTML
         let lexical = {};
         try {
