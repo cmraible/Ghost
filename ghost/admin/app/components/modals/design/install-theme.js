@@ -1,4 +1,5 @@
 import Component from '@glimmer/component';
+import Config from 'ghost-admin/config/environment';
 import {isThemeValidationError} from 'ghost-admin/services/ajax';
 import {inject as service} from '@ember/service';
 import {task} from 'ember-concurrency';
@@ -32,7 +33,7 @@ export default class InstallThemeModal extends Component {
     }
 
     get isDefaultTheme() {
-        return this.themeName.toLowerCase() === 'casper';
+        return this.themeName.toLowerCase() === 'casper' || this.themeName.toLowerCase() === 'masthead';
     }
 
     get isConfirming() {
@@ -69,7 +70,8 @@ export default class InstallThemeModal extends Component {
         try {
             if (this.isDefaultTheme) {
                 // default theme can't be installed, only activated
-                const defaultTheme = this.store.peekRecord('theme', 'casper');
+                const themeName = this.themeName.toLowerCase();
+                const defaultTheme = this.store.peekRecord('theme', themeName);
                 yield this.themeManagement.activateTask.perform(defaultTheme, {skipErrors: true});
                 this.installedTheme = defaultTheme;
 

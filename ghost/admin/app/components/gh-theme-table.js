@@ -1,5 +1,6 @@
 import Component from '@glimmer/component';
 import ConfirmDeleteThemeModal from './modals/design/confirm-delete-theme';
+import semver from 'semver';
 import {action, get} from '@ember/object';
 import {inject as service} from '@ember/service';
 
@@ -18,6 +19,14 @@ export default class GhThemeTableComponent extends Component {
         this.activateTaskInstance?.cancel();
     }
 
+    isDefaultTheme(theme) {
+        if (theme.name === 'casper' || theme.name === 'masthead') {
+            return true;
+        } else {
+            return false;
+        }
+    }
+
     get sortedThemes() {
         let themes = this.args.themes.map((t) => {
             let theme = {};
@@ -30,7 +39,6 @@ export default class GhThemeTableComponent extends Component {
             theme.package = themePackage;
             theme.active = get(t, 'active');
             theme.isDeletable = !theme.active;
-
             return theme;
         });
         let duplicateThemes = [];
@@ -44,18 +52,27 @@ export default class GhThemeTableComponent extends Component {
         });
 
         duplicateThemes.forEach((theme) => {
-            if (theme.name !== 'casper') {
+            if (!this.isDefaultTheme(theme)) {
                 theme.label = `${theme.label} (${theme.name})`;
             }
         });
 
-        // "(default)" needs to be added to casper manually as it's always
+        // "(legacy)" needs to be added to casper manually as it's always
         // displayed and would mess up the duplicate checking if added earlier
         let casper = themes.findBy('name', 'casper');
         if (casper) {
-            casper.label = `${casper.label} (default)`;
+            casper.label = `${casper.label} (legacy)`;
             casper.isDefault = true;
             casper.isDeletable = false;
+        }
+
+        // "(default)" needs to be added to masthead manually as it's always
+        // displayed and would mess up the duplicate checking if added earlier
+        let masthead = themes.findBy('name', 'masthead');
+        if (masthead) {
+            masthead.label = `${masthead.label} (default)`;
+            masthead.isDefault = true;
+            masthead.isDeletable = false;
         }
 
         // sorting manually because .sortBy('label') has a different sorting

@@ -22,7 +22,7 @@ describe('Integration: Component: gh-theme-table', function () {
 
         let packageNames = findAll('[data-test-theme-title]').map(name => name.textContent.trim());
 
-        expect(packageNames[0]).to.match(/Casper \(default\)/);
+        expect(packageNames[0]).to.match(/Casper \(legacy\)/);
         expect(packageNames[1]).to.match(/Daring\s+Active/);
         expect(packageNames[2]).to.match(/foo/);
         expect(packageNames[3]).to.match(/Lanyon/);
@@ -135,7 +135,7 @@ describe('Integration: Component: gh-theme-table', function () {
             'themes are ordered by label, folder names shown for duplicates'
         ).to.deep.equal([
             'Casper (another)',
-            'Casper (default)',
+            'Casper (legacy)',
             'Casper (mine)',
             'Daring (daring)',
             'Daring (daring-0.1.5)',

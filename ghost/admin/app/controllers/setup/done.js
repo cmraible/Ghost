@@ -6,6 +6,7 @@ import {tracked} from '@glimmer/tracking';
 
 const THEME_PROPERTIES = {
     casper: ['description', 'color', 'coverImage'],
+    masthead: ['description', 'color', 'coverImage'],
     edition: ['description', 'color', 'coverImage'],
     dawn: ['description', 'color', 'icon'],
     dope: ['description', 'color', 'logo'],

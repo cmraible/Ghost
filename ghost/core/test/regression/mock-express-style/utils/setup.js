@@ -25,7 +25,7 @@ module.exports = {
 
         const cacheStub = sandbox.stub(settingsCache, 'get');
 
-        cacheStub.withArgs('active_theme').returns(options.theme || 'casper');
+        cacheStub.withArgs('active_theme').returns(options.theme || 'masthead');
         cacheStub.withArgs('timezone').returns('Etc/UTC');
         cacheStub.withArgs('permalinks').returns('/:slug/');
         cacheStub.withArgs('ghost_private_key').returns('-----BEGIN RSA PRIVATE KEY-----\nMB8CAQACAgPBAgMBAAECAgMFAgEfAgEfAgEXAgEXAgEA\n-----END RSA PRIVATE KEY-----\n');

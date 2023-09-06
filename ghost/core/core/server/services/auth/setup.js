@@ -200,7 +200,7 @@ async function installTheme(data, api) {
         return data;
     }
 
-    if (themeName.toLowerCase() === 'tryghost/casper') {
+    if (themeName.toLowerCase() === 'tryghost/casper' || themeName.toLowerCase() === 'tryghost/masthead') {
         logging.warn('Skipping theme install as Casper is the default theme.');
         return data;
     }

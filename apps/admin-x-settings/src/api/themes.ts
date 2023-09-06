@@ -133,7 +133,7 @@ export function isActiveTheme(theme: Theme): boolean {
 }
 
 export function isDefaultTheme(theme: Theme): boolean {
-    return theme.name === 'casper';
+    return theme.name === 'casper' || theme.name === 'masthead';
 }
 
 export function isDeletableTheme(theme: Theme): boolean {
