@@ -2,6 +2,7 @@
 	path = ghost/core/content/themes/casper
 	url = ../../TryGhost/Casper.git
 	ignore = all
-[submodule "ghost/core/content/themes/casper_6-0"]
-	path = ghost/core/content/themes/casper_6-0
-	url = ../../TryGhost/Casper-2023.git
+[submodule "masthead"]
+	path = ghost/core/content/themes/masthead
+	url = git@github.com:TryGhost/Casper-2023
+	ignore = all
