@@ -32,7 +32,7 @@ export default class InstallThemeModal extends Component {
         return this.args.data.theme?.ref || this.args.data.ref;
     }
 
-    get isDefaultTheme() {
+    get isDefaultOrLegacyTheme() {
         return this.themeName.toLowerCase() === 'casper' || this.themeName.toLowerCase() === 'masthead';
     }
 
@@ -49,7 +49,7 @@ export default class InstallThemeModal extends Component {
     }
 
     get willOverwriteExisting() {
-        return !this.isDefaultTheme && this.themes.findBy('name', this.themeName.toLowerCase());
+        return !this.isDefaultOrLegacyTheme && this.themes.findBy('name', this.themeName.toLowerCase());
     }
 
     get hasWarningsOrErrors() {
@@ -68,7 +68,7 @@ export default class InstallThemeModal extends Component {
     @task
     *installThemeTask() {
         try {
-            if (this.isDefaultTheme) {
+            if (this.isDefaultOrLegacyTheme) {
                 // default theme can't be installed, only activated
                 const themeName = this.themeName.toLowerCase();
                 const defaultTheme = this.store.peekRecord('theme', themeName);

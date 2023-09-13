@@ -13,10 +13,16 @@ export default class ChangeThemeController extends Controller {
     themes = this.store.peekAll('theme');
 
     officialThemes = [{
+        name: 'Masthead',
+        category: 'News',
+        previewUrl: 'https://demo.ghost.io/', // update to the correct demo URL
+        ref: 'default',
+        image: 'assets/img/themes/Masthead.png' // ensure this actually exists
+    }, {
         name: 'Casper',
         category: 'Blog',
         previewUrl: 'https://demo.ghost.io/',
-        ref: 'default',
+        ref: 'legacy',
         image: 'assets/img/themes/Casper.png'
     }, {
         name: 'Headline',

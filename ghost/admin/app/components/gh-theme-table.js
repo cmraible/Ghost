@@ -20,11 +20,11 @@ export default class GhThemeTableComponent extends Component {
     }
 
     isDefaultTheme(theme) {
-        if (theme.name === 'casper' || theme.name === 'masthead') {
-            return true;
-        } else {
-            return false;
-        }
+        return theme.name.toLowerCase() === 'masthead';
+    }
+
+    isLegacyTheme(theme) {
+        return theme.name.toLowerCase() === 'casper';
     }
 
     get sortedThemes() {
@@ -52,28 +52,24 @@ export default class GhThemeTableComponent extends Component {
         });
 
         duplicateThemes.forEach((theme) => {
-            if (!this.isDefaultTheme(theme)) {
+            if (!this.isDefaultTheme(theme) && !this.isLegacyTheme(theme)) {
                 theme.label = `${theme.label} (${theme.name})`;
             }
         });
 
-        // "(legacy)" needs to be added to casper manually as it's always
-        // displayed and would mess up the duplicate checking if added earlier
-        let casper = themes.findBy('name', 'casper');
-        if (casper) {
-            casper.label = `${casper.label} (legacy)`;
-            casper.isDefault = true;
-            casper.isDeletable = false;
-        }
+        // add (default) or (legacy) as appropriate and prevent deletion of default/legacy themes
+        // this needs to be after deduplicating by label
+        themes.filter(this.isDefaultTheme).forEach((theme) => {
+            theme.label = `${theme.label} (default)`;
+            theme.isDefault = true;
+            theme.isDeletable = false;
+        });
 
-        // "(default)" needs to be added to masthead manually as it's always
-        // displayed and would mess up the duplicate checking if added earlier
-        let masthead = themes.findBy('name', 'masthead');
-        if (masthead) {
-            masthead.label = `${masthead.label} (default)`;
-            masthead.isDefault = true;
-            masthead.isDeletable = false;
-        }
+        themes.filter(this.isLegacyTheme).forEach((theme) => {
+            theme.label = `${theme.label} (legacy)`;
+            theme.isLegacy = true;
+            theme.isDeletable = false;
+        });
 
         // sorting manually because .sortBy('label') has a different sorting
         // algorithm to [...strings].sort()

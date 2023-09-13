@@ -11,6 +11,7 @@ describe('Integration: Component: gh-theme-table', function () {
         this.set('themes', [
             {name: 'Daring', package: {name: 'Daring', version: '0.1.4'}, active: true},
             {name: 'casper', package: {name: 'Casper', version: '1.3.1'}},
+            {name: 'masthead', package: {name: 'Masthead', version: '1.0.0'}},
             {name: 'oscar-ghost-1.1.0', package: {name: 'Lanyon', version: '1.1.0'}},
             {name: 'foo'}
         ]);
@@ -18,7 +19,7 @@ describe('Integration: Component: gh-theme-table', function () {
         await render(hbs`<GhThemeTable @themes={{themes}} />`);
 
         expect(findAll('[data-test-themes-list]').length, 'themes list is present').to.equal(1);
-        expect(findAll('[data-test-theme-id]').length, 'number of rows').to.equal(4);
+        expect(findAll('[data-test-theme-id]').length, 'number of rows').to.equal(5);
 
         let packageNames = findAll('[data-test-theme-title]').map(name => name.textContent.trim());
 
@@ -26,6 +27,7 @@ describe('Integration: Component: gh-theme-table', function () {
         expect(packageNames[1]).to.match(/Daring\s+Active/);
         expect(packageNames[2]).to.match(/foo/);
         expect(packageNames[3]).to.match(/Lanyon/);
+        expect(packageNames[4]).to.match(/Masthead \(default\)/);
 
         expect(
             find('[data-test-theme-active="true"]').querySelector('[data-test-theme-title]'),
@@ -35,7 +37,7 @@ describe('Integration: Component: gh-theme-table', function () {
         expect(
             findAll('[data-test-button="activate"]').length,
             'non-active themes have an activate link'
-        ).to.equal(3);
+        ).to.equal(4);
 
         expect(
             find('[data-test-theme-active="true"]').querySelector('[data-test-button="activate"]'),
@@ -80,21 +82,30 @@ describe('Integration: Component: gh-theme-table', function () {
         }
     });
 
-    it('does not show delete action for casper', async function () {
+    it('does not show delete action for default themes', async function () {
         const themes = [
             {name: 'Daring', package: {name: 'Daring', version: '0.1.4'}, active: true},
             {name: 'casper', package: {name: 'Casper', version: '1.3.1'}},
             {name: 'oscar-ghost-1.1.0', package: {name: 'Lanyon', version: '1.1.0'}},
-            {name: 'foo'}
+            {name: 'foo'},
+            {name: 'masthead', package: {name: 'Masthead', version: '1.0.0'}}
         ];
         this.set('themes', themes);
 
         await render(hbs`<GhThemeTable @themes={{themes}} />`);
 
+        // Casper should not be deletable
         await click(`[data-test-theme-id="casper"] [data-test-button="actions"]`);
         expect(find('[data-test-actions-for="casper"]')).to.exist;
         expect(
             find(`[data-test-actions-for="casper"] [data-test-button="delete"]`)
+        ).to.not.exist;
+
+        // Masthead should not be deletable
+        await click(`[data-test-theme-id="masthead"] [data-test-button="actions"]`);
+        expect(find('[data-test-actions-for="masthead"]')).to.exist;
+        expect(
+            find(`[data-test-actions-for="masthead"] [data-test-button="delete"]`)
         ).to.not.exist;
     });
 
@@ -120,6 +131,7 @@ describe('Integration: Component: gh-theme-table', function () {
         this.set('themes', [
             {name: 'daring', package: {name: 'Daring', version: '0.1.4'}},
             {name: 'daring-0.1.5', package: {name: 'Daring', version: '0.1.4'}},
+            {name: 'masthead', package: {name: 'Masthead', version: '1.0.0'}},
             {name: 'casper', package: {name: 'Casper', version: '1.3.1'}},
             {name: 'another', package: {name: 'Casper', version: '1.3.1'}},
             {name: 'mine', package: {name: 'Casper', version: '1.3.1'}},
@@ -139,7 +151,8 @@ describe('Integration: Component: gh-theme-table', function () {
             'Casper (mine)',
             'Daring (daring)',
             'Daring (daring-0.1.5)',
-            'foo'
+            'foo',
+            'Masthead (default)'
         ]);
     });
 });
