@@ -1,6 +1,5 @@
 import Component from '@glimmer/component';
 import ConfirmDeleteThemeModal from './modals/design/confirm-delete-theme';
-import semver from 'semver';
 import {action, get} from '@ember/object';
 import {inject as service} from '@ember/service';
 

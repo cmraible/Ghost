@@ -1,5 +1,4 @@
 import Component from '@glimmer/component';
-import Config from 'ghost-admin/config/environment';
 import {isThemeValidationError} from 'ghost-admin/services/ajax';
 import {inject as service} from '@ember/service';
 import {task} from 'ember-concurrency';

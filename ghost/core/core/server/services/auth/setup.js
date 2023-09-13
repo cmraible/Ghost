@@ -200,8 +200,8 @@ async function installTheme(data, api) {
         return data;
     }
 
-    if (themeName.toLowerCase() === 'tryghost/casper' || themeName.toLowerCase() === 'tryghost/masthead') {
-        logging.warn('Skipping theme install as Casper/Masthead is the default theme.');
+    if (themeName.toLowerCase() === 'tryghost/masthead') {
+        logging.warn('Skipping theme install as Masthead is the default theme.');
         return data;
     }
 
