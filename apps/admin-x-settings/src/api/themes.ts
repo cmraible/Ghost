@@ -133,7 +133,7 @@ export function isActiveTheme(theme: Theme): boolean {
 }
 
 export function isDefaultTheme(theme: Theme): boolean {
-    return theme.name === 'masthead';
+    return theme.name === 'source';
 }
 
 export function isLegacyTheme(theme: Theme): boolean {

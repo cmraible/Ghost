@@ -19,7 +19,7 @@ export default class GhThemeTableComponent extends Component {
     }
 
     isDefaultTheme(theme) {
-        return theme.name.toLowerCase() === 'masthead';
+        return theme.name.toLowerCase() === 'source';
     }
 
     isLegacyTheme(theme) {

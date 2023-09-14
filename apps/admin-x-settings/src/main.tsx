@@ -10,11 +10,11 @@ ReactDOM.createRoot(document.getElementById('root') as HTMLElement).render(
             externalNavigate={() => {}}
             ghostVersion='5.x'
             officialThemes={[{
-            //     name: 'Masthead',
+            //     name: 'Source',
             //     category: 'News',
-            //     previewUrl: 'https://masthead.ghost.io/', //replace with actual demo URL
+            //     previewUrl: 'https://source.ghost.io/', //replace with actual demo URL
             //     ref: 'default',
-            //     image: 'assets/img/themes/Masthead.png' //replace with actual image URL
+            //     image: 'assets/img/themes/Source.png' //replace with actual image URL
             // }, {
                 name: 'Casper',
                 category: 'Blog',

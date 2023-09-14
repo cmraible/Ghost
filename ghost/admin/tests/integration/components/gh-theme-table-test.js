@@ -11,7 +11,7 @@ describe('Integration: Component: gh-theme-table', function () {
         this.set('themes', [
             {name: 'Daring', package: {name: 'Daring', version: '0.1.4'}, active: true},
             {name: 'casper', package: {name: 'Casper', version: '1.3.1'}},
-            {name: 'masthead', package: {name: 'Masthead', version: '1.0.0'}},
+            {name: 'source', package: {name: 'Source', version: '1.0.0'}},
             {name: 'oscar-ghost-1.1.0', package: {name: 'Lanyon', version: '1.1.0'}},
             {name: 'foo'}
         ]);
@@ -27,7 +27,7 @@ describe('Integration: Component: gh-theme-table', function () {
         expect(packageNames[1]).to.match(/Daring\s+Active/);
         expect(packageNames[2]).to.match(/foo/);
         expect(packageNames[3]).to.match(/Lanyon/);
-        expect(packageNames[4]).to.match(/Masthead \(default\)/);
+        expect(packageNames[4]).to.match(/Source \(default\)/);
 
         expect(
             find('[data-test-theme-active="true"]').querySelector('[data-test-theme-title]'),
@@ -88,7 +88,7 @@ describe('Integration: Component: gh-theme-table', function () {
             {name: 'casper', package: {name: 'Casper', version: '1.3.1'}},
             {name: 'oscar-ghost-1.1.0', package: {name: 'Lanyon', version: '1.1.0'}},
             {name: 'foo'},
-            {name: 'masthead', package: {name: 'Masthead', version: '1.0.0'}}
+            {name: 'source', package: {name: 'Source', version: '1.0.0'}}
         ];
         this.set('themes', themes);
 
@@ -101,11 +101,11 @@ describe('Integration: Component: gh-theme-table', function () {
             find(`[data-test-actions-for="casper"] [data-test-button="delete"]`)
         ).to.not.exist;
 
-        // Masthead should not be deletable
-        await click(`[data-test-theme-id="masthead"] [data-test-button="actions"]`);
-        expect(find('[data-test-actions-for="masthead"]')).to.exist;
+        // Source should not be deletable
+        await click(`[data-test-theme-id="source"] [data-test-button="actions"]`);
+        expect(find('[data-test-actions-for="source"]')).to.exist;
         expect(
-            find(`[data-test-actions-for="masthead"] [data-test-button="delete"]`)
+            find(`[data-test-actions-for="source"] [data-test-button="delete"]`)
         ).to.not.exist;
     });
 
@@ -131,7 +131,7 @@ describe('Integration: Component: gh-theme-table', function () {
         this.set('themes', [
             {name: 'daring', package: {name: 'Daring', version: '0.1.4'}},
             {name: 'daring-0.1.5', package: {name: 'Daring', version: '0.1.4'}},
-            {name: 'masthead', package: {name: 'Masthead', version: '1.0.0'}},
+            {name: 'source', package: {name: 'Source', version: '1.0.0'}},
             {name: 'casper', package: {name: 'Casper', version: '1.3.1'}},
             {name: 'another', package: {name: 'Casper', version: '1.3.1'}},
             {name: 'mine', package: {name: 'Casper', version: '1.3.1'}},
@@ -152,7 +152,7 @@ describe('Integration: Component: gh-theme-table', function () {
             'Daring (daring)',
             'Daring (daring-0.1.5)',
             'foo',
-            'Masthead (default)'
+            'Source (default)'
         ]);
     });
 });

@@ -50,7 +50,7 @@ module.exports = {
         const backupName = `${themeName}_${ObjectID()}`;
 
         // check if zip name matches one of the default themes
-        if (zip.name === 'casper.zip' || zip.name === 'masthead.zip') {
+        if (zip.name === 'casper.zip' || zip.name === 'source.zip') {
             throw new errors.ValidationError({
                 message: tpl(messages.overrideDefaultTheme)
             });
@@ -127,7 +127,7 @@ module.exports = {
         }
     },
     destroy: async function (themeName) {
-        if (themeName === 'casper' || themeName === 'masthead') {
+        if (themeName === 'casper' || themeName === 'source') {
             throw new errors.ValidationError({
                 message: tpl(messages.destroyDefaultTheme)
             });

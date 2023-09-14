@@ -91,7 +91,7 @@ export default class UploadThemeModal extends Component {
             return new UnsupportedMediaTypeError();
         }
 
-        if (file.name.match(/^casper\.zip$/i) || file.name.match(/^masthead\.zip$/i)) {
+        if (file.name.match(/^casper\.zip$/i) || file.name.match(/^source\.zip$/i)) {
             return {payload: {errors: [{message: 'Sorry, the default theme cannot be overwritten.<br>Please rename your zip file to continue.'}]}};
         }
 

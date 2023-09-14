@@ -1,8 +1,8 @@
 export default [
     {
-        name: 'masthead',
+        name: 'source',
         package: {
-            name: 'masthead',
+            name: 'source',
             version: '1.0'
         },
         active: true
