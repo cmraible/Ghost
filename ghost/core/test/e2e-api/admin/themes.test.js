@@ -325,7 +325,7 @@ describe('Themes API', function () {
     });
 
     it('Can re-upload the active theme to override', async function () {
-        // The tricky thing about this test is the default active theme is Casper and you're not allowed to override it.
+        // The tricky thing about this test is the default active theme is Source and you're not allowed to override it.
         // So we upload a valid theme, activate it, and then upload again.
         sinon.stub(settingsCache, 'get').callsFake(function (key, options) {
             if (key === 'active_theme') {
