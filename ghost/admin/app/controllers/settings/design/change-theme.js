@@ -15,14 +15,14 @@ export default class ChangeThemeController extends Controller {
     officialThemes = [{
         name: 'Source',
         category: 'News',
-        previewUrl: 'https://demo.ghost.io/', // update to the correct demo URL
+        previewUrl: 'https://source.ghost.io/',
         ref: 'default',
-        image: 'assets/img/themes/Source.png' // ensure this actually exists
+        image: 'assets/img/themes/Source.png'
     }, {
         name: 'Casper',
         category: 'Blog',
         previewUrl: 'https://demo.ghost.io/',
-        ref: 'legacy',
+        ref: 'TryGhost/Casper',
         image: 'assets/img/themes/Casper.png'
     }, {
         name: 'Headline',
