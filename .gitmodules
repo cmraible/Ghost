@@ -4,4 +4,5 @@
 	ignore = all
 [submodule "ghost/core/content/themes/source"]
 	path = ghost/core/content/themes/source
-	url = git@github.com:TryGhost/Source.git
+	url = ../../TryGhost/Source.git
+	ignore = all
