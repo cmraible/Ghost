@@ -17,7 +17,7 @@
   },
   "scripts": {
     "dev": "ember serve",
-    "build": "ember build --environment=production --silent",
+    "build": "ember build --environment=production",
     "build:dev": "yarn build --environment=development",
     "test:unit": "true",
     "test": "ember exam --split 2 --parallel",

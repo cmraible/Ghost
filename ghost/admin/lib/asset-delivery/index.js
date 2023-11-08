@@ -2,6 +2,7 @@
 'use strict';
 
 const crypto = require('crypto');
+const validate = require('sourcemap-validator');
 const fs = require('fs');
 const path = require('path');
 
@@ -109,5 +110,30 @@ module.exports = {
                 console.log('Koenig-Lexical folder not found');
             }
         }
+
+        // Validate sourcemaps
+        console.log('Validating sourcemaps');
+        const assetFiles = fs.readdirSync('./dist/assets/');
+
+        const jsFiles = assetFiles.filter((file) => {
+            return file.match(/\.js$/);
+        });
+
+        jsFiles.forEach((file) => {
+            // get the base filename without the distinction and locate the associated sourcemap
+            const baseName = file.replace(/\.js$/, '');
+            const mapFile = `${baseName}.map`;
+            const mapPath = path.join('./dist/assets/', mapFile);
+            const codePath = path.join('./dist/assets/', file);
+            const code = fs.readFileSync(codePath, 'utf8');
+            const map = fs.readFileSync(mapPath, 'utf8');
+            try {
+                validate(code, map);
+            } catch (error) {
+                console.group('Sourcemap validation failed for file: ', file);
+                console.error(error.message);
+                console.groupEnd();
+            }
+        });
     }
 };

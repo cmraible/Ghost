@@ -42,11 +42,15 @@ const codemirrorAssets = function () {
                 outputFile: 'assets/codemirror/codemirror.js',
                 headerFiles: ['lib/codemirror.js'],
                 inputFiles: ['mode/**/*'],
-                sourceMapConfig: {enabled: false}
+                sourceMapConfig: {enabled: true}
             });
 
             if (isProduction) {
-                jsTree = new Terser(jsTree);
+                jsTree = new Terser(jsTree, {
+                    sourceMap: {
+                        includeSources: true
+                    }
+                });
             }
 
             let mergedTree = mergeTrees([tree, jsTree]);
