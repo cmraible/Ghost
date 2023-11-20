@@ -245,26 +245,43 @@ const pipeline = (apiController, apiUtils, apiType) => {
                 }
             }
 
+            const perf = {}
             return Promise.resolve()
                 .then(() => {
+                    perf.t0 = performance.now();
                     return STAGES.validation.input(apiUtils, apiConfig, apiImpl, frame);
                 })
                 .then(() => {
+                    perf.t1 = performance.now();
                     return STAGES.serialisation.input(apiUtils, apiConfig, apiImpl, frame);
                 })
                 .then(() => {
+                    perf.t2 = performance.now();
                     return STAGES.permissions(apiUtils, apiConfig, apiImpl, frame);
                 })
                 .then(() => {
+                    perf.t3 = performance.now();
                     return STAGES.query(apiUtils, apiConfig, apiImpl, frame);
                 })
                 .then((response) => {
+                    perf.t4 = performance.now();
                     return STAGES.serialisation.output(response, apiUtils, apiConfig, apiImpl, frame);
                 })
                 .then(async () => {
+                    perf.t5 = performance.now();
                     if (apiImpl.cache) {
                         await apiImpl.cache.set(cacheKey, frame.response);
                     }
+                    perf.t6 = performance.now();
+                    frame.serverTiming = {
+                        val: perf.t1 - perf.t0,
+                        inp: perf.t2 - perf.t1,
+                        prm: perf.t3 - perf.t2,
+                        db: perf.t4 - perf.t3,
+                        out: perf.t5 - perf.t4,
+                        cache: perf.t6 - perf.t5,
+                        total: perf.t6 - perf.t0
+                    };
                     return frame.response;
                 });
         };

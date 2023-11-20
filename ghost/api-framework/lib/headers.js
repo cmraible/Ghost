@@ -121,6 +121,18 @@ module.exports = {
             }
         }
 
+        if (frame.serverTiming) {
+            let result = '';
+            for (const [key, value] of Object.entries(frame.serverTiming)) {
+                result += `${key};dur=${value.toFixed(1)},`;
+            }
+            result = result.slice(0, -1);
+            const serverTimingHeader = {
+                'Server-Timing': result
+            };
+            Object.assign(headers, serverTimingHeader);
+        }
+
         const locationHeaderDisabled = apiConfigHeaders?.location === false;
         const hasLocationResolver = apiConfigHeaders?.location?.resolve;
         const hasFrameData = (frame?.method === 'add' || hasLocationResolver) && result[frame.docName]?.[0]?.id;
