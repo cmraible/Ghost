@@ -10,7 +10,6 @@ export default class HomeRoute extends Route {
     beforeModel(transition) {
         super.beforeModel(...arguments);
 
-        loadToolbar();
 
         if (transition.to?.queryParams?.firstStart === 'true') {
             return this.router.transitionTo('setup.done');
