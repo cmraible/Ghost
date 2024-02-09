@@ -1,5 +1,4 @@
 import Route from '@ember/routing/route';
-import {loadToolbar} from '../utils/analytics';
 import {inject as service} from '@ember/service';
 
 export default class HomeRoute extends Route {

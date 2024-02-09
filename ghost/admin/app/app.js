@@ -6,6 +6,7 @@ import config from 'ghost-admin/config/environment';
 import loadInitializers from 'ember-load-initializers';
 import moment from 'moment-timezone';
 import {registerWarnHandler} from '@ember/debug';
+import {loadToolbar} from './utils/analytics';
 
 moment.updateLocale('en', {
     relativeTime: {
@@ -24,6 +25,11 @@ const App = Application.extend({
         touchmove: null,
         touchend: null,
         touchcancel: null
+    },
+
+    ready() {
+        // Load PostHog toolbar if it's available
+        loadToolbar();
     }
 });
 
