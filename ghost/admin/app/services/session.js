@@ -49,7 +49,7 @@ export default class SessionService extends ESASessionService {
         ]);
 
         // Identify the user to our analytics service upon successful login
-        await identifyUser(this.user);
+        identifyUser(this.user, this.config);
 
         // Theme management requires features to be loaded
         this.themeManagement.fetch().catch(console.error); // eslint-disable-line no-console
@@ -104,9 +104,6 @@ export default class SessionService extends ESASessionService {
      * If failed, it will be handled by the redirect to sign in.
      */
     async requireAuthentication(transition, route) {
-        if (this.isAuthenticated && this.user) {
-            identifyUser(this.user);
-        }
 
         // Only when ember session invalidated
         if (!this.isAuthenticated) {
@@ -114,7 +111,6 @@ export default class SessionService extends ESASessionService {
 
             if (this.user) {
                 await this.setup();
-                identifyUser(this.user);
                 this.notifications.clearAll();
                 transition.retry();
             }
@@ -127,7 +123,7 @@ export default class SessionService extends ESASessionService {
         let transition = this.appLoadTransition;
 
         // Reset the PostHog user when the session is invalidated (e.g. signout, token expiry, etc.)
-        resetUser();
+        resetUser(this.config);
 
         if (transition) {
             transition.send('authorizationFailed');
