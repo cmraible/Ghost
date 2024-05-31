@@ -16,3 +16,12 @@ const DomainEvents = require('@tryghost/domain-events');
 
 DomainEvents.dispatch(event);
 ```
+
+
+```mermaid
+graph TD;
+      A-->B;
+      A-->C;
+      B-->D;
+      C-->D;
+```
