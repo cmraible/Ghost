@@ -105,12 +105,12 @@ class LinkRedirectsService {
                 return next();
             }
 
-            const event = RedirectEvent.create({
-                url,
-                link
-            });
+            // const event = RedirectEvent.create({
+            //     url,
+            //     link
+            // });
 
-            DomainEvents.dispatch(event);
+            // DomainEvents.dispatch(event);
 
             res.setHeader('X-Robots-Tag', 'noindex, nofollow');
             return res.redirect(link.to.href);
