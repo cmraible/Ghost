@@ -1,4 +1,6 @@
 const crypto = require('crypto');
+const DomainEvents = require('@tryghost/domain-events');
+const RedirectEvent = require('./RedirectEvent');
 const LinkRedirect = require('./LinkRedirect');
 
 /**
@@ -102,6 +104,13 @@ class LinkRedirectsService {
             if (!link) {
                 return next();
             }
+
+            const event = RedirectEvent.create({
+                url,
+                link
+            });
+
+            DomainEvents.dispatch(event);
 
             res.setHeader('X-Robots-Tag', 'noindex, nofollow');
             return res.redirect(link.to.href);

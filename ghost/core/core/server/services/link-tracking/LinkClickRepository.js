@@ -64,6 +64,6 @@ module.exports = class LinkClickRepository {
         linkClick.event_id = ObjectID.createFromHexString(model.id);
 
         // Dispatch event
-        this.#DomainEvents.dispatch(this.#MemberLinkClickEvent.create({memberId: member.id, memberLastSeenAt: member.get('last_seen_at'), linkId: linkClick.link_id.toHexString()}, new Date()));
+        // this.#DomainEvents.dispatch(this.#MemberLinkClickEvent.create({memberId: member.id, memberLastSeenAt: member.get('last_seen_at'), linkId: linkClick.link_id.toHexString()}, new Date()));
     }
 };

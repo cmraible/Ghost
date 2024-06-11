@@ -104,25 +104,25 @@ describe('Click Tracking', function () {
 
         urlOfLinkToClick.searchParams.set('m', memberToClickLink.uuid);
 
-        // const previousClickCount = linkToClick.count.clicks;
+        const previousClickCount = linkToClick.count.clicks;
 
         await fetchWithoutFollowingRedirect(urlOfLinkToClick.href);
 
-        // const {body: {links: [clickedLink]}} = await agent.get(
-        //     `/links/?filter=${encodeURIComponent(`post_id:'${post.id}'`)}`
-        // );
+        const {body: {links: [clickedLink]}} = await agent.get(
+            `/links/?filter=${encodeURIComponent(`post_id:'${post.id}'`)}`
+        );
 
-        // const clickCount = clickedLink.count.clicks;
+        const clickCount = clickedLink.count.clicks;
 
-        // const {body: {events: clickEvents}} = await agent.get(
-        //     `/members/events/?filter=${encodeURIComponent(`data.member_id:'${memberToClickLink.id}'+type:click_event`)}`
-        // );
+        const {body: {events: clickEvents}} = await agent.get(
+            `/members/events/?filter=${encodeURIComponent(`data.member_id:'${memberToClickLink.id}'+type:click_event`)}`
+        );
 
-        // const clickEvent = clickEvents.find((/** @type any */ event) => {
-        //     return event.data.post.id === post.id && event.data.link.from === urlOfLinkToClick.pathname;
-        // });
+        const clickEvent = clickEvents.find((/** @type any */ event) => {
+            return event.data.post.id === post.id && event.data.link.from === urlOfLinkToClick.pathname;
+        });
 
-        // assert(clickEvent);
-        // assert(previousClickCount + 1 === clickCount);
+        assert(clickEvent);
+        assert(previousClickCount + 1 === clickCount);
     });
 });
