@@ -47,7 +47,7 @@ class LastSeenAtUpdater {
 
         domainEvents.subscribe(MemberLinkClickEvent, async (event) => {
             try {
-                await this.updateLastSeenAtWithoutKnownLastSeen(event.data.memberId, event.timestamp);
+                await this.updateLastSeenAt(event.data.memberId, event.data.memberLastSeenAt, event.timestamp);
             } catch (err) {
                 logging.error(`Error in LastSeenAtUpdater.MemberLinkClickEvent listener for member ${event.data.memberId}`);
                 logging.error(err);

@@ -210,9 +210,9 @@ module.exports = function (Bookshelf) {
                 model.hasTimestamps = false;
             }
 
-            if (options.transacting) {
-                options.lock = 'forUpdate';
-            }
+            // if (options.transacting) {
+            //     options.lock = 'forUpdate';
+            // }
 
             const object = await model.fetch(options);
             if (object) {
