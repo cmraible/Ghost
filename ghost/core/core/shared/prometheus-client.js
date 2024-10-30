@@ -1,8 +1,27 @@
 class PrometheusClient {
     constructor() {
         this.client = require('prom-client');
+        this.gateway = new this.client.Pushgateway('http://pushgateway:9091');
         this.prefix = 'ghost_';
         this.collectDefaultMetrics();
+        this.init();
+    }
+
+    async init() {
+        // Push metrics to pushgateway every 5 seconds
+        setInterval(async () => {
+            try {
+                const result = await this.pushMetrics();
+                console.log('Metrics pushed to pushgateway', result);
+            } catch (err) {
+                // Avoid crashing if pushgateway is not available
+                console.error('Error pushing metrics to pushgateway', err);
+            }
+        }, 5000);
+    }
+
+    async pushMetrics() {
+        await this.gateway.pushAdd({jobName: 'ghost'});
     }
 
     collectDefaultMetrics() {

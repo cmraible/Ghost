@@ -42,6 +42,15 @@ services:
       test: [ "CMD", "redis-cli", "--raw", "incr", "ping" ]
       interval: 1s
       retries: 120
-
+  pushgateway:
+    image: prom/pushgateway:latest
+    ports:
+      - "9091:9091"
+  prometheus:
+    image: prom/prometheus:v2.30.3
+    ports:
+      - "9090:9090"
+    volumes:
+      - ./prometheus/prometheus.yml:/etc/prometheus/prometheus.yml
 volumes:
   mysql-data:
