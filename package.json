@@ -38,7 +38,7 @@
     "docker:dev": "COMPOSE_PROFILES=${COMPOSE_PROFILES:-ghost} docker compose up --attach=ghost --force-recreate --no-log-prefix",
     "docker:build": "COMPOSE_PROFILES=${COMPOSE_PROFILES:-ghost} docker compose build",
     "docker:shell": "COMPOSE_PROFILES=${COMPOSE_PROFILES:-ghost} docker compose run --rm -it ghost /bin/bash",
-    "docker:test:unit": "COMPOSE_PROFILES=${COMPOSE_PROFILES:-ghost} docker compose run --rm --no-deps ghost yarn test:unit",
+    "docker:test:unit": "COMPOSE_PROFILES=${COMPOSE_PROFILES:-ghost} docker compose run --rm -it --no-deps ghost yarn test:unit",
     "docker:test:browser": "COMPOSE_PROFILES=${COMPOSE_PROFILES:-ghost} docker compose run --rm ghost yarn test:browser",
     "docker:test:all": "COMPOSE_PROFILES=${COMPOSE_PROFILES:-ghost} docker compose run --rm ghost yarn nx run ghost:test:all",
     "docker:reset": "docker compose down -v && docker compose up -d --wait",
