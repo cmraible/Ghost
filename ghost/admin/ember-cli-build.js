@@ -217,6 +217,12 @@ module.exports = function (defaults) {
                         fs: false
                     }
                 },
+                optimization: {
+                    // Skip expensive optimizations in development
+                    minimize: !isDevelopment,
+                    removeAvailableModules: !isDevelopment,
+                    removeEmptyChunks: !isDevelopment
+                },
                 ...(isDevelopment && {
                     cache: {
                         type: 'filesystem',
