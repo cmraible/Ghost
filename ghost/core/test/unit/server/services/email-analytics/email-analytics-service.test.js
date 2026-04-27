@@ -988,6 +988,98 @@ describe('EmailAnalyticsService', function () {
         });
     });
 
+    describe('processWebhookEvent', function () {
+        beforeEach(function () {
+            configUtils.set('emailAnalytics:batchProcessing', false);
+        });
+
+        afterEach(function () {
+            configUtils.restore();
+        });
+
+        it('stores the event inline and batches aggregation', async function () {
+            const eventProcessor = {
+                handleOpened: sinon.stub().resolves({
+                    emailId: 'email-1',
+                    emailRecipientId: 'recipient-1',
+                    memberId: 'member-1'
+                }),
+                flushBatchedUpdates: sinon.stub().resolves()
+            };
+            const queries = {
+                aggregateEmailStats: sinon.stub().resolves(),
+                aggregateMemberStats: sinon.stub().resolves()
+            };
+            const service = new EmailAnalyticsService({
+                config: createMockConfig(),
+                eventProcessor,
+                queries
+            });
+
+            const result = await service.processWebhookEvent({
+                type: 'opened',
+                emailId: 'email-1',
+                providerId: 'provider-1',
+                recipientEmail: 'member@example.com',
+                timestamp: new Date(1)
+            });
+
+            assert.deepEqual(result, new EventProcessingResult({
+                opened: 1,
+                emailIds: ['email-1'],
+                memberIds: ['member-1']
+            }));
+            sinon.assert.calledOnce(eventProcessor.handleOpened);
+            sinon.assert.calledOnce(eventProcessor.flushBatchedUpdates);
+            sinon.assert.notCalled(queries.aggregateEmailStats);
+            sinon.assert.notCalled(queries.aggregateMemberStats);
+
+            await service.flushWebhookAggregations();
+
+            sinon.assert.calledOnceWithExactly(queries.aggregateEmailStats, 'email-1', true);
+            sinon.assert.calledOnceWithExactly(queries.aggregateMemberStats, 'member-1');
+        });
+
+        it('deduplicates aggregation ids across webhook events', async function () {
+            const eventProcessor = {
+                handleDelivered: sinon.stub().resolves({
+                    emailId: 'email-1',
+                    emailRecipientId: 'recipient-1',
+                    memberId: 'member-1'
+                }),
+                flushBatchedUpdates: sinon.stub().resolves()
+            };
+            const queries = {
+                aggregateEmailStats: sinon.stub().resolves(),
+                aggregateMemberStats: sinon.stub().resolves()
+            };
+            const service = new EmailAnalyticsService({
+                config: createMockConfig(),
+                eventProcessor,
+                queries
+            });
+
+            await service.processWebhookEvent({
+                type: 'delivered',
+                emailId: 'email-1',
+                providerId: 'provider-1',
+                recipientEmail: 'member@example.com',
+                timestamp: new Date(1)
+            });
+            await service.processWebhookEvent({
+                type: 'delivered',
+                emailId: 'email-1',
+                providerId: 'provider-1',
+                recipientEmail: 'member@example.com',
+                timestamp: new Date(2)
+            });
+            await service.flushWebhookAggregations();
+
+            sinon.assert.calledOnceWithExactly(queries.aggregateEmailStats, 'email-1', false);
+            sinon.assert.calledOnceWithExactly(queries.aggregateMemberStats, 'member-1');
+        });
+    });
+
     describe('aggregateStats', function () {
         describe('with batching enabled', function () {
             let service;

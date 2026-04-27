@@ -14,6 +14,7 @@ class EmailAnalyticsServiceWrapper {
         const EmailEventStorage = require('../email-service/email-event-storage');
         const EmailEventProcessor = require('../email-service/email-event-processor');
         const MailgunProvider = require('./email-analytics-provider-mailgun');
+        const MailgunWebhookController = require('./mailgun-webhook-controller');
         const {EmailRecipientFailure, EmailSpamComplaintEvent, Email} = require('../../models');
         const StartEmailAnalyticsJobEvent = require('./events/start-email-analytics-job-event');
         const domainEvents = require('@tryghost/domain-events');
@@ -57,6 +58,11 @@ class EmailAnalyticsServiceWrapper {
             queries,
             domainEvents,
             prometheusClient
+        });
+
+        this.mailgunWebhookController = new MailgunWebhookController({
+            config,
+            emailAnalytics: this.service
         });
 
         // Log the processing mode on initialization

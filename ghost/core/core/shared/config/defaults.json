@@ -226,6 +226,9 @@
     "emailAnalytics": {
         "enabled": true,
         "batchProcessing": false,
+        "mailgun": {
+            "webhookSigningKey": null
+        },
         "metrics": {
             "openThroughput": {
                 "enabled": false,

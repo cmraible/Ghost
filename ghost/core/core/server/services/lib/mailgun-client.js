@@ -224,7 +224,7 @@ module.exports = class MailgunClient {
 
             // By limiting the processed events to ones created before this job started we cancel early ready for the next job run.
             // Avoids chance of events being missed in long job runs due to mailgun's eventual-consistency creating events outside of our 30min sliding re-check window
-            let events = (page?.items?.map(this.normalizeEvent) || []).filter(e => !!e && e.timestamp <= startDate);
+            let events = (page?.items?.map(MailgunClient.normalizeEvent) || []).filter(e => !!e && e.timestamp <= startDate);
             debug(`[MailgunClient fetchEventsFromDomain ${domain}]: finished fetching first page with ${events.length} events`);
 
             let eventCount = 0;
@@ -253,7 +253,7 @@ module.exports = class MailgunClient {
                 });
 
                 // We need to cap events at the time we started fetching them (see comment above)
-                events = (page?.items?.map(this.normalizeEvent) || []).filter(e => !!e && e.timestamp <= startDate);
+                events = (page?.items?.map(MailgunClient.normalizeEvent) || []).filter(e => !!e && e.timestamp <= startDate);
                 debug(`[MailgunClient fetchEventsFromDomain ${domain}]: finished fetching next page with ${events.length} events`);
             }
 
@@ -301,8 +301,18 @@ module.exports = class MailgunClient {
         return this.removeSuppression('unsubscribes', email);
     }
 
-    normalizeEvent(event) {
+    static normalizeEvent(event) {
         const providerId = event?.message?.headers['message-id'];
+        let eventType = event.event;
+        let severity = event.severity;
+
+        if (eventType === 'permanent_fail') {
+            eventType = 'failed';
+            severity = 'permanent';
+        } else if (eventType === 'temporary_fail') {
+            eventType = 'failed';
+            severity = 'temporary';
+        }
 
         if (!providerId && !(event['user-variables'] && event['user-variables']['email-id'])) {
             logging.error('Received invalid event from Mailgun');
@@ -312,8 +322,8 @@ module.exports = class MailgunClient {
 
         return {
             id: event.id,
-            type: event.event,
-            severity: event.severity,
+            type: eventType,
+            severity,
             recipientEmail: event.recipient,
             emailId: event['user-variables'] && event['user-variables']['email-id'],
             providerId: providerId,
@@ -325,6 +335,10 @@ module.exports = class MailgunClient {
                 enhancedCode: event['delivery-status']['enhanced-code']?.toString()?.substring(0, 50) ?? null
             } : null
         };
+    }
+
+    normalizeEvent(event) {
+        return MailgunClient.normalizeEvent(event);
     }
 
     #getConfig() {

@@ -37,6 +37,7 @@ const errors = require('@tryghost/errors');
 
 const TRUST_THRESHOLD_MS = 30 * 60 * 1000; // 30 minutes
 const FETCH_LATEST_END_MARGIN_MS = 1 * 60 * 1000; // Do not fetch events newer than 1 minute (yet). Reduces the chance of having missed events in fetchLatest.
+const WEBHOOK_AGGREGATION_DELAY_MS = 5 * 1000;
 
 /**
  * Helper function to create an empty fetch result
@@ -91,6 +92,14 @@ module.exports = class EmailAnalyticsService {
     #fetchScheduledData = {
         running: false,
         jobName: 'email-analytics-scheduled'
+    };
+
+    #webhookAggregationData = {
+        emailIds: new Set(),
+        memberIds: new Set(),
+        includeOpenedEvents: false,
+        timer: null,
+        flushing: false
     };
 
     /**
@@ -340,6 +349,94 @@ module.exports = class EmailAnalyticsService {
         this.queries.setJobTimestamp(this.#fetchScheduledData.jobName, 'finished', this.#fetchScheduledData.lastEventTimestamp);
         return fetchResult;
     }
+
+    /**
+     * Processes one normalized Mailgun webhook event and batches stats aggregation.
+     * Event storage is done inline so Mailgun retries when processing fails, while
+     * aggregation is delayed briefly to coalesce bursts from the webhook endpoint.
+     * @param {{id: string, type: any; severity: any; recipientEmail: any; emailId?: string; providerId: string; timestamp: Date; error: {code: number; message: string; enhancedCode: string|number} | null}} event
+     * @returns {Promise<EventProcessingResult>}
+     */
+    async processWebhookEvent(event) {
+        const result = await this.processEvent(event);
+        await this.eventProcessor.flushBatchedUpdates();
+        this.#queueWebhookAggregation(result, event.type === 'opened');
+
+        return result;
+    }
+
+    #queueWebhookAggregation(result, includeOpenedEvents) {
+        if (!result.emailIds.length && !result.memberIds.length) {
+            return;
+        }
+
+        for (const emailId of result.emailIds) {
+            this.#webhookAggregationData.emailIds.add(emailId);
+        }
+
+        for (const memberId of result.memberIds) {
+            this.#webhookAggregationData.memberIds.add(memberId);
+        }
+
+        this.#webhookAggregationData.includeOpenedEvents = this.#webhookAggregationData.includeOpenedEvents || includeOpenedEvents;
+
+        this.#scheduleWebhookAggregationFlush();
+    }
+
+    #scheduleWebhookAggregationFlush() {
+        if (this.#webhookAggregationData.timer) {
+            return;
+        }
+
+        this.#webhookAggregationData.timer = setTimeout(() => {
+            this.flushWebhookAggregations().catch((err) => {
+                logging.error('[EmailAnalytics] Error while aggregating webhook stats');
+                logging.error(err);
+            });
+        }, WEBHOOK_AGGREGATION_DELAY_MS);
+
+        this.#webhookAggregationData.timer.unref?.();
+    }
+
+    async flushWebhookAggregations() {
+        if (this.#webhookAggregationData.flushing) {
+            if (this.#webhookAggregationData.timer) {
+                clearTimeout(this.#webhookAggregationData.timer);
+                this.#webhookAggregationData.timer = null;
+            }
+            return;
+        }
+
+        if (this.#webhookAggregationData.timer) {
+            clearTimeout(this.#webhookAggregationData.timer);
+            this.#webhookAggregationData.timer = null;
+        }
+
+        const emailIds = Array.from(this.#webhookAggregationData.emailIds);
+        const memberIds = Array.from(this.#webhookAggregationData.memberIds);
+        const includeOpenedEvents = this.#webhookAggregationData.includeOpenedEvents;
+
+        if (!emailIds.length && !memberIds.length) {
+            this.#webhookAggregationData.includeOpenedEvents = false;
+            return;
+        }
+
+        this.#webhookAggregationData.emailIds.clear();
+        this.#webhookAggregationData.memberIds.clear();
+        this.#webhookAggregationData.includeOpenedEvents = false;
+        this.#webhookAggregationData.flushing = true;
+
+        try {
+            await this.aggregateStats({emailIds, memberIds}, includeOpenedEvents);
+        } finally {
+            this.#webhookAggregationData.flushing = false;
+
+            if (this.#webhookAggregationData.emailIds.size || this.#webhookAggregationData.memberIds.size) {
+                this.#scheduleWebhookAggregationFlush();
+            }
+        }
+    }
+
     /**
      * Start fetching analytics and store the data of the progress inside fetchData
      * @param {FetchData} fetchData - Object to store the progress of the fetch operation

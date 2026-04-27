@@ -4,6 +4,7 @@ const express = require('../../../shared/express');
 const sentry = require('../../../shared/sentry');
 const membersService = require('../../services/members');
 const stripeService = require('../../services/stripe');
+const emailAnalytics = require('../../services/email-analytics');
 const middleware = membersService.middleware;
 const shared = require('../shared');
 const errorHandler = require('@tryghost/mw-error-handler');
@@ -35,6 +36,10 @@ module.exports = function setupMembersApp() {
 
     // Webhooks
     membersApp.post('/webhooks/stripe', bodyParser.raw({type: 'application/json'}), stripeService.webhookController.handle.bind(stripeService.webhookController));
+    membersApp.post('/webhooks/mailgun', bodyParser.json({limit: '5mb'}), (req, res) => {
+        emailAnalytics.init();
+        return emailAnalytics.mailgunWebhookController.handle(req, res);
+    });
 
     // Initializes members specific routes as well as assigns members specific data to the req/res objects
     // We don't want to add global bodyParser middleware as that interferes with stripe webhook requests on - `/webhooks`.
