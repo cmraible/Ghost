@@ -6,6 +6,7 @@ import {NewsletterRadialChart, NewsletterRadialChartData} from '../../Newsletter
 import {Post} from '@tryghost/admin-x-framework/api/posts';
 import {cleanTrackedUrl, processAndGroupTopLinks} from '@src/utils/link-helpers';
 import {useNavigate, useParams} from '@tryghost/admin-x-framework';
+import {usePostStats} from '@tryghost/admin-x-framework/api/stats';
 import {useTopLinks} from '@tryghost/admin-x-framework/api/links';
 
 interface NewsletterOverviewProps {
@@ -17,21 +18,29 @@ interface NewsletterOverviewProps {
 const NewsletterOverview: React.FC<NewsletterOverviewProps> = ({post, isNewsletterStatsLoading, isWebShown}) => {
     const {postId} = useParams();
     const navigate = useNavigate();
+    const {data: postStatsResponse, isLoading: isPostStatsLoading} = usePostStats(postId || '', {
+        defaultErrorHandler: false,
+        enabled: !!postId
+    });
+    const postStats = postStatsResponse?.stats?.[0];
 
     // Calculate stats from post data
     const stats = useMemo(() => {
-        const opened = post.email?.opened_count || 0;
-        const sent = post.email?.email_count || 0;
+        const opened = postStats?.opened_count ?? post.email?.opened_count ?? 0;
+        const sent = postStats?.recipient_count ?? post.email?.email_count ?? 0;
+        const openedRate = postStats?.open_rate !== null && postStats?.open_rate !== undefined ?
+            postStats.open_rate / 100 :
+            (sent > 0 ? opened / sent : 0);
         const clicked = post.count?.clicks || 0;
 
         return {
             opened,
             clicked,
-            openedRate: sent > 0 ? opened / sent : 0,
+            openedRate,
             clickedRate: sent > 0 ? clicked / sent : 0,
             sent: sent
         };
-    }, [post]);
+    }, [post, postStats]);
 
     // Get top links for this post
     const {data: linksResponse} = useTopLinks({
@@ -77,7 +86,7 @@ const NewsletterOverview: React.FC<NewsletterOverviewProps> = ({post, isNewslett
                     navigate(`/posts/analytics/${postId}/newsletter`);
                 }}>View more</Button>
             </div>
-            {isNewsletterStatsLoading ?
+            {isNewsletterStatsLoading || isPostStatsLoading ?
                 <CardContent>
                     <div className='mx-auto flex min-h-[250px] items-center justify-center xl:size-full'>
                         <BarChartLoadingIndicator />

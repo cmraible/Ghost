@@ -1,6 +1,7 @@
 const logging = require('@tryghost/logging');
 const errors = require('@tryghost/errors');
 const urlUtils = require('../../../shared/url-utils');
+const ExternalPostAnalyticsClient = require('../email-analytics/external-post-analytics-client');
 
 // Import source normalization from ReferrersStatsService
 const {normalizeSource} = require('./referrers-stats-service');
@@ -83,11 +84,17 @@ class PostsStatsService {
      * @param {import('knex').Knex} deps.knex - Database client
      * @param {object} [deps.tinybirdClient] - Tinybird client for analytics
      * @param {object} [deps.urlService] - URL service for checking URL existence
+     * @param {object} [deps.config] - Ghost config
+     * @param {object} [deps.request] - HTTP request client
+     * @param {object} [deps.externalPostAnalyticsClient] - External post analytics client
      */
     constructor(deps) {
         this.knex = deps.knex;
         this.tinybirdClient = deps.tinybirdClient;
         this.urlService = deps.urlService;
+        this.config = deps.config || require('../../../shared/config');
+        this.request = deps.request;
+        this.externalPostAnalyticsClient = deps.externalPostAnalyticsClient;
     }
 
     /**
@@ -1122,7 +1129,7 @@ class PostsStatsService {
 
             // Get basic post info for stats calculations
             const postData = await this.knex('posts')
-                .select('posts.id', 'posts.uuid', 'posts.published_at', 'e.email_count', 'e.opened_count')
+                .select('posts.id', 'posts.uuid', 'posts.published_at', 'e.id as email_id', 'e.email_count', 'e.opened_count')
                 .leftJoin('emails as e', 'posts.id', 'e.post_id')
                 .where('posts.id', postId)
                 .where('posts.status', 'published')
@@ -1144,6 +1151,11 @@ class PostsStatsService {
             const openRate = postData.email_count ?
                 (postData.opened_count / postData.email_count) * 100 :
                 null;
+            const emailStats = await this._getPostEmailStats(postData, {
+                recipient_count: postData.email_count || null,
+                opened_count: postData.opened_count || null,
+                open_rate: openRate
+            });
 
             // Get visitor count from Tinybird
             let visitors = 0;
@@ -1164,9 +1176,9 @@ class PostsStatsService {
             return {
                 data: [{
                     id: postData.id,
-                    recipient_count: postData.email_count || null,
-                    opened_count: postData.opened_count || null,
-                    open_rate: openRate,
+                    recipient_count: emailStats.recipient_count,
+                    opened_count: emailStats.opened_count,
+                    open_rate: emailStats.open_rate,
                     member_delta: totalMembers,
                     free_members: freeMembers,
                     paid_members: paidMembers,
@@ -1177,6 +1189,43 @@ class PostsStatsService {
             logging.error(`Error fetching post stats for post ${postId}:`, error);
             return {data: []};
         }
+    }
+
+    async _getPostEmailStats(postData, fallbackStats) {
+        const config = this.config.get('emailAnalytics:postAnalyticsExternalReads') || {};
+        if (!config.enabled || !postData.email_id) {
+            return fallbackStats;
+        }
+
+        try {
+            const client = this._getExternalPostAnalyticsClient();
+            const externalStats = await client.fetchPostEmailAnalytics(postData.email_id);
+
+            return {
+                recipient_count: externalStats.recipient_count ?? fallbackStats.recipient_count,
+                opened_count: externalStats.opened_count ?? fallbackStats.opened_count,
+                open_rate: externalStats.open_rate ?? fallbackStats.open_rate
+            };
+        } catch (error) {
+            logging.warn(`Error fetching external post email analytics for post ${postData.id} email ${postData.email_id}:`, error);
+
+            if (config.fallbackToMysql === false) {
+                throw error;
+            }
+
+            return fallbackStats;
+        }
+    }
+
+    _getExternalPostAnalyticsClient() {
+        if (!this.externalPostAnalyticsClient) {
+            this.externalPostAnalyticsClient = new ExternalPostAnalyticsClient({
+                config: this.config,
+                request: this.request
+            });
+        }
+
+        return this.externalPostAnalyticsClient;
     }
 
     /**

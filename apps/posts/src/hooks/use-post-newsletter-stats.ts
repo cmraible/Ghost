@@ -1,4 +1,4 @@
-import {type NewsletterStatItem, useNewsletterBasicStats, useNewsletterClickStats} from '@tryghost/admin-x-framework/api/stats';
+import {type NewsletterStatItem, useNewsletterBasicStats, useNewsletterClickStats, usePostStats} from '@tryghost/admin-x-framework/api/stats';
 import {type Post, getPost} from '@tryghost/admin-x-framework/api/posts';
 import {processAndGroupTopLinks} from '@src/utils/link-helpers';
 import {useMemo} from 'react';
@@ -14,6 +14,9 @@ type PostWithNewsletter = Post & {
 export const usePostNewsletterStats = (postId: string) => {
     // Fetch the post with main stats (email, clicks)
     const {data: postResponse, isLoading: isPostLoading} = getPost(postId);
+    const {data: postStatsResponse, isLoading: isPostStatsLoading} = usePostStats(postId, {
+        defaultErrorHandler: false
+    });
 
     // Fetch the post with feedback count relations
     const {data: feedbackPostResponse, isLoading: isFeedbackPostLoading} = getPost(postId, {
@@ -25,6 +28,7 @@ export const usePostNewsletterStats = (postId: string) => {
     // Fetch the post to get top level stats
     const post = useMemo(() => postResponse?.posts[0] as PostWithNewsletter | undefined, [postResponse]);
     const feedbackPost = useMemo(() => feedbackPostResponse?.posts[0] as PostWithNewsletter | undefined, [feedbackPostResponse]);
+    const postStats = useMemo(() => postStatsResponse?.stats?.[0], [postStatsResponse]);
 
     const stats = useMemo(() => {
         if (!post) {
@@ -37,14 +41,21 @@ export const usePostNewsletterStats = (postId: string) => {
             };
         }
 
+        const sent = postStats?.recipient_count ?? post.email?.email_count ?? 0;
+        const opened = postStats?.opened_count ?? post.email?.opened_count ?? 0;
+        const openedRate = postStats?.open_rate !== null && postStats?.open_rate !== undefined ?
+            postStats.open_rate / 100 :
+            (sent > 0 ? opened / sent : 0);
+        const clicked = post.count?.clicks || 0;
+
         return {
-            sent: post.email?.email_count || 0,
-            opened: post.email?.opened_count || 0,
-            clicked: post.count?.clicks || 0,
-            openedRate: post.email?.opened_count ? (post.email.opened_count / post.email.email_count) : 0,
-            clickedRate: post.count?.clicks && post.email?.email_count ? (post.count.clicks / post.email.email_count) : 0
+            sent,
+            opened,
+            clicked,
+            openedRate,
+            clickedRate: clicked && sent ? clicked / sent : 0
         };
-    }, [post]);
+    }, [post, postStats]);
 
     // Calculate feedback stats from the separate feedback post fetch
     const feedbackStats = useMemo(() => {
@@ -178,6 +189,6 @@ export const usePostNewsletterStats = (postId: string) => {
         averageStats,
         topLinks,
         refetchTopLinks,
-        isLoading: isPostLoading || isFeedbackPostLoading || isNewsletterStatsLoading || isClicksLoading
+        isLoading: isPostLoading || isPostStatsLoading || isFeedbackPostLoading || isNewsletterStatsLoading || isClicksLoading
     };
 };

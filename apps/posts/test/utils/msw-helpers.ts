@@ -3,7 +3,7 @@ import React from 'react';
 import {type FeedbackItem} from '@tryghost/admin-x-framework/api/feedback';
 import {HttpResponse, http} from 'msw';
 import {type LinkItem} from '@tryghost/admin-x-framework/api/links';
-import {type NewsletterStatItem} from '@tryghost/admin-x-framework/api/stats';
+import {type NewsletterStatItem, type PostStats} from '@tryghost/admin-x-framework/api/stats';
 import {type Post} from '@tryghost/admin-x-framework/api/posts';
 import {QueryClient, QueryClientProvider} from '@tanstack/react-query';
 import {setupMswServer} from '@tryghost/admin-x-framework/test/msw-utils';
@@ -74,6 +74,18 @@ export const mockData = {
         open_rate: 0.3,
         total_clicks: 50,
         click_rate: 0.05,
+        ...overrides
+    }),
+
+    postStats: (overrides: Partial<PostStats> = {}): PostStats => ({
+        id: 'test-post-id',
+        recipient_count: 1000,
+        opened_count: 300,
+        open_rate: 30,
+        member_delta: 0,
+        free_members: 0,
+        paid_members: 0,
+        visitors: 0,
         ...overrides
     }),
     
@@ -155,6 +167,7 @@ type MockServerConfig = {
     links?: Partial<LinkItem>[];
     newsletterBasicStats?: Partial<NewsletterStatItem>[];
     newsletterClickStats?: Partial<NewsletterStatItem>[];
+    postStats?: Partial<PostStats>;
     postReferrers?: Partial<import('@tryghost/admin-x-framework/api/stats').PostReferrerStatItem>[];
     postGrowthStats?: Partial<import('@tryghost/admin-x-framework/api/stats').PostGrowthStatItem>[];
     mrrHistory?: {
@@ -211,6 +224,15 @@ export const mockServer = {
         if (config.newsletterClickStats !== undefined) {
             handlers.push(createGhostHandler('get', '/ghost/api/admin/stats/newsletter-click-stats/', mockData.newsletterStatsList(config.newsletterClickStats)));
         }
+
+        const postForStats = config.posts?.[0] ? mockData.post(config.posts[0]) : mockData.post();
+        const postStats = config.postStats || {
+            id: postForStats.id,
+            recipient_count: postForStats.email?.email_count || null,
+            opened_count: postForStats.email?.opened_count || null,
+            open_rate: postForStats.email?.email_count ? (postForStats.email.opened_count / postForStats.email.email_count) * 100 : null
+        };
+        handlers.push(createGhostHandler('get', '/ghost/api/admin/stats/posts/*/stats/', {stats: [mockData.postStats(postStats)]}));
         
         if (config.postReferrers !== undefined) {
             handlers.push(createGhostHandler('get', '/ghost/api/admin/stats/posts/*/top-referrers', mockData.postReferrersList(config.postReferrers)));

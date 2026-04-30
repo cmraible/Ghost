@@ -41,6 +41,43 @@ describe('usePostNewsletterStats', () => {
         });
     });
 
+    it('prefers post stats endpoint email data over post email data', async () => {
+        const postWithEmailStats = mockData.post({
+            id: testPostId,
+            email: {
+                email_count: 1000,
+                opened_count: 300
+            },
+            count: {
+                clicks: 50
+            }
+        });
+
+        mockServer.setup({
+            posts: [postWithEmailStats],
+            postStats: {
+                id: testPostId,
+                recipient_count: 800,
+                opened_count: 400,
+                open_rate: 50
+            }
+        });
+
+        const {result} = renderHook(() => usePostNewsletterStats(testPostId), {
+            wrapper: createTestWrapper()
+        });
+
+        await waitFor(() => {
+            expect(result.current.stats).toEqual({
+                sent: 800,
+                opened: 400,
+                clicked: 50,
+                openedRate: 0.5,
+                clickedRate: 0.0625
+            });
+        });
+    });
+
     it('returns zero stats when post has no email data', async () => {
         const postWithoutEmail = mockData.post({
             id: testPostId

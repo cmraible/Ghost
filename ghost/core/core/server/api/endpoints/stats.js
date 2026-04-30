@@ -1,4 +1,5 @@
 const statsService = require('../../services/stats');
+const config = require('../../../shared/config');
 
 /** @type {import('@tryghost/api-framework').Controller} */
 const controller = {
@@ -409,6 +410,7 @@ const controller = {
         generateCacheKeyData(frame) {
             return {
                 method: 'getPostStats',
+                externalPostAnalyticsReadsEnabled: config.get('emailAnalytics:postAnalyticsExternalReads:enabled'),
                 data: {
                     id: frame.data.id
                 }

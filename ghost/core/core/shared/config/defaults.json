@@ -226,6 +226,13 @@
     "emailAnalytics": {
         "enabled": true,
         "batchProcessing": false,
+        "postAnalyticsExternalReads": {
+            "enabled": false,
+            "baseUrl": "",
+            "apiKey": "",
+            "timeoutMs": 2000,
+            "fallbackToMysql": true
+        },
         "metrics": {
             "openThroughput": {
                 "enabled": false,

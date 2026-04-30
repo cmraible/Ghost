@@ -716,6 +716,114 @@ describe('PostsStatsService', function () {
         });
     });
 
+    describe('getPostStats', function () {
+        it('returns MySQL email stats when external post analytics reads are disabled', async function () {
+            await _createEmailStats('post1', 100, 50);
+
+            let externalClientCalled = false;
+            service = new PostsStatsService({
+                knex: db,
+                config: {
+                    get: (key) => {
+                        if (key === 'emailAnalytics:postAnalyticsExternalReads') {
+                            return {enabled: false};
+                        }
+                    }
+                },
+                externalPostAnalyticsClient: {
+                    fetchPostEmailAnalytics: async () => {
+                        externalClientCalled = true;
+                    }
+                }
+            });
+
+            const result = await service.getPostStats('post1');
+
+            assert.equal(externalClientCalled, false);
+            assert.deepEqual(result.data[0], {
+                id: 'post1',
+                recipient_count: 100,
+                opened_count: 50,
+                open_rate: 50,
+                member_delta: 0,
+                free_members: 0,
+                paid_members: 0,
+                visitors: 0
+            });
+        });
+
+        it('overrides email stats from the external post analytics client when enabled', async function () {
+            await _createEmailStats('post1', 100, 50);
+
+            service = new PostsStatsService({
+                knex: db,
+                config: {
+                    get: (key) => {
+                        if (key === 'emailAnalytics:postAnalyticsExternalReads') {
+                            return {enabled: true, fallbackToMysql: true};
+                        }
+                    }
+                },
+                externalPostAnalyticsClient: {
+                    fetchPostEmailAnalytics: async (emailId) => {
+                        assert.equal(emailId, 'email_post1');
+                        return {
+                            recipient_count: 125,
+                            opened_count: 75,
+                            open_rate: 60
+                        };
+                    }
+                }
+            });
+
+            const result = await service.getPostStats('post1');
+
+            assert.deepEqual(result.data[0], {
+                id: 'post1',
+                recipient_count: 125,
+                opened_count: 75,
+                open_rate: 60,
+                member_delta: 0,
+                free_members: 0,
+                paid_members: 0,
+                visitors: 0
+            });
+        });
+
+        it('falls back to MySQL email stats when the external post analytics client fails', async function () {
+            await _createEmailStats('post1', 100, 50);
+
+            service = new PostsStatsService({
+                knex: db,
+                config: {
+                    get: (key) => {
+                        if (key === 'emailAnalytics:postAnalyticsExternalReads') {
+                            return {enabled: true, fallbackToMysql: true};
+                        }
+                    }
+                },
+                externalPostAnalyticsClient: {
+                    fetchPostEmailAnalytics: async () => {
+                        throw new Error('External service unavailable');
+                    }
+                }
+            });
+
+            const result = await service.getPostStats('post1');
+
+            assert.deepEqual(result.data[0], {
+                id: 'post1',
+                recipient_count: 100,
+                opened_count: 50,
+                open_rate: 50,
+                member_delta: 0,
+                free_members: 0,
+                paid_members: 0,
+                visitors: 0
+            });
+        });
+    });
+
     describe('getTopPostsViews', function () {
         it('returns latest posts with zero views when no Tinybird client exists', async function () {
             service = new PostsStatsService({knex: db}); // No Tinybird client
