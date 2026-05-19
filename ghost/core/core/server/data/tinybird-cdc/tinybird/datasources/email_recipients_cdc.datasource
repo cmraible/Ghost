@@ -1,0 +1,11 @@
+SCHEMA >
+    `record` String `json:$`
+
+ENGINE "MergeTree"
+ENGINE_SORTING_KEY "__timestamp"
+
+KAFKA_CONNECTION_NAME kafka_conn
+KAFKA_TOPIC ghost.ghost_dev.email_recipients
+KAFKA_GROUP_ID tinybird_email_recipients_cdc
+KAFKA_AUTO_OFFSET_RESET earliest
+KAFKA_VALUE_FORMAT json_without_schema

@@ -3,8 +3,82 @@ const debug = require('@tryghost/debug')('services:email-analytics');
 const db = require('../../../data/db');
 const logging = require('@tryghost/logging');
 const {default: ObjectID} = require('bson-objectid');
+const got = require('got').default;
+const config = require('../../../../shared/config');
+const labs = require('../../../../shared/labs');
 
 const MIN_EMAIL_COUNT_FOR_OPEN_RATE = 5;
+const EMAIL_ANALYTICS_TINYBIRD_AGGREGATIONS_FLAG = 'emailAnalyticsTinybirdAggregations';
+
+function getTinybirdConfig() {
+    const tinybirdConfig = config.get('tinybird') || {};
+    const statsConfig = tinybirdConfig.stats || {};
+    const endpoint = tinybirdConfig.emailAnalytics?.endpoint ||
+        (statsConfig.local?.enabled ? statsConfig.local.endpoint : null) ||
+        statsConfig.endpoint ||
+        process.env.TB_HOST ||
+        process.env.TINYBIRD_HOST;
+    const token = tinybirdConfig.emailAnalytics?.token ||
+        tinybirdConfig.adminToken ||
+        statsConfig.local?.token ||
+        statsConfig.token ||
+        process.env.TINYBIRD_ADMIN_TOKEN ||
+        process.env.TB_TOKEN;
+
+    return {
+        endpoint,
+        token
+    };
+}
+
+function sqlString(value) {
+    return "'" + String(value).replace(/'/g, "''") + "'";
+}
+
+function toNumber(value) {
+    return Number(value || 0);
+}
+
+async function queryTinybird(sql) {
+    const {endpoint, token} = getTinybirdConfig();
+
+    if (!endpoint || !token) {
+        throw new Error('Tinybird email analytics aggregation is enabled but Tinybird endpoint/token is not configured');
+    }
+
+    const response = await got.get(`${endpoint.replace(/\/$/, '')}/v0/sql`, {
+        searchParams: {
+            q: `${sql}
+FORMAT JSON`
+        },
+        headers: {
+            Authorization: `Bearer ${token}`
+        },
+        responseType: 'json',
+        timeout: {
+            request: 10000
+        }
+    });
+
+    return response.body?.data || [];
+}
+
+function tinybirdAggregationsEnabled() {
+    return labs.isSet(EMAIL_ANALYTICS_TINYBIRD_AGGREGATIONS_FLAG);
+}
+
+async function getTrackedEmailIds(emailIds) {
+    if (!emailIds.length) {
+        return new Set();
+    }
+
+    const trackedEmails = await db.knex('emails')
+        .select('id')
+        .whereIn('id', emailIds)
+        .where('track_opens', true);
+
+    return new Set(trackedEmails.map(email => email.id));
+}
 
 /** @typedef {'email-analytics-latest-opened'|'email-analytics-latest-others'|'email-analytics-missing'|'email-analytics-scheduled'} EmailAnalyticsJobName */
 /** @typedef {'delivered'|'opened'|'failed'} EmailAnalyticsEvent */
@@ -25,6 +99,8 @@ async function createJobIfNotExists(jobName) {
 }
 
 module.exports = {
+    tinybirdAggregationsEnabled,
+
     async shouldFetchStats() {
         // don't fetch stats from Mailgun if we haven't sent any emails
         const [emailCount] = await db.knex('emails').count('id as count');
@@ -204,6 +280,277 @@ module.exports = {
         }
     },
 
+    async reconcileEmailStatsFromTinybird({batchSize = 1000} = {}) {
+        let updated = 0;
+        let lastEmailId = null;
+
+        do {
+            const query = db.knex('emails')
+                .select('id')
+                .orderBy('id', 'asc')
+                .limit(batchSize);
+
+            if (lastEmailId) {
+                query.where('id', '>', lastEmailId);
+            }
+
+            const emails = await query;
+            if (emails.length === 0) {
+                break;
+            }
+
+            const emailIds = emails.map(email => email.id);
+            await this.aggregateEmailStatsBatchTinybird(emailIds);
+            updated += emailIds.length;
+            lastEmailId = emailIds[emailIds.length - 1];
+        } while (true);
+
+        return {updated};
+    },
+
+    async aggregateEmailStatsBatchTinybird(emailIds) {
+        if (!emailIds || emailIds.length === 0) {
+            return;
+        }
+
+        const emailIdList = emailIds.map(sqlString).join(',');
+        const stats = await queryTinybird(`
+            SELECT
+                JSONExtractString(record, 'email_id') AS email_id,
+                countIf(JSONExtractString(record, 'delivered_at') != '') AS delivered_count,
+                countIf(JSONExtractString(record, 'failed_at') != '') AS failed_count,
+                countIf(JSONExtractString(record, 'opened_at') != '') AS opened_count
+            FROM email_recipients_latest
+            WHERE JSONExtractString(record, 'email_id') IN (${emailIdList})
+            GROUP BY email_id
+        `);
+
+        const emailStatsMap = new Map();
+        for (const stat of stats) {
+            emailStatsMap.set(stat.email_id, {
+                delivered_count: toNumber(stat.delivered_count),
+                failed_count: toNumber(stat.failed_count),
+                opened_count: toNumber(stat.opened_count)
+            });
+        }
+
+        const deliveredCountCases = [];
+        const failedCountCases = [];
+        const openedCountCases = [];
+        const deliveredCountBindings = [];
+        const failedCountBindings = [];
+        const openedCountBindings = [];
+
+        for (const emailId of emailIds) {
+            const emailStats = emailStatsMap.get(emailId) || {
+                delivered_count: 0,
+                failed_count: 0,
+                opened_count: 0
+            };
+
+            deliveredCountCases.push('WHEN ? THEN ?');
+            deliveredCountBindings.push(emailId, emailStats.delivered_count);
+
+            failedCountCases.push('WHEN ? THEN ?');
+            failedCountBindings.push(emailId, emailStats.failed_count);
+
+            openedCountCases.push('WHEN ? THEN ?');
+            openedCountBindings.push(emailId, emailStats.opened_count);
+        }
+
+        const bindings = [
+            ...deliveredCountBindings,
+            ...failedCountBindings,
+            ...openedCountBindings,
+            ...emailIds
+        ];
+
+        await db.knex.raw(`
+            UPDATE emails
+            SET
+                delivered_count = CASE id ${deliveredCountCases.join(' ')} END,
+                failed_count = CASE id ${failedCountCases.join(' ')} END,
+                opened_count = CASE id ${openedCountCases.join(' ')} END
+            WHERE id IN (${emailIds.map(() => '?').join(',')})
+        `, bindings);
+    },
+
+    async reconcileMemberStatsFromTinybird({batchSize = 1000} = {}) {
+        let updated = 0;
+        let lastMemberId = null;
+
+        do {
+            const query = db.knex('members')
+                .select('id')
+                .orderBy('id', 'asc')
+                .limit(batchSize);
+
+            if (lastMemberId) {
+                query.where('id', '>', lastMemberId);
+            }
+
+            const members = await query;
+            if (members.length === 0) {
+                break;
+            }
+
+            const memberIds = members.map(member => member.id);
+            await this.aggregateMemberStatsBatchTinybird(memberIds);
+            updated += memberIds.length;
+            lastMemberId = memberIds[memberIds.length - 1];
+        } while (true);
+
+        return {updated};
+    },
+
+    async aggregateEmailStatsTinybird(emailId, updateOpenedCount) {
+        const [stats = {}] = await queryTinybird(`
+            SELECT
+                countIf(JSONExtractString(record, 'delivered_at') != '') AS delivered_count,
+                countIf(JSONExtractString(record, 'failed_at') != '') AS failed_count,
+                countIf(JSONExtractString(record, 'opened_at') != '') AS opened_count
+            FROM email_recipients_latest
+            WHERE JSONExtractString(record, 'email_id') = ${sqlString(emailId)}
+        `);
+
+        const updateData = {
+            delivered_count: toNumber(stats.delivered_count),
+            failed_count: toNumber(stats.failed_count)
+        };
+
+        if (updateOpenedCount) {
+            updateData.opened_count = toNumber(stats.opened_count);
+        }
+
+        await db.knex('emails').update(updateData).where('id', emailId);
+    },
+
+    async aggregateMemberStatsTinybird(memberId) {
+        const stats = await queryTinybird(`
+            SELECT
+                JSONExtractString(record, 'email_id') AS email_id,
+                count() AS email_count,
+                countIf(JSONExtractString(record, 'opened_at') != '') AS email_opened_count
+            FROM email_recipients_latest
+            WHERE JSONExtractString(record, 'member_id') = ${sqlString(memberId)}
+            GROUP BY email_id
+        `);
+
+        const trackedEmailIds = await getTrackedEmailIds([...new Set(stats.map(stat => stat.email_id).filter(Boolean))]);
+        let emailCount = 0;
+        let emailOpenedCount = 0;
+        let trackedEmailCount = 0;
+
+        for (const stat of stats) {
+            const statEmailCount = toNumber(stat.email_count);
+            emailCount += statEmailCount;
+            emailOpenedCount += toNumber(stat.email_opened_count);
+            if (trackedEmailIds.has(stat.email_id)) {
+                trackedEmailCount += statEmailCount;
+            }
+        }
+
+        const updateQuery = {
+            email_count: emailCount,
+            email_opened_count: emailOpenedCount
+        };
+
+        if (trackedEmailCount >= MIN_EMAIL_COUNT_FOR_OPEN_RATE) {
+            updateQuery.email_open_rate = Math.round(emailOpenedCount / trackedEmailCount * 100);
+        }
+
+        await db.knex('members')
+            .update(updateQuery)
+            .where('id', memberId);
+    },
+
+    async aggregateMemberStatsBatchTinybird(memberIds) {
+        if (!memberIds || memberIds.length === 0) {
+            return;
+        }
+
+        const memberIdList = memberIds.map(sqlString).join(',');
+        const stats = await queryTinybird(`
+            SELECT
+                JSONExtractString(record, 'member_id') AS member_id,
+                JSONExtractString(record, 'email_id') AS email_id,
+                count() AS email_count,
+                countIf(JSONExtractString(record, 'opened_at') != '') AS email_opened_count
+            FROM email_recipients_latest
+            WHERE JSONExtractString(record, 'member_id') IN (${memberIdList})
+            GROUP BY member_id, email_id
+        `);
+
+        const trackedEmailIds = await getTrackedEmailIds([...new Set(stats.map(stat => stat.email_id).filter(Boolean))]);
+        const memberStatsMap = new Map();
+
+        for (const stat of stats) {
+            const memberId = stat.member_id;
+            const emailCount = toNumber(stat.email_count);
+            const memberStats = memberStatsMap.get(memberId) || {
+                email_count: 0,
+                email_opened_count: 0,
+                tracked_count: 0
+            };
+
+            memberStats.email_count += emailCount;
+            memberStats.email_opened_count += toNumber(stat.email_opened_count);
+            if (trackedEmailIds.has(stat.email_id)) {
+                memberStats.tracked_count += emailCount;
+            }
+            memberStatsMap.set(memberId, memberStats);
+        }
+
+        // Build CASE statements for batch update
+        const emailCountCases = [];
+        const emailOpenedCountCases = [];
+        const emailOpenRateCases = [];
+        const emailCountBindings = [];
+        const emailOpenedCountBindings = [];
+        const emailOpenRateBindings = [];
+
+        for (const memberId of memberIds) {
+            const memberStats = memberStatsMap.get(memberId) || {
+                email_count: 0,
+                email_opened_count: 0,
+                tracked_count: 0
+            };
+            const emailOpenRate = memberStats.tracked_count >= MIN_EMAIL_COUNT_FOR_OPEN_RATE
+                ? Math.round((memberStats.email_opened_count / memberStats.tracked_count) * 100)
+                : null;
+
+            emailCountCases.push('WHEN ? THEN ?');
+            emailCountBindings.push(memberId, memberStats.email_count);
+
+            emailOpenedCountCases.push('WHEN ? THEN ?');
+            emailOpenedCountBindings.push(memberId, memberStats.email_opened_count);
+
+            if (emailOpenRate !== null) {
+                emailOpenRateCases.push('WHEN ? THEN ?');
+                emailOpenRateBindings.push(memberId, emailOpenRate);
+            } else {
+                emailOpenRateCases.push('WHEN ? THEN NULL');
+                emailOpenRateBindings.push(memberId);
+            }
+        }
+
+        const bindings = [
+            ...emailCountBindings,
+            ...emailOpenedCountBindings,
+            ...emailOpenRateBindings,
+            ...memberIds
+        ];
+
+        await db.knex.raw(`
+            UPDATE members
+            SET
+                email_count = CASE id ${emailCountCases.join(' ')} END,
+                email_opened_count = CASE id ${emailOpenedCountCases.join(' ')} END,
+                email_open_rate = CASE id ${emailOpenRateCases.join(' ')} END
+            WHERE id IN (${memberIds.map(() => '?').join(',')})
+        `, bindings);
+    },
+
     async aggregateEmailStats(emailId, updateOpenedCount) {
         const [deliveredCount] = await db.knex('email_recipients').count('id as count').whereRaw('email_id = ? AND delivered_at IS NOT NULL', [emailId]);
         const [failedCount] = await db.knex('email_recipients').count('id as count').whereRaw('email_id = ? AND failed_at IS NOT NULL', [emailId]);
@@ -222,6 +569,10 @@ module.exports = {
     },
 
     async aggregateMemberStats(memberId) {
+        if (tinybirdAggregationsEnabled()) {
+            return this.aggregateMemberStatsTinybird(memberId);
+        }
+
         const {trackedEmailCount} = await db.knex('email_recipients')
             .select(db.knex.raw('COUNT(email_recipients.id) as trackedEmailCount'))
             .leftJoin('emails', 'email_recipients.email_id', 'emails.id')
@@ -249,6 +600,10 @@ module.exports = {
     async aggregateMemberStatsBatch(memberIds) {
         if (!memberIds || memberIds.length === 0) {
             return;
+        }
+
+        if (tinybirdAggregationsEnabled()) {
+            return this.aggregateMemberStatsBatchTinybird(memberIds);
         }
 
         // Batch query to get stats for all members at once

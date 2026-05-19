@@ -677,6 +677,11 @@ module.exports = class EmailAnalyticsService {
     async aggregateStats({emailIds = [], memberIds = []}, includeOpenedEvents = true) {
         const useBatchProcessing = this.config.get('emailAnalytics:batchProcessing');
 
+        if (this.queries.tinybirdAggregationsEnabled?.()) {
+            logging.info('[EmailAnalytics] Skipping per-batch email/member aggregation; Tinybird reconciliation jobs will update stats');
+            return {emailAggregationTimeMs: 0, memberAggregationTimeMs: 0};
+        }
+
         const emailAggregationStart = Date.now();
         for (const emailId of emailIds) {
             await this.aggregateEmailStats(emailId, includeOpenedEvents);
@@ -707,6 +712,14 @@ module.exports = class EmailAnalyticsService {
         const memberAggregationTimeMs = Date.now() - memberAggregationStart;
 
         return {emailAggregationTimeMs, memberAggregationTimeMs};
+    }
+
+    async reconcileEmailStatsFromTinybird() {
+        return this.queries.reconcileEmailStatsFromTinybird();
+    }
+
+    async reconcileMemberStatsFromTinybird() {
+        return this.queries.reconcileMemberStatsFromTinybird();
     }
 
     /**

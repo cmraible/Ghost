@@ -1,0 +1,172 @@
+# MySQL CDC to Tinybird Local spike.
+# Use with: pnpm dev:cdc
+
+services:
+  mysql:
+    image: mysql:8.0
+    command:
+      - --innodb-buffer-pool-size=1G
+      - --innodb-log-buffer-size=500M
+      - --innodb-change-buffer-max-size=50
+      - --innodb-flush-log-at-trx_commit=0
+      - --innodb-flush-method=O_DIRECT
+      - --server-id=223344
+      - --log-bin=mysql-bin
+      - --binlog-format=ROW
+      - --binlog-row-image=FULL
+      - --gtid-mode=ON
+      - --enforce-gtid-consistency=ON
+    volumes:
+      - mysql-cdc-data:/var/lib/mysql
+
+  kafka:
+    image: apache/kafka:3.9.1
+    container_name: ghost-dev-kafka
+    environment:
+      KAFKA_NODE_ID: 1
+      KAFKA_PROCESS_ROLES: broker,controller
+      KAFKA_CONTROLLER_QUORUM_VOTERS: 1@kafka:29093
+      KAFKA_ADVERTISED_LISTENERS: PLAINTEXT://kafka:29092
+      KAFKA_LISTENERS: PLAINTEXT://0.0.0.0:29092,CONTROLLER://0.0.0.0:29093
+      KAFKA_LISTENER_SECURITY_PROTOCOL_MAP: CONTROLLER:PLAINTEXT,PLAINTEXT:PLAINTEXT
+      KAFKA_CONTROLLER_LISTENER_NAMES: CONTROLLER
+      KAFKA_INTER_BROKER_LISTENER_NAME: PLAINTEXT
+      KAFKA_AUTO_CREATE_TOPICS_ENABLE: "true"
+      KAFKA_OFFSETS_TOPIC_REPLICATION_FACTOR: 1
+      KAFKA_TRANSACTION_STATE_LOG_REPLICATION_FACTOR: 1
+      KAFKA_TRANSACTION_STATE_LOG_MIN_ISR: 1
+      KAFKA_GROUP_INITIAL_REBALANCE_DELAY_MS: 0
+      CLUSTER_ID: MkU3OEVBNTcwNTJENDM2Qk
+    healthcheck:
+      test: [CMD-SHELL, "/opt/kafka/bin/kafka-topics.sh --bootstrap-server localhost:29092 --list >/dev/null"]
+      interval: 2s
+      timeout: 10s
+      retries: 60
+
+  debezium:
+    image: debezium/connect:2.7.3.Final
+    container_name: ghost-dev-debezium
+    environment:
+      BOOTSTRAP_SERVERS: kafka:29092
+      GROUP_ID: ghost-email-analytics-cdc
+      CONFIG_STORAGE_TOPIC: debezium_connect_configs
+      OFFSET_STORAGE_TOPIC: debezium_connect_offsets
+      STATUS_STORAGE_TOPIC: debezium_connect_statuses
+      KEY_CONVERTER: org.apache.kafka.connect.json.JsonConverter
+      VALUE_CONVERTER: org.apache.kafka.connect.json.JsonConverter
+      KEY_CONVERTER_SCHEMAS_ENABLE: "false"
+      VALUE_CONVERTER_SCHEMAS_ENABLE: "false"
+    volumes:
+      - ./ghost/core/core/server/data/tinybird-cdc/debezium:/debezium:ro
+    depends_on:
+      kafka:
+        condition: service_healthy
+      mysql:
+        condition: service_healthy
+    healthcheck:
+      test: [CMD-SHELL, "curl -fsS http://localhost:8083/connectors >/dev/null"]
+      interval: 2s
+      timeout: 10s
+      retries: 60
+
+  cdc-register:
+    image: curlimages/curl:8.11.1
+    container_name: ghost-dev-cdc-register
+    user: root
+    entrypoint: [sh, -c]
+    command:
+      - |
+        curl -fsS -X PUT \
+          -H 'Content-Type: application/json' \
+          --data @/debezium/ghost-email-recipients.json \
+          http://debezium:8083/connectors/ghost-email-recipients/config
+    volumes:
+      - ./ghost/core/core/server/data/tinybird-cdc/debezium:/debezium:ro
+    depends_on:
+      ghost-dev:
+        condition: service_healthy
+      debezium:
+        condition: service_healthy
+
+  tinybird-local:
+    image: tinybirdco/tinybird-local:latest
+    container_name: ghost-dev-tinybird-cdc
+    platform: linux/amd64
+    stop_grace_period: 2s
+    ports:
+      - "7181:7181"
+    healthcheck:
+      test: [CMD, curl, -f, http://localhost:7181/v0/health]
+      interval: 1s
+      timeout: 5s
+      retries: 120
+
+  ghost-dev:
+    environment:
+      TB_HOST: http://tinybird-local:7181
+      TB_LOCAL_HOST: tinybird-local
+      tinybird__emailAnalytics__endpoint: http://tinybird-local:7181
+    depends_on:
+      tinybird-local:
+        condition: service_healthy
+      tb-cdc-config:
+        condition: service_completed_successfully
+
+  tb-cdc-config:
+    build:
+      context: ./
+      dockerfile: docker/tb-cli/Dockerfile
+    container_name: ghost-dev-tb-cdc-config
+    working_dir: /home/tinybird
+    entrypoint: [sh, -lc]
+    command:
+      - |
+        set -eu
+        /root/.local/bin/tb --local build
+        TB_INFO=$(/root/.local/bin/tb --output json info)
+        WORKSPACE_ID=$$(echo "$$TB_INFO" | jq -r '.local.workspace_id')
+        WORKSPACE_TOKEN=$$(echo "$$TB_INFO" | jq -r '.local.token')
+        TOKENS_RESPONSE=$$(curl -fsS -H "Authorization: Bearer $$WORKSPACE_TOKEN" http://tinybird-local:7181/v0/tokens)
+        ADMIN_TOKEN=$$(echo "$$TOKENS_RESPONSE" | jq -r '.tokens[] | select(.scopes[]? | .type == "ADMIN") | .token' | head -n1)
+        test -n "$$WORKSPACE_ID"
+        test -n "$$ADMIN_TOKEN"
+        printf 'TINYBIRD_WORKSPACE_ID=%s\nTINYBIRD_ADMIN_TOKEN=%s\n' "$$WORKSPACE_ID" "$$ADMIN_TOKEN" > /mnt/shared-config/.env.tinybird.tmp
+        mv /mnt/shared-config/.env.tinybird.tmp /mnt/shared-config/.env.tinybird
+    environment:
+      TB_HOST: http://tinybird-local:7181
+      TB_LOCAL_HOST: tinybird-local
+    volumes:
+      - ./ghost/core/core/server/data/tinybird-cdc/tinybird:/home/tinybird
+      - shared-config:/mnt/shared-config
+    depends_on:
+      kafka:
+        condition: service_healthy
+      tinybird-local:
+        condition: service_healthy
+
+  tb-cdc:
+    build:
+      context: ./
+      dockerfile: docker/tb-cli/Dockerfile
+    container_name: ghost-dev-tb-cdc
+    working_dir: /home/tinybird
+    entrypoint: [sh, -lc]
+    command:
+      - /root/.local/bin/tb deploy --wait --auto
+    environment:
+      TB_HOST: http://tinybird-local:7181
+      TB_LOCAL_HOST: tinybird-local
+    volumes:
+      - ./ghost/core/core/server/data/tinybird-cdc/tinybird:/home/tinybird
+      - shared-config:/mnt/shared-config
+    depends_on:
+      kafka:
+        condition: service_healthy
+      cdc-register:
+        condition: service_completed_successfully
+      tinybird-local:
+        condition: service_healthy
+
+volumes:
+  mysql-cdc-data:
+  shared-config:

@@ -75,6 +75,10 @@ const features: Feature[] = [{
     title: 'Comments Pinning',
     description: 'Allow staff to pin top-level comments in Comments-UI and Admin',
     flag: 'commentsPinning'
+}, {
+    title: 'Email Analytics - Tinybird Aggregations',
+    description: 'Use Tinybird as the source of truth for email analytics aggregation queries.',
+    flag: 'emailAnalyticsTinybirdAggregations'
 }];
 
 const AlphaFeatures: React.FC = () => {

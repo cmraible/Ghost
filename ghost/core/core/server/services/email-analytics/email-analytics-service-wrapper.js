@@ -4,6 +4,7 @@ const config = require('../../../shared/config');
 
 class EmailAnalyticsServiceWrapper {
     #restoredSchedule = false;
+    #reconcilingTinybirdStats = false;
 
     init() {
         if (this.service) {
@@ -16,6 +17,7 @@ class EmailAnalyticsServiceWrapper {
         const MailgunProvider = require('./email-analytics-provider-mailgun');
         const {EmailRecipientFailure, EmailSpamComplaintEvent, Email} = require('../../models');
         const StartEmailAnalyticsJobEvent = require('./events/start-email-analytics-job-event');
+        const StartEmailAnalyticsTinybirdReconciliationJobEvent = require('./events/start-email-analytics-tinybird-reconciliation-job-event');
         const domainEvents = require('@tryghost/domain-events');
         const settings = require('../../../shared/settings-cache');
         const labs = require('../../../shared/labs');
@@ -67,6 +69,10 @@ class EmailAnalyticsServiceWrapper {
         // So the email analytics jobs simply emits an event.
         domainEvents.subscribe(StartEmailAnalyticsJobEvent, async () => {
             await this.startFetch();
+        });
+
+        domainEvents.subscribe(StartEmailAnalyticsTinybirdReconciliationJobEvent, async () => {
+            await this.reconcileTinybirdStats();
         });
     }
 
@@ -166,6 +172,27 @@ class EmailAnalyticsServiceWrapper {
         this._logJobCompletion('scheduled', fetchResult, totalDuration);
 
         return fetchResult.eventCount;
+    }
+
+    async reconcileTinybirdStats() {
+        if (this.#reconcilingTinybirdStats) {
+            logging.info('[EmailAnalytics] Tinybird reconciliation already running, skipping');
+            return;
+        }
+
+        this.#reconcilingTinybirdStats = true;
+        const startedAt = Date.now();
+
+        try {
+            const emailResult = await this.service.reconcileEmailStatsFromTinybird();
+            const memberResult = await this.service.reconcileMemberStatsFromTinybird();
+            logging.info(`[EmailAnalytics] Tinybird reconciliation complete: ${emailResult.updated} emails, ${memberResult.updated} members in ${((Date.now() - startedAt) / 1000).toFixed(1)}s`);
+        } catch (e) {
+            logging.error(e, 'Error while reconciling Tinybird email analytics');
+            logging.error(e);
+        } finally {
+            this.#reconcilingTinybirdStats = false;
+        }
     }
 
     async startFetch() {

@@ -1,0 +1,26 @@
+NODE latest
+SQL >
+
+    %
+    select
+        id,
+        latest_record as record,
+        latest_version as version
+    from (
+        select
+            JSONExtractString(record, 'id') as id,
+            argMax(record, event_version) as latest_record,
+            max(event_version) as latest_version
+        from (
+            select
+                record,
+                ifNull(JSONExtractInt(record, '__ts_ms'), 0) as event_version
+            from email_recipients_cdc
+            where JSONExtractString(record, 'id') != ''
+        ) records
+        group by id
+    ) latest_records
+    where JSONExtractBool(latest_record, '__deleted') = 0
+    order by id
+
+TYPE ENDPOINT
