@@ -27,6 +27,18 @@ The Ghost dev database is `ghost_dev`, so Debezium emits the topic:
 ghost.ghost_dev.email_recipients
 ```
 
+## Email analytics integration
+
+This spike keeps the existing Mailgun polling flow for collecting delivery/open/failure events. Mailgun events still update MySQL `email_recipients`, and the CDC pipeline streams those row changes into Tinybird.
+
+When the `emailAnalyticsTinybirdAggregations` labs flag is enabled:
+
+- the normal per-fetch email/member aggregation step is skipped
+- a recurring `email-analytics-reconcile-stats-tinybird` job is scheduled alongside `email-analytics-fetch-latest`
+- the reconciliation job queries Tinybird's `email_recipients_latest` endpoint and writes aggregate counts back to MySQL `emails` and `members`
+
+The current spike reconciliation is intentionally blunt: it scans all emails and members in batches and recalculates their aggregate fields from Tinybird. A production implementation should use a durable cursor and reconcile only changed `email_id` and `member_id` values.
+
 ## Commands
 
 Re-register the Debezium connector:
