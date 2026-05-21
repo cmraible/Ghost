@@ -54,6 +54,11 @@ DEV_COMPOSE_FILES='-f compose.dev.cdc.yaml' pnpm docker:clean
 pnpm dev:cdc
 ```
 
+## Remaining spike checks
+
+- TODO: Verify delete/update correctness with an insert -> update -> delete scenario. Confirm the latest-row Tinybird endpoint excludes the deleted `email_recipients` row, and test rapid repeated updates to see whether the current `__ts_ms` ordering is deterministic enough.
+- TODO: Prove the incremental reconciliation shape. Sketch or prototype a Tinybird query/pipe that returns affected `email_id` and `member_id` values since a durable cursor, so production reconciliation does not need to rescan all emails and members.
+
 ## Files
 
 - `debezium/ghost-email-recipients.json` registers the scoped MySQL connector.
