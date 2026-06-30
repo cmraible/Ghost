@@ -2,11 +2,13 @@ const logging = require('@tryghost/logging');
 const ObjectID = require('bson-objectid').default;
 const errors = require('@tryghost/errors');
 const tpl = require('@tryghost/tpl');
+const config = require('../../../shared/config');
 const messages = {
     emailErrorPartialFailure: 'An error occurred, and your newsletter was only partially sent. Please retry sending the remaining emails.',
     emailError: 'An unexpected error occurred, please retry sending your newsletter.'
 };
 
+const MIN_EMAIL_COUNT_FOR_OPEN_RATE = 1;
 const MAX_SENDING_CONCURRENCY = 2;
 const SHUTDOWN_CODE = 'BULK_EMAIL_SHUTDOWN_IN_PROGRESS';
 
@@ -448,7 +450,62 @@ class BatchSendingService {
 
         logging.info(`Inserting ${recipientData.length} recipients for email ${email.id} batch ${batch.id}`);
         await insertQuery;
+
+        if (config.get('emailAnalytics:incrementalAggregation') && recipientData.length > 0) {
+            await this.#incrementMemberEmailCounts(recipientData, {
+                trackOpens: Boolean(email.get('track_opens')),
+                transacting: options.transacting
+            });
+        }
+
         return batch;
+    }
+
+    async #incrementMemberEmailCounts(recipientData, {trackOpens, transacting}) {
+        const memberCounts = new Map();
+        for (const recipient of recipientData) {
+            memberCounts.set(recipient.member_id, (memberCounts.get(recipient.member_id) || 0) + 1);
+        }
+
+        const memberIds = Array.from(memberCounts.keys());
+        const emailCountCases = [];
+        const trackedCountCases = [];
+        const emailCountBindings = [];
+        const trackedCountBindings = [];
+
+        for (const memberId of memberIds) {
+            const count = memberCounts.get(memberId);
+
+            emailCountCases.push('WHEN ? THEN ?');
+            emailCountBindings.push(memberId, count);
+
+            trackedCountCases.push('WHEN ? THEN ?');
+            trackedCountBindings.push(memberId, trackOpens ? count : 0);
+        }
+
+        const trackedCountExpression = `CASE id ${trackedCountCases.join(' ')} END`;
+        const update = this.#db.knex.raw(`
+            UPDATE members
+            SET
+                email_count = email_count + CASE id ${emailCountCases.join(' ')} END,
+                email_open_rate_denominator = email_open_rate_denominator + ${trackedCountExpression},
+                email_open_rate = CASE
+                    WHEN email_open_rate_denominator >= ? THEN ROUND(email_opened_count / email_open_rate_denominator * 100)
+                    ELSE NULL
+                END
+            WHERE id IN (${memberIds.map(() => '?').join(',')})
+        `, [
+            ...emailCountBindings,
+            ...trackedCountBindings,
+            MIN_EMAIL_COUNT_FOR_OPEN_RATE,
+            ...memberIds
+        ]);
+
+        if (transacting && update.transacting) {
+            update.transacting(transacting);
+        }
+
+        await update;
     }
 
     async sendBatches({email, batches, post, newsletter}) {

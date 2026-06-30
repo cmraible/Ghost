@@ -4,7 +4,7 @@ const db = require('../../../data/db');
 const logging = require('@tryghost/logging');
 const {default: ObjectID} = require('bson-objectid');
 
-const MIN_EMAIL_COUNT_FOR_OPEN_RATE = 5;
+const MIN_EMAIL_COUNT_FOR_OPEN_RATE = 1;
 
 /** @typedef {'email-analytics-latest-opened'|'email-analytics-latest-others'|'email-analytics-missing'|'email-analytics-scheduled'} EmailAnalyticsJobName */
 /** @typedef {'delivered'|'opened'|'failed'} EmailAnalyticsEvent */
@@ -204,6 +204,29 @@ module.exports = {
         }
     },
 
+    async incrementDeliveredStats({emailId}) {
+        await db.knex('emails')
+            .where('id', emailId)
+            .increment('delivered_count', 1);
+    },
+
+    async incrementFailedStats({emailId}) {
+        await db.knex('emails')
+            .where('id', emailId)
+            .increment('failed_count', 1);
+    },
+
+    async incrementOpenedStats({emailId, memberId}) {
+        await db.knex('emails')
+            .where('id', emailId)
+            .increment('opened_count', 1);
+
+        await db.knex.raw(
+            'update members set email_opened_count = email_opened_count + 1, email_open_rate = case when email_open_rate_denominator >= ? then round(email_opened_count / email_open_rate_denominator * 100) else null end where id = ?',
+            [MIN_EMAIL_COUNT_FOR_OPEN_RATE, memberId]
+        );
+    },
+
     async aggregateEmailStats(emailId, updateOpenedCount) {
         const [deliveredCount] = await db.knex('email_recipients').count('id as count').whereRaw('email_id = ? AND delivered_at IS NOT NULL', [emailId]);
         const [failedCount] = await db.knex('email_recipients').count('id as count').whereRaw('email_id = ? AND failed_at IS NOT NULL', [emailId]);
@@ -234,11 +257,14 @@ module.exports = {
 
         const updateQuery = {
             email_count: emailCount.count,
-            email_opened_count: emailOpenedCount.count
+            email_opened_count: emailOpenedCount.count,
+            email_open_rate_denominator: trackedEmailCount
         };
 
         if (trackedEmailCount >= MIN_EMAIL_COUNT_FOR_OPEN_RATE) {
             updateQuery.email_open_rate = Math.round(emailOpenedCount.count / trackedEmailCount * 100);
+        } else {
+            updateQuery.email_open_rate = null;
         }
 
         await db.knex('members')
@@ -273,6 +299,7 @@ module.exports = {
             memberStatsMap.set(stat.member_id, {
                 email_count: stat.email_count,
                 email_opened_count: stat.email_opened_count,
+                email_open_rate_denominator: stat.tracked_count,
                 email_open_rate: emailOpenRate
             });
         }
@@ -280,15 +307,18 @@ module.exports = {
         // Build CASE statements for batch update
         const emailCountCases = [];
         const emailOpenedCountCases = [];
+        const emailOpenRateDenominatorCases = [];
         const emailOpenRateCases = [];
         const emailCountBindings = [];
         const emailOpenedCountBindings = [];
+        const emailOpenRateDenominatorBindings = [];
         const emailOpenRateBindings = [];
 
         for (const memberId of memberIds) {
             const memberStats = memberStatsMap.get(memberId) || {
                 email_count: 0,
                 email_opened_count: 0,
+                email_open_rate_denominator: 0,
                 email_open_rate: null
             };
 
@@ -297,6 +327,9 @@ module.exports = {
 
             emailOpenedCountCases.push(`WHEN ? THEN ?`);
             emailOpenedCountBindings.push(memberId, memberStats.email_opened_count);
+
+            emailOpenRateDenominatorCases.push(`WHEN ? THEN ?`);
+            emailOpenRateDenominatorBindings.push(memberId, memberStats.email_open_rate_denominator);
 
             if (memberStats.email_open_rate !== null) {
                 emailOpenRateCases.push(`WHEN ? THEN ?`);
@@ -310,11 +343,13 @@ module.exports = {
         // Combine bindings in the order they appear in the SQL statement:
         // 1. All bindings for email_count CASE statement
         // 2. All bindings for email_opened_count CASE statement
-        // 3. All bindings for email_open_rate CASE statement
-        // 4. Member IDs for the WHERE IN clause
+        // 3. All bindings for email_open_rate_denominator CASE statement
+        // 4. All bindings for email_open_rate CASE statement
+        // 5. Member IDs for the WHERE IN clause
         const bindings = [
             ...emailCountBindings,
             ...emailOpenedCountBindings,
+            ...emailOpenRateDenominatorBindings,
             ...emailOpenRateBindings,
             ...memberIds
         ];
@@ -325,6 +360,7 @@ module.exports = {
             SET
                 email_count = CASE id ${emailCountCases.join(' ')} END,
                 email_opened_count = CASE id ${emailOpenedCountCases.join(' ')} END,
+                email_open_rate_denominator = CASE id ${emailOpenRateDenominatorCases.join(' ')} END,
                 email_open_rate = CASE id ${emailOpenRateCases.join(' ')} END
             WHERE id IN (${memberIds.map(() => '?').join(',')})
         `, bindings);

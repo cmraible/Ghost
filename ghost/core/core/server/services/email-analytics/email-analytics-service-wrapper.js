@@ -35,7 +35,8 @@ class EmailAnalyticsServiceWrapper {
                 EmailSpamComplaintEvent
             },
             emailSuppressionList,
-            prometheusClient
+            prometheusClient,
+            emailAnalyticsQueries: queries
         });
 
         // Since this is running in a worker thread, we cant dispatch directly
@@ -61,7 +62,8 @@ class EmailAnalyticsServiceWrapper {
 
         // Log the processing mode on initialization
         const batchProcessingEnabled = config.get('emailAnalytics:batchProcessing');
-        logging.info(`[EmailAnalytics] Initialized with ${batchProcessingEnabled ? 'BATCHED' : 'SEQUENTIAL'} processing mode`);
+        const incrementalAggregationEnabled = config.get('emailAnalytics:incrementalAggregation');
+        logging.info(`[EmailAnalytics] Initialized with ${batchProcessingEnabled ? 'BATCHED' : 'SEQUENTIAL'} processing mode and ${incrementalAggregationEnabled ? 'INCREMENTAL' : 'FULL_REFRESH'} aggregation mode`);
 
         // We currently cannot trigger a non-offloaded job from the job manager
         // So the email analytics jobs simply emits an event.
@@ -88,13 +90,24 @@ class EmailAnalyticsServiceWrapper {
         const processingPercent = totalDurationMs > 0 ? Math.round((processingTimeMs / totalDurationMs) * 100) : 0;
         const aggregationPercent = totalDurationMs > 0 ? Math.round((aggregationTimeMs / totalDurationMs) * 100) : 0;
         const batchMode = config.get('emailAnalytics:batchProcessing') ? 'BATCHED' : 'SEQUENTIAL';
+        const aggregationMode = config.get('emailAnalytics:incrementalAggregation') ? 'INCREMENTAL' : 'FULL_REFRESH';
+        const processedCount = result.opened +
+            result.delivered +
+            result.permanentFailed +
+            result.temporaryFailed +
+            result.unsubscribed +
+            result.complained;
 
         const logMessage = [
             `[EmailAnalytics] Job complete: ${jobType}`,
-            `${eventCount} events in ${(totalDurationMs / 1000).toFixed(1)}s (${throughput.toFixed(2)} events/s)`,
+            `Fetched: total=${eventCount}`,
+            `Processed: total=${processedCount} opened=${result.opened} delivered=${result.delivered} permanentFailed=${result.permanentFailed} temporaryFailed=${result.temporaryFailed} unsubscribed=${result.unsubscribed} complained=${result.complained}`,
+            `Skipped: unhandled=${result.unhandled} unprocessable=${result.unprocessable} processingFailures=${result.processingFailures}`,
+            `Affected: emails=${result.emailIds.length} members=${result.memberIds.length}`,
+            `Duration: ${(totalDurationMs / 1000).toFixed(1)}s (${throughput.toFixed(2)} events/s)`,
             `Mode: ${batchMode}`,
-            `Timings: API ${(apiPollingTimeMs / 1000).toFixed(1)}s (${apiPercent}%) / Processing ${(processingTimeMs / 1000).toFixed(1)}s (${processingPercent}%) / Aggregation ${(aggregationTimeMs / 1000).toFixed(1)}s (${aggregationPercent}%) [Email ${(emailAggregationTimeMs / 1000).toFixed(1)}s / Member ${(memberAggregationTimeMs / 1000).toFixed(1)}s]`,
-            `Events: opened=${result.opened} delivered=${result.delivered} failed=${result.permanentFailed + result.temporaryFailed} unprocessable=${result.unprocessable}`
+            `Aggregation: ${aggregationMode}`,
+            `Timings: API ${(apiPollingTimeMs / 1000).toFixed(1)}s (${apiPercent}%) / Processing ${(processingTimeMs / 1000).toFixed(1)}s (${processingPercent}%) / Aggregation ${(aggregationTimeMs / 1000).toFixed(1)}s (${aggregationPercent}%) [Email ${(emailAggregationTimeMs / 1000).toFixed(1)}s / Member ${(memberAggregationTimeMs / 1000).toFixed(1)}s]`
         ].join(' | ');
 
         logging.info(logMessage);
@@ -126,6 +139,7 @@ class EmailAnalyticsServiceWrapper {
         }
 
         const fetchStartDate = new Date();
+        logging.info(`[EmailAnalytics] Starting fetch phase: latest-opened events=opened maxEvents=${maxEvents}`);
         const fetchResult = await this.service.fetchLatestOpenedEvents({maxEvents});
         const totalDuration = Date.now() - fetchStartDate.getTime();
 
@@ -136,6 +150,7 @@ class EmailAnalyticsServiceWrapper {
 
     async fetchLatestNonOpenedEvents({maxEvents} = {maxEvents: Infinity}) {
         const fetchStartDate = new Date();
+        logging.info(`[EmailAnalytics] Starting fetch phase: latest events=delivered,failed,unsubscribed,complained maxEvents=${maxEvents}`);
         const fetchResult = await this.service.fetchLatestNonOpenedEvents({maxEvents});
         const totalDuration = Date.now() - fetchStartDate.getTime();
 
@@ -146,6 +161,7 @@ class EmailAnalyticsServiceWrapper {
 
     async fetchMissing({maxEvents} = {maxEvents: Infinity}) {
         const fetchStartDate = new Date();
+        logging.info(`[EmailAnalytics] Starting fetch phase: missing events=all maxEvents=${maxEvents}`);
         const fetchResult = await this.service.fetchMissing({maxEvents});
         const totalDuration = Date.now() - fetchStartDate.getTime();
 
@@ -160,6 +176,7 @@ class EmailAnalyticsServiceWrapper {
         }
 
         const fetchStartDate = new Date();
+        logging.info(`[EmailAnalytics] Starting fetch phase: scheduled events=all maxEvents=${maxEvents}`);
         const fetchResult = await this.service.fetchScheduled({maxEvents});
         const totalDuration = Date.now() - fetchStartDate.getTime();
 
@@ -210,7 +227,7 @@ class EmailAnalyticsServiceWrapper {
 
             // Log summary if no events were found across all jobs
             if (c1 + c2 + c3 + c4 === 0) {
-                logging.info('[EmailAnalytics] Job complete - No events');
+                logging.info(`[EmailAnalytics] Job complete - No events (latest-opened=${c1}, latest=${c2}, missing=${c3}, scheduled=${c4})`);
             }
 
             this.fetching = false;

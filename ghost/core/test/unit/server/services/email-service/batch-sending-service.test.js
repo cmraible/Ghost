@@ -5,6 +5,7 @@ const assert = require('node:assert/strict');
 const logging = require('@tryghost/logging');
 const nql = require('@tryghost/nql');
 const errors = require('@tryghost/errors');
+const configUtils = require('../../../../utils/config-utils');
 
 // We need a short sleep in some tests to simulate time passing
 // This way we don't actually add a delay to the tests
@@ -21,6 +22,7 @@ describe('Batch Sending Service', function () {
     });
 
     afterEach(function () {
+        configUtils.restore();
         sinon.restore();
     });
 
@@ -846,6 +848,55 @@ describe('Batch Sending Service', function () {
 
             const insertedRecipients = calls.flatMap(call => call.args[0]);
             assert.equal(insertedRecipients.length, 1);
+        });
+
+        it('increments member email counters for created recipients in incremental aggregation mode', async function () {
+            configUtils.set('emailAnalytics:incrementalAggregation', true);
+
+            const EmailBatch = createModelClass({});
+
+            const db = createDb({});
+            db.knex.raw = sinon.stub().resolves();
+
+            const service = new BatchSendingService({
+                models: {EmailBatch},
+                db
+            });
+            const email = createModel({
+                id: 'email-1',
+                status: 'submitting',
+                track_opens: true,
+                newsletter: createModel({}),
+                post: createModel({})
+            });
+            const members = [
+                createModel({
+                    id: 'member-1',
+                    email: `example1@example.com`,
+                    uuid: `member1`
+                }).toJSON(),
+                createModel({
+                    id: 'member-2',
+                    email: `example2@example.com`,
+                    uuid: `member2`
+                }).toJSON()
+            ];
+
+            await service.createBatch(email, null, members, {});
+
+            sinon.assert.calledOnce(db.knex.raw);
+            assert.match(db.knex.raw.firstCall.args[0], /email_count = email_count \+ CASE id/);
+            assert.match(db.knex.raw.firstCall.args[0], /email_open_rate_denominator = email_open_rate_denominator \+ CASE id/);
+            assert.match(db.knex.raw.firstCall.args[0], /email_open_rate = CASE/);
+            assert.deepEqual(db.knex.raw.firstCall.args[1], [
+                'member-1', 1,
+                'member-2', 1,
+                'member-1', 1,
+                'member-2', 1,
+                1,
+                'member-1',
+                'member-2'
+            ]);
         });
     });
 

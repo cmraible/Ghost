@@ -23,13 +23,9 @@ module.exports = {
                 .count());
 
             if (emailCount > 0) {
-                // use a random seconds value to avoid spikes to external APIs on the minute
-                const s = Math.floor(Math.random() * 60); // 0-59
-                // run every 5 minutes, on 1,6,11..., 2,7,12..., 3,8,13..., etc
-                const m = Math.floor(Math.random() * 5); // 0-4
-
                 jobsService.addJob({
-                    at: `${s} ${m}/5 * * * *`,
+                    // Spike: run frequently so incremental aggregation can be validated locally.
+                    at: `*/30 * * * * *`,
                     job: path.resolve(__dirname, 'fetch-latest/index.js'),
                     name: 'email-analytics-fetch-latest'
                 });

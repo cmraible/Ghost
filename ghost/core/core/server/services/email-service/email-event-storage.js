@@ -8,14 +8,16 @@ class EmailEventStorage {
     #models;
     #emailSuppressionList;
     #prometheusClient;
+    #emailAnalyticsQueries;
     #pendingUpdates;
 
-    constructor({db, models, membersRepository, emailSuppressionList, prometheusClient}) {
+    constructor({db, models, membersRepository, emailSuppressionList, prometheusClient, emailAnalyticsQueries}) {
         this.#db = db;
         this.#models = models;
         this.#membersRepository = membersRepository;
         this.#emailSuppressionList = emailSuppressionList;
         this.#prometheusClient = prometheusClient;
+        this.#emailAnalyticsQueries = emailAnalyticsQueries;
 
         // Initialize pending updates for batched processing
         this.#pendingUpdates = {
@@ -55,6 +57,11 @@ class EmailEventStorage {
                 .update({
                     delivered_at: moment.utc(event.timestamp).format('YYYY-MM-DD HH:mm:ss')
                 });
+            if (config.get('emailAnalytics:incrementalAggregation') && rowCount > 0) {
+                await this.#emailAnalyticsQueries.incrementDeliveredStats({
+                    emailId: event.emailId
+                });
+            }
             this.recordEventStored('delivered', rowCount);
         }
     }
@@ -81,6 +88,15 @@ class EmailEventStorage {
                 .update({
                     opened_at: moment.utc(event.timestamp).format('YYYY-MM-DD HH:mm:ss')
                 });
+            if (config.get('emailAnalytics:incrementalAggregation') && rowCount > 0) {
+                await this.#emailAnalyticsQueries.incrementOpenedStats({
+                    emailId: event.emailId,
+                    memberId: event.memberId
+                });
+            }
+            if (config.get('emailAnalytics:incrementalAggregation')) {
+                logging.info(`[EmailAnalytics] Opened event ${rowCount > 0 ? 'stored and incremented' : 'already stored, skipped increment'}: email=${event.emailId} member=${event.memberId} recipient=${event.emailRecipientId}`);
+            }
             this.recordEventStored('opened', rowCount);
         }
     }
@@ -101,12 +117,17 @@ class EmailEventStorage {
             // Sequential mode: immediate update
             // To properly handle events that are received out of order (this happens because of polling)
             // only set if failed_at is null
-            await this.#db.knex('email_recipients')
+            const rowCount = await this.#db.knex('email_recipients')
                 .where('id', '=', event.emailRecipientId)
                 .whereNull('failed_at')
                 .update({
                     failed_at: moment.utc(event.timestamp).format('YYYY-MM-DD HH:mm:ss')
                 });
+            if (config.get('emailAnalytics:incrementalAggregation') && rowCount > 0) {
+                await this.#emailAnalyticsQueries.incrementFailedStats({
+                    emailId: event.emailId
+                });
+            }
         }
         await this.saveFailure('permanent', event);
     }
@@ -282,6 +303,9 @@ class EmailEventStorage {
 
         // Build CASE statement for batched update
         const recipientIds = updates.map(([id]) => id);
+        const changedRecipients = config.get('emailAnalytics:incrementalAggregation')
+            ? await this.#getRecipientsWithNullTimestamp(recipientIds, 'delivered_at')
+            : [];
         const caseClauses = updates.map(([id, timestamp]) => {
             return `WHEN '${id}' THEN '${timestamp}'`;
         }).join(' ');
@@ -294,6 +318,11 @@ class EmailEventStorage {
         `;
 
         const rowCount = await this.#db.knex.raw(sql, recipientIds);
+        for (const recipient of changedRecipients) {
+            await this.#emailAnalyticsQueries.incrementDeliveredStats({
+                emailId: recipient.email_id
+            });
+        }
         this.recordEventStored('delivered', updates.length);
         return rowCount;
     }
@@ -309,6 +338,9 @@ class EmailEventStorage {
 
         // Build CASE statement for batched update
         const recipientIds = updates.map(([id]) => id);
+        const changedRecipients = config.get('emailAnalytics:incrementalAggregation')
+            ? await this.#getRecipientsWithNullTimestamp(recipientIds, 'opened_at')
+            : [];
         const caseClauses = updates.map(([id, timestamp]) => {
             return `WHEN '${id}' THEN '${timestamp}'`;
         }).join(' ');
@@ -321,6 +353,15 @@ class EmailEventStorage {
         `;
 
         const rowCount = await this.#db.knex.raw(sql, recipientIds);
+        for (const recipient of changedRecipients) {
+            await this.#emailAnalyticsQueries.incrementOpenedStats({
+                emailId: recipient.email_id,
+                memberId: recipient.member_id
+            });
+        }
+        if (config.get('emailAnalytics:incrementalAggregation')) {
+            logging.info(`[EmailAnalytics] Opened event batch stored and incremented ${changedRecipients.length}/${updates.length} recipient rows`);
+        }
         this.recordEventStored('opened', updates.length);
         return rowCount;
     }
@@ -336,6 +377,9 @@ class EmailEventStorage {
 
         // Build CASE statement for batched update
         const recipientIds = updates.map(([id]) => id);
+        const changedRecipients = config.get('emailAnalytics:incrementalAggregation')
+            ? await this.#getRecipientsWithNullTimestamp(recipientIds, 'failed_at')
+            : [];
         const caseClauses = updates.map(([id, timestamp]) => {
             return `WHEN '${id}' THEN '${timestamp}'`;
         }).join(' ');
@@ -348,7 +392,19 @@ class EmailEventStorage {
         `;
 
         const rowCount = await this.#db.knex.raw(sql, recipientIds);
+        for (const recipient of changedRecipients) {
+            await this.#emailAnalyticsQueries.incrementFailedStats({
+                emailId: recipient.email_id
+            });
+        }
         return rowCount;
+    }
+
+    async #getRecipientsWithNullTimestamp(recipientIds, timestampField) {
+        return await this.#db.knex('email_recipients')
+            .select('id', 'email_id', 'member_id')
+            .whereIn('id', recipientIds)
+            .whereNull(timestampField);
     }
 }
 

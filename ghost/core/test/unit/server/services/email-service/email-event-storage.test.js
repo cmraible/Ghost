@@ -3,6 +3,7 @@ const EmailEventStorage = require('../../../../../core/server/services/email-ser
 const sinon = require('sinon');
 const assert = require('node:assert/strict');
 const logging = require('@tryghost/logging');
+const configUtils = require('../../../../utils/config-utils');
 const {createDb, createPrometheusClient} = require('./utils');
 
 const EmailDeliveredEvent = require('../../../../../core/server/services/email-service/events/email-delivered-event');
@@ -21,6 +22,7 @@ describe('Email Event Storage', function () {
     });
 
     afterEach(function () {
+        configUtils.restore();
         sinon.restore();
     });
 
@@ -62,6 +64,32 @@ describe('Email Event Storage', function () {
         sinon.assert.calledOnce(eventHandler.recordEventStored);
     });
 
+    it('increments cached aggregates when a delivered event changes the recipient row', async function () {
+        configUtils.set('emailAnalytics:incrementalAggregation', true);
+
+        const event = EmailDeliveredEvent.create({
+            email: 'example@example.com',
+            memberId: '123',
+            emailId: '456',
+            emailRecipientId: '789',
+            timestamp: new Date(0)
+        });
+
+        const db = createDb();
+        db.update.resolves(1);
+
+        const emailAnalyticsQueries = {
+            incrementDeliveredStats: sinon.stub().resolves()
+        };
+
+        const eventHandler = new EmailEventStorage({db, emailAnalyticsQueries});
+        await eventHandler.handleDelivered(event);
+
+        sinon.assert.calledOnceWithExactly(emailAnalyticsQueries.incrementDeliveredStats, {
+            emailId: '456'
+        });
+    });
+
     it('Handles email opened events', async function () {
         const event = EmailOpenedEvent.create({
             email: 'example@example.com',
@@ -76,6 +104,57 @@ describe('Email Event Storage', function () {
         await eventHandler.handleOpened(event);
         sinon.assert.calledOnce(db.update);
         assert(!!db.update.firstCall.args[0].opened_at);
+    });
+
+    it('increments cached aggregates when an opened event changes the recipient row', async function () {
+        configUtils.set('emailAnalytics:incrementalAggregation', true);
+
+        const event = EmailOpenedEvent.create({
+            email: 'example@example.com',
+            memberId: '123',
+            emailId: '456',
+            emailRecipientId: '789',
+            timestamp: new Date(0)
+        });
+
+        const db = createDb();
+        db.update.resolves(1);
+
+        const emailAnalyticsQueries = {
+            incrementOpenedStats: sinon.stub().resolves()
+        };
+
+        const eventHandler = new EmailEventStorage({db, emailAnalyticsQueries});
+        await eventHandler.handleOpened(event);
+
+        sinon.assert.calledOnceWithExactly(emailAnalyticsQueries.incrementOpenedStats, {
+            emailId: '456',
+            memberId: '123'
+        });
+    });
+
+    it('does not increment cached aggregates when an opened event was already stored', async function () {
+        configUtils.set('emailAnalytics:incrementalAggregation', true);
+
+        const event = EmailOpenedEvent.create({
+            email: 'example@example.com',
+            memberId: '123',
+            emailId: '456',
+            emailRecipientId: '789',
+            timestamp: new Date(0)
+        });
+
+        const db = createDb();
+        db.update.resolves(0);
+
+        const emailAnalyticsQueries = {
+            incrementOpenedStats: sinon.stub().resolves()
+        };
+
+        const eventHandler = new EmailEventStorage({db, emailAnalyticsQueries});
+        await eventHandler.handleOpened(event);
+
+        sinon.assert.notCalled(emailAnalyticsQueries.incrementOpenedStats);
     });
 
     it('Records the event stored metric when handling email opened events', async function () {
@@ -132,6 +211,51 @@ describe('Email Event Storage', function () {
         sinon.assert.calledOnce(db.update);
         assert(!!db.update.firstCall.args[0].failed_at);
         sinon.assert.calledOnce(existing.save);
+    });
+
+    it('increments cached aggregates when a permanent bounce changes the recipient row', async function () {
+        configUtils.set('emailAnalytics:incrementalAggregation', true);
+
+        const event = EmailBouncedEvent.create({
+            email: 'example@example.com',
+            memberId: '123',
+            emailId: '456',
+            emailRecipientId: '789',
+            error: {
+                message: 'test',
+                code: 500,
+                enhancedCode: '5.5.5'
+            },
+            timestamp: new Date(0)
+        });
+
+        const db = createDb();
+        db.update.resolves(1);
+
+        const EmailRecipientFailure = {
+            transaction: async function (callback) {
+                return await callback(1);
+            },
+            findOne: sinon.stub().resolves(undefined),
+            add: sinon.stub().resolves()
+        };
+
+        const emailAnalyticsQueries = {
+            incrementFailedStats: sinon.stub().resolves()
+        };
+
+        const eventHandler = new EmailEventStorage({
+            db,
+            models: {
+                EmailRecipientFailure
+            },
+            emailAnalyticsQueries
+        });
+        await eventHandler.handlePermanentFailed(event);
+
+        sinon.assert.calledOnceWithExactly(emailAnalyticsQueries.incrementFailedStats, {
+            emailId: '456'
+        });
     });
 
     it('Handles email permanent bounce events with update and empty message', async function () {
