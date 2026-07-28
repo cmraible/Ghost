@@ -5,6 +5,7 @@ import tailwindcss from "@tailwindcss/vite";
 
 import { emberAssetsPlugin } from "./vite-ember-assets";
 import { ghostBackendProxyPlugin } from "./vite-backend-proxy";
+import {developmentConsolePlugin} from './vite-development-console';
 import { sharedDefine, sharedResolve } from "./vite.shared";
 
 export const GHOST_URL = process.env.GHOST_URL ?? "http://localhost:2368/";
@@ -37,7 +38,7 @@ function getBase(command: 'build' | 'serve'): string {
 // https://vite.dev/config/
 export default defineConfig(({ command }) => ({
     base: getBase(command),
-    plugins: [tailwindcss() as PluginOption, react(), emberAssetsPlugin(), ghostBackendProxyPlugin()],
+    plugins: [tailwindcss() as PluginOption, react(), emberAssetsPlugin(), ghostBackendProxyPlugin(), developmentConsolePlugin()],
     define: sharedDefine,
     server: {
         host: '0.0.0.0',
