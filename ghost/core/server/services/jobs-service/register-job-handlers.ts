@@ -62,7 +62,7 @@ interface RegisterJobHandlersDependencies {
     executeImport(job: ContentImportJob): Promise<unknown>;
   };
   tinybirdSync: {
-    sync(): Promise<void>;
+    sync(job: TinybirdSyncJob): Promise<void>;
   };
 }
 
@@ -162,8 +162,8 @@ export default function registerJobHandlers({
 
   jobsService.handle(
     TinybirdSyncJob,
-    async () => {
-      await tinybirdSync.sync();
+    async (job) => {
+      await tinybirdSync.sync(job);
     },
     { queue: TinybirdSyncJob.type, concurrency: 1 },
   );

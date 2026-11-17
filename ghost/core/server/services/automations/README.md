@@ -71,6 +71,32 @@ The chart and cards share the request and cache, populated on first sidebar open
 and kept until navigation. Closing, reopening, focus, and reconnect do not refresh
 it. Failed requests replace the performance content with one error and retry button.
 
+### Analytics freshness
+
+Committed signup runs and step changes request a background Tinybird sync after
+the 60-second safety lag plus a one-second margin for the strict, whole-second
+database cutoff. Both runs and steps must reach Tinybird before a fresh analytics
+request can show the run. Initial step execution can restart that step's safety
+window. Expect roughly a minute after the relevant writes settle, plus queueing
+and ingestion/query latency. An already-open sidebar keeps its cached result;
+navigate to make a fresh request.
+
+Boot wires a per-instance coordinator that keeps the earliest pending deadline
+and a trailing deadline. Signups cannot postpone the earliest work, and writes
+too recent for that pass retain a follow-up. At most one requested job is queued
+or running per instance, with two timestamps retaining further requests during
+slow ingestion. Requested and five-minute reconciliation jobs both use the
+`tinybird-sync` queue with concurrency one. The supplied in-memory jobs backend
+serializes within one process; a shared backend must enforce its queue's
+concurrency across workers. The existing recurring schedule queues independently
+of the requested-job bound.
+
+The coordinator's timers are an optimization, not durable delivery. Shutdown
+discards them; restarts, enqueue failures and failed table batches fall back to
+five-minute reconciliation (normally a 1–6-minute pickup delay). Ingestion config
+is checked again at execution. Failed batches leave their watermark unchanged;
+per-table failures are logged, so recovery does not depend on job retries.
+
 ## Run list
 
 `GET /ghost/api/admin/automations/:id/runs/` returns up to fifty runs per page:

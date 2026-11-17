@@ -221,12 +221,13 @@ describe('database automations repository', function () {
       const selectedAutomationId = await insertAutomation({ triggerTierIds: selectedTierIds });
       const repo = createDatabaseAutomationsRepository({ knex, fakeWaitHoursMultiplier: null });
       const memberId = ObjectId().toHexString();
-      await repo.trigger({
+      const created = await repo.trigger({
         memberId,
         memberEmail: await insertMember(memberId),
         memberStatus: 'paid',
         memberTierIds: [ObjectId().toHexString()],
       });
+      assert.equal(created, false);
       const runs = await knex('automation_runs').where({
         automation_id: selectedAutomationId,
         member_id: memberId,
@@ -238,12 +239,13 @@ describe('database automations repository', function () {
       const selectedAutomationId = await insertAutomation({ triggerTierIds: selectedTierIds });
       const repo = createDatabaseAutomationsRepository({ knex, fakeWaitHoursMultiplier: null });
       const memberId = ObjectId().toHexString();
-      await repo.trigger({
+      const created = await repo.trigger({
         memberId,
         memberEmail: await insertMember(memberId),
         memberStatus: 'paid',
         memberTierIds: selectedTierIds,
       });
+      assert.equal(created, true);
       const runs = await knex('automation_runs').where({
         automation_id: selectedAutomationId,
         member_id: memberId,
@@ -300,7 +302,7 @@ describe('database automations repository', function () {
           clearTimeout(timeout);
           knex.removeListener('query', onKnexQuery);
           await memberLockTxn.rollback();
-          await triggers;
+          assert.deepEqual((await triggers).sort(), [false, true]);
         }
       }
 

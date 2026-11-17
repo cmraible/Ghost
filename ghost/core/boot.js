@@ -186,6 +186,7 @@ async function initCore({ ghostServer, config }) {
     const jobsService = require('./server/services/jobs-service');
 
     ghostServer.registerCleanupTask(async () => {
+      require('./server/services/tinybird-sync').stop();
       await jobsService.shutdown({ timeoutMs: config.get('server:shutdownTimeout') });
     }, 'Jobs Service (in-memory)');
     debug('End: Jobs Service');
@@ -486,6 +487,9 @@ async function initServices({ ghostServer, config, prometheusClient, jobsService
   });
   await jobsService.start();
   debug('End: Register job handlers');
+
+  tinybirdSync.init(jobsService);
+  automationsApi.initAnalyticsSync(tinybirdSync.requestSync);
 
   await automationsService.init({
     domainEvents,

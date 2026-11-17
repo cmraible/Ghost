@@ -400,6 +400,9 @@ export async function edit(automationId: string, data: unknown) {
     });
   }
 
+  if (automation.status !== 'active') {
+    requestCommittedAnalyticsSync();
+  }
   return automation;
 }
 
@@ -656,6 +659,21 @@ function throwValidationError(message: string, property?: string): never {
 
 export const requestPoll = automationsApi2.requestPoll.bind(automationsApi2);
 
+let requestAnalyticsSync: (() => void) | undefined;
+
+// Boot connects analytics before the automation poll starts.
+export function initAnalyticsSync(requestSync: () => void): void {
+  requestAnalyticsSync = requestSync;
+}
+
+function requestCommittedAnalyticsSync(): void {
+  try {
+    requestAnalyticsSync?.();
+  } catch (error) {
+    logging.error(error, '[Automations] Failed to request analytics sync');
+  }
+}
+
 type TriggerOptions = Parameters<AutomationsRepository['trigger']>[0] & {
   event: 'member_sign_up';
 };
@@ -670,7 +688,11 @@ export async function trigger(options: TriggerOptions) {
     return;
   }
 
-  await repository.trigger(options);
+  const createdRuns = await repository.trigger(options);
+
+  if (createdRuns) {
+    requestCommittedAnalyticsSync();
+  }
 
   requestPoll();
 }
@@ -678,23 +700,37 @@ export async function trigger(options: TriggerOptions) {
 export async function fetchAndLockSteps(
   ...args: Parameters<AutomationsRepository['fetchAndLockSteps']>
 ) {
-  return await repository.fetchAndLockSteps(...args);
+  const result = await repository.fetchAndLockSteps(...args);
+  if (result.steps.length) {
+    requestCommittedAnalyticsSync();
+  }
+  return result;
 }
 
 export async function finishStepAndEnqueueNext(
   ...args: Parameters<AutomationsRepository['finishStepAndEnqueueNext']>
 ) {
-  return await repository.finishStepAndEnqueueNext(...args);
+  const result = await repository.finishStepAndEnqueueNext(...args);
+  // A null result also means the final step completed without a successor.
+  requestCommittedAnalyticsSync();
+  return result;
 }
 
 export async function markStepTerminal(
   ...args: Parameters<AutomationsRepository['markStepTerminal']>
 ) {
-  return await repository.markStepTerminal(...args);
+  const changed = await repository.markStepTerminal(...args);
+  if (changed) {
+    requestCommittedAnalyticsSync();
+  }
+  return changed;
 }
 
 export async function retryStep(...args: Parameters<AutomationsRepository['retryStep']>) {
-  return await repository.retryStep(...args);
+  const result = await repository.retryStep(...args);
+  // False can mean an inactive automation's step was made terminal.
+  requestCommittedAnalyticsSync();
+  return result;
 }
 
 export async function recordEmailSent(

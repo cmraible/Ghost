@@ -9,6 +9,7 @@ import { AUTOMATION_SYNC_TARGETS, syncTableToTinybird } from './sync-table-to-ti
 import TinybirdSyncJob from './jobs/tinybird-sync-job';
 import type { JobsService } from '../jobs-service/jobs-service';
 import { randomFiveMinuteCron } from '../jobs-service/cron';
+import { createSyncRequestCoordinator } from './sync-request-coordinator';
 
 const BATCH_SIZE = 5000;
 // This should be a little less than the maximum, because rows are chunked by
@@ -42,6 +43,32 @@ export function createTinybirdSyncService({
   createId,
 }: TinybirdSyncDependencies) {
   let scheduled = false;
+  let coordinator: ReturnType<typeof createSyncRequestCoordinator> | undefined;
+
+  const init = (jobsService: Pick<JobsService, 'dispatch'>): void => {
+    coordinator?.stop();
+    coordinator = createSyncRequestCoordinator({
+      dispatch: (job) => jobsService.dispatch(job),
+      isConfigured: () => !!getIngestConfig({ config, settingsCache }),
+      now,
+      createId,
+      logging,
+    });
+  };
+
+  const requestSync = (): void => {
+    try {
+      coordinator?.request();
+    } catch (error) {
+      logging.error(error, '[Tinybird sync] Failed to request sync');
+    }
+  };
+
+  const stop = (): void => {
+    coordinator?.stop();
+    coordinator = undefined;
+    scheduled = false;
+  };
 
   const syncAll = async (ingest: IngestConfig): Promise<void> => {
     const results = await Promise.allSettled(
@@ -71,13 +98,16 @@ export function createTinybirdSyncService({
     }
   };
 
-  const sync = async (): Promise<void> => {
-    const ingest = getIngestConfig({ config, settingsCache });
-    if (!ingest) {
-      return;
+  const sync = async (job?: TinybirdSyncJob): Promise<void> => {
+    const activeCoordinator = coordinator;
+    try {
+      const ingest = getIngestConfig({ config, settingsCache });
+      if (ingest) {
+        await syncAll(ingest);
+      }
+    } finally {
+      activeCoordinator?.complete(job?.requestId);
     }
-
-    await syncAll(ingest);
   };
 
   const scheduleJob = async (
@@ -109,5 +139,5 @@ export function createTinybirdSyncService({
     }
   };
 
-  return { scheduleJob, sync };
+  return { init, requestSync, stop, scheduleJob, sync };
 }

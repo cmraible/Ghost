@@ -250,7 +250,7 @@ export type AutomationsRepository = {
       memberStatus: 'free' | 'paid';
       memberTierIds: string[];
     }>,
-  ): Promise<void>;
+  ): Promise<boolean>;
   /**
    * Select the steps we want to run and return the next time any remaining
    * pending step should be polled, if any.

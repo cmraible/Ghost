@@ -4,6 +4,9 @@ import sinon from 'sinon';
 import { vi } from 'vitest';
 // @ts-expect-error @tryghost/domain-events currently lacks type declarations.
 import domainEvents from '@tryghost/domain-events';
+// @ts-expect-error This module lacks type definitions.
+import labs from '../../../../../core/shared/labs';
+import logging from '@tryghost/logging';
 
 import * as automationsApi from '../../../../../core/server/services/automations/automations-api';
 import { StartAutomationsPollEvent } from '../../../../../core/server/services/automations/events/start-automations-poll-event';
@@ -12,7 +15,14 @@ import {
   NON_EMPTY_EMAIL_LEXICAL,
 } from '../../../../utils/automations-fixtures';
 
-const { repositoryAdd, repositoryEdit } = vi.hoisted(() => ({
+const { repositoryAdd, repositoryEdit, writes } = vi.hoisted(() => ({
+  writes: {
+    trigger: vi.fn(),
+    fetchAndLockSteps: vi.fn(),
+    finishStepAndEnqueueNext: vi.fn(),
+    markStepTerminal: vi.fn(),
+    retryStep: vi.fn(),
+  },
   repositoryAdd: vi.fn(),
   repositoryEdit: vi.fn(),
 }));
@@ -28,6 +38,7 @@ vi.mock(
       ...actual,
       createDatabaseAutomationsRepository: vi.fn((options) => ({
         ...actual.createDatabaseAutomationsRepository(options),
+        ...writes,
         add: repositoryAdd,
         edit: repositoryEdit,
       })),
@@ -76,6 +87,8 @@ describe('automations API', function () {
     sinon.restore();
     repositoryAdd.mockReset();
     repositoryEdit.mockReset();
+    Object.values(writes).forEach((mock) => mock.mockReset());
+    automationsApi.initAnalyticsSync(() => {});
   });
 
   describe('getNumberOfAutomations', function () {
@@ -554,5 +567,107 @@ describe('automations API', function () {
         sinon.match.instanceOf(StartAutomationsPollEvent),
       );
     });
+  });
+});
+
+describe('committed analytics requests (NY-1661)', () => {
+  const options = {
+    event: 'member_sign_up' as const,
+    memberId: 'member',
+    memberEmail: 'member@example.com',
+    memberStatus: 'free' as const,
+    memberTierIds: [],
+  };
+  let requestSync: ReturnType<typeof vi.fn<() => void>>;
+  beforeEach(() => {
+    sinon.stub(labs, 'isSet').returns(true);
+    sinon.stub(domainEvents, 'dispatch');
+    requestSync = vi.fn();
+    automationsApi.initAnalyticsSync(requestSync);
+  });
+  afterEach(() => {
+    sinon.restore();
+    Object.values(writes).forEach((mock) => mock.mockReset());
+    automationsApi.initAnalyticsSync(() => {});
+  });
+
+  it('requests only after run creation commits, keeping the immediate poll', async () => {
+    const committed = Promise.withResolvers<boolean>();
+    writes.trigger.mockReturnValue(committed.promise);
+    const triggering = automationsApi.trigger(options);
+    expect(requestSync).not.toHaveBeenCalled();
+    committed.resolve(true);
+    await triggering;
+    expect(requestSync).toHaveBeenCalledTimes(1);
+    sinon.assert.calledWith(
+      domainEvents.dispatch,
+      sinon.match.instanceOf(StartAutomationsPollEvent),
+    );
+  });
+
+  it('does not request for duplicate or nonmatching triggers', async () => {
+    writes.trigger.mockResolvedValue(false);
+    await automationsApi.trigger(options);
+    expect(requestSync).not.toHaveBeenCalled();
+  });
+
+  it('does not trigger or request when automations are disabled', async () => {
+    labs.isSet.returns(false);
+    await automationsApi.trigger(options);
+    expect(writes.trigger).not.toHaveBeenCalled();
+    expect(requestSync).not.toHaveBeenCalled();
+  });
+
+  it('does not request when the run transaction rolls back', async () => {
+    writes.trigger.mockRejectedValue(new Error('rollback'));
+    await expect(automationsApi.trigger(options)).rejects.toThrow('rollback');
+    expect(requestSync).not.toHaveBeenCalled();
+  });
+
+  it('logs scheduling errors without failing a committed trigger or losing its poll', async () => {
+    writes.trigger.mockResolvedValue(true);
+    const failure = new Error('schedule failed');
+    requestSync.mockImplementation(() => {
+      throw failure;
+    });
+    const error = sinon.stub(logging, 'error');
+    await automationsApi.trigger(options);
+    sinon.assert.calledWith(error, failure);
+    sinon.assert.calledWith(
+      domainEvents.dispatch,
+      sinon.match.instanceOf(StartAutomationsPollEvent),
+    );
+  });
+
+  it('requests for committed step locks but not empty polls', async () => {
+    writes.fetchAndLockSteps.mockResolvedValueOnce({ steps: [], nextStepReadyAt: null });
+    await automationsApi.fetchAndLockSteps(100);
+    expect(requestSync).not.toHaveBeenCalled();
+    writes.fetchAndLockSteps.mockResolvedValueOnce({ steps: [{}], nextStepReadyAt: null });
+    await automationsApi.fetchAndLockSteps(100);
+    expect(requestSync).toHaveBeenCalledTimes(1);
+  });
+
+  it('requests after final-step completion and terminal retry outcomes', async () => {
+    const step = {} as Parameters<typeof automationsApi.finishStepAndEnqueueNext>[0];
+    writes.finishStepAndEnqueueNext.mockResolvedValue(null);
+    expect(await automationsApi.finishStepAndEnqueueNext(step)).toBeNull();
+    writes.retryStep.mockResolvedValue(false);
+    expect(await automationsApi.retryStep(step, new Date())).toBe(false);
+    expect(requestSync).toHaveBeenCalledTimes(2);
+  });
+
+  it('requests only for successful terminal changes and never for rolled-back changes', async () => {
+    const step = {} as Parameters<typeof automationsApi.markStepTerminal>[0];
+    writes.markStepTerminal
+      .mockResolvedValueOnce(false)
+      .mockResolvedValueOnce(true)
+      .mockRejectedValueOnce(new Error('rollback'));
+    await automationsApi.markStepTerminal(step, 'failed');
+    expect(requestSync).not.toHaveBeenCalled();
+    await automationsApi.markStepTerminal(step, 'failed');
+    expect(requestSync).toHaveBeenCalledTimes(1);
+    await expect(automationsApi.markStepTerminal(step, 'failed')).rejects.toThrow('rollback');
+    expect(requestSync).toHaveBeenCalledTimes(1);
   });
 });

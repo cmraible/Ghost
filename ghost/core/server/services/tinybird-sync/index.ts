@@ -18,3 +18,6 @@ const service = createTinybirdSyncService({
 
 export const scheduleJob = service.scheduleJob;
 export const sync = service.sync;
+export const init = service.init;
+export const requestSync = service.requestSync;
+export const stop = service.stop;

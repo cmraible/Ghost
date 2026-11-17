@@ -548,7 +548,7 @@ export function createDatabaseAutomationsRepository({
         memberStatus: 'free' | 'paid';
         memberTierIds: string[];
       }>,
-    ): Promise<void> {
+    ): Promise<boolean> {
       return await knex.transaction((trx) =>
         trigger(trx, {
           ...options,
@@ -1102,7 +1102,7 @@ async function trigger(
     memberTierIds: string[];
     fakeWaitHoursMultiplier: number | null;
   }>,
-): Promise<void> {
+): Promise<boolean> {
   const { memberEmail, memberId, memberStatus, memberTierIds, fakeWaitHoursMultiplier } = options;
 
   await lockMemberForTriggering(trx, memberId);
@@ -1154,6 +1154,7 @@ async function trigger(
       trx('automation_run_steps').insert(stepsToInsert),
     ]);
   }
+  return runsToInsert.length > 0;
 }
 
 async function insertRunStep(

@@ -17,6 +17,8 @@ function createServicesHarness({ rescheduleOnBoot = true } = {}) {
   // Production init returns before its first poll. Poll behavior belongs to
   // the automations tests, not this boot orchestration harness.
   const automations = sinon.stub();
+  const tinybirdSync = { init: sinon.stub(), requestSync: sinon.stub() };
+  const initAnalyticsSync = sinon.stub();
   const reschedule = sinon.stub().resolves();
   const jobsService = { start };
   const genericService = {
@@ -63,6 +65,8 @@ function createServicesHarness({ rescheduleOnBoot = true } = {}) {
       './server/services/post-scheduling': { default: { rescheduleAll: reschedule } },
       './server/services/jobs-service/register-job-handlers': { default: register },
       './server/services/automations': { automationsService: { init: automations } },
+      './server/services/automations/automations-api': { initAnalyticsSync },
+      './server/services/tinybird-sync': tinybirdSync,
     },
     { fallback: () => ({ ...genericService, default: genericService }) },
   );
@@ -79,6 +83,9 @@ function createServicesHarness({ rescheduleOnBoot = true } = {}) {
     register,
     start,
     automations,
+    tinybirdSync,
+    initAnalyticsSync,
+    jobsService,
     reschedule,
   };
 }
@@ -90,7 +97,16 @@ it('initializes dependencies and starts jobs before calling automations init', a
   for (const dependency of [boot.gifts, boot.mentions, boot.analytics, boot.media, boot.email]) {
     sinon.assert.callOrder(dependency, boot.register);
   }
-  sinon.assert.callOrder(boot.register, boot.start, boot.automations, boot.reschedule);
+  sinon.assert.callOrder(
+    boot.register,
+    boot.start,
+    boot.tinybirdSync.init,
+    boot.initAnalyticsSync,
+    boot.automations,
+    boot.reschedule,
+  );
+  sinon.assert.calledOnceWithExactly(boot.tinybirdSync.init, boot.jobsService);
+  sinon.assert.calledOnceWithExactly(boot.initAnalyticsSync, boot.tinybirdSync.requestSync);
   sinon.assert.calledOnce(boot.automations);
 });
 
@@ -178,6 +194,8 @@ it('waits for jobs startup to finish before automations init and post rescheduli
     await setImmediate();
     sinon.assert.calledOnce(boot.register);
     sinon.assert.calledOnce(boot.start);
+    sinon.assert.notCalled(boot.tinybirdSync.init);
+    sinon.assert.notCalled(boot.initAnalyticsSync);
     sinon.assert.notCalled(boot.automations);
     sinon.assert.notCalled(boot.reschedule);
   } finally {

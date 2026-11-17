@@ -73,7 +73,88 @@ describe('createTinybirdSyncService', () => {
   });
 
   afterEach(async () => {
+    vi.useRealTimers();
     await Promise.all(databases.map((database) => database.destroy()));
+  });
+
+  it('syncs committed runs and later step changes after their own safety windows (NY-1661)', async () => {
+    const database = await createEmptyDatabase();
+    vi.useFakeTimers({ toFake: ['Date', 'setTimeout', 'clearTimeout'] });
+    vi.setSystemTime(new Date('2026-03-01T12:00:00Z'));
+    const timestamp = () => toDatabaseDate(new Date());
+    await database('automation_runs').insert({
+      id: 'run',
+      automation_id: 'automation',
+      created_at: timestamp(),
+      updated_at: timestamp(),
+    });
+    await database('automation_run_steps').insert({
+      id: 'step',
+      automation_run_id: 'run',
+      status: 'pending',
+      created_at: timestamp(),
+      updated_at: timestamp(),
+    });
+    const fetch = vi.fn().mockResolvedValue({ ok: true });
+    let id = 0;
+    const { service } = createService({
+      knex: database,
+      fetch,
+      now: () => new Date(),
+      createId: () => {
+        id += 1;
+        return String(id);
+      },
+    });
+    const dispatch = vi.fn<(job: TinybirdSyncJob) => Promise<void>>().mockResolvedValue();
+    service.init({ dispatch });
+    service.requestSync();
+    await service.sync();
+    assert.equal(fetch.mock.calls.length, 0);
+    await vi.advanceTimersByTimeAsync(30_000);
+    await database('automation_run_steps')
+      .where({ id: 'step' })
+      .update({ status: 'finished', updated_at: timestamp() });
+    service.requestSync();
+    await vi.advanceTimersByTimeAsync(29_999);
+    await service.sync();
+    assert.equal(fetch.mock.calls.length, 0);
+    await vi.advanceTimersByTimeAsync(1);
+    await service.sync();
+    assert.equal(fetch.mock.calls.length, 0); // Exactly 60 seconds is still excluded.
+    await vi.advanceTimersByTimeAsync(1);
+    await service.sync();
+    assert.equal(fetch.mock.calls.length, 0); // Cutoff truncates to whole seconds.
+    await vi.advanceTimersByTimeAsync(999);
+    assert.equal(dispatch.mock.calls.length, 1);
+    await service.sync(dispatch.mock.calls[0][0]);
+    assert.equal(JSON.parse(fetch.mock.calls[0][1].body).type, 'automation_runs');
+    assert.equal(fetch.mock.calls.length, 1);
+    await vi.advanceTimersByTimeAsync(30_000);
+    assert.equal(dispatch.mock.calls.length, 2);
+    await service.sync(dispatch.mock.calls[1][0]);
+    const step = JSON.parse(fetch.mock.calls[1][1].body);
+    assert.equal(step.type, 'automation_run_steps');
+    assert.equal(step.payload.status, 'finished');
+    assert.equal((await database('tinybird_syncs')).length, 2);
+    service.stop();
+  });
+
+  it('rechecks configuration when a requested job executes and releases the next request', async () => {
+    const database = await createEmptyDatabase();
+    vi.useFakeTimers({ toFake: ['Date', 'setTimeout', 'clearTimeout'] });
+    const { service, dependencies } = createService({ knex: database, now: () => new Date() });
+    const dispatch = vi.fn<(job: TinybirdSyncJob) => Promise<void>>().mockResolvedValue();
+    service.init({ dispatch });
+    service.requestSync();
+    await vi.advanceTimersByTimeAsync(61_000);
+    service.requestSync();
+    dependencies.config.get.mockReturnValue(undefined);
+    await service.sync(dispatch.mock.calls[0][0]);
+    assert.equal(dependencies.logging.info.mock.calls.length, 0);
+    await vi.advanceTimersByTimeAsync(61_000);
+    assert.equal(dispatch.mock.calls.length, 1);
+    service.stop();
   });
 
   it('schedules a five-minute recurring job at a random offset', async () => {

@@ -359,9 +359,10 @@ describe('register-job-handlers', function () {
   });
 
   it('runs tinybird-sync with the injected Tinybird sync service', async function () {
-    await handlerFor('tinybird-sync')({});
+    const job = { requestId: 'requested-sync' };
+    await handlerFor('tinybird-sync')(job);
 
-    sinon.assert.calledOnceWithExactly(tinybirdSync.sync);
+    sinon.assert.calledOnceWithExactly(tinybirdSync.sync, job);
   });
 
   it('registers tinybird-sync on its own queue, one pass at a time', function () {
