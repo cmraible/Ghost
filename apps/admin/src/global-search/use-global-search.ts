@@ -2,7 +2,7 @@ import { useMemo } from 'react';
 import { useDebounce } from 'use-debounce';
 import { getSettingValue, useBrowseSettings } from '@tryghost/admin-x-framework/api/settings';
 // pulls in FlexSearch, so import this hook only from a lazily loaded module
-import { createSearchProvider } from './search-providers';
+import { createSearchProvider, featuredResults } from './search-providers';
 import type { SearchResultGroup } from './search-source';
 import { useSearchSources } from './use-search-sources';
 
@@ -32,8 +32,8 @@ export function useGlobalSearch(term: string): {
   );
 
   const results = useMemo(
-    () => (enabled && provider ? provider.search(debouncedTerm) : []),
-    [enabled, provider, debouncedTerm],
+    () => (enabled ? (provider?.search(debouncedTerm) ?? []) : featuredResults(sources)),
+    [enabled, provider, debouncedTerm, sources],
   );
 
   return {

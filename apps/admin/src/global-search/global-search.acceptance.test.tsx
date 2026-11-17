@@ -76,7 +76,7 @@ describe('Settings search actions', () => {
 
     await openWithShortcut();
     await globalSearchScreen.search('dark');
-    await globalSearchScreen.option('Switch to dark mode').click();
+    await globalSearchScreen.option('Use dark appearance').click();
 
     await expect.poll(() => document.documentElement.classList.contains('dark')).toBe(true);
     await expect(settingsScreen.confirmationModal()).toHaveCount(0);
@@ -156,6 +156,10 @@ describe('Cmd-K search', () => {
     await expect.element(globalSearchScreen.input()).toHaveFocus();
     await expect.poll(controlledListbox).not.toBeNull();
     await expect.element(globalSearchScreen.shortcutHint()).not.toBeInTheDocument();
+
+    await expect.element(globalSearchScreen.group('Actions')).toBeVisible();
+    await expect.element(globalSearchScreen.option('New post')).toBeVisible();
+    await expect.element(globalSearchScreen.option('New member')).toBeVisible();
 
     await globalSearchScreen.search('first');
 
@@ -401,12 +405,12 @@ describe('Cmd-K search', () => {
     await renderAdminApp('/tags');
     await openAndSearch('dark');
 
-    await globalSearchScreen.option('Switch to dark mode').click();
+    await globalSearchScreen.option('Use dark appearance').click();
     await expect.poll(isDarkMode).toBe(true);
     await expect.element(globalSearchScreen.dialog()).not.toBeInTheDocument();
 
     await openAndSearch('light');
-    await globalSearchScreen.option('Switch to light mode').click();
+    await globalSearchScreen.option('Use light appearance').click();
     await expect.poll(isDarkMode).toBe(false);
   });
 

@@ -6,6 +6,8 @@ interface SearchItemBase {
   keywords?: string;
   /** A post or page status, shown as a badge. */
   status?: string;
+  /** Shown before the user types, as a suggested command. */
+  isFeatured?: boolean;
 }
 
 /** Opens an Admin route. Plain data, so it can come from config. */

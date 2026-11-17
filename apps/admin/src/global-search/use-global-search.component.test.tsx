@@ -126,6 +126,7 @@ describe('useGlobalSearch', () => {
     await expect.poll(() => hook.result.current.queryClient.isFetching()).toBe(0);
     expect(index.posts.requests).toHaveLength(0);
     expect(hook.result.current.search.isLoading).toBe(false);
+    expect(groupNames(hook)).toEqual(['Actions']);
 
     await hook.rerender({ term: 'first' });
 
@@ -143,12 +144,12 @@ describe('useGlobalSearch', () => {
 
     expect(groupNames(hook)).toHaveLength(5);
     expect(hook.result.current.search.isLoading).toBe(true);
-    expect(await settledGroupNames(hook)).toEqual(['Tags']);
+    expect(await settledGroupNames(hook)).toEqual(['Tags', 'Actions']);
     expect(index.posts.requests).toHaveLength(1);
     expect(index.tags.requests).toHaveLength(1);
   });
 
-  it('returns nothing as soon as the term is cleared', async () => {
+  it('returns suggested actions as soon as the term is cleared', async () => {
     fakeSession();
     fakeSearchIndex();
     const hook = await renderSearch('first');
@@ -156,7 +157,7 @@ describe('useGlobalSearch', () => {
 
     await hook.rerender({ term: '' });
 
-    expect(groupNames(hook)).toEqual([]);
+    expect(groupNames(hook)).toEqual(['Actions']);
     expect(hook.result.current.search.isLoading).toBe(false);
   });
 

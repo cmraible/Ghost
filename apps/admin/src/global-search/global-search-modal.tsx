@@ -111,18 +111,16 @@ function GlobalSearchPanel({ onClose }: { onClose: () => void }) {
     });
   };
 
-  const hasTerm = term.trim() !== '';
-
   return (
     <>
       <Command
-        className={cn('sm:rounded-lg', !hasTerm && '[&_[cmdk-input-wrapper]]:border-b-0')}
+        className="sm:rounded-lg"
         shouldFilter={false}
         value={selected.value}
         onValueChange={(value) => setSelected({ results, value })}
       >
         <CommandInput placeholder="Search site" value={term} onValueChange={setTerm} />
-        <CommandList className={cn('max-h-[50vh]', !hasTerm && 'hidden')}>
+        <CommandList className="max-h-[50vh]">
           {results.map((group, index) => (
             <Fragment key={group.id}>
               {index > 0 && <CommandSeparator alwaysRender />}
@@ -146,7 +144,7 @@ function GlobalSearchPanel({ onClose }: { onClose: () => void }) {
               </CommandGroup>
             </Fragment>
           ))}
-          {hasTerm && results.length === 0 && (
+          {term.trim() && results.length === 0 && (
             <CommandEmpty>{isLoading ? 'Loading' : 'No results found'}</CommandEmpty>
           )}
         </CommandList>

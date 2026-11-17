@@ -6,6 +6,7 @@ import {
   createBasicSearchProvider,
   createFlexSearchProvider,
   createSearchProvider,
+  featuredResults,
 } from './search-providers';
 import type { SearchResultGroup, SearchSource } from './search-source';
 
@@ -62,6 +63,37 @@ const postsTitled = (titles: string[]): SearchIndexItem[] =>
 const headings = (groups: SearchResultGroup[]) => groups.map((group) => group.heading);
 const titles = (groups: SearchResultGroup[], heading: string) =>
   groups.find((group) => group.heading === heading)?.items.map((item) => item.title);
+
+describe('featuredResults', () => {
+  it('returns only featured items, grouped in source order', () => {
+    const sources: SearchSource[] = [
+      {
+        id: 'actions',
+        heading: 'Actions',
+        isLoading: false,
+        items: [
+          {
+            kind: 'navigate',
+            id: 'new-post',
+            title: 'New post',
+            to: '/editor/post',
+            isFeatured: true,
+          },
+          { kind: 'navigate', id: 'posts', title: 'Go to posts', to: '/posts' },
+        ],
+      },
+      contentSearchSource('posts', content.posts),
+    ];
+
+    expect(featuredResults(sources)).toEqual([
+      {
+        id: 'actions',
+        heading: 'Actions',
+        items: [sources[0].items[0]],
+      },
+    ]);
+  });
+});
 
 describe.each([
   ['flex', createFlexSearchProvider],

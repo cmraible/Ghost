@@ -23,6 +23,11 @@ function groupResults(
   });
 }
 
+/** Suggested commands shown before a search term is entered. */
+export function featuredResults(sources: readonly SearchSource[]): SearchResultGroup[] {
+  return groupResults(sources, (source) => source.items.filter((item) => item.isFeatured));
+}
+
 /** Matches word prefixes in any order, ranked by FlexSearch. */
 export function createFlexSearchProvider(sources: readonly SearchSource[]): SearchProvider {
   const indexes = sources.map((source) => {
