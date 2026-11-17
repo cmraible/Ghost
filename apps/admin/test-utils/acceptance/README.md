@@ -42,7 +42,7 @@ Don't guess the app's network graph — run the test, the 418 names what's missi
 
 **Cross-app navigation.** When a spec asserts only the shell's behavior and a navigation mounts another app (settings, ActivityPub), don't fake that app's boot graph: `allowUnhandledRequests()` with a one-line constraint comment ("the settings app owns its request graph") is the sanctioned pattern.
 
-When your area calls a new external origin, add it to `EXTERNAL_URL_BLOCKLIST` in `worker.ts` so a forgotten fake fails the test instead of hitting the real network from CI. `fakeEndpoint` serves JSON bodies only — point fixture image URLs at a non-blocklisted host (they bypass the worker) rather than faking them.
+When your area calls a new external origin, add it to `EXTERNAL_URL_BLOCKLIST` in `worker.ts` so a forgotten fake fails the test instead of hitting the real network from CI. `fakeEndpoint` accepts a JSON response or a promise of one; use a deferred promise to hold a request pending while asserting loading or retry behavior, and resolve it in `finally` before teardown. `fakeEndpoint` serves JSON bodies only — point fixture image URLs at a non-blocklisted host (they bypass the worker) rather than faking them.
 
 **THE RULE:** fakes never implement NQL — declare the response and assert the outgoing filter string instead (see the doc comment in `resources.ts`).
 

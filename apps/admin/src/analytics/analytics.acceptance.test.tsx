@@ -1,4 +1,6 @@
-import { describe, expect, it } from 'vitest';
+import { describe, expect, it, vi } from 'vitest';
+import { page, userEvent } from 'vitest/browser';
+import { focusManager } from '@tanstack/react-query';
 
 import {
   TINYBIRD_SITE_UUID,
@@ -6,6 +8,7 @@ import {
   fakeAdminEndpoint,
   fakeAdminStats,
   fakeAnalyticsOverview,
+  fakeEndpoint,
   fakeNewsletters,
   fakePosts,
   fakeTinybirdPipe,
@@ -16,6 +19,7 @@ import {
   webAnalyticsBootOverrides,
 } from '@test-utils/acceptance';
 import { deferred } from '@/utils/deferred';
+import { TINYBIRD_ORIGIN } from '@test-utils/acceptance/worker';
 import { analyticsScreen } from './analytics.screen';
 
 const LATEST_POST_ID = '64d623b64676110001e897d1';
@@ -236,6 +240,214 @@ describe('Analytics overview', () => {
 });
 
 describe('Analytics web traffic', () => {
+  it('shows unavailable KPIs and a retry action when api_kpis returns a 500 error', async () => {
+    seedAnalyticsWorld();
+    fakeAdminStats.topContent([]);
+    fakeTinybirdPipe('api_top_sources', [{ source: 'google.com', visits: 170 }]);
+    fakeTinybirdPipe('api_top_locations', [{ location: 'US', visits: 200 }]);
+    const boot = webAnalyticsBootOverrides();
+    const kpisApi = fakeEndpoint(
+      'GET',
+      `${TINYBIRD_ORIGIN}/v0/pipes/api_kpis.json`,
+      { error: 'Internal server error' },
+      { status: 500 },
+    );
+
+    await renderAdminApp('/analytics/web', { boot });
+
+    await expect.poll(() => kpisApi.requests.length).toBeGreaterThan(0);
+    await expect.element(page.getByRole('status')).toHaveTextContent('Unable to load traffic data');
+    await expect.element(page.getByRole('button', { name: 'Try again' })).toBeVisible();
+    await expect.element(analyticsScreen.uniqueVisitorsTab()).toHaveAccessibleName(/Unavailable/);
+    await expect.element(analyticsScreen.totalViewsTab()).toHaveAccessibleName(/Unavailable/);
+    await expect.element(analyticsScreen.sourceRow('google.com')).toHaveTextContent('170');
+    await expect.element(analyticsScreen.locationRow('US')).toHaveTextContent('United States');
+    await expect.element(analyticsScreen.activeVisitors()).toHaveTextContent('12 online');
+
+    await page.screenshot({ path: '__screenshots__/analytics-api-kpis-500.png' });
+  });
+
+  it('preserves content and source counts while their percentages are unavailable', async () => {
+    seedAnalyticsWorld();
+    fakeAdminStats.topContent([
+      { pathname: '/popular-post/', title: 'A popular post', visits: 240 },
+    ]);
+    fakeTinybirdPipe('api_top_sources', [{ source: 'google.com', visits: 170 }]);
+    fakeTinybirdPipe('api_top_locations', []);
+    fakeEndpoint(
+      'GET',
+      `${TINYBIRD_ORIGIN}/v0/pipes/api_kpis.json`,
+      { error: 'Internal server error' },
+      { status: 500 },
+    );
+    await renderAdminApp('/analytics/web', { boot: webAnalyticsBootOverrides() });
+
+    const content = analyticsScreen.topContentCard();
+    const source = analyticsScreen.sourceRow('google.com');
+    await expect.element(page.getByText('Unable to load traffic data')).toBeVisible();
+    await expect.element(content).toHaveTextContent('A popular post');
+    await expect.element(content).toHaveTextContent('240');
+    await expect.element(source).toHaveTextContent('170');
+    await expect.element(content).toHaveTextContent('Percentage unavailable');
+    await expect.element(source).toHaveTextContent('Percentage unavailable');
+    await expect.element(content).not.toHaveTextContent('0%');
+    await expect.element(source).not.toHaveTextContent('0%');
+
+    fakeTinybirdPipe('api_kpis', [{ date: daysAgo(1), visits: 1000 }]);
+    await page.getByRole('button', { name: 'Try again' }).click();
+    await expect.element(content).toHaveTextContent('24%');
+    await expect.element(source).toHaveTextContent('17%');
+    await expect.element(content).not.toHaveTextContent('Percentage unavailable');
+    await expect.element(source).not.toHaveTextContent('Percentage unavailable');
+  });
+
+  it('shows genuine zero percentages when the KPI total is available', async () => {
+    seedAnalyticsWorld();
+    fakeAdminStats.topContent([
+      { pathname: '/unvisited-post/', title: 'An unvisited post', visits: 0 },
+    ]);
+    fakeTinybirdPipe('api_top_sources', [{ source: 'google.com', visits: 0 }]);
+    fakeTinybirdPipe('api_top_locations', []);
+    await renderAdminApp('/analytics/web', { boot: webAnalyticsBootOverrides() });
+
+    await expect.element(analyticsScreen.uniqueVisitorsTab()).toHaveTextContent('250');
+    await expect.element(analyticsScreen.topContentCard()).toHaveTextContent('0%');
+    await expect.element(analyticsScreen.sourceRow('google.com')).toHaveTextContent('0%');
+    await expect
+      .element(analyticsScreen.topContentCard())
+      .not.toHaveTextContent('Percentage unavailable');
+    await expect
+      .element(analyticsScreen.sourceRow('google.com'))
+      .not.toHaveTextContent('Percentage unavailable');
+  });
+
+  it('recovers the KPI chart when retry succeeds', async () => {
+    seedAnalyticsWorld();
+    seedEmptyWebTraffic();
+    fakeEndpoint(
+      'GET',
+      `${TINYBIRD_ORIGIN}/v0/pipes/api_kpis.json`,
+      { error: 'Internal server error' },
+      { status: 500 },
+    );
+    await renderAdminApp('/analytics/web', { boot: webAnalyticsBootOverrides() });
+    await expect.element(page.getByRole('button', { name: 'Try again' })).toBeVisible();
+
+    const recovered = fakeTinybirdPipe('api_kpis', [
+      { date: daysAgo(1), visits: 123, pageviews: 456 },
+    ]);
+    await page.getByRole('button', { name: 'Try again' }).click();
+
+    await expect.element(analyticsScreen.uniqueVisitorsTab()).toHaveTextContent('123');
+    await expect.element(analyticsScreen.totalViewsTab()).toHaveTextContent('456');
+    await expect.element(page.getByText('Unable to load traffic data')).not.toBeInTheDocument();
+    await expect.poll(() => recovered.requests.length).toBe(1);
+    await expect.element(analyticsScreen.webGraph()).toHaveFocus();
+  });
+
+  it('keeps existing KPIs visible when a background refresh fails', async () => {
+    seedAnalyticsWorld();
+    fakeAdminStats.topContent([
+      { pathname: '/popular-post/', title: 'A popular post', visits: 125 },
+    ]);
+    fakeTinybirdPipe('api_top_sources', [{ source: 'google.com', visits: 50 }]);
+    fakeTinybirdPipe('api_top_locations', []);
+    await renderAdminApp('/analytics/web', { boot: webAnalyticsBootOverrides() });
+    await expect.element(analyticsScreen.uniqueVisitorsTab()).toHaveTextContent('250');
+    await expect.element(analyticsScreen.topContentCard()).toHaveTextContent('50%');
+    await expect.element(analyticsScreen.sourceRow('google.com')).toHaveTextContent('20%');
+    fakeEndpoint(
+      'GET',
+      `${TINYBIRD_ORIGIN}/v0/pipes/api_kpis.json`,
+      { error: 'Internal server error' },
+      { status: 500 },
+    );
+
+    // Make the cached data stale without waiting through the one-minute freshness window.
+    const clock = vi.spyOn(Date, 'now').mockReturnValue(Date.now() + 61_000);
+    try {
+      focusManager.setFocused(false);
+      focusManager.setFocused(true);
+      await expect.element(page.getByText('Couldn’t refresh traffic data')).toBeVisible();
+      await expect.element(analyticsScreen.uniqueVisitorsTab()).toHaveTextContent('250');
+      await expect.element(analyticsScreen.topContentCard()).toHaveTextContent('125');
+      await expect
+        .element(analyticsScreen.topContentCard())
+        .toHaveTextContent('Percentage unavailable');
+      await expect.element(analyticsScreen.sourceRow('google.com')).toHaveTextContent('50');
+      await expect
+        .element(analyticsScreen.sourceRow('google.com'))
+        .toHaveTextContent('Percentage unavailable');
+      await expect.element(page.getByRole('button', { name: 'Try again' })).toBeVisible();
+    } finally {
+      clock.mockRestore();
+      focusManager.setFocused(undefined);
+    }
+  });
+
+  it('keeps the error visible while retrying and allows retry after another failure', async () => {
+    seedAnalyticsWorld();
+    seedEmptyWebTraffic();
+    fakeEndpoint(
+      'GET',
+      `${TINYBIRD_ORIGIN}/v0/pipes/api_kpis.json`,
+      { error: 'Internal server error' },
+      { status: 500 },
+    );
+    await renderAdminApp('/analytics/web', { boot: webAnalyticsBootOverrides() });
+    await expect.element(page.getByRole('button', { name: 'Try again' })).toBeVisible();
+
+    const pending = deferred<unknown>();
+    const retried = fakeEndpoint(
+      'GET',
+      `${TINYBIRD_ORIGIN}/v0/pipes/api_kpis.json`,
+      pending.promise,
+      { status: 500 },
+    );
+    try {
+      await page.getByRole('button', { name: 'Try again' }).click();
+      await expect.poll(() => retried.requests.length).toBe(1);
+      await expect
+        .element(page.getByRole('button', { name: 'Trying again…' }))
+        .toHaveAttribute('aria-disabled', 'true');
+      await userEvent.keyboard('{Enter}');
+      expect(retried.requests.length).toBe(1);
+      await expect.element(page.getByText('Unable to load traffic data')).toBeVisible();
+      await expect.element(analyticsScreen.uniqueVisitorsTab()).toHaveAccessibleName(/Unavailable/);
+    } finally {
+      pending.resolve({ error: 'Still unavailable' });
+    }
+    await expect
+      .element(page.getByRole('button', { name: 'Try again' }))
+      .toHaveAttribute('aria-disabled', 'false');
+    await expect.poll(() => retried.requests.length).toBe(1);
+    await page.getByRole('button', { name: 'Try again' }).click();
+    await expect.poll(() => retried.requests.length).toBe(2);
+  });
+
+  it('does not show values from the previous date range when the new range fails', async () => {
+    seedAnalyticsWorld();
+    seedEmptyWebTraffic();
+    await renderAdminApp('/analytics/web', { boot: webAnalyticsBootOverrides() });
+    await expect.element(analyticsScreen.uniqueVisitorsTab()).toHaveTextContent('250');
+    const failed = fakeEndpoint(
+      'GET',
+      `${TINYBIRD_ORIGIN}/v0/pipes/api_kpis.json`,
+      { error: 'Internal server error' },
+      { status: 500 },
+    );
+    await analyticsScreen.dateRangeSelect().click();
+    await analyticsScreen.rangeOption('Last 7 days').click();
+    await expect.element(page.getByText('Unable to load traffic data')).toBeVisible();
+    await expect.element(analyticsScreen.uniqueVisitorsTab()).toHaveAccessibleName(/Unavailable/);
+
+    const failedQuery = new URL(failed.lastRequest!.url).search;
+    const recovered = fakeTinybirdPipe('api_kpis', [{ date: daysAgo(1), visits: 77 }]);
+    await page.getByRole('button', { name: 'Try again' }).click();
+    await expect.element(analyticsScreen.uniqueVisitorsTab()).toHaveTextContent('77');
+    expect(new URL(recovered.lastRequest!.url).search).toBe(failedQuery);
+  });
+
   it('stays on the Web route while settings load, then renders seeded analytics', async () => {
     const boot = webAnalyticsBootOverrides();
     const settings = boot.browseSettings?.response;

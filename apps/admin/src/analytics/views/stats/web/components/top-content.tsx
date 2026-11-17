@@ -104,11 +104,9 @@ const TopContentTable: React.FC<TopContentTableProps> = ({
               className={`group/row ${isClickable && 'hover:cursor-pointer'}`}
               onClick={clickHandler}
             >
-              <DataListBar
-                style={{
-                  width: `${row.percentage ? Math.round(row.percentage * 100) : 0}%`,
-                }}
-              />
+              {row.percentage !== undefined && (
+                <DataListBar style={{ width: `${Math.round(row.percentage * 100)}%` }} />
+              )}
               <DataListItemContent className="group-hover/datalist:max-w-[calc(100%-140px)]">
                 <div className="flex items-center space-x-2 overflow-hidden">
                   <div
@@ -121,7 +119,14 @@ const TopContentTable: React.FC<TopContentTableProps> = ({
               <DataListItemValue>
                 <DataListItemValueAbs>{formatNumber(Number(row.visits))}</DataListItemValueAbs>
                 <DataListItemValuePerc>
-                  {formatPercentage(row.percentage || 0)}
+                  {row.percentage === undefined ? (
+                    <>
+                      <span aria-hidden="true">—</span>
+                      <span className="sr-only">Percentage unavailable</span>
+                    </>
+                  ) : (
+                    formatPercentage(row.percentage)
+                  )}
                 </DataListItemValuePerc>
               </DataListItemValue>
             </DataListRow>
@@ -134,7 +139,7 @@ const TopContentTable: React.FC<TopContentTableProps> = ({
 
 interface TopContentProps {
   range: number;
-  totalVisitors: number;
+  totalVisitors: number | null;
   audience: number;
   filterParams?: Record<string, string>;
 }
@@ -190,7 +195,12 @@ const TopContent: React.FC<TopContentProps> = ({
       pathname: item.pathname,
       title: item.title || item.pathname,
       visits: item.visits,
-      percentage: totalVisitors > 0 ? Number(item.visits) / totalVisitors : 0,
+      percentage:
+        totalVisitors === null
+          ? undefined
+          : totalVisitors > 0
+            ? Number(item.visits) / totalVisitors
+            : 0,
       post_uuid: item.post_uuid,
       post_id: item.post_id,
       post_type: item.post_type,

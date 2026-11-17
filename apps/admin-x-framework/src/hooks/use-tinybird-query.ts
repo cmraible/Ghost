@@ -31,6 +31,8 @@ export interface UseTinybirdQueryResult {
   meta: TinybirdMeta[] | null;
   loading: boolean;
   error: Error | null;
+  /** Refetch this pipe with its current params; no-op until enabled and authenticated. */
+  refetch: () => Promise<void>;
 }
 
 // Analytics reads fresh: pipe responses go stale after a minute instead of
@@ -166,6 +168,11 @@ export const useTinybirdQuery = (options: UseTinybirdQueryOptions): UseTinybirdQ
   });
 
   return {
+    refetch: async () => {
+      if (shouldQuery && requestUrl && token) {
+        await query.refetch({ cancelRefetch: false });
+      }
+    },
     data: shouldQuery ? (query.data?.data ?? null) : null,
     meta: shouldQuery ? (query.data?.meta ?? null) : null,
     loading: shouldQuery ? tokenQuery.isLoading || query.isLoading : false,

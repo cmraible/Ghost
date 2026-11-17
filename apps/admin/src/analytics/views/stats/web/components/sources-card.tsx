@@ -82,11 +82,9 @@ const SourcesTable: React.FC<SourcesTableProps> = ({
               data-testid={`source-row-${row.isDirectTraffic ? 'direct' : row.source}`}
               onClick={onSourceClick ? () => handleRowClick(row) : undefined}
             >
-              <DataListBar
-                style={{
-                  width: `${row.percentage ? Math.round(row.percentage * 100) : 0}%`,
-                }}
-              />
+              {row.percentage !== undefined && (
+                <DataListBar style={{ width: `${Math.round(row.percentage * 100)}%` }} />
+              )}
               <DataListItemContent className="group-hover/datalist:max-w-[calc(100%-140px)]">
                 <div className="flex items-center space-x-4 overflow-hidden">
                   <div className="truncate font-medium">
@@ -121,7 +119,14 @@ const SourcesTable: React.FC<SourcesTableProps> = ({
               <DataListItemValue>
                 <DataListItemValueAbs>{formatNumber(row.visits)}</DataListItemValueAbs>
                 <DataListItemValuePerc>
-                  {formatPercentage(row.percentage || 0)}
+                  {row.percentage === undefined ? (
+                    <>
+                      <span aria-hidden="true">—</span>
+                      <span className="sr-only">Percentage unavailable</span>
+                    </>
+                  ) : (
+                    formatPercentage(row.percentage)
+                  )}
                 </DataListItemValuePerc>
               </DataListItemValue>
             </DataListRow>
@@ -135,7 +140,7 @@ const SourcesTable: React.FC<SourcesTableProps> = ({
 interface SourcesCardProps {
   data: BaseSourceData[] | null;
   range?: number;
-  totalVisitors?: number;
+  totalVisitors: number | null;
   siteUrl?: string;
   siteIcon?: string;
   defaultSourceIconUrl?: string;
@@ -146,7 +151,7 @@ interface SourcesCardProps {
 export const SourcesCard: React.FC<SourcesCardProps> = ({
   data,
   range = 30,
-  totalVisitors = 0,
+  totalVisitors,
   siteUrl,
   siteIcon,
   defaultSourceIconUrl = DEFAULT_SOURCE_ICON_URL,
@@ -166,6 +171,9 @@ export const SourcesCard: React.FC<SourcesCardProps> = ({
 
   // Extend processed data with percentage values for visits mode
   const extendedData = React.useMemo(() => {
+    if (totalVisitors === null) {
+      return processedData;
+    }
     return extendSourcesWithPercentages({
       processedData,
       totalVisitors,

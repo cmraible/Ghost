@@ -280,7 +280,7 @@ export function fakeEndpoint(
 
       requests.push({ url: request.url, body: await parseRequestBody(request) });
 
-      return HttpResponse.json(response as Record<string, unknown>, { status });
+      return HttpResponse.json((await response) as Record<string, unknown>, { status });
     }),
   );
 

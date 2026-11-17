@@ -21,6 +21,7 @@ import { formatQueryDate, getRangeDates } from '@/shared/analytics/chart-helpers
 import { getAudienceFromFilterValues, getAudienceQueryParam } from '@/shared/analytics/audience';
 import { ANALYTICS_FILTER_FIELDS, useFilterParams } from '@/shared/analytics/use-filter-params';
 import { useAnalytics } from '@/analytics/providers/analytics-context';
+import { useChartRetry } from '@/shared/analytics/use-chart-retry';
 import { useAnalyticsData } from '@/shared/analytics/use-analytics-data';
 
 const Web: React.FC = () => {
@@ -139,11 +140,21 @@ const Web: React.FC = () => {
   );
 
   // Get KPI data
-  const { data: kpiData, loading: kpiLoading } = useTinybirdQuery({
+  const {
+    data: kpiData,
+    loading: kpiLoading,
+    error: kpiError,
+    refetch: refetchKpis,
+  } = useTinybirdQuery({
     endpoint: 'api_kpis',
     statsConfig,
     params,
   });
+
+  const { isRetrying, retry: retryKpis } = useChartRetry(
+    JSON.stringify([statsConfig, params]),
+    refetchKpis,
+  );
 
   // Get top sources data
   const { data: sourcesData, loading: isSourcesLoading } = useTinybirdQuery({
@@ -159,10 +170,12 @@ const Web: React.FC = () => {
     params,
   });
 
-  // Get total visitors for table
-  const totalVisitors = kpiData?.length
-    ? kpiData.reduce((sum, item) => sum + Number(item.visits), 0)
-    : 0;
+  // Counts in the other cards remain valid without KPIs, but their percentages
+  // need a known total. A failed refresh can leave cached KPI data behind.
+  const totalVisitors =
+    kpiError || isRetrying || kpiData === null
+      ? null
+      : kpiData.reduce((sum, item) => sum + Number(item.visits), 0);
 
   // Calculate combined loading state
   const isPageLoading = isConfigLoading;
@@ -200,7 +213,14 @@ const Web: React.FC = () => {
       <StatsView isLoading={isPageLoading} loadingComponent={<></>}>
         <Card>
           <CardContent>
-            <WebKPIs data={kpiData as KpiDataItem[] | null} isLoading={kpiLoading} range={range} />
+            <WebKPIs
+              data={kpiData as KpiDataItem[] | null}
+              error={kpiError}
+              isLoading={kpiLoading}
+              isRetrying={isRetrying}
+              range={range}
+              onRetry={retryKpis}
+            />
           </CardContent>
         </Card>
         <div className="flex grid-cols-2 flex-col gap-6 lg:grid">

@@ -128,30 +128,36 @@ describe('useTinybirdQuery', () => {
     expect(fetchMock).toHaveBeenCalledTimes(1);
   });
 
-  it('does not fetch a token or query Tinybird when disabled', () => {
+  it('does not fetch a token or query Tinybird when disabled', async () => {
     const { result } = renderQuery({ enabled: false });
 
     expect(mockUseTinybirdToken).toHaveBeenCalledWith({ enabled: false });
     expect(fetchMock).not.toHaveBeenCalled();
-    expect(result.current).toEqual({ data: null, meta: null, loading: false, error: null });
+    expect(result.current).toMatchObject({ data: null, meta: null, loading: false, error: null });
+    await result.current.refetch();
+    expect(fetchMock).not.toHaveBeenCalled();
   });
 
-  it('does not fetch a token or query Tinybird without statsConfig', () => {
+  it('does not fetch a token or query Tinybird without statsConfig', async () => {
     const { result } = renderQuery({ statsConfig: undefined });
 
     expect(mockUseTinybirdToken).toHaveBeenCalledWith({ enabled: false });
     expect(fetchMock).not.toHaveBeenCalled();
-    expect(result.current).toEqual({ data: null, meta: null, loading: false, error: null });
+    expect(result.current).toMatchObject({ data: null, meta: null, loading: false, error: null });
+    await result.current.refetch();
+    expect(fetchMock).not.toHaveBeenCalled();
   });
 
-  it('noops when the web analytics kill-switch is off', () => {
+  it('noops when the web analytics kill-switch is off', async () => {
     mockUseWebAnalyticsEnabled.mockReturnValue(false);
 
     const { result } = renderQuery();
 
     expect(mockUseTinybirdToken).toHaveBeenCalledWith({ enabled: false });
     expect(fetchMock).not.toHaveBeenCalled();
-    expect(result.current).toEqual({ data: null, meta: null, loading: false, error: null });
+    expect(result.current).toMatchObject({ data: null, meta: null, loading: false, error: null });
+    await result.current.refetch();
+    expect(fetchMock).not.toHaveBeenCalled();
   });
 
   it('keeps the cached result when the token rotates', async () => {
