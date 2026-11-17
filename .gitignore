@@ -222,3 +222,13 @@ yalc.lock
 .github/instructions/nx.instructions.md
 
 .nx/migrate-runs
+
+# Preserve only the reviewed KPI archive; keep raw exports and scratch files ignored.
+!/ai/
+/ai/*
+!/ai/traffic-analytics/
+/ai/traffic-analytics/*
+!/ai/traffic-analytics/README.md
+!/ai/traffic-analytics/ARTIFACT-PRESERVATION.md
+!/ai/traffic-analytics/artifact-manifest.json
+!/ai/traffic-analytics/benchmark-artifacts.tar.gz
