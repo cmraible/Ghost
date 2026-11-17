@@ -218,11 +218,12 @@ export type AutomationsRepository = {
     actionId: string,
   ): Promise<AutomationActionLink[] | null>;
   edit(id: string, data: EditAutomationData): Promise<Automation | null>;
+  /** Returns the number of runs created, after the transaction commits. */
   trigger(options: {
     memberEmail: string;
     memberId: string;
     memberStatus: 'free' | 'paid';
-  }): Promise<void>;
+  }): Promise<number>;
   /**
    * Select the steps we want to run and return the next time any remaining
    * pending step should be polled, if any.

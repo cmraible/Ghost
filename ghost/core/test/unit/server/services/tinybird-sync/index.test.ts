@@ -74,7 +74,102 @@ describe('createTinybirdSyncService', () => {
   });
 
   afterEach(async () => {
+    vi.useRealTimers();
     await Promise.all(databases.map((database) => database.destroy()));
+  });
+
+  describe('automation run sync requests', () => {
+    beforeEach(() => {
+      vi.useFakeTimers();
+      vi.setSystemTime(new Date('2026-03-01T12:00:00.000Z'));
+    });
+
+    it('waits past the safety lag and only enqueues background work', async () => {
+      const fetch = vi.fn();
+      const jobs = { dispatch: vi.fn().mockResolvedValue(undefined) };
+      const { service } = createService({ now: () => new Date(), fetch });
+
+      service.requestSync(jobs);
+      await vi.advanceTimersByTimeAsync(60_000);
+      assert.equal(jobs.dispatch.mock.calls.length, 0);
+      await vi.advanceTimersByTimeAsync(1000);
+      assert.ok(jobs.dispatch.mock.calls[0][0] instanceof TinybirdSyncJob);
+      assert.equal(jobs.dispatch.mock.calls.length, 1);
+      assert.equal(fetch.mock.calls.length, 0);
+    });
+
+    it('makes signup rows eligible for the queued sync at a second boundary', async () => {
+      const database = await createEmptyDatabase();
+      const createdAt = toDatabaseDate(new Date());
+      await database('automation_runs').insert({
+        id: 'new-run',
+        automation_id: 'automation-id',
+        created_at: createdAt,
+        updated_at: createdAt,
+      });
+      const fetch = vi.fn().mockResolvedValue({ ok: true });
+      const { service } = createService({ knex: database, now: () => new Date(), fetch });
+      const jobs = { dispatch: vi.fn().mockResolvedValue(undefined) };
+
+      service.requestSync(jobs);
+      await vi.advanceTimersByTimeAsync(61_000);
+      assert.equal(jobs.dispatch.mock.calls.length, 1);
+      await service.sync();
+      assert.equal(fetch.mock.calls.length, 1);
+      assert.equal(JSON.parse(fetch.mock.calls[0][1].body).id, 'new-run');
+    });
+
+    it('coalesces bursts without starving the first or last signup', async () => {
+      const jobs = { dispatch: vi.fn().mockResolvedValue(undefined) };
+      const { service } = createService({ now: () => new Date() });
+      service.requestSync(jobs);
+      await vi.advanceTimersByTimeAsync(30_000);
+      service.requestSync(jobs);
+      service.requestSync(jobs);
+      await vi.advanceTimersByTimeAsync(31_000);
+      assert.equal(jobs.dispatch.mock.calls.length, 1);
+      await vi.advanceTimersByTimeAsync(30_000);
+      assert.equal(jobs.dispatch.mock.calls.length, 2);
+      assert.equal(vi.getTimerCount(), 0);
+    });
+
+    it('does not request work without the feature flag or ingest config', () => {
+      const jobs = { dispatch: vi.fn() };
+      for (const overrides of [
+        { labs: { isSet: () => false } },
+        { config: { get: () => undefined } },
+      ]) {
+        createService(overrides).service.requestSync(jobs);
+      }
+      assert.equal(vi.getTimerCount(), 0);
+      assert.equal(jobs.dispatch.mock.calls.length, 0);
+    });
+
+    it('rechecks the feature flag before dispatching', async () => {
+      const labs = { isSet: vi.fn(() => true) };
+      const jobs = { dispatch: vi.fn() };
+      const { service } = createService({ labs, now: () => new Date() });
+      service.requestSync(jobs);
+      labs.isSet.mockReturnValue(false);
+      await vi.advanceTimersByTimeAsync(61_000);
+      assert.equal(jobs.dispatch.mock.calls.length, 0);
+    });
+
+    it('logs enqueue failures and accepts later requests', async () => {
+      const failure = new Error('queue unavailable');
+      const jobs = {
+        dispatch: vi.fn().mockRejectedValueOnce(failure).mockResolvedValue(undefined),
+      };
+      const { service, dependencies } = createService({ now: () => new Date() });
+      service.requestSync(jobs);
+      await vi.advanceTimersByTimeAsync(61_000);
+      assert.deepEqual(dependencies.logging.error.mock.calls, [
+        [failure, '[Tinybird sync] Failed to enqueue automation run sync'],
+      ]);
+      service.requestSync(jobs);
+      await vi.advanceTimersByTimeAsync(61_000);
+      assert.equal(jobs.dispatch.mock.calls.length, 2);
+    });
   });
 
   it('schedules a five-minute recurring job at a random offset', async () => {

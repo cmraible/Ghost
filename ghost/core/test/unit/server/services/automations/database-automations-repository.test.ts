@@ -1,3 +1,4 @@
+import { vi } from 'vitest';
 import assert from 'node:assert/strict';
 import { createHash } from 'node:crypto';
 import errors from '@tryghost/errors';
@@ -15,6 +16,9 @@ import type {
   AutomationTriggerTierScope,
 } from '../../../../../core/server/services/automations/automations-repository';
 import { fromDatabaseDate, toDatabaseDate } from '../../../../../core/server/lib/db-types/date';
+
+const { requestSync } = vi.hoisted(() => ({ requestSync: vi.fn() }));
+vi.mock('../../../../../core/server/services/tinybird-sync', () => ({ requestSync }));
 
 const HOUR_MS = 60 * 60 * 1000;
 const FAKE_WAIT_HOURS_MULTIPLIER = 2500;
@@ -680,6 +684,7 @@ describe('automations repository', function () {
   };
 
   beforeEach(async function () {
+    requestSync.mockReset();
     knex = await createDatabase();
     repo = createDatabaseAutomationsRepository({
       knex,
@@ -1293,11 +1298,13 @@ describe('automations repository', function () {
 
   describe('trigger', function () {
     it('can trigger an automation for a free member', async function () {
-      await repo.trigger({
+      const createdRunCount = await repo.trigger({
         memberEmail: 'free@example.com',
         memberId: 'member_123',
         memberStatus: 'free',
       });
+      assert.equal(createdRunCount, 1);
+      assert.equal(requestSync.mock.calls.length, 1);
 
       const runs = await getRunsByMemberEmail('free@example.com');
       const [run] = runs;
@@ -1356,11 +1363,13 @@ describe('automations repository', function () {
         triggerTierScope: 'free',
       });
 
-      await repo.trigger({
+      const createdRunCount = await repo.trigger({
         memberEmail: 'free-multiple@example.com',
         memberId: 'member_123',
         memberStatus: 'free',
       });
+      assert.equal(createdRunCount, 2);
+      assert.equal(requestSync.mock.calls.length, 1);
 
       const runs = await getRunsByMemberEmail('free-multiple@example.com');
       assert.deepEqual(runs.map((run) => run.automation_slug).sort(), [
@@ -1491,11 +1500,13 @@ describe('automations repository', function () {
         status: 'inactive',
       });
 
-      await repo.trigger({
+      const createdRunCount = await repo.trigger({
         memberEmail: 'inactive-free@example.com',
         memberId: 'member_123',
         memberStatus: 'free',
       });
+      assert.equal(createdRunCount, 0);
+      assert.equal(requestSync.mock.calls.length, 0);
 
       assert.deepEqual(await getRunsByMemberEmail('inactive-free@example.com'), []);
       assert.equal(await getRunCountByAutomationId(freeAutomation.id), 0);
@@ -1509,11 +1520,13 @@ describe('automations repository', function () {
         edges: [],
       });
 
-      await repo.trigger({
+      const createdRunCount = await repo.trigger({
         memberEmail: 'free-no-actions@example.com',
         memberId: 'member_123',
         memberStatus: 'free',
       });
+      assert.equal(createdRunCount, 0);
+      assert.equal(requestSync.mock.calls.length, 0);
 
       assert.deepEqual(await getRunsByMemberEmail('free-no-actions@example.com'), []);
       assert.equal(await getRunCountByAutomationId(freeAutomation.id), 0);
@@ -1568,14 +1581,56 @@ describe('automations repository', function () {
       };
       const automation = await getAutomationBySlug('member-welcome-email-free');
 
-      await repo.trigger(options);
-      await repo.trigger({ ...options, memberEmail: 'changed@example.com' });
+      assert.equal(await repo.trigger(options), 1);
+      assert.equal(requestSync.mock.calls.length, 1);
+      requestSync.mockClear();
+      assert.equal(await repo.trigger({ ...options, memberEmail: 'changed@example.com' }), 0);
+      assert.equal(requestSync.mock.calls.length, 0);
 
       assert.equal(await getRunCountByAutomationId(automation.id), 1);
       const runs = await knex('automation_runs').where('member_id', options.memberId);
       assert.equal(runs[0].member_email, options.memberEmail);
       const steps = await knex('automation_run_steps').where('automation_run_id', runs[0].id);
       assert.equal(steps.length, 1);
+    });
+
+    it('rejects and rolls back created runs if inserting their steps fails', async function () {
+      await knex.raw(`
+        CREATE TRIGGER reject_run_step BEFORE INSERT ON automation_run_steps
+        BEGIN SELECT RAISE(ABORT, 'step insert failed'); END
+      `);
+
+      await assert.rejects(
+        repo.trigger({
+          memberEmail: 'free@example.com',
+          memberId: 'member_123',
+          memberStatus: 'free',
+        }),
+        /step insert failed/,
+      );
+
+      assert.equal(requestSync.mock.calls.length, 0);
+      assert.deepEqual(await knex('automation_runs'), []);
+      assert.deepEqual(await knex('automation_run_steps'), []);
+    });
+
+    it('requests sync after COMMIT when creating runs directly without a signup event', async function () {
+      const queries: string[] = [];
+      knex.on('query', ({ sql }: { sql: string }) => {
+        queries.push(sql);
+      });
+      requestSync.mockImplementation(() => {
+        assert.match(queries.at(-1) ?? '', /^COMMIT;?$/i);
+      });
+
+      await repo.trigger({
+        memberEmail: 'direct@example.com',
+        memberId: 'member_123',
+        memberStatus: 'paid',
+      });
+
+      assert.equal(requestSync.mock.calls.length, 1);
+      assert.equal((await getRunsByMemberEmail('direct@example.com')).length, 1);
     });
 
     it('members can still enter different automations', async function () {

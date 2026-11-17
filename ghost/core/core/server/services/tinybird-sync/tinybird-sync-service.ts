@@ -5,7 +5,11 @@ import {
   type GetIngestConfigDependencies,
   type IngestConfig,
 } from './get-ingest-config';
-import { AUTOMATION_SYNC_TARGETS, syncTableToTinybird } from './sync-table-to-tinybird';
+import {
+  AUTOMATION_SYNC_TARGETS,
+  SAFETY_LAG_MS,
+  syncTableToTinybird,
+} from './sync-table-to-tinybird';
 import TinybirdSyncJob from './jobs/tinybird-sync-job';
 import type { JobsService } from '../jobs-service/jobs-service';
 import { randomFiveMinuteCron } from '../jobs-service/cron';
@@ -48,6 +52,46 @@ export function createTinybirdSyncService({
   createId,
 }: TinybirdSyncDependencies) {
   let scheduled = false;
+  let requestedAt = 0;
+  let syncTimer: ReturnType<typeof setTimeout> | undefined;
+
+  const requestSync = (jobsService: Pick<JobsService, 'dispatch'>): void => {
+    if (!labs.isSet('automationsTinybirdSync') || !getIngestConfig({ config, settingsCache })) {
+      return;
+    }
+
+    requestedAt = now().getTime();
+    if (syncTimer) {
+      return;
+    }
+
+    const schedule = (at: number): void => {
+      // The cutoff is exclusive. Wait until these committed rows are older than
+      // the watermark safety lag. Database cutoffs have second precision.
+      // Do not postpone earlier requests in a burst.
+      syncTimer = setTimeout(
+        () => {
+          syncTimer = undefined;
+          if (requestedAt > at) {
+            schedule(requestedAt);
+          }
+          if (
+            !labs.isSet('automationsTinybirdSync') ||
+            !getIngestConfig({ config, settingsCache })
+          ) {
+            return;
+          }
+          void jobsService.dispatch(new TinybirdSyncJob()).catch((error: unknown) => {
+            logging.error(error, '[Tinybird sync] Failed to enqueue automation run sync');
+          });
+        },
+        Math.max(0, at + SAFETY_LAG_MS + 1000 - now().getTime()),
+      );
+      syncTimer.unref();
+    };
+
+    schedule(requestedAt);
+  };
 
   const syncAll = async (ingest: IngestConfig): Promise<void> => {
     const results = await Promise.allSettled(
@@ -123,5 +167,5 @@ export function createTinybirdSyncService({
     }
   };
 
-  return { scheduleJob, sync };
+  return { scheduleJob, sync, requestSync };
 }

@@ -1,3 +1,4 @@
+import { requestSync } from '../tinybird-sync';
 import errors from '@tryghost/errors';
 import { z } from 'zod';
 import { AUTOMATION_STEP_TERMINAL_STATUSES } from './automations-repository';
@@ -402,13 +403,19 @@ export function createDatabaseAutomationsRepository({
       memberEmail: string;
       memberId: string;
       memberStatus: 'free' | 'paid';
-    }): Promise<void> {
-      return await knex.transaction((trx) =>
+    }): Promise<number> {
+      const createdRunCount = await knex.transaction((trx) =>
         trigger(trx, {
           ...options,
           fakeWaitHoursMultiplier,
         }),
       );
+      // Keep this at the committed run-creation boundary, independent of the
+      // event that initiated the run. Never notify for rolled-back or empty batches.
+      if (createdRunCount > 0) {
+        requestSync();
+      }
+      return createdRunCount;
     },
 
     async fetchAndLockSteps(limit: number): Promise<{
@@ -917,7 +924,7 @@ async function trigger(
     memberStatus: 'free' | 'paid';
     fakeWaitHoursMultiplier: number | null;
   }>,
-): Promise<void> {
+): Promise<number> {
   const { memberEmail, memberId, memberStatus, fakeWaitHoursMultiplier } = options;
 
   await lockMemberForTriggering(trx, memberId);
@@ -969,6 +976,7 @@ async function trigger(
       trx('automation_run_steps').insert(stepsToInsert),
     ]);
   }
+  return runsToInsert.length;
 }
 
 async function insertRunStep(

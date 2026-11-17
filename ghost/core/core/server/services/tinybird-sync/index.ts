@@ -1,3 +1,4 @@
+import { getInstance } from '../jobs-service';
 import ObjectId from 'bson-objectid';
 import logging from '@tryghost/logging';
 import config from '../../../shared/config';
@@ -22,3 +23,8 @@ const service = createTinybirdSyncService({
 
 export const scheduleJob = service.scheduleJob;
 export const sync = service.sync;
+
+export const requestSync = (): void =>
+  service.requestSync({
+    dispatch: async (job) => getInstance().dispatch(job),
+  });

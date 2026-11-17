@@ -10,7 +10,12 @@ import {
   NON_EMPTY_EMAIL_LEXICAL,
 } from '../../../../utils/automations-fixtures';
 
-const { repositoryEdit } = vi.hoisted(() => ({ repositoryEdit: vi.fn() }));
+const { repositoryEdit, repositoryTrigger } = vi.hoisted(() => ({
+  repositoryEdit: vi.fn(),
+  repositoryTrigger: vi.fn(),
+}));
+const domainEvents = require('@tryghost/domain-events');
+const labs = require('../../../../../core/shared/labs');
 
 vi.mock(
   '../../../../../core/server/services/automations/database-automations-repository',
@@ -24,6 +29,7 @@ vi.mock(
       createDatabaseAutomationsRepository: vi.fn((options) => ({
         ...actual.createDatabaseAutomationsRepository(options),
         edit: repositoryEdit,
+        trigger: repositoryTrigger,
         getNumberOfAutomations: vi.fn().mockResolvedValue(20),
       })),
     };
@@ -56,6 +62,55 @@ describe('automations API', function () {
   afterEach(function () {
     sinon.restore();
     repositoryEdit.mockReset();
+    repositoryTrigger.mockReset();
+  });
+
+  describe('trigger', () => {
+    let dispatch: sinon.SinonStub;
+    let isSet: sinon.SinonStub;
+    beforeEach(() => {
+      dispatch = sinon.stub(domainEvents, 'dispatch');
+      isSet = sinon.stub(labs, 'isSet').returns(true);
+    });
+    const options = {
+      event: 'member_sign_up' as const,
+      memberId: 'member-id',
+      memberEmail: 'member@example.com',
+      memberStatus: 'free' as const,
+    };
+
+    it('requests polling only after the runs have committed', async () => {
+      let commit!: (createdRunCount: number) => void;
+      repositoryTrigger.mockReturnValue(
+        new Promise<number>((resolve) => {
+          commit = resolve;
+        }),
+      );
+      const triggering = automationsApi.trigger(options);
+      assert.equal(dispatch.callCount, 0);
+      commit(1);
+      await triggering;
+      assert.deepEqual(repositoryTrigger.mock.calls, [[options]]);
+      assert.equal(dispatch.callCount, 1);
+    });
+
+    it('preserves polling when no runs were created', async () => {
+      repositoryTrigger.mockResolvedValue(0);
+      await automationsApi.trigger(options);
+      assert.equal(dispatch.callCount, 1);
+    });
+
+    it('does not request polling after a failed transaction', async () => {
+      repositoryTrigger.mockRejectedValue(new Error('transaction failed'));
+      await assert.rejects(automationsApi.trigger(options), /transaction failed/);
+      assert.equal(dispatch.callCount, 0);
+    });
+
+    it('does not trigger when automations are disabled', async () => {
+      isSet.returns(false);
+      await automationsApi.trigger(options);
+      assert.equal(repositoryTrigger.mock.calls.length, 0);
+    });
   });
 
   describe('getNumberOfAutomations', function () {
