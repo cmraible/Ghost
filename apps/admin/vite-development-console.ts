@@ -2,7 +2,10 @@ import {spawn} from 'node:child_process';
 import type {ServerResponse} from 'node:http';
 import type {Plugin} from 'vite';
 
-const LOG_STREAM_PATH = '/__admin-dev__/development-console/logs';
+const DEVELOPMENT_CONSOLE_PATH = '/__admin-dev__/development-console';
+const FRONTEND_ENTRY_PATH = `${DEVELOPMENT_CONSOLE_PATH}/frontend.js`;
+const FRONTEND_SOURCE_PATH = '/src/development-console/frontend.tsx';
+const LOG_STREAM_PATH = `${DEVELOPMENT_CONSOLE_PATH}/logs`;
 const ANSI_ESCAPE_SEQUENCE = new RegExp(`${String.fromCharCode(27)}(?:[@-Z\\\\-_]|\\[[0-?]*[ -/]*[@-~])`, 'g');
 
 function writeEvent(response: ServerResponse, event: string, data: unknown) {
@@ -96,16 +99,46 @@ function handleLogStream(response: ServerResponse) {
     response.once('close', close);
 }
 
+function handleFrontendEntry(response: ServerResponse, viteBase: string) {
+    const refreshRuntimeUrl = JSON.stringify(`${viteBase}/@react-refresh`);
+    const viteClientUrl = JSON.stringify(`${viteBase}/@vite/client`);
+    const sourceUrl = JSON.stringify(`${viteBase}${FRONTEND_SOURCE_PATH}`);
+
+    response.writeHead(200, {
+        'Cache-Control': 'no-cache',
+        'Content-Type': 'text/javascript'
+    });
+    response.end([
+        `import RefreshRuntime from ${refreshRuntimeUrl};`,
+        `import ${viteClientUrl};`,
+        'RefreshRuntime.injectIntoGlobalHook(window);',
+        'window.$RefreshReg$ = () => {};',
+        'window.$RefreshSig$ = () => type => type;',
+        'window.__vite_plugin_react_preamble_installed__ = true;',
+        `void import(${sourceUrl});`
+    ].join('\n'));
+}
+
 export function developmentConsolePlugin(): Plugin {
     return {
         name: 'ghost-development-console',
         apply: 'serve',
         configureServer(server) {
             server.middlewares.use((request, response, next) => {
-                const pathname = request.url ? new URL(request.url, 'http://localhost').pathname : '';
-                if (pathname !== LOG_STREAM_PATH) {
-                    next();
+                const requestUrl = new URL(request.url ?? '/', 'http://localhost');
+                const developmentPathIndex = requestUrl.pathname.indexOf(DEVELOPMENT_CONSOLE_PATH);
+                if (developmentPathIndex === -1) {
+                    return next();
+                }
+
+                const developmentPath = requestUrl.pathname.slice(developmentPathIndex);
+                if (developmentPath === FRONTEND_ENTRY_PATH) {
+                    const viteBase = `${requestUrl.pathname.slice(0, developmentPathIndex)}/__admin-dev__`;
+                    handleFrontendEntry(response, viteBase);
                     return;
+                }
+                if (developmentPath !== LOG_STREAM_PATH) {
+                    return next();
                 }
 
                 handleLogStream(response);

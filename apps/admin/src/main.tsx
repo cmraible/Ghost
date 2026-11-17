@@ -27,4 +27,13 @@ const framework = {
     },
 };
 
-createRoot(document.getElementById("root")!).render(<AdminAppRoot framework={framework} />);
+async function renderAdmin() {
+    if (import.meta.env.DEV) {
+        const {installApiRequestTracker} = await import('./development-console/api-request-tracker');
+        installApiRequestTracker();
+    }
+
+    createRoot(document.getElementById("root")!).render(<AdminAppRoot framework={framework} />);
+}
+
+void renderAdmin();

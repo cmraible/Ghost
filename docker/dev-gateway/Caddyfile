@@ -155,8 +155,10 @@
 
 	# Vite dev server lives under its own prefix so its internals
 	# (HMR client, module graph, refresh runtime) don't collide with the
-	# /ghost/* paths Ghost serves in production. Handles HMR WebSocket upgrade.
-	handle /__admin-dev__* {
+	# /ghost/* paths Ghost serves in production. The regexp also supports
+	# Ghost installations running from a subdirectory.
+	@admin_dev path_regexp admin_dev ^(?:/.+)?/__admin-dev__(?:/.*)?$
+	handle @admin_dev {
 		reverse_proxy {env.ADMIN_DEV_SERVER} {
 			header_up Connection {>Connection}
 			header_up Upgrade {>Upgrade}

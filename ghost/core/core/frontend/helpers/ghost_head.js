@@ -202,6 +202,16 @@ function getAdminToolbarHelper(dataRoot, siteTitle, excludeList) {
     return `<script defer src="${scriptUrl}" ${dataAttrs} crossorigin="anonymous"></script>`;
 }
 
+function getDevelopmentConsoleHelper() {
+    if (config.get('env') !== 'development') {
+        return '';
+    }
+
+    const subdir = urlUtils.getSubdir();
+    const scriptUrl = `${subdir}/__admin-dev__/development-console/frontend.js`;
+    return `<script type="module" src="${escapeExpression(scriptUrl)}" data-ghost-development-console data-ghost-subdir="${escapeExpression(subdir)}"></script>`;
+}
+
 function getWebmentionDiscoveryLink() {
     try {
         const siteUrl = urlUtils.getSiteUrl();
@@ -377,6 +387,10 @@ module.exports = async function ghost_head(options) { // eslint-disable-line cam
         if (adminToolbarHelper) {
             head.push(adminToolbarHelper);
         }
+        const developmentConsoleHelper = getDevelopmentConsoleHelper();
+        if (developmentConsoleHelper) {
+            head.push(developmentConsoleHelper);
+        }
         try {
             head.push(getWebmentionDiscoveryLink());
         } catch (err) {
@@ -471,3 +485,4 @@ module.exports.async = true;
 
 // Exported for unit testing.
 module.exports.escapeJsonLd = escapeJsonLd;
+module.exports.getDevelopmentConsoleHelper = getDevelopmentConsoleHelper;

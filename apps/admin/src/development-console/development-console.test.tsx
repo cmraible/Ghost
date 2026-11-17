@@ -1,5 +1,6 @@
 import {act, fireEvent, render, screen, within} from '@testing-library/react';
 import {afterEach, beforeEach, describe, expect, it, vi} from 'vitest';
+import {API_REQUESTS_EVENT, clearApiRequests} from './api-request-tracker';
 import {DevelopmentConsole} from './development-console';
 import {developmentConsoleUrl} from './development-console-url';
 
@@ -36,6 +37,7 @@ class EventSourceMock extends EventTarget {
 describe('DevelopmentConsole', () => {
     beforeEach(() => {
         vi.stubGlobal('EventSource', EventSourceMock);
+        clearApiRequests();
     });
 
     afterEach(() => {
@@ -94,20 +96,55 @@ describe('DevelopmentConsole', () => {
         expect(drawer).toHaveStyle({height: `${initialHeight + 100}px`});
     });
 
-    it('switches between the Logs tab and an empty API tab', () => {
+    it('switches between the Logs and API tabs', () => {
         render(<DevelopmentConsole />);
         fireEvent.click(screen.getByRole('button', {name: /console/i}));
 
         const logsTab = screen.getByRole('tab', {name: /Logs/});
-        const apiTab = screen.getByRole('tab', {name: 'API'});
+        const apiTab = screen.getByRole('tab', {name: /API/});
         expect(logsTab).toHaveAttribute('aria-selected', 'true');
         expect(screen.getByText('Waiting for Ghost server logs…')).toBeVisible();
 
         fireEvent.mouseDown(apiTab, {button: 0, ctrlKey: false});
 
         expect(apiTab).toHaveAttribute('aria-selected', 'true');
-        expect(screen.getByRole('tabpanel')).toBeEmptyDOMElement();
+        expect(screen.getByText('No API requests captured yet.')).toBeInTheDocument();
         expect(screen.queryByRole('button', {name: 'Clear logs'})).not.toBeInTheDocument();
+    });
+
+    it('shows captured API request timing and status information', () => {
+        render(<DevelopmentConsole />);
+        fireEvent.click(screen.getByRole('button', {name: /console/i}));
+
+        act(() => {
+            window.dispatchEvent(new CustomEvent(API_REQUESTS_EVENT, {
+                detail: [{
+                    durationMs: 42,
+                    id: 1,
+                    method: 'GET',
+                    path: '/ghost/api/admin/posts/?limit=5',
+                    requestBody: '{\n  "filter": "status:published"\n}',
+                    responseBody: '{\n  "posts": []\n}',
+                    responseSize: 1024,
+                    startedAt: new Date('2026-07-28T12:34:56').valueOf(),
+                    status: 200
+                }]
+            }));
+        });
+        fireEvent.mouseDown(screen.getByRole('tab', {name: /API/}), {button: 0, ctrlKey: false});
+
+        expect(screen.getByText('/ghost/api/admin/posts/?limit=5')).toBeVisible();
+        expect(screen.getByText('GET')).toBeVisible();
+        expect(screen.getByText('200')).toBeVisible();
+        expect(screen.getByText('42 ms')).toBeVisible();
+        expect(screen.getByText('1,024 B')).toBeVisible();
+
+        fireEvent.click(screen.getByText('/ghost/api/admin/posts/?limit=5'));
+
+        expect(screen.getByText('Request body')).toBeVisible();
+        expect(screen.getByText('Response')).toBeVisible();
+        expect(screen.getByText(/"filter": "status:published"/)).toBeVisible();
+        expect(screen.getByText(/"posts": \[\]/)).toBeVisible();
     });
 
     it('shows reconnecting state after a transient error and recovers when reopened', () => {

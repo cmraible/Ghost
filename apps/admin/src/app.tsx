@@ -22,11 +22,6 @@ function App() {
                         <Outlet />
                         <EmberRoot />
                     </AdminLayout>
-                    {DevelopmentConsole && (
-                        <Suspense>
-                            <DevelopmentConsole />
-                        </Suspense>
-                    )}
                 </>
                 :
                 <>
@@ -34,6 +29,11 @@ function App() {
                     <EmberRoot />
                 </>
             }
+            {DevelopmentConsole && (
+                <Suspense>
+                    <DevelopmentConsole />
+                </Suspense>
+            )}
         </EmberProvider>
     );
 }

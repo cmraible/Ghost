@@ -1,7 +1,8 @@
 import {type KeyboardEvent, type PointerEvent as ReactPointerEvent, useEffect, useRef, useState} from 'react';
-import {Button, Tabs, TabsContent, TabsList, TabsTrigger, TabsTriggerCount} from '@tryghost/shade/components';
-import {Box, Inline, Stack, Text} from '@tryghost/shade/primitives';
+import {Button, Table, TableBody, TableCell, TableHead, TableHeader, TableRow, Tabs, TabsContent, TabsList, TabsTrigger, TabsTriggerCount} from '@tryghost/shade/components';
+import {Box, Grid, Inline, Stack, Text} from '@tryghost/shade/primitives';
 import {formatNumber, LucideIcon} from '@tryghost/shade/utils';
+import {type ApiRequest, clearApiRequests, getApiRequests, subscribeToApiRequests} from './api-request-tracker';
 import {developmentConsoleUrl} from './development-console-url';
 
 const MAX_LOG_LINES = 1000;
@@ -39,34 +40,58 @@ function logTone(message: string) {
     return 'text-foreground';
 }
 
+function requestTimeLabel(startedAt: number) {
+    return new Date(startedAt).toLocaleTimeString([], {
+        hour: '2-digit',
+        hour12: false,
+        minute: '2-digit',
+        second: '2-digit'
+    });
+}
+
+function requestStatusTone(status: number | null) {
+    if (status === null || status >= 500) {
+        return 'text-destructive';
+    }
+    if (status >= 400) {
+        return 'text-orange';
+    }
+    if (status >= 300) {
+        return 'text-muted-foreground';
+    }
+    return 'text-green';
+}
+
 export function DevelopmentConsole() {
     const [activeTab, setActiveTab] = useState<ConsoleTab>('logs');
+    const [apiRequests, setApiRequests] = useState<ApiRequest[]>(getApiRequests);
     const [connectionState, setConnectionState] = useState<ConnectionState>('connecting');
     const [consoleHeight, setConsoleHeight] = useState(() => clampConsoleHeight(window.innerHeight * 0.4));
     const [isFollowing, setIsFollowing] = useState(true);
     const [isOpen, setIsOpen] = useState(false);
     const [lines, setLines] = useState<LogLine[]>([]);
-    const lineId = useRef(0);
+    const [selectedRequestId, setSelectedRequestId] = useState<number | null>(null);
     const resizeStart = useRef<{height: number; y: number} | null>(null);
     const scrollContainer = useRef<HTMLDivElement>(null);
 
     useEffect(() => {
         const source = new EventSource(developmentConsoleUrl(import.meta.env.BASE_URL));
 
+        const appendLine = (message: string) => {
+            setLines(current => {
+                const id = (current.at(-1)?.id ?? 0) + 1;
+                return [...current, {id, message}].slice(-MAX_LOG_LINES);
+            });
+        };
         const handleLog = (event: MessageEvent<string>) => {
             const line = JSON.parse(event.data) as Omit<LogLine, 'id'>;
-            lineId.current += 1;
-            setLines(current => [...current, {...line, id: lineId.current}].slice(-MAX_LOG_LINES));
+            appendLine(line.message);
         };
         const handleStatus = (event: MessageEvent<string>) => {
             const status = JSON.parse(event.data) as StatusEvent;
             setConnectionState(status.state);
             if (status.message) {
-                lineId.current += 1;
-                setLines(current => [...current, {
-                    id: lineId.current,
-                    message: status.message ?? ''
-                }].slice(-MAX_LOG_LINES));
+                appendLine(status.message);
             }
         };
 
@@ -80,6 +105,8 @@ export function DevelopmentConsole() {
         return () => source.close();
     }, []);
 
+    useEffect(() => subscribeToApiRequests(setApiRequests), []);
+
     useEffect(() => {
         const container = scrollContainer.current;
         if (container && activeTab === 'logs' && isOpen && isFollowing) {
@@ -89,6 +116,7 @@ export function DevelopmentConsole() {
 
     const statusLabel = connectionState === 'connected' ? 'Live' : connectionState === 'connecting' ? 'Connecting' : 'Disconnected';
     const statusTone = connectionState === 'connected' ? 'bg-green' : connectionState === 'connecting' ? 'bg-orange' : 'bg-destructive';
+    const selectedRequest = apiRequests.find(request => request.id === selectedRequestId);
 
     const handleResizeKeyDown = (event: KeyboardEvent<HTMLButtonElement>) => {
         if (event.key !== 'ArrowUp' && event.key !== 'ArrowDown') {
@@ -165,7 +193,10 @@ export function DevelopmentConsole() {
                                     Logs
                                     <TabsTriggerCount>{formatNumber(lines.length)}</TabsTriggerCount>
                                 </TabsTrigger>
-                                <TabsTrigger value="api">API</TabsTrigger>
+                                <TabsTrigger value="api">
+                                    API
+                                    <TabsTriggerCount>{formatNumber(apiRequests.length)}</TabsTriggerCount>
+                                </TabsTrigger>
                             </TabsList>
                             {activeTab === 'logs' && (
                                 <Inline align="center" gap="xs">
@@ -189,6 +220,20 @@ export function DevelopmentConsole() {
                                     </Button>
                                 </Inline>
                             )}
+                            {activeTab === 'api' && (
+                                <Button
+                                    aria-label="Clear API requests"
+                                    size="sm"
+                                    variant="ghost"
+                                    onClick={() => {
+                                        setSelectedRequestId(null);
+                                        clearApiRequests();
+                                    }}
+                                >
+                                    <LucideIcon.Trash2 />
+                                    Clear
+                                </Button>
+                            )}
                         </Inline>
                         <TabsContent className="min-h-0 flex-1 overflow-hidden data-[state=active]:flex" value="logs">
                             <Box
@@ -211,7 +256,87 @@ export function DevelopmentConsole() {
                                 )}
                             </Box>
                         </TabsContent>
-                        <TabsContent className="min-h-0 flex-1 bg-background" value="api" />
+                        <TabsContent className="min-h-0 flex-1 flex-col overflow-hidden bg-background" value="api">
+                            {apiRequests.length === 0 ? (
+                                <Box padding="md">
+                                    <Text size="sm" tone="secondary">No API requests captured yet.</Text>
+                                </Box>
+                            ) : (
+                                <>
+                                    <Box className="min-h-0 flex-1 overflow-auto">
+                                        <Table className="font-mono text-sm">
+                                            <TableHeader className="sticky top-0 z-10 bg-surface-elevated">
+                                                <TableRow>
+                                                    <TableHead className="w-24">Time</TableHead>
+                                                    <TableHead className="w-20">Method</TableHead>
+                                                    <TableHead>Request</TableHead>
+                                                    <TableHead className="w-20 text-right">Status</TableHead>
+                                                    <TableHead className="w-24 text-right">Duration</TableHead>
+                                                    <TableHead className="w-24 text-right">Size</TableHead>
+                                                </TableRow>
+                                            </TableHeader>
+                                            <TableBody>
+                                                {apiRequests.map(request => (
+                                                    <TableRow
+                                                        aria-label={`${request.method} ${request.path}`}
+                                                        aria-selected={request.id === selectedRequestId}
+                                                        className="cursor-pointer focus-visible:ring-1 focus-visible:ring-focus-ring focus-visible:outline-hidden focus-visible:ring-inset"
+                                                        data-state={request.id === selectedRequestId ? 'selected' : undefined}
+                                                        key={request.id}
+                                                        tabIndex={0}
+                                                        onClick={() => setSelectedRequestId(request.id)}
+                                                        onKeyDown={(event) => {
+                                                            if (event.key === 'Enter' || event.key === ' ') {
+                                                                event.preventDefault();
+                                                                setSelectedRequestId(request.id);
+                                                            }
+                                                        }}
+                                                    >
+                                                        <TableCell className="py-1.5 text-muted-foreground">{requestTimeLabel(request.startedAt)}</TableCell>
+                                                        <TableCell className="py-1.5 font-semibold">{request.method}</TableCell>
+                                                        <TableCell className="max-w-0 truncate py-1.5" title={request.path}>{request.path}</TableCell>
+                                                        <TableCell className={`py-1.5 text-right font-semibold ${requestStatusTone(request.status)}`}>
+                                                            {request.status === null ? 'Error' : formatNumber(request.status)}
+                                                        </TableCell>
+                                                        <TableCell className="py-1.5 text-right">{formatNumber(Math.round(request.durationMs))} ms</TableCell>
+                                                        <TableCell className="py-1.5 text-right text-muted-foreground">
+                                                            {request.responseSize === null ? '—' : `${formatNumber(request.responseSize)} B`}
+                                                        </TableCell>
+                                                    </TableRow>
+                                                ))}
+                                            </TableBody>
+                                        </Table>
+                                    </Box>
+                                    {selectedRequest && (
+                                        <Box className="max-h-[55%] shrink-0 overflow-auto border-t border-border-default bg-surface-elevated">
+                                            <Inline align="center" justify="between" className="sticky top-0 border-b border-border-default bg-surface-elevated px-3 py-2">
+                                                <Inline align="center" gap="sm" className="min-w-0 font-mono">
+                                                    <Text size="sm" weight="semibold">{selectedRequest.method}</Text>
+                                                    <Text className="truncate" size="sm" title={selectedRequest.path}>{selectedRequest.path}</Text>
+                                                </Inline>
+                                                <Button aria-label="Close API request details" className="size-7" size="icon" variant="ghost" onClick={() => setSelectedRequestId(null)}>
+                                                    <LucideIcon.X />
+                                                </Button>
+                                            </Inline>
+                                            <Grid columns={2} gap="none">
+                                                <Stack gap="sm" className="min-w-0 border-r border-border-default p-3">
+                                                    <Text size="sm" tone="secondary" weight="semibold">Request body</Text>
+                                                    <pre className="overflow-auto font-mono text-sm break-all whitespace-pre-wrap">
+                                                        {selectedRequest.requestBody ?? 'No request body'}
+                                                    </pre>
+                                                </Stack>
+                                                <Stack gap="sm" className="min-w-0 p-3">
+                                                    <Text size="sm" tone="secondary" weight="semibold">Response</Text>
+                                                    <pre className="overflow-auto font-mono text-sm break-all whitespace-pre-wrap">
+                                                        {selectedRequest.responseBody ?? 'No response body'}
+                                                    </pre>
+                                                </Stack>
+                                            </Grid>
+                                        </Box>
+                                    )}
+                                </>
+                            )}
+                        </TabsContent>
                     </Tabs>
                 </Stack>
             )}

@@ -427,6 +427,23 @@ describe('{{ghost_head}} helper', function () {
         await configUtils.restore();
     });
 
+    describe('development console', function () {
+        it('injects the frontend entry only in development', function () {
+            configUtils.set({
+                env: 'development',
+                url: 'http://localhost:65530/site'
+            });
+
+            assert.equal(
+                ghost_head.getDevelopmentConsoleHelper(),
+                '<script type="module" src="/site/__admin-dev__/development-console/frontend.js" data-ghost-development-console data-ghost-subdir="/site"></script>'
+            );
+
+            configUtils.set('env', 'production');
+            assert.equal(ghost_head.getDevelopmentConsoleHelper(), '');
+        });
+    });
+
     describe('without Code Injection', function () {
         let loggingErrorStub; // assert # of calls if test throws errors, do not globally stub
 
